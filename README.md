@@ -1,103 +1,125 @@
 # BrightKidCo — Email Marketing Project
 
+Email marketing system for Giuliano's kids ecommerce brand. Copy complete, HTML iterations rejected, pivoted to email-service-delivery-system.
+
 ## Client
 
 - **Name:** Giuliano
 - **Brand:** brightkidco.com
 - **Niche:** Kids brand (ecommerce)
 - **Location:** Germany
-- **Notes:** German — expects precision, data-backed strategy, professional delivery. Provided 54+ strategy documents + email prototypes. Business partner is final decision-maker.
+- **Notes:** German — expects precision, data-backed strategy, professional delivery. Business partner is final decision-maker.
 
-## Project Status
-
-| Phase | Status |
-|-------|--------|
-| Source Ingestion & Synthesis (32 docs) | ✅ Complete |
-| Strategy Documents (8 docs, 793KB) | ✅ Complete |
-| Email Copy + Creative Strategy (10 waves, 124 files, ~2.2MB) | ✅ Complete |
-| **Email HTML (124 files)** | **✅ Complete** |
-| **Showcase Site (2,589 sections)** | **🔄 Running (~330/2589, 13%)** |
-
-### Pipeline
+## What Happened
 
 ```
-Copy/Creative (124 files ✅) → Email HTML (124/124 ✅) → Showcase Site (330/2589 🔄)
+PHASE 1: Source Ingestion (54+ docs)           ✅ Done
+PHASE 2: Strategy Docs (8 docs, 793KB)        ✅ Done
+PHASE 3: Email Copy + Creative (124 files)     ✅ Done
+PHASE 4: Email HTML (multiple attempts)        ❌ Rejected — Giuliano didn't like any version
+PHASE 5: Pivot to Email Service Delivery       ✅ Started — build proper design system first
 ```
+
+**The problem:** We tried to produce 124 HTML emails directly. Made multiple versions.
+None of them impressed Giuliano. The approach was wrong — building emails one by one
+without a proper design system underneath.
+
+**The solution:** Start the Email Service Delivery System (`ecom-email-service-delivery-system`).
+Build 300 universal templates, 120 base section patterns, token-swappable design system.
+Then come back to BrightKidCo with a system that produces premium emails every time.
 
 ## Project Structure
 
 ```
 brightkidco/
-├── README.md              ← This file
-├── compile-jsx.mjs        ← JSX → HTML compiler (esbuild + React)
-├── generate-task.py       ← Task body generator for Ralph
-├── plans/                 ← Execution plans
-│   ├── email-jsx-production.md    (40KB — 9 waves, 124 tasks)
-│   └── email-html-production.md   (24KB — conversion rules)
+├── README.md                      This file
+├── compile-jsx.mjs                JSX → HTML compiler (esbuild + React)
+├── generate-task.py               Task body generator for Ralph
+│
+├── plans/                         Execution plans
+│   ├── email-jsx-production.md    40KB — 9 waves, 124 tasks
+│   └── email-html-production.md   24KB — conversion rules
+│
 ├── outputs/
-│   ├── copy/              ← 124 email copy + creative strategy files
-│   ├── jsx/               ← 124 compiled JSX components
-│   ├── html/              ← 124 production HTML email files
-│   ├── html-preview/      ← Preview HTML files
-│   ├── task-bodies/       ← 124 Ralph task definitions
-│   └── strategy/          ← Email strategy docs (S1-S4) + Giuliano-facing (G1-G4)
-├── email-artifact-library.md     ← 101 reusable email components
-├── raw/                   ← Client-provided source files
-├── showcase/              ← Showcase site (2,589 sections being built)
-│   ├── PLAN.md            ← 173-wave execution plan
-│   ├── STATUS.md          ← Showcase progress tracking
-│   ├── artifact-template-library.html  ← 50+ visual templates
-│   ├── outputs/artifacts/ ← Built section artifacts (~330 done)
-│   └── src/               ← Site source
-└── scripts/               ← Utility scripts
+│   ├── copy/                      124 email copy + creative strategy files
+│   │   ├── browse/                Browse abandonment emails
+│   │   ├── cart/                  Cart abandonment emails
+│   │   ├── checkout/              Checkout abandonment emails
+│   │   ├── faq-library/           FAQ library emails
+│   │   ├── pp-at-risk/            Post-purchase at-risk emails
+│   │   ├── pp-direct-upsell/      Direct upsell emails
+│   │   ├── pp-education/          Post-purchase education emails
+│   │   ├── pp-extended-ed/        Extended education emails
+│   │   ├── pp-extended-upsell/    Extended upsell emails
+│   │   ├── pp-level-detection/    Level detection emails
+│   │   ├── pp-mary-story/         Mary story email
+│   │   ├── pp-mid-checkin/        Mid check-in emails
+│   │   ├── pp-pps-upsell/         PPS upsell emails
+│   │   ├── replenish/             Replenishment emails
+│   │   ├── review-request/        Review request emails
+│   │   ├── site-abandonment/      Site abandonment email
+│   │   ├── sunset/                Sunset emails
+│   │   ├── transactional/         Transactional emails
+│   │   ├── welcome/               Welcome flow emails
+│   │   └── winback/               Winback emails
+│   │
+│   ├── archive-html/              Previous HTML attempts (all rejected)
+│   │   ├── html/                  HTML archive
+│   │   ├── html-preview/          Preview archive
+│   │   ├── html3/                 Version 3 archive
+│   │   ├── prototypes/            Prototype archive
+│   │   └── prototypes-archive/    Older prototypes
+│   │
+│   ├── strategy/                  Strategy documents
+│   │   ├── 1-full-email-strategy.md
+│   │   ├── 2-full-email-copy-strategy.md
+│   │   ├── 3-segmentation-blueprint.md
+│   │   ├── 4-popup-strategy.md
+│   │   └── giuliano/              Client-facing docs
+│   │
+│   ├── synthesis/                 Source synthesis docs
+│   └── mission-log.md             Production log
+│
+├── showcase/                      Showcase site (queued)
+│   ├── 3-diagrams.html           Gold standard template
+│   ├── PLAN-SECTIONS.md          Section production plan
+│   ├── PLAN-ARTIFACT-PRODUCTION.md
+│   ├── FIX-PLAN.md
+│   ├── Caddyfile                  Deployment config
+│   ├── outputs/
+│   │   └── artifacts/             188 section artifacts built
+│   └── src/                       Site source
+│
+├── raw/                           Client-provided source files
+│   ├── extracted/                 Extracted JSX components
+│   ├── extracted_bkco/            BKC-specific extractions
+│   └── Welcome Flows/             Original welcome flow HTML
+│
+├── email-artifact-library.md      101 reusable email components
+└── scripts/                       Utility scripts
 ```
 
-## Deliverables
+## Brand Tokens
 
-### Email HTML (124/124 — ✅ Complete)
+```
+Primary:    #2BAEB4 (teal)
+Secondary:  #5DD07A (green)
+Dark:       #1F2D2F (ink)
+Body:       #4A6568 (soft)
+Background: #FBF7F1 (cream)
+Accent:     #FFD866 (yellow)
 
-| Flow | Files | Status |
-|------|-------|--------|
-| Welcome Flow E1-E8 (all levels) | 32 | ✅ Complete |
-| Cart Abandonment | 3 | ✅ Complete |
-| Checkout Abandonment | 2 | ✅ Complete |
-| Browse Abandonment | 3 | ✅ Complete |
-| Transactional (Order/Shipping/OFD/Arrived) | 4 | ✅ Complete |
-| PP Direct Upsell | 2 | ✅ Complete |
-| PP Level Detection | 1 | ✅ Complete |
-| PP Education (D0/D7/D14/D21) | 4 | ✅ Complete |
-| PP Extended Education | 20 | ✅ Complete |
-| PP Extended Upsell | 3 | ✅ Complete |
-| PP Mary Story | 1 | ✅ Complete |
-| PP Mid Check-In | 3 | ✅ Complete |
-| PP At-Risk | 4 | ✅ Complete |
-| Replenish A/B/C | 7 | ✅ Complete |
-| Review Request | 2 | ✅ Complete |
-| Winback Path A | 12 | ✅ Complete |
-| Winback Path B | 12 | ✅ Complete |
-| Site Abandonment | 1 | ✅ Complete |
-| FAQ Library | 6 | ✅ Complete |
-| Sunset | 2 | ✅ Complete |
+Fonts: Questrial (body) + Fraunces (display) + Caveat (handwritten)
+Sender: "Lena from BrightKidCo"
+```
 
-### Showcase Site (~330/2589 — 🔄 In Progress)
+## Quality Standard
 
-- 173 waves × 15 agents
-- ~30 hours remaining at current pace
-- Auto-transitions from email phase
+> **"Would Giuliano be impressed?"**
 
-## Orchestration
+The first round of HTML emails failed this test. That's why we pivoted —
+build the system first, then the emails will be premium every time.
 
-Ralph-loop cron fires every 2 minutes — reads STATUS.md + kanban, validates outputs, advances waves, reports to Telegram. Fully autonomous.
+## License
 
-### Provider Setup
-
-- **Ralph:** OpenGateway (`custom:Opengateway.gitlawb.com`) → fallback `opencode-go`
-- **Main AI:** opencode-go (`deepseek-v4-flash`)
-- **Key distribution:** Per the API distribution strategy (Key #2 for cron, Key #3 for agents)
-
-## Tech Stack
-
-- **JSX Compilation:** esbuild + React → static HTML email
-- **Agent Orchestration:** Ralph loop (Hermes cron + kanban)
-- **Artifact Library:** 101 reusable email visual components
-- **Showcase:** 50+ visual templates, section-by-section building
+Private. All rights reserved.
