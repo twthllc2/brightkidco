@@ -1,0 +1,64 @@
+== WINBACK B FLOW — EMAIL 3 (Day 14) — Level 2 (Lisa) Variant ==
+== Final Permission → Sunset ==
+
+== SUBJECT LINE VARIANTS ==
+1. Last email — a final thought from one researcher to another
+2. I'm going to stop emailing after this. Thank you for reading.
+3. This is my last note — here's what I'd leave you with
+
+== PREHEADER ==
+Final note from Lena — permission to go.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A NOTE · 3 OF 3
+
+One last thought.
+
+—
+
+Hi {first_name},
+
+This is my last email. I promised not to overstay my welcome, and I won't.
+
+But I want to leave you with this one truth — the one that helped me more than any method ever did:
+
+Your child isn't failing at potty training. Their nervous system processes body signals differently. That's not a character flaw. It's neurology.
+
+The Body-Signal Learning Layer™ creates the feedback loop that nature didn't wire fully. If you ever want to explore that — the 60-day guarantee means you can do it with zero risk.
+
+If not — I'm genuinely glad you read this far. You're a good parent doing a hard thing.
+
+—
+
+[CTA: Leave the door open →]
+
+—
+
+With gratitude,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. Hit reply anytime — I'll be here.
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Delay: Day 14 from E1.
+Goal: Permission → sunset if no click.
+Condition: opened E2 OR delivered E2.
+No-click after this → inactive_120_days tag → Sunset flow.
+Tags applied on send: flow_winback_b_e3_sent, ready_for_sunset.

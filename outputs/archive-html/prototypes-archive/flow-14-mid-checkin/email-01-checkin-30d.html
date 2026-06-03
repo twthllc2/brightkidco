@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>30 days in — how's it going?</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #FBF7EB;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+    }
+    table { border-collapse: collapse; }
+    .wrapper {
+      width: 100%;
+      table-layout: fixed;
+      background-color: #FBF7EB;
+    }
+    .main {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .header-bar {
+      background-color: #039902;
+      height: 6px;
+      font-size: 0;
+      line-height: 0;
+    }
+    .header {
+      background-color: #039902;
+      padding: 28px 32px 18px 32px;
+      text-align: center;
+    }
+    .header h1 {
+      color: #ffffff;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 1.3;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
+    .header .logo-text {
+      color: #DBFFCD;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin: 0 0 6px 0;
+    }
+    .content {
+      padding: 36px 32px 28px 32px;
+      background-color: #ffffff;
+    }
+    .content p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #333333;
+      margin: 0 0 18px 0;
+    }
+    .content .greeting {
+      font-size: 17px;
+      color: #039902;
+      margin-bottom: 16px;
+    }
+    .story-block {
+      background-color: #FBF7EB;
+      border-radius: 10px;
+      padding: 24px 24px 18px 24px;
+      margin: 20px 0 20px 0;
+    }
+    .story-block p {
+      font-size: 15px;
+      line-height: 1.7;
+      color: #444444;
+      margin: 0 0 14px 0;
+    }
+    .story-block .story-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #9AA8A7;
+      margin-bottom: 8px;
+    }
+    .highlight-box {
+      background-color: #DBFFCD;
+      border-radius: 10px;
+      padding: 22px 24px;
+      margin: 20px 0 20px 0;
+      text-align: center;
+    }
+    .highlight-box p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: #333333;
+      margin: 0;
+    }
+    .highlight-box .highlight-label {
+      font-size: 13px;
+      color: #039902;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+    .tip-list {
+      margin: 16px 0 20px 0;
+      padding: 0;
+      list-style: none;
+    }
+    .tip-list li {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 1.6;
+      color: #444444;
+      padding: 10px 0 10px 28px;
+      position: relative;
+      border-bottom: 1px solid #FBF7EB;
+    }
+    .tip-list li:before {
+      content: "✓";
+      color: #039902;
+      position: absolute;
+      left: 4px;
+      top: 10px;
+      font-size: 14px;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #039902;
+      color: #ffffff !important;
+      text-decoration: none;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      letter-spacing: 0.5px;
+      padding: 14px 32px;
+      border-radius: 30px;
+      margin: 12px 0 6px 0;
+    }
+    .cta-link {
+      display: inline-block;
+      color: #039902;
+      text-decoration: underline;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      margin: 8px 0;
+    }
+    .divider {
+      border: none;
+      height: 1px;
+      background-color: #DBFFCD;
+      margin: 24px 0;
+    }
+    .footer {
+      background-color: #FBF7EB;
+      padding: 24px 32px;
+      text-align: center;
+    }
+    .footer p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 1.6;
+      color: #9AA8A7;
+      margin: 0 0 6px 0;
+    }
+    .footer a {
+      color: #039902;
+      text-decoration: underline;
+    }
+    .footer .social-icons {
+      margin: 14px 0;
+    }
+    .social-icon {
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      background-color: #DBFFCD;
+      border-radius: 50%;
+      margin: 0 4px;
+      line-height: 32px;
+      font-size: 14px;
+      color: #039902;
+      text-decoration: none;
+    }
+    .badge {
+      display: inline-block;
+      background-color: #F5C84B;
+      color: #333333;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      padding: 4px 12px;
+      border-radius: 12px;
+      margin-bottom: 14px;
+    }
+    .sig {
+      margin-top: 20px;
+      border-top: 1px solid #DBFFCD;
+      padding-top: 16px;
+    }
+    .sig p {
+      font-size: 14px;
+      margin-bottom: 2px;
+      color: #666666;
+    }
+    .sig .name {
+      color: #039902;
+      font-size: 15px;
+    }
+    @media only screen and (max-width: 480px) {
+      .content { padding: 24px 18px 20px 18px; }
+      .header { padding: 20px 18px 14px 18px; }
+      .header h1 { font-size: 18px; }
+      .content p { font-size: 15px; }
+      .story-block { padding: 18px; }
+      .highlight-box { padding: 18px; }
+      .footer { padding: 18px; }
+      .cta-button { padding: 12px 24px; font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <table class="wrapper" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+    <tr>
+      <td align="center">
+        <table class="main" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+          <tr><td class="header-bar">&nbsp;</td></tr>
+          <tr>
+            <td class="header">
+              <p class="logo-text">BrightKidCo</p>
+              <h1>30 days in — how's it going?</h1>
+            </td>
+          </tr>
+          <tr>
+            <td class="content">
+              <p class="greeting">Hi {first_name},</p>
+
+              <p>It's been a month. That's 30 days of wearing the Body-Signal Learning Layer™, 30 days of new routines, 30 days of watching — and waiting — for those first signals to show up.</p>
+
+              <p>I wanted to check in, honestly. No script. No sales pitch. Just a real question: <strong>how's it going?</strong></p>
+
+              <p>Some parents tell me at Day 30 they're already seeing their child pause mid-play, look down, and make it to the potty. Others are still waiting for that first click. And a lot of you are somewhere in between — "He gets it, but he doesn't get it." I've heard that one more times than I can count.</p>
+
+              <p><strong>Wherever you are, you're on track.</strong></p>
+
+              <div class="story-block">
+                <p class="story-label">From another parent</p>
+                <p>"I thought I'd be further along by now. But then I realized — my son is making eye contact with me when he needs to go. He never did that before. That's not nothing. That's progress." — Jessica, mom of a 4-year-old</p>
+              </div>
+
+              <p>Here are a few things I've seen make a real difference at the 30-day mark:</p>
+
+              <ul class="tip-list">
+                <li><strong>Look for micro-wins.</strong> A pause, a look down, a hand-to-the-groin — these are pre-signals that the interoception is building. Celebrate those.</li>
+                <li><strong>Keep the underwear as the anchor.</strong> Every time they wear it, the feedback loop fires. Day and night consistency matters more than perfect timing.</li>
+                <li><strong>Drop the timer.</strong> If Oh Crap taught you to prompt every 15 minutes, that might actually be masking the emergence of their natural signal. Give space for them to feel it themselves.</li>
+                <li><strong>Accept the plateaus.</strong> Progress isn't linear. A few quiet days don't mean it's not working. The Body-Signal Learning Layer™ is training a neurological pathway — that takes repetition, not perfection.</li>
+              </ul>
+
+              <div class="highlight-box">
+                <p class="highlight-label">One month in, one thing is true</p>
+                <p>Your child's nervous system is learning something it's never done before. That takes time. And you're giving them exactly that.</p>
+              </div>
+
+              <p>If you have questions — about timing, about what "normal" looks like, about anything — just reply to this email. I read every one.</p>
+
+              <p style="text-align: center; margin: 22px 0 10px 0;">
+                <a href="https://brightkidco.com/guides/30-day-checkin" class="cta-button">See the 30-day troubleshooting guide</a>
+              </p>
+              <p style="text-align: center; margin: 0 0 4px 0;">
+                <a href="https://brightkidco.com/community" class="cta-link">Or join the parent community</a>
+              </p>
+
+              <hr class="divider">
+
+              <div class="sig">
+                <p class="name">With warmth,</p>
+                <p class="name" style="font-size: 16px; color: #039902;">Lena S.</p>
+                <p style="font-size: 13px; color: #9AA8A7;">support@brightkidco.com</p>
+              </div>
+
+              <p style="font-size: 11px; color: #9AA8A7; text-align: center; margin-top: 22px;">
+                60-Day Money Back Guarantee &bull; 16,511 reviews &bull; 4.9★
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td class="footer">
+              <p class="social-icons">
+                <a href="#" class="social-icon" style="color: #039902;">FB</a>
+                <a href="#" class="social-icon" style="color: #039902;">IG</a>
+                <a href="#" class="social-icon" style="color: #039902;">YT</a>
+              </p>
+              <p>BrightKidCo &bull; support@brightkidco.com</p>
+              <p>You're receiving this because you're part of the BrightKidCo community.</p>
+              <p><a href="#">Unsubscribe</a> at any time &mdash; no hard feelings.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Klaviyo Notes
+Subject Lines:
+1. 30 days in — how's it going?
+2. One month. Here's what's normal.
+3. Checking in — tell me about your journey
+Preheader: Honest check-in from Lena — 30-day progress and what to look for next
+Flow: PP-Mid Check-In (Flow 14)
+Email: E1 of 3
+Timing: Day 30 post-purchase
+Goal: Progress check-in — validate where they are, provide usage tips, normalize the journey at 30 days
+CTA: See the 30-day troubleshooting guide | Join the parent community
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+  -->
+
+</body>
+</html>

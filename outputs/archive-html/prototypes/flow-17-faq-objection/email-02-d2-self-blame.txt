@@ -1,0 +1,75 @@
+=== FAQ/OBJECTION LIBRARY — FAQ · OBJECTION D2 · 2 OF 6 ===
+=== VARIANT: GF ===
+
+=== SUBJECT LINE VARIANTS ===
+1. 49% of autistic 4-year-olds aren't trained. It's not you.
+2. Maybe you aren't the problem after all
+3. It's not you. It's neurology. Here's the data.
+
+=== PREHEADER ===
+{first_name}, let's talk about the stat that changed everything for me.
+
+=== FROM ===
+Lena from BrightKidCo <support@brightkidco.com>
+
+=== BODY TEXT ===
+
+FAQ · OBJECTION D2 · 2 OF 6
+
+"Maybe I'm the problem."
+
+You're not. Here's the data that proves it.
+
+---
+
+Hi {first_name},
+
+I want to tell you something I wish someone had told me years ago: You haven't failed. The methods assumed something your child's body can't do yet.
+
+Here's the data: The CDC-funded SEED-2 study found that 49% of autistic 4-5 year olds are not toilet trained — compared to just 8% of typically developing kids. That's not a parenting gap. That's a measured, documented, neurological difference. (Wiggins et al., 2022.)
+
+Autistic children are 6 times more likely to still be in diapers at age 4-5. When you understand that, the shame starts to lift. This isn't a contest you lost. It's a biological reality that every single method you tried failed to account for.
+
+---
+THE SCIENCE BEHIND IT
+A 2025 review of 49 studies confirmed that interoceptive differences — the body's ability to feel internal signals like a full bladder — are well-established in autism. (Barmpagiannis & Baldimtsi, 2025.) Your child isn't being difficult. Their nervous system processes body signals differently.
+
+---
+Whether you've been blaming yourself for months or years — the data says it's not you.
+
+Or if you're reading this and thinking "maybe it's different for my child" — it might be. But the science says the same thing for 49% of families.
+
+If your child has never shown a sign of needing to go, that's not a reflection on you as a parent. That's a signal problem. And signal problems need signal solutions.
+
+---
+Parent Quote:
+
+"I spent two years blaming myself. I thought I wasn't consistent enough, patient enough, or good enough. Then I learned that my son literally couldn't feel when he needed to go. The guilt lifted. I wasn't the problem. His nervous system just needed a different approach."
+
+— Rachel T., mother of a 5-year-old. Progress: signal awareness within 3 weeks.
+
+---
+[CTA: See the science behind the Body-Signal Layer →]
+https://brightkidco.com/pages/how-it-works
+
+60-day guarantee. Your judgment.
+
+---
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If no one has told you this yet — you're doing a good job. Reach out anytime. I read every message.
+
+---
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+---
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+=== KLAVIYO IMPLEMENTATION NOTES ===
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Condition: avatar_level matches variant.

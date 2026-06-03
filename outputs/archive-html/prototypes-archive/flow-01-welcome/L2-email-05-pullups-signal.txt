@@ -1,0 +1,97 @@
+== WELCOME FLOW - EMAIL 5 (Day 14) - L2 Variant ==
+
+== SUBJECT LINE ==
+Pull-ups wick away the body signal - here's the research
+
+== PREHEADER ==
+The pull-up design that wicks away the wetness signal - and the BSL that preserves it.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 5 OF 8
+
+The pull-up problem - backed by research
+
+Simon & Thompson (2006): undergarment type affects outcomes.
+
+---
+
+Hi {first_name},
+
+Pull-ups are designed to keep your child dry at all costs. Every fiber, every layer optimizes for one outcome: zero wetness sensation.
+
+That design is actively blocking the feedback loop your child's brain needs.
+
+---
+
+Simon & Thompson (2006) confirmed:
+
+Undergarment type affects training outcomes.
+
+Pull-ups = dry child, silent nervous system.
+
+---
+
+THE RESEARCH
+
+The design that wicks away learning
+
+The same technology that keeps your child dry - moisture-wicking layers, super-absorbent cores - prevents their brain from connecting 'I peed' with 'use the potty.'
+
+For a child whose interoceptive signal is already delayed, removing the only sensory feedback available makes training neurologically impossible.
+
+The Body-Signal Learning Layer uses graduated moisture feedback. Just enough for the brain to recognize: something is happening.
+
+---
+
+""The pull-up connection was the missing link. Two years of scheduled sits undone by a design." - Danielle"
+
+---
+
+Whether you use pull-ups full or part-time - every session is a session without signal feedback.
+
+Or if you're concerned about mess - start with a pair over the pull-up during a 1-hour window.
+
+If your BCBA has worked on this for years - this is the sensory input they couldn't provide.
+
+---
+
+
+
+[CTA: See how the Body-Signal Learning Layer works -> https://brightkidco.com/how-it-works]
+
+---
+
+Next: parent stories from families with complex therapy plans.
+
+The research is clear. Signal feedback matters.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Questions about the research? Reply anytime.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee · 100,000+ parents
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 14 days.
+Condition: avatar_level = l2
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e5_sent
+Profile property updated: welcome_flow_email = 5

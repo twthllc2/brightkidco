@@ -1,0 +1,79 @@
+== WINBACK B FLOW — EMAIL 1 (Day 0) — Level 1 (Sarah) Variant ==
+== Pre-K Anchor Re-engage ==
+
+== SUBJECT LINE VARIANTS ==
+1. It's been a while — if Pre-K is still on your mind
+2. We haven't talked in a while. Quick thing about pull-ups.
+3. Still in pull-ups? Here's what I'd look at.
+
+== PREHEADER ==
+From one parent to another — a gentle check-in about potty training progress.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A NOTE · 1 OF 3
+
+It's been a while.
+
+—
+
+Hi {first_name},
+
+It's been a little while since we last talked. I hope things have been okay.
+
+If your child is still in pull-ups, I want you to know — that's not a reflection of you. 49% of autistic 4-5 year olds aren't trained yet. This is real, and it's common.
+
+But I also know that Pre-K deadline doesn't go away.
+
+—
+
+A REMINDER OF WHAT WE KNOW
+
+Remember the core thing we talked about: most methods fail because they assume your child feels the signal. For many autistic kids, that internal "I need to go" feeling arrives too late — or doesn't arrive at all.
+
+No sticker chart, no timer, no reward system can create a signal that isn't reaching the brain.
+
+Our Body-Signal Learning Layer™ changes that. It creates the feedback loop that pull-ups silently erase.
+
+—
+
+PRE-K IS STILL ACHIEVABLE
+
+If your child is 3-5 and Pre-K enrollment is approaching, here's what I want you to know: many kids show meaningful awareness within the first 60 days. The 60-day guarantee means you have nothing to lose but a method that couldn't work.
+
+The mechanism is the same. The timing is still there. And our guarantee hasn't changed.
+
+—
+
+[CTA: Revisit the mechanism →]
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If you've moved on — truly okay. If you want to revisit, I'm here. Hit reply anytime.
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: inactive_60_days tag + avatar_level1 + no purchase ever. Delay: 0.
+Condition: avatar_level = level1, ever_purchased = false, inactive_60_days = true.
+Primary offer: 3+3 Bundle ($79.99) — same as Welcome.
+Tags applied on send: flow_winback_b_e1_sent.
+Profile property updated: winback_b_email = 1.
+Expected conversion: 2-4% across all levels. After this flow: sunset if no engagement.

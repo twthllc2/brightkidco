@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 8 (Day 21) - L1 Variant ==
+
+== SUBJECT LINE ==
+This is my last email - but the 60-day guarantee stays
+
+== PREHEADER ==
+This closes the 8-email series. The door stays open. The 60-day guarantee stays active.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 8 OF 8
+
+This is my last email - and one final thought
+
+You now know more than most parents ever learn.
+
+---
+
+Hi {first_name},
+
+This is my last regular email. I've shared the signal gap, why methods failed, how our underwear works, real parent stories.
+
+If you're ready to try, the 60-day guarantee is here. If not, I'm glad you read this far.
+
+---
+
+You now understand the mechanism.
+
+Whenever you're ready - the door is open.
+
+60 days to try. Your judgment.
+
+---
+
+THE DOOR STAYS OPEN
+
+Whenever you're ready
+
+The code WELCOME10 has expired. But the 60-Day Calm Progress Guarantee is always here.
+
+Pre-K is approaching. You know the mechanism now. You know why nothing else worked. And you know there's a different path.
+
+---
+
+""I came for the code. I stayed because someone finally explained why nothing worked." - Heather"
+
+---
+
+Whether today is the day or next year - the guarantee stands.
+
+Or if you decide this path isn't right - reply anytime.
+
+If you ever wonder 'what if' - you know where to find us.
+
+---
+
+
+
+[CTA: 60 days to try it. Your judgment. -> https://brightkidco.com/guarantee]
+
+---
+
+Thank you for reading. For being the kind of parent who keeps learning.
+
+With gratitude, Lena.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Reply anytime. I mean it.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 21 days.
+Condition: avatar_level = l1
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e8_sent
+Profile property updated: welcome_flow_email = 8

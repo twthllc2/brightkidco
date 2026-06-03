@@ -1,0 +1,85 @@
+== WINBACK B - EMAIL 3 (L1) ==
+== Flow 24: Winback Path B ==
+
+== SUBJECT LINE VARIANTS ==
+1. "Gentle close — the door is open whenever you're ready"
+2. "If today isn't right, that's a real answer"
+3. "60 days to try — no risk, no pressure"
+4. "Last note for now (but you know where to find me)"
+
+== PREHEADER ==
+If today isn't right, that's a real answer. Door is open.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 3 OF 3
+
+A gentle close
+
+If today isn't right, that's a real answer.
+
+---
+
+Hi {first_name},
+
+This will be my last note for now. I don't want to fill your inbox — I respect your time and your decision either way.
+
+I shared a lot over these past few emails: new interoception research, the body-signal mechanism, the improvements we've made to the BSL Learning Layer. I hope it gave you a clearer picture of what makes this approach different.
+
+Here's what I want to leave you with: The 60-day guarantee exists because I know you've been burned before. You've tried methods that promised big and delivered little. That's why we put the full weight of our guarantee behind every pair. You get 60 days to see if this approach works for your child. If it doesn't, full refund — no forms, no questions.
+
+If today isn't right for you, that is a completely real answer. The door is open. You know where to find us.
+
+But if something in these emails resonated — if the science made sense, if the mechanism clicked, if you felt a flicker of possibility — then maybe today is the day to give your child's nervous system the support it's been asking for.
+
+Either way, I'm grateful you gave me these few minutes of your inbox. It means more than you know.
+
+---
+
+60-Day Money Back Guarantee
+
+Try it for 60 days.
+See if your child shows awareness.
+If not, full refund. No forms. No hassle.
+You decide what progress looks like.
+
+---
+
+[CTA: 60 days to try it -> https://brightkidco.com/products/3-plus-3-bundle?utm_source=klaviyo&utm_medium=email&utm_campaign=flow24-L1-e3]
+
+3+3 Bundle — $79.99 · Bestseller
+
+---
+
+Pricing
+1 Pair — $34.99 | 3+3 FREE — $79.99 (BESTSELLER) | 5+5 FREE — $119.99
+
+---
+
+With warmth,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two autistic sons
+support@brightkidco.com
+
+P.S. The door is open. If you revisit this later and want to pick up where we left off, you know where to find me. Reply anytime.
+
+---
+
+16,511 reviews · 4.9 ★ — 100,000+ parents trust BrightKidCo
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+Built for the brain that learns differently.
+BrightKidCo · Support: support@brightkidco.com
+Unsubscribe · Privacy Policy
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: 5-7 days after E2 sent
+Segment: Level 1 (verbal child 3-5, 1-3 failed methods)
+Tags applied on send: flow_24_L1_e3_sent
+Conditional: If no purchase after E3 → move to Sunset Flow (Flow 27)

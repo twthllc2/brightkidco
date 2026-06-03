@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Order Confirmation — BrightKidCo</title>
+<style>
+  body, table, td, p, a, li, blockquote {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  table, td {
+    mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+  }
+  img {
+    -ms-interpolation-mode: bicubic;
+    border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;
+  }
+  body {
+    margin: 0; padding: 0; width: 100% !important; height: 100% !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; }
+  .header { background-color: #2D5A6D; padding: 30px 24px; text-align: center; }
+  .header h1 { color: #ffffff; font-size: 20px; margin: 0; font-weight: 600; letter-spacing: -0.3px; }
+  .header .subhead { color: #C4D4DB; font-size: 14px; margin-top: 6px; }
+  .body-content { padding: 32px 24px; }
+  .body-content p { color: #333333; font-size: 15px; line-height: 1.6; margin: 0 0 16px; }
+  .order-summary { background-color: #F7F9FA; border-radius: 8px; padding: 20px; margin: 0 0 24px; }
+  .order-summary h3 { color: #2D5A6D; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; margin: 0 0 12px; }
+  .order-summary .row { display: flex; justify-content: space-between; padding: 6px 0; font-size: 14px; color: #333; }
+  .order-summary .row.total { font-weight: 700; border-top: 2px solid #E0E6E9; padding-top: 10px; margin-top: 6px; }
+  .upsell-block { background-color: #FEF6F0; border: 1px solid #F5DCC5; border-radius: 8px; padding: 20px; margin: 24px 0; text-align: center; }
+  .upsell-block h3 { color: #A65D2A; font-size: 16px; margin: 0 0 8px; }
+  .upsell-block p { color: #666; font-size: 14px; margin: 0 0 12px; }
+  .upsell-block .price { font-size: 20px; font-weight: 700; color: #2D5A6D; }
+  .upsell-block .price span { font-size: 14px; font-weight: 400; color: #666; }
+  .btn { display: inline-block; background-color: #A65D2A; color: #ffffff !important; text-decoration: none; padding: 12px 28px; border-radius: 6px; font-size: 15px; font-weight: 600; }
+  .btn-secondary { background-color: transparent; border: 1px solid #2D5A6D; color: #2D5A6D !important; padding: 10px 24px; border-radius: 6px; font-size: 14px; font-weight: 600; text-decoration: none; display: inline-block; }
+  .guarantee-bar { background-color: #F0F7F4; border-radius: 8px; padding: 16px 20px; margin: 20px 0; font-size: 13px; color: #3A7A5C; text-align: center; }
+  .footer { background-color: #F7F9FA; padding: 24px; text-align: center; font-size: 12px; color: #888; }
+  .footer p { margin: 4px 0; }
+  .klaviyo-note { font-size: 12px; color: #999; border-top: 1px solid #E0E6E9; padding-top: 16px; margin-top: 24px; }
+  @media only screen and (max-width: 480px) {
+    .header { padding: 24px 16px; }
+    .body-content { padding: 24px 16px; }
+    .order-summary, .upsell-block { padding: 16px; }
+  }
+</style>
+</head>
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f4f4f4">
+<tr><td align="center" style="padding: 20px 10px;">
+  <table class="container" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+    <!-- HEADER -->
+    <tr><td class="header">
+      <h1>Your order is confirmed</h1>
+      <p class="subhead">Order #[order_number] — [order_date]</p>
+    </td></tr>
+    <!-- BODY -->
+    <tr><td class="body-content">
+      <p>Hi {{ first_name }},</p>
+      <p>Your order is confirmed and our team is getting it ready for you. Standard delivery takes about 10 days — we'll send you a tracking number as soon as it ships.</p>
+
+      <!-- ORDER SUMMARY -->
+      <div class="order-summary">
+        <h3>Order Summary</h3>
+        <div class="row">
+          <span>[item_name] × [quantity]</span>
+          <span>[item_price]</span>
+        </div>
+        <div class="row">
+          <span>Shipping</span>
+          <span>[shipping_cost]</span>
+        </div>
+        <div class="row total">
+          <span>Total</span>
+          <span>[total_price]</span>
+        </div>
+      </div>
+
+      <p>You made a decision that changes how your child learns body signals. That's real. The Body-Signal Learning Layer™ creates the feedback loop that pull-ups block — a gentle wetness signal that tells the nervous system "something happened." No sticker charts required. No timed sits. Just a signal that wasn't there before.</p>
+
+      <!-- SOFT UPSELL -->
+      <div class="upsell-block">
+        <h3>✨ 73% of parents add this</h3>
+        <p>The Wash Bag — a dedicated mesh bag that keeps the learning layers intact, wash after wash.</p>
+        <p class="price">$12.99 <span>one-time add-on</span></p>
+        <a href="[add_wash_bag_url]" class="btn">Add Wash Bag</a>
+        <p style="margin-top: 10px; font-size: 13px; color: #999;">No pressure — add anytime before we ship.</p>
+      </div>
+
+      <p style="font-size: 14px; color: #555;">Here's a tip from our team: when the package arrives, open it together and let your child touch the fabric first. Sensory familiarity helps ease the transition. We'll share more tips when it lands.</p>
+
+      <div class="guarantee-bar">
+        ✅ <strong>60-Day Calm Progress Guarantee</strong> — If it doesn't work for your child, send it back. No forms, no hassle. Your judgment, your timeline.
+      </div>
+
+      <p style="text-align: center; margin: 24px 0 0;">
+        <a href="[order_status_url]" class="btn-secondary">View Your Order Status</a>
+      </p>
+
+      <p style="margin-top: 24px; font-size: 14px; color: #888;">Lena from BrightKidCo<br><a href="mailto:support@brightkidco.com" style="color: #2D5A6D;">support@brightkidco.com</a></p>
+
+      <div class="klaviyo-note">
+        <p><strong>Klaviyo Notes:</strong></p>
+        <p>Flow: 04 — Order Confirmation | Trigger: Order Placed (Shopify → Klaviyo)</p>
+        <p>Tags: set order_confirmation_sent | Update: order_summary, order_number, item_name, quantity, item_price, shipping_cost, total_price from Shopify</p>
+        <p>Subject Line Options: (1) "Your order is confirmed — and one thing to know" (2) "Welcome to the family — here's what comes next" (3) "Your Body-Signal Learning Layer is on its way"</p>
+        <p>Preheader Options: (1) "Order #[order_number] confirmed. Delivery estimate: 10 days." (2) "Plus one thing 73% of parents add" (3) "Your confirmation + important next steps"</p>
+        <p>Sender: "Lena from BrightKidCo" support@brightkidco.com</p>
+        <p>Image Placeholder: [hero-image: Happy parent and child — warm family moment. Alt: BrightKidCo Body-Signal Learning Layer training underwear]</p>
+      </div>
+    </td></tr>
+    <!-- FOOTER -->
+    <tr><td class="footer">
+      <p>BrightKidCo — Helping autistic children learn body signals, one gentle step at a time.</p>
+      <p><a href="[unsubscribe_url]" style="color: #888;">Unsubscribe</a> | <a href="[manage_preferences_url]" style="color: #888;">Manage Preferences</a></p>
+      <p>You received this email because you placed an order at BrightKidCo.</p>
+    </td></tr>
+  </table>
+</td></tr></table>
+</body>
+</html>

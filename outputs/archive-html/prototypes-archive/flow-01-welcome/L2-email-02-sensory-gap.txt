@@ -1,0 +1,93 @@
+== WELCOME FLOW - EMAIL 2 (Day 1) - L2 Variant ==
+
+== SUBJECT LINE ==
+ABA addresses behavior. The sensory piece needs different input.
+
+== PREHEADER ==
+The clinical explanation of interoception - Kelly Mahler's 8th sensory system.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 2 OF 8
+
+The sensory gap your BCBA can't address
+
+ABA addresses behavior. This is different.
+
+---
+
+Hi {first_name},
+
+Your BCBA has done essential work. But here's what behavioral methods can't address: the sensory signal. Most potty training methods assume the child feels the urge. For many autistic children, that assumption is wrong.
+
+---
+
+Your BCBA addressed behavior.
+
+The sensory piece needs different input.
+
+ABA + Body-Signal = both pieces.
+
+---
+
+THE SCIENCE
+
+Interoception: the 8th sensory system
+
+Kelly Mahler defines interoception as the body's ability to feel what's happening inside. For many autistic children, this internal awareness is delayed or absent. OT researchers call it the '8th sensory system.'
+
+Unlike the five senses, interoception can't be taught through behavioral methods alone. It needs direct sensory feedback. Your BCBA built the foundation. The Body-Signal Learning Layer adds what they can't.
+
+---
+
+""Kelly Mahler's interoception research was the first thing that made sense. His body can't feel the signal." - Tanya"
+
+---
+
+Whether your child has been in ABA for 2 years or 5 - the sensory gap was always there.
+
+Or if your BCBA says 'we're stuck on initiation' - that's a sensory signal problem.
+
+If you're skeptical - good. But consider: if 5 methods all made the same assumption...
+
+---
+
+
+
+[CTA: Learn how the nervous system blocks the signal -> https://brightkidco.com/mechanism]
+
+---
+
+Next: how pull-ups block the signal your child needs, and research that validates this approach.
+
+Science-first. No promises. Just the mechanism.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Reply with questions - I read every message.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee · 100,000+ parents
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 1 days.
+Condition: avatar_level = l2
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e2_sent
+Profile property updated: welcome_flow_email = 2

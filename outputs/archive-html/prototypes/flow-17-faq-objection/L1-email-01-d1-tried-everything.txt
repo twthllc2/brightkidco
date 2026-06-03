@@ -1,0 +1,68 @@
+=== FAQ/OBJECTION LIBRARY — FAQ · L1 · 1 OF 6 ===
+=== VARIANT: L1 ===
+
+=== SUBJECT LINE VARIANTS ===
+1. He talks about the potty but won't actually go — here's why
+2. Why 'almost trained' kids stay in pull-ups (it's not defiance)
+3. Your verbal kid isn't being difficult. The signal isn't arriving.
+
+=== PREHEADER ===
+{first_name}, if your child can talk about the potty but won't use it — the issue isn't what you think.
+
+=== FROM ===
+Lena from BrightKidCo <support@brightkidco.com>
+
+=== BODY TEXT ===
+
+FAQ · L1 · 1 OF 6
+
+"He gets it, but he doesn't get it. What makes this different?"
+
+Fair question. The answer might surprise you.
+
+---
+
+Hi {first_name},
+
+Your child can talk about the potty. They know where it is. They've sat on it. They've even gone sometimes. And yet — weeks or months later — they're still having accidents. Still asking for a pull-up. Still not making the connection.
+
+Here's why: It's not that they don't understand. It's that the body signal isn't arriving in time. Their brain processes the 'I need to go' signal — but too late. By the time they feel it, it's already happening.
+
+For neurodivergent kids, interoception — the ability to feel internal body signals — works differently. Research shows autistic children consistently have reduced interoceptive awareness. (Nicholson et al., 2019.) Your child isn't being defiant. Their nervous system processes the signal — just not fast enough.
+
+---
+THE MECHANISM · WHY STANDARD METHODS FAIL VERBAL KIDS
+Sticker charts, rewards, and timed sits all assume the child ALREADY feels the signal and just needs motivation. For kids whose signal arrives late or weak, rewards can't create a sensation that hasn't arrived yet. The Body-Signal Learning Layer™ changes this: sustained wetness feedback for 30-60 seconds gives the brain time to register the sensation — building the connection that sticker charts can't.
+
+---
+Parent Quote:
+
+"My son is so verbal. He would say 'I need to go potty' while standing in a puddle. I thought he was lying or lazy. Turns out the signal and the accident were happening at the same time. He literally couldn't feel it until it was too late."
+
+— Sarah M., mother of a 4-year-old, Level 1.
+
+---
+[CTA: See how the Body-Signal Layer works →]
+https://brightkidco.com/pages/how-it-works
+
+60-day guarantee. Your judgment.
+
+---
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. You have time. Pre-K is achievable. The plan starts with understanding the real problem — and it's not your child or your parenting.
+
+---
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+---
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+=== KLAVIYO IMPLEMENTATION NOTES ===
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Condition: avatar_level matches variant.

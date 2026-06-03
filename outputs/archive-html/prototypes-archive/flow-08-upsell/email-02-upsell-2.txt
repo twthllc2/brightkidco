@@ -1,0 +1,71 @@
+Subject Line Options:
+1. Go all-in on body-signal learning — 5+5 bundle
+2. From 3 pairs to 10 — here's why parents upgrade
+3. Round-the-clock coverage with the 5+5 bundle
+
+Preheader Options:
+1. 10 pairs. Daycare, home, overnight. One price.
+2. The bundle parents call 'complete coverage'
+3. Upgrade to the 5+5 — your 60-day guarantee applies
+
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+
+==============================
+
+Hi {{ first_name }},
+
+You already know the Body-Signal Learning Layer™ works — your child is building awareness with every wear. Now it's time to give them round-the-clock coverage with the 5+5 Bundle.
+
+========================================
+SOCIAL PROOF
+========================================
+★ 16,511 five-star reviews
+★ 4.9 average rating
+★ 100,000+ families helped
+========================================
+
+🏆 BEST VALUE — 5+5 Bundle 🏆
+10 pairs — full coverage for daycare, home, and overnight
+$119.99 ($11.99/pair) — vs. $12.99/pair in the 3+3 bundle
+
+========================================
+COMPARISON
+========================================
+Feature             Your Current Pack    5+5 Bundle
+Pairs               [current_pack_size]  10 pairs
+Coverage            Limited rotation     Round-the-clock
+Price per pair      $[current_ppp]       $11.99/pair
+Daycare ready       —                    ✓ Yes
+Overnight + nap     —                    ✓ Yes
+Laundry frequency   Daily                Every 2-3 days
+========================================
+
+WHY PARENTS UPGRADE:
+• Consistent sensory input: Your child gets the same feedback loop whether they're at home, daycare, or grandma's house
+• Less laundry: 10 pairs means you're not doing laundry every single day
+• Better value: At $11.99/pair, the 5+5 bundle saves you 8% vs. the 3+3 bundle
+• Overnight learning: The learning doesn't stop at bedtime — overnight coverage means more signal-building opportunities
+
+REAL PARENT FEEDBACK:
+"I started with 1 pair and upgraded to the 5+5 bundle within a month. Having 10 pairs means I'm not doing laundry every day, and my son has consistent sensory input whether he's at home, daycare, or grandma's."
+— Amanda T., BrightKidCo parent
+
+Upgrade to 5+5 — $119.99: [upgrade_5plus5_url]
+Covers daycare, home, and overnight. Same 60-day guarantee.
+
+✅ 60-Day Calm Progress Guarantee — Applies to the upgrade too. If the 5+5 bundle doesn't work better for your family, send it back. Your call. No hassle. No forms.
+
+Lena from BrightKidCo
+support@brightkidco.com
+
+==============================
+Klaviyo Notes:
+Flow: 08 — PP-Direct Upsell | Email: 2 of 2 (5+5 Bundle Upgrade)
+Trigger: Order Placed + Day 3
+Tags: set upsell_5plus5_sent
+Dynamic: current_pack_size, current_ppp from Shopify order data
+Image placeholder: [hero-image: BrightKidCo 5+5 bundle — 10 pairs of Body-Signal Learning Layer underwear. Alt: BrightKidCo 5+5 Bundle — 10 pairs for round-the-clock body-signal learning]
+
+BrightKidCo — Helping autistic children learn body signals, one gentle step at a time.
+Unsubscribe: [unsubscribe_url] | Manage Preferences: [manage_preferences_url]
+You received this email because you placed an order at BrightKidCo.

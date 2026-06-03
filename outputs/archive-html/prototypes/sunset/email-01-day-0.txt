@@ -1,0 +1,68 @@
+== SUNSET FLOW — EMAIL 1 (Day 0) — Cross-Level ==
+== "I'm going to stop emailing after this" ==
+
+== SUBJECT LINE VARIANTS ==
+1. I'm going to stop emailing after this
+2. This is the last email unless you say otherwise
+3. One more chance — then I'll let you go
+
+== PREHEADER ==
+Final check-in from Lena — click to stay in touch.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A FINAL NOTE
+
+I'm going to stop emailing after this.
+
+—
+
+Hi {first_name},
+
+I've sent a few notes over the past months, and I haven't heard back. That's okay — life is full, and inboxes are crowded.
+
+But I want to be respectful of your attention. So I'm going to stop emailing after this — unless you say otherwise.
+
+—
+
+IF YOU WANT TO STAY
+
+Just click below, and I'll keep you on the list. You'll get our best content — science updates, parent stories, new product news — without any pressure.
+
+If you don't click, no hard feelings. I'm grateful you were here.
+
+—
+
+[CTA: Stay subscribed →]
+
+—
+
+With gratitude,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If you ever want to come back, we'll be here. The 60-day guarantee doesn't expire.
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: inactive_120_days tag.
+Delay: 0 (immediate on tag).
+Cross-level — no level variants.
+CTA: Text link "Stay subscribed" — leading to brightkidco.com/stay-subscribed.
+Goal: Re-engage ~1-2% of sunset segment.
+No click after E2 → profile property Suppressed = true, remove from active list.
+Tags applied on send: flow_sunset_e1_sent.

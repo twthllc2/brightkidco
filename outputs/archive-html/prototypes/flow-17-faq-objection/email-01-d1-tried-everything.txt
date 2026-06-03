@@ -1,0 +1,96 @@
+== FAQ/OBJECTION LIBRARY — EMAIL 1 (Day 0) — General Fallback Variant ==
+== OBJECTION D1: "Tried Everything" ==
+== CROSS-LEVEL: "Whether...Or...If..." Pattern, 50/50 Hope/Realism ==
+
+== SUBJECT LINE VARIANTS ==
+1. "I've tried everything." — Let's talk about what that actually means
+2. The real reason nothing worked isn't what you think
+3. Every method you tried assumed this one thing — here's the truth
+
+== PREHEADER ==
+{first_name}, the real reason nothing worked isn't what you think. Let's look at the mechanism.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+FAQ · OBJECTION D1 · 1 OF 6
+
+"I've tried everything. What makes this different?"
+
+Fair question. Here's the honest answer.
+
+You've tried sticker charts. Timer sits. The naked method. The 3-day bootcamp. The gentle approach. The firm approach. The approach that worked for your friend's child, your cousin's child, and the child of that influencer whose entire life looks curated.
+
+—
+
+Hi {first_name},
+
+Every parent who lands here has said those words: "I've tried everything." And when you've said them, you meant them. You've probably spent hundreds — maybe thousands — of dollars on methods that promised results and delivered frustration.
+
+So when I say "this is different," I owe you more than a claim. I owe you the mechanism.
+
+—
+
+THE MECHANISM · WHY METHODS FAIL
+
+Every method you tried assumed your child ALREADY FEELS the "I need to go" signal — and just needs a reason to act on it. That's the hidden assumption behind sticker charts, timed sits, rewards, and every bootcamp protocol.
+
+For many neurodivergent children, that signal NEVER ARRIVES. Or it arrives too late. Their nervous system processes internal body signals — interoception — differently. Research has confirmed this across multiple studies: autistic children consistently show reduced ability to sense internal body cues. (Nicholson et al. 2019; Barmpagiannis et al. 2025 — a review of 49 studies.)
+
+Pull-ups make this worse. They're designed to wick moisture away — which means your child feels nothing, learns nothing. The feedback loop that builds body awareness never has a chance to start. (Simon & Thompson 2006 confirmed that undergarment type directly affects training outcomes.)
+
+The Body-Signal Learning Layer doesn't train behavior. It RESTORES THE SIGNAL that every other method depends on. A gentle wetness feedback that lasts 30-60 seconds — enough for the brain to start making the connection.
+
+—
+
+Whether you've tried two methods or twenty — the reason they failed is the same, and it's not you.
+
+Or if you're sitting here wondering "what if this is just another thing that doesn't work" — that doubt isn't cynicism. It's the rational response of a parent who's been burned.
+
+If your child has never shown any awareness of being wet or dry, that's not a behavior problem. That's a signal problem. And signal problems need signal solutions.
+
+—
+
+Parent Quote:
+
+"I had tried everything — sticker charts, timer sits, social stories, even a potty training consultant. Nothing worked. I was convinced my son was the only 6-year-old in America still in pull-ups. Then I learned he couldn't feel when he needed to go. The underwear didn't train him — it gave his brain the signal everything else assumed he already had."
+
+— Sarah M., mother of a 6-year-old, Level 2. Progress: looked at wet spot within Week 2.
+
+—
+
+[CTA: See how the Body-Signal Layer works →]
+https://brightkidco.com/collections/bundles
+
+60-day guarantee. Your judgment.
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If you've been told "just wait until they're ready" — you're not alone. But readiness can't arrive if the signal hasn't arrived first. Hit reply if you want to tell me about your child's specific situation. I read every message.
+
+—
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+—
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Delay: 0 (immediate on FAQ/Objection Library entry).
+Condition: avatar_level is empty OR avatar_level = general.
+Primary objection addressed: D1 ("I've tried everything").
+Secondary objection: D2 (self-blame — partially addressed through mechanism reframe).
+Proof points used: PP-A1 (Nicholson 2019), PP-A2 (Barmpagiannis 2025), PP-D1 (Simon & Thompson 2006), PP-D4 (BSL 3-layer mechanism).
+Tags applied: flow_faq_e1_sent
+Profile property updated: faq_flow_email = 1
+Migration anchors: Include story links to Sarah (L1), Lisa (L2), Maria (L3) at "See how the Body-Signal Layer works" link.
+Split test: Subject line A (variant 1) vs B (variant 2) — 50/50, winner after 7 days or 500 sends.

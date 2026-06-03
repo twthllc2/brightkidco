@@ -1,0 +1,93 @@
+== WELCOME FLOW - EMAIL 6 (Day 16) - L2 Variant ==
+
+== SUBJECT LINE ==
+After 4 years of ABA, she paused. That was the first signal.
+
+== PREHEADER ==
+Long-form parent stories from families with ABA, OT, and mixed-verbal children.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 6 OF 8
+
+Stories from families with complex therapy plans
+
+She initiated. Once. After 4 years.
+
+---
+
+Hi {first_name},
+
+A mom wrote after 4 years of ABA, OT, and scheduled sits. Her 6-year-old daughter had never initiated. On Day 32: "She told me through her AAC: need bathroom. That was the first time in 4 years."
+
+---
+
+After 4 years of therapy, she felt the signal.
+
+Not because of ABA. Because of sensory feedback.
+
+That's the missing piece.
+
+---
+
+WHAT PROGRESS LOOKS LIKE
+
+Micro-wins after years of trying
+
+For families with complex therapy plans, progress doesn't look like 'trained in 3 days.' It looks like micro-wins: the first pause, the first communication, tolerating underwear for 30 minutes.
+
+These are real stories from real parents. Not polished marketing.
+
+---
+
+""She initiated. Once. After 4 years. She used her AAC: 'need bathroom.' That was the first time." - Christine"
+
+---
+
+Whether your child is 5 or 7 - the stories are similar.
+
+Or if you're skeptical - most of these parents were too.
+
+If you want to read more - visit our parent stories page.
+
+---
+
+
+
+[CTA: Read more parent stories -> https://brightkidco.com/stories]
+
+---
+
+Tomorrow: the one question I hear most from parents deep in therapy plans.
+
+Real families. Real therapy plans. Real progress.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Your story matters. Reply anytime.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee · 100,000+ parents
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 16 days.
+Condition: avatar_level = l2
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e6_sent
+Profile property updated: welcome_flow_email = 6

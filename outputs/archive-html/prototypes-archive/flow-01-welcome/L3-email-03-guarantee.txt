@@ -1,0 +1,96 @@
+== WELCOME FLOW - EMAIL 3 (Day 3) - L3 Variant ==
+
+== SUBJECT LINE ==
+Code WELCOME10 is inside - but the guarantee is what matters
+
+== PREHEADER ==
+Your WELCOME10 code for whenever (or never) you're ready. The 60-day guarantee stays open.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 3 OF 8
+
+No pressure, no rush, no deadline
+
+Code or no code - the offer stays open.
+
+---
+
+Hi {first_name},
+
+Your welcome code WELCOME10 is here if you want it. Use it today, next month, or not at all.
+
+But the real thing to know: the 60-Day Calm Progress Guarantee isn't going anywhere.
+
+---
+
+Whenever you're ready.
+
+Or never.
+
+Both answers are valid.
+
+---
+
+THE GUARANTEE THAT DOESN'T EXPIRE
+
+Your trust is earned, not assumed
+
+You've been burned too many times to hope casually. The 60-day guarantee isn't a gimmick. Try it. If nothing changes, full refund. No forms. No 'try harder.'
+
+The product supports the nervous system. It doesn't promise a cure. If that's helpful, it's here. If not, that's a real answer too.
+
+---
+
+""I can't afford another failed hope. The guarantee matters - but what matters more is no one pushed." - Gloria"
+
+---
+
+Whether you use the code or not - the guarantee will be here.
+
+Or if you want to think about it for months - that's your right.
+
+If the answer is 'not right now' - okay. The door stays open.
+
+---
+
+WELCOME10
+10% off - whenever (or never)
+
+[CTA: 60 days to see if this fits your child -> https://brightkidco.com/guarantee]
+
+---
+
+Use the code if it helps. Ignore it if it doesn't. The guarantee stays.
+
+No rush. No pressure. No timeline.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. I'm here whenever you need. No pressure.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 3 days.
+Condition: avatar_level = l3
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e3_sent
+Profile property updated: welcome_flow_email = 3

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>10 New UX Variants · Email 1 · BrightKidCo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Questrial&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Caveat:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  html, body { margin: 0; padding: 0; background: #F5F1EA; font-family: 'Questrial', system-ui, sans-serif; }
+  * { box-sizing: border-box; }
+</style>
+
+<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+</head>
+<body>
+<div id="root"></div>
+
+<script src="tokens.js"></script>
+<script src="content.js"></script>
+<script type="text/babel" src="illustrations.jsx"></script>
+<script type="text/babel" src="../design-canvas.jsx"></script>
+<script type="text/babel" src="new-v1-4.jsx"></script>
+<script type="text/babel" src="new-v5-7.jsx"></script>
+<script type="text/babel" src="new-v8-10.jsx"></script>
+
+<script type="text/babel">
+  const App = () => (
+    <DesignCanvas title="10 New UX Variants · Email 1" subtitle="Autistic Parent · image-rich · mobile 420px">
+      <DCSection id="playful" title="Playful / Sticker-forward">
+        <DCArtboard id="v1" label="V1 · Sticker Studio" width={420} height={3400}><V1_StickerStudio /></DCArtboard>
+        <DCArtboard id="v4" label="V4 · Scrapbook Journal" width={420} height={3500}><V4_Scrapbook /></DCArtboard>
+        <DCArtboard id="v10" label="V10 · Story Book" width={420} height={3600}><V10_StoryBook /></DCArtboard>
+      </DCSection>
+
+      <DCSection id="bold" title="Bold / High-impact">
+        <DCArtboard id="v3" label="V3 · Duotone Blocks" width={420} height={3400}><V3_DuotoneBlocks /></DCArtboard>
+        <DCArtboard id="v6" label="V6 · Dark Playful" width={420} height={3200}><V6_DarkPlayful /></DCArtboard>
+        <DCArtboard id="v9" label="V9 · Poster Bold" width={420} height={3300}><V9_PosterBold /></DCArtboard>
+      </DCSection>
+
+      <DCSection id="mix" title="Mix / Editorial">
+        <DCArtboard id="v2" label="V2 · Magazine Mod" width={420} height={3400}><V2_MagazineMod /></DCArtboard>
+        <DCArtboard id="v7" label="V7 · Editorial Mix" width={420} height={3400}><V7_EditorialMix /></DCArtboard>
+      </DCSection>
+
+      <DCSection id="premium" title="Premium / Hi-end">
+        <DCArtboard id="v5" label="V5 · Hero Stack" width={420} height={3500}><V5_HeroStack /></DCArtboard>
+        <DCArtboard id="v8" label="V8 · Soft Premium" width={420} height={3400}><V8_SoftPremium /></DCArtboard>
+      </DCSection>
+    </DesignCanvas>
+  );
+
+  ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+</script>
+</body>
+</html>

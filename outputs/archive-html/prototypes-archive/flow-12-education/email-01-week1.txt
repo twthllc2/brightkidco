@@ -1,0 +1,69 @@
+**Mail: PP-Education (Flow 12) – Email 1 (Week 1)**
+**Cross-Level | Send Timing: Day 0 (Arrival Day)**
+**Sender: "Lena from BrightKidCo" <support@brightkidco.com>**
+
+---
+
+**Subject Lines (A/B test ready):**
+1. Day 1 — here's the honest truth about what comes next
+2. The goal for Week 1 isn't dry underwear
+3. First: let them wear it. That's it.
+
+**Preheaders:**
+1. Week 1 expectations: nothing dramatic, everything important
+2. The only goal for the first 7 days
+3. One simple start: let them feel the fabric
+
+---
+
+**Mail Body:**
+
+Hi {{ first_name | default: "there" }},
+
+Your package arrived. I know you've been waiting — and I know the urge to put these on your child and expect results immediately. Let me save you the cycle I went through with my own boys.
+
+Week 1 is not about the toilet.
+
+The most important goal for the first 7 days is simply: tolerating the underwear.
+
+YOUR ONLY WEEK 1 GOAL:
+Let them wear it. That's it. Let them feel the fabric. Let them get used to the sensation of not being in a pull-up. If they sit on the potty for 2 seconds — great. If they don't — also great.
+
+HOW THE BODY-SIGNAL LEARNING LAYER™ WORKS
+
+Pull-ups wick moisture away. That's their job — keeping a child dry. But for learning? That's the problem. If a child can't feel when they've peed, their brain never makes the connection between body signal and potty action.
+
+The Body-Signal Learning Layer™ is different. It preserves a gentle wetness sensation — not uncomfortable, not soaked — just enough for the brain to register: "Oh — I peed. I feel it."
+
+That signal is what builds awareness. Over days and weeks, the brain starts recognizing the signal before it happens. That's when you see progress.
+
+But in Week 1? None of that has happened yet. And that's completely normal.
+
+"We thought we were losing our minds. Every attempt either failed, created regression, caused meltdowns or increased withholding." — A parent in our community, before finding BSL
+
+If that feels familiar — you're not alone. The 49% statistic exists for a reason: autistic children process body signals differently. It's not your method that failed. It was the wrong tool for their neurology.
+
+What to do this week:
+• Open the box together. Let your child touch the fabric.
+• Try wearing for 30 minutes at a time. Build up slowly.
+• No timer sits. No pressure. Just exposure.
+• Expect accidents. That's the learning signal at work.
+
+Your only win metric for Week 1: They wore it. They felt it. That's progress.
+
+---
+
+**Lena Sign-Off:**
+Thanks for being here. If you have a question, hit reply — you'll get me, not a template.
+
+— Lena
+Customer Support · Mom of two autistic sons
+
+---
+
+**Klaviyo Implementation Notes:**
+• Trigger: Flow 12 (PP-Education), Day 0 after order placed + Arrived event
+• Audience: All buyers (cross-level)
+• Exit conditions: Unsubscribe or order > 60 days old
+• Tags applied on send: flow_12_e1_sent
+• {{ first_name }} — use Klaviyo personalization with fallback "there"

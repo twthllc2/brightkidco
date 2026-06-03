@@ -1,0 +1,100 @@
+== WELCOME FLOW — EMAIL 3 (Day 3) — General Fallback Variant ==
+== CROSS-LEVEL: "Whether...Or...If..." Pattern ==
+
+== SUBJECT LINE VARIANTS ==
+1. Code expires in 4 days — but honestly, the guarantee matters more
+2. Sixty days to decide. That's the real offer.
+3. Last call for WELCOME10 (and one reason not to worry)
+
+== PREHEADER ==
+Your code is active. Your 60-day guarantee starts when you do. No pressure.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+LETTER 3 OF 8
+
+Your code is still here. The guarantee matters more.
+
+—
+
+{first_name}, by now you know the mechanism: it's not behavior. It's a signal-timing gap. The Body-Signal Learning Layer creates the feedback loop pull-ups block.
+
+Today I want to talk about something just as important: the risk.
+
+Not the risk of trying. The risk of another thing that doesn't work. Because I know you've been there. You've spent money on methods that failed. You've believed, hoped, been let down.
+
+So here's what I want you to know.
+
+—
+
+THE 60-DAY CALM PROGRESS GUARANTEE
+
+Try it for 60 days. By your judgment.
+
+Not the company's judgment. Not some clinical standard. YOURS.
+
+If after 60 days of consistent use you don't see any change — no awareness moments, no pauses, no signal recognition — send the underwear back. We'll refund every dollar. No forms. No "you should have tried harder."
+
+I mean that. It's not a marketing gimmick. It's confidence in the mechanism.
+
+—
+
+CODE STILL ACTIVE
+
+WELCOME10
+10% off your first order
+
+[CTA: https://brightkidco.com/discount/WELCOME10]
+
+Use code WELCOME10 — your call.
+
+—
+
+And here's the permission you deserve: You don't have to buy today. You don't have to buy at all.
+
+Seriously. The information I'm sharing with you over these emails — the mechanism, the sensory gap, why pull-ups block learning — that's valuable whether you ever purchase or not. You're now equipped with knowledge most parents never get.
+
+If today isn't right, that's a real answer. The code will be here. The guarantee will be here. I will be here.
+
+—
+
+Whether you decide in 2 days or 2 months — the offer stands.
+
+Or if you need to check with your partner, your child's therapist, or just sit with it — take the time you need.
+
+If you decide it's not right, that's okay too. I'm glad you're reading this far.
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. Next email is the one I wish someone had sent me years ago. It's about the methods you tried — and why none of them could work for your child's neurology.
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Day 3 after E1 sent. Delay: 72 hours from E1.
+Condition: avatar_level is empty OR avatar_level = general.
+    AND welcome_flow_email = 2 (E2 was sent).
+    AND NOT purchased.
+    AND NOT suppressed.
+Code expiry note: WELCOME10 expires Day 7 from signup. Include dynamic profile property if available: "Code expires {welcome10_expires}."
+Tags applied on send: flow_welcome_e3_sent
+Profile property updated: welcome_flow_email = 3
+Split test: Subject line A (variant 1) vs B (variant 2) — 40/60 split (guarantee subject gets 60%).
+Key message: The guarantee is the primary message; the code is secondary. Permission-not-to-buy (V12) is the closing note.
+Warning: For GF, do NOT use urgency. "Code expires" is informational, not pressure-based.

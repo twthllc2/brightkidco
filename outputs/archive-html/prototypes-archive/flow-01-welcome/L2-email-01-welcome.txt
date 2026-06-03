@@ -1,0 +1,99 @@
+== WELCOME FLOW - EMAIL 1 (Day 0) - L2 Variant ==
+
+== SUBJECT LINE ==
+After everything you've tried - here's the missing piece
+
+== PREHEADER ==
+Hi {first_name}, after 5+ methods and years of therapy - here's the sensory gap no BCBA could address.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 1 OF 8
+
+To the parent who's tried everything
+
+You haven't done anything wrong - the missing piece was sensory.
+
+---
+
+Hi {first_name}, and welcome.
+
+I'm Lena - Customer Support at BrightKidCo, mom of two autistic sons. If you're here, you've cycled through every method. BCBA protocols. OT. Social stories. Timed sits. Each worked for a few days, then regression.
+
+Before we talk about the code, I want to name what no one has explained yet.
+
+---
+
+You haven't failed 7+ methods.
+
+Your child isn't stubborn.
+
+The sensory gap was never addressed.
+
+---
+
+THE PART NOBODY EXPLAINED
+
+It was never about behavior.
+
+Most methods - Oh Crap, ABA potty protocols, sticker charts, timed sits - all assume your child feels the 'I need to go' signal.
+
+For many neurodivergent children, that foundation doesn't exist. The interoceptive signal arrives too late or not at all. Kelly Mahler calls it the '8th sensory system' - the one every behavioral method misses.
+
+This isn't your BCBA's fault. ABA addresses behavior. The sensory piece needs different input.
+
+---
+
+""We've done ABA 4 years, OT 2, tried a $2K consultant. Still in pull-ups. I needed to understand WHY." - Lisa, mom of Ethan"
+
+---
+
+Whether you've done ABA for 2 years or 5 - the sensory gap is the same.
+
+Or if your BCBA says 'we've exhausted behavioral' - that confirms the gap.
+
+If you're tired of products that overpromise - good. Skepticism earned over years is valid.
+
+---
+
+YOUR WELCOME CODE
+WELCOME10
+10% off - no-risk access
+
+[CTA: Start with the code and explore -> https://brightkidco.com/discount/WELCOME10]
+
+---
+
+Over the next few weeks, I'll share the science of interoception, how pull-ups block the learning signal, and stories from families with complex therapy plans - parents a lot like you.
+
+Read when you have space.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Reply anytime - about your BCBA, your journey, anything. I read every message.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee · 100,000+ parents
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 0 days.
+Condition: avatar_level = l2
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e1_sent
+Profile property updated: welcome_flow_email = 1

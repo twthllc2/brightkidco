@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 7 (Day 19) - L1 Variant ==
+
+== SUBJECT LINE ==
+Pre-K is coming. Here's the realistic timeline.
+
+== PREHEADER ==
+The realistic Pre-K timeline. Not a guarantee. A data-informed plan.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 7 OF 8
+
+Pre-K is coming. Here's the realistic timeline.
+
+Not a guarantee. A data-informed plan.
+
+---
+
+Hi {first_name},
+
+I hear this question most: 'What if Pre-K won't take him in pull-ups?' It's a real fear. Many schools require daytime training.
+
+With a few months until September, the pressure is real.
+
+---
+
+Pre-K is achievable.
+
+The signal gap can be bridged in 60 days.
+
+Here's what a realistic timeline looks like.
+
+---
+
+60 DAYS TO BUILD AWARENESS
+
+A plan, not a panic
+
+Most parents see first signs of body awareness within 2-4 weeks of consistent use. By 60 days, many children initiate some percentage of time.
+
+Not 'fully trained' for most. But aware. Connected. Building the pathway.
+
+---
+
+""Pre-K is in 2 months. The realistic timeline and 60-day guarantee gave me a plan instead of panic." - Caroline"
+
+---
+
+Whether Pre-K starts in 2 months or 6 - the earlier you start, the better.
+
+Or if you're worried about another failure - the guarantee absorbs that risk.
+
+If you're ready - use code WELCOME10 and see what 60 days can do.
+
+---
+
+
+
+[CTA: See what fits your child -> https://brightkidco.com/shop]
+
+---
+
+This is my second-to-last email. One more thought coming.
+
+Pre-K is coming. You have time. And you have a plan.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. I'm rooting for you. Reply anytime.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 19 days.
+Condition: avatar_level = l1
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e7_sent
+Profile property updated: welcome_flow_email = 7

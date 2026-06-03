@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>BrightKidCo — Winback B E1 L3</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Questrial&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #FBF7F1; font-family: 'Questrial', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+    table { border-collapse: collapse; }
+    img { border: 0; outline: none; display: block; }
+
+    .email-shell { width: 100%; max-width: 420px; margin: 0 auto; background-color: #FFFBF0; }
+
+    /* Preheader */
+    .preheader { background: #F6F2EA; padding: 6px 20px; text-align: center; }
+    .preheader td { font-family: 'Questrial', system-ui, sans-serif; font-size: 11px; font-style: italic; color: #8A9B9D; }
+
+    /* Header */
+    .header-cell { padding: 24px 20px 0; text-align: center; background-color: #FFFBF0; }
+
+    /* TitleBlock */
+    .title-block { background-color: #FFFBF0; padding: 20px 22px 0; text-align: center; }
+    .title-block h1 { font-family: 'Fraunces', Georgia, serif; font-size: 40px; line-height: 1; font-weight: 700; letter-spacing: -0.8px; color: #1F2D2F; margin: 0; }
+    .title-block .subhead { font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; line-height: 1.65; color: #4A6568; margin: 12px 0 0; }
+
+    /* Band */
+    .band { height: 40px; }
+    .band-sm { height: 32px; }
+
+    /* Letter section */
+    .letter { background-color: #FFF6E2; padding: 4px 24px 28px; }
+    .letter p { font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; line-height: 1.65; color: #4A6568; margin: 0 0 14px; }
+    .letter p.lead { font-size: 17px; font-weight: 600; color: #1F2D2F; }
+
+    /* Quote section */
+    .quote-section { background-color: #FFFBF0; padding: 28px 24px; }
+    .quote-section h2 { font-family: 'Fraunces', Georgia, serif; font-size: 24px; line-height: 1.15; font-weight: 700; letter-spacing: -0.4px; color: #1F2D2F; margin: 0 0 16px; }
+    .quote-card { background-color: #FFD866; border-radius: 18px; padding: 24px; margin: 0 0 16px; box-shadow: 4px 4px 0 #1F2D2F; }
+    .quote-card:last-child { margin-bottom: 0; }
+    .quote-card .qmark { color: #2BAEB4; font-size: 28px; font-weight: 700; font-family: 'Fraunces', Georgia, serif; line-height: 1; }
+    .quote-card .qtext { font-family: 'Fraunces', Georgia, serif; font-size: 16px; font-style: italic; font-weight: 400; line-height: 1.5; color: #1F2D2F; }
+
+    /* Mechanism section */
+    .mechanism { background-color: #EAF6F2; padding: 28px 24px; }
+    .mechanism h2 { font-family: 'Fraunces', Georgia, serif; font-size: 24px; line-height: 1.15; font-weight: 700; letter-spacing: -0.4px; color: #1F2D2F; margin: 0 0 16px; }
+    .mechanism p { font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; line-height: 1.65; color: #4A6568; margin: 0 0 14px; }
+    .mechanism p:last-child { margin-bottom: 0; }
+
+    /* CTA section */
+    .cta-section { background-color: #1F2D2F; padding: 20px 22px 44px; text-align: center; }
+    .cta-section .cta-intro { font-family: 'Questrial', system-ui, sans-serif; font-size: 14px; color: #B8CACD; margin: 0 0 16px; }
+    .cta-button { display: inline-block; background-color: #D8F57C; color: #1F2D2F; font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; font-weight: 700; letter-spacing: 0.3px; text-decoration: none; padding: 17px 32px; border-radius: 999px; min-height: 48px; line-height: 1; }
+
+    /* Signoff */
+    .signoff { background-color: #1F2A2C; padding: 0; }
+    .signoff-accent { height: 4px; background: linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%); opacity: 0.9; }
+    .signoff-card { padding: 24px 24px 28px; border: 1.5px solid #2F3D40; border-top: none; }
+    .signoff-label { font-family: 'Questrial', system-ui, sans-serif; font-size: 10.5px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: #8FAFB2; margin-bottom: 4px; }
+    .signoff-name { font-family: 'Questrial', system-ui, sans-serif; font-size: 17px; font-weight: 700; color: #FFFFFF; margin: 0 0 2px; }
+    .signoff-title { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; color: #8FAFB2; margin: 0 0 12px; }
+    .signoff-signature { font-family: 'Caveat', cursive; font-size: 42px; line-height: 0.95; font-weight: 500; color: #D8F57C; letter-spacing: -0.5px; margin: 12px 0 0; }
+    .signoff-ps { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; line-height: 1.5; color: #B8CACD; margin: 12px 0 0; padding-top: 12px; border-top: 1.5px dashed #3A4547; }
+
+    /* OutLine */
+    .outline { background-color: #FFFBF0; padding: 16px 24px; text-align: center; }
+    .outline p { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; font-style: italic; color: #8A9B9D; margin: 0; }
+
+    /* Footer */
+    .footer { background-color: #FFFFFF; padding: 30px 20px 24px; text-align: center; }
+    .footer .tagline { font-family: 'Fraunces', Georgia, serif; font-size: 20px; font-style: italic; font-weight: 500; color: #1F2D2F; letter-spacing: -0.2px; margin-bottom: 20px; }
+    .footer .divider { width: 60px; height: 3px; background: linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%); border-radius: 3px; margin: 0 auto 20px; }
+    .footer-links { margin-bottom: 16px; }
+    .footer-links a { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; font-weight: 500; color: #1F2D2F; text-decoration: none; margin: 0 8px; }
+    .footer .social-icons { margin-bottom: 16px; }
+    .footer .social-icons a { margin: 0 8px; font-size: 0; text-decoration: none; }
+    .footer .microcopy { font-family: 'Questrial', system-ui, sans-serif; font-size: 11px; color: #8A9B9D; line-height: 1.65; margin-bottom: 8px; }
+    .footer .fine-print { font-family: 'Questrial', system-ui, sans-serif; font-size: 11px; color: #8A9B9D; line-height: 1.65; }
+    .footer .fine-print a { color: #8A9B9D; text-decoration: underline; }
+
+    /* Responsive */
+    @media only screen and (max-width: 420px) {
+      .email-shell { width: 100% !important; max-width: 420px !important; }
+      .title-block h1 { font-size: 32px !important; }
+      .band { height: 32px !important; }
+      .cta-button { width: 100% !important; display: block !important; }
+    }
+    @media only screen and (max-width: 375px) {
+      .title-block h1 { font-size: 30px !important; }
+    }
+  </style>
+</head>
+<body>
+  <!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="420" align="center"><tr><td><![endif]-->
+  <table class="email-shell" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:420px;margin:0 auto;background-color:#FFFBF0;">
+    <tr><td class="preheader">If you've moved past active training — that's not failure. That's reading the situation honestly.</td></tr>
+    <tr><td class="header-cell"><img src="../../../assets/brightkidco-logo.svg" alt="BrightKidCo" style="height:34px;display:block;margin:0 auto;" /></td></tr>
+    <tr><td class="title-block">
+      <h1>If you've stopped<br />actively training —<br />this is not failure.</h1>
+      <p class="subhead">It's been a while. No guilt. No pressure. Just a quiet reminder of what we know about body signals — and what that could mean whenever you're ready.</p>
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#FFFBF0;text-align:center;">
+                <tr>
+                  <td style="padding:0;text-align:center;">
+                    <img src="../../../assets/hero/hero-parent-child-01.svg" alt="Parent and child in a quiet moment of connection and understanding" width="420" style="display:block;width:100%;max-width:420px;height:auto;border:0;outline:none;margin:0 auto;" />
+                  </td>
+                </tr>
+              </table>
+
+    </td></tr>
+    <tr><td class="band" style="height:40px;background:linear-gradient(180deg,#FFFBF0 0%,#FFF6E2 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- Letter -->
+    <tr><td class="letter">
+      <p class="lead">Hi {first_name},</p>
+      <p>It's been some time. That's okay — I'm not here to pull you back into training mode. Whether you've stepped away from active potty training or you're still doing what you've always done — keeping your child clean, comfortable, and safe — that is not managing. That is love in action.</p>
+      <p>The truth is, nothing about what we know has changed. The body-signal gap is still real. The interoception piece still matters. And the product I want to remind you of is the same one that might have caught your eye months ago.</p>
+      <p>But more than a product reminder, I want to offer something quieter: a validation that wherever you are with this — even if you've stopped trying — that is not failure. It is a real response to a real situation.</p>
+    </td></tr>
+    <tr><td class="band" style="height:32px;background:linear-gradient(180deg,#FFF6E2 0%,#FFFBF0 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- L3 Quotes - Cluster A + F recognition -->
+    <tr><td class="quote-section">
+      <h2>You are not alone in this</h2>
+      <div class="quote-card">
+        <span class="qmark">"</span>
+        <p class="qtext">I stopped trying actively 2 years ago. We focus on dignity now.</p>
+      </div>
+      <div class="quote-card">
+        <span class="qmark">"</span>
+        <p class="qtext">He's never shown a single sign of feeling wet or dirty.</p>
+      </div>
+      <div class="quote-card">
+        <span class="qmark">"</span>
+        <p class="qtext">Maybe one day. Maybe never. We're at peace either way.</p>
+      </div>
+      <div class="quote-card">
+        <span class="qmark">"</span>
+        <p class="qtext">He's outgrown size 7. We're moving to specialty diapers. The next step is adult diapers. I'm not ready.</p>
+      </div>
+    </td></tr>
+    <tr><td class="band" style="height:32px;background:linear-gradient(180deg,#FFFBF0 0%,#EAF6F2 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- Mechanism section -->
+    <tr><td class="mechanism">
+      <h2>What we know about the signal gap</h2>
+      <p>Traditional potty training methods assume an internal signal arrives reliably — that the child feels the "I need to go" sensation. Research has shown that children with autism often have a reduced ability to sense internal body signals. The signal either arrives too late, or it doesn't arrive at all.</p>
+      <p>This is not defiance. It is not something you failed to teach. It is a signal-timing gap inside the nervous system. The Body-Signal Learning Layer is designed to preserve a gentle wetness signal for 30-60 seconds so the brain can start building the connection between the feeling and what it means — at whatever pace your child's neurology allows.</p>
+      <p>Some kids show first signals in 2 weeks. Some need 8 weeks or more. Some respond, some don't. You'll know within 60 days. That's what the guarantee is for.</p>
+    </td></tr>
+
+    <!-- Band to CTA -->
+    <tr><td class="band" style="height:50px;background:linear-gradient(180deg,#EAF6F2 0%,#1F2D2F 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- CTA -->
+    <tr><td class="cta-section">
+      <p class="cta-intro">If now isn't the right time, that's okay. When you're ready, the 60-day guarantee will be here.</p>
+      <a href="{cta_url}" class="cta-button" target="_blank">When you're ready — 60 days to try</a>
+    </td></tr>
+
+    <!-- Signoff (Long - L3 reflective) -->
+    <tr><td 
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:16px auto 20px;">
+                <tr>
+                  <td align="center" style="padding:0 6px;">
+                    <img src="../../../assets/badge-4.9-stars.svg" alt="Trustpilot 4.9 out of 5 stars, 16,511 reviews" width="140" height="28" style="display:inline-block;width:140px;height:28px;border:0;outline:none;vertical-align:middle;" />
+                  </td>
+                  <td align="center" style="padding:0 6px;">
+                    <img src="../../../assets/badges/badge-100k-parents.svg" alt="100,000+ parents trust BrightKidCo" width="140" height="28" style="display:inline-block;width:140px;height:28px;border:0;outline:none;vertical-align:middle;" />
+                  </td>
+                </tr>
+              </table>
+
+
+class="signoff">
+      <div class="signoff-accent"></div>
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#1F2A2C;">
+        <tr><td class="signoff-card">
+          <div class="signoff-label">A note from</div>
+          <div class="signoff-name">Lena Bauer</div>
+          <div class="signoff-title"><em>Founder &middot; BrightKidCo &middot; Mom of two</em></div>
+          <div class="signoff-signature">With care,<br />Lena</div>
+          <div class="signoff-ps">P.S. I know this is hard. I've been there with my sons. Hit reply if you need to talk. You are not alone in this.</div>
+        </td></tr>
+      </table>
+    </td></tr>
+
+    <!-- OutLine -->
+    <tr><td class="outline">
+      <p>If today isn't the day, that's okay. The option will be here when you're ready.</p>
+    </td></tr>
+
+    <!-- Footer -->
+    <tr><td class="footer">
+      <div class="tagline">Calm progress, one day at a time.</div>
+      <div class="divider"></div>
+      <div class="footer-links">
+        <a href="#">Shop</a>
+        <a href="#">Parent Stories</a>
+        <a href="#">Contact us</a>
+        <a href="#">FAQ</a>
+      </div>
+      <div class="social-icons" style="margin-bottom:16px;">
+        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><img src="../../../assets/icon-instagram.svg" alt="Instagram" style="height:22px;display:inline-block;" /></a>
+        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><img src="../../../assets/icon-tiktok.svg" alt="TikTok" style="height:22px;display:inline-block;" /></a>
+      </div>
+      <div class="microcopy">16,511 reviews &middot; 4.9 &#9733; &mdash; 100,000+ parents trust BrightKidCo</div>
+      <div class="fine-print">
+        <p>BrightKidCo &middot; 123 Business Address &middot; City, State ZIP</p>
+        <p><a href="{unsubscribe_url}">Unsubscribe</a> &middot; <a href="{manage_preferences_url}">Manage Preferences</a></p>
+      </div>
+    </td></tr>
+  </table>
+  <!--[if mso]></td></tr></table><![endif]-->
+              <!-- Trust badge: 4.9 stars -->
+              
+
+
+</body>
+</html>

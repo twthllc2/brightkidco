@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Body-signal learning alongside your medical team</title>
+<style type="text/css">
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Questrial&display=swap');
+  body{margin:0;padding:0;min-width:100%;background-color:#FBF7F1;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+  table{border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0}
+  td{font-family:'Questrial',system-ui,sans-serif;color:#1F2D2F}
+  img{border:0;outline:none;display:block;height:auto;line-height:100%;text-decoration:none;-ms-interpolation-mode:bicubic}
+  a{text-decoration:none;color:inherit}
+  p{margin:0 0 14px;padding:0;font-size:15px;line-height:1.7;color:#4A6568}
+  h1,h2,h3{font-family:'Fraunces',Georgia,serif;margin:0;padding:0;font-weight:700;color:#1F2D2F}
+  .outer{background-color:#FBF7F1;width:100%;table-layout:fixed}
+  .inner{max-width:420px;margin:0 auto;width:100%;font-family:'Questrial',system-ui,sans-serif;color:#1F2D2F;background-color:#FFFFFF}
+  .preheader{padding:6px 20px;font-size:11px;color:#8A9B9D;background-color:#F6F2EA;text-align:center;font-style:italic;line-height:1.4}
+  .header{padding:24px 20px 0;text-align:center;background-color:#FBF7F1}
+  .section{padding:28px 24px}
+  .section-cream{background-color:#FBF7F1}
+  .section-quote{background-color:#FFF6E2}
+  .section-purple-soft{background-color:#F0EDF8}
+  .h1{font-family:'Fraunces',Georgia,serif;font-size:36px;line-height:1.05;font-weight:700;letter-spacing:-0.8px;margin:0 0 16px;color:#1F2D2F}
+  .h2{font-family:'Fraunces',Georgia,serif;font-size:26px;line-height:1.15;font-weight:700;letter-spacing:-0.4px;margin:0 0 14px;color:#1F2D2F}
+  .h3{font-family:'Fraunces',Georgia,serif;font-size:18px;line-height:1.25;font-weight:700;margin:0 0 10px;color:#1F2D2F}
+  .body-first{font-size:17px;font-weight:600;color:#1F2D2F;line-height:1.7;margin:0 0 16px}
+  .body{font-size:15px;line-height:1.7;color:#4A6568;margin:0 0 14px}
+  .body-soft{font-size:14px;line-height:1.65;color:#4A6568;margin:0 0 14px}
+  .body-bold{font-weight:700;color:#1F2D2F}
+  .text-teal{color:#2BAEB4}
+  .text-green{color:#5DD07A}
+  .text-muted{color:#8A9B9D}
+  .quote-card{background-color:#FFF6E2;padding:20px 20px 16px;margin:0 0 16px}
+  .quote-mark{font-family:'Fraunces',Georgia,serif;font-size:36px;line-height:0.6;color:#2BAEB4;font-weight:700}
+  .quote-text{font-size:15px;line-height:1.7;color:#1F2D2F;font-style:italic;margin:4px 0 8px}
+  .quote-attribution{font-size:12px;color:#8A9B9D;font-style:normal}
+  .divider{height:1px;background:linear-gradient(135deg,#2BAEB4 0%,#5DD07A 100%);margin:20px 0}
+  .btn-wrap{padding:6px 0}
+  .btn{display:inline-block;padding:14px 28px;font-family:'Questrial',system-ui,sans-serif;font-size:15px;font-weight:700;color:#1F2D2F;background-color:#FBF7F1;border:2px solid #1F2D2F;border-radius:6px;text-align:center;text-decoration:none;line-height:1.2}
+  .btn-primary{background:linear-gradient(135deg,#2BAEB4 0%,#5DD07A 100%);color:#FFFFFF;border:none}
+  .footer{padding:28px 24px 20px;background-color:#FFFFFF;text-align:center}
+  .footer-tagline{font-family:'Fraunces',Georgia,serif;font-size:14px;font-style:italic;color:#4A6568;margin:0 0 12px}
+  .footer-links{font-size:12px;color:#8A9B9D;line-height:2}
+  .footer-links a{color:#8A9B9D;text-decoration:underline}
+  .footer-social{font-size:14px;color:#8A9B9D;margin:12px 0;letter-spacing:6px}
+  .footer-muted{font-size:11px;color:#8A9B9D;line-height:1.6}
+  .signoff{padding:24px;background-color:#FBF7F1}
+  .signoff-name{font-family:'Caveat',cursive;font-size:32px;line-height:1.2;color:#1F2D2F;margin:0 0 4px}
+  .signoff-title{font-size:12px;color:#8A9B9D;margin:0 0 12px}
+  .signoff-body{font-size:14px;line-height:1.65;color:#4A6568;margin:0}
+  .gradient-divider{height:3px;background:linear-gradient(135deg,#2BAEB4 0%,#5DD07A 100%);border:none}
+  .info-box{border:2px solid #2BAEB4;border-radius:8px;padding:20px;margin:0 0 16px;background-color:#FFFFFF}
+  .sensory-card{background-color:#F0EDF8;border-radius:8px;padding:16px 20px;margin:0 0 12px}
+  @media screen and (max-width:420px){
+    .inner{width:100%!important}
+    .h1{font-size:30px!important}
+    .section{padding:24px 16px!important}
+    .signoff{padding:20px 16px!important}
+  }
+</style>
+</head>
+<body>
+<table class="outer" role="presentation" cellpadding="0" cellspacing="0" width="100%">
+<tr><td>
+  <table class="inner" role="presentation" cellpadding="0" cellspacing="0" align="center">
+    
+    <!-- Preheader -->
+    <tr><td class="preheader">
+      How the Body-Signal Learning Layer fits alongside your medical and therapy team
+    </td></tr>
+
+    <!-- Header -->
+    <tr><td class="header">
+      <img src="../../../assets/brightkidco-logo.svg" alt="BrightKidCo" style="height:34px;" />
+    
+    <tr><td style="background:#FFFBF0;text-align:center;padding:0;">
+      <img src="../../../assets/hero/hero-parent-child-01.svg" alt="Parent and child in a quiet moment of connection and understanding" width="420" style="display:block;width:100%;max-width:420px;height:auto;border:0;outline:none;margin:0 auto;" />
+    </td></tr>
+    <tr><td><div class="gradient-divider"></div></td></tr>
+
+    <!-- Main Section -->
+    <tr><td class="section">
+      <p class="body-first">Hi {{first_name}},</p>
+      <p class="body">At this stage — about 7 weeks in — I want to address something that often comes up for parents of high-support children: how does body-signal learning fit with everything else your child has going on medically?</p>
+      <p class="body">Many Level 3 children have a full medical team — a GI doctor, neurologist, BCBA, OT, speech therapist, pediatrician. And some of the challenges your child faces are medical, not just sensory. Withholding, chronic constipation, impaction — these are real GI issues that need medical management.</p>
+      <p class="body">I want to be clear: <span class="body-bold">the Body-Signal Learning Layer is not a medical intervention. It does not treat GI issues. It is not a replacement for your medical team.</span></p>
+      <p class="body">What it is: a sensory tool that helps the nervous system register wetness in a way that pull-ups and diapers don't. That is all. And that is enough.</p>
+    </td></tr>
+
+    <!-- Quote Section -->
+    <tr><td class="section-quote">
+      <div class="quote-card">
+        <div class="quote-mark">&ldquo;</div>
+        <p class="quote-text">He withholds bowel movements for 5-7 days at a time. He's on a daily Miralax dose for years.</p>
+        <div class="quote-attribution">— from a parent in our community</div>
+      </div>
+      <p class="body">This is real. If this sounds like your child, your GI doctor is the right person to guide that piece. What the underwear can do is work on the awareness side — the signal of wetness, the feeling of having gone — while your medical team handles the underlying GI piece.</p>
+      <p class="body">They are not in conflict. They address different layers of the same challenge.</p>
+    </td></tr>
+
+    <!-- Info Box -->
+    <tr><td class="section-cream">
+      <div class="info-box">
+        <p class="body-bold" style="color:#1E8A8F; margin:0 0 10px; font-size:15px;">How to talk to your medical team about body-signal learning</p>
+        <p class="body-soft" style="margin:0 0 8px;">If you're considering mentioning the underwear to your child's doctor or therapist, here's a framework:</p>
+        <p class="body" style="padding-left:12px; border-left:2px solid #2BAEB4;">
+          <span class="body-bold">The mechanism:</span> "The underwear preserves a gentle wetness signal for 30-60 seconds so his brain can register what pull-ups wick away. It's based on research by Simon & Thompson (2006) showing that undergarment type affects training outcomes."
+        </p>
+        <p class="body" style="padding-left:12px; border-left:2px solid #2BAEB4; margin-top:8px;">
+          <span class="body-bold">The framing:</span> "This is additive — it works alongside everything we're already doing. It's not a replacement for medical management or therapy."
+        </p>
+        <p class="body-soft" style="margin-top:8px;">Most doctors and therapists will understand the value of body awareness training. Many of them wish they had more tools for interoception work.</p>
+      </div>
+    </td></tr>
+
+    <!-- Sensory Section -->
+    <tr><td class="section">
+      <p class="h2" style="font-size:22px;">The sensory piece that medicine can't address</p>
+      <p class="body">What your medical team manages and what the underwear addresses are different, complementary pieces:</p>
+      
+      <div class="sensory-card">
+        <p class="body-bold" style="color:#1E8A8F; margin:0 0 4px; font-size:14px;">Your medical team manages:</p>
+        <p class="body-soft" style="margin:0;">GI issues, withholding, medication, constipation, impaction, overall health</p>
+      </div>
+      <div class="sensory-card">
+        <p class="body-bold" style="color:#5DD07A; margin:0 0 4px; font-size:14px;">The underwear supports:</p>
+        <p class="body-soft" style="margin:0;">Body awareness, interoceptive signal detection, sensory feedback loop — the neurological layer that most potty training methods assume already works</p>
+      </div>
+      <p class="body" style="margin-top:8px;">Neither replaces the other. Together, they give your child more than either alone.</p>
+    </td></tr>
+
+    <!-- Quote -->
+    <tr><td class="section-quote">
+      <div class="quote-card">
+        <div class="quote-mark">&ldquo;</div>
+        <p class="quote-text">His BCBA has worked with him for 6 years. No initiation.</p>
+        <div class="quote-attribution">— from a parent in our community</div>
+      </div>
+      <p class="body">Six years of behavioral work with no initiation — and that's not a failure of the BCBA. It's a sign that the missing piece might be sensory, not behavioral. The behavioral foundation is there. The initiation piece needs the body to feel something first.</p>
+      <p class="body">That's what the underwear does: it builds the feeling side, so the behavioral side has something to work with.</p>
+    </td></tr>
+
+    <!-- CTA -->
+    <tr><td class="section" style="text-align:center;">
+      <table role="presentation" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+        <tr>
+          <td class="btn-wrap">
+            <a href="{{shop_url}}/products/body-signal-learning-layer" class="btn btn-primary" style="color:#FFFFFF;">
+              60-day guarantee — risk-free to try
+            </a>
+          </td>
+        </tr>
+      </table>
+      <p class="body-soft" style="margin-top:12px;">If now isn't the right time, it will be here when you're ready.</p>
+    </td></tr>
+
+    <tr><td><div class="divider" style="margin:0 24px;"></div></td></tr>
+
+    <!-- Lena Signoff -->
+    <tr><td class="signoff">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:16px auto 20px;">
+                <tr>
+                  <td align="center" style="padding:0;">
+                    <img src="../../../assets/badges/badge-16511-reviews.svg" alt="Trustpilot 4.9 out of 5 stars, 16,511 reviews" width="140" height="28" style="display:block;width:140px;height:28px;border:0;outline:none;" />
+                  </td>
+                </tr>
+              </table>
+
+
+class="signoff">
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+        <tr><td style="padding:0;vertical-align:middle;width:52px;height:52px;border-radius:50%;background:linear-gradient(135deg,#FFD866 0%,#2BAEB4 100%);padding:2.5px;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" height="100%"><tr><td style="padding:0;border-radius:50%;background-color:#FFFDF6;border:1.5px solid #1F2D2F;text-align:center;vertical-align:middle;">
+            <img src="../../../assets/lena-avatar.svg" alt="Lena Bauer, Founder, BrightKidCo — your journey matters" width="47" height="47" style="display:block;width:47px;height:47px;border-radius:50%;border:0;outline:none;" />
+          </td></tr></table>
+        </td>
+        <td style="padding:0 0 0 12px;vertical-align:middle;">
+          <p class="signoff-name">Lena</p>
+      <p class="signoff-title">Customer Support &bull; Mom of two autistic sons</p>
+      <p class="signoff-body">I remember bringing the underwear to my son's BCBA session and feeling nervous. Would she think I was undermining her work? She looked at the mechanism, read the research citation, and said something I'll never forget: "I've been trying to get him to feel this for 3 years. If a pair of underwear can do it, use the underwear." That moment taught me that the right medical and therapy team will welcome any tool that helps your child. If you're hesitating to mention this to your team, you might be surprised how open they are. And if they're not — you don't need anyone's permission to try something that might help your child.</p>
+      <p class="signoff-body" style="margin-top:10px; font-size:13px; color:#8A9B9D;">P.S. If you'd like the research citation to share with your doctor (Simon & Thompson 2006, Azrin & Foxx 1971), reply and I'll send it to you directly.</p>
+    </td></tr>
+
+    <tr><td><div class="gradient-divider"></div></td></tr>
+
+    <!-- Footer -->
+    <tr><td class="footer">
+      <p class="footer-tagline">Built for the brain that learns differently</p>
+      <p class="footer-links" style="font-size:12px; color:#8A9B9D; line-height:2;">
+        <a href="{{shop_url}}">Shop</a> &nbsp;&bull;&nbsp;
+        <a href="{{shop_url}}/pages/parent-stories">Parent Stories</a> &nbsp;&bull;&nbsp;
+        <a href="{{shop_url}}/pages/contact">Contact us</a> &nbsp;&bull;&nbsp;
+        <a href="{{shop_url}}/pages/faq">FAQ</a>
+      </p>
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:12px auto 24px;">
+        <tr>
+          <td style="padding:0 10px;">
+            <a href="https://instagram.com/brightkidco" target="_blank"><img src="../../../assets/icon-instagram.svg" alt="Instagram" width="20" height="20" style="display:block;width:20px;height:20px;border:0;outline:none;" /></a>
+          </td>
+          <td style="padding:0 10px;">
+            <a href="https://tiktok.com/@brightkidco" target="_blank"><img src="../../../assets/icon-tiktok.svg" alt="TikTok" width="20" height="20" style="display:block;width:20px;height:20px;border:0;outline:none;" /></a>
+          </td>
+        </tr>
+      </table>
+      <p class="footer-muted">
+        16,511 reviews &middot; 4.9 &starf; &mdash; 100,000+ parents trust BrightKidCo
+      </p>
+      <p class="footer-muted" style="margin-top:10px;">
+        BrightKidCo &bull; 123 Main Street, Suite 100 &bull; City, State ZIP
+      </p>
+      <p class="footer-muted">
+        <a href="{{unsubscribe_url}}" style="color:#8A9B9D; text-decoration:underline;">Unsubscribe</a> or <a href="{{manage_preferences_url}}" style="color:#8A9B9D; text-decoration:underline;">Manage Preferences</a>
+      </p>
+    </td></tr>
+  </table>
+</td></tr>
+</table>
+              <!-- Trust badge: 4.9 stars -->
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:16px auto 20px;">
+                <tr>
+                  <td align="center" style="padding:0;">
+                    <img src="../../../assets/badge-4.9-stars.svg" alt="Trustpilot 4.9 out of 5 stars, 16,511 reviews" width="140" height="28" style="display:block;width:140px;height:28px;border:0;outline:none;" />
+                  </td>
+                </tr>
+              </table>
+
+
+</body>
+</html>

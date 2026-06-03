@@ -1,0 +1,64 @@
+BrightKidCo · Body-Signal Learning Layer™
+===================================
+
+FAQ/Objection Library (Flow 17) · Email 5 of 6 · General Fallback
+Objection: B1-B4 (Product Objections)
+Tonality: 50/50 Hope/Realism
+
+= = = = =
+
+SUBJECT LINES (3 options):
+1. "Real questions parents ask before buying — answered honestly"
+2. "What if my child won't wear them? (And 4 other honest answers)"
+3. "The product questions every parent has — here's the truth"
+
+PREHEADER:
+"Quick answers to the questions holding you back."
+
+= = = = =
+
+Hi {first_name},
+
+Sometimes the things holding us back aren't big doubts — they're specific, practical questions. Let me answer the ones I hear most often.
+
+"We tried underwear before. It didn't work. Why would this be different?"
+Standard training underwear catches the accident — that's all it does. Pull-ups wick the signal away entirely so the child feels nothing. The Body-Signal Learning Layer is a fundamentally different mechanism: it delivers sustained, localized wetness for 30-60 seconds so a hypo-responsive nervous system can register the sensation. It creates the feedback loop that standard underwear and pull-ups actively prevent. Research shows undergarment type directly affects training outcomes (Simon & Thompson, 2006).
+
+"What if my child won't wear them — or rips them off?"
+We expect sensory acclimation. Start by leaving them next to the potty. Let your child explore them. Wear them over a pull-up first — the learning layer can still work through it. 100% cotton, hypoallergenic, thin fit. Fun character designs (Melon Pop, Lily Pop, Fynn Fox, Coco Cloud). Gradual is the goal — no pressure to switch immediately.
+
+"My child has GI issues / withholds. Can this really help?"
+The withholding cycle is real — and it's medical, not behavioral. Autistic children are 4x more likely to have GI symptoms (McElhanon et al., 2014, Pediatrics). The Body-Signal Learning Layer works alongside your medical team's recommendations. It doesn't replace GI protocols. It helps the body start recognizing the signal that gets lost in the withholding-anxiety cycle.
+
+"Will this conflict with our BCBA's program / therapy?"
+Your BCBA has built the behavioral foundation. This adds the sensory layer. Behavioral protocols teach compliance — sitting, following a schedule. The Body-Signal Learning Layer teaches the body to feel. Together they're powerful. Share our research with your BCBA — most see the value immediately.
+
+"What if my child is too old / too severe?"
+There's no age cutoff for body awareness. The research is clear: interoceptive differences resolve or compensate over time. Maureen Bennie's son trained at 9.5. "The vast majority of autistic children CAN be potty trained" — Dr. Elizabeth Cross, Kennedy Krieger/Johns Hopkins.
+
+-- 60-Day Calm Progress Guarantee --
+Whatever your concern — try it for 60 days. Your judgment. If it doesn't work for your child, full refund. No questions.
+
+CTA: Explore the Body-Signal Learning Layer
+[Link: product/mechanism page]
+
+One more thing — hit reply if you have a question I didn't answer. I read every message.
+
+= = = = =
+
+Klaviyo Notes:
+Flow: FAQ/Objection Library (Flow 17) · Email 5 of 6 (GF)
+Objection: B1 (tried underwear) + B3 (sensory refusal) + B4 (GI issues) + B2 (BCBA conflict)
+Tonality: 50/50 Hope/Realism · General Fallback
+Trigger: 21 days after E4 (no purchase)
+CTA: "Explore the Body-Signal Learning Layer" → product/mechanism page
+Tags: avatar_general, flow_17_gf
+From: Lena from BrightKidCo · support@brightkidco.com
+Key stats: Simon & Thompson 2006, McElhanon et al. 2014, Elizabeth Cross, Maureen Bennie
+Structure: FAQ format — question + mechanism answer
+
+= = = = =
+
+Lena
+Customer Support · Mom of two autistic sons
+BrightKidCo · 16,511 reviews · 4.9★

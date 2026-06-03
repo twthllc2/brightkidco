@@ -1,0 +1,77 @@
+=== FAQ/OBJECTION LIBRARY — FAQ · OBJECTION D3 · 3 OF 6 ===
+=== VARIANT: GF ===
+
+=== SUBJECT LINE VARIANTS ===
+1. What if this is just another thing that doesn't work?
+2. 60 days to decide. No pressure.
+3. I'm not going to promise you this will work. Here's what I can offer.
+
+=== PREHEADER ===
+{first_name}, I'm not here to sell you a promise. I'm here to offer you a trial.
+
+=== FROM ===
+Lena from BrightKidCo <support@brightkidco.com>
+
+=== BODY TEXT ===
+
+FAQ · OBJECTION D3 · 3 OF 6
+
+"What if I get my hopes up and it fails again?"
+
+I understand. Here's what I can actually offer.
+
+---
+
+Hi {first_name},
+
+I'm not going to promise you this will work for your child. I don't know your child. And you've heard enough promises that didn't deliver.
+
+What I can offer is this: 60 days. Full trial. Your child, your timeline, your judgment.
+
+If you see your child pausing mid-play. Looking down at the wet spot. Pulling at their pants. Showing any sign that they felt something — you'll know it's working.
+
+If nothing changes in 60 days, full refund. No questions. No guilt. You're not buying a promise. You're buying the chance to see for yourself.
+
+---
+WHAT 60 DAYS BUYS YOU
+Research shows interoception — body awareness — can be trained with structured practice. (Hample, Mahler & Amspacher, 2020.) Two months gives the nervous system enough time to start building new pathways. Not because we're magic. Because the mechanism is designed to do what no reward chart can: create the sensation your child needs to recognize.
+
+---
+Whether you've been burned once or a dozen times — the fear of another failure is valid. It's not cynicism. It's self-protection.
+
+Or if you're thinking 'maybe I'll wait and see' — waiting is okay. The product will be here when you're ready.
+
+If your child is showing zero awareness of being wet or dry after all this time — that's not a behavior problem. That's a signal the nervous system hasn't learned to recognize yet. And that CAN be taught.
+
+---
+Parent Quote:
+
+"I was terrified to try again. Every failure had chipped away at something. But the 60-day guarantee made it feel safe. I told myself: 'If it doesn't work, I get my money back and I never have to think about potty training again.' Turned out I didn't need the refund."
+
+— Amanda R., mother of a 7-year-old, Level 2.
+
+---
+[CTA: Start your 60-day trial →]
+https://brightkidco.com/collections/bundles
+
+Try it. Your judgment. No pressure either way.
+
+---
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. I mean it when I say no guilt. I've been where you are. If the product doesn't deliver what you hoped, you deserve your money back. Period.
+
+---
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+---
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+=== KLAVIYO IMPLEMENTATION NOTES ===
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Condition: avatar_level matches variant.

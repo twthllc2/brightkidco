@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="x-apple-disable-message-reformatting">
+<title>Not sure if this is for you? Let me explain how it works.</title>
+<style>
+body,table,td,p,a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+body { margin:0; padding:0; width:100% !important; }
+table { border-collapse:collapse; }
+img { border:0; line-height:100%; outline:none; text-decoration:none; }
+@media only screen and (max-width:480px) {
+.wrapper { width:100% !important; }
+.pad { padding-left:16px !important; padding-right:16px !important; }
+}
+</style>
+</head>
+
+<!--
+============================================================
+BROWSE ABANDONMENT — EMAIL 1 (1 Hour)
+Flow: Flow 10 — Browse Abandonment
+Timing: 1 hour after product view
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+Tone: Cross-level, symptom-first, mechanism reminder, permission-based
+============================================================
+
+SUBJECT LINE VARIANTS:
+1. "Not sure if this is for you? Let me explain how it works."
+2. "You were looking at the 3+3 Bundle — here's why parents call it 'the workhorse'"
+3. "One thing about the 3+3 Bundle you might have missed"
+
+PREHEADER TEXT (choose 1):
+1. "The mechanism explained in 30 seconds — and why 100,000+ parents trust it"
+2. "A quick look at how the Body-Signal Learning Layer works"
+3. "What makes this different from everything else you've tried"
+
+KLAVIYO IMPLEMENTATION NOTES:
+- Use variable: {{ first_name }} for personalization
+- Use variable: {{ browsed_product }} for the specific product viewed
+- Trigger: Viewed product page, no cart creation after 1 hour
+- Segment: Cross-level (all avatar levels — no level filtering)
+- Delay: 1 hour after trigger
+- Tag on send: flow-10-e1-sent
+- Open tracking: enabled
+- Click tracking: enabled
+- UTM params: ?utm_source=klaviyo&utm_medium=email&utm_campaign=flow10-e1
+- If cart created or purchase → exit flow immediately
+- CTA: "See how the mechanism works"
+- Offer: 3+3 Bundle ($79.99) primary, 1 Pair ($34.99) secondary
+- NO urgency messaging — browse abandoners need permission, not pressure
+-->
+
+<body style="margin:0;padding:0;background:#FBF7EB;font-family:'Questrial',Arial,Helvetica,sans-serif;">
+<div style="display:none;font-size:1px;color:#FBF7EB;line-height:1px;max-height:0;max-width:0;opacity:0;overflow:hidden;mso-hide:all;">The mechanism explained in 30 seconds — and why 100,000+ parents trust it. A quick look at how the Body-Signal Learning Layer works.</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FBF7EB;"><tr><td align="center" style="padding:20px 10px;">
+<table width="100%" class="wrapper" style="max-width:480px;background:#FFFFFF;border-radius:8px;" cellpadding="0" cellspacing="0" border="0">
+
+<!-- LOGO -->
+<tr><td align="center" style="padding:28px 20px 12px;"><img src="https://brightkidco.com/cdn/logo.png" alt="BrightKidCo" width="140" style="display:block;height:auto;border:0;"></td></tr>
+<tr><td style="background:#039902;height:3px;font-size:1px;line-height:1px;">&nbsp;</td></tr>
+<tr><td class="pad" style="padding:8px 24px 0;text-align:right;"><span style="font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#9AA8A7;">FLOW 10 &middot; EMAIL 1 OF 5</span></td></tr>
+
+<!-- HEADLINE -->
+<tr><td class="pad" style="padding:24px 24px 0;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr><td style="font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#9AA8A7;padding-bottom:8px;">NOT SURE YET?</td></tr>
+<tr><td style="font-size:26px;line-height:1.2;color:#2D2A24;padding-bottom:6px;">Let me explain how it actually works.</td></tr>
+<tr><td style="font-size:17px;line-height:1.4;color:#039902;padding-bottom:16px;">You were looking at the 3+3 Bundle — and I want you to know what makes it different.</td></tr>
+</table></td></tr>
+
+<!-- LETTER BODY -->
+<tr><td class="pad" style="padding:0 24px 0;">
+<div style="font-size:15px;line-height:1.7;color:#5A564E;">
+<p style="margin:0 0 16px;font-size:17px;color:#2D2A24;font-weight:600;">Hi {{ first_name }},</p>
+
+<p style="margin:0 0 14px;">I saw you were checking out the 3+3 Bundle, and I wanted to stop and say — if you're not sure whether this is for your child, that's completely fair. Most parents who come here have tried a lot of things already. So let me skip the sales pitch and tell you how the mechanism works instead.</p>
+
+<p style="margin:0 0 14px;"><strong>Here's the short version.</strong></p>
+
+<p style="margin:0 0 14px;">Typical potty training assumes your child can feel the "I need to go" signal. For many autistic children, that signal doesn't arrive clearly — not because anything is wrong, but because interoception (the body's ability to sense internal signals like a full bladder) develops differently.</p>
+
+<p style="margin:0 0 14px;">The Body-Signal Learning Layer™ is a thin cotton-blend fabric layer sewn into training underwear that creates a tactile signal your child <em>can</em> feel when wetness happens. It doesn't absorb the wetness away — it helps the child feel it, building that brain-to-body connection over time.</p>
+
+<p style="margin:0 0 14px;">It's not magic. It's mechanism. And it works because it works <em>with</em> the child's nervous system, not against it.</p>
+
+<p style="margin:0 0 14px;"><strong>Here's what parents who bought the 3+3 Bundle say:</strong></p>
+</div></td></tr>
+
+<!-- TESTIMONIAL -->
+<tr><td class="pad" style="padding:0 24px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FBF7EB;border-radius:12px;">
+<tr><td style="padding:20px;font-size:14px;line-height:1.6;color:#5A564E;">
+<p style="margin:0 0 8px;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:#9AA8A7;">A parent like you</p>
+<p style="margin:0 0 6px;font-style:italic;">"We went from 10 accidents a day to 3 in the first two weeks. He started pausing. Looking down. That never happened with pull-ups."</p>
+<p style="margin:0;font-size:13px;color:#9AA8A7;">&mdash; Verified Buyer, 3+3 Bundle</p>
+</td></tr></table></td></tr>
+
+<!-- CTA -->
+<tr><td align="center" class="pad" style="padding:24px 24px 0;">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr><td align="center" style="background:#039902;border-radius:6px;">
+<a href="https://brightkidco.com/pages/how-it-works?utm_source=klaviyo&utm_medium=email&utm_campaign=flow10-e1" target="_blank" style="display:inline-block;padding:14px 36px;font-size:15px;font-weight:700;color:#FFFFFF;text-decoration:none;border-radius:6px;">See how the mechanism works &rarr;</a>
+</td></tr></table>
+<p style="margin:10px 0 0;font-size:12px;color:#9AA8A7;">Or start with 1 Pair ($34.99) to test it first.</p></td></tr>
+
+<!-- GUARANTEE -->
+<tr><td class="pad" style="padding:16px 24px 0;">
+<div style="background:#FBF7EB;border-radius:12px;padding:16px;font-size:13px;line-height:1.5;color:#5A564E;text-align:center;">
+<strong style="color:#039902;">60-Day Money Back Guarantee</strong><br>
+If you don't see progress, full refund. No forms. No hassle.</div></td></tr>
+
+<!-- LENA SIGN-OFF -->
+<tr><td class="pad" style="padding:24px 24px 0;">
+<div style="border-top:1px solid #DBFFCD;padding-top:20px;font-size:15px;line-height:1.6;color:#5A564E;">
+<p style="margin:0 0 4px;">Thinking of you,</p>
+<p style="margin:0 0 2px;font-size:17px;color:#2D2A24;"><strong>Lena</strong></p>
+<p style="margin:0 0 4px;font-size:13px;color:#9AA8A7;">Lena from BrightKidCo &middot; Customer Support &middot; Mom of two autistic sons</p>
+<p style="margin:0;font-size:13px;color:#9AA8A7;">support@brightkidco.com</p>
+</div></td></tr>
+
+<!-- P.S. -->
+<tr><td class="pad" style="padding:8px 24px 24px;">
+<div style="font-size:13px;line-height:1.6;color:#9AA8A7;font-style:italic;">
+<strong style="color:#039902;font-style:normal;">P.S.</strong> If today isn't the right day to decide, that's a real answer. The 3+3 Bundle comes out to just $79.99 — and the 60-day guarantee means there's no risk when you're ready.</div></td></tr>
+
+<!-- SOCIAL PROOF -->
+<tr><td class="pad" style="padding:8px 24px;">
+<div style="text-align:center;font-size:13px;color:#9AA8A7;border-top:1px solid #DBFFCD;border-bottom:1px solid #DBFFCD;padding:14px 0;">
+16,511 reviews &middot; 4.9 &star; &mdash; 100,000+ parents trust BrightKidCo</div></td></tr>
+
+<!-- FOOTER -->
+<tr><td class="pad" style="padding:24px 24px 30px;">
+<div style="text-align:center;font-size:13px;color:#5A564E;line-height:1.6;">
+<a href="https://brightkidco.com/collections/all" target="_blank" style="color:#5A564E;text-decoration:underline;margin:0 6px;">Shop</a> <span style="color:#9AA8A7;">&middot;</span>
+<a href="https://brightkidco.com/pages/parent-stories" target="_blank" style="color:#5A564E;text-decoration:underline;margin:0 6px;">Parent Stories</a> <span style="color:#9AA8A7;">&middot;</span>
+<a href="https://brightkidco.com/pages/contact" target="_blank" style="color:#5A564E;text-decoration:underline;margin:0 6px;">Contact us</a> <span style="color:#9AA8A7;">&middot;</span>
+<a href="https://brightkidco.com/pages/faq" target="_blank" style="color:#5A564E;text-decoration:underline;margin:0 6px;">FAQ</a>
+</div>
+<div style="text-align:center;font-size:11px;color:#9AA8A7;padding-top:16px;">
+<p style="margin:0 0 6px;">Built for the brain that learns differently.</p>
+<p style="margin:0 0 6px;">BrightKidCo &middot; Support: <a href="mailto:support@brightkidco.com" style="color:#9AA8A7;text-decoration:underline;">support@brightkidco.com</a></p>
+<p style="margin:0 0 6px;"><a href="{{ unsubscribe_url }}" target="_blank" style="color:#9AA8A7;text-decoration:underline;">Unsubscribe</a> &middot; <a href="https://brightkidco.com/pages/privacy" target="_blank" style="color:#9AA8A7;text-decoration:underline;">Privacy Policy</a></p>
+</div>
+</td></tr>
+
+</table>
+</td></tr></table>
+</body>
+</html>

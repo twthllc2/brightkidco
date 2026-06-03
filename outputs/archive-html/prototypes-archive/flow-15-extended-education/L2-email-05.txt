@@ -1,0 +1,49 @@
+Subject: Regression is not failure — it is recalibration
+Preheader: Closing email with regression prevention strategies and next steps.
+
+---
+
+🧠 Klaviyo Notes
+Subject Lines:
+A: Regression is not failure — it is recalibration
+B: How to protect your progress (and what to do when the streak breaks)
+C: The regression prevention playbook for Level 2 families
+Preheader: Closing email with regression prevention strategies and next steps.
+From Name: Lena from BrightKidCo
+From Email: support@brightkidco.com
+Tags: flow_15_extended_education, L2-email-05
+
+Regression prevention — because progress is not linear
+
+You have been using the Learning Layer for about 8 weeks now. Maybe you have seen real progress. Maybe it has been slower than you hoped. Either way, one of the most important things to know is what to do when progress stalls or reverses.
+
+Regression in autistic children is not failure — it is recalibration.
+
+When a child who was showing signs of progress suddenly stops, or when a streak of dry days breaks, it is easy to feel like you are back to square one. You are not. The neural pathways were still being built. What is happening is often one of these:
+
+Sensory overwhelm. Too much change — travel, new school term, illness, family stress. The nervous system deprioritizes potty awareness.
+The consolidation plateau. After initial progress, the system needs to consolidate before the next leap. This can look like nothing happening for 2–3 weeks.
+Medical trigger. Constipation, UTI, or GI issues can cause regression. Always rule out physical causes first.
+
+"We had 2 weeks of real progress. Then it all fell apart. I was devastated. But my BCBA said something that changed everything: ‘The pathways you built are still there. His nervous system is just reorganizing.’ She was right. Week 10 it came back stronger."
+— Kendra, mom of Jacob, 6
+
+Regression prevention tips:
+
+Keep the Learning Layer consistent even during regressions — consistency is the anchor
+During stress periods (travel, new school), lower expectations but maintain sensory input
+Communicate with your BCBA/OT about any regressions — they have seen this before
+Track mini-wins, not just dry days — the pauses and looks matter more than the accidents
+
+Whether your child is showing strong signals or still building the foundation, you have been doing exactly what is needed. The nervous system work is invisible until it is not.
+
+Read the full regression prevention guide →
+
+---
+BrightKidCo | Body-Signal Learning Layer Training Underwear
+Lena S. -- Mom of two autistic sons (6 and 8) -- Customer Support, BrightKidCo
+
+Subject lines: A: Regression is not failure — it is recalibration | B: How to protect your progress (and what to do when the streak breaks) | C: The regression prevention playbook for Level 2 families
+Preheader: Closing email with regression prevention strategies and next steps.
+From: Lena from BrightKidCo <support@brightkidco.com>
+Unsubscribe: {{ unsubscribe_url }}

@@ -1,0 +1,97 @@
+== WELCOME FLOW - EMAIL 1 (Day 0) - L1 Variant ==
+
+== SUBJECT LINE ==
+The Pre-K countdown is real - but you have time
+
+== PREHEADER ==
+Hi {first_name}, Pre-K is months away. You have time to build the signal gap - here's where it starts.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 1 OF 8
+
+To the parent navigating Pre-K prep
+
+Your child is in the ideal window.
+
+---
+
+Hi {first_name}, and welcome.
+
+I'm Lena - Customer Support at BrightKidCo, mom of two autistic sons. If you're here, your child talks about the potty but can't quite follow through. 'Almost trained' for weeks or months. Before the code, let's talk about what no one told you about the 'almost trained' stage.
+
+---
+
+You are not behind.
+
+Your child isn't being defiant.
+
+The signal just needs time to arrive.
+
+---
+
+THE PART NOBODY EXPLAINED
+
+It was never about motivation.
+
+Most methods assume your child feels the urge. Sticker charts, timer sits, rewards - all depend on a signal that arrives on time.
+
+For many neurodivergent children, the 'I need to go' signal arrives too late - or not at all. Their nervous system processes internal signals differently.
+
+Pre-K is approaching, and the urgency makes sense. But the signal gap can be bridged. And your child is at the perfect age to build it.
+
+---
+
+""He talks about it constantly. He knows what to do. But he just... doesn't do it." - Sarah, mom of 4-year-old Jake"
+
+---
+
+Whether your child is 3 or 5, verbal and bright - the nervous system piece is the same.
+
+Or if you're wondering 'did I start too late?' - you didn't. Late is normal for autistic kids.
+
+If you've tried Oh Crap or sticker charts - the reason they didn't click is the same, and it's not you.
+
+---
+
+YOUR WELCOME CODE
+WELCOME10
+10% off - auto-applied below
+
+[CTA: Start with the code and explore -> https://brightkidco.com/discount/WELCOME10]
+
+---
+
+Over the next few days, I'll share how the Body-Signal Learning Layer works - the science, stories from parents whose children were 'almost trained', and why the 60-day guarantee means you can try without risk.
+
+Read it when you have a quiet moment.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. If you ever want to reply - I read every message. Really.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 0 days.
+Condition: avatar_level = l1
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e1_sent
+Profile property updated: welcome_flow_email = 1

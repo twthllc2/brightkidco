@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Level Detection — BrightKidCo</title>
+<style>
+  body, table, td, p, a, li, blockquote {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  table, td {
+    mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+  }
+  img {
+    -ms-interpolation-mode: bicubic;
+    border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;
+  }
+  body {
+    margin: 0; padding: 0; width: 100% !important; height: 100% !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  .container { max-width: 500px; margin: 0 auto; background-color: #ffffff; }
+  .header { background-color: #3A7A5C; padding: 40px 24px 32px; text-align: center; }
+  .header h1 { color: #ffffff; font-size: 22px; margin: 0; font-weight: 600; letter-spacing: -0.5px; }
+  .header .subhead { color: #B5D9C5; font-size: 15px; margin-top: 8px; }
+  .body-content { padding: 32px 24px; }
+  .body-content p { color: #333333; font-size: 15px; line-height: 1.6; margin: 0 0 16px; }
+  .body-content .intro { font-size: 16px; color: #444; margin-bottom: 24px; text-align: center; }
+  .question { font-size: 18px; font-weight: 600; color: #2D5A6D; text-align: center; margin: 0 0 24px; }
+  .choice-btn { display: block; width: 100%; padding: 18px 20px; margin: 0 0 12px; background-color: #F7F9FA; border: 2px solid #E0E6E9; border-radius: 10px; text-align: left; color: #333 !important; text-decoration: none; font-size: 15px; line-height: 1.4; box-sizing: border-box; transition: all 0.2s; }
+  .choice-btn:hover, .choice-btn:focus { background-color: #F0F7F4; border-color: #3A7A5C; }
+  .choice-btn .emoji { margin-right: 10px; font-size: 20px; }
+  .choice-btn .desc { display: block; font-size: 13px; color: #777; margin-top: 2px; }
+  .note { font-size: 13px; color: #999; text-align: center; margin-top: 20px; }
+  .guarantee-bar { background-color: #F0F7F4; border: 1px solid #C8E0D4; border-radius: 8px; padding: 14px 18px; margin: 24px 0 0; font-size: 13px; color: #3A7A5C; text-align: center; }
+  .footer { background-color: #F7F9FA; padding: 24px; text-align: center; font-size: 12px; color: #888; }
+  .footer p { margin: 4px 0; }
+  .klaviyo-note { font-size: 12px; color: #999; border-top: 1px solid #E0E6E9; padding-top: 16px; margin-top: 24px; }
+  @media only screen and (max-width: 480px) {
+    .header { padding: 32px 16px 24px; }
+    .header h1 { font-size: 20px; }
+    .body-content { padding: 24px 16px; }
+    .choice-btn { padding: 16px; font-size: 14px; }
+  }
+</style>
+</head>
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f4f4f4">
+<tr><td align="center" style="padding: 20px 10px;">
+  <table class="container" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+    <!-- HEADER -->
+    <tr><td class="header">
+      <h1>Quick question about your child</h1>
+      <p class="subhead">One click helps us send you better content</p>
+    </td></tr>
+    <!-- BODY -->
+    <tr><td class="body-content">
+      <p class="intro">Hi {{ first_name }},</p>
+      <p class="intro">You've been using the Body-Signal Learning Layer™ for a couple of weeks now. We want to make sure the tips and content we send match your child's needs going forward.</p>
+
+      <div class="question">Which best describes your child right now?</div>
+
+      <!-- Button 1 → avatar_level1 -->
+      <a href="[level_select_url]?level=1" class="choice-btn">
+        <span class="emoji">🗣️</span> Talks about potty but won't actually go
+        <span class="desc">Verbal, aware of the concept, but avoiding the act</span>
+      </a>
+
+      <!-- Button 2 → avatar_level2 -->
+      <a href="[level_select_url]?level=2" class="choice-btn">
+        <span class="emoji">🔍</span> Sensory issues, tried many methods
+        <span class="desc">Sensory sensitivities, been through multiple approaches</span>
+      </a>
+
+      <!-- Button 3 → avatar_level3 -->
+      <a href="[level_select_url]?level=3" class="choice-btn">
+        <span class="emoji">💙</span> Non-verbal or high support needs
+        <span class="desc">Requires significant support, communication differences</span>
+      </a>
+
+      <!-- Button 4 → stays avatar_general -->
+      <a href="[level_select_url]?level=general" class="choice-btn">
+        <span class="emoji">🤷</span> Still figuring it out
+        <span class="desc">Not sure yet — still learning what works</span>
+      </a>
+
+      <p class="note">Just one click — no wrong answers. We'll adjust our emails based on what you choose.</p>
+
+      <div class="guarantee-bar">
+        ✅ <strong>Your privacy matters.</strong> This information helps us send content that matches your child's needs. You can update your preferences at any time.
+      </div>
+
+      <p style="margin-top: 24px; font-size: 14px; color: #888;">Lena from BrightKidCo<br><a href="mailto:support@brightkidco.com" style="color: #2D5A6D;">support@brightkidco.com</a></p>
+
+      <div class="klaviyo-note">
+        <p><strong>Klaviyo Notes:</strong></p>
+        <p>Flow: 09 — PP-Level Detection | Email: 1 of 1 (with optional Day 21 reminder)</p>
+        <p>Trigger: Order Placed + Day 14 + avatar_general tag</p>
+        <p>Expected open: 65-75% | Expected click: 35-50% | Expected migration: 40-50%</p>
+        <p>Button routing (Klaviyo — use unique click URLs per button):</p>
+        <p>  → Button 1 (Talks about potty): Set tag avatar_level1, remove avatar_general</p>
+        <p>  → Button 2 (Sensory issues): Set tag avatar_level2, remove avatar_general</p>
+        <p>  → Button 3 (Non-verbal/high support): Set tag avatar_level3, remove avatar_general</p>
+        <p>  → Button 4 (Still figuring out): Stays avatar_general (no tag change)</p>
+        <p>Subject Line Options: (1) "Quick question about your kid" (2) "How would you describe your kid right now?" (3) "One question that helps us send better emails"</p>
+        <p>Preheader Options: (1) "Help us personalize your experience — one click" (2) "Which of these sounds most like your child?" (3) "Two-second question = better emails going forward"</p>
+        <p>Fallback: If no click after 7 days (Day 21), send optional reminder. If still no response, remain avatar_general permanently.</p>
+        <p>Sender: "Lena from BrightKidCo" support@brightkidco.com</p>
+        <p>Image Placeholder: [hero-image: Child smiling — diverse representation. Alt: Tell us about your child to get personalized BrightKidCo content]</p>
+      </div>
+    </td></tr>
+    <!-- FOOTER -->
+    <tr><td class="footer">
+      <p>BrightKidCo — Helping autistic children learn body signals, one gentle step at a time.</p>
+      <p><a href="[unsubscribe_url]" style="color: #888;">Unsubscribe</a> | <a href="[manage_preferences_url]" style="color: #888;">Manage Preferences</a></p>
+      <p>You received this email because you placed an order at BrightKidCo.</p>
+    </td></tr>
+  </table>
+</td></tr></table>
+</body>
+</html>

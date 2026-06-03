@@ -1,0 +1,68 @@
+=== FAQ/OBJECTION LIBRARY — FAQ · L1 · 5 OF 6 ===
+=== VARIANT: L1 ===
+
+=== SUBJECT LINE VARIANTS ===
+1. Real parents of verbal kids share what happened
+2. Is $34.99 worth it when nothing else worked?
+3. Two moms. Two verbal kids. Two different results — both positive.
+
+=== PREHEADER ===
+{first_name}, here's what other parents of verbal, Pre-K age kids experienced.
+
+=== FROM ===
+Lena from BrightKidCo <support@brightkidco.com>
+
+=== BODY TEXT ===
+
+FAQ · L1 · 5 OF 6
+
+"I need to see it works for kids like mine. And is it really worth the money?"
+
+Let me answer both with real stories.
+
+---
+
+Hi {first_name},
+
+First: real stories from Level 1 parents. These are families whose children are verbal, Pre-K age, 'almost trained' — just like yours.
+
+Second: the money question. The 1-pair option is $34.99. The 3+3 bundle is $79.99. Compare that to pull-ups: $360-600 per year, actively preventing the learning you're trying to achieve.
+
+The 60-day guarantee means you're not gambling. You're testing. If it doesn't work, you get your money back. The only real cost is waiting longer.
+
+---
+Parent Stories:
+
+"My 4-year-old could talk about the potty like an expert but would never actually go. I was losing my mind thinking about Pre-K. After 3 weeks in BrightKidCo, he stopped mid-play, looked down, and said 'uh oh.' That was the first time he had ever felt it happening. By week 8, he was initiating. He started Pre-K on time."
+
+— — Kristen P., mother of a 4-year-old, Level 1.
+
+"I thought buying underwear for $34.99 was crazy after spending $200 on a potty training consultant. But the consultant's methods all assumed my son could feel the signal. BrightKidCo taught the signal itself. That's the difference."
+
+— — Tamara J., mother of a 3.5-year-old, Level 1.
+
+---
+[CTA: Shop the 1-pair option →]
+https://brightkidco.com/collections/1-pair
+
+$34.99 · 60-day guarantee · Your judgment
+
+---
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If you want the best value, the 3+3 bundle is $79.99 and covers more ground. Both have the same 60-day guarantee. You can't make a wrong choice here.
+
+---
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+---
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+=== KLAVIYO IMPLEMENTATION NOTES ===
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Condition: avatar_level matches variant.

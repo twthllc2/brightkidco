@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>60 days. Here's what to look for next.</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #FBF7EB;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+    }
+    table { border-collapse: collapse; }
+    .wrapper {
+      width: 100%;
+      table-layout: fixed;
+      background-color: #FBF7EB;
+    }
+    .main {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .header-bar {
+      background-color: #039902;
+      height: 6px;
+      font-size: 0;
+      line-height: 0;
+    }
+    .header {
+      background-color: #039902;
+      padding: 28px 32px 18px 32px;
+      text-align: center;
+    }
+    .header h1 {
+      color: #ffffff;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 1.3;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
+    .header .logo-text {
+      color: #DBFFCD;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin: 0 0 6px 0;
+    }
+    .content {
+      padding: 36px 32px 28px 32px;
+      background-color: #ffffff;
+    }
+    .content p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #333333;
+      margin: 0 0 18px 0;
+    }
+    .content .greeting {
+      font-size: 17px;
+      color: #039902;
+      margin-bottom: 16px;
+    }
+    .story-block {
+      background-color: #FBF7EB;
+      border-radius: 10px;
+      padding: 24px 24px 18px 24px;
+      margin: 20px 0 20px 0;
+    }
+    .story-block p {
+      font-size: 15px;
+      line-height: 1.7;
+      color: #444444;
+      margin: 0 0 14px 0;
+    }
+    .story-block .story-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #9AA8A7;
+      margin-bottom: 8px;
+    }
+    .highlight-box {
+      background-color: #DBFFCD;
+      border-radius: 10px;
+      padding: 22px 24px;
+      margin: 20px 0 20px 0;
+      text-align: center;
+    }
+    .highlight-box p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: #333333;
+      margin: 0;
+    }
+    .highlight-box .highlight-label {
+      font-size: 13px;
+      color: #039902;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #039902;
+      color: #ffffff !important;
+      text-decoration: none;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      letter-spacing: 0.5px;
+      padding: 14px 32px;
+      border-radius: 30px;
+      margin: 12px 0 6px 0;
+    }
+    .cta-link {
+      display: inline-block;
+      color: #039902;
+      text-decoration: underline;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      margin: 8px 0;
+    }
+    .divider {
+      border: none;
+      height: 1px;
+      background-color: #DBFFCD;
+      margin: 24px 0;
+    }
+    .footer {
+      background-color: #FBF7EB;
+      padding: 24px 32px;
+      text-align: center;
+    }
+    .footer p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 1.6;
+      color: #9AA8A7;
+      margin: 0 0 6px 0;
+    }
+    .footer a {
+      color: #039902;
+      text-decoration: underline;
+    }
+    .footer .social-icons {
+      margin: 14px 0;
+    }
+    .social-icon {
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      background-color: #DBFFCD;
+      border-radius: 50%;
+      margin: 0 4px;
+      line-height: 32px;
+      font-size: 14px;
+      color: #039902;
+      text-decoration: none;
+    }
+    .sig {
+      margin-top: 20px;
+      border-top: 1px solid #DBFFCD;
+      padding-top: 16px;
+    }
+    .sig p {
+      font-size: 14px;
+      margin-bottom: 2px;
+      color: #666666;
+    }
+    .sig .name {
+      color: #039902;
+      font-size: 15px;
+    }
+    @media only screen and (max-width: 480px) {
+      .content { padding: 24px 18px 20px 18px; }
+      .header { padding: 20px 18px 14px 18px; }
+      .header h1 { font-size: 18px; }
+      .content p { font-size: 15px; }
+      .story-block { padding: 18px; }
+      .highlight-box { padding: 18px; }
+      .footer { padding: 18px; }
+      .cta-button { padding: 12px 24px; font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <table class="wrapper" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+    <tr>
+      <td align="center">
+        <table class="main" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+          <tr><td class="header-bar">&nbsp;</td></tr>
+          <tr>
+            <td class="header">
+              <p class="logo-text">BrightKidCo</p>
+              <h1>60 days. Here's what to look for next.</h1>
+            </td>
+          </tr>
+          <tr>
+            <td class="content">
+              <p class="greeting">Hi {first_name},</p>
+
+              <p>Two months. That's worth pausing for.</p>
+
+              <p>Whether your child is now initiating consistently, occasionally making it, or still building awareness — 60 days of consistent signal exposure is a real milestone. The Body-Signal Learning Layer™ has been retraining their interoceptive system twice as long as most standard potty training bootcamps even last.</p>
+
+              <p>Here's what I typically see at the 60-day mark, based on thousands of parents I've talked to:</p>
+
+              <p><strong>If you're seeing real progress</strong> — spontaneous initiations, longer dry stretches, fewer prompts needed — you're in the upper percentile. Keep doing what you're doing. The next 30 days are about reinforcing and fading prompts.</p>
+
+              <p><strong>If progress has been uneven</strong> — some good days, some accident-heavy days — this is actually the most common pattern. It means the signal is emerging but not yet consistent. Stick with it. Consistency of fabric-wearing time is the single biggest predictor of eventual success.</p>
+
+              <p><strong>If you're still waiting for a clear signal</strong> — don't panic. Research shows the interoception window for autistic children extends well beyond the early childhood years. Some children take 3-4 months of consistent Learning Layer™ wear before showing reliable awareness. That's not failure. That's neurology.</p>
+
+              <div class="story-block">
+                <p class="story-label">A 60-day story worth reading</p>
+                <p>"It clicked suddenly one day. I almost quit and good thing I didn't because I was only 2 days away from him getting it." — Kristy, mom of a 4-year-old</p>
+              </div>
+
+              <div class="highlight-box">
+                <p class="highlight-label">Where you are right now</p>
+                <p>Two months isn't the finish line. It's the point where the new neural pathways become the default. You've laid the foundation. Now it's about building on it — gently, patiently, on your child's timeline.</p>
+              </div>
+
+              <p style="text-align: center; margin: 22px 0 10px 0;">
+                <a href="https://brightkidco.com/guides/next-60-days" class="cta-button">What the next 60 days look like</a>
+              </p>
+              <p style="text-align: center; margin: 0 0 4px 0;">
+                <a href="https://brightkidco.com/extended-education" class="cta-link">Extended education series</a>
+              </p>
+
+              <hr class="divider">
+
+              <div class="sig">
+                <p class="name">Two months down,</p>
+                <p class="name" style="font-size: 16px; color: #039902;">Lena S.</p>
+                <p style="font-size: 13px; color: #9AA8A7;">support@brightkidco.com</p>
+              </div>
+
+              <p style="font-size: 11px; color: #9AA8A7; text-align: center; margin-top: 22px;">
+                60-Day Money Back Guarantee &bull; 16,511 reviews &bull; 4.9★
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td class="footer">
+              <p class="social-icons">
+                <a href="#" class="social-icon" style="color: #039902;">FB</a>
+                <a href="#" class="social-icon" style="color: #039902;">IG</a>
+                <a href="#" class="social-icon" style="color: #039902;">YT</a>
+              </p>
+              <p>BrightKidCo &bull; support@brightkidco.com</p>
+              <p>You're receiving this because you're part of the BrightKidCo community.</p>
+              <p><a href="#">Unsubscribe</a> at any time &mdash; no hard feelings.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Klaviyo Notes
+Subject Lines:
+1. 60 days. Here's what to look for next.
+2. Two-month milestone — how far have you come?
+3. Your 60-day progress check from Lena
+Preheader: Two months in — milestone reflection and next-phase expectations
+Flow: PP-Mid Check-In (Flow 14)
+Email: E3 of 3
+Timing: Day 60 post-purchase
+Goal: Two-month milestone reflection — re-engage, provide next steps based on current progress level
+CTA: What the next 60 days look like | Extended education series
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+  -->
+
+</body>
+</html>

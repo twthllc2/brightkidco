@@ -1,0 +1,99 @@
+== WELCOME FLOW - EMAIL 1 (Day 0) - L3 Variant ==
+
+== SUBJECT LINE ==
+A quiet welcome - and the story of a 9-year-old who never signaled
+
+== PREHEADER ==
+Hi {first_name}, if your child has never signaled - here's what most specialists miss about the nervous system connection.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 1 OF 8
+
+To the parent who's made peace with 'maybe never'
+
+You've been doing the right thing all along.
+
+---
+
+Hi {first_name}, and welcome.
+
+I'm Lena - Customer Support at BrightKidCo, mom of two autistic sons. If you're here, you've probably stopped counting the years of attempts. Maybe you've made peace with 'maybe never.' That's not giving up - that's protecting yourself.
+
+This isn't about timelines or promises. It's about understanding why nothing could work for a nervous system that processes signals differently.
+
+---
+
+You have not failed.
+
+Your child's autism is not something to fix.
+
+Their nervous system processes differently - that's all.
+
+---
+
+THE PART NOBODY EXPLAINED
+
+It was never about trying harder.
+
+Your child's body processes internal signals differently. That's not failure - that's neurology.
+
+If the 'I need to go' signal never arrives, no amount of rewards or therapy can create one. It's about supporting a nervous system that communicates differently.
+
+Maureen Bennie's son trained at 9.5. Late is not never. But this isn't about timelines. It's about dignity.
+
+---
+
+""He's 9. Never signaled. I stopped actively training 2 years ago. We focus on dignity now." - Maria, mom of Daniel"
+
+---
+
+Whether your child is 6 or 10 - the nervous system is the common thread.
+
+Or if you've stopped actively training - that's energy preservation, not failure.
+
+If you've been told 'maybe he'll never train' - that may be true. And you've been doing right all along.
+
+---
+
+YOUR WELCOME CODE
+WELCOME10
+10% off - for whenever (or never) you're ready
+
+[CTA: Start with the code and explore -> https://brightkidco.com/discount/WELCOME10]
+
+---
+
+Over the next few weeks, I'll share how the Body-Signal Learning Layer supports the nervous system (not 'fixes' it), and stories from families who'd given up.
+
+Read if it feels right. Or don't. No pressure at all.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. I read every message. No pressure. Just an open door.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 0 days.
+Condition: avatar_level = l3
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e1_sent
+Profile property updated: welcome_flow_email = 1

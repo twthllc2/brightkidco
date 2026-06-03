@@ -1,0 +1,65 @@
+Subject Line Options:
+1. Your order is confirmed — and one thing to know
+2. Welcome to the family — here's what comes next
+3. Your Body-Signal Learning Layer is on its way
+
+Preheader Options:
+1. Order #[order_number] confirmed. Delivery estimate: 10 days.
+2. Plus one thing 73% of parents add
+3. Your confirmation + important next steps
+
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+
+==============================
+
+Hi {{ first_name }},
+
+Your order is confirmed and our team is getting it ready for you. Standard delivery takes about 10 days — we'll send you a tracking number as soon as it ships.
+
+========================================
+ORDER SUMMARY
+========================================
+[item_name] × [quantity] ................. [item_price]
+Shipping ................................ [shipping_cost]
+----------------------------------------
+Total ................................... [total_price]
+========================================
+
+You made a decision that changes how your child learns body signals. That's real. The Body-Signal Learning Layer™ creates the feedback loop that pull-ups block — a gentle wetness signal that tells the nervous system "something happened." No sticker charts required. No timed sits. Just a signal that wasn't there before.
+
+Here's how it works: traditional pull-ups are designed to wick moisture away to keep the child dry. But for a child whose internal body signal (interoception) doesn't arrive reliably, that dryness means they learn nothing from an accident. Our underwear intentionally preserves a gentle wetness signal — the "uh-oh" feeling — that creates the feedback loop pull-ups block. Over time, that signal helps the nervous system connect "I feel something" with "I need to use the potty."
+
+-- SOFT UPSELL BLOCK --
+
+✨ 73% of parents add the Wash Bag with their first order.
+A dedicated mesh bag that keeps the learning layers intact, wash after wash.
+$12.99 — one-time add-on
+Add it here: [add_wash_bag_url]
+No pressure — add anytime before we ship.
+
+-- END UPSELL --
+
+Here's a tip from our team: when the package arrives, open it together and let your child touch the fabric first. Sensory familiarity helps ease the transition. We'll share more tips when it lands.
+
+✅ 60-Day Calm Progress Guarantee — If it doesn't work for your child, send it back. No forms, no hassle. Your judgment, your timeline. That's my word.
+
+Lena's note: I know you've likely tried a lot of things. The fact that you're here, reading this, says everything about your commitment. You made the right choice — not because I work here, but because the mechanism makes sense. A signal that wasn't there before changes everything.
+
+View your order status anytime: [order_status_url]
+
+Lena from BrightKidCo
+support@brightkidco.com
+
+==============================
+Klaviyo Notes:
+Flow: 04 — Order Confirmation (Cross-level, no segmentation)
+Trigger: Order Placed (Shopify → Klaviyo)
+Tags: set order_confirmation_sent
+Properties: update order_summary, order_number, item_name, quantity, item_price, shipping_cost, total_price from Shopify
+Timing: Immediate on order placed
+
+Image placeholder: [hero-image: Happy parent and child — warm family moment. Alt: BrightKidCo Body-Signal Learning Layer training underwear]
+
+BrightKidCo — Helping autistic children learn body signals, one gentle step at a time.
+Unsubscribe: [unsubscribe_url] | Manage Preferences: [manage_preferences_url]
+You received this email because you placed an order at BrightKidCo.

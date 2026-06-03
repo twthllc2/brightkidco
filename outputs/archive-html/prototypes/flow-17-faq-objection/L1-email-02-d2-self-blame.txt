@@ -1,0 +1,70 @@
+=== FAQ/OBJECTION LIBRARY — FAQ · L1 · 2 OF 6 ===
+=== VARIANT: L1 ===
+
+=== SUBJECT LINE VARIANTS ===
+1. Maybe I started too late (you didn't)
+2. Pre-K starts in ___ months. You have time. Here's the plan.
+3. 49% of autistic 4-year-olds aren't trained — and it's not your fault
+
+=== PREHEADER ===
+{first_name}, if you're wondering whether you're to blame — let's look at the data together.
+
+=== FROM ===
+Lena from BrightKidCo <support@brightkidco.com>
+
+=== BODY TEXT ===
+
+FAQ · L1 · 2 OF 6
+
+"Maybe I started too late. Maybe I'm the problem."
+
+You're not. Here's what's actually happening.
+
+---
+
+Hi {first_name},
+
+If you've been telling yourself "I should have started earlier" or "other moms figured this out" — let me stop you right there.
+
+The CDC-funded SEED-2 study found that 49% of autistic 4-5 year olds are not toilet trained. That's not bad parenting. That's a documented, measurable neurological difference. (Wiggins et al., 2022.)
+
+Your child is verbal. They're smart. They can talk about the potty. And they still don't make the connection. That's not a reflection on you. That's a signal-timing gap — the body's message and the brain's recognition aren't syncing up.
+
+You didn't start too late. You started with the wrong assumption — that the signal would arrive on its own. Now you know the real problem. And knowing is the first step to solving it.
+
+---
+PRE-K IS ACHIEVABLE
+Most Pre-K programs require daytime training for enrollment. You have time. The Body-Signal Learning Layer typically shows results in 2-8 weeks. Starting today gives you a realistic runway to Pre-K readiness. You haven't missed the window.
+
+---
+Parent Quote:
+
+"I was panicking about Pre-K. Every accident felt like a countdown. I bought BrightKidCo thinking it was a long shot. Two weeks in, my son paused mid-play and looked down. That was the first sign he'd ever shown. By week 6, he was initiating. He started Pre-K in underwear."
+
+— Jessica L., mother of a 3.5-year-old, Level 1.
+
+---
+[CTA: Start your Pre-K readiness plan →]
+https://brightkidco.com/collections/bundles
+
+60-day guarantee · Your judgment
+
+---
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If your child is starting Pre-K in [X months], you have time. Hit reply if you want me to help you think through a timeline.
+
+---
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+---
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+=== KLAVIYO IMPLEMENTATION NOTES ===
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Condition: avatar_level matches variant.

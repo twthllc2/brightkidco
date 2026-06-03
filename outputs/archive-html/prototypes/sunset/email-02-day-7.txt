@@ -1,0 +1,65 @@
+== SUNSET FLOW — EMAIL 2 (Day 7) — Cross-Level ==
+== Final Warning ==
+
+== SUBJECT LINE VARIANTS ==
+1. Last email unless you say otherwise
+2. Final note — then I'll step back
+3. One last thing — click to stay connected
+
+== PREHEADER ==
+Last call to stay in touch with Lena and BrightKidCo.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+FINAL NOTE
+
+Last email — I promise.
+
+—
+
+Hi {first_name},
+
+This really is the last one. If you want to stay subscribed, click below. If not, I understand completely.
+
+It's been a privilege to share this journey with you — even from a distance. I hope the mechanism insights were helpful, whether or not the timing was right.
+
+—
+
+IF YOU WANT TO STAY
+
+[CTA: I want to stay →]
+
+—
+
+If I don't hear from you, I'll stop writing. No hard feelings. The door is always open.
+
+Thank you for being here.
+
+—
+
+With warmth,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Delay: Day 7 from E1.
+Cross-level — no level variants.
+CTA: Text link "I want to stay".
+No click → Update profile: suppressed = true.
+Remove from active email list. Optional: move to "Cold" segment for re-activation campaigns.
+Tags applied on send: flow_sunset_e2_sent.

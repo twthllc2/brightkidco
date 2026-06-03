@@ -1,0 +1,59 @@
+== WINBACK B FLOW — EMAIL 2 (Day 7) — General Fallback Variant ==
+== Light Discount Offer ==
+
+== SUBJECT LINE VARIANTS ==
+1. We'd love to have you try — here's a small offer
+2. A quiet offer, whenever you're ready
+3. One more thing from Lena — a small nudge
+
+== PREHEADER ==
+A little offer from Lena — no pressure either way.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A NOTE · 2 OF 3
+
+A small offer, with zero strings.
+
+—
+
+Hi {first_name},
+
+I know we haven't connected in a while. But I wanted to leave this here — a small offer for whenever you're ready.
+
+15% off your first order. Stacked with the 60-day guarantee.
+
+Whether your child is 3 or 10, verbal or not, whether you're newly exploring or years deep — the mechanism is the same.
+
+Whatever step comes next — even if it's not with us — I hope the mechanism insight helps.
+
+—
+
+[CTA: 15% off — your call →]
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Delay: Day 7 from E1.
+Primary offer: 15% off first order (light discount).
+Condition: opened E1 OR delivered E1.
+Tags applied on send: flow_winback_b_e2_sent.

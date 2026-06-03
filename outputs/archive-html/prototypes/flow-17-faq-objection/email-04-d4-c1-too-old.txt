@@ -1,0 +1,75 @@
+=== FAQ/OBJECTION LIBRARY — FAQ · OBJECTION D4+C1 · 4 OF 6 ===
+=== VARIANT: GF ===
+
+=== SUBJECT LINE VARIANTS ===
+1. Late is not never. Maureen Bennie's son trained at 9.5.
+2. He's not 'too old' for this to work
+3. Has your child passed some invisible deadline?
+
+=== PREHEADER ===
+{first_name}, here's the story that gave me hope when I thought we'd missed the window.
+
+=== FROM ===
+Lena from BrightKidCo <support@brightkidco.com>
+
+=== BODY TEXT ===
+
+FAQ · OBJECTION D4+C1 · 4 OF 6
+
+"My child is too old. Or too severe. I think we missed the window."
+
+You haven't. Here's why.
+
+---
+
+Hi {first_name},
+
+I want to share a story that matters. Maureen Bennie's son was 9 and a half years old when he finally trained. Not 3. Not 4. Nine and a half. They had tried everything. They had stopped actively trying years before. Then something shifted.
+
+Dr. Elizabeth Cross, a clinical psychologist at the Kennedy Krieger Institute and Johns Hopkins, confirms: 'The vast majority of autistic children CAN be potty trained.' The path may look different. The timeline may be longer. But there's no deadline you've already missed.
+
+Research even suggests that interoception difficulties resolve or compensate by adulthood. (Nicholson et al., 2019.) The window isn't closing. Your child's nervous system is still developing.
+
+---
+ABOUT US · WE'RE NOT A HOUSEHOLD NAME YET
+If you haven't heard of BrightKidCo, that's fair — we're not on billboards. But 100,000+ parents of autistic children trust us. 16,511 reviews · 4.9 stars · 97.6% recommend rate. We've run a 672-child clinical trial — the largest in the category. Our Body-Signal Learning Layer is built on peer-reviewed interoception research. We're small. We're science-backed. And we're not going anywhere.
+
+---
+Whether your child is 4 or 10 — the mechanism is the same. Help the body feel the signal.
+
+Or if you've made peace with the idea that maybe it'll never happen — I understand. And I'd still invite you to read one late-trainer story.
+
+If you're wondering whether we're a real company or just another startup with a promise — read our reviews. Talk to our team. We're parents too.
+
+---
+Parent Quote:
+
+"I had accepted that my daughter would never be trained. She was 8, non-verbal, high support needs. I had stopped trying for two years. Then I read Maureen Bennie's story. It cracked something open. We bought one pair. Six months later, she was signaling. Not 'trained' the way other kids are — but she was feeling something. That was everything."
+
+— Diane F., mother of an 8-year-old, Level 3.
+
+---
+[CTA: Read more late-trainer stories →]
+https://brightkidco.com/pages/parent-stories
+
+100,000+ parents · 16,511 reviews · 60-day guarantee
+
+---
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If your child has never shown a sign — that's not failure. That's how their nervous system works right now. And nervous systems can learn.
+
+---
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+---
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+=== KLAVIYO IMPLEMENTATION NOTES ===
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Condition: avatar_level matches variant.

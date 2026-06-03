@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>2-6 weeks for first signals — you're in the window</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #FBF7EB;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+    }
+    table { border-collapse: collapse; }
+    .wrapper {
+      width: 100%;
+      table-layout: fixed;
+      background-color: #FBF7EB;
+    }
+    .main {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .header-bar {
+      background-color: #039902;
+      height: 6px;
+      font-size: 0;
+      line-height: 0;
+    }
+    .header {
+      background-color: #039902;
+      padding: 28px 32px 18px 32px;
+      text-align: center;
+    }
+    .header h1 {
+      color: #ffffff;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 1.3;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
+    .header .logo-text {
+      color: #DBFFCD;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin: 0 0 6px 0;
+    }
+    .content {
+      padding: 36px 32px 28px 32px;
+      background-color: #ffffff;
+    }
+    .content p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #333333;
+      margin: 0 0 18px 0;
+    }
+    .content .greeting {
+      font-size: 17px;
+      color: #039902;
+      margin-bottom: 16px;
+    }
+    .story-block {
+      background-color: #FBF7EB;
+      border-radius: 10px;
+      padding: 24px 24px 18px 24px;
+      margin: 20px 0 20px 0;
+    }
+    .story-block p {
+      font-size: 15px;
+      line-height: 1.7;
+      color: #444444;
+      margin: 0 0 14px 0;
+    }
+    .story-block .story-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #9AA8A7;
+      margin-bottom: 8px;
+    }
+    .highlight-box {
+      background-color: #DBFFCD;
+      border-radius: 10px;
+      padding: 22px 24px;
+      margin: 20px 0 20px 0;
+      text-align: center;
+    }
+    .highlight-box p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: #333333;
+      margin: 0;
+    }
+    .highlight-box .highlight-label {
+      font-size: 13px;
+      color: #039902;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #039902;
+      color: #ffffff !important;
+      text-decoration: none;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      letter-spacing: 0.5px;
+      padding: 14px 32px;
+      border-radius: 30px;
+      margin: 12px 0 6px 0;
+    }
+    .cta-link {
+      display: inline-block;
+      color: #039902;
+      text-decoration: underline;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      margin: 8px 0;
+    }
+    .divider {
+      border: none;
+      height: 1px;
+      background-color: #DBFFCD;
+      margin: 24px 0;
+    }
+    .footer {
+      background-color: #FBF7EB;
+      padding: 24px 32px;
+      text-align: center;
+    }
+    .footer p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 1.6;
+      color: #9AA8A7;
+      margin: 0 0 6px 0;
+    }
+    .footer a {
+      color: #039902;
+      text-decoration: underline;
+    }
+    .footer .social-icons {
+      margin: 14px 0;
+    }
+    .social-icon {
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      background-color: #DBFFCD;
+      border-radius: 50%;
+      margin: 0 4px;
+      line-height: 32px;
+      font-size: 14px;
+      color: #039902;
+      text-decoration: none;
+    }
+    .sig {
+      margin-top: 20px;
+      border-top: 1px solid #DBFFCD;
+      padding-top: 16px;
+    }
+    .sig p {
+      font-size: 14px;
+      margin-bottom: 2px;
+      color: #666666;
+    }
+    .sig .name {
+      color: #039902;
+      font-size: 15px;
+    }
+    @media only screen and (max-width: 480px) {
+      .content { padding: 24px 18px 20px 18px; }
+      .header { padding: 20px 18px 14px 18px; }
+      .header h1 { font-size: 18px; }
+      .content p { font-size: 15px; }
+      .story-block { padding: 18px; }
+      .highlight-box { padding: 18px; }
+      .footer { padding: 18px; }
+      .cta-button { padding: 12px 24px; font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <table class="wrapper" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+    <tr>
+      <td align="center">
+        <table class="main" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+          <tr><td class="header-bar">&nbsp;</td></tr>
+          <tr>
+            <td class="header">
+              <p class="logo-text">BrightKidCo</p>
+              <h1>2-6 weeks for first signals — you're in the window</h1>
+            </td>
+          </tr>
+          <tr>
+            <td class="content">
+              <p class="greeting">Hi {first_name},</p>
+              <p>One month in. Let's talk about timelines — because every Level 1 parent I've worked with asks the same question: <em>"When will I know it's working?"</em></p>
+              <p>The honest answer: <strong>Most parents see their child's first reliable signal between weeks 2 and 6.</strong> You're right in the middle of that window right now.</p>
+              <p>But "first signal" doesn't mean "fully trained." Here's what the progression actually looks like:</p>
+              <p style="margin-bottom: 6px;"><strong>Weeks 1-2:</strong> Adjustment period. The child gets used to the wetness sensation. May not react at all. This is normal.</p>
+              <p style="margin-bottom: 6px;"><strong>Weeks 2-4:</strong> First awareness signs. A pause, a look, a reaction <em>after</em> the accident. The child starts connecting wetness with the feeling of going.</p>
+              <p style="margin-bottom: 6px;"><strong>Weeks 4-6:</strong> Emerging anticipation. The child may start and stop mid-accident, or show signs of holding. Some begin vocalizing or signaling they need to go.</p>
+              <p style="margin-bottom: 6px;"><strong>Weeks 6-8:</strong> More consistent initiation for many. Dry stretches lengthen. Accidents become the exception rather than the rule.</p>
+              <p><strong>Beyond week 8:</strong> For Level 1 kids, many reach reliable daytime training in the 8-12 week range.</p>
+              <div class="story-block">
+                <p class="story-label">The timeline in real life</p>
+                <p>"I kept waiting for a switch to flip. But it didn't happen that way. Week 3 he looked down. Week 4 he paused. Week 5 he said 'uh oh' after. Week 7 he walked to the potty on his own. Each step felt tiny until I looked back and saw how far we'd come." — Megan, mom of a 4-year-old</p>
+              </div>
+              <div class="highlight-box">
+                <p class="highlight-label">Wherever you are on this timeline, you're on track</p>
+                <p>Every child's nervous system processes interoceptive input at its own pace. The Learning Layer™ is doing its job every single time your child wears it.</p>
+              </div>
+              <p><strong>A note on Pre-K timing:</strong> If school starts in 2-3 months and your child is in weeks 4-6 of consistent wear, you are in a strong position.</p>
+              <p style="text-align: center; margin: 22px 0 10px 0;">
+                <a href="https://brightkidco.com/guides/timeline-expectations" class="cta-button">See the full timeline guide</a>
+              </p>
+              <p style="text-align: center; margin: 0 0 4px 0;">
+                <a href="https://brightkidco.com/blog/early-signals" class="cta-link">What early signals actually look like</a>
+              </p>
+              <hr class="divider">
+              <div class="sig">
+                <p class="name">Rooting for you,</p>
+                <p class="name" style="font-size: 16px; color: #039902;">Lena S.</p>
+                <p style="font-size: 13px; color: #9AA8A7;">support@brightkidco.com</p>
+              </div>
+              <p style="font-size: 11px; color: #9AA8A7; text-align: center; margin-top: 22px;">
+                60-Day Money Back Guarantee &bull; 16,511 reviews &bull; 4.9★
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td class="footer">
+              <p class="social-icons">
+                <a href="#" class="social-icon" style="color: #039902;">FB</a>
+                <a href="#" class="social-icon" style="color: #039902;">IG</a>
+                <a href="#" class="social-icon" style="color: #039902;">YT</a>
+              </p>
+              <p>BrightKidCo &bull; support@brightkidco.com</p>
+              <p>You're receiving this because you're part of the BrightKidCo community.</p>
+              <p><a href="#">Unsubscribe</a> at any time &mdash; no hard feelings.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- Klaviyo Notes
+Subject Lines:
+1. 2-6 weeks for first signals — you're in the window
+2. One month in — here's the timeline you can actually expect
+3. The honest timeline for your Level 1 child
+Preheader: Day 30 — timeline expectation setting for L1 parents, what to expect by week
+Flow: PP-Extended Education (Flow 15)
+Level: L1 (Sarah)
+Email: E2 of 5
+Timing: Day 30 post-purchase
+Goal: Set realistic timeline expectations for L1 (2-6 weeks for first signals, 8-12 for reliable daytime training)
+CTA: See the full timeline guide | What early signals actually look like
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+  -->
+</body>
+</html>

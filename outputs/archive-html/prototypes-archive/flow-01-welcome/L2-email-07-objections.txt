@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 7 (Day 19) - L2 Variant ==
+
+== SUBJECT LINE ==
+Your BCBA built the behavioral foundation. This adds the sensory layer.
+
+== PREHEADER ==
+ABA + Body-Signal = both pieces. Bring 30 days of data to your next BCBA session.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 7 OF 8
+
+Your BCBA + the sensory layer = both pieces
+
+This adds what your behavioral plan can't address.
+
+---
+
+Hi {first_name},
+
+You might wonder: 'Will this conflict with our BCBA's protocol?'
+
+Let me be direct: ABA addresses behavior. The Body-Signal Learning Layer addresses sensation. They are complementary.
+
+---
+
+Your BCBA built the behavioral foundation.
+
+BSL adds the sensory piece.
+
+They work together.
+
+---
+
+ABA + SENSORY
+
+How they work together
+
+Your BCBA has built prompt hierarchies and reinforcement schedules. Essential. But none can create a body signal that isn't arriving.
+
+BSL provides the sensory feedback. Once the signal registers, your BCBA's framework reinforces the response.
+
+---
+
+""I worried this conflicted with our ABA. Lena explained how they work together. That respect meant everything." - Jennifer"
+
+---
+
+Whether your BCBA is on board or skeptical - data speaks in 30 days.
+
+Or if you want to discuss first - share the mechanism page.
+
+If you're ready to try - 60-day guarantee means zero risk.
+
+---
+
+
+
+[CTA: See what fits your child -> https://brightkidco.com/shop]
+
+---
+
+One more email - my last regular message.
+
+ABA + sensory = both pieces.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Questions about BCBA compatibility? Reply.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee · 100,000+ parents
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 19 days.
+Condition: avatar_level = l2
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e7_sent
+Profile property updated: welcome_flow_email = 7

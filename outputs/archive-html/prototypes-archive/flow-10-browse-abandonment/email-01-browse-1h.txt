@@ -1,0 +1,48 @@
+============================================================
+BROWSE ABANDONMENT — EMAIL 1 (1 Hour) — TXT VERSION
+Flow: Flow 10 — Browse Abandonment
+Timing: 1 hour after product view
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+============================================================
+
+SUBJECT LINE: Not sure if this is for you? Let me explain how it works.
+PREHEADER: The mechanism explained in 30 seconds — and why 100,000+ parents trust it
+
+---
+
+Hi {{ first_name }},
+
+I saw you were checking out the 3+3 Bundle, and I wanted to stop and say — if you're not sure whether this is for your child, that's completely fair. Most parents who come here have tried a lot of things already. So let me skip the sales pitch and tell you how the mechanism works instead.
+
+Here's the short version.
+
+Typical potty training assumes your child can feel the "I need to go" signal. For many autistic children, that signal doesn't arrive clearly — not because anything is wrong, but because interoception (the body's ability to sense internal signals like a full bladder) develops differently.
+
+The Body-Signal Learning Layer is a thin cotton-blend fabric layer sewn into training underwear that creates a tactile signal your child CAN feel when wetness happens. It doesn't absorb the wetness away — it helps the child feel it, building that brain-to-body connection over time.
+
+It's not magic. It's mechanism. And it works because it works WITH the child's nervous system, not against it.
+
+Here's what parents who bought the 3+3 Bundle say:
+
+"We went from 10 accidents a day to 3 in the first two weeks. He started pausing. Looking down. That never happened with pull-ups."
+— Verified Buyer, 3+3 Bundle
+
+Learn how the mechanism works:
+https://brightkidco.com/pages/how-it-works?utm_source=klaviyo&utm_medium=email&utm_campaign=flow10-e1
+
+Or start with 1 Pair ($34.99) to test it first.
+
+60-Day Money Back Guarantee — If you don't see progress, full refund. No forms. No hassle.
+
+Thinking of you,
+Lena
+Lena from BrightKidCo | Customer Support | Mom of two autistic sons
+support@brightkidco.com
+
+P.S. If today isn't the right day to decide, that's a real answer. The 3+3 Bundle comes out to just $79.99 — and the 60-day guarantee means there's no risk when you're ready.
+
+—
+16,511 reviews | 4.9★ | 100,000+ parents trust BrightKidCo
+Built for the brain that learns differently.
+BrightKidCo | Support: support@brightkidco.com
+Unsubscribe | Privacy Policy

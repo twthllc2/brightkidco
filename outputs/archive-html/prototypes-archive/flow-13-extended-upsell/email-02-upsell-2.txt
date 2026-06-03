@@ -1,0 +1,56 @@
+**Mail: PP-Extended Upsell (Flow 13) – Email 2**
+**Cross-Level | Send Timing: Day 32**
+**Sender: "Lena from BrightKidCo" <support@brightkidco.com>**
+
+---
+
+**Subject Lines (A/B test ready):**
+1. The math behind the 3+3 upgrade
+2. $34.99 per pair vs $13.33 — the numbers speak for themselves
+3. Why parents who upgrade never go back to 1 pair
+
+**Preheaders:**
+1. Value comparison: 1-pair ($34.99) vs 3+3 Bundle ($79.99 = $13.33/pair)
+2. What 16,511 parents say about the bundle
+3. More pairs = more consistency = faster progress
+
+---
+
+**Mail Body:**
+
+Hi {{ first_name | default: "there" }},
+
+Let me be direct about something. You already know the Body-Signal Learning Layer works — you've been using it for a month. The question is whether you're ready for the consistency that makes real progress.
+
+HOW THE NUMBERS STACK UP
+
+1 Pair                    vs                3+3 Bundle ⭐ BESTSELLER
+$34.99                                        $79.99
+$34.99 per pair                               $13.33 per pair — save 62%
+
+✦ FREE Shipping ✦ 60-Day Guarantee
+
+"3+3 bundle means you always have a clean pair ready. Plus it's $13.33 per pair vs $34.99 for singles. Saved me money and laundry stress." — Verified BrightKidCo buyer, 4.9★ review
+
+"Worth every penny. We went from cleaning accidents 5x a day to 1-2. The bundle made it easy to keep him in the underwear consistently." — BrightKidCo parent, on the 3+3 Bundle
+
+Why this matters for learning: More pairs means more consistency. More consistency means the nervous system gets uninterrupted practice building that signal pathway. Every day in BSL is a day the brain connects "full bladder → signal → potty."
+
+Plus, 16,511 parents give us 4.9★. The 3+3 Bundle isn't just the most popular — it's the most effective for long-term consistency.
+
+---
+
+**Lena Sign-Off:**
+Thanks for being here. If you have a question, hit reply — you'll get me, not a template.
+
+— Lena
+Customer Support · Mom of two autistic sons
+
+---
+
+**Klaviyo Implementation Notes:**
+• Trigger: Flow 13, Day 32 after order placed
+• Audience: All buyers (cross-level)
+• Level rules: L1/GF — math reframe OK. L2 — carefully, frame as "investment in consistency." L3 — NEVER math reframe. Show 1-pair option at $34.99 instead.
+• Tags applied on send: flow_13_e2_sent
+• {{ first_name }} — fallback "there"

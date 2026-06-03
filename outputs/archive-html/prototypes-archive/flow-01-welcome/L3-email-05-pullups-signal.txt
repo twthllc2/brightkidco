@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 5 (Day 14) - L3 Variant ==
+
+== SUBJECT LINE ==
+This works alongside specialty diapers - not as a replacement
+
+== PREHEADER ==
+Add alongside specialty diapers. The learning layer can complement your existing system.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 5 OF 8
+
+Working alongside your current system
+
+Not a replacement. A complement.
+
+---
+
+Hi {first_name},
+
+Let me be clear: your child's comfort comes first. If specialty diapers are part of your routine, that's the right choice.
+
+The Body-Signal Learning Layer is designed to add alongside - not replace.
+
+---
+
+Add alongside specialty diapers.
+
+Not a replacement.
+
+Your child's comfort and dignity come first.
+
+---
+
+AN ADD-ON, NOT A REPLACEMENT
+
+Gentle support for the nervous system
+
+One pair of BSL underwear, worn under the pull-up during a one-hour window. The learning layer preserves a gentle awareness cue - just enough for the nervous system to register: 'Something feels different.'
+
+No pressure. No training window. No expectation. Just a gentle sensory nudge.
+
+---
+
+""My son uses specialty diapers. Knowing this product adds alongside - not replaces - felt respectful." - Paula"
+
+---
+
+Whether your child uses pull-ups or specialty diapers - the learning layer adds alongside.
+
+Or if you're not interested in switching anything - you don't have to.
+
+If one gentle signal sounds like too much - this isn't for your child right now. That's okay.
+
+---
+
+
+
+[CTA: See how the Body-Signal Learning Layer works -> https://brightkidco.com/how-it-works]
+
+---
+
+Next: stories from families who had given up - small progress worth noticing.
+
+Dignity first. Always.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Your child's comfort comes first. Always.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 14 days.
+Condition: avatar_level = l3
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e5_sent
+Profile property updated: welcome_flow_email = 5

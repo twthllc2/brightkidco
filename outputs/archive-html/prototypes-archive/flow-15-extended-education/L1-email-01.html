@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>3 weeks in — your Pre-K timeline reality check</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #FBF7EB;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      -webkit-font-smoothing: antialiased;
+    }
+    table { border-collapse: collapse; }
+    .wrapper {
+      width: 100%;
+      table-layout: fixed;
+      background-color: #FBF7EB;
+    }
+    .main {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    .header-bar {
+      background-color: #039902;
+      height: 6px;
+      font-size: 0;
+      line-height: 0;
+    }
+    .header {
+      background-color: #039902;
+      padding: 28px 32px 18px 32px;
+      text-align: center;
+    }
+    .header h1 {
+      color: #ffffff;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 1.3;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
+    .header .logo-text {
+      color: #DBFFCD;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin: 0 0 6px 0;
+    }
+    .content {
+      padding: 36px 32px 28px 32px;
+      background-color: #ffffff;
+    }
+    .content p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 1.7;
+      color: #333333;
+      margin: 0 0 18px 0;
+    }
+    .content .greeting {
+      font-size: 17px;
+      color: #039902;
+      margin-bottom: 16px;
+    }
+    .story-block {
+      background-color: #FBF7EB;
+      border-radius: 10px;
+      padding: 24px 24px 18px 24px;
+      margin: 20px 0 20px 0;
+    }
+    .story-block p {
+      font-size: 15px;
+      line-height: 1.7;
+      color: #444444;
+      margin: 0 0 14px 0;
+    }
+    .story-block .story-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #9AA8A7;
+      margin-bottom: 8px;
+    }
+    .highlight-box {
+      background-color: #DBFFCD;
+      border-radius: 10px;
+      padding: 22px 24px;
+      margin: 20px 0 20px 0;
+      text-align: center;
+    }
+    .highlight-box p {
+      font-size: 15px;
+      line-height: 1.6;
+      color: #333333;
+      margin: 0;
+    }
+    .highlight-box .highlight-label {
+      font-size: 13px;
+      color: #039902;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #039902;
+      color: #ffffff !important;
+      text-decoration: none;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      letter-spacing: 0.5px;
+      padding: 14px 32px;
+      border-radius: 30px;
+      margin: 12px 0 6px 0;
+    }
+    .cta-link {
+      display: inline-block;
+      color: #039902;
+      text-decoration: underline;
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      margin: 8px 0;
+    }
+    .divider {
+      border: none;
+      height: 1px;
+      background-color: #DBFFCD;
+      margin: 24px 0;
+    }
+    .footer {
+      background-color: #FBF7EB;
+      padding: 24px 32px;
+      text-align: center;
+    }
+    .footer p {
+      font-family: 'Questrial', Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 1.6;
+      color: #9AA8A7;
+      margin: 0 0 6px 0;
+    }
+    .footer a {
+      color: #039902;
+      text-decoration: underline;
+    }
+    .footer .social-icons {
+      margin: 14px 0;
+    }
+    .social-icon {
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      background-color: #DBFFCD;
+      border-radius: 50%;
+      margin: 0 4px;
+      line-height: 32px;
+      font-size: 14px;
+      color: #039902;
+      text-decoration: none;
+    }
+    .sig {
+      margin-top: 20px;
+      border-top: 1px solid #DBFFCD;
+      padding-top: 16px;
+    }
+    .sig p {
+      font-size: 14px;
+      margin-bottom: 2px;
+      color: #666666;
+    }
+    .sig .name {
+      color: #039902;
+      font-size: 15px;
+    }
+    @media only screen and (max-width: 480px) {
+      .content { padding: 24px 18px 20px 18px; }
+      .header { padding: 20px 18px 14px 18px; }
+      .header h1 { font-size: 18px; }
+      .content p { font-size: 15px; }
+      .story-block { padding: 18px; }
+      .highlight-box { padding: 18px; }
+      .footer { padding: 18px; }
+      .cta-button { padding: 12px 24px; font-size: 14px; }
+    }
+  </style>
+</head>
+<body>
+  <table class="wrapper" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+    <tr>
+      <td align="center">
+        <table class="main" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+          <tr><td class="header-bar">&nbsp;</td></tr>
+          <tr>
+            <td class="header">
+              <p class="logo-text">BrightKidCo</p>
+              <h1>3 weeks in — your Pre-K timeline reality check</h1>
+            </td>
+          </tr>
+          <tr>
+            <td class="content">
+              <p class="greeting">Hi {first_name},</p>
+              <p>Three weeks down. If you're like most Level 1 parents I talk to, there's a date on your calendar that you're counting toward. September. Pre-K. The enrollment deadline.</p>
+              <p>Let's talk about what's realistic between now and then — because the truth is more hopeful than you might think.</p>
+              <p><strong>Here's what the research and real parent data show:</strong> Most autistic children who wear the Body-Signal Learning Layer™ consistently show their first reliable signal within 2-6 weeks. You're right at the beginning of that window. For Level 1 kids — verbal, cognitively engaged, Pre-K age — many start showing awareness between weeks 3 and 5.</p>
+              <p><strong>What "awareness" looks like at this stage:</strong></p>
+              <p style="margin-bottom: 6px;">✔ Pausing mid-activity after an accident starts</p>
+              <p style="margin-bottom: 6px;">✔ Looking down at the underwear after going</p>
+              <p style="margin-bottom: 6px;">✔ Touching the front of the underwear and making eye contact with you</p>
+              <p style="margin-bottom: 6px;">✔ A delayed reaction — noticing 5-10 seconds after they've gone</p>
+              <p>✔ Shorter accidents (they start and stop more quickly than before)</p>
+              <p>These aren't failures. These are the exact micro-wins that precede full training.</p>
+              <div class="story-block">
+                <p class="story-label">From a mom who was exactly where you are</p>
+                <p>"He talked about it but wouldn't do it. I was panicking about Pre-K. Then around week 4, I saw him pause — just freeze mid-play. He looked down, grabbed the front of his underwear, and ran to the potty. It wasn't perfect after that, but it was the first time his body and brain connected. That's when I knew it was working." — Sarah, mom of a 4-year-old</p>
+              </div>
+              <div class="highlight-box">
+                <p class="highlight-label">Your child is in the perfect window to learn this</p>
+                <p>At 3-5 years old, the autistic brain is still highly plastic for interoceptive learning. The window for body-signal development is wide open right now.</p>
+              </div>
+              <p><strong>Pre-K reality check:</strong> Many schools require daytime training, not mastery. If your child can initiate some of the time, with occasional accidents, that often meets the enrollment standard.</p>
+              <p style="text-align: center; margin: 22px 0 10px 0;">
+                <a href="https://brightkidco.com/guides/pre-k-timeline" class="cta-button">See the Pre-K readiness timeline</a>
+              </p>
+              <p style="text-align: center; margin: 0 0 4px 0;">
+                <a href="https://brightkidco.com/guides/milestones-by-week" class="cta-link">Week-by-week milestone guide</a>
+              </p>
+              <hr class="divider">
+              <div class="sig">
+                <p class="name">Here for the journey,</p>
+                <p class="name" style="font-size: 16px; color: #039902;">Lena S.</p>
+                <p style="font-size: 13px; color: #9AA8A7;">support@brightkidco.com</p>
+              </div>
+              <p style="font-size: 11px; color: #9AA8A7; text-align: center; margin-top: 22px;">
+                60-Day Money Back Guarantee &bull; 16,511 reviews &bull; 4.9★
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td class="footer">
+              <p class="social-icons">
+                <a href="#" class="social-icon" style="color: #039902;">FB</a>
+                <a href="#" class="social-icon" style="color: #039902;">IG</a>
+                <a href="#" class="social-icon" style="color: #039902;">YT</a>
+              </p>
+              <p>BrightKidCo &bull; support@brightkidco.com</p>
+              <p>You're receiving this because you're part of the BrightKidCo community.</p>
+              <p><a href="#">Unsubscribe</a> at any time &mdash; no hard feelings.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- Klaviyo Notes
+Subject Lines:
+1. 3 weeks in — your Pre-K timeline reality check
+2. Here's what realistic progress looks like by Pre-K
+3. The window is open — here's what to watch for
+Preheader: Day 22 check-in — Pre-K deadline timeline and what to expect from your child's signal development
+Flow: PP-Extended Education (Flow 15)
+Level: L1 (Sarah)
+Email: E1 of 5
+Timing: Day 22 post-purchase
+Goal: L1 Pre-K timeline reality check — set realistic expectations for signal emergence within the 2-6 week window
+CTA: See the Pre-K readiness timeline | Week-by-week milestone guide
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+  -->
+</body>
+</html>

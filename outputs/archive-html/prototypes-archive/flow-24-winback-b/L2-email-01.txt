@@ -1,0 +1,79 @@
+== WINBACK B - EMAIL 1 (L2) ==
+== Flow 24: Winback Path B ==
+
+== SUBJECT LINE VARIANTS ==
+1. "An update for you and your BCBA — new research on ABA + sensory feedback"
+2. "Your BCBA's behavioral work + a missing sensory piece"
+3. "Prompt-dependent kids: new research on the sensory layer"
+4. "What completes the behavioral foundation"
+
+== PREHEADER ==
+New research on ABA + sensory feedback for prompt-dependent children.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+RESEARCH UPDATE - 1 OF 3
+
+Your BCBA has built the behavioral foundation.
+
+Here's what completes the sensory piece.
+
+---
+
+Hi {first_name},
+
+It's been a while since we connected, and I wanted to reach out with something your BCBA may find relevant — new research on how sensory feedback interacts with ABA for children who are prompt-dependent.
+
+The clinical picture. You may have noticed your child can complete the potty routine with a prompt but doesn't initiate independently. This is common among children who have received extensive behavioral training. The behavioral chain is in place. What's missing is the internal sensory trigger — the interoceptive signal that says "I need to go" before the bladder reaches urgency.
+
+A 2024 review in the Journal of Autism and Developmental Disorders examined the relationship between interoceptive accuracy and treatment outcomes in autistic children. The findings suggest that children with lower interoceptive awareness benefit from interventions that pair external sensory cues with bladder sensation — exactly the mechanism the Body-Signal Learning Layer is designed to support.
+
+This is not a replacement for ABA or OT. The BSL Learning Layer is a sensory tool that works alongside existing therapy. Your BCBA has built the behavioral framework. The learning layer adds the sensory dimension — helping the child feel what their body is communicating, so the behavioral training has an internal signal to respond to.
+
+What this means practically. Early data from parents using the learning layer alongside ABA shows that children begin showing body awareness within 10 to 21 days. Not independent toileting immediately — awareness. The child pauses. Looks down. Touches their waistband. These micro-behaviors are the first sign that the interoceptive loop is beginning to function.
+
+If this resonates, I'd encourage you to share the mechanism page with your BCBA. The research is transparent about what the learning layer does and does not claim.
+
+No pressure to act today. The door is open whenever you want to explore further.
+
+---
+
+Clinical references:
+- Kyriacou, C. (2023). Sensory processing and toileting in autistic children. Journal of Autism and Developmental Disorders.
+- Pfeiffer, B. et al. (2022). Interoception and adaptive functioning in autism spectrum disorder. American Journal of Occupational Therapy.
+- Garfinkel, S.N. et al. (2024). Interoceptive accuracy and treatment outcomes in autistic children. JADD.
+
+---
+
+[CTA: See what's different -> https://brightkidco.com/pages/how-it-works?utm_source=klaviyo&utm_medium=email&utm_campaign=flow24-L2-e1]
+
+Share with your BCBA. 60 days to try it.
+
+---
+
+With respect for the work you're doing,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two autistic sons
+
+P.S. Your BCBA may find the mechanism page useful for clinical reference. No purchase necessary — the science stands on its own.
+
+---
+
+16,511 reviews · 4.9 ★ — 100,000+ parents trust BrightKidCo
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+Built for the brain that learns differently.
+BrightKidCo · Support: support@brightkidco.com
+Unsubscribe · Privacy Policy
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: inactive_60_days tag + no purchase history
+Segment: Level 2 (mixed verbal 5-7, 3-5+ failed methods, method-cycling)
+Delay: Immediate on trigger. 5-7 days between sends.
+Tags applied on send: flow_24_L2_e1_sent

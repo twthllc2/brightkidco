@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 4 (Day 7) - L3 Variant ==
+
+== SUBJECT LINE ==
+You stopped counting failed attempts. That's not giving up.
+
+== PREHEADER ==
+You haven't failed 7+ years of attempts. The tools for your child's nervous system didn't exist until now.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 4 OF 8
+
+You stopped counting attempts
+
+That's not giving up. That's protecting yourself.
+
+---
+
+Hi {first_name},
+
+You've been at this for years. Maybe 5. Maybe 8. ABA, OT, specialists, every method that promised results. You're still where you started.
+
+If you've stopped actively training - that's not failure. That's rational response to a problem no existing tool solved.
+
+---
+
+You haven't failed 7+ years.
+
+The tools for your child's nervous system didn't exist.
+
+Until now.
+
+---
+
+THE TOOLS DIDN'T EXIST
+
+Designed for the signal gap
+
+Every method assumed the child can feel the signal. For your child, it may have never arrived. The Body-Signal Learning Layer was designed specifically for this gap.
+
+It doesn't promise overnight training. It supports the nervous system at its own pace. Whether your child trains in 8 weeks or never, you've been doing the right thing.
+
+---
+
+""40 hours of ABA a week for 2 years. Still in pull-ups. I thought I failed. I didn't." - Diane"
+
+---
+
+Whether you tried 10 methods or stopped counting - the sensory gap is the reason.
+
+Or if you've been told 'maybe he'll never train' - you've done everything right.
+
+If you're reading with guarded curiosity - that's enough. No action needed.
+
+---
+
+
+
+[CTA: See why traditional methods missed the mark -> https://brightkidco.com/methods-explained]
+
+---
+
+Next: how our product works alongside specialty diapers.
+
+You've been doing the right thing.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. I'm here. No pressure.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 7 days.
+Condition: avatar_level = l3
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e4_sent
+Profile property updated: welcome_flow_email = 4

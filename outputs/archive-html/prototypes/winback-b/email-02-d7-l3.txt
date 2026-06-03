@@ -1,0 +1,71 @@
+== WINBACK B FLOW — EMAIL 2 (Day 7) — Level 3 (Maria) Variant ==
+== Light Discount Offer — Gentle ==
+
+== SUBJECT LINE VARIANTS ==
+1. A small offer, whenever you're ready
+2. No deadlines — but here's a thought
+3. Lower price, same guarantee — whenever the time is right
+
+== PREHEADER ==
+A quiet note from Lena — no rush, no deadline.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A NOTE · 2 OF 3
+
+A small thing, with no expiration.
+
+—
+
+Hi {first_name},
+
+I don't want to push. That's never been my style. But I wanted you to know:
+
+We'd love to have you try — on your terms, in your time.
+
+So here's a small offer. No code, no countdown, no deadline. 15% off your first order, anytime.
+
+It's just a way of saying: we believe in this enough to make it a little easier.
+
+—
+
+The 60-Day Calm Progress Guarantee means you can try one pair and see. If it doesn't feel right, send it back. No forms, no questions. I mean that.
+
+—
+
+[CTA: See the options at your own pace →]
+
+—
+
+Whenever the time is right.
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If it never feels right — that's okay too. I'm glad you were here.
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Delay: Day 7 from E1.
+Primary offer: 15% off first order — or 1 Pair ($34.99) at current price — at L3's pace.
+Text link CTA only — NO buttons.
+ZERO urgency — no deadline language.
+Condition: opened E1 OR delivered E1.
+Tags applied on send: flow_winback_b_e2_sent.

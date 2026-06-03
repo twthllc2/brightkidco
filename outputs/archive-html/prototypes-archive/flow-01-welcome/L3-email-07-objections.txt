@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 7 (Day 19) - L3 Variant ==
+
+== SUBJECT LINE ==
+Whether your child trains or never, you've been doing the right thing
+
+== PREHEADER ==
+Dignity-first. Your child's autism isn't being treated. Their nervous system is being supported.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 7 OF 8
+
+Whether he trains or never - you've done right
+
+Dignity first. Always.
+
+---
+
+Hi {first_name},
+
+I want to address the question sitting with you: 'What if my child is too old? Too severe?'
+
+Your child's autism isn't being treated. Their nervous system is being supported. There's a difference.
+
+---
+
+Your child's autism is identity, not disease.
+
+BSL supports the nervous system.
+
+It doesn't promise to change who your child is.
+
+---
+
+SUPPORT, NOT TREATMENT
+
+Gentle support for the nervous system
+
+If your child has never signaled - that's not failure. It's a nervous system that processes differently.
+
+BSL doesn't promise to train your child. It provides a gentle sensory cue that supports the nervous system on its own timeline.
+
+---
+
+""I made peace with maybe never. This didn't try to change that. It just said: you've done right." - Felicia"
+
+---
+
+Whether you try this or not - you're a good parent.
+
+Or if you've made peace with 'maybe never' - that peace is valid.
+
+If one gentle cue sounds helpful - it's here. No pressure.
+
+---
+
+
+
+[CTA: See what fits your child -> https://brightkidco.com/shop]
+
+---
+
+One more email - my last. A thought worth keeping.
+
+Dignity first. Always.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Whatever you decide, you've done right.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 19 days.
+Condition: avatar_level = l3
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e7_sent
+Profile property updated: welcome_flow_email = 7

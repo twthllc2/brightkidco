@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shipping Notification — BrightKidCo</title>
+<style>
+  body, table, td, p, a, li, blockquote {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  table, td {
+    mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+  }
+  img {
+    -ms-interpolation-mode: bicubic;
+    border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none;
+  }
+  body {
+    margin: 0; padding: 0; width: 100% !important; height: 100% !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; }
+  .header { background-color: #2D5A6D; padding: 30px 24px; text-align: center; }
+  .header h1 { color: #ffffff; font-size: 20px; margin: 0; font-weight: 600; }
+  .header .subhead { color: #C4D4DB; font-size: 14px; margin-top: 6px; }
+  .body-content { padding: 32px 24px; }
+  .body-content p { color: #333333; font-size: 15px; line-height: 1.6; margin: 0 0 16px; }
+  .tracking-card { background-color: #F7F9FA; border-radius: 8px; padding: 24px; text-align: center; margin: 0 0 24px; }
+  .tracking-card .status-icon { font-size: 36px; margin-bottom: 8px; }
+  .tracking-card h3 { color: #2D5A6D; font-size: 18px; margin: 0 0 6px; }
+  .tracking-card p { color: #555; font-size: 14px; margin: 0 0 16px; }
+  .btn { display: inline-block; background-color: #2D5A6D; color: #ffffff !important; text-decoration: none; padding: 12px 28px; border-radius: 6px; font-size: 15px; font-weight: 600; }
+  .tip-box { background-color: #FEF6F0; border-left: 4px solid #A65D2A; padding: 16px 20px; margin: 20px 0; font-size: 14px; color: #555; }
+  .tip-box strong { color: #A65D2A; }
+  .guarantee-bar { background-color: #F0F7F4; border-radius: 8px; padding: 16px 20px; margin: 20px 0; font-size: 13px; color: #3A7A5C; text-align: center; }
+  .footer { background-color: #F7F9FA; padding: 24px; text-align: center; font-size: 12px; color: #888; }
+  .footer p { margin: 4px 0; }
+  .klaviyo-note { font-size: 12px; color: #999; border-top: 1px solid #E0E6E9; padding-top: 16px; margin-top: 24px; }
+  @media only screen and (max-width: 480px) {
+    .header { padding: 24px 16px; }
+    .body-content { padding: 24px 16px; }
+  }
+</style>
+</head>
+<body>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f4f4f4">
+<tr><td align="center" style="padding: 20px 10px;">
+  <table class="container" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+    <!-- HEADER -->
+    <tr><td class="header">
+      <h1>Your underwear is on its way</h1>
+      <p class="subhead">Order #[order_number]</p>
+    </td></tr>
+    <!-- BODY -->
+    <tr><td class="body-content">
+      <p>Hi {{ first_name }},</p>
+      <p>Great news — your order is packed and on the move. Here's everything you need to track it.</p>
+
+      <!-- TRACKING CARD -->
+      <div class="tracking-card">
+        <div class="status-icon">📦</div>
+        <h3>In Transit</h3>
+        <p>Estimated delivery: [delivery_window]</p>
+        <a href="[tracking_url]" class="btn">Track Your Package</a>
+      </div>
+
+      <div class="tip-box">
+        <strong>💡 While you wait:</strong> When the box arrives, open it together with your child. Let them touch the fabric, feel the tag, explore it. Sensory familiarity helps them feel safe with something new. The goal isn't the toilet on Day 1 — it's curiosity.
+      </div>
+
+      <p style="font-size: 14px; color: #555;">The Body-Signal Learning Layer™ works by preserving a gentle signal that tells the nervous system "something happened." Most parents see the first sign of awareness within the first two weeks — and that looks different for every child. A pause. A look down. Pulling at the fabric. All of it counts.</p>
+
+      <div class="guarantee-bar">
+        ✅ <strong>60-Day Calm Progress Guarantee</strong> — Watch for progress on your child's timeline. If it doesn't work, return it. No pressure, no hassle.
+      </div>
+
+      <p style="margin-top: 24px; font-size: 14px; color: #888;">Lena from BrightKidCo<br><a href="mailto:support@brightkidco.com" style="color: #2D5A6D;">support@brightkidco.com</a></p>
+
+      <div class="klaviyo-note">
+        <p><strong>Klaviyo Notes:</strong></p>
+        <p>Flow: 05 — Shipping Notification | Trigger: Order Fulfilled (Shopify → Klaviyo)</p>
+        <p>Tags: set shipping_notification_sent | Dynamic: order_number, tracking_url, delivery_window</p>
+        <p>Do NOT name specific carrier (UPS, FedEx, USPS — use generic "carrier" language)</p>
+        <p>Subject Line Options: (1) "Your underwear is on its way" (2) "Tracking info inside — package is moving" (3) "It's on its way — here's what to do before it arrives"</p>
+        <p>Preheader Options: (1) "Tracking number + delivery estimate inside" (2) "One prep tip while you wait" (3) "Package is in transit — estimated delivery inside"</p>
+        <p>Sender: "Lena from BrightKidCo" support@brightkidco.com</p>
+        <p>Image Placeholder: [hero-image: Package in transit / shipping illustration. Alt: BrightKidCo order on its way]</p>
+      </div>
+    </td></tr>
+    <!-- FOOTER -->
+    <tr><td class="footer">
+      <p>BrightKidCo — Helping autistic children learn body signals, one gentle step at a time.</p>
+      <p><a href="[unsubscribe_url]" style="color: #888;">Unsubscribe</a> | <a href="[manage_preferences_url]" style="color: #888;">Manage Preferences</a></p>
+      <p>You received this email because you placed an order at BrightKidCo.</p>
+    </td></tr>
+  </table>
+</td></tr></table>
+</body>
+</html>

@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 2 (Day 1) - L1 Variant ==
+
+== SUBJECT LINE ==
+Why 'I've tried everything' isn't your fault - it's the method
+
+== PREHEADER ==
+The one-minute explanation of why 'almost trained' is a signal problem, not a parenting problem.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 2 OF 8
+
+Why 'almost trained' is a signal problem
+
+Not defiance. Not parenting. Neurology.
+
+---
+
+Hi {first_name},
+
+You've probably said 'I've tried everything.' But every method you tried made the same assumption: that your child can feel when they need to go.
+
+For many autistic children, that's wrong.
+
+---
+
+Sticker charts need a signal to reward.
+
+Timer sits need a signal to connect to.
+
+Without the signal, no method can work.
+
+---
+
+THE SCIENCE
+
+The signal-timing gap
+
+Interoception - the ability to feel internal signals like hunger or the urge to pee - develops differently in many autistic children. The 'I need to go' message travels from bladder to brain, and for some children, that pathway processes more slowly.
+
+Pre-K is approaching. You still have time to build that pathway.
+
+---
+
+""I spent months thinking he was being stubborn. Then I realized - he really couldn't feel when he needed to go." - Rachel"
+
+---
+
+Whether your child is verbal or not - the signal gap is the same.
+
+Or if you're wondering 'is this autism or just late?' - either way, the signal piece matters.
+
+If Pre-K is on the calendar - the next few months are the ideal window.
+
+---
+
+
+
+[CTA: Learn how the nervous system blocks the signal -> https://brightkidco.com/mechanism]
+
+---
+
+Tomorrow: the welcome code deadline and the 60-day guarantee that makes this risk-free.
+
+One minute that changes how you see everything.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. I read every reply. Tell me about your child.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 1 days.
+Condition: avatar_level = l1
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e2_sent
+Profile property updated: welcome_flow_email = 2

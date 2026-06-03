@@ -1,0 +1,77 @@
+== WINBACK B FLOW — EMAIL 1 (Day 0) — Level 2 (Lisa) Variant ==
+== Respectful Mechanism Reminder ==
+
+== SUBJECT LINE VARIANTS ==
+1. It's been a while — a quick science refresher
+2. No pressure. Just a reminder about the signal-timing gap.
+3. We haven't talked in a while. Here's what the research says.
+
+== PREHEADER ==
+A respectful check-in from one parent to another — no pressure.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A NOTE · 1 OF 3
+
+It's been a while. No pressure.
+
+—
+
+Hi {first_name},
+
+It's been some time since we connected. I know you were deep in research — methods, OT strategies, BCBA recommendations. So if you're still reading, I respect that.
+
+Here's a quick reminder of the core finding that changed everything for me:
+
+—
+
+THE SCIENCE IN ONE PARAGRAPH
+
+Interoception — the ability to feel internal body signals — is processed differently in many autistic children. Kelly Mahler, the researcher who pioneered interoception education, calls it the "eighth sensory system."
+
+When your child can't feel the "I need to go" signal, methods that depend on that signal — sticker charts, timer sits, ABA protocols for toileting — can't work, no matter how well they're executed.
+
+The Body-Signal Learning Layer™ doesn't replace your BCBA's work. It adds the sensory piece that behavioral methods can't address.
+
+—
+
+WHAT REMAINS TRUE
+
+The 60-Day Calm Progress Guarantee is still here. The research hasn't changed — if anything, the evidence for interoception-based training continues to grow.
+
+Whether you're still deciding or you've moved on — either answer is valid. I'm just leaving the door open.
+
+—
+
+[CTA: See the mechanism again →]
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If you've found something that works — I'd genuinely love to hear about it. Hit reply.
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: inactive_60_days tag + avatar_level2 + no purchase ever. Delay: 0.
+Condition: avatar_level = level2, ever_purchased = false, inactive_60_days = true.
+Primary offer: 3+3 Bundle ($79.99).
+Tags applied on send: flow_winback_b_e1_sent.
+Profile property updated: winback_b_email = 1.
+Expected conversion: 2-4%.

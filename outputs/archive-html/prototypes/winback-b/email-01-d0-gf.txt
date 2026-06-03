@@ -1,0 +1,68 @@
+== WINBACK B FLOW — EMAIL 1 (Day 0) — General Fallback Variant ==
+== Curious + Soft Re-engagement ==
+
+== SUBJECT LINE VARIANTS ==
+1. It's been a while. No pressure.
+2. We haven't talked in a while — one quick thought about potty training
+3. Just checking in — the mechanism is still here when you need it
+
+== PREHEADER ==
+A gentle check-in from Lena — no urgency, no pressure.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A NOTE · 1 OF 3
+
+It's been a while.
+
+—
+
+Hi {first_name},
+
+It's been some time since we talked about potty training. I know life moves fast, and this may not be top of mind right now. That's completely okay.
+
+But if your child is still struggling — whether you've tried one method or many, whether they're 3 or 10, verbal or not — the core thing we shared is still true.
+
+—
+
+THE QUICK VERSION
+
+Most potty training methods assume your child feels when they need to go. For many autistic kids, that signal doesn't arrive in time — or doesn't arrive at all. That's why the methods failed. It was never you.
+
+Our underwear creates that signal. The 60-day guarantee means there's nothing to lose.
+
+—
+
+Whether you want to try now or bookmark this for later — either answer is valid.
+
+—
+
+[CTA: Revisit the mechanism when you're ready →]
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: inactive_60_days tag + avatar_general + no purchase ever. Delay: 0.
+Condition: avatar_level = general, ever_purchased = false, inactive_60_days = true.
+Primary offer: 3+3 Bundle ($79.99).
+Tags applied on send: flow_winback_b_e1_sent.
+Expected conversion: 2-4%.

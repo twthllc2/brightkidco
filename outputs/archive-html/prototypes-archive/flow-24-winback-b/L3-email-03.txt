@@ -1,0 +1,70 @@
+== WINBACK B - EMAIL 3 (L3) ==
+== Flow 24: Winback Path B ==
+
+== SUBJECT LINE VARIANTS ==
+1. "Door is whenever"
+2. "If today isn't right, that's a real answer"
+3. "You've been doing the right thing"
+4. "Last note. No pressure."
+
+== PREHEADER ==
+Door is whenever. If today isn't right, that's a real answer.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+Door is whenever.
+
+If today isn't right, that's a real answer. You've been doing the right thing.
+
+---
+
+Hi {first_name},
+
+This is the last note I'll send for now. I want to leave you with something simple: you've been doing the right thing.
+
+Every adjustment, every method you've tried, every time you've listened to your child instead of the calendar — that has been the right thing. The potty training industry makes parents feel like they're falling behind. You are not behind. You are exactly where your child needs you to be.
+
+The learning layer exists for children at every stage. It doesn't promise a timeline. It doesn't compare your child to anyone else's. It simply provides a gentle signal that the brain can learn to recognize, on its own schedule.
+
+If today isn't the right time to try, that is a completely real answer. The door is open. It will always be open. No follow-up emails. No countdowns. No urgency.
+
+If something changes and you want to revisit this conversation, reply to any of these emails. I'll be here. I read every message.
+
+Thank you for letting me into your inbox. It's been an honor.
+
+---
+
+60-Day Money Back Guarantee
+It stands whenever you're ready. No deadline.
+1 Pair — $34.99 · 3+3 Bundle — $79.99
+
+---
+
+With deep respect,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two autistic sons
+support@brightkidco.com
+
+P.S. No pressure. No follow-up. The door is open, and it always will be. You know where to find me.
+
+---
+
+16,511 reviews · 4.9 ★ — 100,000+ parents trust BrightKidCo
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+Built for the brain that learns differently.
+BrightKidCo · Support: support@brightkidco.com
+Unsubscribe · Privacy Policy
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: 5-7 days after E2 sent
+Segment: Level 3 (non-verbal/minimal verbal 6-10+, 5+ years of attempts)
+Tags applied on send: flow_24_L3_e3_sent
+Conditional: If no purchase → Sunset Flow (Flow 27)
+Note: NEVER offer 5+5 Bundle for L3. NEVER use math reframe.

@@ -1,0 +1,73 @@
+=== FAQ/OBJECTION LIBRARY — FAQ · OBJECTIONS B1-B4 · 6 OF 6 ===
+=== VARIANT: GF ===
+
+=== SUBJECT LINE VARIANTS ===
+1. I tried underwear. It didn't work. Here's why this is different.
+2. What if my kid rips them off? Won't wear them? Has GI issues?
+3. Four objections, one answer: the mechanism is different
+
+=== PREHEADER ===
+{first_name}, let's tackle the practical questions head-on.
+
+=== FROM ===
+Lena from BrightKidCo <support@brightkidco.com>
+
+=== BODY TEXT ===
+
+FAQ · OBJECTIONS B1-B4 · 6 OF 6
+
+"I tried underwear. My BCBA has a protocol. My kid won't wear them. We have GI issues."
+
+Let me address each one — honestly.
+
+---
+
+Hi {first_name},
+
+On 'tried underwear, didn't help': Standard training underwear catches the accident — that's all. It doesn't teach. Pull-ups actively remove the signal — wicking technology keeps them dry so the brain never learns. The Body-Signal Learning Layer™ is different: sustained, localized wetness for 30-60 seconds, calibrated to hypo-responsive nervous systems. It creates the feedback loop standard underwear can't. (Simon & Thompson, 2006.)
+
+On 'my BCBA has a protocol': This isn't a replacement for ABA. It's addition. Your BCBA built the behavioral foundation. The Body-Signal Layer adds the sensory piece — teaching the body to feel. Together they're powerful. Share our research with your BCBA.
+
+On 'my kid will rip them off': We expect sensory acclimation. Start by leaving them next to the potty. Let your child explore them. Wear over a pull-up first — the Layer works through that. 100% cotton, hypoallergenic, fun character designs. Gradual is the goal.
+
+On GI issues and withholding: The withholding cycle is real — and medical, not behavioral. Autistic children are 4x more likely to have GI symptoms. (McElhanon et al., 2014.) The Body-Signal Layer works alongside your medical team. It doesn't replace GI protocols — it supports them.
+
+---
+Whether you've tried underwear before or not — the Body-Signal Learning Layer is not the same product.
+
+Or if your BCBA has concerns — share our clinical summary with them. Most see the value immediately.
+
+If sensory issues or GI concerns have made every attempt feel impossible — start slow. One pair. Over a pull-up. No pressure. The mechanism works even at the gentlest pace.
+
+---
+Parent Quote:
+
+"I was sure my son would rip them off. He's sensory-defensive with everything. We left them next to the potty for a week. Day 8, he picked them up and handed them to me. Didn't put them on — just held them. That was the start."
+
+— Priya S., mother of a 6-year-old, Level 2.
+
+---
+[CTA: See how it works →]
+https://brightkidco.com/pages/how-it-works
+
+100% cotton · Hypoallergenic · 60-day guarantee
+
+---
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+P.S. If your child has a specific medical situation — GI issues, sensory processing disorder, or something else — hit reply and tell me. I want to make sure this is right for your family.
+
+---
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+---
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+=== KLAVIYO IMPLEMENTATION NOTES ===
+Trigger: Welcome Flow completed + no purchase (tag: welcome_completed_no_purchase).
+Condition: avatar_level matches variant.

@@ -1,0 +1,60 @@
+== WINBACK B FLOW — EMAIL 3 (Day 14) — General Fallback Variant ==
+== Soft Close → Sunset ==
+
+== SUBJECT LINE VARIANTS ==
+1. This is my last email — door is open
+2. I'm going to stop emailing after this. One last thought.
+3. Last check-in — then I'll let you go
+
+== PREHEADER ==
+Final note from Lena — with gratitude.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A NOTE · 3 OF 3
+
+One last thing.
+
+—
+
+Hi {first_name},
+
+I'm going to stop emailing after this. But I wanted to leave you with something true:
+
+Whether your child is 3 or 10, verbal or not, whether you've tried 2 methods or 20 — the reason potty training hasn't clicked is probably the same: the internal signal isn't arriving in time.
+
+Our Body-Signal Learning Layer™ creates that signal. The 60-day guarantee means there's no risk.
+
+If you want to stay in touch, click below. If not — thank you for reading this far. It's been a privilege.
+
+—
+
+[CTA: Stay subscribed →]
+
+—
+
+With you,
+Lena
+Lena from BrightKidCo · Customer Support · Mom of two
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Delay: Day 14 from E1.
+Goal: Soft close → sunset.
+Condition: opened E2 OR delivered E2.
+No-click after this → inactive_120_days tag → Sunset flow.
+Tags applied on send: flow_winback_b_e3_sent, ready_for_sunset.

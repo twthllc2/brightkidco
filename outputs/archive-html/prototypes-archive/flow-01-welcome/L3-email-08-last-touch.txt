@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 8 (Day 21) - L3 Variant ==
+
+== SUBJECT LINE ==
+If today isn't right, that's the real answer. The door stays open.
+
+== PREHEADER ==
+Closing this gently. Your dignity journey is valid. The door stays open.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 8 OF 8
+
+Closing the series - leaving the door open
+
+You have the knowledge. The rest is your timeline.
+
+---
+
+Hi {first_name},
+
+This is my last regular email. I've shared: why every method failed, how BSL supports the body's awareness, late-trainer stories, why dignity comes first.
+
+If you want to try, the 60-day guarantee is unconditional. If not, I'm grateful you read.
+
+---
+
+You've been doing the right thing.
+
+Your child's nervous system is not broken.
+
+It communicates differently. That's okay.
+
+---
+
+THE DOOR STAYS OPEN
+
+No pressure. Ever.
+
+Your child's journey is not a timeline. It's a life lived with love and dignity - and you've been providing both.
+
+If BSL fits, it's here. If not, that's the right answer too.
+
+---
+
+""The mechanism was gentle. No promises. Just: this is why nothing worked. That was enough." - Trisha"
+
+---
+
+Whether you try this or never try it - you've been the right parent.
+
+Or if you want to reach out months from now - I'll be here.
+
+If this series gave you one useful insight - that's enough.
+
+---
+
+
+
+[CTA: 60 days to try it. Your judgment. -> https://brightkidco.com/guarantee]
+
+---
+
+Thank you for trusting me with your inbox and your story.
+
+With quiet respect, Lena.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Reply anytime. No pressure. Just an open door.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 21 days.
+Condition: avatar_level = l3
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e8_sent
+Profile property updated: welcome_flow_email = 8

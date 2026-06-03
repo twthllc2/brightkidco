@@ -1,0 +1,47 @@
+BRIGHTKIDCO
+
+Noticed you were browsing. Here's a quick overview of the Body-Signal Learning Layer.
+
+----------------------------------------
+
+Subject Line Options:
+1. Noticed you were looking — here's what makes us different
+2. The one thing most potty methods miss
+3. A quick explanation of what we do
+
+Preheader: Noticed you were browsing. Here's a quick overview of the Body-Signal Learning Layer.
+
+----------------------------------------
+
+Dear {first_name},
+
+I noticed you were looking around our site — and I wanted to reach out personally, not to sell you anything, but to share something that might help.
+
+If you came across BrightKidCo while searching for potty training solutions, you're probably wondering what makes this different from everything else you've tried. It's a fair question.
+
+Here's the short version: most potty training methods assume the child can feel when they need to go. For many autistic children, that internal body signal — called interoception — doesn't arrive reliably. It's not about stubbornness or readiness. It's about the nervous system.
+
+The Body-Signal Learning Layer is a specially designed fabric layer that provides a consistent, gentle wetness signal. Over time, the nervous system learns to recognize that signal. For many children, the first sign is a pause — a moment where they notice something they've never noticed before.
+
+One parent shared: "He knew he was peeing. For the first time, he KNEW. That was the start of everything."
+
+If that sounds like it might be relevant for your family, you can explore the full story on our site. No pressure, no commitment — just the information you need to decide if this fits.
+
+And if it's not the right time, I completely understand. Either way, I'm glad you stopped by.
+
+Warmly,
+Lena
+Customer Support, Mom of two autistic sons
+
+→ See how the mechanism works: https://brightkidco.com/pages/how-it-works
+
+60-day guarantee. No pressure, no commitment.
+
+----------------------------------------
+
+Klaviyo Notes:
+- Flow: Site Abandonment (Flow 25)
+- Email: Single email — 6-12 hours post-abandonment
+- Cross-level — no segment required
+- Soft re-engagement, not hard sell
+- No pricing mentioned — education first

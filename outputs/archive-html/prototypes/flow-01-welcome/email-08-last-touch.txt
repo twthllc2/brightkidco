@@ -1,0 +1,95 @@
+== WELCOME FLOW — EMAIL 8 (Day 21) — General Fallback Variant ==
+== CROSS-LEVEL: "Whether...Or...If..." Pattern ==
+
+== SUBJECT LINE VARIANTS ==
+1. This is my last email — and one final thought
+2. Nothing has changed except one thing: you now know the mechanism
+3. If today isn't right, that's a real answer
+
+== PREHEADER ==
+No pressure, no countdown. Here's what matters. Closing this chapter — but leaving the door open.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER · 8 OF 8
+
+One last thing before I step back
+
+—
+
+{first_name}, this is my last regular email. Eight letters over 21 days.
+
+I've shared a lot. Let me bring it together.
+
+—
+
+Here's what we've covered:
+
+1. The signal gap — why traditional methods assume a connection that isn't there.
+2. The pull-up paradox — products designed to keep kids dry also prevent their brains from learning.
+3. You didn't fail — the methods were solving the wrong problem for your child's neurology.
+4. The Body-Signal Learning Layer™ — three layers designed to create the sensory feedback loop that pull-ups block.
+5. Real families — stories from parents who saw their children start to recognize the signal.
+
+—
+
+And here's the bottom line:
+
+Whether you purchase or not — you now understand the single most important truth about autism and potty training: the signal has to arrive before any method can work.
+
+Or if you decide to try — the 60-Day Calm Progress Guarantee means you have nothing to lose but a method that couldn't work for your child.
+
+If today isn't right, that's a real answer. Not a sales objection. A real, honest, valid answer.
+
+—
+
+The door is open. Come through whenever you're ready.
+
+Your code: WELCOME10
+Your guarantee: 60 days, your judgment
+
+[CTA: 60 days to try it. Your judgment. → https://brightkidco.com/discount/WELCOME10]
+
+—
+
+Thank you for reading these letters. I know your time is rare and precious. The fact that you read this far tells me everything about the kind of parent you are.
+
+Hit reply anytime. I read every message.
+
+—
+
+With you,
+Lena
+Customer Support · Mom of two autistic sons
+
+P.S. When you're ready, our team is here every day. Questions about sizing, sensory needs, using alongside ABA — whatever it is, just ask. There's no such thing as a wrong question here.
+
+—
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+—
+
+Shop · Parent Stories · Contact us · FAQ
+
+BrightKidCo · A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Day 21 (21 days after signup). Delay: 48 hours from E7 send.
+Condition: avatar_level is empty OR avatar_level = general.
+    AND welcome_flow_email = 7 (E7 was sent).
+    AND NOT purchased.
+    AND NOT suppressed.
+Tags applied on send: flow_welcome_e8_sent AND welcome_completed_no_purchase
+Profile property updated: welcome_flow_email = 8; welcome_flow_completed = true
+Key message: Mechanism summary, guarantee reinforcement, gentle close with door left open.
+T5 (guarantee trust tier) reinforced as final element.
+Permission-not-to-buy (V12) is the closing note — ensures positive brand exit sentiment.
+GF voice: "Whether...Or...If..." pattern maintained.
+Post-exit: Routes to FAQ/Objection Library Flow (Flow 17/24).
+Split test: Subject line A (direct: "This is my last email") vs B (summary: "Nothing has changed"). 50/50 split.

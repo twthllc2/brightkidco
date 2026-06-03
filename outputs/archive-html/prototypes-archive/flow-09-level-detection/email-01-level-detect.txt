@@ -1,0 +1,75 @@
+Subject Line Options:
+1. Quick question about your kid
+2. How would you describe your kid right now?
+3. One question that helps us send better emails
+
+Preheader Options:
+1. Help us personalize your experience — one click
+2. Which of these sounds most like your child?
+3. Two-second question = better emails going forward
+
+Sender: "Lena from BrightKidCo" <support@brightkidco.com>
+
+==============================
+
+Hi {{ first_name }},
+
+You've been using the Body-Signal Learning Layer™ for a couple of weeks now. We want to make sure the tips and content we send match your child's needs going forward. One quick click helps us personalize everything from education content to product recommendations.
+
+Please choose the option that best describes your child right now:
+
+========================================
+OPTION 1: Talks about potty but won't actually go
+========================================
+Your child is verbal and aware of the potty training concept, but avoids actually using the toilet. They may talk about it, agree to try, but when it's time, they hold it or refuse.
+→ Select here: [level_select_url]?level=1
+
+========================================
+OPTION 2: Sensory issues, tried many methods
+========================================
+Your child has sensory sensitivities that make traditional methods difficult. You've tried multiple approaches (sticker charts, timed sits, social stories, etc.) without lasting success.
+→ Select here: [level_select_url]?level=2
+
+========================================
+OPTION 3: Non-verbal or high support needs
+========================================
+Your child requires significant support for daily activities. Communication may be through AAC, sign language, or non-verbal cues. Traditional potty training methods don't apply.
+→ Select here: [level_select_url]?level=3
+
+========================================
+OPTION 4: Still figuring it out
+========================================
+You're not sure yet what category fits best. Still learning what works and observing your child's response to the underwear.
+→ Select here: [level_select_url]?level=general
+
+========================================
+
+Just one click — no wrong answers. We'll adjust our emails based on what you choose.
+
+If you're not sure, Option 4 is completely fine. You can update your preferences at any time by replying to this email.
+
+✅ Your privacy matters. This information helps us send content that matches your child's needs. We'll never use this for anything other than personalizing your experience.
+
+Lena from BrightKidCo
+support@brightkidco.com
+
+==============================
+Klaviyo Notes:
+Flow: 09 — PP-Level Detection | Email: 1 of 1 (with optional Day 21 reminder)
+Trigger: Order Placed + Day 14 + avatar_general tag
+Expected open: 65-75% | Expected click: 35-50% | Expected migration: 40-50%
+
+Button routing (set up as 4 unique click URLs in Klaviyo):
+  → Option 1 (Talks about potty): Set tag avatar_level1, remove avatar_general
+  → Option 2 (Sensory issues): Set tag avatar_level2, remove avatar_general
+  → Option 3 (Non-verbal/high support): Set tag avatar_level3, remove avatar_general
+  → Option 4 (Still figuring out): Stays avatar_general (no tag change)
+
+Fallback: If no click after 7 days (Day 21), send optional reminder email.
+If still no response after reminder, remain avatar_general permanently.
+
+Image placeholder: [hero-image: Child smiling — diverse representation. Alt: Tell us about your child to get personalized BrightKidCo content]
+
+BrightKidCo — Helping autistic children learn body signals, one gentle step at a time.
+Unsubscribe: [unsubscribe_url] | Manage Preferences: [manage_preferences_url]
+You received this notice because you placed an order at BrightKidCo.

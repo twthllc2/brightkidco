@@ -1,0 +1,70 @@
+BrightKidCo · Body-Signal Learning Layer™
+===================================
+
+FAQ/Objection Library (Flow 17) · Email 2 of 6 · General Fallback
+Objection: D3 (Hope-Risk)
+Tonality: 50/50 Hope/Realism
+
+= = = = =
+
+SUBJECT LINES (3 options):
+1. "The 60-day guarantee makes this risk-free — and that's the whole point"
+2. "I'm not promising it'll work. I'm offering you 60 days to see for yourself."
+3. "What if hope hurts too much? Here's an honest alternative."
+
+PREHEADER:
+"You've been burned before. I get it. Here's a different kind of offer."
+
+= = = = =
+
+Hi {first_name},
+
+I'll be honest with you: I don't know if BrightKidCo will work for your child.
+
+I know their story. I know the methods you've tried. I know the money you've spent. And I know what it costs to hope for something, try it, and watch it not work.
+
+That's not a sales problem. That's a real wound. And pretending otherwise would be disrespectful.
+
+What I can tell you is this: research shows that interoception — the ability to feel internal body signals — can be trained with structured practice. The Body-Signal Learning Layer is designed to deliver the sustained sensation that builds that awareness over time.
+
+But you don't have to take my word for it. You don't even have to decide today.
+
+-- Parent Quote --
+"After spending hundreds of dollars on methods that didn't work, I was terrified to hope. But the 60-day guarantee meant I wasn't risking anything — just giving it a real chance."
+— BrightKidCo parent
+
+-- 60-Day Calm Progress Guarantee --
+You have 60 days. Your child wears the underwear. You observe. You decide.
+
+If you see your child recognizing the signal — even tiny steps like pausing, looking down, pulling at their pants — you'll know it's working.
+
+If nothing changes in 60 days, full refund. No forms. No questions. No "you should have tried harder."
+
+You're not buying a promise. You're buying the chance to observe, without risk, whether your child's nervous system responds to the one thing it's been missing: a sustained body signal that builds awareness over time.
+
+-- Real Parent Testimonial --
+"We went from 10 accidents a day to 3 in the first month. It wasn't overnight. But for the first time, something was actually happening."
+— BrightKidCo parent, child age 4, sensory processing differences
+
+CTA: 60 days to try it — your call
+[Link: product page]
+
+If today isn't right, that's a real answer. The door stays open.
+
+= = = = =
+
+Klaviyo Notes:
+Flow: FAQ/Objection Library (Flow 17) · Email 2 of 6 (GF)
+Objection: D3 (hope-risk)
+Tonality: 50/50 Hope/Realism · General Fallback
+Trigger: 3 days after E1 (no purchase)
+CTA: "60 days to try it — your call" → product page
+Tags: avatar_general, flow_17_gf
+From: Lena from BrightKidCo · support@brightkidco.com
+Key element: Permission-not-to-buy embedded throughout
+
+= = = = =
+
+Lena
+Customer Support · Mom of two autistic sons
+BrightKidCo · 16,511 reviews · 4.9★

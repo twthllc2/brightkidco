@@ -1,0 +1,69 @@
+== WINBACK B - EMAIL 2 (L1) ==
+== Flow 24: Winback Path B ==
+
+== SUBJECT LINE VARIANTS ==
+1. "Remember that signal gap? Here's what we've improved since then"
+2. "The body-signal connection is real — and it's getting stronger"
+3. "Your child's nervous system IS building the connection"
+4. "New improvements to the BSL Learning Layer"
+
+== PREHEADER ==
+The body-signal mechanism — refreshed with new improvements.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 2 OF 3
+
+Remember that signal gap?
+
+Here's what's changed since you last looked.
+
+---
+
+Hi {first_name},
+
+Last time I mentioned the interoception research. Today I want to get more specific about what that actually means for your child's body.
+
+The core mechanism hasn't changed. The Body-Signal Learning Layer works by creating a gentle, consistent sensory bridge between the bladder and the brain. When your child wears the underwear, the learning layer provides a subtle sensation that says, "Something is happening." Over time, the brain learns to recognize that sensation as the signal to go.
+
+What has changed is the precision. We've refined the learning layer material to be more responsive at lower wetness levels. That means the signal arrives earlier in the cycle — giving the brain more time to register and respond. For a child whose nervous system needs extra processing time, that head start matters.
+
+Parents have been reporting that their children begin showing awareness within the first 10 to 14 days. Not dry overnight. Not trained. Just aware. And awareness is the foundation everything else builds on.
+
+Your child's nervous system IS building the connection. Every time they wear the learning layer, that neural pathway gets a little stronger. It's not magic — it's neuroplasticity at work, supported by consistent sensory input.
+
+If you're considering starting before Pre-K, the next few weeks are a real opportunity. Fall is a natural transition point for many families.
+
+---
+
+[CTA: Start before September -> https://brightkidco.com/products/3-plus-3-bundle?utm_source=klaviyo&utm_medium=email&utm_campaign=flow24-L1-e2]
+
+3+3 Bundle — $79.99 · Bestseller
+
+---
+
+Talk soon,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two autistic sons
+
+P.S. One more email coming your way with a gentle close. If you have questions in the meantime, just hit reply — I read every message.
+
+---
+
+16,511 reviews · 4.9 ★ — 100,000+ parents trust BrightKidCo
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+Built for the brain that learns differently.
+BrightKidCo · Support: support@brightkidco.com
+Unsubscribe · Privacy Policy
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: 5-7 days after E1 sent
+Segment: Level 1 (verbal child 3-5, 1-3 failed methods)
+Tags applied on send: flow_24_L1_e2_sent

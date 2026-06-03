@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>BrightKidCo — Winback B E3 L3</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Questrial&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background-color: #FBF7F1; font-family: 'Questrial', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+    table { border-collapse: collapse; }
+    img { border: 0; outline: none; display: block; }
+
+    .email-shell { width: 100%; max-width: 420px; margin: 0 auto; background-color: #FFFBF0; }
+
+    /* Preheader */
+    .preheader { background: #F6F2EA; padding: 6px 20px; text-align: center; }
+    .preheader td { font-family: 'Questrial', system-ui, sans-serif; font-size: 11px; font-style: italic; color: #8A9B9D; }
+
+    /* Header */
+    .header-cell { padding: 24px 20px 0; text-align: center; background-color: #FFFBF0; }
+
+    /* TitleBlock */
+    .title-block { background-color: #FFFBF0; padding: 20px 22px 0; text-align: center; }
+    .title-block h1 { font-family: 'Fraunces', Georgia, serif; font-size: 40px; line-height: 1; font-weight: 700; letter-spacing: -0.8px; color: #1F2D2F; margin: 0; }
+    .title-block .subhead { font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; line-height: 1.65; color: #4A6568; margin: 12px 0 0; }
+
+    /* Band */
+    .band { height: 40px; }
+    .band-sm { height: 32px; }
+
+    /* Letter section */
+    .letter { background-color: #FFF6E2; padding: 4px 24px 28px; }
+    .letter p { font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; line-height: 1.65; color: #4A6568; margin: 0 0 14px; }
+    .letter p.lead { font-size: 17px; font-weight: 600; color: #1F2D2F; }
+
+    /* Quote + reflection */
+    .reflection { background-color: #EAF6F2; padding: 28px 24px; }
+    .reflection h2 { font-family: 'Fraunces', Georgia, serif; font-size: 24px; line-height: 1.15; font-weight: 700; letter-spacing: -0.4px; color: #1F2D2F; margin: 0 0 16px; }
+    .reflection p { font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; line-height: 1.65; color: #4A6568; margin: 0 0 14px; }
+    .reflection p:last-child { margin-bottom: 0; }
+
+    .quote-card { background-color: #FFD866; border-radius: 18px; padding: 24px; margin: 0 0 16px; box-shadow: 4px 4px 0 #1F2D2F; }
+    .quote-card:last-child { margin-bottom: 0; }
+    .quote-card .qmark { color: #2BAEB4; font-size: 28px; font-weight: 700; font-family: 'Fraunces', Georgia, serif; line-height: 1; }
+    .quote-card .qtext { font-family: 'Fraunces', Georgia, serif; font-size: 16px; font-style: italic; font-weight: 400; line-height: 1.5; color: #1F2D2F; }
+
+    /* Mini-wins section */
+    .mini-wins { background-color: #FFFBF0; padding: 28px 24px; }
+    .mini-wins h2 { font-family: 'Fraunces', Georgia, serif; font-size: 24px; line-height: 1.15; font-weight: 700; letter-spacing: -0.4px; color: #1F2D2F; margin: 0 0 16px; }
+    .win-item { background-color: #FFFFFF; border-radius: 14px; padding: 18px 20px; margin: 0 0 10px; border: 2px solid #1F2D2F; box-shadow: 3px 3px 0 #1F2D2F; }
+    .win-item:last-child { margin-bottom: 0; }
+    .win-item p { font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; line-height: 1.5; color: #4A6568; margin: 0; }
+    .win-item .win-label { font-family: 'Questrial', system-ui, sans-serif; font-size: 10.5px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: #1E8A8F; margin-bottom: 4px; }
+
+    /* CTA section */
+    .cta-section { background-color: #1F2D2F; padding: 20px 22px 44px; text-align: center; }
+    .cta-section .cta-intro { font-family: 'Questrial', system-ui, sans-serif; font-size: 14px; color: #B8CACD; margin: 0 0 16px; }
+    .cta-button { display: inline-block; background-color: #D8F57C; color: #1F2D2F; font-family: 'Questrial', system-ui, sans-serif; font-size: 15px; font-weight: 700; letter-spacing: 0.3px; text-decoration: none; padding: 17px 32px; border-radius: 999px; min-height: 48px; line-height: 1; }
+
+    /* Signoff */
+    .signoff { background-color: #1F2A2C; padding: 0; }
+    .signoff-accent { height: 4px; background: linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%); opacity: 0.9; }
+    .signoff-card { padding: 24px 24px 28px; border: 1.5px solid #2F3D40; border-top: none; }
+    .signoff-label { font-family: 'Questrial', system-ui, sans-serif; font-size: 10.5px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: #8FAFB2; margin-bottom: 4px; }
+    .signoff-name { font-family: 'Questrial', system-ui, sans-serif; font-size: 17px; font-weight: 700; color: #FFFFFF; margin: 0 0 2px; }
+    .signoff-title { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; color: #8FAFB2; margin: 0 0 12px; }
+    .signoff-signature { font-family: 'Caveat', cursive; font-size: 42px; line-height: 0.95; font-weight: 500; color: #D8F57C; letter-spacing: -0.5px; margin: 12px 0 0; }
+    .signoff-ps { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; line-height: 1.5; color: #B8CACD; margin: 12px 0 0; padding-top: 12px; border-top: 1.5px dashed #3A4547; }
+
+    /* OutLine */
+    .outline { background-color: #FFFBF0; padding: 16px 24px; text-align: center; }
+    .outline p { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; font-style: italic; color: #8A9B9D; margin: 0; }
+
+    /* Footer */
+    .footer { background-color: #FFFFFF; padding: 30px 20px 24px; text-align: center; }
+    .footer .tagline { font-family: 'Fraunces', Georgia, serif; font-size: 20px; font-style: italic; font-weight: 500; color: #1F2D2F; letter-spacing: -0.2px; margin-bottom: 20px; }
+    .footer .divider { width: 60px; height: 3px; background: linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%); border-radius: 3px; margin: 0 auto 20px; }
+    .footer-links { margin-bottom: 16px; }
+    .footer-links a { font-family: 'Questrial', system-ui, sans-serif; font-size: 13px; font-weight: 500; color: #1F2D2F; text-decoration: none; margin: 0 8px; }
+    .footer .social-icons { margin-bottom: 16px; }
+    .footer .social-icons a { margin: 0 8px; font-size: 0; text-decoration: none; }
+    .footer .microcopy { font-family: 'Questrial', system-ui, sans-serif; font-size: 11px; color: #8A9B9D; line-height: 1.65; margin-bottom: 8px; }
+    .footer .fine-print { font-family: 'Questrial', system-ui, sans-serif; font-size: 11px; color: #8A9B9D; line-height: 1.65; }
+    .footer .fine-print a { color: #8A9B9D; text-decoration: underline; }
+
+    /* Responsive */
+    @media only screen and (max-width: 420px) {
+      .email-shell { width: 100% !important; max-width: 420px !important; }
+      .title-block h1 { font-size: 32px !important; }
+      .band { height: 32px !important; }
+      .cta-button { width: 100% !important; display: block !important; }
+    }
+    @media only screen and (max-width: 375px) {
+      .title-block h1 { font-size: 30px !important; }
+    }
+  </style>
+</head>
+<body>
+  <!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="420" align="center"><tr><td><![endif]-->
+  <table class="email-shell" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:420px;margin:0 auto;background-color:#FFFBF0;">
+    <tr><td class="preheader">Leaving the door open. No pressure either way.</td></tr>
+    <tr><td class="header-cell"><img src="../../../assets/brightkidco-logo.svg" alt="BrightKidCo" style="height:34px;display:block;margin:0 auto;" /></td></tr>
+    <tr><td class="title-block">
+      <h1>Small wins<br />count more than<br />you think.</h1>
+      <p class="subhead">Progress at this stage doesn't look like charts or checkmarks. It looks like a pause. A look down. A moment of awareness that wasn't there before.</p>
+    </td></tr>
+    <tr><td class="band" style="height:40px;background:linear-gradient(180deg,#FFFBF0 0%,#FFF6E2 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- Letter -->
+    <tr><td class="letter">
+      <p class="lead">Hi {first_name},</p>
+      <p>This is my last email about this. I promised I would check in a few times and then step back, and I want to keep that promise.</p>
+      <p>Before I go, I want to leave you with something that feels important for where you might be: progress at this level does not look like "fully trained." Wins look smaller — but they matter just as much.</p>
+      <p>A pause during an accident. A look down at the wet spot. Tolerating underwear for 30 minutes without distress. Walking toward the bathroom even if nothing happens once they get there. Each of these is real progress \u2014 even if it doesn't get you closer to diaper-free days.</p>
+      <p>Some families see these mini-wins in weeks. Some need months. Some don't, and that's real too. The body-signal approach works for some children and not others. The only way to know is to try \u2014 and the 60-day guarantee makes that a low-risk decision whenever you're ready.</p>
+    </td></tr>
+    <tr><td class="band" style="height:32px;background:linear-gradient(180deg,#FFF6E2 0%,#FFD866 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- L3 Quotes -->
+    <tr><td class="mini-wins" style="background-color:#FFFBF0;padding:28px 24px;">
+      <h2>What progress looks like</h2>
+      <div class="quote-card">
+        <span class="qmark">"</span>
+        <p class="qtext">She looked down. At the wet. First time. I cried.</p>
+      </div>
+      <div class="quote-card">
+        <span class="qmark">"</span>
+        <p class="qtext">He paused. Just paused. That was the first time he showed ANY awareness.</p>
+      </div>
+    </td></tr>
+    <tr><td class="band" style="height:32px;background:linear-gradient(180deg,#FFFBF0 0%,#EAF6F2 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- Mini-wins framing -->
+    <tr><td class="reflection">
+      <h2>However you define progress — that's valid</h2>
+      <p>For some children, a mini-win is staying dry for two hours. For others, it's simply not fighting when you put the training underwear on. For others still, it's nothing measurable \u2014 and that is not a failure of the child or the parent.</p>
+      <p>The 60-day guarantee is not a sales tactic. It is a way to try without pressure, without risk, and without the fear that you're adding yet another failed method to the list.</p>
+      <p>If you ever want to try, the option will be here. If not, I'm glad you were part of this community for a while. That takes strength.</p>
+    </td></tr>
+
+    <!-- Band to CTA -->
+    <tr><td class="band" style="height:50px;background:linear-gradient(180deg,#EAF6F2 0%,#1F2D2F 100%);font-size:0;line-height:0;">&nbsp;</td></tr>
+
+    <!-- CTA -->
+    <tr><td class="cta-section">
+      <p class="cta-intro">Bookmark us for when you're ready. The 60-day guarantee will be here.</p>
+      <a href="{cta_url}" class="cta-button" target="_blank">60-day guarantee — your call</a>
+    </td></tr>
+
+    <!-- Signoff (Long - L3 reflective) -->
+    <tr><td 
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:16px auto 20px;">
+                <tr>
+                  <td align="center" style="padding:0 6px;">
+                    <img src="../../../assets/badge-4.9-stars.svg" alt="Trustpilot 4.9 out of 5 stars, 16,511 reviews" width="140" height="28" style="display:inline-block;width:140px;height:28px;border:0;outline:none;vertical-align:middle;" />
+                  </td>
+                  <td align="center" style="padding:0 6px;">
+                    <img src="../../../assets/badges/badge-100k-parents.svg" alt="100,000+ parents trust BrightKidCo" width="140" height="28" style="display:inline-block;width:140px;height:28px;border:0;outline:none;vertical-align:middle;" />
+                  </td>
+                </tr>
+              </table>
+
+
+class="signoff">
+      <div class="signoff-accent"></div>
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#1F2A2C;">
+        <tr><td class="signoff-card">
+          <div class="signoff-label">A note from</div>
+          <div class="signoff-name">Lena Bauer</div>
+          <div class="signoff-title"><em>Founder &middot; BrightKidCo &middot; Mom of two</em></div>
+          <div class="signoff-signature">With care,<br />Lena</div>
+          <div class="signoff-ps">P.S. No pressure either way. I'm glad you were here. If you ever want to come back, we'll be here.</div>
+        </td></tr>
+      </table>
+    </td></tr>
+
+    <!-- OutLine -->
+    <tr><td class="outline">
+      <p>If today isn't the day, that's a real answer. Thanks for reading this far.</p>
+    </td></tr>
+
+    <!-- Footer -->
+    <tr><td class="footer">
+      <div class="tagline">Calm progress, one day at a time.</div>
+      <div class="divider"></div>
+      <div class="footer-links">
+        <a href="#">Shop</a>
+        <a href="#">Parent Stories</a>
+        <a href="#">Contact us</a>
+        <a href="#">FAQ</a>
+      </div>
+      <div class="social-icons" style="margin-bottom:16px;">
+        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><img src="../../../assets/icon-instagram.svg" alt="Instagram" style="height:22px;display:inline-block;" /></a>
+        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><img src="../../../assets/icon-tiktok.svg" alt="TikTok" style="height:22px;display:inline-block;" /></a>
+      </div>
+      <div class="microcopy">16,511 reviews &middot; 4.9 &#9733; &mdash; 100,000+ parents trust BrightKidCo</div>
+      <div class="fine-print">
+        <p>BrightKidCo &middot; 123 Business Address &middot; City, State ZIP</p>
+        <p><a href="{unsubscribe_url}">Unsubscribe</a> &middot; <a href="{manage_preferences_url}">Manage Preferences</a></p>
+      </div>
+    </td></tr>
+  </table>
+  <!--[if mso]></td></tr></table><![endif]-->
+              <!-- Trust badge: 4.9 stars -->
+              
+
+
+</body>
+</html>

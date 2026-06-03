@@ -1,0 +1,94 @@
+== WELCOME FLOW - EMAIL 3 (Day 3) - L2 Variant ==
+
+== SUBJECT LINE ==
+Your code is active - but the 60-day guarantee is for parents who've been burned
+
+== PREHEADER ==
+Your code WELCOME10 + 60-day guarantee. After years of burns, you need both.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 3 OF 8
+
+The guarantee that protects your hope
+
+After 5+ methods, you deserve a no-risk option.
+
+---
+
+Hi {first_name},
+
+I know what you're thinking: 'Another product that promises everything.' You've earned that skepticism. That's exactly why the 60-Day Guarantee exists.
+
+---
+
+60 days to observe.
+
+By YOUR judgment.
+
+If it doesn't work, full refund. Period.
+
+---
+
+YOUR SKEPTICISM IS VALID
+
+The guarantee that backs up the mechanism
+
+You've spent thousands on therapy. The 60-day guarantee gives you permission to try without committing. Use it for 30 days - if you see no change, return it. No forms, no hassle.
+
+Bring 30 days of data to your next BCBA session. Let the evidence speak.
+
+---
+
+""I've been burned so many times. The 60-day guarantee was the only reason I tried. That and Lena's story." - Michelle"
+
+---
+
+Whether you decide in 2 days or 2 months - the guarantee stands.
+
+Or if you want to discuss with your BCBA first - good. Bring this with you.
+
+If you're tired of empty promises - the guarantee backs up the mechanism.
+
+---
+
+WELCOME10
+10% off - no-risk access
+
+[CTA: 60 days to see if this fits your child -> https://brightkidco.com/guarantee]
+
+---
+
+Your code is still good. But the guarantee - that's the real offer.
+
+No pressure. You decide.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Reply with questions. I read every message.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee · 100,000+ parents
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 3 days.
+Condition: avatar_level = l2
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e3_sent
+Profile property updated: welcome_flow_email = 3

@@ -1,0 +1,95 @@
+== WELCOME FLOW - EMAIL 5 (Day 14) - L1 Variant ==
+
+== SUBJECT LINE ==
+The thing pull-ups erase that you didn't know about
+
+== PREHEADER ==
+Pull-ups wick away the signal. Our underwear preserves it. Here's how the learning layer works.
+
+== FROM ==
+Lena from BrightKidCo <support@brightkidco.com>
+
+== BODY TEXT ==
+
+A LETTER - 5 OF 8
+
+The thing pull-ups erase
+
+And the design that puts the signal back.
+
+---
+
+Hi {first_name},
+
+Here's something no one told me: pull-ups are designed to keep your child dry. Great for sleep. But for learning? The wetness signal is the only way their brain connects 'I peed' with 'I should use the potty.'
+
+Pull-ups wick that signal away.
+
+---
+
+Pull-ups keep your child dry.
+
+Dry means they learn nothing.
+
+The learning layer preserves the signal.
+
+---
+
+THE DESIGN FLAW
+
+Staying dry keeps your child from learning
+
+Every time your child pees in a pull-up, they feel nothing. Dryness is the feature - but it's the opposite of what their brain needs.
+
+The Body-Signal Learning Layer preserves a gentle wetness signal - the 'uh-oh' feeling - that creates the feedback loop pull-ups block.
+
+---
+
+""I had no idea pull-ups were making it harder. The switch was a game changer for awareness." - Kim, mom of Sam"
+
+---
+
+Whether your child is 3 or 5 - pull-ups make training harder at every age.
+
+Or if you're not ready to switch full-time - start with one pair after school.
+
+If Pre-K is approaching - every day in pull-ups is a day the signal isn't being built.
+
+---
+
+
+
+[CTA: See how the Body-Signal Learning Layer works -> https://brightkidco.com/how-it-works]
+
+---
+
+Next: real stories from parents whose children showed first awareness after switching.
+
+It takes one accident for the brain to start connecting.
+
+---
+
+With you,
+Lena
+Lena from BrightKidCo - Customer Support - Mom of two
+
+P.S. Reply with questions. I'm here.
+
+---
+
+16,511 reviews · 4.9 ★ · 60-Day Calm Progress Guarantee
+
+---
+
+Shop - Parent Stories - Contact us - FAQ
+
+BrightKidCo - A different path to dry days
+No longer want to receive these emails? Unsubscribe.
+123 Commerce Street, Suite 100, Austin, TX 78701
+
+== KLAVIYO IMPLEMENTATION NOTES ==
+Trigger: Pop-up signup (all levels). Delay: 14 days.
+Condition: avatar_level = l1
+Code expires: Day 7 from signup (profile property: welcome10_expires).
+Tags applied on send: flow_welcome_e5_sent
+Profile property updated: welcome_flow_email = 5
