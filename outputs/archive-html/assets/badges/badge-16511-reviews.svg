@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 40" width="180" height="40">
-  <rect width="180" height="40" rx="8" fill="#1F2D2F"/>
-  <circle cx="24" cy="20" r="12" fill="#2BAEB4" opacity="0.2"/>
-  <text x="24" y="24" text-anchor="middle" font-family="'Questrial'" font-size="10" fill="#2BAEB4" font-weight="700">★</text>
-  <text x="90" y="18" text-anchor="middle" font-family="'Questrial'" font-size="15" fill="#FFF" font-weight="700">16,511</text>
-  <text x="90" y="32" text-anchor="middle" font-family="'Questrial'" font-size="9" fill="#8A9B9D" letter-spacing="1">REVIEWS</text>
-</svg>
