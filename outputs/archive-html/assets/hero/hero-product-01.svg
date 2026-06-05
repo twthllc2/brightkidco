@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240">
+  <defs>
+    <linearGradient id="prodBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0EDF8"/><stop offset="100%" stop-color="#EAF6F2"/>
+    </linearGradient>
+    <linearGradient id="pantsGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2BAEB4"/><stop offset="100%" stop-color="#1E8A8F"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="240" fill="url(#prodBg)"/>
+  <!-- Training pants (stylized) -->
+  <g transform="translate(140,30)">
+    <!-- Waistband -->
+    <rect x="10" y="40" width="120" height="18" rx="9" fill="#5DD07A"/>
+    <!-- Body -->
+    <path d="M10,58 L10,140 Q10,160 35,165 L60,170 L85,165 Q110,160 110,140 L110,58 Z" fill="url(#pantsGrad)"/>
+    <!-- Leg openings -->
+    <path d="M10,140 Q10,165 35,170" stroke="#1F2D2F" stroke-width="2" fill="none"/>
+    <path d="M110,140 Q110,165 85,170" stroke="#1F2D2F" stroke-width="2" fill="none"/>
+    <!-- Decorative stripe -->
+    <rect x="25" y="75" width="70" height="4" rx="2" fill="#FFD866" opacity="0.7"/>
+    <!-- Small logo on pants -->
+    <circle cx="60" cy="105" r="12" fill="#FFF" opacity="0.3"/>
+    <text x="60" y="109" text-anchor="middle" font-family="'Questrial'" font-size="8" fill="#FFF" font-weight="700">BKC</text>
+  </g>
+  <!-- Floating elements -->
+  <circle cx="80" cy="60" r="15" fill="#FFD866" opacity="0.2"/>
+  <circle cx="350" cy="50" r="10" fill="#2BAEB4" opacity="0.15"/>
+  <circle cx="320" cy="180" r="8" fill="#5DD07A" opacity="0.2"/>
+  <!-- Sparkle accents -->
+  <path d="M100,90 L103,85 L106,90 L111,93 L106,96 L103,101 L100,96 L95,93 Z" fill="#FFD866" opacity="0.4"/>
+  <path d="M320,120 L322,116 L324,120 L328,122 L324,124 L322,128 L320,124 L316,122 Z" fill="#5DD07A" opacity="0.3"/>
+</svg>

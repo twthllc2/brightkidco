@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240">
+  <rect width="420" height="240" fill="#FFFBF0"/>
+  <rect x="30" y="175" width="360" height="65" rx="16" fill="#EAF6F2" opacity="0.4"/>
+  <!-- Child sitting, focused -->
+  <circle cx="200" cy="105" r="17" fill="#2BAEB4"/>
+  <path d="M180,175 C180,148 188,132 200,132 C212,132 220,148 220,175" fill="#2BAEB4"/>
+  <!-- Book/toy in front -->
+  <rect x="160" y="155" width="30" height="22" rx="4" fill="#FFD866" opacity="0.7"/>
+  <rect x="210" y="158" width="25" height="18" rx="4" fill="#5DD07A" opacity="0.5"/>
+  <!-- Calm atmosphere dots -->
+  <circle cx="70" cy="70" r="10" fill="#D4F0E4" opacity="0.5"/>
+  <circle cx="340" cy="55" r="7" fill="#FFF6E2" opacity="0.6"/>
+  <circle cx="100" cy="45" r="5" fill="#FFD866" opacity="0.3"/>
+  <circle cx="300" cy="40" r="4" fill="#FFB5A0" opacity="0.3"/>
+</svg>

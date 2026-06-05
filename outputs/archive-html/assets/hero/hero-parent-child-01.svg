@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" width="420" height="240">
+  <defs>
+    <linearGradient id="pcBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#EAF6F2"/><stop offset="100%" stop-color="#D4F0E4"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="240" fill="url(#pcBg)"/>
+  <ellipse cx="210" cy="255" rx="280" ry="70" fill="#FFFBF0" opacity="0.5"/>
+  <!-- Parent -->
+  <circle cx="170" cy="85" r="22" fill="#2BAEB4"/>
+  <path d="M140,200 C140,148 153,125 170,125 C187,125 200,148 200,200" fill="#2BAEB4"/>
+  <!-- Child on parent's hip -->
+  <circle cx="230" cy="110" r="15" fill="#5DD07A"/>
+  <path d="M215,175 C215,150 221,138 230,138 C239,138 245,150 245,175" fill="#5DD07A"/>
+  <!-- Embrace line -->
+  <path d="M192,145 Q210,135 218,142" stroke="#FFD866" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Warmth elements -->
+  <circle cx="90" cy="55" r="10" fill="#FFD866" opacity="0.3"/>
+  <circle cx="330" cy="45" r="7" fill="#FFB5A0" opacity="0.3"/>
+  <circle cx="280" cy="70" r="5" fill="#2BAEB4" opacity="0.2"/>
+</svg>

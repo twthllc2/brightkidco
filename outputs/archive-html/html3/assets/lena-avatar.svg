@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="avatarRing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD866"/><stop offset="100%" stop-color="#2BAEB4"/>
+    </linearGradient>
+    <linearGradient id="avatarBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFDF6"/><stop offset="100%" stop-color="#FFF6E2"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer ring -->
+  <circle cx="60" cy="60" r="56" fill="url(#avatarRing)"/>
+  <!-- Inner circle -->
+  <circle cx="60" cy="60" r="52" fill="url(#avatarBg)"/>
+  <!-- Portrait silhouette -->
+  <circle cx="60" cy="42" r="16" fill="#D4A574"/>
+  <path d="M28,120 C28,88 42,72 60,72 C78,72 92,88 92,120" fill="#C98C6B"/>
+  <!-- Hair -->
+  <path d="M42,38 Q44,22 60,20 Q76,22 78,38 Q76,30 60,28 Q44,30 42,38" fill="#8B6B4A"/>
+  <!-- Warm smile -->
+  <path d="M52,47 Q60,53 68,47" stroke="#C98C6B" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Label -->
+  <text x="60" y="112" text-anchor="middle" font-family="'Questrial'" font-size="7" fill="#8A9B9D" font-weight="600" letter-spacing="0.5">LENA</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 44" width="200" height="44">
+  <defs>
+    <linearGradient id="starGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD866"/><stop offset="100%" stop-color="#E8A23D"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="44" rx="8" fill="#1F2D2F"/>
+  <!-- Stars -->
+  <g fill="url(#starGrad)">
+    <polygon points="20,10 23,18 32,18 25,23 27,32 20,27 13,32 15,23 8,18 17,18" transform="scale(0.7) translate(6,4)"/>
+    <polygon points="20,10 23,18 32,18 25,23 27,32 20,27 13,32 15,23 8,18 17,18" transform="scale(0.7) translate(26,4)"/>
+    <polygon points="20,10 23,18 32,18 25,23 27,32 20,27 13,32 15,23 8,18 17,18" transform="scale(0.7) translate(46,4)"/>
+    <polygon points="20,10 23,18 32,18 25,23 27,32 20,27 13,32 15,23 8,18 17,18" transform="scale(0.7) translate(66,4)"/>
+    <polygon points="20,10 23,18 32,18 25,23 27,32 20,27 13,32 15,23 8,18 17,18" transform="scale(0.7) translate(86,4)"/>
+  </g>
+  <!-- Half star overlay for 4.9 -->
+  <text x="100" y="28" font-family="'Questrial'" font-size="16" fill="#FFD866" font-weight="700">4.9</text>
+  <text x="135" y="28" font-family="'Questrial'" font-size="10" fill="#B8CACD">Trustpilot</text>
+</svg>

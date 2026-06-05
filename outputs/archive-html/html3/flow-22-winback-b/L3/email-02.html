@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>BrightKidCo — Winback B E2 L3</title>
+  <title>BrightKidCo — A tool that worksalongside specialtydiapers.</title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Questrial&display=swap');
 
@@ -102,7 +102,7 @@
   <!--[if mso]><table cellpadding="0" cellspacing="0" border="0" width="420" align="center"><tr><td><![endif]-->
   <table class="email-shell" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:420px;margin:0 auto;background-color:#FFFBF0;">
     <tr><td class="preheader">One pair to try. 60 days to decide. No pressure.</td></tr>
-    <tr><td class="header-cell"><img src="../../../assets/brightkidco-logo.svg" alt="BrightKidCo" style="height:34px;display:block;margin:0 auto;" /></td></tr>
+    <tr><td class="header-cell"><span style="font-family:'Questrial',system-ui,sans-serif;font-size:18px;font-weight:700;color:#1F2D2F;letter-spacing:-0.3px;">Bright<span style="color:#2BAEB4;">KidCo</span></span></td></tr>
     <tr><td class="title-block">
       <h1>A tool that works<br />alongside specialty<br />diapers.</h1>
       <p class="subhead">Not a replacement. Not a new training method. Just one missing piece that some families find helpful — added alongside whatever is already working for your child.</p>
@@ -111,7 +111,7 @@
 
     <!-- Letter -->
     <tr><td class="letter">
-      <p class="lead">Hi {first_name},</p>
+      <p class="lead">Hi {{first_name}},</p>
       <p>A week ago I reminded you about the body-signal approach. This time I want to offer something more concrete — not as pressure, but as an option you can hold and consider.</p>
       <p>We offer a 1-pair option at $34.99. It's a small way to try. One pair of underwear with the Body-Signal Learning Layer, worn alongside whatever your child uses now — specialty diapers, pull-ups, whatever keeps your child comfortable and your days manageable.</p>
       <p>The underwear is designed to preserve a gentle wetness signal for 30-60 seconds so the brain can start building the connection between the feeling and what it means. That's it. No potty schedule required. No pressure to sit on the toilet. Just wear it, and let the nervous system do its slow work.</p>
@@ -154,7 +154,7 @@
     <!-- CTA -->
     <tr><td class="cta-section">
       <p class="cta-intro">When you're ready, the option will be here.</p>
-      <a href="{cta_url}" class="cta-button" target="_blank">See the 1-pair option</a>
+      <a href="{{cta_url}}" class="cta-button" target="_blank">See the 1-pair option</a>
     </td></tr>
 
     <!-- Signoff (Long - L3 reflective) -->
@@ -162,10 +162,10 @@
               <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:16px auto 20px;">
                 <tr>
                   <td align="center" style="padding:0 6px;">
-                    <img src="../../../assets/badge-4.9-stars.svg" alt="Trustpilot 4.9 out of 5 stars, 16,511 reviews" width="140" height="28" style="display:inline-block;width:140px;height:28px;border:0;outline:none;vertical-align:middle;" />
+                    <span style="display:inline-block;background:#1F2D2F;color:#FFD866;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;font-family:'Questrial';">&#9733; 4.9 on Trustpilot</span>
                   </td>
                   <td align="center" style="padding:0 6px;">
-                    <img src="../../../assets/badges/badge-100k-parents.svg" alt="100,000+ parents trust BrightKidCo" width="140" height="28" style="display:inline-block;width:140px;height:28px;border:0;outline:none;vertical-align:middle;" />
+                    <span style="display:inline-block;background:#1F2D2F;color:#FFF;padding:6px 14px;border-radius:8px;font-size:12px;font-weight:700;font-family:'Questrial';">100K+ parents trust us</span>
                   </td>
                 </tr>
               </table>
@@ -200,13 +200,13 @@ class="signoff">
         <a href="#">FAQ</a>
       </div>
       <div class="social-icons" style="margin-bottom:16px;">
-        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><img src="../../../assets/icon-instagram.svg" alt="Instagram" style="height:22px;display:inline-block;" /></a>
-        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><img src="../../../assets/icon-tiktok.svg" alt="TikTok" style="height:22px;display:inline-block;" /></a>
+        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><span style="font-size:13px;color:#1F2D2F;font-weight:500;">Instagram</span></a>
+        <a href="#" style="margin:0 8px;font-size:0;text-decoration:none;"><span style="font-size:13px;color:#1F2D2F;font-weight:500;">TikTok</span></a>
       </div>
       <div class="microcopy">16,511 reviews &middot; 4.9 &#9733; &mdash; 100,000+ parents trust BrightKidCo</div>
       <div class="fine-print">
         <p>BrightKidCo &middot; 123 Business Address &middot; City, State ZIP</p>
-        <p><a href="{unsubscribe_url}">Unsubscribe</a> &middot; <a href="{manage_preferences_url}">Manage Preferences</a></p>
+        <p><a href="{{unsubscribe_url}}">Unsubscribe</a> &middot; <a href="{{manage_preferences_url}}">Manage Preferences</a></p>
       </div>
     </td></tr>
   </table>

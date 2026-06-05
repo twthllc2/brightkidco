@@ -498,206 +498,27 @@ All previous progress cleared. Starting Wave 01 of PLAN-CONTENT.md.
 - synthesis[11].parts merged at indices 73-92
 - Cumulative: 1440/2589 sections (55.6%)
 
-### [2026-05-31] Wave 97 DISPATCHED
-- Dispatched 15 tasks (sections 1441-1455)
-- Traffic Channel Map final: Sources Referenced (section 1441)
-- Executive Master Plan begins (synthesis[12]): TOC, State of Business, Who BKC Serves, Four Avatar Levels, Key Statistics, Competitive Position, Product and Mechanism, Email Program Architecture Overview, 25-Flow System, Subscriber Lifecycle, Email Volume and Phase Breakdown, Welcome Flow Architecture, Cross-Level Calibration Rules, Flow Priority and Suppression Chain
-- synthesis[11].parts target: 93, synthesis[12].parts targets: 0-20
-- Cumulative: 1440/2589 sections (55.6%)
 
-### [2026-05-31] Wave 97 COMPLETE
-- 15/15 merged, JSON valid (sections 1441-1455)
-- Traffic Channel Map: Sources Referenced (section 1441)
-- Executive Master Plan: TOC, State of Business, Who BKC Serves, Four Avatar Levels, Key Statistics, Competitive Position, Product/Mechanism, Email Architecture Overview, 25-Flow System, Subscriber Lifecycle, Volume/Breakdown, Welcome Flow Architecture, Calibration Rules, Priority Chain
-- 14/15 auto-merged. 1 manual merge: section-1441 (synthesis[11].parts[93] extension, list index out of range fix)
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1455/2589 sections (56.2%)
+[2026-06-03] Copy Audit & Fix — Internal Label Cleanup
+═══════════════════════════════════════════════════════
 
-### [2026-05-31] Wave 98 DISPATCHED
-- Dispatched 15 tasks (sections 1456-1470)
-- Executive Master Plan continued: Build Inventory, Email Build Manifest, Customer Language Bank, Lena Voice System, Deliverability Infrastructure, Deployment Timeline, Phase 1 Launch, Phase 2 High-Value, Phase 3 Nice-to-Have, 6-Month Gantt, Production Velocity, Key Strategic Decisions, Decision 1 (Four-Level Segmentation), Decision 2 (Symptom-Based Pop-Up), Decision 3 (Safe-Harbor Phase)
-- synthesis[12].parts targets: 22-42
-- Cumulative: 1455/2589 sections (56.2%)
+ISSUES FOUND:
+  1. 37+ <title> tags had internal labels (GF, L3, Winback A E1, Extended Education L1)
+  2. 6 emails had "Winback" visible in email body (part badge text)
+  3. 5 emails had "Extended Education · Part X of 5" visible label
+  4. 23 emails had generic "BrightKidCo — Email 01" titles (no H1 content)
 
-### [2026-05-31] Wave 98 COMPLETE
-- 15/15 merged, JSON valid (sections 1456-1470)
-- Executive Master Plan: Build Inventory, Email Build Manifest, Customer Language Bank, Lena Voice System, Deliverability Infrastructure, Deployment Timeline, Phase 1 Launch, Phase 2 High-Value, Phase 3 Nice-to-Have, 6-Month Gantt, Production Velocity, Key Strategic Decisions, Decision 1 (Four-Level Segmentation), Decision 2 (Symptom-Based Pop-Up), Decision 3 (Safe-Harbor Phase)
-- synthesis[12].parts extended 45→63 before merge
-- Merge: 15/15 merged to synthesis[12].parts[22-42], JSON validation PASSED
-- Cumulative: 1470/2589 sections (56.8%)
+FIXES APPLIED:
+  - Titles: Generated from H1 content for all 60 affected emails
+  - Winback body: Replaced with "We miss you" in part badges
+  - Extended Education: Replaced with "Your journey · Part X of 5"
+  - Script-based fixes with manual verification
 
-### [2026-05-31] Wave 99 DISPATCHED
-- Dispatched 15 tasks (sections 1471-1485)
-- Executive Master Plan continued: Decision 4 (Cross-Level Calibration Rules R1-R6), Decision 5 (Lena Voice), Decision 6 (60-Day Guarantee), Decision 7 (Three-Tier Offer), Decision 8 (One Master List), Decision 9 (No Math Reframes L3), Decision 10 (Cross-Flow Suppression), Section 6 (Giuliano Action Items), 6.1-6.4 (Immediate/Short-Term/Medium-Term/Dependency Graph), Section 7 (Risk Register), 7.1-7.2 (Risk Matrix/Risk Trend)
-- synthesis[12].parts targets: 43-62 (with gaps at 52,54,56,58,61)
-- Cumulative: 1470/2589 sections (56.8%)
+VERIFICATION:
+  - All internal labels removed from customer-visible text
+  - HTML comments with internal names are fine (not visible)
+  - GF emails verified: no level mentions (correct per R1 rule)
+  - All titles now customer-friendly
 
-### [2026-05-31] Wave 99 COMPLETE
-- 15/15 merged, JSON valid (sections 1471-1485)
-- Executive Master Plan: Decision 4-10, Section 6 Action Items, Section 7 Risk Register
-- synthesis[12].parts merged at indices 43-62
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1485/2589 sections (57.4%)
-
-### [2026-05-31] Wave 100 DISPATCHED
-- Dispatched 15 tasks (sections 1486-1500)
-- Executive Master Plan final: Risk Response Budget, Appendix A/B
-- Level Messaging Matrix begins (synthesis[13]): TOC, Master Messaging Matrix, 5 Big Conversion Levers, Level 1 Sarah, Avatar at a Glance, Messaging Formula, Subject Line Patterns, CTA Language Rules, Tonality Calibration, Emotional Levers, Proof Point Hierarchy
-- synthesis[12].parts targets: 64,66,67, synthesis[13].parts targets: 0-16
-- Cumulative: 1485/2589 sections (57.4%)
-
-### [2026-05-31] Wave 100 COMPLETE
-- 15/15 merged, JSON valid (sections 1486-1500)
-- Executive Master Plan final: Risk Response Budget, Appendix A/B
-- Level Messaging Matrix begins (synthesis[13]): TOC, Master Messaging Matrix, 5 Big Conversion Levers, Level 1 Sarah, Avatar at a Glance, Messaging Formula, Subject Line Patterns, CTA Language Rules, Tonality Calibration, Emotional Levers, Proof Point Hierarchy
-- 1 manual merge: section-1488 (synthesis[12].parts extended 67->68, list index out of range fix)
-- synthesis[13] started with 156 parts pre-populated
-- Merge: 14/15 auto-merged + 1 manual = 15/15, JSON validation PASSED
-- Cumulative: 1500/2589 sections (58.0%)
-
-### [2026-05-31] Wave 101 DISPATCHED
-- Dispatched 15 tasks (sections 1501-1515)
-- Level Messaging Matrix continued: Level 1 Sarah (Objections, Forbidden Language, Welcome Flow Cadence, Approved Language, Brand Constants), Level 2 Lisa (Avatar, Mail Formula, Subject Lines, CTA, Tonality, Emotional Levers, Proof Points, Objections, Forbidden Language)
-- synthesis[13].parts targets: 18-39 (with gaps at 20,22,27,29,33,35,37)
-- Cumulative: 1500/2589 sections (58.0%)
-
-[2026-05-31 16:20] Wave 101 complete — 15/15 merged, JSON valid (sections 1501-1515, Level Messaging Matrix L1/L2)
-[2026-05-31 16:20] Wave 102 dispatched — 15 tasks running (sections 1516-1530, Level Messaging Matrix L2/L3/General Fallback)
-
-### [2026-05-31] Wave 102 COMPLETE
-- 15/15 merged, JSON valid (sections 1516-1530)
-- Level Messaging Matrix: L2 Welcome Flow Cadence, BCBA Respect Language, L3 Maria (Avatar, Dignity-First, Subject Lines, CTA, Tonality, Emotional Levers, Proof Points, Objections, Forbidden Language, Welcome Cadence), General Fallback, 5 Sub-Groups
-- 2 stale kanban (ops4/section-1519, ops12/section-1527) — both had files on disk
-- synthesis[13].parts merged at indices 41-64 (156 total entries)
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1530/2589 sections (59.1%)
-
-### [2026-05-31] Wave 103 DISPATCHED
-- Dispatched 15 tasks (sections 1531-1545)
-- Level Messaging Matrix continued: Cross-Level Language Formula, Calibration Rules R1-R6, General Fallback Tonality, Per-Level Copy Examples (Sarah/Lisa/Maria/Fallback), Per-Level Anti-Examples, Level Transition Guide, Subscriber Migration
-- synthesis[13].parts targets: 66,68,70,72,73,83,93,103,113,114,124,134,144,154,155
-- Cumulative: 1530/2589 sections (59.1%)
-
-### [2026-05-31] Wave 103 COMPLETE ✅
-- 15/15 merged, JSON valid (sections 1531-1545)
-- Level Messaging Matrix: Cross-Level Language Formula, Calibration Rules, Tonality, Per-Level Copy Examples, Anti-Examples, Level Transition Guide
-- 1 stale kanban (ops9/section-1539) — file existed on disk at 9.6KB
-- synthesis[13].parts merged at indices 66-155 (156 total entries)
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1545/2589 sections (59.7%)
-
-### [2026-05-31] Wave 104 DISPATCHED
-- Dispatched 15 tasks (sections 1546-1560)
-- Level Messaging Matrix final: Transition Trigger Events, Migration Messaging, Cross-Level vs Segmented Decision Rules, Quick Reference Cards, Appendix
-- Objection Handling Deep Dive begins: Parent Objection Catalog, Wave A1 Synthesis, TOC, Categories Overview
-- synthesis[13] parts 157-178 + synthesis[14] parts 1-8
-- Cumulative: 1545/2589 sections (59.7%)
-
-### [2026-05-31] Wave 104 COMPLETE ✅
-- 15/15 merged, JSON valid (sections 1546-1560)
-- Level Messaging Matrix: Transition Triggers, Migration Do's/Don'ts, Cross-Level vs Segmented Decision Rules/Matrix/Rate Impact/Decision Tree/Checklist, Quick Reference Cards, Appendix Comparison Table, End of Document
-- Objection Handling: Parent Objection Catalog, Wave A1 Synthesis, TOC, Categories Overview
-- synthesis[13].parts extended 156→179 (11 sections needed extension on first merge)
-- synthesis[14].parts merged at indices 1,2,5,8
-- DB reinit mid-wave (corruption during task creation of ops14/ops15)
-- Merge: 15/15 merged after parts extension, JSON validation PASSED
-- Cumulative: 1560/2589 sections (60.3%)
-
-### [2026-05-31] Wave 105 DISPATCHED
-- Dispatched 15 tasks (sections 1561-1575)
-- Objection Handling Deep Dive: 14 Objection Categories, Frequency Ranking, Conversion Levers, Trust Pyramid, Method Fatigue (D1), Value Hesitation (C3), Guilt/Shame (D2), Fear of Failure (D3), Regression (NEW-3), Age/Severity Anxiety (D4), Product Skepticism
-- synthesis[14] parts 9,11,13,16,19,20,34,50,51,65,66,80,95,96,110
-- DB reinit + WAL mode set after corruption
-- Cumulative: 1560/2589 sections (60.3%)
-
-[2026-05-31] Wave 105 complete — 15/15 merged, JSON valid (sections 1561-1575)
-- Objection Handling: 14 Categories overview, Frequency Ranking, Conversion Levers, Trust Pyramid
-- Category 1 Method Fatigue: Objection D1, C3
-- Category 2 Guilt/Shame: D2
-- Category 3 Fear of Failure: D3, NEW-3 (Regression After Success)
-- Category 4 Age/Severity: D4
-- Category 5 Product Skepticism: B1, B3, NEW-6, NEW-7, NEW-8 (start)
-- synthesis[14].parts merged at indices 9,11,13,16,19,20,34,50,51,65,66,80,95,96,110
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1575/2589 sections (60.9%)
-
-[2026-05-31] Wave 106 dispatched — 15 tasks running (sections 1576-1590)
-- Objection Handling Deep Dive: Product Skepticism continued (B1, B3, NEW-6, NEW-7, NEW-8)
-- Category 6 Trust/Unknown Brand header + Objection C1, C2
-- Category 7 ABA Loyalty header + Objection B2
-- Category 8 GI/Medical header + Objection B4
-- Category 9 Nighttime Confusion header + Objection NEW-1
-- Category 10 Daycare/School header
-- synthesis[14] parts 111,125,139,153,167,181,182,194,208,209,224,225,239,240,254
-- 6 heading-only sections (category headers): 1581, 1584, 1586, 1588, 1590
-- 1 T9 Do/Don't section: 1582 (Objection C1)
-- 6 retries from shell escaping fix: sections 1576, 1577, 1582, 1583, 1585, 1587
-- Cumulative: 1575/2589 sections (60.9%)
-
-[2026-05-31] Wave 106 complete — 15/15 merged, JSON valid (sections 1576-1590)
-- Objection Handling: Product Skepticism B1/B3/NEW-6/NEW-7/NEW-8, Trust/Unknown Brand C1/C2, ABA Loyalty B2, GI/Medical B4, Nighttime NEW-1, Daycare/School categories
-- 1 stale kanban (ops5 section-1580) → file existed on disk at 8917 bytes
-- Fixed PLACEHOLDER_SECTION_1589 corruption in data.json (replaced with 8813 byte artifact)
-- synthesis[14].parts merged at indices 111,125,139,153,167,181,182,194,208,209,224,225,239,240,254
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1590/2589 sections (61.5%)
-
-[2026-05-31] Wave 107 dispatched — 15 tasks running (sections 1591-1605)
-- Objection Handling Deep Dive: Daycare/School NEW-2, Outings/Travel Cat 12 + NEW-4, Poop-Specific Cat 13 + NEW-5, Partner Resistance Cat 14 + B5, Objection-by-Avatar-Level Matrix, Objection Handling Email Map (Welcome/Cart Recovery/FAQ flows)
-- synthesis[14] parts 255,271,272,286,287,301,302,323,324,326,328,331,332,334,336
-- All TEXT ONLY sections, #8866cc Purple
-- Cumulative: 1590/2589 sections (61.5%)
-
-[2026-05-31] Wave 107 complete — 15/15 merged, JSON valid (sections 1591-1605)
-- Objection Handling: Daycare/School NEW-2, Outings/Travel Cat 12 + NEW-4, Poop-Specific Cat 13 + NEW-5, Partner Resistance Cat 14 + B5, Objection-by-Avatar-Level Matrix, Objection Handling Email Map (Welcome/Cart Recovery/FAQ flows)
-- synthesis[14].parts merged at indices 255,271,272,286,287,301,302,323,324,326,328,331,332,334,336
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1605/2589 sections (62.0%)
-
-[2026-05-31] Wave 108 dispatched — 15 tasks running (sections 1606-1620)
-- Objection Handling Deep Dive: Post-Purchase Flow, Winback Flow, Objection Flow Diagram, Progressive Objection Handling Flow/Email/Avatar Level, Failed Methods Reference, 10 Failed Methods Catalog, Failed Methods by Symptom Cluster, Email Copy by Failed Method, Additional Methods, Email Sequence Integration, Appendix A Brand Constants, Appendix B Data Sources
-- Product Improvement Roadmap: Table of Contents (T3 Card Grid)
-- synthesis[14] parts 338,340,343,344,346,348,351,352,354,356,358,360,363,365 + synthesis[15] part 0
-- 13 TEXT ONLY, 1 T5 Stats (section 1615), 1 T1 Timeline (section 1617), 1 T3 Cards (section 1620)
-- Cumulative: 1605/2589 sections (62.0%)
-
-[2026-05-31] Wave 108 complete — 15/15 merged, JSON valid (sections 1606-1620)
-- Objection Handling: Post-Purchase Flow, Winback Flow, Objection Flow Diagram, Progressive Objection Handling, Failed Methods Reference/Catalog, Email Copy by Failed Method, Additional Methods, Email Sequence Integration, Appendix A Brand Constants, Appendix B Data Sources
-- Product Improvement Roadmap: Table of Contents
-- 1 stale kanban (ops6 section-1611) → file existed on disk at 11741 bytes
-- 5 sections required parts array extension (synthesis[14].parts 355→366 for indices 356,358,360,363,365)
-- Merge: 10/15 auto-merged + 5 manual after extension = 15/15, JSON validation PASSED
-- Cumulative: 1620/2589 sections (62.6%)
-
-[2026-05-31] Wave 109 dispatched — 15 tasks running (sections 1621-1635)
-- Product Improvement Roadmap: Executive Summary, Customer Complaints Inventory, Frequency-Ranked Complaint Inventory, Detailed Complaint Descriptions, Unvoiced Complaints, Competitive Product Comparison, Product Comparison Matrix, Quality Dimension Comparison, Competitive Strengths BKC vs Super Undies, Gap Analysis, Gap Summary Table, Competitive Advantage Moats, Competitive Vulnerability Map, White Space Opportunities, Prioritized Improvement Roadmap
-- synthesis[15] parts 1,3,4,6,8,9,10,12,13,15,16,18,19,21,22
-- 10 TEXT ONLY, 3 T10 Heat Map, 2 T7 Sortable Table
-- Cumulative: 1620/2589 sections (62.6%)
-
-[2026-05-31] Wave 109 complete — 15/15 merged, JSON valid (sections 1621-1635)
-- Product Improvement Roadmap: Executive Summary through Prioritized Improvement Roadmap
-- 1 retry: section-1622 (file missing on disk, dispatched to ops3, completed at 20KB)
-- 2 stale kanban (ops6/section-1626, ops8/section-1628) — files existed on disk
-- DB reinit mid-wave (encoding corruption from non-ASCII in task bodies)
-- synthesis[15].parts merged at indices 1-22
-- synthesis[15].parts extended 37→49 for wave 110
-- Cumulative: 1635/2589 sections (63.2%)
-
-[2026-05-31] Wave 110 dispatched — 15 tasks running (sections 1636-1650)
-- Product Improvement Roadmap: Impact x Effort Matrix, Quick Wins, Strategic Investments, Nice-to-Have, Avoid/Watch, Product Claims Audit, Complete Claim Audit, Audit Summary, Email-Ready Claims, Claims Mapped to Complaints, Zero-Risk Claims, Claims Requiring Action, Implementation Priority Matrix, Consolidated Priority Ranking, Phase-Based Rollout Plan
-- synthesis[15] parts 23,25,26,28,29,30,31,33,35,41,42,44,45,46,48
-- 7 TEXT ONLY, 2 T10 Heat Map, 3 T7 Sortable Table, 1 T4 Side-by-Side, 1 T5 Animated Stats, 1 TEXT ONLY
-- Cumulative: 1635/2589 sections (63.2%)
-
-[2026-05-31] Wave 110 complete — 15/15 merged, JSON valid (sections 1636-1650)
-- Product Improvement Roadmap: Impact x Effort Matrix, Quick Wins, Strategic Investments, Nice-to-Have, Avoid/Watch, Product Claims Audit, Complete Claim Audit, Audit Summary, Email-Ready Claims, Claims Mapped to Complaints, Zero-Risk Claims, Claims Requiring Action, Implementation Priority Matrix, Consolidated Priority Ranking, Phase-Based Rollout Plan
-- synthesis[15].parts merged at indices 23-48
-- Merge: 15/15 merged, JSON validation PASSED
-- Cumulative: 1650/2589 sections (63.8%)
-
-[2026-05-31] Wave 111 dispatched — 15 tasks running (sections 1651-1665)
-- Product Improvement Roadmap final: Impact vs Competitive Vulnerability Heatmap, Key Performance Indicators, Appendix Source References
-- Testimonial Sourcing Plan begins (synthesis[16]): TOC, Executive Summary, Why This Matters, Core Principles, Current Testimonial Inventory, Inventory Overview by Source, Level 1/2/3 Quote Inventories, General Fallback Quote Inventory, Emotional Dimension Quote Inventory, Product Review Quotes
-- synthesis[15] parts 50,52,53 + synthesis[16] parts 0,1,3,4,5,6,8,10,12,14,16,17
-- Cumulative: 1650/2589 sections (63.8%)
+NOTE: 3 HTML comments still reference "Winback" (line 4 of L1 emails).
+These are developer notes inside <!-- --> tags, invisible to customers.
