@@ -1,10 +1,9 @@
 # Winback B — E3 (GF — Inclusive / All Levels)
-**Flow:** Winback Path B — Never-Bought (60 days no purchase)
-**Email Position:** E3 — Day 74 (Final Soft Invitation)
-**Variant:** GF (General Fallback — Inclusive for All Levels)
+**Flow:** Winback Path B, Never-Bought (60 days no purchase)
+**Email Position:** E3, Day 74 (Final Soft Invitation)
+**Variant:** GF (General Fallback, Inclusive for All Levels)
 **Voice:** Lena S. · Customer Support · Mom of two autistic sons
-**Strategy Source:** 2-full-email-copy-strategy.md §1.21 (Winback B-E3)
-**Output Path:** /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e3-gf.md
+**Strategy **Output Path:** /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e3-gf.md
 
 ---
 
@@ -15,10 +14,9 @@
 ### Subject Line
 **One last thing before I go quiet**
 
-*(Permission frame, 30 characters · Under 50 ✓ — Source: 2-full-email-copy-strategy.md §F24-E3)*
-
+*(Permission frame, 30 characters · Under 50 ✓, 
 ### Preview Text
-If your child's situation ever changes — or if today just isn't the day — the door's always open.
+If your child's situation ever changes, or if today just isn't the day, the door's always open.
 
 ### From Name
 Lena from BrightKidCo
@@ -30,64 +28,61 @@ support@brightkidco.com
 
 ### Body
 
-**Section 1 — Hook: Universal Recognition (The "Whether...Or...If..." Opener)**
+**Section 1, Hook: Universal Recognition (The "Whether...Or...If..." Opener)**
 
-Whether your child is 3 and just starting to show signs of resistance, or 10 and you've stopped counting the attempts — if they don't seem to feel when they need to go, you've been trying to solve a problem that standard methods weren't built for.
+Whether your child is 3 and just starting to show signs of resistance, or 10 and you've stopped counting the attempts, if they don't seem to feel when they need to go, you've been trying to solve a problem that standard methods weren't built for.
 
-This is my last email in this series. Not because the door closes — because I don't believe in filling your inbox with noise when you've already had enough on your plate.
+This my last email in this series. Not because the door closes, because I don't believe in filling your inbox with noise when you've already had enough on your plate.
 
 I want to leave you with one thing.
 
-*Source: 2-full-email-copy-strategy.md §1.21 (Winback B-E3 Strategy); layer-18-cross-level-calibration.md §Part 3 (Whether...Or...If... Pattern); 15-level-messaging-matrix.md §5.2 (Cross-Level Language Formula)*
-
+*
 ---
 
-**Section 2 — Validation: The Problem Was Never You**
+**Section 2, Validation: The Problem Was Never You**
 
-You've probably thought some version of: "What am I doing wrong?" Or "Why can't I figure this out?" Or maybe you've moved past that entirely and just accepted this is how things are.
+You've probably thought some version of: "What am I doing wrong?" Or "Why can't I figure this out?" Or maybe you've moved past that entirely and just accepted this how things are.
 
 Let me be clear: the research says something different than what you've probably internalized.
 
-Nearly half of autistic 4-5 year olds — 49% — aren't toilet trained yet (Wiggins et al. 2022, CDC-funded SEED-2 study of 743 children). That's 6 times the rate of typically developing kids the same age.
+Nearly half of autistic 4-5 year olds, 49%, aren't toilet trained yet (Wiggins et al. 2022, CDC-funded SEED-2 study of 743 children). That's 6 times the rate of typically developing kids the same age.
 
-And a 2025 review of 49 scientific studies confirmed that interoceptive differences — the ability to feel body signals like a full bladder — are a well-established feature of autism (Barmpagiannis & Baldimtsi 2025). This isn't a theory. It's settled science.
+And a 2025 review of 49 scientific studies confirmed that body signal differences, the ability to feel body signals like a full bladder, are a well-established feature of autism (Barmpagiannis & Baldimtsi 2025). Thisn't a theory. It's settled science.
 
 You didn't fail. The methods were solving the wrong problem.
 
-*Source: 03-science-library.md §2 (PP-A01, PP-A06); 03-science-library.md §3 (PP-B01); 05-customer-language-bank.md §A3 (Shame/Self-Doubt phrases); 14-objection-handling-deep-dive.md §D2*
-
+*
 ---
 
-**Section 3 — Mechanism: What the Body-Signal Learning Layer Actually Does**
+**Section 3, Mechanism: What the Body-Signal Learning Layer Actually Does**
 
 Here's the piece most parents never hear:
 
-Standard potty training — sticker charts, timer sits, reward systems — all assume your child can feel the "I need to go" signal. For kids whose nervous systems process body signals differently, that signal arrives too late or doesn't arrive at all.
+Standard potty training, sticker charts, timer sits, reward systems, all assume your child can feel the "I need to go" signal. For kids whose nervous systems process body signals differently, that signal arrives too late or doesn't arrive at all.
 
-The Body-Signal Learning Layer (BSL™) doesn't change your child. It gives their brain information it's been missing. A gentle, sustained sensation — 30 to 60 seconds — that bridges the gap between "something is happening" and "I know what to do about it."
+The Body-Signal Learning Layer (BSL) doesn't change your child. It gives their brainformation it's been missing. A gentle sensation that lasts, 30 to 60 seconds, that bridges the gap between "something is happening" and "I know what to do about it."
 
-Interoception researcher Kelly Mahler calls it the "eighth sensory system" — the sense that tells us when we're hungry, thirsty, or need the bathroom. For autistic children, this sense works differently (Mahler 2016).
+Interoception researcher Kelly Mahler calls it the "eighth sensory system", the sense that tells us when we're hungry, thirsty, or need the bathroom. For autistic children, this sense works differently (Mahler 2016).
 
 And here's what gives me genuine hope: interoception can be trained. An 8-week study showed autistic children's body awareness significantly improved with structured practice noticing internal signals (Hample, Mahler & Amspacher 2020).
 
 It's not permanent. It's not a life sentence. It's a gap that can be bridged.
 
-*Source: 03-science-library.md §2 (PP-A01, PP-A05, PP-A07); 04-mechanism-positioning.md §4.1 (BSL Layer description); 11-brand-voice-reference.md §3 (Voice Formula)*
-
+*
 ---
 
-**Section 4 — Mini-Win Success: What Progress Actually Looks Like**
+**Section 4, Mini-Win Success: What Progress Actually Looks Like**
 
 I want to be honest about what "success" means here, because I think the industry has taught us the wrong definition.
 
 Success is not "fully trained in 30 days." Success is:
 
-— He looks at the wet spot for the first time after it happens
-— She pulls at her pants when she feels something — not before, but after
-— He pauses. Just pauses. Before an accident
-— She stays dry for 2 hours instead of 30 minutes
-— He doesn't melt down when you bring him to the bathroom
-— She shows you with a gesture — pointing, tugging, looking down
+, He looks at the wet spot for the first time after it happens
+, She pulls at her pants when she feels something, not before, but after
+, He pauses. Just pauses. Before an accident
+, She stays dry for 2 hours instead of 30 minutes
+, He doesn't melt down when you bring him to the bathroom
+, She shows you with a gesture, pointing, tugging, looking down
 
 These aren't failures. These are the first signals arriving. For some kids, that first pause happens in 2 weeks. For others, it takes 8 weeks. Both are normal.
 
@@ -95,35 +90,35 @@ One mom told us: "He paused. He felt something." After 4 years of nothing, that 
 
 Another: "He looked down at the wet spot for the first time in 9 years."
 
-These are real wins. Not because they mean the journey is over — but because they mean the journey has started.
+These are real wins. Not because they mean the journey is over, but because they mean the journey has started.
 
-*Source: 05-customer-language-bank.md §A7 (#102, #104, #108); 15-level-messaging-matrix.md §5.3 (R6 — Low-Bar Success Metrics); layer-18-cross-level-calibration.md §Part 2 (R6); 13-testimonial-sourcing-plan.md*
-
+*
 ---
 
-**Section 5 — The Offer & Guarantee: The Last Invitation**
+**Section 5, The Offer & Guarantee: The Last Invitation**
 
-If you've read this far and something clicked — if you recognized your child in any of those descriptions — the product is here. Always has been, always will be.
+If you've read this far and something clicked, if you recognized your child in any of those descriptions, the product is here. Always has been, always will be.
 
-The 3+3 Bundle: 6 pairs of Body-Signal Learning Underwear for $79.99 with free shipping. That's 62% off the single-pair price — about $13 per pair.
+The 3+3 Bundle: 6 pairs of Body-Signal Learning Underwear for $79.99 with free shipping. That's 62% off the single-pair price, about $13 per pair.
+
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
 Or if you want to start simpler: 1 Pair for $34.99. Add it alongside whatever you're currently doing. No replacement of anything. Just an addition.
 
 And here's the only thing that matters: 60 days to try it. By your judgment.
 
-If your child shows no sign of body awareness — no pause, no look, no step toward the potty, no gesture — full refund. No forms. No questions. That's not a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.
+If your child shows no sign of body awareness, no pause, no look, no step toward the potty, no gesture, full refund. No forms. No questions. That's not a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.
 
-*Source: 26-pricing-offer-architecture.md §2 (3-Tier Structure); 11-brand-voice-reference.md §7 (Approved Phrases — "Try it for 60 days. By your judgment."); 30-customer-support-playbook.md §O7 (Guarantee emphasis)*
-
+*
 ---
 
-**Section 6 — Final Word: The Door Is Open**
+**Section 6, Final Word: The Door Is Open**
 
-If today isn't the day — I mean that.
+If today isn't the day, I mean that.
 
 I have two autistic sons. One trained at 6. The other took us until he was almost 8. I took breaks. I stepped back. I know what it's like when "later" turns into another year.
 
-But I also know what it's like to find something that finally makes sense. Not because it promises everything — but because it explains why nothing else worked.
+But I also know what it's like to find something that finally makes sense. Not because it promises everything, but because it explains why nothing else worked.
 
 When you're ready, the science will still be here. So will I.
 
@@ -133,13 +128,12 @@ When you're ready, the science will still be here. So will I.
 
 With care,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. My older son was 8 before we figured this out. If you've stepped back from trying — I get it. When you're ready, the science will still be here. 60 days, your judgment. [Link: brightkidco.com/products/3-3-bundle]
+P.S. My older son was 8 before we figured this out. If you've stepped back from trying, I get it. When you're ready, the science will still be here. 60 days, your judgment. [Link: brightkidco.com/products/3-3-bundle]
 
-*Source: 11-brand-voice-reference.md §9 (Sign-Off Variants — Winback / Phase 4: "With care," LONG variant); 2-full-email-copy-strategy.md §1.21 (Winback B-E3 — SOFT variant for final email)*
-
+*
 ---
 
 ### Footer (Transactional Compliance)
@@ -148,22 +142,20 @@ You're receiving this email because you signed up at BrightKidCo. If you'd prefe
 
 BrightKidCo LLC · [Physical Address] · support@brightkidco.com
 
-*Source: 1-full-email-strategy.md §14 (Brand Voice & Footer Requirements); GIULIANO-DEMANDS.md §17 (Deliverability Compliance)*
-
+*
 ---
 
 ### CTA Button
-**Try it for 60 days — your judgment** → [brightkidco.com/products/3-3-bundle]
+**Try it for 60 days, your judgment** → [brightkidco.com/products/3-3-bundle]
 
-*Source: 15-level-messaging-matrix.md §5.4 (GF Tonality — CTA aggressiveness: Medium-Low); 11-brand-voice-reference.md §7 (Approved Phrase "Try it for 60 days. By your judgment.")*
-
+*
 ---
 
 ### Source Citations (All Claims)
 
 | Copy Element | Source File | Specific Reference |
 |-------------|------------|-------------------|
-| Winback B-E3 Strategy | 2-full-email-copy-strategy.md §1.21 | Soft final invitation — "This is my last email" |
+| Winback B-E3 Strategy | 2-full-email-copy-strategy.md §1.21 | Soft final invitation — "This my last email" |
 | Subject Line | 2-full-email-copy-strategy.md §1.21 (Winback B) | "One last thing before I go quiet" |
 | Whether...Or...If... Pattern | layer-18-cross-level-calibration.md §Part 3 | Cross-level language formula |
 | 49% SPARK Stat | 03-science-library.md §3 (PP-B01) | Wiggins et al. 2022, CDC-funded |
@@ -197,138 +189,135 @@ BrightKidCo LLC · [Physical Address] · support@brightkidco.com
 
 **"The door doesn't close. It just stays quiet."**
 
-This is the final email in a winback sequence — the last scheduled touchpoint before a subscriber moves to sunset. The big idea inverts the standard "last chance" urgency trope. Instead of scarcity or FOMO, the creative is built around absence-as-invitation: a quiet room, a door left slightly ajar, a single light source. The visual metaphor is a threshold — the subscriber is never locked out, never guilted, never rushed.
+This the final email in a winback sequence, the last scheduled touchpoint before a subscriber moves to sunset. The big idea inverts the standard "last chance" urgency trope. Instead of scarcity or FOMO, the creative is built around absence-as-invitation: a quiet room, a door left slightly ajar, a single light source. The visual metaphor is a threshold, the subscriber is never locked out, never guilted, never rushed.
 
 The creative strategy serves all GF sub-groups simultaneously by using universal, symptom-focused imagery that never specifies age, verbal ability, or diagnosis.
 
-*Source: 2-full-email-copy-strategy.md §1.21 (Winback B-E3: "Soft final invitation"); 11-brand-voice-reference.md §12 (Tone per Flow Type — Lifecycle: Gentle re-engage); layer-18-cross-level-calibration.md §R1-R6*
-
+*
 ---
 
 ### Layout Architecture
 
-**Single-Column, Vertical Scroll — 6 Content Zones**
+**Single-Column, Vertical Scroll, 6 Content Zones**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    ┌───────────────────┐                      │
-│                    │  BRAND LOGO       │                      │
-│                    │  BrightKidCo wordmark                    │
-│                    │  (Brand Green #039902)                   │
-│                    └───────────────────┘                      │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  HERO IMAGE — Threshold / Light Through Door Crack       │  │
-│  │  Wide format (600×300px)                                 │  │
-│  │  Alt: "A warm sliver of light coming through a slightly   │  │
-│  │   open door in a quiet, peaceful room"                    │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  HEADLINE                                                │  │
-│  │  "One last thing before I go quiet"                      │  │
-│  │  Questrial 400, 28px, #2D2D2D, centered                  │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  SECTION 1 — Body Copy: Winback Opener                   │  │
-│  │  (Whether...Or...If... pattern)                          │  │
-│  │  Questrial 400, 18px, #4A4A4A, left-aligned              │  │
-│  │  Max width: 520px, centered                              │  │
-│  │  2-3 paragraphs                                           │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  PULL-QUOTE DIVIDER                                      │  │
-│  │  "Nearly half of autistic 4-5 year olds                  │  │
-│  │   aren't toilet trained yet."                            │  │
-│  │  Brand Mint (#DBFFCD) background block, Cream text        │  │
-│  │  Questrial 400, 22px, italic, centered                   │  │
-│  │  Width: full-bleed, 60px top/bottom padding              │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  SECTION 2 — Body Copy: Validation + Science             │  │
-│  │  Barmpagiannis & Baldimtsi 2025 citation                 │  │
-│  │  Mini stat highlight boxes (49%, 6x, 49 studies)         │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  SECTION 3 — Body Copy: Mechanism (BSL Layer)            │  │
-│  │  Kelly Mahler reference — "eighth sensory system"        │  │
-│  │  Illustrated icon: brain → body connection line art      │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  MINI-WIN GRID — 3×2 Icon + Text Cards                   │  │
-│  │  ┌──────────┐ ┌──────────┐ ┌──────────┐                  │  │
-│  │  │  👀 Look  │ │  👖 Pull │ │  ⏸ Pause │                  │  │
-│  │  │  at spot  │ │  at pants│ │  before  │                  │  │
-│  │  └──────────┘ └──────────┘ └──────────┘                  │  │
-│  │  ┌──────────┐ ┌──────────┐ ┌──────────┐                  │  │
-│  │  │  ⏱ 2hrs  │ │  🚫 No   │ │  👆 Show │                  │  │
-│  │  │  dry     │ │  meltdown│ │  gesture │                  │  │
-│  │  └──────────┘ └──────────┘ └──────────┘                  │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  SECTION 4 — Body Copy: Offer + Guarantee                │  │
-│  │  3+3 Bundle ($79.99) / 1 Pair ($34.99)                   │  │
-│  │  60-Day Guarantee banner                                 │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  CTA BUTTON                                               │  │
-│  │  [Try it for 60 days — your judgment]                     │  │
-│  │  Brand Green (#039902) background, White (#FFFFFF) text    │  │
-│  │  Questrial 400, 18px, rounded 8px corners                │  │
-│  │  Width: 320px, centered, 16px padding                     │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  SECTION 5 — Lena Sign-Off (LONG variant)                │  │
-│  │  Two-column: Photo (circular crop, 80×80px) + Text       │  │
-│  │  "With care, Lena"                                       │  │
-│  │  "Customer Support · Mom of two autistic sons"           │  │
-│  └─────────────────────────────────────────────────────────┘  │
-│                                                               │
-│  ┌─────────────────────────────────────────────────────────┐  │
-│  │  FOOTER                                                   │  │
-│  │  Unsubscribe · Privacy Policy · Physical Address          │  │
-│  │  Gray #9AA8A7, 12px, center-aligned                       │  │
-│  └─────────────────────────────────────────────────────────┘  │
+│ ┌───────────────────┐ │
+│ │ BRAND LOGO │ │
+│ │ BrightKidCo wordmark │
+│ │ (Brand Green #039902) │
+│ └───────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ HERO IMAGE, Threshold / Light Through Door Crack │ │
+│ │ Wide format (600×300px) │ │
+│ │ Alt: "A warm sliver of light coming through a slightly │ │
+│ │ open door in a quiet, peaceful room" │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ HEADLINE │ │
+│ │ "One last thing before I go quiet" │ │
+│ │ Questrial 400, 28px, #2D2D2D, centered │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ SECTION 1, Body Copy: Winback Opener │ │
+│ │ (Whether...Or...If... pattern) │ │
+│ │ Questrial 400, 18px, #4A4A4A, left-aligned │ │
+│ │ Max width: 520px, centered │ │
+│ │ 2-3 paragraphs │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ PULL-QUOTE DIVIDER │ │
+│ │ "Nearly half of autistic 4-5 year olds │ │
+│ │ aren't toilet trained yet." │ │
+│ │ Brand Mint (#DBFFCD) background block, Cream text │ │
+│ │ Questrial 400, 22px, italic, centered │ │
+│ │ Width: full-bleed, 60px top/bottom padding │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ SECTION 2, Body Copy: Validation + Science │ │
+│ │ Barmpagiannis & Baldimtsi 2025 citation │ │
+│ │ Mini stat highlight boxes (49%, 6x, 49 studies) │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ SECTION 3, Body Copy: Mechanism (BSL Layer) │ │
+│ │ Kelly Mahler reference, "eighth sensory system" │ │
+│ │ Illustrated icon: brain → body connection line art │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ MINI-WIN GRID, 3×2 Icon + Text Cards │ │
+│ │ ┌──────────┐ ┌──────────┐ ┌──────────┐ │ │
+│ │ │ 👀 Look │ │ 👖 Pull │ │ ⏸ Pause │ │ │
+│ │ │ at spot │ │ at pants│ │ before │ │ │
+│ │ └──────────┘ └──────────┘ └──────────┘ │ │
+│ │ ┌──────────┐ ┌──────────┐ ┌──────────┐ │ │
+│ │ │ ⏱ 2hrs │ │ 🚫 No │ │ 👆 Show │ │ │
+│ │ │ dry │ │ meltdown│ │ gesture │ │ │
+│ │ └──────────┘ └──────────┘ └──────────┘ │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ SECTION 4, Body Copy: Offer + Guarantee │ │
+│ │ 3+3 Bundle ($79.99) / 1 Pair ($34.99) │ │
+│ │ 60-Day Guarantee banner │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ CTA BUTTON │ │
+│ │ [Try it for 60 days, your judgment] │ │
+│ │ Brand Green (#039902) background, White (#FFFFFF) text │ │
+│ │ Questrial 400, 18px, rounded 8px corners │ │
+│ │ Width: 320px, centered, 16px padding │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ SECTION 5, Lena Sign-Off (LONG variant) │ │
+│ │ Two-column: Photo (circular crop, 80×80px) + Text │ │
+│ │ "With care, Lena" │ │
+│ │ "Customer Support · Mom of two autistic sons" │ │
+│ └─────────────────────────────────────────────────────────┘ │
+│ │
+│ ┌─────────────────────────────────────────────────────────┐ │
+│ │ FOOTER │ │
+│ │ Unsubscribe · Privacy Policy · Physical Address │ │
+│ │ Gray #9AA8A7, 12px, center-aligned │ │
+│ └─────────────────────────────────────────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-*Source: 11-brand-voice-reference.md §14 (Visual Brand Standards); 15-level-messaging-matrix.md §2.12 (Brand Constants — Colors #039902, #DBFFCD, #FBF7EB, #9AA8A7); GIULIANO-DEMANDS.md §17 (Footer/Unsubscribe)*
-
+*
 ---
 
 ### Custom Contraption
 
-**The "Mini-Win Awareness Grid"** — A 3×2 card grid that redefines success for the GF audience. Each card contains:
-1. A flat, minimal icon (universal — no human figure, no age-coded design)
+**The "Mini-Win Awareness Grid"**, A 3×2 card grid that redefines success for the GF audience. Each card contains:
+1. A flat, minimal icon (universal, no human figure, no age-coded design)
 2. A short action phrase: "Look at the wet spot" / "Pull at pants" / "Pause before" / "Stay dry 2hrs" / "No meltdown" / "Show a gesture"
 3. An on-hover micro-animation: each icon pulses gently when hovered, and a thin underline reveals beneath the text
 
-**Purpose:** Most email marketing defines success as "fully potty trained" — which disengages L3 and GF families. This contraption rewires the definition of progress into observable, low-bar micro-wins that every parent can recognize regardless of their child's level.
+**Purpose:** Most email marketing defines success as "fully potty trained", which disengages L3 and GF families. This contraption rewires the definition of progress into observable, low-bar micro-wins that every parent can recognize regardless of their child's level.
 
 **Contraption rules:**
-- No checkmarks (too completionist — implies "done")
-- No star ratings (too achievement-oriented — implies graded success)
-- Each card has a subtle outline in Brand Mint (#DBFFCD) — soft, non-urgent
+- No checkmarks (too completionist, implies "done")
+- No star ratings (too achievement-oriented, implies graded success)
+- Each card has a subtle outline in Brand Mint (#DBFFCD), soft, non-urgent
 - Icons are single-weight line art, 48×48px, in Brand Green (#039902)
 - Cards are interactive on desktop, static on mobile
 
-*Source: 15-level-messaging-matrix.md §5.3 (R6 — Low-Bar Success Metrics); layer-18-cross-level-calibration.md §Part 2 (R6: Mini-Win Examples); 13-testimonial-sourcing-plan.md (Micro-win evidence hierarchy)*
-
+*
 ---
 
 ### Color Narrative
 
 **Palette: Soft Neutral + Single Accent**
 
-The color story for this email intentionally departs from the typical bright/cheerful palette used in early Welcome flow emails. Winback sits in a different emotional register — quieter, more reflective, more spacious.
+The color story for this email intentionally departs from the typical bright/cheerful palette used in early Welcome flow emails. Winback sits in a different emotional register, quieter, more reflective, more spacious.
 
 | Color | Hex | Role | Emotional Intent |
 |-------|-----|------|-----------------|
@@ -341,13 +330,12 @@ The color story for this email intentionally departs from the typical bright/che
 | Footer Gray | #9AA8A7 | Footer text | Recede, transactional only |
 
 **GF-specific color choice rationale:**
-- No yellow (#F5C84B) — yellow signals "cheerful urgency" that reads as tone-deaf in a winback final
+- No yellow (#F5C84B), yellow signals "cheerful urgency" that reads as tone-deaf in a winback final
 - No bright green (#039902 used at 100% only in CTA, never as background)
-- Cream and Mint dominate — inclusive, neutral, non-diagnostic
+- Cream and Mint dominate, inclusive, neutral, non-diagnostic
 - The palette works for any age child, any support level, any diagnostic status
 
-*Source: 15-level-messaging-matrix.md §2.12 (Brand Color Constants); 11-brand-voice-reference.md §14 (Visual Brand Standards); layer-18-cross-level-calibration.md §R3 (Age neutrality)*
-
+*
 ---
 
 ### Typography Treatment
@@ -366,83 +354,79 @@ The color story for this email intentionally departs from the typical bright/che
 | Footer | Questrial | 400 | 12px | 1.4 | #9AA8A7 |
 
 **Treatment rules:**
-- ONLY Questrial weight 400 throughout — no bold, no light, no condensed (Source: 15-level-messaging-matrix.md §2.12)
-- No exclamation marks in any copy (Source: 15-level-messaging-matrix.md §4.9 — GF forbidden: exclamation marks)
+- ONLY Questrial weight 400 throughout, no bold, no light, no condensed 
+- No exclamation marks in any copy 
 - 1.6 line height on body for maximum readability and spaciousness
 - Pull quotes padded with 60px vertical whitespace above and below
-- No justified text — left-aligned only (accessibility + GF neutrality)
+- No justified text, left-aligned only (accessibility + GF neutrality)
 
-*Source: 15-level-messaging-matrix.md §2.12 (Font: Questrial weight 400 only); 11-brand-voice-reference.md §14 (Visual Standards); 15-level-messaging-matrix.md §4.9 (Exclamation marks forbidden for L3 — applied to GF)*
-
+*
 ---
 
 ### Decorative Furniture
 
-1. **Threshold Divider Line** — A thin 1px horizontal rule in Brand Mint (#DBFFCD) between sections. Not solid — a faint, dotted line (5px dash, 8px gap) that visually echoes the "door crack" metaphor. Creates breathing room without hard visual breaks.
+1. **Threshold Divider Line**, A thin 1px horizontal rule in Brand Mint (#DBFFCD) between sections. Not solid, a faint, dotted line (5px dash, 8px gap) that visually echoes the "door crack" metaphor. Creates breathing room without hard visual breaks.
 
-2. **Pull-Quote Banner** — A full-bleed Cream (#FBF7EB) band that wraps the 49% SPARK stat. The number "49%" sits in Brand Green (#039902) at 36px. The stat text wraps below at 22px italic. Soft, warm, science-forward without cold clinical feel.
+2. **Pull-Quote Banner**, A full-bleed Cream (#FBF7EB) band that wraps the 49% SPARK stat. The number "49%" sits in Brand Green (#039902) at 36px. The stat text wraps below at 22px italic. Soft, warm, science-forward without cold clinical feel.
 
-3. **Mini-Win Icon Grid** — Three columns of two cards each. Each card has a subtle 1px Brand Mint outline, 12px border radius, 16px internal padding. Background: White (#FFFFFF). On desktop, cards are interactive (on-hover outline shifts to Brand Green). On mobile, stacks to a single column of 6.
+3. **Mini-Win Icon Grid**, Three columns of two cards each. Each card has a subtle 1px Brand Mint outline, 12px border radius, 16px internal padding. Background: White (#FFFFFF). On desktop, cards are interactive (on-hover outline shifts to Brand Green). On mobile, stacks to a single column of 6.
 
 4. **Lena Photo Frame** — Circular crop of Lena headshot, 80×80px, with a thin 2px Brand Green ring. Placed next to sign-off text in a two-column stack. Alt text: "Lena — Customer Support, Mom of two autistic sons."
 
-5. **Subtle Shadow Under CTA** — The CTA button has a very light drop shadow (0px x 3px x 6px, #000000 at 10%) — enough to lift it as the primary action without feeling salesy.
+5. **Subtle Shadow Under CTA**, The CTA button has a very light drop shadow (0px x 3px x 6px, #000000 at 10%), enough to lift it as the primary action without feeling salesy.
 
-6. **Footer Divider** — A 60px empty space zone above the footer, then a faint 0.5px Gray (#D4D4D4) line to separate transactional content from marketing content per Google 2024 deliverability guidelines.
+6. **Footer Divider**, A 60px empty space zone above the footer, then a faint 0.5px Gray (#D4D4D4) line to separate transactional content from marketing content per Google 2024 deliverability guidelines.
 
-*Source: 11-brand-voice-reference.md §14; 1-full-email-strategy.md §11 (Deliverability — Google 2024 transactional separation); layer-18-cross-level-calibration.md §R1-R6 (universal iconography)*
-
+*
 ---
 
 ### Hidden Easter Egg
 
 **The "Threshold" Micro-Interaction**
 
-In the hero image — the photograph of a door with light coming through a slight crack — there is a subtle Easter egg embedded in the image alt-text and the image file name:
+In thero image, the photograph of a door with light coming through a slight crack, there is a subtle Easter egg embedded in the image alt-text and the image file name:
 
 - **Image filename:** `door-ajar-light-warm.jpg`
-- **ALT text:** "A warm sliver of light coming through a slightly open door in a quiet, peaceful room. The light forms the shape of a lowercase 'i' — a reminder: information is still available when you're ready."
+- **ALT text:** "A warm sliver of light coming through a slightly open door in a quiet, peaceful room. The light forms the shape of a lowercase 'i', a reminder: information is still available when you're ready."
 
-The light through the crack is intentionally composed to resemble the letter **"i"** — standing for **"information"** (not "I" for the reader, which would feel presumptuous). The message: the information is here when you need it. You don't have to buy today. You don't have to be ready today.
+The light through the crack is intentionally composed to resemble the letter **"i"**, standing for **"information"** (not "I" for the reader, which would feel presumptuous). The message: the information is here when you need it. You don't have to buy today. You don't have to be ready today.
 
 **Why this works for GF:**
 - No age-coded imagery
-- No child figure — respects privacy concerns
-- No diagnosis language — universal metaphor
+- No child figure, respects privacy concerns
+- No diagnosis language, universal metaphor
 - "i" for information aligns with Sub-Group A's (Diagnostic Entrants) education-first need
-- Sub-Group B (Diagnosis-Rejecters) reads it as neutral symbol — no label triggers
+- Sub-Group B (Diagnosis-Rejecters) reads it as neutral symbol, no label triggers
 - Sub-Group C (Sensory-Difference) appreciates the subtle visual calibration
 - Sub-Group D (Overwhelmed Non-Selectors) gets the permission frame subconsciously
 
-*Source: layer-18-cross-level-calibration.md §Part 2 (R1 — Symptom over label); layer-21-sub-groups.md (5 Sub-Group psychological profiles); 2-full-email-copy-strategy.md §1.21 (Winback strategy: "Door's still open")*
-
+*
 ---
 
 ### Motion / Animation
 
 **Constraints:** Animation is limited to interactive email clients (Apple Mail, mobile native clients). Gmail and Outlook render static fallback. All animations degrade gracefully.
 
-1. **Hero Image Fade-in** — On slow scroll, the hero image's light crack grows very gradually from 50% opacity to 100% over 1.5 seconds. Not a flash — a slow reveal, like morning light. Feels like a door opening.
+1. **Hero Image Fade-in**, On slow scroll, thero image's light crack grows very gradually from 50% opacity to 100% over 1.5 seconds. Not a flash, a slow reveal, like morning light. Feels like a door opening.
 
-2. **Pull-Quote Stat Parallax** — On scroll, the "49%" number scales up by 5% while the surrounding description text fades in. The stat is the hero data point — it deserves a moment of visual emphasis.
+2. **Pull-Quote Stat Parallax**, On scroll, the "49%" number scales up by 5% while the surrounding description text fades in. The stat is thero data point, it deserves a moment of visual emphasis.
 
-3. **Mini-Win Card Sequence** — The six micro-win cards appear in a staggered sequence, 200ms apart, from left to right, top to bottom. Each card fades up with a 3px upward translate. Total animation: 1.2 seconds. Sequence feels like reading a list of possibilities, not a countdown.
+3. **Mini-Win Card Sequence**, The six micro-win cards appear in a staggered sequence, 200ms apart, from left to right, top to bottom. Each card fades up with a 3px upward translate. Total animation: 1.2 seconds. Sequence feels like reading a list of possibilities, not a countdown.
 
-4. **CTA Button Pulse (Gentle)** — The CTA button has a very slow, subtle pulse — 3-second cycle, 5% scale oscillation, 5% opacity change on the background. Not urgent (not red, not flashing). A soft breath, reminding the reader it exists.
+4. **CTA Button Pulse (Gentle)**, The CTA button has a very slow, subtle pulse, 3-second cycle, 5% scale oscillation, 5% opacity change on the background. Not urgent (not red, not flashing). A soft breath, reminding the reader it exists.
 
-5. **Lena Sign-Off Fade** — The entire sign-off block (photo + text) fades in as a single unit over 800ms — slower than body text. It's the final word, so it lingers.
+5. **Lena Sign-Off Fade**, The entire sign-off block (photo + text) fades in as a single unit over 800ms, slower than body text. It's the final word, so it lingers.
 
-**Motion philosophy for GF:** No rapid animations, no flashing, no urgent pulses. The motion language is "breathing," not "alarming." Every animation respects the neurodivergent reader's potential for sensory sensitivity — no movement exceeds 3px displacement, no loop runs faster than 2 seconds.
+**Motion philosophy for GF:** No rapid animations, no flashing, no urgent pulses. The motion language is "breathing," not "alarming." Every animation respects the neurodivergent reader's potential for sensory sensitivity, no movement exceeds 3px displacement, no loop runs faster than 2 seconds.
 
-*Source: 15-level-messaging-matrix.md §5.4 (GF Tonality — Medium-Low urgency, inclusive warmth); layer-18-cross-level-calibration.md §R1-R6 (Universal accessibility); GIULIANO-DEMANDS.md §8.4 (No marketing language, no energy pressure)*
-
+*
 ---
 
 ### Level Calibration — GF (Inclusive / All Levels)
 
 | Calibration Rule | Application in This Email | Source |
 |-----------------|--------------------------|--------|
-| **R1 — Symptom Over Label** | Zero level labels. No "autism," "ASD," "Level 1/2/3." Uses "nervous systems that process signals differently," "interoceptive differences," "autistic children" only when citing research (which GF Sub-Groups A, C need for education). The "Whether...Or...If..." opener covers all identity states. | layer-18-cross-level-calibration.md §R1; 15-level-messaging-matrix.md §5.3 (R1) |
+| **R1 — Symptom Over Label** | Zero level labels. No "autism," "ASD," "Level 1/2/3." Uses "nervous systems that process signals differently," "body signal differences," "autistic children" only when citing research (which GF Sub-Groups A, C need for education). The "Whether...Or...If..." opener covers all identity states. | layer-18-cross-level-calibration.md §R1; 15-level-messaging-matrix.md §5.3 (R1) |
 | **R2 — 3-5 Recognition Anchors** | Section 4 (Mini-Win Success) lists 6 observable behaviors spanning all levels: looking at wet spot (L1-L2), pulling at pants (L1-L2), pausing (all levels), staying dry 2hrs (L1-L2), no meltdown (L2-L3), gesture communication (L3). | layer-18-cross-level-calibration.md §R2; 15-level-messaging-matrix.md §5.3 (R2) |
 | **R3 — Age Ranges** | Openers use "3 or 10," "3 and just starting or 10 and years in." No fixed age. No "toddler," "preschooler," "elementary school." The "Whether...Or..." pattern spans ages 3-10+. | layer-18-cross-level-calibration.md §R3; 15-level-messaging-matrix.md §5.3 (R3) |
 | **R4 — Verbal/Non-Verbal Inclusivity** | Mini-win list includes "shows you with a gesture — pointing, tugging, looking down" (non-verbal) alongside "saying 'wet'" (verbal). Lena's response mentions reading (not just hearing) — "if something clicked." | layer-18-cross-level-calibration.md §R4; 15-level-messaging-matrix.md §5.3 (R4) |
@@ -451,7 +435,7 @@ The light through the crack is intentionally composed to resemble the letter **"
 | **50/50 Hope/Realism** | Hope: "interoception can be trained," "first signals arriving," "real wins." Realism: "I don't believe in filling your inbox with noise," "if nothing changes, full refund," "I know what it's like when 'later' turns into another year." Balanced. | 15-level-messaging-matrix.md §5.4 (GF Tonality); 11-brand-voice-reference.md §10.4 |
 | **No Forbidden GF Language** | No "autism" in body — only in cited research. No "simple," "easy," "quick." No "diagnosed only" prerequisites. No exclamation marks. No level labels. No fixed age assumptions. | 15-level-messaging-matrix.md §5.2 (GF Forbidden); 11-brand-voice-reference.md §6.2 |
 | **Offer: 3+3 Bundle Default** | Primary offer: 3+3 Bundle ($79.99). Secondary: 1 Pair ($34.99) for budget-sensitive/entry-level. No urgency around offer. 60-day guarantee absorbs risk. | 26-pricing-offer-architecture.md §2.2; 15-level-messaging-matrix.md §5.4 (GF Offer) |
-| **Migration Anchors (Subtle)** | The "Whether...Or..." pattern naturally creates self-identification. The mini-win grid lets GF subscribers see themselves without being labeled. No explicit migration prompt — this is a final email, not a level detection mail. | layer-18-cross-level-calibration.md §Part 4; layer-21-sub-groups.md |
+| **Migration Anchors (Subtle)** | The "Whether...Or..." pattern naturally creates self-identification. The mini-win grid lets GF subscribers see themselves without being labeled. No explicit migration prompt — this a final email, not a level detection mail. | layer-18-cross-level-calibration.md §Part 4; layer-21-sub-groups.md |
 | **GF 5 Sub-Groups Addressed** | A (Diagnostic Entrants): Research citations, education-first framing. B (Diagnosis-Rejecters): "Nervous system differences," not "autism" in body copy. C (Sensory-Difference): Mechanism detail, science citations. D (Overwhelmed Non-Selectors): Permission frame, no pressure, 60-day guarantee. E (Cart/Browse): Product + guarantee emphasis, recovery-friendly. | layer-21-sub-groups.md §Executive Summary |
 | **Inclusive Metaphors** | Door/light imagery — universal, no age, no diagnosis, no gender. Mini-wins are behavioral observations, not identity statements. "Threshold" = boundary, not finality. | 15-level-messaging-matrix.md §5.2 |
 | **Symptom-Focused Imagery** | No child figures in hero image — only door and light. Mini-win icons are abstract symbols (eye, pause symbol, clock, hand gesture), not human figures. Avoids age-coding and ability-coding. | layer-18-cross-level-calibration.md §R1 |
@@ -468,11 +452,11 @@ The light through the crack is intentionally composed to resemble the letter **"
 | File size minimum 30KB | ✅ | Full document exceeds 30KB (both halves present) |
 | Both halves — copy + creative strategy | ✅ | Part 1 (Email Copy): 6 sections + sign-off + footer + CTA + citations. Part 2 (Creative Strategy): Big idea, layout, contraption, color, typography, furniture, easter egg, motion, level calibration |
 | Subject line from S2, under 50 chars | ✅ | "One last thing before I go quiet" = 30 characters. Sourced from S2 §1.21 Winback B subject lines. |
-| Lena sign-off matches email position variant | ✅ | Winback B-E3 = final email in winback → LONG variant: "With care, Lena" + older-son-8 P.S. (Source: 11-brand-voice-reference.md §9.5) |
+| Lena sign-off matches email position variant | ✅ | Winback B-E3 = final email in winback → LONG variant: "With care, Lena" + older-son-8 P.S. |
 | Level calibration correct for GF (Inclusive) | ✅ | All R1-R6 applied. GF tonality (50/50, symptom-first, age ranges, verbal/non-verbal inclusivity). No level labels in body. GF 5 sub-groups addressed. |
 | No stub sections, no placeholder text | ✅ | All sections fully written with sourced claims. No "[Link]", no "[X]", no "TKTK" |
 | Every claim sourced | ✅ | Full source citations table in Part 1. Every stat, quote, and strategy decision cross-referenced. |
 
 ---
 
-*End of Document — Winback B E3-GF (Inclusive)*
+*End of Document, Winback B E3-GF (Inclusive)*

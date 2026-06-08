@@ -1,12 +1,12 @@
 # PP-Education D21 (Flow 11, Email 4) — "Three-Week Check-In"
 
-> **Cross-Level Email** — Single copy serving Level 1 (Sarah), Level 2 (Lisa), Level 3 (Maria), and General Fallback simultaneously via R1-R6 calibration.
+> **Cross-Level Email**, Single copy serving Level 1 (Sarah), Level 2 (Lisa), Level 3 (Maria), and General Fallback simultaneously via R1-R6 calibration.
 
 ---
 
 ## PART 1 — EMAIL COPY
 
-**Subject Line:** 3 weeks in — what are you seeing?
+**Subject Line:** 3 weeks in, what are you seeing?
 
 **Preheader:** Whereever your child is on Day 21, here's what's normal.
 
@@ -18,47 +18,47 @@ Three weeks of the Body-Signal Learning Layer.
 
 Whether your child is 3 or 10. Whether they're verbal and can say "wet" or non-verbal and show you with a gesture. Whether you've seen one pause or zero.
 
-If your child wears underwear that gives their nervous system feedback it's been missing — here's where you might be right now.
+If your child wears underwear that gives their nervous system feedback it's been missing, here's where you might be right now.
 
 **RECOGNITION ANCHORS (R2)**
 
 Read through these and see which one fits your morning:
 
-— They paused for a second after an accident. Looked down. Then went back to playing.
+, They paused for a second after an accident. Looked down. Then went back to playing.
 
-— Nothing. Absolutely nothing. As if the underwear isn't there.
+, Nothing. Absolutely nothing. As if the underwear isn't there.
 
-— A step toward the bathroom. After. But they walked that direction.
+, A step toward the bathroom. After. But they walked that direction.
 
-— They pulled at their pants. Not crying. Just.. noticing.
+, They pulled at their pants. Not crying. Just.. noticing.
 
-— A tiny moment where they seemed to register something before it happened.
+, A tiny moment where they seemed to register something before it happened.
 
-— Same as week 1. No change at all.
+, Same as week 1. No change at all.
 
-If even one of these sounds familiar — the signal is working. Even the "nothing" version.
+If even one of these sounds familiar, the signal is working. Even the "nothing" version.
 
 **VALIDATION**
 
-If you saw nothing in week 3 — that's not failure. That's neurology on its own timeline.
+If you saw nothing in week 3, that's not failure. That's neurology on its own timeline.
 
 Some kids process the sensation in 2 weeks. Some need 8. Both are normal. All four of our families had different timelines:
 
 **THREE-FAMILY TESTIMONIAL PATTERN**
 
-*Sarah (verbal, 4):* "He's been 'almost trained' for months. Week 3 — he paused. Just paused. But that pause never happened before."
+*Sarah (verbal, 4):* "He's been 'almost trained' for months. Week 3, he paused. Just paused. But that pause never happened before."
 
-*Lisa (mixed, 6, BCBA context):* "Nothing in week 1. Nothing in week 2. Week 3, she pulled at her pants after peeing. My BCBA said that's the interoceptive connection starting."
+*Lisa (mixed, 6, BCBA context):* "Nothing in week 1. Nothing in week 2. Week 3, she pulled at her pants after peeing. My BCBA said that's the body signal connection starting."
 
 *Maria (non-verbal, 8, high support):* "He's not trained. But he stopped mid-play and looked down. First time in 8 years he noticed. That's enough for now."
 
 Three different kids. Three different timelines. One common experience: the body-signal connection is building.
 
-**MECHANISM REMINDER (R5 — Timeline Flexibility)**
+**MECHANISM REMINDER (R5, Timeline Flexibility)**
 
-The Body-Signal Learning Layer works through repetition. Each "uh-oh" sensation — sustained for 30-60 seconds — tells the brain: *something happened here.* Week 3 is when some nervous systems start registering that message.
+The Body-Signal Learning Layer works through repetition. Each "uh-oh" sensation, sustained for 30-60 seconds, tells the brain: *something happened here.* Week 3 is when some nervous systems start registering that message.
 
-For others, the message hasn't arrived yet. The pathway is still forming. Your child's brain is building connections it never had before. That takes what it takes.
+For others, the pathway is still forming. That takes what it takes.
 
 **LOW-BAR WINS (R6)**
 
@@ -77,17 +77,17 @@ These aren't little wins. They're the neural pathway becoming visible.
 
 At 3 weeks, you're in one of three places:
 
-**If you're seeing first signs** — keep going. The next phase of learning begins now. Week 4-6 is when signals strengthen and awareness grows. Some families find deeper guidance helpful at this stage.
+**If you're seeing first signs**, keep going. The next phase of learning begins now. Week 4-6 is when signals strengthen and awareness grows. Some families find deeper guidance helpful at this stage.
 
-**If you're not seeing anything yet** — that's within range. Some nervous systems need 8+ weeks to register the signal. The Body-Signal approach is a marathon, not a sprint.
+**If you're not seeing anything yet**, that's within range. Some nervous systems need 8+ weeks to register the signal. The Body-Signal approach is a marathon, not a sprint.
 
-**If you're unsure** — that's honest. You've given it 3 weeks. If you want to continue with more structured support as your child moves into weeks 4-8, we have resources designed for the next stage of body-signal learning.
+**If you're unsure**, that's honest. You've given it 3 weeks. If you want to continue with more structured support as your child moves into weeks 4-8, we have resources designed for the next stage of body-signal learning.
 
 **LENA SIGN-OFF (MEDIUM-LONG)**
 
 With understanding,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
 P.S. My older son was 8 before he trained. Week 3 for us was nothing. Week 4 was a pause. Week 8 was a step. The pathway builds at its own speed. 60 days to decide, your judgment. [link]
@@ -124,7 +124,7 @@ P.S. My older son was 8 before he trained. Week 3 for us was nothing. Week 4 was
 
 The opening paragraph uses the three-part inclusive bridge:
 
-> "Whether your child is 3 or 10. Whether they're verbal and can say 'wet' or non-verbal and show you with a gesture. Whether you've seen one pause or zero. If your child wears underwear that gives their nervous system feedback it's been missing — here's where you might be right now."
+> "Whether your child is 3 or 10. Whether they're verbal and can say 'wet' or non-verbal and show you with a gesture. Whether you've seen one pause or zero. If your child wears underwear that gives their nervous system feedback it's been missing, here's where you might be right now."
 
 This structure simultaneously:
 1. Acknowledges age diversity (R3)
@@ -134,7 +134,7 @@ This structure simultaneously:
 
 ### 2.4 Three-Family Testimonial Pattern (GF Inclusion)
 
-The testimonial block features three named families — Sarah, Lisa, Maria — each with a distinct child profile:
+The testimonial block features three named families, Sarah, Lisa, Maria, each with a distinct child profile:
 
 | Family | Child Profile | Email Position | Function |
 |--------|---------------|----------------|----------|
@@ -142,7 +142,7 @@ The testimonial block features three named families — Sarah, Lisa, Maria — e
 | Lisa | Mixed 6yo, BCBA context | L2 anchor | L2 mom sees mechanism-specific language, BCBA co-sign |
 | Maria | Non-verbal 8yo, high support | L3 anchor | L3 mom gets dignity-first framing, "enough for now" |
 
-The pattern ends with: *"Three different kids. Three different timelines. One common experience: the body-signal connection is building."* — This creates a unifying frame that all 3 levels and GF sub-groups share.
+The pattern ends with: *"Three different kids. Three different timelines. One common experience: the body-signal connection is building."*, This creates a unifying frame that all 3 levels and GF sub-groups share.
 
 ### 2.5 GF Sub-Group Compatibility
 
@@ -156,9 +156,9 @@ The pattern ends with: *"Three different kids. Three different timelines. One co
 
 ### 2.6 Sign-Off Rationale
 
-**Closing:** "With understanding," — This is the standard sign-off for emails 3-5 in a flow (per brand voice rules). PP-Edu E4 is the 4th email in the PP-Education flow.
+**Closing:** "With understanding,", This the standard sign-off for emails 3-5 in a flow (per brand voice rules). PP-Edu E4 is the 4th email in the PP-Education flow.
 
-**P.S. Variant:** Long — includes Lena's personal story (son trained at 8), normalizes Week 3 plateau, reinforces 60-day guarantee with permission frame. This is appropriate for late-flow emails where trust depth > brevity.
+**P.S. Variant:** Long, includes Lena's personal story (son trained at 8), normalizes Week 3 plateau, reinforces 60-day guarantee with permission frame. This appropriate for late-flow emails where trust depth > brevity.
 
 ### 2.7 Extended Upsell Setup
 
@@ -167,9 +167,9 @@ The email concludes with an "exit options" triage that includes a soft bridge to
 > "If you want to continue with more structured support as your child moves into weeks 4-8, we have resources designed for the next stage of body-signal learning."
 
 This prepares for:
-- **PP-Extended Upsell (Flow 12)** — 1-Pair → 3+3, 3+3 → 5+5 upgrades starting Day 30
-- **PP-Mid Check-In (Flow 13)** — Day 30, Day 45, Day 60 educational touchpoints
-- **PP-Extended Education (Flow 22)** — Level-specific deeper education (tags permitting)
+- **PP-Extended Upsell (Flow 12)**, 1-Pair → 3+3, 3+3 → 5+5 upgrades starting Day 30
+- **PP-Mid Check-In (Flow 13)**, Day 30, Day 45, Day 60 educational touchpoints
+- **PP-Extended Education (Flow 22)**, Level-specific deeper education (tags permitting)
 
 The framing is educational, not promotional: "resources designed for the next stage" rather than "buy more."
 
@@ -203,11 +203,11 @@ The framing is educational, not promotional: "resources designed for the next st
 
 ### 2.10 Subject Line Rationale
 
-**Primary:** "3 weeks in — what are you seeing?"
+**Primary:** "3 weeks in, what are you seeing?"
 
 - Question hook type (Type 5 per the 6 subject line formulas)
 - Creates curiosity to open and self-assess
-- Cross-level appropriate — "what are you seeing" works whether the answer is "a lot" or "nothing"
+- Cross-level appropriate, "what are you seeing" works whether the answer is "a lot" or "nothing"
 - No urgency, no promise, no label
 - Fits the check-in emotional arc
 
@@ -215,37 +215,37 @@ The framing is educational, not promotional: "resources designed for the next st
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                       PP-EDU E4 — SECTION MAP                        │
-│                         Day 21 — Three-Week Check-In                 │
+│ PP-EDU E4, SECTION MAP │
+│ Day 21, Three-Week Check-In │
 ├─────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  Subject Line: Question hook — "3 weeks in — what are you seeing?"  │
-│  Preheader: Inclusive permission frame                               │
-│                                                                      │
-│  ① OBSERVATION (R3)                                                  │
-│     Whether...Or...If... pattern — age, verbal/non-verbal, outcome   │
-│     ↓                                                                │
-│  ② RECOGNITION ANCHORS (R2, R4, R6)                                 │
-│     6 specific symptom situations spanning all levels                │
-│     ↓                                                                │
-│  ③ VALIDATION (R5)                                                   │
-│     "Nothing in week 3 is not failure — neurology on its timeline"   │
-│     ↓                                                                │
-│  ④ THREE-FAMILY TESTIMONIAL PATTERN                                  │
-│     Sarah (L1) → Lisa (L2) → Maria (L3) → unified conclusion        │
-│     ↓                                                                │
-│  ⑤ MECHANISM REMINDER                                               │
-│     Body-Signal Learning Layer repetition → neural pathway building  │
-│     ↓                                                                │
-│  ⑥ LOW-BAR WINS (R6)                                                │
-│     11 mini-wins to document — neural pathways becoming visible      │
-│     ↓                                                                │
-│  ⑦ EXIT OPTIONS / EXTENDED UPSELL SETUP                             │
-│     Three triage paths: signs → next stage / nothing → within range  │
-│     / unsure → deeper guidance available                             │
-│     ↓                                                                │
-│  ⑧ LENA SIGN-OFF (With understanding,) + P.S. (60-day guarantee)    │
-│                                                                      │
+│ │
+│ Subject Line: Question hook, "3 weeks in, what are you seeing?" │
+│ Preheader: Inclusive permission frame │
+│ │
+│ ① OBSERVATION (R3) │
+│ Whether...Or...If... pattern, age, verbal/non-verbal, outcome │
+│ ↓ │
+│ ② RECOGNITION ANCHORS (R2, R4, R6) │
+│ 6 specific symptom situations spanning all levels │
+│ ↓ │
+│ ③ VALIDATION (R5) │
+│ "Nothing in week 3 is not failure, neurology on its timeline" │
+│ ↓ │
+│ ④ THREE-FAMILY TESTIMONIAL PATTERN │
+│ Sarah (L1) → Lisa (L2) → Maria (L3) → unified conclusion │
+│ ↓ │
+│ ⑤ MECHANISM REMINDER │
+│ Body-Signal Learning Layer repetition → neural pathway building │
+│ ↓ │
+│ ⑥ LOW-BAR WINS (R6) │
+│ 11 mini-wins to document, neural pathways becoming visible │
+│ ↓ │
+│ ⑦ EXIT OPTIONS / EXTENDED UPSELL SETUP │
+│ Three triage paths: signs → next stage / nothing → within range │
+│ / unsure → deeper guidance available │
+│ ↓ │
+│ ⑧ LENA SIGN-OFF (With understanding,) + P.S. (60-day guarantee) │
+│ │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 

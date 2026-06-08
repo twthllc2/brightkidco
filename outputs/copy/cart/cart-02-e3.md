@@ -1,7 +1,7 @@
 # BrightKidCo — Cart Abandonment E3 (Cross-Level)
-> **Email Copy + Creative Strategy — 72 Hours Post-Abandon**
+> **Email Copy + Creative Strategy, 72 Hours Post-Abandon**
 > Wave 3 | Cart Flow | Email 3 of 3 | Cross-Level (R1-R6)
-> Voice: Lena S. — Customer Support · Mom of two autistic sons
+> Voice: Lena S., Customer Support · Mom of two autistic sons
 
 ---
 
@@ -12,12 +12,11 @@
 ### Subject Line
 60 days. Your judgment. No pressure.
 
-*(Permission frame · 38 characters · Source: 2-full-email-copy-strategy.md §Cart E3)*
-
+*(Permission frame · 38 characters · 
 ---
 
 ### Preview Text
-If you've been burned before — I get it. Here's why this is different.
+If you've been burned before, I get it. Here's why this different.
 
 ---
 
@@ -27,17 +26,17 @@ If you've been burned before — I get it. Here's why this is different.
 
 ---
 
-I'll be direct: if you're hesitating because you've been burned before — I get it.
+I'll be direct: if you're hesitating because you've been burned before, I get it.
 
-That skepticism is earned. Every product promises. Every method disappoints. You've sat through the pitch, bought the kit, tried the protocol — and nothing changed.
+That skepticism is earned. Every product promises. Every method disappoints. You've sat through the pitch, bought the kit, tried the protocol, and nothing changed.
 
-Whether your child sits on the toilet for 20 minutes and nothing happens, or they play in a wet pull-up without flinching, or they've been in pull-ups for years and you've stopped counting the attempts — if they don't feel when they need to go, every method that assumes they do was working on the wrong foundation.
+Whether your child sits on the toilet for 20 minutes and nothing happens, or they play in a wet pull-up without flinching, or they've been in pull-ups for years and you've stopped counting the attempts, if they don't feel when they need to go, every method that assumes they do was working on the wrong foundation.
 
-Here's what makes this different: it's not another method. It's not another promise. The Body-Signal Learning Layer creates a gentle, sustained sensation — 30 to 60 seconds of feedback after every accident — that bridges the gap between the nervous system and the body. Not training. Body-signal learning.
+Here's what makes this different: it's not another method. It's not another promise. The Body-Signal Learning Layer creates a gentle sensation that lasts, 30 to 60 seconds of feedback after every accident, that bridges the gap between the nervous system and the body. Not training. Body-signal learning.
 
 Pull-ups wick that signal away completely. Body-Signal underwear helps the brain receive information it's been missing.
 
-I can't promise your child will train by a certain date. No one can. But here's what I can promise: 60 days to try. If your child shows no sign of awareness — no pause, no look, no step toward the potty, no reaction at all — full refund. Every dollar.
+I can't promise your child will train by a certain date. No one can. But here's what I can promise: 60 days to try. If your child shows no sign of awareness, no pause, no look, no step toward the potty, no reaction at all, full refund. Every dollar.
 
 The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.
 
@@ -46,7 +45,7 @@ The guarantee isn't a sales tactic. It's the only honest thing to offer when the
 **Three parents, three different kids, one common experience:**
 
 *A mom whose child talked about the potty but wouldn't go:*
-"He talked about it but wouldn't go. After 3 weeks in BKC, he paused. Then he looked down. Then he walked to the potty — after the accident, but he's never done that before."
+"He talked about it but wouldn't go. After 3 weeks in BKC, he paused. Then he looked down. Then he walked to the potty, after the accident, but he's never done that before."
 
 *A mom whose child never once noticed being wet:*
 "She never once noticed she was wet. In Week 4, she pulled at her pants. That's the first signal I've ever seen."
@@ -54,7 +53,7 @@ The guarantee isn't a sales tactic. It's the only honest thing to offer when the
 *A mom whose child has high support needs and is 9 years old:*
 "He's not trained. But he's feeling something for the first time in 9 years. That's enough for now."
 
-If any of these sound like your child — that's the gap we're talking about.
+If any of these sound like your child, that's the gap we're talking about.
 
 ---
 
@@ -64,14 +63,16 @@ If any of these sound like your child — that's the gap we're talking about.
 
 1 Pair ($34.99) · 3+3 Bundle ($79.99, Free Shipping, 6 pairs for rotation)
 
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
+
 ---
 
 With care,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. My older son was 8 before we figured this out. If you've stepped back from trying — I get it. When you're ready, the science will still be here. 60 days, your judgment.
+P.S. My older son was 8 before we figured this out. If you've stepped back from trying, I get it. When you're ready, the science will still be here. 60 days, your judgment.
 
 ---
 
@@ -97,46 +98,46 @@ P.S. My older son was 8 before we figured this out. If you've stepped back from 
 | **Email №** | E3 of 3 |
 | **Timing** | 72 hours after cart abandonment |
 | **Strategy** | Maximum guarantee emphasis. Address objection D3 ("What if I get my hopes up again?") |
-| **Source** | 2-full-email-copy-strategy.md §Cart E3; GIULIANO-DEMANDS.md §6 D3 |
+ 2-full-email-copy-strategy.md §Cart E3; GIULIANO-DEMANDS.md §6 D3 |
 | **Emotional Arc** | Skepticism acknowledged → Guarantee as honest protocol → Three-family proof → Permission to try without risk |
 
 ---
 
 ### 2.2 The Core Tension
 
-This email lands in the inbox of a mom who has been disappointed by every product and method she's ever tried. Her skepticism is not resistance — it's self-protection. The email must:
+This email lands in the inbox of a mom who has been disappointed by every product and method she's ever tried. Her skepticism is not resistance, it's self-protection. The email must:
 
-1. **Validate that skepticism as earned and rational** — not dismiss it
+1. **Validate that skepticism as earned and rational**, not dismiss it
 2. **Reframe the guarantee from "sales tactic" to "honest protocol"**
-3. **Show the product as mechanism, not magic** — always refer to what the Body-Signal Learning Layer *does*, not what it *promises*
-4. **End with permission, not pressure** — "By your judgment" is the closing anchor
+3. **Show the product as mechanism, not magic**, always refer to what the Body-Signal Learning Layer *does*, not what it *promises*
+4. **End with permission, not pressure**, "By your judgment" is the closing anchor
 
 ---
 
 ### 2.3 Section Structure
 
 ```
-Section 1: Hook — Direct address of skepticism
-  "I'll be direct: if you're hesitating because you've been burned before — I get it."
+Section 1: Hook, Direct address of skepticism
+ "I'll be direct: if you're hesitating because you've been burned before, I get it."
 
-Section 2: Validation — Skepticism is earned
-  "That skepticism is earned. Every product promises. Every method disappoints."
+Section 2: Validation, Skepticism is earned
+ "That skepticism is earned. Every product promises. Every method disappoints."
 
-Section 3: Recognition Anchors (R2) — Cross-level symptom block
-  "Whether your child sits on the toilet for 20 minutes... OR they play in a wet pull-up... OR they've been in pull-ups for years..."
+Section 3: Recognition Anchors (R2), Cross-level symptom block
+ "Whether your child sits on the toilet for 20 minutes... OR they play in a wet pull-up... OR they've been in pull-ups for years..."
 
-Section 4: Mechanism — Not another method, body-signal learning
-  "The Body-Signal Learning Layer creates a gentle, sustained sensation..."
+Section 4: Mechanism, Not another method, body-signal learning
+ "The Body-Signal Learning Layer creates a gentle sensation that lasts..."
 
-Section 5: Guarantee — Honest protocol, not sales tactic
-  "60 days to try. If your child shows no sign of awareness... full refund."
+Section 5: Guarantee, Honest protocol, not sales tactic
+ "60 days to try. If your child shows no sign of awareness... full refund."
 
 Section 6: Three-Family Testimonial Pattern (GF)
-  Three parents, three different kids, one common experience.
+ Three parents, three different kids, one common experience.
 
-Section 7: CTA + Offer — "Try it for 60 days. By your judgment."
+Section 7: CTA + Offer, "Try it for 60 days. By your judgment."
 
-Section 8: Lena Sign-Off — LONG variant
+Section 8: Lena Sign-Off, LONG variant
 ```
 
 ---
@@ -166,7 +167,7 @@ Section 8: Lena Sign-Off — LONG variant
 | **V8** 60-day guarantee, never 30 | Used explicitly: "60 days to try" + "full refund" | 11-BVR §5.1 |
 | **V9** Pull-ups block signal — not "bad" | "Pull-ups wick that signal away completely." — mechanism, not blame | 11-BVR §5.1 |
 | **V10** Autism is identity, not disease | "nervous system", "body signals", "brain receives information" — never suggests curing or fixing | 11-BVR §4 |
-| **V11** Mechanism specificity over brand promises | Explains exactly what the BSL™ layer does: "30 to 60 seconds of feedback after every accident" | 11-BVR §5.1 |
+| **V11** Mechanism specificity over brand promises | Explains exactly what the BSL layer does: "30 to 60 seconds of feedback after every accident" | 11-BVR §5.1 |
 | **V12** Permission-not-to-buy | "Try it for 60 days. By your judgment." + "When you're ready, the science will still be here." | 11-BVR §5.1 |
 | **V13** Science-first | Names mechanism specifically: "Body-Signal Learning Layer", "30 to 60 seconds of feedback", coversation of nervous system | 11-BVR §5.1 |
 | **V14** Realistic timelines | "I can't promise your child will train by a certain date. No one can." | 11-BVR §5.1 |
@@ -194,36 +195,34 @@ Section 8: Lena Sign-Off — LONG variant
 ```
 Whether your child sits on the toilet for 20 minutes and nothing happens,
 or they play in a wet pull-up without flinching,
-or they've been in pull-ups for years and you've stopped counting the attempts —
+or they've been in pull-ups for years and you've stopped counting the attempts,
 if they don't feel when they need to go, every method that assumes they do
 was working on the wrong foundation.
 ```
 
 This pattern simultaneously:
 1. Addresses the child who sits and waits (toilet/20 mins), the child who plays through wetness (pull-up/unaware), and the child who's been in this for years (stopped counting)
-2. Uses symptom language only — zero level labels (R1)
-3. Spans age ranges implicitly — from young child to older child (R3)
+2. Uses symptom language only, zero level labels (R1)
+3. Spans age ranges implicitly, from young child to older child (R3)
 4. Covers both awareness-seeking and resigned emotional states
 5. Unifies through the shared symptom: "don't feel when they need to go"
 
-**Source:** layer-18-cross-level-calibration.md §Part 3; GIULIANO-DEMANDS.md §4
-
+**
 ---
 
 ### 2.8 Three-Family Testimonial Pattern (GF)
 
 | Level | Child Profile | Testimonial | Mini-Win Type (R6) | Source |
 |-------|--------------|------------|-------------------|--------|
-| **Verbal, talks about potty but won't go** | ~L1 equivalent | "He talked about it but wouldn't go. After 3 weeks in BKC, he paused. Then he looked down. Then he walked to the potty — after the accident, but he's never done that before." | Pause → Look → Walk toward bathroom | Adapted from 2-FEC-strategy.md §Welcome E3 L1 |
+| **Verbal, talks about potty but won't go** | ~L1 equivalent | "He talked about it but wouldn't go. After 3 weeks in BKC, he paused. Then he looked down. Then he walked to the potty, after the accident, but he's never done that before." | Pause → Look → Walk toward bathroom | Adapted from 2-FEC-strategy.md §Welcome E3 L1 |
 | **Never notices being wet** | ~L2 equivalent | "She never once noticed she was wet. In Week 4, she pulled at her pants. That's the first signal I've ever seen." | Pull at pants in awareness | Adapted from 2-FEC-strategy.md §Welcome E3 GF pattern |
 | **High support needs / years with no signal** | ~L3 equivalent | "He's not trained. But he's feeling something for the first time in 9 years. That's enough for now." | Feeling something for first time | Adapted from 2-FEC-strategy.md §Welcome E3 GF; R6 low-bar |
 
 **Purpose:** The Three-Family Pattern serves two functions in cross-level copy:
-1. **Self-identification without labeling** (R1) — mom finds "her" story without being told her level
-2. **Migration anchor** — each testimonial naturally leads toward more specific content
+1. **Self-identification without labeling** (R1), mom finds "her" story without being told her level
+2. **Migration anchor**, each testimonial naturally leads toward more specific content
 
-**Source:** MASTER-DIAGNOSIS-COMPENDIUM.md §4.6; 2-full-email-copy-strategy.md §Welcome E3 GF; layer-18-cross-level-calibration.md §Part 4
-
+**
 ---
 
 ### 2.9 Design & Visual Specifications

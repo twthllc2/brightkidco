@@ -1,9 +1,9 @@
 # Browse Abandonment E2 — Cross-Level Email
 
 > **Flow:** Browse Abandonment (Flow 04)
-> **Email Position:** E2 — 24 Hours After Browse
+> **Email Position:** E2, 24 Hours After Browse
 > **Type:** Cross-Level (1 copy, R1-R6 for all 4 levels)
-> **Strategy:** Social Proof — Three-Family Testimonial Pattern
+> **Strategy:** Social Proof, Three-Family Testimonial Pattern
 > **Voice:** Universal Lena (50% Hope / 50% Realism)
 > **Sources:** 2-full-email-copy-strategy.md §1.4, layer-18-cross-level-calibration.md, layer-17-tonality-calibration.md, 11-brand-voice-reference.md, consolidated-design-skills-trimmed.md, layer-21-sub-groups.md
 
@@ -13,27 +13,27 @@
 
 ## 1. Strategic Intent
 
-Browse Abandonment E2 is the social proof pivot of the 3-email Browse sequence. E1 (30 min) established the symptom hook and mechanism teaser. E2 (24 hours) lands the emotional proof — real parents, real results, across all support profiles. E3 (72 hours) closes with guarantee + permission-not-to-buy.
+Browse Abandonment E2 is the social proof pivot of the 3-email Browse sequence. E1 (30 min) established the symptom hook and mechanism teaser. E2 (24 hours) lands the emotional proof, real parents, real results, across all support profiles. E3 (72 hours) closes with guarantee + permission-not-to-buy.
 
-**E2's single job:** Make every parent who abandoned the browse feel seen — then show them that other parents exactly like them found the missing piece.
+**E2's single job:** Make every parent who abandoned the browse feel seen, then show them that other parents exactly like them found the missing piece.
 
 ## 2. Emotional Arc
 
 ```
 Open: Recognition hook ("Whether...Or...If...") inclusive of all 4 levels
-  │
-  ▼
+ │
+ ▼
 Three-Family Testimonial Block ─── L1 testimony (Pre-K hope)
-  │                                │─ L2 testimony (BCBA-sensory)
-  │                                └─ L3 testimony (dignity-first)
-  │
-  ▼
+ │ │─ L2 testimony (BCBA-sensory)
+ │ └─ L3 testimony (dignity-first)
+ │
+ ▼
 Mechanism Reveal: Common thread = interoception gap
-  │
-  ▼
+ │
+ ▼
 Universal CTA: Soft invitation to explore
-  │
-  ▼
+ │
+ ▼
 Lena Sign-Off (MEDIUM variant)
 ```
 
@@ -100,38 +100,38 @@ Lena Sign-Off (MEDIUM variant)
 
 **Final choice:** "What 16,511 reviews have in common" (38 characters ✓)
 **Type:** Social proof (category 6 from the 6 subject line formulas)
-**Why:** The 16,511 reviews and 4.9★ rating are the strongest trust signal at browse stage. This parent hasn't bought yet — she browsed and left. Social proof that doesn't assume anything about her child's profile is the safest cross-level hook. It works for all 4 levels and all 5 GF sub-groups because it doesn't reference symptoms, ages, or outcomes — it just says "thousands of parents found something here."
+**Why:** The 16,511 reviews and 4.9★ rating are the strongest trust signal at browse stage. This parent hasn't bought yet, she browsed and left. Social proof that doesn't assume anything about her child's profile is the safest cross-level hook. It works for all 4 levels and all 5 GF sub-groups because it doesn't reference symptoms, ages, or outcomes, it just says "thousands of parents found something here."
 
-**Alternative considered:** "Three parents, three different kids, one common experience" (56 chars — too long, exceeds 50-char limit)
+**Alternative considered:** "Three parents, three different kids, one common experience" (56 chars, too long, exceeds 50-char limit)
 
 ## 7. Section Structure Design
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  SECTION 1: Universal Recognition Opener             │
-│  "Whether...Or...If..." pattern → 5 symptom bullets  │
-│  R1 ✓ R2 ✓ R3 ✓ R4 ✓                                │
+│ SECTION 1: Universal Recognition Opener │
+│ "Whether...Or...If..." pattern → 5 symptom bullets │
+│ R1 ✓ R2 ✓ R3 ✓ R4 ✓ │
 ├─────────────────────────────────────────────────────┤
-│  SECTION 2: Three-Family Testimonial Block           │
-│  Testimonial 1 — L1 profile (verbal, Pre-K)          │
-│  Testimonial 2 — L2 profile (sensory, BCBA)          │
-│  Testimonial 3 — L3 profile (non-verbal, deep)       │
-│  R2 ✓ R4 ✓ R6 ✓                                     │
+│ SECTION 2: Three-Family Testimonial Block │
+│ Testimonial 1, L1 profile (verbal, Pre-K) │
+│ Testimonial 2, L2 profile (sensory, BCBA) │
+│ Testimonial 3, L3 profile (non-verbal, deep) │
+│ R2 ✓ R4 ✓ R6 ✓ │
 ├─────────────────────────────────────────────────────┤
-│  SECTION 3: Mechanism Reveal                         │
-│  Common thread = interoception gap                   │
-│  R5 ✓                                               │
+│ SECTION 3: Mechanism Reveal │
+│ Common thread = interoception gap │
+│ R5 ✓ │
 ├─────────────────────────────────────────────────────┤
-│  SECTION 4: Universal CTA + Permission               │
-│  "Your child, your timeline, your judgment"          │
-│  V12 ✓                                              │
+│ SECTION 4: Universal CTA + Permission │
+│ "Your child, your timeline, your judgment" │
+│ V12 ✓ │
 ├─────────────────────────────────────────────────────┤
-│  SECTION 5: Lena Sign-Off (MEDIUM)                   │
-│  "With understanding, Lena"                          │
-│  + P.S. with 60-day guarantee hook                  │
+│ SECTION 5: Lena Sign-Off (MEDIUM) │
+│ "With understanding, Lena" │
+│ + P.S. with 60-day guarantee hook │
 ├─────────────────────────────────────────────────────┤
-│  SECTION 6: Migration Anchors (GF sub-groups A-D)    │
-│  3 symptom-based story links                         │
+│ SECTION 6: Migration Anchors (GF sub-groups A-D) │
+│ 3 symptom-based story links │
 ├─────────────────────────────────────────────────────┤
 ```
 
@@ -159,7 +159,7 @@ Lena Sign-Off (MEDIUM variant)
 
 ## Subject Line
 
-**What 16,511 reviews have in common** (38 characters — Social proof hook)
+**What 16,511 reviews have in common** (38 characters, Social proof hook)
 
 ---
 
@@ -173,17 +173,17 @@ Three parents. Three different kids. One thing they all share.
 
 ### SECTION 1: Universal Recognition Opener (R1, R2, R3, R4)
 
-Whether your child is 3 or 10, verbal or not, diagnosed or still figuring it out — if they don't feel when they need to go, you're in the right place.
+Whether your child is 3 or 10, verbal or not, diagnosed or still figuring it out, if they don't feel when they need to go, you're in the right place.
 
 Chances are you've seen some of these:
 
-— He sits on the toilet for 20 minutes. Nothing happens. Then he pees 30 seconds after standing up.
-— She plays in a wet pull-up without noticing. Doesn't flinch. Doesn't pause.
-— He "almost trained" more than once. You can't figure out what's different this time.
-— She knows what to do — she'll tell you she needs to go — but it's already happening by the time she says it.
-— You've stopped counting the attempts. Years of pull-ups, and nothing shifted.
+• He sits on the toilet for 20 minutes. Nothing happens. Then he pees 30 seconds after standing up.
+• She plays in a wet pull-up without noticing. Doesn't flinch. Doesn't pause.
+• He "almost trained" more than once. You can't figure out what's different this time.
+• She knows what to do, she'll tell you she needs to go, but it's already happening by the time she says it.
+• You've stopped counting the attempts. Years of pull-ups, and nothing shifted.
 
-If any of those sound like your morning — keep reading.
+If any of those sound like your morning, keep reading.
 
 ---
 
@@ -191,51 +191,48 @@ If any of those sound like your morning — keep reading.
 
 Three parents. Three different kids. One common thread.
 
-**Testimonial 1 — "Almost trained" but not quite**
+**Testimonial 1, "Almost trained" but not quite**
 
-> "My son is 3. Verbal. He can tell me 'I need to pee' — after he's already done it. We tried Oh Crap. Sticker charts. Timer sits. Nothing worked. He'd sit for 20 minutes, get up, and pee on the floor 30 seconds later. I was ready to give up.
+> "My son is 3. Verbal. He can tell me 'I need to pee', after he's already done it. We tried Oh Crap. Sticker charts. Timer sits. Nothing worked. He'd sit for 20 minutes, get up, and pee on the floor 30 seconds later. I was ready to give up.
 >
-> After a few weeks in BrightKidCo underwear, he paused. Mid-pee, he stopped. Looked down. Then walked to the bathroom. That pause never happened before. It's not perfect — but it's real."
+> After a few weeks in BrightKidCo underwear, he paused. Mid-pee, he stopped. Looked down. Then walked to the bathroom. That pause never happened before. It's not perfect, but it's real."
 >
-> — Sarah, mom of a 3-year-old
+>, Sarah, mom of a 3-year-old
 
-*Source: Real parent testimony adapted from 05-customer-language-bank.md #97, #101; 49% stat from 03-science-library.md PP-B01 (Wiggins et al. 2022, CDC-funded SPARK study of 743 children).*
+*
+**Testimonial 2, Sensory, BCBA, still stuck**
 
-**Testimonial 2 — Sensory, BCBA, still stuck**
-
-> "We've been in ABA for 2 years. BCBA protocol. Timed sits every 45 minutes. He'd go when prompted — but never on his own. The moment we stopped the schedule, the accidents came back. Prompt-dependency, his BCBA called it.
+> "We've been in ABA for 2 years. BCBA protocol. Timed sits every 45 minutes. He'd go when prompted, but never on his own. The moment we stopped the schedule, the accidents came back. Prompt-dependency, his BCBA called it.
 >
-> Kelly Mahler talks about interoception as the 'eighth sensory system' — the one that tells you when you're hungry, thirsty, or need the bathroom. For my son, that system wasn't sending the signal. The underwear gave his brain the feedback it was missing. After a few weeks, he paused before an accident. First time in 4 years."
+> Kelly Mahler talks about interoception as the 'eighth sensory system', the one that tells you when you're hungry, thirsty, or need the bathroom. For my son, that system wasn't sending the signal. The underwear gave his brain the feedback it was missing. After a few weeks, he paused before an accident. First time in 4 years."
 >
-> — Lisa, mom of a 5-year-old
+>, Lisa, mom of a 5-year-old
 
-*Source: Interoception framing from 03-science-library.md PP-A07 (Kelly Mahler); BCBA-reframe from 01-customer-avatar.md §3.3 (L2).*
+*
+**Testimonial 3, Years of nothing, then something**
 
-**Testimonial 3 — Years of nothing, then something**
-
-> "My son is 9. Non-verbal. Uses AAC. In 9 years, he's never shown any awareness of being wet. We tried everything — OT, social stories, specialists. Nothing. I made peace with pull-ups forever. It's just where we were.
+> "My son is 9. Non-verbal. Uses AAC. In 9 years, he's never shown any awareness of being wet. We tried everything, OT, social stories, specialists. Nothing. I made peace with pull-ups forever. It's just where were.
 >
 > After a couple of months in Body-Signal underwear, he paused. He looked down at the wet spot. Then he walked toward the bathroom. Not trained. But feeling something for the first time. That pause was more than I'd seen in 9 years.
 >
 > Maureen Bennie's son was 9.5 when he trained. Late is not never."
 >
-> — Maria, mom of a 9-year-old
+>, Maria, mom of a 9-year-old
 
-*Source: Late-trainer story from GIULIANO-DEMANDS.md §5 L3; Maureen Bennie reference from 11-brand-voice-reference.md §7.2; 03-science-library.md PP-A06 (Barmpagiannis & Baldimtsi 2025, 49-study review).*
-
+*
 ---
 
 ### SECTION 3: Mechanism Reveal (R5)
 
-The common thread across every one of these stories: every child was missing the interoceptive signal.
+The common thread across every one of these stories: every child was missing the body signal.
 
-Interoception is the body's ability to sense internal signals — hunger, thirst, bladder fullness. Research shows this works differently in many autistic children and kids who process signals differently (Barmpagiannis & Baldimtsi 2025, 49-study review).
+Interoception is the body's ability to sense internal signals, hunger, thirst, bladder fullness. Research shows this works differently in many autistic children and kids who process signals differently (Barmpagiannis & Baldimtsi 2025, 49-study review).
 
-Standard methods assume the signal is there. If it's not — they can't work.
+Standard methods assume the signal is there. If it's not, they can't work.
 
-Body-Signal Learning Layer underwear creates a gentle, sustained "uh-oh" sensation — 30 to 60 seconds of feedback that gives the brain time to register: something happened.
+Body-Signal Learning Layer underwear creates a gentle, sustained "uh-oh" sensation, 30 to 60 seconds of feedback that gives the brain time to register: something happened.
 
-Some kids show first signs in 2 weeks. Others need 8 weeks. Both are normal. Wins look different on different timelines — a pause, a look, a step toward the bathroom. That's not failure. That's the signal wiring.
+Some kids show first signs in 2 weeks. Others need 8 weeks. Both are normal. Wins look different on different timelines, a pause, a look, a step toward the bathroom. That's not failure. That's the signal wiring.
 
 ---
 
@@ -251,11 +248,13 @@ If this sounds like something your family could use, here's where to learn more 
 
 ---
 
+**Next time:** 60 days to try it. Your judgment. No pressure.
+
 ### SECTION 5: Lena Sign-Off (MEDIUM)
 
 With understanding,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
 P.S. I have two autistic sons. One was 6, the other almost 8 before we figured this out. I know how hard it is to hope again after so many letdowns. 60 days to try it. By your judgment. [link]
@@ -264,11 +263,11 @@ P.S. I have two autistic sons. One was 6, the other almost 8 before we figured t
 
 ### SECTION 6: Migration Anchors (GF Sub-Groups A-E)
 
-*If you're wondering whether your child's situation is specific enough for this product — here are three stories from parents who were asking the same question:*
+*If you're wondering whether your child's situation is specific enough for this product, here are three stories from parents who were asking the same question:*
 
-→ **If your child is verbal, under 5, and "almost trained" multiple times** — Sarah's story might sound familiar. [Read Sarah's full journey]
-→ **If your child has sensory issues around the bathroom and you've worked with a therapist or BCBA** — here's what Lisa learned. [Read Lisa's path]
-→ **If your child is 7+, non-verbal or high-support needs** — Maria's experience will tell you what to expect. [Read Maria's journey]
+→ **If your child is verbal, under 5, and "almost trained" multiple times**, Sarah's story might sound familiar. [Read Sarah's full journey]
+→ **If your child has sensory issues around the bathroom and you've worked with a therapist or BCBA**, here's what Lisa learned. [Read Lisa's path]
+→ **If your child is 7+, non-verbal or high-support needs**, Maria's experience will tell you what to expect. [Read Maria's journey]
 
 *Not sure where your child fits? That's okay. The general framework works for all kids whose nervous systems process signals differently.* [Keep reading the general guide]
 

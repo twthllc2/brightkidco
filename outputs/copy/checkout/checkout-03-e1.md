@@ -1,9 +1,9 @@
 # Checkout Abandonment E1 — Cross-Level Email Copy + Creative Strategy
 
 > **Wave 3: Cross-Level Checkout Recovery**
-> **Timing:** 10 Minutes after Checkout Started (Source: 1-full-email-strategy.md §4.1, Flow 03 | GIULIANO-DEMANDS.md §2.2)
-> **Segmentation:** Cross-Level — R1-R6 (One copy, all 4 levels)
-> **Purpose:** Recover checkout drop-offs at highest intent moment — overcome "buyer's remorse before purchase" anxiety.
+> **Timing:** 10 Minutes after Checkout Started 
+> **Segmentation:** Cross-Level, R1-R6 (One copy, all 4 levels)
+> **Purpose:** Recover checkout drop-offs at highest intent moment, overcome "buyer's remorse before purchase" anxiety.
 > **Source Hierarchy:** 2-full-email-copy-strategy.md §1.3 → Layer-18-Cross-Level-Calibration.md → Layer-17-Tonality-Calibration.md → Layer-21-Sub-Groups.md → 11-brand-voice-reference.md
 > **Voice:** Lena S., Customer Support · Mom of two autistic sons
 
@@ -13,37 +13,38 @@
 
 ---
 
-**Subject Line:** Was there a question? (48 chars — under 50 ✓)
+**Subject Line:** Was there a question? (48 chars, under 50 ✓)
 
-**Preview Text:** Not chasing — just wondering if there's something we can help with before you go.
+**Preview Text:** Not chasing, just wondering if there's something we can help with before you go.
 
 ---
 
-**Headline:** You started checkout — here's the piece most parents are missing.
+**Headline:** You started checkout, here's the piece most parents are missing.
 
 **Body:**
 
 You started checkout, then stopped. That's okay. No hurry.
 
-Whether your child is 3 or 10, verbal or not — if they don't seem to feel when they need to go, there's a reason standard methods haven't clicked.
+Whether your child is 3 or 10, verbal or not, if they don't seem to feel when they need to go, there's a reason standard methods haven't clicked.
 
-It's not stubbornness. It's not motivation. It's a signal-timing gap — the 'I need to go' message arrives from the body just a little too late for the brain to act on it. Research shows this is a real, measurable neurological difference (Nicholson et al. 2019).
+It's not stubbornness. It's not motivation. It's a signal-timing gap, the 'I need to go' message arrives from the body just a little too late for the brain to act on it. Research shows this a real, measurable neurological difference (Nicholson et al. 2019).
 
-The Body-Signal Learning Layer in our underwear creates a gentle, sustained 'uh-oh' sensation for 30-60 seconds after every accident — giving the brain the feedback it's been missing. Not by training. By providing information.
+The Body-Signal Learning Layer in our underwear creates a gentle, sustained 'uh-oh' sensation for 30-60 seconds after every accident, giving the brain the feedback it's been missing. Not by training. By providing information.
 
 **The Guarantee:**
 
-You don't have to believe me. 60 days to try it in your home, with your child, on your timeline. If nothing shifts for your child — no pause, no look, no step toward awareness — full refund. No forms, no hassle.
+You don't have to believe me. 60 days to try it in your home, with your child, on your timeline. If nothing shifts for your child, no pause, no look, no step toward awareness, full refund. No forms, no hassle.
 
 **CTA:**
 
-Complete your order — your cart is saved as-is.
+Complete your order. Your cart is saved as-is.
 
 ---
 
-**Lena Sign-Off** (SHORT variant — Source: 11-brand-voice-reference.md §9):
+**Next time:** Why this approach is different from everything you've tried.
 
-Thanks for being here. If you have a question, hit reply. You'll get me — not a template, not a bot. I read everything.
+**Lena Sign-Off** (SHORT variant, 
+Thanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.
 
 Lena ——
 
@@ -53,7 +54,7 @@ Lena ——
 
 *Place in the email body after mechanism paragraph, before guarantee.*
 
-> Three different kids, one pattern — see if one sounds familiar:
+> Three different kids, one pattern. See if one sounds familiar:
 >
 > *"He's been 'almost trained' for months. Talks about it. Won't do it."*
 > *"She sat on the toilet for 30 minutes. Nothing. Pull-up back on? Immediate."*
@@ -80,14 +81,14 @@ Lena ——
 
 ## 1. Strategic Intent
 
-Checkout E1 lives at the apex of intent. The subscriber has moved past browsing and cart — she entered payment details. She stopped for a reason. The strategy is NOT to re-sell the mechanism (she saw it during checkout) but to remove the final emotional barrier: **buyer's remorse before purchase.** (Source: 2-full-email-copy-strategy.md §1.3)
+Checkout E1 lives at the apex of intent. The subscriber has moved past browsing and cart, she entered payment details. She stopped for a reason. The strategy is NOT to re-sell the mechanism (she saw it during checkout) but to remove the final emotional barrier: **buyer's remorse before purchase.** 
 
 **The Anxiety to Address:**
-- "What if this is another failed method?"
+- "What if this another failed method?"
 - "What if I get my hopes up again?"
 - "What if it doesn't work for my specific child?"
 
-Most checkout abandonment emails push urgency. We do the opposite: **permission to pause, backed by guarantee.** Speed of send (10 min) catches hesitation before rationalization sets in. (Source: 1-full-email-strategy.md §4.1, Flow 03 Tonality: "Urgency-respecting (permission frame)")
+Most checkout abandonment emails push urgency. We do the opposite: **permission to pause, backed by guarantee.** Speed of send (10 min) catches hesitation before rationalization sets in. ")
 
 ---
 
@@ -103,9 +104,9 @@ Most checkout abandonment emails push urgency. We do the opposite: **permission 
 | 6 | Guarantee | Skepticism → Safety | 60-day risk removal — final barrier falls |
 | 7 | CTA | Permission → Action | "Your cart is saved as-is" — low friction |
 
-**Hope/Realism Ratio:** 50/50 (Cross-Level Standard — Layer-18-Cross-Level-Calibration.md §Part 8)
-- Not too hopeful (would lose L3 — 20/80 default)
-- Not too realistic (would lose L1 — 70/30 default)
+**Hope/Realism Ratio:** 50/50 (Cross-Level Standard, Layer-18-Cross-Level-Calibration.md §Part 8)
+- Not too hopeful (would lose L3, 20/80 default)
+- Not too realistic (would lose L1, 70/30 default)
 - Balanced to serve ALL 4 levels simultaneously
 
 ---
@@ -123,8 +124,7 @@ Most checkout abandonment emails push urgency. We do the opposite: **permission 
 
 ---
 
-## 4. Voice Calibration (Lena's Voice — Source: 11-brand-voice-reference.md)
-
+## 4. Voice Calibration (Lena's Voice — 
 ### 4.1 Lena Voice Formula Applied
 
 | Step | Copy | Compliance |
@@ -138,7 +138,7 @@ Most checkout abandonment emails push urgency. We do the opposite: **permission 
 
 | Principle | Applied? | Evidence |
 |-----------|----------|----------|
-| **Peer, Not Brand** ✓ | Lena sign-off: "You'll get me — not a template, not a bot." No marketer framing. Peer-mom tone throughout. |
+| **Peer, Not Brand** ✓ | Lena sign-off: "You'll get me, not a template, not a bot." No marketer framing. Peer-mom tone throughout. |
 | **Validate Before You Solve** ✓ | Opens with "That's okay. No hurry." — validates hesitation before mechanism. |
 | **Autism Is Identity, Not Disease** ✓ | No "cure," "fix," or "solve" language. Mechanism framed as "providing information the brain needs." |
 
@@ -189,22 +189,19 @@ Most checkout abandonment emails push urgency. We do the opposite: **permission 
 - Sub-Group D: L1 → Recognition Anchors → Migration
 - Sub-Group E: L3 (Guarantee) → L1 (Brief mechanism) → L4 (Lena trust)
 
-(Source: Layer-21-Sub-Groups.md — Conversion Lever Activation per Sub-Group)
-
 ---
 
 ## 6. Design & Structure Decisions
 
 ### 6.1 Why "Was there a question?" as Subject Line
 
-- **Under 50 characters (48)** ✓ — Success Criterion met
-- **Permission frame, not urgency frame** — Opens with curiosity + service, not "You forgot" guilt
-- **Cross-level safe** — No level-specific language, no age reference, no diagnosis reference
-- **Source:** 2-full-email-copy-strategy.md §1.3 — Original subject line preserved from S2 strategy
-
+- **Under 50 characters (48)** ✓, Success Criterion met
+- **Permission frame, not urgency frame**, Opens with curiosity + service, not "You forgot" guilt
+- **Cross-level safe**, No level-specific language, no age reference, no diagnosis reference
+- **
 ### 6.2 Preview Text Strategy
 
-"Not chasing — just wondering if there's something we can help with before you go."
+"Not chasing, just wondering if there's something we can help with before you go."
 
 - Reinforces permission frame established in subject line
 - Anti-pressure: "Not chasing" explicitly signals no urgency
@@ -213,29 +210,27 @@ Most checkout abandonment emails push urgency. We do the opposite: **permission 
 ### 6.3 Section Structure (2-full-email-copy-strategy.md §1.3)
 
 1. **Headline:** Permission + mechanism tease
-2. **Observation:** "You started checkout, then stopped" — name reality
-3. **Validated Pause:** "That's okay. No hurry." — guilt removal
+2. **Observation:** "You started checkout, then stopped", name reality
+3. **Validated Pause:** "That's okay. No hurry.", guilt removal
 4. **Whether/Or/If Cross-Level Bridge:** "Whether your child is 3 or 10, verbal or not..."
 5. **Validation + Mechanism:** Signal-timing gap, Nicholson 2019
-6. **Product Introduction:** BSL layer description — gentle, sustained, informational
+6. **Product Introduction:** BSL layer description, gentle, sustained, informational
 7. **Three-Family Testimonial Block (GF):** Recognition anchors for all levels
 8. **Guarantee:** 60-day risk removal
-9. **CTA:** "Complete your order — your cart is saved as-is"
+9. **CTA:** "Complete your order, your cart is saved as-is"
 10. **Lena Sign-Off (SHORT):** Peer-mom closing
 
 ### 6.4 The "Whether...Or...If..." Pattern
 
-Applied at the first body paragraph after the headline:
+Applied at the first body paragraph after theadline:
 
-> *"Whether your child is 3 or 10, verbal or not — if they don't seem to feel when they need to go, there's a reason standard methods haven't clicked."*
+> *"Whether your child is 3 or 10, verbal or not, if they don't seem to feel when they need to go, there's a reason standard methods haven't clicked."*
 
 This structure simultaneously:
-1. Acknowledges age range (R3) — "3 or 10"
-2. Acknowledges verbal/non-verbal (R4) — "verbal or not"
-3. Provides a unified symptom bridge (R1) — "don't feel when they need to go"
+1. Acknowledges age range (R3), "3 or 10"
+2. Acknowledges verbal/non-verbal (R4), "verbal or not"
+3. Provides a unified symptom bridge (R1), "don't feel when they need to go"
 4. Transitions to mechanism without level labels
-
-(Source: Layer-18-Cross-Level-Calibration.md §Part 3)
 
 ### 6.5 Three-Family Testimonial Pattern (GF)
 
@@ -247,24 +242,24 @@ Applied as an inline insert block after the mechanism paragraph:
 | "Sat on toilet 30 minutes. Nothing. Pull-up back on? Immediate." | L2 (Lisa) — method-cycled, prompt-dependent, sensory | 01-customer-avatar.md §3.3 |
 | "Doesn't react to wet. Never has. Stopped counting attempts." | L3 (Maria) — signal-absent, years deep, resigned | 01-customer-avatar.md §3.4 |
 
-Purpose: Mom reads the list, finds 1-2 that match her child exactly, thinks "They know my kid." This builds trust without requiring level assignment. (Source: Layer-18-Cross-Level-Calibration.md §Rule 2 — "3-5 Recognition Anchors Per Mail")
+Purpose: Mom reads the list, finds 1-2 that match her child exactly, thinks "They know my kid." This builds trust without requiring level assignment. 
 
 ### 6.6 Guarantee Positioning
 
-Not "Buy with confidence" (marketing language) — Instead: *"You don't have to believe me. 60 days to try it in your home, with your child, on your timeline."*
+Not "Buy with confidence" (marketing language), Instead: *"You don't have to believe me. 60 days to try it in your home, with your child, on your timeline."*
 
-- Peer positioning: "You don't have to believe me" — not a brand promising, a peer acknowledging skepticism
+- Peer positioning: "You don't have to believe me", not a brand promising, a peer acknowledging skepticism
 - Parent-controlled: "in your home, with your child, on your timeline"
-- Low-bar success language: "no pause, no look, no step toward awareness" — R6 mini-wins
-- No promise of "trained" — protects L3 dignity
+- Low-bar success language: "no pause, no look, no step toward awareness", R6 mini-wins
+- No promise of "trained", protects L3 dignity
 
 ### 6.7 CTA Design
 
-"Complete your order — your cart is saved as-is."
+"Complete your order. Your cart is saved as-is."
 
-- **Low friction** — "as-is" means she doesn't need to re-decide anything
-- **Permission frame** — no "Buy Now" or "Finish Purchase" pressure language
-- **Neutral** — doesn't re-open the decision process
+- **Low friction**, "as-is" means she doesn't need to re-decide anything
+- **Permission frame**, no "Buy Now" or "Finish Purchase" pressure language
+- **Neutral**, doesn't re-open the decision process
 
 ---
 

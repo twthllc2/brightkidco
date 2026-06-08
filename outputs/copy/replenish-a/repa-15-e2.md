@@ -1,13 +1,13 @@
-# Replenish A E2 — Flow 15 · Email 2 (D21)
+# Replenish A E2, Flow 15 · Email 2 (D21)
 
-> **Cross-Level Email** — One copy serving L1 (Sarah), L2 (Lisa), L3 (Maria), and General Fallback simultaneously.
-> **R1-R6 Calibration Applied** — Symptom-first, inclusive age ranges, verbal/non-verbal pairing, timeline flexibility, low-bar success metrics.
-> **Flow 15:** Replenish A — 1-Pair Buyers · **E2:** Day 21 (3 weeks post-purchase)
-> **Strategy:** Re-order reminder + 3+3 bundle upsell. Second replenishment touch — slightly more direct reorder invitation.
+> **Cross-Level Email**, One copy serving L1 (Sarah), L2 (Lisa), L3 (Maria), and General Fallback simultaneously.
+> **R1-R6 Calibration Applied**, Symptom-first, inclusive age ranges, verbal/non-verbal pairing, timeline flexibility, low-bar success metrics.
+> **Flow 15:** Replenish A, 1-Pair Buyers · **E2:** Day 21 (3 weeks post-purchase)
+> **Strategy:** Re-order reminder + 3+3 bundle upsell. Second replenishment touch, slightly more direct reorder invitation.
 
 ---
 
-## PART 1 — FULL EMAIL COPY
+## PART 1, FULL EMAIL COPY
 
 ---
 
@@ -18,10 +18,10 @@
 | **Flow** | Replenish A (1-Pair Buyers) |
 | **Email #** | 2 of 3 |
 | **Timing** | Day 21 post-purchase |
-| **Segment** | Cross-Level (R1-R6) — 1 copy for L1/L2/L3/GF |
+| **Segment** | Cross-Level (R1-R6), 1 copy for L1/L2/L3/GF |
 | **Target Tag** | buyer_1pair |
-| **Stage** | Lifecycle — Replenishment |
-| **Voice** | Lena S. — Customer Support · Mom of two autistic sons |
+| **Stage** | Lifecycle, Replenishment |
+| **Voice** | Lena S., Customer Support · Mom of two autistic sons |
 | **Tone** | Respectful re-engagement, practical, low-pressure |
 | **Offer** | 3+3 Bundle ($79.99) → upsell from 1 pair ($34.99) |
 
@@ -34,17 +34,16 @@
 - **Character count:** 28 ✓ (under 50)
 - **Type:** Question hook (per §2.4 subject line formulas)
 - **Cross-level safe:** No level labels, no fixed age, no Pre-K urgency
-- **Source:** 2-full-email-copy-strategy.md §1.14; 1-full-email-strategy.md §11.3
-
+- **
 ---
 
 ### PREVIEW TEXT
 
-> Whether you're seeing first signals or still waiting — one pair might not be enough for daily wear.
+> Whether you're seeing first signals or still waiting, one pair might not be enough for daily wear.
 
 - **Character count:** 97 ✓
 - **Purpose:** Sets expectation that it's okay whatever stage they're at + introduces the practical reasoning for more pairs
-- **R1-R6:** R3 (inclusive), R5 (timeline flexibility), R6 (low-bar — "first signals" not "fully trained")
+- **R1-R6:** R3 (inclusive), R5 (timeline flexibility), R6 (low-bar, "first signals" not "fully trained")
 
 ---
 
@@ -57,20 +56,20 @@
 It's been about 3 weeks since the first pair arrived.
 
 In that time, maybe you've noticed some of these:
-— Your child wears the underwear, then you're doing laundry and waiting for it to dry before the next wear.
-— The "uh-oh" sensation is starting to do its work — a pause here, a look down there — but consistency is still spotty.
-— You're still using pull-ups for backup half the time because the one pair is in the wash.
-— Your child hasn't shown a change yet, and you're wondering if daily wear is even happening often enough.
+, Your child wears the underwear, then you're doing laundry and waiting for it to dry before the next wear.
+, The "uh-oh" sensation is starting to do its work, a pause here, a look down there, but consistency is still spotty.
+, You're still using pull-ups for backup half the time because the one pair is in the wash.
+, Your child hasn't shown a change yet, and you're wondering if daily wear is even happening often enough.
 
 ---
 
 **Validation + Mechanism (R4: Verbal/Non-Verbal)**
 
-Any of those sound familiar? They're all normal — and they all point to the same thing.
+Any of those sound familiar? They're all normal, and they all point to the same thing.
 
-The Body-Signal Learning Layer needs repetition to build the neural pathway. For a nervous system that processes signals differently, the feedback loop doesn't wire after a few wears a week. It wires through consistent, daily exposure — the sensation arriving, the brain registering, the connection building.
+The Body-Signal Learning Layer needs repetition to build the neural pathway. For a nervous system that processes signals differently, the feedback loop doesn't wire after a few wears a week. It wires through consistent, daily exposure, the sensation arriving, the brain registering, the connection building.
 
-Some kids show their first awareness — a pause, a pull at the pants, a look at the wet spot, or a step toward the bathroom — within the first couple of weeks. Others need 4, 6, even 8 weeks. Both are normal. The variable isn't your child. It's how often the signal arrives.
+Some kids show their first awareness, a pause, a pull at the pants, a look at the wet spot, or a step toward the bathroom, within the first couple of weeks. Others need 4, 6, even 8 weeks. Both are normal. The variable isn't your child. It's how often the signal arrives.
 
 ---
 
@@ -78,32 +77,32 @@ Some kids show their first awareness — a pause, a pull at the pants, a look at
 
 Here's what most 1-pair parents discover around week 3: one pair isn't enough for daily rotation.
 
-Wash, dry, wait. By the time the pair is ready, the moment has passed. Your child needs the underwear ON — consistently, every day — for the nervous system to recognize the signal. A few wears a week stretches the timeline. Daily wear shortens it.
+Wash, dry, wait. By the time the pair is ready, the moment has passed. Your child needs the underwear ON, consistently, every day, for the nervous system to recognize the signal. A few wears a week stretches the timeline. Daily wear shortens it.
 
-Six pairs — the 3+3 Bundle — means:
-— A clean pair every single day
-— No laundry-dependency on the learning process
-— Enough rotation to wear during the most signal-rich hours
-— Consistency that the nervous system can actually build on
+Six pairs, the 3+3 Bundle, means:
+, A clean pair every single day
+, No laundry-dependency on the learning process
+, Enough rotation to wear during the most signal-rich hours
+, Consistency that the nervous system can actually build on
 
 ---
 
 **Three-Family Testimonial Pattern (GF Inclusion)**
 
-**A mom whose child started showing awareness in week 2** — "He's pausing. Just for a second. But he's pausing before he pees. That never happened before. I need more pairs so he can wear them all day."
-*— Sarah, L1 parent, 3 weeks into Body-Signal*
+**A mom whose child started showing awareness in week 2**, "He's pausing. Just for a second. But he's pausing before he pees. That never happened before. I need more pairs so he can wear them all day."
+*, Sarah, L1 parent, 3 weeks into Body-Signal*
 
-**A mom whose child needed 4 weeks for the first sign** — "At first I thought nothing was happening. Then week 4, he looked down. Just looked. But he'd never done that in 7 years. I need more pairs so we don't lose momentum."
-*— Lisa, L2 parent, 4 weeks in*
+**A mom whose child needed 4 weeks for the first sign**, "At first I thought nothing was happening. Then week 4, he looked down. Just looked. But he'd never done that in 7 years. I need more pairs so we don't lose momentum."
+*, Lisa, L2 parent, 4 weeks in*
 
-**A mom whose child is still in the familiarity phase** — "He's tolerating the underwear. That's already more than I expected. I'm not rushing. But I want enough pairs so he can wear them every single day without me doing laundry at midnight."
-*— Maria, L3 parent, 3 weeks in*
+**A mom whose child is still in the familiarity phase**, "He's tolerating the underwear. That's already more than I expected. I'm not rushing. But I want enough pairs so he can wear them every single day without me doing laundry at midnight."
+*, Maria, L3 parent, 3 weeks in*
 
 ---
 
 **Whether...Or...If... Inclusive Framing (R1, R3)**
 
-Whether your child is 3 or 10, verbal or not, already showing signals or still in the get-used-to-it phase — if your single pair is in the wash more than it's on your child, the learning breaks.
+Whether your child is 3 or 10, verbal or not, already showing signals or still in the get-used-to-it phase, if your single pair is in the wash more than it's on your child, the learning breaks.
 
 The nervous system doesn't take weekends off. It learns through repetition. And repetition needs rotation.
 
@@ -111,40 +110,43 @@ The nervous system doesn't take weekends off. It learns through repetition. And 
 
 **Offer**
 
-The 3+3 Bundle comes with 6 pairs — enough for daily wear, a full rotation, and the consistency that makes the Body-Signal approach work.
+The 3+3 Bundle comes with 6 pairs, enough for daily wear, a full rotation, and the consistency that makes the Body-Signal approach work.
 
-**Your path:** $79.99 for 6 pairs (vs. $34.99 × 2 = $69.98 for 2 singles — the bundle saves you money and gives you a complete rotation). Free shipping included.
+**Your path:** $79.99 for 6 pairs (vs. $34.99 × 2 = $69.98 for 2 singles, the bundle saves you money and gives you a complete rotation). Free shipping included.
 
-If 3 pairs of one size and 3 of the next size up makes more sense for your child — that's an option too.
+If 3 pairs of one size and 3 of the next size up makes more sense for your child, that's an option too.
 
 ---
 
 **The Real CTA (R6: Low-Bar Framing)**
 
-Whether you're ready for a full rotation or just want one more pair to get through laundry day — here's the link. 60-day guarantee applies to the bundle too. If it doesn't work for your child, full refund.
+Whether you're ready for a full rotation or just want one more pair to get through laundry day, here's the link. 60-day guarantee applies to the bundle too. If it doesn't work for your child, full refund.
 
 **→ Add the 3+3 Bundle to your order [Link]**
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 **→ Re-order 1 more pair [Link]**
 
 If today isn't the day, that's okay. The underwear will be here when you're ready.
 
 ---
 
+**Next time:** The final check-in — your 30-day milestone and what comes after.
+
 ### LENA SIGN-OFF (Short Variant)
 
 Talk soon,
 
-Lena
+Lena —,
 Customer Support · Mom of two autistic sons
 
 P.S. Both my sons went through weeks of one-pair-laundry before I realized: daily wear changes everything. 6 pairs gave us the consistency we needed. 60 days to try it. [Link]
-P.S. If nothing's changed yet — that's not failure. The pathway takes time. [Link]
+P.S. If nothing's changed yet, that's not failure. The pathway takes time. [Link]
 
 ---
 
 ### FOOTER
 
-BrightKidCo — Built for the brain that learns differently.
+BrightKidCo, Built for the brain that learns differently.
 [Unsubscribe] | [Update Preferences]
 Orders ship within 1-2 business days. 60-day money-back guarantee.
 © BrightKidCo. All rights reserved.
@@ -158,18 +160,18 @@ Orders ship within 1-2 business days. 60-day money-back guarantee.
 | Flow specification (D21, Replenish A E2) | 1-full-email-strategy.md §4.2, Flow 15 (line 623-633) |
 | Copy strategy (E2 upsell angle) | 2-full-email-copy-strategy.md §1.14 (line 803-811) |
 | Cross-level R1-R6 calibration | 1-full-email-strategy.md §6 (line 903-948); Layer-18-Cross-Level-Calibration.md Part 2 |
-| R1 — Symptom over label | Layer-18-Cross-Level-Calibration.md R1 |
-| R2 — 3-5 recognition anchors | Layer-18-Cross-Level-Calibration.md R2 |
-| R3 — Age ranges | Layer-18-Cross-Level-Calibration.md R3 |
-| R4 — Verbal/non-verbal pairing | Layer-18-Cross-Level-Calibration.md R4 |
-| R5 — Timeline flexibility | Layer-18-Cross-Level-Calibration.md R5 |
-| R6 — Low-bar success metrics | Layer-18-Cross-Level-Calibration.md R6 |
+| R1, Symptom over label | Layer-18-Cross-Level-Calibration.md R1 |
+| R2, 3-5 recognition anchors | Layer-18-Cross-Level-Calibration.md R2 |
+| R3, Age ranges | Layer-18-Cross-Level-Calibration.md R3 |
+| R4, Verbal/non-verbal pairing | Layer-18-Cross-Level-Calibration.md R4 |
+| R5, Timeline flexibility | Layer-18-Cross-Level-Calibration.md R5 |
+| R6, Low-bar success metrics | Layer-18-Cross-Level-Calibration.md R6 |
 | "Whether...Or...If..." inclusive framing | Layer-18-Cross-Level-Calibration.md Part 3; GIULIANO-DEMANDS.md §4 R1-R6 |
 | Three-Family Testimonial Pattern | Layer-18-Cross-Level-Calibration.md §R6; MASTER-DIAGNOSIS-COMPENDIUM.md §4.6 |
 | Lena sign-off (Short variant) | 11-brand-voice-reference.md §9.3 (line 536-546) |
-| Brand voice — 4-step formula | 11-brand-voice-reference.md §3 (line 186-213) |
+| Brand voice, 4-step formula | 11-brand-voice-reference.md §3 (line 186-213) |
 | Subject line formulas | 1-full-email-strategy.md §2.4 (line 146-155); GIULIANO-DEMANDS.md §11.3 |
-| Tonality — Lifecycle stage (Replenishment) | Layer-17-Tonality-Calibration.md §7 (line 400-463) |
+| Tonality, Lifecycle stage (Replenishment) | Layer-17-Tonality-Calibration.md §7 (line 400-463) |
 | L1 avatar profile (Sarah) | 01-customer-avatar.md §3.2 |
 | L2 avatar profile (Lisa) | 01-customer-avatar.md §3.3 |
 | L3 avatar profile (Maria) | 01-customer-avatar.md §3.4 |
@@ -182,7 +184,7 @@ Orders ship within 1-2 business days. 60-day money-back guarantee.
 
 ---
 
-## PART 2 — FULL CREATIVE STRATEGY
+## PART 2, FULL CREATIVE STRATEGY
 
 ---
 
@@ -192,20 +194,20 @@ Orders ship within 1-2 business days. 60-day money-back guarantee.
 |---|---|
 | **R1: Symptom Over Label** | ✅ No level labels anywhere. "Nervous system that processes signals differently." Symptom anchors: "pause here, look down there, still spotty," "tolerating the underwear." |
 | **R2: 3-5 Recognition Anchors** | ✅ 4 anchors in opener: (1) laundry-waiting cycle, (2) signal starting but spotty, (3) pull-ups backup, (4) no change yet. Plus Three-Family Pattern gives 3 more. |
-| **R3: Age Ranges** | ✅ "Whether your child is 3 or 10" — never a single age. No "toddler," no "preschooler," no "elementary." |
-| **R4: Verbal/Non-Verbal Inclusivity** | ✅ "A pause, a pull at the pants, a look at the wet spot, or a step toward the bathroom" — covers both. Three-Family quotes cover verbal ("he's pausing") and non-verbal ("tolerating the underwear") implicitly. |
+| **R3: Age Ranges** | ✅ "Whether your child is 3 or 10", never a single age. No "toddler," no "preschooler," no "elementary." |
+| **R4: Verbal/Non-Verbal Inclusivity** | ✅ "A pause, a pull at the pants, a look at the wet spot, or a step toward the bathroom", covers both. Three-Family quotes cover verbal ("he's pausing") and non-verbal ("tolerating the underwear") implicitly. |
 | **R5: Timeline Flexibility** | ✅ "Some kids show first awareness within the first couple of weeks. Others need 4, 6, even 8 weeks. Both are normal." No fixed outcome promises. |
 | **R6: Low-Bar Success Metrics** | ✅ "Pause, pull at pants, look at wet spot, step toward bathroom." No "fully trained" language. Testimonials use mini-wins: "pausing before he pees," "looked down," "tolerating the underwear." |
-| **Whether...Or...If... Pattern** | ✅ "Whether your child is 3 or 10, verbal or not, already showing signals or still in the get-used-to-it phase — if your single pair is in the wash more than it's on your child, the learning breaks." |
+| **Whether...Or...If... Pattern** | ✅ "Whether your child is 3 or 10, verbal or not, already showing signals or still in the get-used-to-it phase, if your single pair is in the wash more than it's on your child, the learning breaks." |
 | **Three-Family Pattern** | ✅ Three testimonials covering L1 (Sarah, week 2 awareness), L2 (Lisa, week 4 first look), L3 (Maria, familiarity phase). Each authentic to their level. |
 
 ---
 
 ### BIG IDEA
 
-> **"Daily consistency is what builds the signal pathway — and one pair can't deliver daily consistency."**
+> **"Daily consistency is what builds the signal pathway, and one pair can't deliver daily consistency."**
 
-The core insight: Most 1-pair parents hit week 3 and discover the bottleneck isn't their child — it's the laundry cycle. The body-signal mechanism needs daily repetition. A single pair in rotation means the child wears it, it gets washed, and by the time it's dry the "wear window" has passed. The 3+3 Bundle isn't a luxury upsell — it's the practical solution to the consistency problem. This reframe makes purchasing more pairs feel like problem-solving, not upselling.
+The core insight: Most 1-pair parents hit week 3 and discover the bottleneck isn't their child, it's the laundry cycle. The body-signal mechanism needs daily repetition. A single pair in rotation means the child wears it, it gets washed, and by the time it's dry the "wear window" has passed. The 3+3 Bundle isn't a luxury upsell, it's the practical solution to the consistency problem. This reframe makes purchasing more pairs feel like problem-solving, not upselling.
 
 This email's emotional role: A gentle nudge from "experimenting" to "committing." The first pair was the try. The bundle is the strategy.
 
@@ -215,55 +217,55 @@ This email's emotional role: A gentle nudge from "experimenting" to "committing.
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  [HEADER] BrightKidCo logo · [Link: Shop]                    │
+│ [HEADER] BrightKidCo logo · [Link: Shop] │
 ├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  SUBJECT: More pairs for the rotation?                       │
-│  PREVIEW: Whether you're seeing first signals or still       │
-│  waiting — one pair might not be enough for daily wear.     │
-│                                                              │
-│  ┌────────────────────────────────────────────────────────┐ │
-│  │  [HERO IMAGE]                                           │ │
-│  │  3+3 Bundle — 6 pairs of Body-Signal underwear          │ │
-│  │  arranged in a rotation circle (daily wear visual)      │ │
-│  │  Alt: "Six pairs of BrightKidCo underwear arranged      │ │
-│  │        in a rotation — daily consistency for the         │ │
-│  │        nervous system that learns differently."          │ │
-│  └────────────────────────────────────────────────────────┘ │
-│                                                              │
-│  ── OPENER ──                                               │
-│  Observation line + 4 recognition anchors (bulleted)        │
-│                                                              │
-│  ── VALIDATION + MECHANISM ──                               │
-│  "Any of those sound familiar?"                             │
-│  Consistent daily exposure → neural pathway building        │
-│  Timeline: 2-8 weeks, all normal                             │
-│                                                              │
-│  ── THE PRACTICAL GAP ──                                    │
-│  One-pair bottleneck explanation                             │
-│  "Wash, dry, wait — by the time it's ready, moment passed" │
-│                                                              │
-│  ── THREE-FAMILY TESTIMONIAL BLOCK ──                       │
-│  Three short quotes from L1/L2/L3 parents (card style)      │
-│  Each 1-2 sentences, authentic voice                         │
-│                                                              │
-│  ── "WHETHER...OR...IF..." BRIDGE ──                        │
-│  Inclusive framing sentence                                  │
-│                                                              │
-│  ── OFFER BLOCK ──                                          │
-│  3+3 Bundle description + pricing + free shipping            │
-│  Size-mix flexibility note                                   │
-│                                                              │
-│  ── CTA BLOCK ──                                            │
-│  [Primary Button: Add 3+3 Bundle]                           │
-│  [Secondary Text Link: Re-order 1 more pair]                │
-│  Permission note below                                       │
-│                                                              │
-│  ── LENA SIGN-OFF ──                                        │
-│  Short variant + 2 P.S. lines                               │
-│                                                              │
-│  ── FOOTER ──                                               │
-│  Brand tagline · Unsubscribe · Preferences · Guarantee      │
+│ │
+│ SUBJECT: More pairs for the rotation? │
+│ PREVIEW: Whether you're seeing first signals or still │
+│ waiting, one pair might not be enough for daily wear. │
+│ │
+│ ┌────────────────────────────────────────────────────────┐ │
+│ │ [HERO IMAGE] │ │
+│ │ 3+3 Bundle, 6 pairs of Body-Signal underwear │ │
+│ │ arranged in a rotation circle (daily wear visual) │ │
+│ │ Alt: "Six pairs of BrightKidCo underwear arranged │ │
+│ │ in a rotation, daily consistency for the │ │
+│ │ nervous system that learns differently." │ │
+│ └────────────────────────────────────────────────────────┘ │
+│ │
+│ ── OPENER ── │
+│ Observation line + 4 recognition anchors (bulleted) │
+│ │
+│ ── VALIDATION + MECHANISM ── │
+│ "Any of those sound familiar?" │
+│ Consistent daily exposure → neural pathway building │
+│ Timeline: 2-8 weeks, all normal │
+│ │
+│ ── THE PRACTICAL GAP ── │
+│ One-pair bottleneck explanation │
+│ "Wash, dry, wait, by the time it's ready, moment passed" │
+│ │
+│ ── THREE-FAMILY TESTIMONIAL BLOCK ── │
+│ Three short quotes from L1/L2/L3 parents (card style) │
+│ Each 1-2 sentences, authentic voice │
+│ │
+│ ── "WHETHER...OR...IF..." BRIDGE ── │
+│ Inclusive framing sentence │
+│ │
+│ ── OFFER BLOCK ── │
+│ 3+3 Bundle description + pricing + free shipping │
+│ Size-mix flexibility note │
+│ │
+│ ── CTA BLOCK ── │
+│ [Primary Button: Add 3+3 Bundle] │
+│ [Secondary Text Link: Re-order 1 more pair] │
+│ Permission note below │
+│ │
+│ ── LENA SIGN-OFF ── │
+│ Short variant + 2 P.S. lines │
+│ │
+│ ── FOOTER ── │
+│ Brand tagline · Unsubscribe · Preferences · Guarantee │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -282,7 +284,7 @@ A simple 3-step visual:
 
 Each step shows a small visual of how many hours/day the child wears the underwear. The point: more pairs = more consistent signal exposure.
 
-Respectfully low-tech — no animation that could trigger sensory discomfort. A static before/after comparison works as fallback.
+Respectfully low-tech, no animation that could trigger sensory discomfort. A static before/after comparison works as fallback.
 
 ---
 
@@ -329,12 +331,12 @@ Respectfully low-tech — no animation that could trigger sensory discomfort. A 
 - Divider line (warm taupe)
 
 **Recognition Anchor Bullets:**
-- Clean `—` dash prefix (no emoji, no icons that could distract sensory-sensitive readers)
+- Clean `,` dash prefix (no emoji, no icons that could distract sensory-sensitive readers)
 - Single column, stacked naturally
 
 **Testimonial Block:**
 - Three "cards" with very light background
-- Each card: italic quote + attribution line ("— Name, X weeks in")
+- Each card: italic quote + attribution line (", Name, X weeks in")
 - No photos of children (privacy-sensitive audience)
 
 **CTA Button:**
@@ -350,7 +352,7 @@ Respectfully low-tech — no animation that could trigger sensory discomfort. A 
 **Whitespace Philosophy:**
 - Generous padding between sections (32-40px)
 - Short paragraphs (2-4 sentences max)
-- One idea per section — never dense blocks
+- One idea per section, never dense blocks
 - The email should feel spacious, not cluttered
 
 ---
@@ -362,14 +364,14 @@ Respectfully low-tech — no animation that could trigger sensory discomfort. A 
 At the bottom of the offer block, a small text-only element:
 
 ```
-Daily wear:     ▓▓▓▓▓▓▓▓░░░░
-One-pair cycle  ▓▓▓░░░░▓▓▓░░░
-3+3 rotation    ▓▓▓▓▓▓▓▓▓▓▓▓
+Daily wear: ▓▓▓▓▓▓▓▓░░░░
+One-pair cycle ▓▓▓░░░░▓▓▓░░░
+3+3 rotation ▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 A simple ASCII-style progress bar showing signal exposure hours. The 3+3 bar is solid. The one-pair bar is intermittent. This rewards close readers with a visual "aha" moment without requiring images or animation.
 
-Only loads on devices with prefers-reduced-motion: no-preference — respects sensory accessibility.
+Only loads on devices with prefers-reduced-motion: no-preference, respects sensory accessibility.
 
 ---
 
@@ -393,10 +395,10 @@ If GIF is used (for the "how many pairs" graphic), it must:
 
 | Level | What They See | What Resonates | Potential Alienation & Mitigation |
 |---|---|---|---|
-| **L1 (Sarah)** — 3-5 yrs, verbal, Pre-K focused, 70/30 hope | Practical angle: "consistency closes the gap before school." The rotation solves the "almost trained but not quite" problem. The testimonial from "reading week 2 awareness" mirrors her hope timeline. | Wash-dry-wait frustration is real for any working parent. The bundle feels like a strategic move. | **Risk:** She might think 3+3 is "too many" when her child is close. **Mitigation:** "Re-order 1 more pair" link gives her the lighter option. Timeline range includes her (2 weeks). |
-| **L2 (Lisa)** — 5-7 yrs, mixed verbal, BCBA context, 40/60 hope | Mechanism depth: "The feedback loop doesn't wire after a few wears a week." The neural-pathway language matches her science-literacy. The testimonial from "week 4" validates her longer timeline. | She respects mechanism-backed reasoning. The bundle makes clinical sense to her. 60-day guarantee gives safety after 40+ failed methods. | **Risk:** She may feel upsold to something she doesn't need. **Mitigation:** Permission-not-to-buy ("If today isn't the day, that's okay"). No scarcity. 60-day guarantee on bundle too. |
-| **L3 (Maria)** — 6-10+ yrs, non-verbal, dignity-first, 20/80 hope | Gentle, spacious opening. The "tolerating the underwear" testimonial gives her a voice that isn't about milestones. No pressure to see results. Permission language throughout. | The bundle feels like "enough pairs to not think about laundry" rather than "commit to training." Zero urgency framing. | **Risk:** Bundle price ($79.99) may feel steep on Medicaid. **Mitigation:** 1-pair re-order link available. No math reframe. No "less than a coffee." Just the option. |
-| **GF (General Fallback)** — All ages/diagnoses, 50/50 hope | Symptom-only language. Inclusive "whether 3 or 10." No level labels, no ASD diagnosis requirement. Three-Family Pattern lets them self-identify. | The "nervous system that processes signals differently" umbrella covers all 5 GF sub-groups. The practical bottleneck is universal. | **Risk:** Sub-Group B (diagnosis-rejecters) sees "autism" anywhere. **Mitigation:** No ASD/diagnosis language in the entire email. "Nervous system differences" only. Sub-Group C (SPD/ADHD) gets mechanism-first. |
+| **L1 (Sarah)**, 3-5 yrs, verbal, Pre-K focused, 70/30 hope | Practical angle: "consistency closes the gap before school." The rotation solves the "almost trained but not quite" problem. The testimonial from "reading week 2 awareness" mirrors her hope timeline. | Wash-dry-wait frustration is real for any working parent. The bundle feels like a strategic move. | **Risk:** She might think 3+3 is "too many" when her child is close. **Mitigation:** "Re-order 1 more pair" link gives her the lighter option. Timeline range includes her (2 weeks). |
+| **L2 (Lisa)**, 5-7 yrs, mixed verbal, BCBA context, 40/60 hope | Mechanism depth: "The feedback loop doesn't wire after a few wears a week." The neural-pathway language matches her science-literacy. The testimonial from "week 4" validates her longer timeline. | She respects mechanism-backed reasoning. The bundle makes clinical sense to her. 60-day guarantee gives safety after 40+ failed methods. | **Risk:** She may feel upsold to something she doesn't need. **Mitigation:** Permission-not-to-buy ("If today isn't the day, that's okay"). No scarcity. 60-day guarantee on bundle too. |
+| **L3 (Maria)**, 6-10+ yrs, non-verbal, dignity-first, 20/80 hope | Gentle, spacious opening. The "tolerating the underwear" testimonial gives her a voice that isn't about milestones. No pressure to see results. Permission language throughout. | The bundle feels like "enough pairs to not think about laundry" rather than "commit to training." Zero urgency framing. | **Risk:** Bundle price ($79.99) may feel steep on Medicaid. **Mitigation:** 1-pair re-order link available. No math reframe. No "less than a coffee." Just the option. |
+| **GF (General Fallback)**, All ages/diagnoses, 50/50 hope | Symptom-only language. Inclusive "whether 3 or 10." No level labels, no ASD diagnosis requirement. Three-Family Pattern lets them self-identify. | The "nervous system that processes signals differently" umbrella covers all 5 GF sub-groups. The practical bottleneck is universal. | **Risk:** Sub-Group B (diagnosis-rejecters) sees "autism" anywhere. **Mitigation:** No ASD/diagnosis language in the entire email. "Nervous system differences" only. Sub-Group C (SPD/ADHD) gets mechanism-first. |
 
 **Forbidden language check (cross-referenced across all levels):**
 - ✅ No "easy," "quick," "simple," "guaranteed"

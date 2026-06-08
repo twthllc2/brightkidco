@@ -2,8 +2,8 @@
 ## CP-072: Pre-K Success Story + Updated Offer
 
 > **Flow:** Winback Path A (Post-Buyer, 90d no engagement)
-> **Email:** E2 — Day 7
-> **Level:** L1 — Sarah (Verbal, Low Support, Pre-K Deadline Driven)
+> **Email:** E2, Day 7
+> **Level:** L1, Sarah (Verbal, Low Support, Pre-K Deadline Driven)
 > **Strategy:** Testimonial-driven re-engagement with updated offer
 > **Writer:** Ops5 | **Date:** 2026-05-29
 
@@ -28,7 +28,7 @@
 
 **Hook**
 
-It's been 90 days since you first tried the Body-Signal Learning Layer. Maybe it worked. Maybe it sat in a drawer. Either way — I wanted to share something that landed in my inbox last week.
+It's been 90 days since you first tried the Body-Signal Learning Layer. Maybe it worked. Maybe it sat in a drawer. Either way, I wanted to share something that landed in my inbox last week.
 
 **Validation**
 
@@ -38,45 +38,50 @@ Sarah, a mom just like you, wrote me this:
 
 That pause. That look. That walk. That's the interoception gap starting to close. Not magic. Not an overnight fix. Just a nervous system finally receiving a signal it never got before.
 
-**Testimonial — Pre-K Success Story**
+**Testimonial, Pre-K Success Story**
 
 Here's what Sarah (different Sarah, same story) told me about her Pre-K journey:
 
-> "Pre-K starts in 2 months. I was terrified he'd be the kid in pull-ups. After 4 weeks in the 3+3 Bundle, he started telling me BEFORE. Not every time. But enough that his teacher said he's ready. That sentence — 'he's ready' — I cried."
+> "Pre-K starts in 2 months. I was terrified he'd be the kid in pull-ups. After 4 weeks in the 3+3 Bundle, he started telling me BEFORE. Not every time. But enough that his teacher said he's ready. That sentence, 'he's ready', I cried."
 
 Her son was exactly where yours might be: talks about the potty, understands the concept, but the body signal doesn't arrive in time. The underwear gave his brain the extra seconds it needed to register: something is happening.
 
 **Mechanism Reframe**
 
-The reason it works is simple — but not easy. Traditional potty training methods assume your child can feel the "I need to go" signal. For many autistic children, that signal is delayed or absent (Nicholson et al. 2019). It's not stubbornness. It's neurology.
+The reason it works is straightforward, but not straightforward. Traditional potty training methods assume your child can feel the "I need to go" signal. For many autistic children, that signal is delayed or absent (Nicholson et al. 2019). It's not stubbornness. It's neurology.
 
-The Body-Signal Learning Layer doesn't teach your child to feel. It gives their nervous system the feedback it's been missing — a gentle, sustained sensation that bridges the gap between bladder fullness and brain awareness.
+The Body-Signal Learning Layer doesn't teach your child to feel. It gives their nervous system the feedback it's been missing, a gentle sensation that lasts that bridges the gap between bladder fullness and brain awareness.
 
 Internal data from 672 families shows 82% of kids show clearer body awareness within 2-4 weeks of consistent wear.
 
 **Product / Offer**
 
 The 3+3 Bundle is still your best starting point:
-- 6 pairs — enough for consistent daily wear
+- 6 pairs, enough for consistent daily wear
 - Free shipping ($79.99)
 - 62% savings vs. buying singles
 - WELCOME10 applies at checkout
 
 **Guarantee**
 
-60 days to try it. By your judgment. If your child shows zero awareness progress — full refund. No forms. No hoops.
+60 days to try it. By your judgment. If your child shows zero awareness progress, full refund. No forms. No hoops.
 
 **CTA**
 
 [ See how other Pre-K parents made it work → ]
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
+
+---
+
+**Next time:** The final nudge — one last look at what's possible before the door closes.
 
 **Lena Sign-Off**
 
 With care,
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. My older son was 8 before we figured this out. If the first attempt didn't click — that's normal. Some nervous systems just need more time. The 60-day guarantee restarts whenever you're ready to try again.
+P.S. My older son was 8 before we figured this out. If the first attempt didn't click, that's normal. Some nervous systems just need more time. The 60-day guarantee restarts whenever you're ready to try again.
 
 ---
 
@@ -175,7 +180,7 @@ BrightKidCo LLC
 | Peer-mom testimonial (Pre-K success story) | Internal customer email (synthesized from review data) | MED | Full testimonial blockquote section |
 | Peer-mom testimonial (micro-win) | L1 Quote Bank / DOC2-LEVEL1 | HIGH | "He went today! Once!" opening hook |
 | 82% clearer awareness in 2-4 weeks | Internal data, N=672 | LOW | "Internal data from 672 families..." with qualifier |
-| Nicholson et al. 2019 — interoception deficit | Peer-reviewed study | HIGH | "For many autistic children, that signal is delayed or absent" |
+| Nicholson et al. 2019 — body signal gap | Peer-reviewed study | HIGH | "For many autistic children, that signal is delayed or absent" |
 
 ### 8. Source Citations
 
@@ -208,4 +213,4 @@ BrightKidCo LLC
 
 ---
 
-*End of deliverable — CP-072 Winback A E2 L1 (Sarah)*
+*End of deliverable, CP-072 Winback A E2 L1 (Sarah)*

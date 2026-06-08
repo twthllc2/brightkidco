@@ -2,8 +2,8 @@
 ## Post-Buyer Re-Engagement · Day 0 · General Fallback
 
 > **Flow:** Winback Path A (Flow 19, Phase 2)
-> **Email:** E1 — Day 0
-> **Audience:** avatar_general (GF) — all 5 sub-groups (A-E)
+> **Email:** E1, Day 0
+> **Audience:** avatar_general (GF), all 5 sub-groups (A-E)
 > **Trigger:** Last purchase + 90 days no engagement
 > **Timing:** Day 0 of Winback A sequence
 > **Format:** Full email copy + creative strategy + R1-R6 calibration
@@ -35,49 +35,53 @@
 **From Email:** support@brightkidco.com
 
 **Subject:** How's it going with the body signals?
-**Preheader:** Whether your child showed signs or didn't — both tell you something.
+**Preheader:** Whether your child showed signs or didn't, both tell you something.
 
 ---
 
 Hey there,
 
-It's been about 90 days since your order. So I'm checking in — no pressure attached.
+It's been about 90 days since your order. So I'm checking in, no pressure attached.
 
-Whether your child showed their first glimmer of awareness or you're still waiting for any sign — both of those tell you something useful. And neither means you did anything wrong.
+Whether your child showed their first glimmer of awareness or you're still waiting for any sign, both of those tell you something useful. And neither means you did anything wrong.
 
-If you're reading this thinking "we paused after a week" or "it didn't click" or "I'm not sure if it's working" — that's exactly why I'm writing. The body-signal learning pathway doesn't work the same way for every child.
+If you're reading this thinking "we paused after a week" or "it didn't click" or "I'm not sure if it's working", that's exactly why I'm writing. The body-signal learning pathway doesn't work the same way for every child.
 
 Some things parents tell me:
-— He wore them for a few days, nothing changed, we stopped.
-— She showed a tiny pause in week two — then nothing for a month.
-— He never seemed to notice, even after weeks.
-— We had a good week, then regression, then we gave up.
-— I'm not even sure what "working" should look like.
+, He wore them for a few days, nothing changed, we stopped.
+, She showed a tiny pause in week two, then nothing for a month.
+, He never seemed to notice, even after weeks.
+, We had a good week, then regression, then we gave up.
+, I'm not even sure what "working" should look like.
 
 If any of those sound familiar, here's what most parents don't realize: the interoception pathway doesn't build on a straight line. It builds in cycles. Pauses are part of the process. Some weeks the signal registers. Some weeks the nervous system recalibrates. Both are normal.
 
-For some kids, the first sign comes in 2-4 weeks of consistent wear. For others, it takes 8-12 weeks — or longer. And for some, the first sign isn't "I need to go." It's smaller: a pause. A look down. A hand toward the pants. A moment of stillness where there used to be none.
+For some kids, the first sign comes in 2-4 weeks of consistent wear. For others, it takes 8-12 weeks, or longer. And for some, the first sign isn't "I need to go." It's smaller: a pause. A look down. A hand toward the pants. A moment of stillness where there used to be none.
 
 Those aren't failures. Those are the nervous system starting to receive information it's been missing.
 
 **Here's what I'd suggest if you're unsure:**
 
-If you paused because it didn't seem to work — try 2 hours of wear daily for 2-3 weeks. Consistency matters more than intensity. The wetness signal needs repetition before the brain learns to recognize it. Pull-ups wick that signal away completely, so if your child is still in pull-ups during the day, the learning window narrows.
+If you paused because it didn't seem to work, try 2 hours of wear daily for 2-3 weeks. Consistency matters more than intensity. The wetness signal needs repetition before the brain learns to recognize it. Pull-ups wick that signal away completely, so if your child is still in pull-ups during the day, the learning window narrows.
 
-If you saw something — even once — that's real. Build on it.
+If you saw something, even once, that's real. Build on it.
 
-If you didn't see anything — that's also real. Some nervous systems need more time. And some children may need to try alongside other approaches.
+If you didn't see anything, that's also real. Some nervous systems need more time. And some children may need to try alongside other approaches.
 
 Your original 60-day guarantee still stands. If the underwear didn't work for your child, the guarantee covers it. No questions. Your judgment.
 
-And if you want to try again — the door's open. The product is here. So am I.
+And if you want to try again, the door's open. The product is here. So am I.
 
 Whatever you decide, you've been doing the right thing by paying attention. That matters more than any timeline.
 
-With care,
-Lena
+---
 
-**P.S.** If you hit reply, you get me — not a bot. I read everything. Sometimes it takes me a day to answer, but I will.
+**Next time:** Stories from parents who tried again — and what made the difference for their child.
+
+With care,
+Lena ——
+
+**P.S.** If you hit reply, you get me, not a bot. I read everything. Sometimes it takes me a day to answer, but I will.
 
 ---
 
@@ -89,8 +93,9 @@ Lena
 | 2 | "Read what other parents say after 90 days" | After testimonial section | Low |
 | 3 | "Re-order the 3+3 Bundle" | Final CTA block | Medium-Low |
 
-**Primary CTA:** "Try again — 60 days, your judgment"
+**Primary CTA:** "Try again, 60 days, your judgment"
 **Secondary CTA:** "Hit reply and tell me how it's going"
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
 ---
 
@@ -100,21 +105,21 @@ Lena
 
 ```
 Acknowledgment → Guilt Absolution → Recognition → Mechanism → Permission → Open Door
-      │                │               │            │           │            │
-      ▼                ▼               ▼            ▼           ▼            ▼
-   "It's been    "Neither means    5 symptom    "The pathway  "60-day       "The door's
-    90 days"      you did wrong"     anchors      builds in     guarantee"   open"
-                                     for GF       cycles"
+ │ │ │ │ │ │
+ ▼ ▼ ▼ ▼ ▼ ▼
+ "It's been "Neither means 5 symptom "The pathway "60-day "The door's
+ 90 days" you did wrong" anchors builds in guarantee" open"
+ for GF cycles"
 ```
 
-**Hope/Realism Ratio:** 40/60 (Winback Lifecycle GF — per 24-Cell Decision Matrix)
+**Hope/Realism Ratio:** 40/60 (Winback Lifecycle GF, per 24-Cell Decision Matrix)
 **Emotional Phase Coverage:** All 4 phases simultaneously (GF requirement)
 
 ### 2.2 Strategy Summary
 
 This email operates on a **"no-guilt, re-anchor, re-educate"** strategy. It acknowledges the 90-day gap without shame, validates whatever outcome the parent experienced, re-explains the interoception mechanism briefly, and leaves the door open for re-engagement or exit. The core tension: the parent may feel they "failed" at using the product (guilt) or that the product "failed" their child (disappointment). Both paths are validated as normal outcomes of a nervous-system-driven process.
 
-The email replaces the original purchase context (education / excitement / hope) with a **compassionate reality check** — body-signal learning is non-linear, and their experience is part of the normal curve.
+The email replaces the original purchase context (education / excitement / hope) with a **compassionate reality check**, body-signal learning is non-linear, and their experience is part of the normal curve.
 
 ### 2.3 R1-R6 Calibration Verification
 
@@ -182,13 +187,13 @@ The email replaces the original purchase context (education / excitement / hope)
 ## 3. OFFER FRAMEWORK
 
 ### Primary Offer
-- **3+3 Bundle ($79.99)** — Default GF offer
+- **3+3 Bundle ($79.99)**, Default GF offer
 - **Free shipping included**
 - **60-Day Money-Back Guarantee**
 
 ### Secondary / Low-Barrier Offer
-- **1 Pair ($34.99)** — For parents who want to try again with lower commitment
-- **WELCOME10** — Auto-apply at checkout (10% off)
+- **1 Pair ($34.99)**, For parents who want to try again with lower commitment
+- **WELCOME10**, Auto-apply at checkout (10% off)
 
 ### Guarantee Language
 > "Your original 60-day guarantee still stands. If the underwear didn't work for your child, the guarantee covers it. No questions. Your judgment."
@@ -212,26 +217,26 @@ The email replaces the original purchase context (education / excitement / hope)
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  GREETING — Peer opening, no-guilt framing                  │
-│  "Hey there, It's been about 90 days..."                    │
+│ GREETING, Peer opening, no-guilt framing │
+│ "Hey there, It's been about 90 days..." │
 ├─────────────────────────────────────────────────────────────┤
-│  RECOGNITION BLOCK — "Whether...Or...If..." inclusive frame │
-│  5 recognition anchors covering all levels                  │
+│ RECOGNITION BLOCK, "Whether...Or...If..." inclusive frame │
+│ 5 recognition anchors covering all levels │
 ├─────────────────────────────────────────────────────────────┤
-│  MECHANISM RE-EXPLANATION — Interoception pathway           │
-│  "The pathway doesn't build on a straight line"             │
+│ MECHANISM RE-EXPLANATION, Interoception pathway │
+│ "The pathway doesn't build on a straight line" │
 ├─────────────────────────────────────────────────────────────┤
-│  SUCCESS REDEFINITION — Low-bar metrics                     │
-│  "A pause. A look down. A hand toward the pants."           │
+│ SUCCESS REDEFINITION, Low-bar metrics │
+│ "A pause. A look down. A hand toward the pants." │
 ├─────────────────────────────────────────────────────────────┤
-│  ACTION GUIDANCE — What to do if unsure                     │
-│  "2 hours daily for 2-3 weeks"                              │
+│ ACTION GUIDANCE, What to do if unsure │
+│ "2 hours daily for 2-3 weeks" │
 ├─────────────────────────────────────────────────────────────┤
-│  GUARANTEE — Risk removal + permission                      │
-│  "Your original 60-day guarantee still stands"              │
+│ GUARANTEE, Risk removal + permission │
+│ "Your original 60-day guarantee still stands" │
 ├─────────────────────────────────────────────────────────────┤
-│  CLOSE — Open door + Lena sign-off                          │
-│  "With care, Lena"                                          │
+│ CLOSE, Open door + Lena sign-off │
+│ "With care, Lena" │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -338,7 +343,7 @@ Per the Winback A section in 2-full-email-copy-strategy.md, the Three-Family Tes
 However, this email contains implicit recognition of three different family experiences within the 5 recognition anchors:
 
 > "He wore them for a few days, nothing changed, we stopped." (L1-L2 pattern)
-> "She showed a tiny pause in week two — then nothing for a month." (L2 awareness anchor)
+> "She showed a tiny pause in week two, then nothing for a month." (L2 awareness anchor)
 > "He never seemed to notice, even after weeks." (L3 pattern)
 > "We had a good week, then regression, then we gave up." (L1-L2 regression)
 > "I'm not even sure what 'working' should look like." (Universal GF uncertainty)

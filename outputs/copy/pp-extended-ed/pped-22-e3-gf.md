@@ -3,7 +3,7 @@
 > **Flow 22: PP-Extended Education** | Email 3 of 5 | Phase 3
 > **Level:** GF (General Family / Inclusive)
 > **Timing:** Day 36 post-purchase (Week 5-8 window)
-> **Topic:** Micro-signals & small wins — recognizing the transition from reactive to proactive
+> **Topic:** Micro-signals & small wins, recognizing the transition from reactive to proactive
 > **Status:** ✅ Complete
 
 ---
@@ -32,7 +32,7 @@
 
 **Subject:** The small things that mean more than you think
 
-**Preview:** What "progress" actually looks like in weeks 5-8 — and why most parents miss it
+**Preview:** What "progress" actually looks like in weeks 5-8, and why most parents miss it
 
 ---
 
@@ -44,7 +44,7 @@ Lena here.
 
 If you're five to eight weeks in, you might be wondering: *Is anything actually happening?*
 
-The answer is probably yes — just not in the way you expected.
+The answer is probably yes, just not in the way you expected.
 
 The underwear doesn't work like a switch. It doesn't produce a "trained" child on a schedule. What it does is quieter than that. And most parents don't realize they're seeing progress until we show them what to look for.
 
@@ -56,11 +56,11 @@ Your child may not be saying "I need to go." They may not be walking to the bath
 
 But have you noticed any of these?
 
-— A pause mid-play. Not an accident. Just a pause.
-— A glance at their pants after they've gone.
-— A hand reaching toward their waistband.
-— A shorter delay between "it happened" and showing you.
-— Sitting still for a few extra minutes after a change.
+, A pause mid-play. Not an accident. Just a pause.
+, A glance at their pants after they've gone.
+, A hand reaching toward their waistband.
+, A shorter delay between "it happened" and showing you.
+, Sitting still for a few extra minutes after a change.
 
 These are not "fully trained" moments. They're not supposed to be.
 
@@ -70,27 +70,27 @@ That's the transition from reactive to proactive. It starts in the noticing. Not
 
 **Why this matters**
 
-The parent who told us: *"He paused. He felt something."* (Source: 05-customer-language-bank.md §A7, Cat 9 — Small Wins)
+The parent who told us: *"He paused. He felt something."* 
 
 That pause was week 6. By week 12, he was walking to the bathroom half the time.
 
-Not every child follows that curve. Some show awareness sooner. Some take longer. Some show different signals than the ones we've listed. The shape of progress depends on your child's nervous system — not on a timeline a product promised you.
+Not every child follows that curve. Some show awareness sooner, some take longer. The shape of progress depends on your child's nervous system, not a timeline a product promised you.
 
-But the mechanism is the same: the Body-Signal Learning Layer creates a sustained, gentle sensation that gives the brain time to register: *something happened.* The more that connection fires, the stronger it gets. That strengthening happens in micro-moments — not in dramatic breakthroughs. (Source: 04-mechanism-positioning.md §4.1)
+But the mechanism is the same: the BSL Layer creates a sustained, gentle sensation that gives the brain time to register: something happened. The more that connection fires, the stronger it gets — in micro-moments, not dramatic breakthroughs.
 
 **What to do with this**
 
-Keep wearing. Keep the routine simple. Don't add pressure — the pressure doesn't help the signal.
+Keep wearing. Keep the routine steady. Don't add pressure, the pressure doesn't help the signal.
 
 The goal in weeks 5-8 isn't training. It's noticing. If your child shows even one of those micro-signals, you're seeing the pathway form.
 
-If you haven't seen anything yet — that's also normal. Some nervous systems take longer to build the connection. The 60-day window is designed for this range. You're not behind.
+If you haven't seen anything yet, that's also normal. Some nervous systems take longer to build the connection. The 60-day window is designed for this range. You're not behind.
 
 **When you're ready**
 
-You've been at this for over a month. Whether you're seeing small signs or waiting for the first one — you've done the hardest part: showing up consistently.
+You've been at this for over a month. Whether you're seeing small signs or waiting for the first one, you've done the hardest part: showing up consistently.
 
-If this is the right time to continue, the product is here. If you need to pause and come back, that works too.
+If this the right time to continue, the product is here. If you need to pause and come back, that works too.
 
 60 days to decide. By your judgment.
 
@@ -98,11 +98,11 @@ If this is the right time to continue, the product is here. If you need to pause
 
 With understanding,
 
-Lena
+Lena ——
 
 *Customer Support · Mom of two autistic sons*
 
-P.S. One of my sons showed his first awareness in week 7. His brother took until week 10. Both trained — on their own timelines, not mine.
+P.S. One of my sons showed his first awareness in week 7. His brother took until week 10. Both trained, on their own timelines, not mine.
 
 ---
 
@@ -112,8 +112,8 @@ You're receiving this because you're on the BrightKidCo list.
 
 [Unsubscribe] | [Manage Preferences]
 
-BrightKidCo — Built for the brain that learns differently.
-[Address Line — BrightKidCo HQ]
+BrightKidCo, Built for the brain that learns differently.
+[Address Line, BrightKidCo HQ]
 
 ---
 
@@ -143,9 +143,9 @@ BrightKidCo — Built for the brain that learns differently.
 
 **Title:** *"The Quiet Signals"*
 
-The central narrative: progress in body-signal learning doesn't arrive as a breakthrough. It arrives as micro-moments — a pause, a glance, a hand to the waistband — that most parents interpret as "nothing" but are actually the first bridge forming between body and brain.
+The central narrative: progress in body-signal learning doesn't arrive as a breakthrough. It arrives as micro-moments, a pause, a glance, a hand to the waistband, that most parents interpret as "nothing" but are actually the first bridge forming between body and brain.
 
-For the GF (General Family) audience, this Big Idea is deliberately **inclusive, universal, and symptom-focused**. No level-specific imagery. No diagnosis language. The idea speaks to any parent whose child's nervous system processes signals differently — regardless of where they are on the journey. The tension is between "I can't see any progress" and "the signals I'm missing are already here."
+For the GF (General Family) audience, this Big Idea is deliberately **inclusive, universal, and symptom-focused**. No level-specific imagery. No diagnosis language. The idea speaks to any parent whose child's nervous system processes signals differently, regardless of where they are on the journey. The tension is between "I can't see any progress" and "the signals I'm missing are already here."
 
 **Core metaphor:** A bridge being built plank by plank. You can't see the full bridge until enough planks are laid. Each micro-signal is one plank.
 
@@ -159,86 +159,86 @@ For the GF (General Family) audience, this Big Idea is deliberately **inclusive,
 
 ```
 ┌──────────────────────────────────────┐
-│         HEADER BLOCK                 │
-│  Logo (left) · [View in browser]     │  ~48px
+│ HEADER BLOCK │
+│ Logo (left) · [View in browser] │ ~48px
 ├──────────────────────────────────────┤
-│                                      │
-│         HERO SECTION                 │
-│  Gentle, inclusive illustration      │
-│  (See §3 — Custom Contraption)       │  ~260px
-│  Subtle overlay gradient             │
-│                                      │
+│ │
+│ HERO SECTION │
+│ Gentle, inclusive illustration │
+│ (See §3, Custom Contraption) │ ~260px
+│ Subtle overlay gradient │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│         LETTER OPENING               │
-│  Background: Warm yellow #FFF6E2     │
-│  Fraunces drop-cap letter            │  ~100px
-│  "Lena here." in Caveat (signature)  │
-│  Body text in Questrial              │
-│                                      │
+│ │
+│ LETTER OPENING │
+│ Background: Warm yellow #FFF6E2 │
+│ Fraunces drop-cap letter │ ~100px
+│ "Lena here." in Caveat (signature) │
+│ Body text in Questrial │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│       THE LIST: MICRO-SIGNALS        │
-│  Background: Paper #FFFFFF           │
-│  5 bullet items with icon markers    │
-│  Teal checkmark icons #2BAEB4        │  ~200px
-│  Each item: icon + short line        │
-│  Roomy vertical whitespace           │
-│  Ink 2px border + sticker shadow     │
-│                                      │
+│ │
+│ THE LIST: MICRO-SIGNALS │
+│ Background: Paper #FFFFFF │
+│ 5 bullet items with icon markers │
+│ Teal checkmark icons #2BAEB4 │ ~200px
+│ Each item: icon + short line │
+│ Roomy vertical whitespace │
+│ Ink 2px border + sticker shadow │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│    MECHANISM BRIDGE SECTION          │
-│  Background: Soft teal/green         │  ~180px
-│  #EAF6F2                             │
-│  Fraunces pull-quote:                 │
-│  "He paused. He felt something."     │
-│  Attribution in soft #4A6568         │
-│                                      │
+│ │
+│ MECHANISM BRIDGE SECTION │
+│ Background: Soft teal/green │ ~180px
+│ #EAF6F2 │
+│ Fraunces pull-quote: │
+│ "He paused. He felt something." │
+│ Attribution in soft #4A6568 │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│      WHY THIS MATTERS (BODY)         │
-│  Background: Cream #FBF7F1           │
-│  2-3 paragraphs body text            │  ~160px
-│  Mechanism explanation               │
-│  "The more that connection fires..."  │
-│                                      │
+│ │
+│ WHY THIS MATTERS (BODY) │
+│ Background: Cream #FBF7F1 │
+│ 2-3 paragraphs body text │ ~160px
+│ Mechanism explanation │
+│ "The more that connection fires..." │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│    WHAT TO DO / GUIDANCE              │
-│  Background: Warm cream #FAF7F0      │  ~140px
-│  Simple directive list               │
-│  No pressure language                │
-│                                      │
+│ │
+│ WHAT TO DO / GUIDANCE │
+│ Background: Warm cream #FAF7F0 │ ~140px
+│ Simple directive list │
+│ No pressure language │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│      CTA SECTION                     │
-│  Background: Deep ink #1F2D2F        │  ~200px
-│  White text                          │
-│  CTA button: CTA green #D8F57C       │
-│  → Text: "Continue the journey"      │
-│  Secondary text below:               │
-│  "60 days. By your judgment."        │
-│                                      │
+│ │
+│ CTA SECTION │
+│ Background: Deep ink #1F2D2F │ ~200px
+│ White text │
+│ CTA button: CTA green #D8F57C │
+│ → Text: "Continue the journey" │
+│ Secondary text below: │
+│ "60 days. By your judgment." │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│      LENA SIGN-OFF                   │
-│  Background: Deep ink #1F2D2F        │  ~100px
-│  "With understanding, Lena"          │
-│  Caveat handwritten font             │
-│  P.S. in smaller body text           │
-│                                      │
+│ │
+│ LENA SIGN-OFF │
+│ Background: Deep ink #1F2D2F │ ~100px
+│ "With understanding, Lena" │
+│ Caveat handwritten font │
+│ P.S. in smaller body text │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│      FOOTER                          │
-│  Background: Deep ink #1F2D2F        │
-│  Muted text #8A9B9D                  │  ~80px
-│  Unsubscribe | Manage Prefs          │
-│  Physical address                    │
+│ │
+│ FOOTER │
+│ Background: Deep ink #1F2D2F │
+│ Muted text #8A9B9D │ ~80px
+│ Unsubscribe | Manage Prefs │
+│ Physical address │
 └──────────────────────────────────────┘
 ```
 
-**Design rationale:** The layout follows a gentle downward scroll with alternating cream/teal/warm backgrounds to signal section transitions without abrupt cuts. Gradient bands (40-50px, teal→green) separate major sections. The hero sits at the top as the "invitation," the micro-signal list anchors the middle as the "recognition moment," and the CTA resolves toward the bottom as "continuation." The deep ink footer grounds the email.
+**Design rationale:** The layout follows a gentle downward scroll with alternating cream/teal/warm backgrounds to signal section transitions without abrupt cuts. Gradient bands (40-50px, teal→green) separate major sections. Thero sits at the top as the "invitation," the micro-signal list anchors the middle as the "recognition moment," and the CTA resolves toward the bottom as "continuation." The deep ink footer grounds the email.
 
 **Mobile override:** All sections collapse to single column. Images go to `width:100%`. Padding scales to `px-4`. Body text 16px minimum.
 
@@ -248,14 +248,14 @@ For the GF (General Family) audience, this Big Idea is deliberately **inclusive,
 
 ### Primary Illustration: "The Invisible Bridge"
 
-**Concept:** A whimsical, warm illustration showing an abstract bridge being built plank by plank across a gentle gap. One side says "Body" (a soft wave shape) and the other says "Brain" (a soft glow shape). Between them, only 3-4 planks are laid — the bridge is incomplete. A small child figure stands on the body side, one foot on the first plank, looking across.
+**Concept:** A whimsical, warm illustration showing an abstract bridge being built plank by plank across a gentle gap. One side says "Body" (a soft wave shape) and the other says "Brain" (a soft glow shape). Between them, only 3-4 planks are laid, the bridge is incomplete. A small child figure stands on the body side, one foot on the first plank, looking across.
 
 **Art direction:**
 - Line weight: Soft, rounded, hand-drawn feeling
 - Color palette: Teal `#2BAEB4` planks, cream `#FBF7F1` sky, soft green `#5DD07A` grass/ground
-- Style: Warm, inclusive, not clinical — like a children's book illustration
+- Style: Warm, inclusive, not clinical, like a children's book illustration
 - No level-specific elements (no harnesses, no therapy props, no diagnosis symbols)
-- No autism symbols (puzzle pieces, infinity loops) — per V10 identity rules
+- No autism symbols (puzzle pieces, infinity loops), per V10 identity rules
 
 **Secondary illustration element:** 5 small icon badges running vertically down the left side of the micro-signals list section:
 
@@ -289,7 +289,7 @@ Each icon in teal `#2BAEB4` on cream background, 24×24px enclosed in a soft cir
 | Sign-Off | `#1F2D2F` (Deep ink) | White text, Caveat signature | Warm closure |
 | Footer | `#1F2D2F` (Deep ink) | Muted `#8A9B9D` | Clean exit |
 
-**Color psychology note for GF:** The palette avoids high-saturation greens (which can read as "progress/achievement" pressure) and avoids clinical blues. The cream-to-warm-yellow-to-soft-teal gradient reads as **gentle, patient, and warm** — exactly right for a GF audience where "you're not behind" is the core validation.
+**Color psychology note for GF:** The palette avoids high-saturation greens (which can read as "progress/achievement" pressure) and avoids clinical blues. The cream-to-warm-yellow-to-soft-teal gradient reads as **gentle, patient, and warm**, exactly right for a GF audience where "you're not behind" is the core validation.
 
 **Dark mode treatment:**
 - Backgrounds invert to near-black (ink tones) via `prefers-color-scheme: dark`
@@ -318,25 +318,25 @@ Each icon in teal `#2BAEB4` on cream background, 24×24px enclosed in a soft cir
 ### Typographic Hierarchy (vertical)
 
 ```
-Hero Headline ─── Questrial 22px — "The small things..."
-                                                          
-Section Subhead ── Questrial 18px — "The micro-signals nobody tells you about"
-                                                          
-Drop-cap "L" ──── Fraunces 48px — paragraph opening
-                                                          
-Body ──────────── Questrial 16px — email body copy
-                                                          
-Pull-quote ────── Fraunces 20px italic — "He paused. He felt something."
-                                                          
-Guidance list ─── Questrial 16px — directive items
-                                                          
-CTA ───────────── Questrial 14px uppercase bold — "Continue the journey"
-                                                          
-Signature ─────── Caveat 18px — "With understanding, Lena"
-                                                          
-P.S. ──────────── Questrial 14px — postscript
-                                                          
-Footer ────────── Questrial 11px — unsubscribe, address
+Hero Headline ─── Questrial 22px, "The small things..."
+ 
+Section Subhead ── Questrial 18px, "The micro-signals nobody tells you about"
+ 
+Drop-cap "L" ──── Fraunces 48px, paragraph opening
+ 
+Body ──────────── Questrial 16px, email body copy
+ 
+Pull-quote ────── Fraunces 20px italic, "He paused. He felt something."
+ 
+Guidance list ─── Questrial 16px, directive items
+ 
+CTA ───────────── Questrial 14px uppercase bold, "Continue the journey"
+ 
+Signature ─────── Caveat 18px, "With understanding, Lena"
+ 
+P.S. ──────────── Questrial 14px, postscript
+ 
+Footer ────────── Questrial 11px, unsubscribe, address
 ```
 
 **Mobile note:** Body text never drops below 16px (iOS auto-zoom threshold). Hero heading scales to 18px on sub-375px viewports.
@@ -346,7 +346,7 @@ Footer ────────── Questrial 11px — unsubscribe, address
 ## 6. Decorative Furniture
 
 ### Section Transition Bands
-Between each major section, a **40-50px gradient band** using `linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)`. This is the BrightKidCo signature transition — a subtle color bridge that guides the eye downward without being distracting.
+Between each major section, a **40-50px gradient band** using `linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)`. This the BrightKidCo signature transition, a subtle color bridge that guides the eye downward without being distracting.
 
 ### Signature "Sticker" Card Effect
 The micro-signals list card uses BrightKidCo's signature sticker treatment:
@@ -355,7 +355,7 @@ The micro-signals list card uses BrightKidCo's signature sticker treatment:
 - **Border radius:** 18px (consistent with BrightKidCo card system)
 
 ### Letter Opening Embellishment
-A subtle, scaled-down ornamental divider at the top of the letter section — a thin horizontal rule (`1px solid #8A9B9D` at 30% width, centered) above the drop-cap.
+A subtle, scaled-down ornamental divider at the top of the letter section, a thin horizontal rule (`1px solid #8A9B9D` at 30% width, centered) above the drop-cap.
 
 ### Micro-Signal Icons Strip
 A vertical icon rail (or inline on mobile) where each of the 5 micro-signals has a matching icon in a circle frame. The circles share the sticker aesthetic: ink border, transparent fill, shadow. The icons sit flush with the baselines of their corresponding text items.
@@ -374,7 +374,7 @@ A thin, centered horizontal rule (`1px solid rgba(255,255,255,0.2)` at 20% width
 
 ## 7. Hidden Detail / Easter Egg
 
-**An open door or bridge icon** — inclusive, universal, welcoming. Per task specification.
+**An open door bridge icon**, inclusive, universal, welcoming. Per task specification.
 
 ### Implementation
 
@@ -387,16 +387,16 @@ A thin, centered horizontal rule (`1px solid rgba(255,255,255,0.2)` at 20% width
 - Style: One continuous thin stroke (2px), hand-drawn feeling, no fill
 
 **Alternative rendering (text-only email fallback):**
-If HTML images don't load, the door icon is replaced by the text: `[door →]` — a simple arrow-through-doorframe character sequence.
+If HTML images don't load, the door icon is replaced by the text: `[door →]`, a simple arrow-through-doorframe character sequence.
 
 **Why it works for GF:**
 The open door is universally understood across all cultures, languages, and diagnosis perspectives. It communicates:
-- **Welcome** — "you belong here"
-- **Possibility** — "there's a way forward"
-- **No pressure** — "the door is open whenever you're ready"
-- **Inclusivity** — no level, age, or diagnosis requirement to walk through it
+- **Welcome**, "you belong here"
+- **Possibility**, "there's a way forward"
+- **No pressure**, "the door is open whenever you're ready"
+- **Inclusivity**, no level, age, or diagnosis requirement to walk through it
 
-The door icon is placed at eye-level in the email's reading flow — between the mechanism explanation and the practical guidance — acting as a visual "threshold" from understanding to action.
+The door icon is placed at eye-level in the email's reading flow, between the mechanism explanation and the practical guidance, acting as a visual "threshold" from understanding to action.
 
 **Hidden touch:** A tiny arrow (→) carved into the doorknob circle, pointing right, as a subconscious directional cue toward the CTA section below. Only visible at 2x Retina zoom.
 
@@ -409,27 +409,27 @@ The door icon is placed at eye-level in the email's reading flow — between the
 Since most email clients limit animation (Gmail blocks `<video>`, Outlook strips CSS animation), motion is used sparingly and enhanced gracefully:
 
 1. **Hero illustration fade-in:**
-   - A subtle 0.5s fade-up as the email loads (CSS `@keyframes fadeInUp`)
-   - Supported in Apple Mail, iOS Mail, Outlook app
-   - Falls back to static image in Gmail/Outlook desktop — no loss of meaning
+ - A subtle 0.5s fade-up as the email loads (CSS `@keyframes fadeInUp`)
+ - Supported in Apple Mail, iOS Mail, Outlook app
+ - Falls back to static image in Gmail/Outlook desktop, no loss of meaning
 
-2. **The Invisible Bridge — plank animation (animated GIF):**
-   - The hero illustration renders as an animated GIF showing one plank being gently placed across the gap over 3 seconds
-   - Loop: pauses for 5 seconds, then replays
-   - File size target: <150KB (optimized palette, limited colors to teal/cream/green)
-   - Fallback: Static frame showing 3 planks (the "during" state, not "before")
+2. **The Invisible Bridge, plank animation (animated GIF):**
+ - Thero illustration renders as an animated GIF showing one plank being gently placed across the gap over 3 seconds
+ - Loop: pauses for 5 seconds, then replays
+ - File size target: <150KB (optimized palette, limited colors to teal/cream/green)
+ - Fallback: Static frame showing 3 planks (the "during" state, not "before")
 
 3. **Micro-signal icons staggered reveal:**
-   - If CSS animation is supported: each icon fades in + slides up with staggered delay (100ms, 150ms, 200ms, 250ms, 300ms)
-   - Implementation: `animation-delay` per table row via inline style
-   - Graceful fallback: all icons visible immediately (no loss of meaning)
+ - If CSS animation is supported: each icon fades in + slides up with staggered delay (100ms, 150ms, 200ms, 250ms, 300ms)
+ - Implementation: `animation-delay` per table row via inline style
+ - Graceful fallback: all icons visible immediately (no loss of meaning)
 
 4. **CTA button press state:**
-   - CSS `:active` state: `transform: scale(0.98)` + shadow reduction
-   - Subtle gravitational feedback — the button "depresses" when tapped
-   - Only animates on actual interaction (no auto-play that could annoy)
+ - CSS `:active` state: `transform: scale(0.98)` + shadow reduction
+ - Subtle gravitational feedback, the button "depresses" when tapped
+ - Only animates on actual interaction (no auto-play that could annoy)
 
-**Motion philosophy for GF:** Gentle, never frantic. No blinking, flashing, or rapid movement. The motion should feel like the slow placement of a building block — matching the "bridge being built plank by plank" metaphor. Every animation defaults to `ease-out` with 300-500ms duration.
+**Motion philosophy for GF:** Gentle, never frantic. No blinking, flashing, or rapid movement. The motion should feel like the slow placement of a building block, matching the "bridge being built plank by plank" metaphor. Every animation defaults to `ease-out` with 300-500ms duration.
 
 ---
 

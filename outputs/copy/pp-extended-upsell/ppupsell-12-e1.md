@@ -1,9 +1,9 @@
 # PP Extended Upsell — E1 (D28): Bundle Upgrade
 
-> **Flow 12 — PP Extended Upsell (Cross-Level)**
+> **Flow 12, PP Extended Upsell (Cross-Level)**
 > **Position:** E1 · Day 28 Post-Purchase
-> **Goal:** Introduce extended product line — upgrade bundle size (1pr→3+3, 3+3→5+5)
-> **Audience:** All existing buyers (L1/L2/L3/GF) — cross-level single copy
+> **Goal:** Introduce extended product line, upgrade bundle size (1pr→3+3, 3+3→5+5)
+> **Audience:** All existing buyers (L1/L2/L3/GF), cross-level single copy
 > **Phase:** 2 (Month 3-4)
 
 ---
@@ -13,12 +13,12 @@
 ---
 
 ## Subject Line (Primary)
-**If you bought 1 pair — here's why you need 6**
+**If you bought 1 pair, here's why you need 6**
 
-Type: Observation hook (Source: GIULIANO-DEMANDS.md §11.3, Formula 1)
+Type: Observation hook 
 
 ## Subject Line (Alternative 1)
-**You've been using them for a month — what's next?**
+**You've been using them for a month, what's next?**
 
 Type: Question hook (Formula 5)
 
@@ -28,95 +28,98 @@ Type: Question hook (Formula 5)
 Type: Mechanism tease (Formula 3)
 
 ## Preheader (Primary)
-**Whether you started with one pair or a full rotation — here's what the first month teaches most families.**
+**Whether you started with one pair or a full rotation, here's what the first month teaches most families.**
 
 ## Preheader (Alternative 1)
 **Some parents add more pairs at week 4. Others keep going with what they have. Both work. Here's what to watch for.**
 
 ## Preheader (Alternative 2)
-**The first month of body-signal learning — and why rotation changes everything.**
+**The first month of body-signal learning, and why rotation changes everything.**
 
 ---
 
 ## Email Body
 
-**Hook Section — Symptom Recognition (R1, R2, R4)**
+**Hook Section, Symptom Recognition (R1, R2, R4)**
 
-Whether your child has been wearing one pair or a full set for the last month — you've probably noticed something by now.
+Whether your child has been wearing one pair or a full set for the last month, you've probably noticed something by now.
 
 Maybe a pause. A look down. A hand reaching toward the waistband.
 
-Maybe nothing visible at all — and that's okay too.
+Maybe nothing visible at all, and that's okay too.
 
-Some kids start showing awareness in the first two weeks. Others take eight. Some show it with words — "wet," "uh-oh," "I need to go." Others show it with their body — a touch, a gesture, a step toward the bathroom.
+Some kids start showing awareness in the first two weeks. Others take eight. Some show it with words, "wet," "uh-oh," "I need to go." Others show it with their body, a touch, a gesture, a step toward the bathroom.
 
-If you've seen any of these, even once — that's the signal starting to fire.
+If you've seen any of these, even once, that's the signal starting to fire.
 
 And if you haven't? That's not failure. That's your child's nervous system building new pathways at its own pace.
 
-**Validation Section — Post-Purchase Reality (R5, R6)**
+**Validation Section, Post-Purchase Reality (R5, R6)**
 
-The first month with Body-Signal underwear is not about results. It's about input. Giving the brain information it's been missing — over and over, accident after accident, until one day something registers.
+The first month with Body-Signal underwear is not about results. It's about input. Giving the brainformation it's been missing, over and over, accident after accident, until one day something registers.
 
 That's what the 30-60 seconds of gentle feedback does. It doesn't train your child. It teaches their body to send a message their brain can finally receive.
 
 Some families see the first pause at day 3. Others at day 30. Both normal.
 
-The win to watch for isn't "trained." It's "noticed." A pause before an accident. A touch at the waistband. Two hours dry instead of thirty minutes. A look at the wet spot. One initiated walk toward the bathroom — even after the fact.
+The win to watch for isn't "trained." It's "noticed." A pause before an accident. A touch at the waistband. Two hours dry instead of thirty minutes. A look at the wet spot. One initiated walk toward the bathroom, even after the fact.
 
-**Three-Family Testimonial Pattern — Social Proof (R2, R4, R6)**
+**Three-Family Testimonial Pattern, Social Proof (R2, R4, R6)**
 
 Three parents, three different kids, one common discovery:
 
 > **L1 Mom:** "He's been 'almost trained' for a year. After 3 weeks in the underwear, he paused mid-play and looked down. First time he ever noticed."
-> — Sarah, son 4, Level 1
+>, Sarah, son 4, Level 1
 
 > **L2 Mom:** "We had 4 weeks of nothing. I almost gave up. Then week 5, he walked to the bathroom on his own. Once. In 4 years, that never happened."
-> — Lisa, son 6, Level 2
+>, Lisa, son 6, Level 2
 
 > **L3 Mom:** "Nothing visible for 6 weeks. Day 43, I saw him touch his waistband. That was everything."
-> — Maria, son 8, Level 3
+>, Maria, son 8, Level 3
 
-If any of these sound familiar — whether your child is 3 or 10, verbal or non-verbal, just starting or years in — here's what these families have in common: they kept giving the brain the signal, and eventually the brain started listening.
+If any of these sound familiar, whether your child is 3 or 10, verbal or non-verbal, just starting or years in, here's what these families have in common: they kept giving the brain the signal, and eventually the brain started listening.
 
-**Mechanism — Why Rotation Matters**
+**Mechanism, Why Rotation Matters**
 
 Here's what the first month teaches us: consistency beats intensity.
 
-The Body-Signal Learning Layer works by creating a sustained 30-60 second sensation after every accident — the same way training wheels work by creating a consistent feedback loop. But here's the catch: if you only have one pair, you're washing and re-washing. And every wash cycle is a day without the signal.
+The Body-Signal Learning Layer works by creating a sustained 30-60 second sensation after every accident, the same way training wheels work by creating a consistent feedback loop. But here's the catch: if you only have one pair, you're washing and re-washing. And every wash cycle is a day without the signal.
 
 That's why most parents double their pairs around week 4.
 
 With more pairs in rotation:
-- Your child gets the signal every single time — no gaps
+- Your child gets the signal every single time, no gaps
 - You're not doing laundry every night
 - The brain gets consistent, uninterrupted feedback
 
 For kids who are already starting to show awareness (a pause, a look, a touch), more pairs means faster progress. For kids who haven't shown anything yet, more pairs means the signal keeps firing until something registers.
 
-**Offer Section — Bundle Upgrade (Level-Calibrated)**
+**Offer Section, Bundle Upgrade (Level-Calibrated)**
 
-If you started with one pair — the 3+3 Bundle gives you 6 pairs in rotation. That's a full week of signal without gaps. Free shipping. 60-day guarantee. $79.99.
+If you started with one pair, the 3+3 Bundle gives you 6 pairs in rotation. That's a full week of signal without gaps. Free shipping. 60-day guarantee. $79.99.
 
-If you started with the 3+3 — the 5+5 Bundle gives you 10 pairs. Maximum rotation. Maximum signal density. Free shipping. $119.99.
+If you started with the 3+3, the 5+5 Bundle gives you 10 pairs. Maximum rotation. Maximum signal density. Free shipping. $119.99.
 
-If you already have enough pairs — keep doing what you're doing. The next email in this series is about deepening the body-signal connection. No pressure. When you're ready for more pairs, they're here.
+If you already have enough pairs, keep doing what you're doing. The next email in this series is about deepening the body-signal connection. No pressure. When you're ready for more pairs, they're here.
 
 **For families with higher support needs (children 6+, non-verbal, or years into the journey):** 1 pair to 3+3 at most. Your child's nervous system is working on its own timeline. Adding 2-3 more pairs for rotation is enough. No rush. No push to 5+5.
 
 **Guarantee**
 
-Every additional pair is covered by the same 60-Day Guarantee. If your child shows no increase in body awareness after 60 days of consistent use — full refund. No questions. Your judgment.
+Every additional pair is covered by the same 60-Day Guarantee. If your child shows no increase in body awareness after 60 days of consistent use, full refund. No questions. Your judgment.
 
 **CTA**
 
 **Primary CTA (Button):** Explore the bundle that fits your family
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
-**Secondary CTA (Text link):** "See how other parents built their rotation" or "Reply with questions — I read everything"
+**Secondary CTA (Text link):** "See how other parents built their rotation" or "Reply with questions, I read everything"
+
+**Next time:** What parents discover after week 4.
 
 **Lena Sign-Off (MEDIUM variant)**
 
-I have two autistic sons. One trained at 6, the other at almost 8. With my older son, I had one pair for the first two months. I didn't realize how much the washing breaks were interrupting the signal until I got more pairs. If you're on the fence — try one upgrade. 60 days to see if it changes anything. If it doesn't, full refund. No pressure either way.
+I have two autistic sons. One trained at 6, the other at almost 8. With my older son, I had one pair for the first two months. I didn't realize how much the washing breaks were interrupting the signal until I got more pairs. If you're on the fence, try one upgrade. 60 days to see if it changes anything. If it doesn't, full refund. No pressure either way.
 
 With understanding,
 Lena
@@ -159,54 +162,52 @@ Lena
 
 ```
 Hook (Symptom Recognition) → Validation → Three-Family Testimonial
-  → Mechanism (Rotation) → Offer → Guarantee → CTA → Lena Sign-Off
+ → Mechanism (Rotation) → Offer → Guarantee → CTA → Lena Sign-Off
 ```
-
-(Source: 2-full-email-copy-strategy.md §7.4 — Post-Purchase Education placement)
 
 ## Emotional Arc
 
 ```
 Curiosity ("What has my child shown?") → Validation ("Either outcome is normal")
-  → Recognition ("That sounds like my kid") → Understanding ("Consistency > intensity")
-  → Gentle invitation ("When you're ready") → Support ("No pressure, 60-day guarantee")
+ → Recognition ("That sounds like my kid") → Understanding ("Consistency > intensity")
+ → Gentle invitation ("When you're ready") → Support ("No pressure, 60-day guarantee")
 ```
 
 ## R1-R6 Calibration — Full Verification
 
 ### R1: Symptom Over Label ✅
-- **Status:** PASS — No level labels anywhere in copy
+- **Status:** PASS, No level labels anywhere in copy
 - Never uses: "Level 1/2/3", "ASD", "autism severity"
 - Uses: "nervous system building new pathways", "body-signal learning", "interoception"
-- The offer section has a line for "families with higher support needs" — this is symptom-descriptive, not label-based. It anchors on specific descriptors (age 6+, non-verbal, years into journey) rather than clinical level names. This is acceptable per R1 because it describes observable experience, not a diagnostic category.
+- The offer section has a line for "families with higher support needs", this symptom-descriptive, not label-based. It anchors on specific descriptors (age 6+, non-verbal, years into journey) rather than clinical level names. This acceptable per R1 because it describes observable experience, not a diagnostic category.
 
 ### R2: 3-5 Recognition Anchors ✅
-- **Status:** PASS — Multiple anchor blocks throughout
+- **Status:** PASS, Multiple anchor blocks throughout
 - Anchor block 1 (Hook): "A pause. A look down. A hand reaching toward the waistband."
-- Anchor block 2 (Validation): "A pause before an accident. A touch at the waistband. Two hours dry instead of thirty minutes. A look at the wet spot. One initiated walk toward the bathroom — even after the fact."
+- Anchor block 2 (Validation): "A pause before an accident. A touch at the waistband. Two hours dry instead of thirty minutes. A look at the wet spot. One initiated walk toward the bathroom, even after the fact."
 - Anchor block 3 (Three-Family Pattern): Three distinct testimonial scenarios spanning L1, L2, L3 experiences
-- Each anchor spans the full spectrum — from subtle awareness (L1 possible) to years-of-nothing-then-a-sign (L3 possible)
+- Each anchor spans the full spectrum, from subtle awareness (L1 possible) to years-of-nothing-then-a-sign (L3 possible)
 
 ### R3: Age Ranges ✅
-- **Status:** PASS — No fixed ages used
+- **Status:** PASS, No fixed ages used
 - Uses: "whether your child is 3 or 10", "some kids start showing...", "children 6+"
 - The "higher support needs" section qualifies by age range (6+) and observable characteristics (non-verbal, years into journey), not a single age
 
 ### R4: Verbal/Non-Verbal Inclusivity ✅
-- **Status:** PASS — Every example includes both modes
-- "Some show it with words — 'wet,' 'uh-oh,' 'I need to go.' Others show it with their body — a touch, a gesture, a step toward the bathroom."
-- "saying 'wet' OR showing you with a gesture" — both variants present in testimonial pattern and anchor blocks
-- "whether your child is 3 or 10, verbal or non-verbal" — explicit inclusivity
+- **Status:** PASS, Every example includes both modes
+- "Some show it with words, 'wet,' 'uh-oh,' 'I need to go.' Others show it with their body, a touch, a gesture, a step toward the bathroom."
+- "saying 'wet' OR showing you with a gesture", both variants present in testimonial pattern and anchor blocks
+- "whether your child is 3 or 10, verbal or non-verbal", explicit inclusivity
 
 ### R5: Timeline Flexibility ✅
-- **Status:** PASS — No fixed promises
+- **Status:** PASS, No fixed promises
 - "Some kids start showing awareness in the first two weeks. Others take eight."
 - "Some families see the first pause at day 3. Others at day 30. Both normal."
 - Never promises: "in 30 days", "by next month", "within 4 weeks"
-- L3 timeline: "Nothing visible for 6 weeks. Day 43..." — cross-level realistic
+- L3 timeline: "Nothing visible for 6 weeks. Day 43...", cross-level realistic
 
 ### R6: Low-Bar Success Metrics ✅
-- **Status:** PASS — Success defined as mini-wins
+- **Status:** PASS, Success defined as mini-wins
 - "The win to watch for isn't 'trained.' It's 'noticed.'"
 - Mini-wins listed: "A pause before an accident. A touch at the waistband. Two hours dry instead of thirty minutes. A look at the wet spot. One initiated walk toward the bathroom."
 - Never defines success as: "fully trained", "no more pull-ups", "accident-free"
@@ -220,23 +221,21 @@ Three distinct parent voices, each representing a different level experience:
 |-------|--------------|-----|-------------|
 | Sarah | Son 4, Level 1, verbal, "almost trained" for a year | Paused mid-play and looked down at week 3 | L1: pre-existing verbal ability, recent moderate progress |
 | Lisa | Son 6, Level 2, years of methods, BCBA context | Walked to bathroom independently at week 5 (once in 4 years) | L2: method-cycling history, breakthrough after sustained use |
-| Maria | Son 8, Level 3, higher support needs | Touched waistband at day 43 (first signal in years) | L3: deeply hypo-responsive, minimal visible progress for weeks |
+| Maria | Son 8, Level 3, higher support needs | Touched waistband at day 43 (first signal in years) | L3: deeply slow to pick up signals, minimal visible progress for weeks |
 
 Each testimonial: (1) names the pre-product reality, (2) describes the specific mini-win, (3) respects the level's emotional state, (4) avoids over-promising.
-
-(Source: MASTER-DIAGNOSIS-COMPENDIUM.md §4.6; GIULIANO-DEMANDS.md §4)
 
 ## "Whether...Or...If..." Inclusive Framing ✅
 
 Three instances of the pattern:
 
-1. **Hook opener:** "Whether your child has been wearing one pair or a full set for the last month — you've probably noticed something by now."
-2. **Cross-level address:** "If any of these sound familiar — whether your child is 3 or 10, verbal or non-verbal, just starting or years in — here's what these families have in common..."
+1. **Hook opener:** "Whether your child has been wearing one pair or a full set for the last month, you've probably noticed something by now."
+2. **Cross-level address:** "If any of these sound familiar, whether your child is 3 or 10, verbal or non-verbal, just starting or years in, here's what these families have in common..."
 3. **Offer section:** "If you started with one pair... If you started with the 3+3... If you already have enough pairs..."
 
 ## Tonality Calibration by Level
 
-Since this is cross-level (single copy), the tonality is calibrated to occupy the center of all four levels. The table below shows how each level reads the same email:
+Since this cross-level (single copy), the tonality is calibrated to occupy the center of all four levels. The table below shows how each level reads the same email:
 
 | Dimension | L1 (Sarah) Experience | L2 (Lisa) Experience | L3 (Maria) Experience | GF Experience |
 |-----------|----------------------|---------------------|----------------------|---------------|
@@ -246,8 +245,6 @@ Since this is cross-level (single copy), the tonality is calibrated to occupy th
 | **CTA Aggression** | Medium-Low (text link + soft button) | Low (text link) | Very Low (text link, "when you're ready") | Medium-Low |
 | **Energy** | Calm, confident | Measured, respectful | Quiet, spacious | Inclusive, warm |
 | **Most Resonant Line** | "Some kids start showing awareness in the first two weeks." | "We had 4 weeks of nothing. I almost gave up. Then week 5..." | "Nothing visible for 6 weeks. Day 43, I saw him touch his waistband." | "Whether your child is 3 or 10, verbal or non-verbal..." |
-
-(Source: Layer-17-tonality-calibration.md §1; GIULIANO-DEMANDS.md §5)
 
 ## Forbidden Language Check ✅
 
@@ -278,8 +275,6 @@ Since this is cross-level (single copy), the tonality is calibrated to occupy th
 | **L3** | 1pr→3+3 MAX — NEVER 5+5 | ✅ | Explicit guard: "For families with higher support needs... 1 pair to 3+3 at most. No rush. No push to 5+5." |
 | **GF** | 1pr→3+3 default | ✅ | Cross-level offer language with symptom framing |
 
-(Source: 1-full-email-strategy.md §5.2 Offer Rules by Level × Phase)
-
 ## CTA Compliance
 
 | Requirement | Status |
@@ -291,8 +286,6 @@ Since this is cross-level (single copy), the tonality is calibrated to occupy th
 | Secondary CTA = text link only, not purchase | ✅ — "See how other parents built their rotation" (resource link) |
 | Permission-not-to-buy | ✅ — "When you're ready for more pairs, they're here." "No pressure either way." |
 | No "Buy Now" / "Shop Today" | ✅ — Button uses "Explore" language |
-
-(Source: 2-full-email-copy-strategy.md §7)
 
 ## Lena Sign-Off Compliance
 

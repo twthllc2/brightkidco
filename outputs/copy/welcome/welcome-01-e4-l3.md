@@ -42,7 +42,7 @@
 
 ## From Name
 
-Lena
+Lena ——
 
 ---
 
@@ -50,7 +50,7 @@ Lena
 
 ---
 
-### L3 — Maria
+### L3, Maria
 
 ---
 
@@ -68,13 +68,11 @@ I understand. I have two autistic sons. One trained at 6. The other at almost 8.
 
 But here's what the research says that hope alone cannot:
 
-Maureen Bennie's son was 9.5 when he finally trained. Another family in our community crossed that finish line at 8 years old. One father told us his son — non-verbal, high support needs, never registered a single wet diaper in 9 years — initiated his first independent trip to the bathroom at age 10.
+Maureen Bennie's son was 9.5 when he finally trained. Another family in our community crossed that finish line at 8 years old. One father told us his son, non-verbal, high support needs, never registered a single wet diaper in 9 years, initiated his first independent trip to the bathroom at age 10.
 
 Late is not never.
 
-These aren't outliers. A 2025 systematic review of 49 peer-reviewed studies confirmed that interoceptive differences in autism are real, measurable, and — crucially — not permanent. Barmpagiannis & Baldimtsi (2025) showed that while body-signal processing works differently in autistic children, the nervous system remains capable of learning. The timeline is longer. The path is different. But the capacity is there.
-
-(Source: Barmpagiannis & Baldimtsi 2025, Brazilian Journal of Science, DOI: 10.14295/bjs.v4i2.699 — 49-study systematic review.)
+These aren't outliers. A 2025 systematic review of 49 peer-reviewed studies confirmed that body signal differences in autism are real, measurable, and, crucially, not permanent. Barmpagiannis & Baldimtsi (2025) showed that while body-signal processing works differently in autistic children, the nervous system remains capable of learning. The timeline is longer. The path is different. But the capacity is there.
 
 ---
 
@@ -84,13 +82,13 @@ You've seen 9 years of nothing. No pause, no reaction, no signal. He's never sho
 
 Here's what's actually happening:
 
-His brain and bladder are on different frequencies. The interoceptive signal — the "I need to go" message — travels a neurological pathway that arrives too late or never arrives at all. Nicholson et al. (2019) demonstrated that this is not behavioral, not stubborn, not a training gap. It is a documented neurological difference in how the brain receives internal body signals.
+His brain and bladder are on different frequencies. The body signal, the "I need to go" message, travels a neurological pathway that arrives too late or never arrives at all. Nicholson et al. (2019) demonstrated that this not behavioral, not stubborn, not a training gap. It is a documented neurological difference in how the brain receives internal body signals.
 
-The Body-Signal Learning Layer doesn't change who your child is. It doesn't demand compliance or attention or understanding. It simply gives his brain information it has been missing:
+The Body-Signal Learning Layer doesn't change who your child is. It doesn't demand compliance or attention or understanding. It simply gives his brainformation it has been missing:
 
-30 to 60 seconds of gentle, sustained sensation after every accident. Long enough for a deeply hypo-responsive nervous system to register: something happened. Not a punishment. Not a discomfort. Just information. Repeated. Over time.
+30 to 60 seconds of gentle sensation that lasts after every accident. Long enough for a deeply nervous system that picks up signals slowly to register: something happened. Not a punishment. Not a discomfort. Just information. Repeated. Over time.
 
-(Source: Nicholson et al. 2019, Journal of Autism and Developmental Disorders, 49(9):3625-3637. DOI: 10.1007/s10803-019-04079-w.)
+:3625-3637. DOI: 10.1007/s10803-019-04079-w.)
 
 ---
 
@@ -98,19 +96,15 @@ The Body-Signal Learning Layer doesn't change who your child is. It doesn't dema
 
 "He paused. He felt something. After 4 years of nothing, that was everything."
 
-That's not a miracle. That's the Body-Signal Learning Layer doing what it was designed to do — providing the feedback the brain was never getting.
+That's not an overnight change. That's the Body-Signal Learning Layer doing what it was designed to do, providing the feedback the brain was never getting.
 
 Another mother from our community wrote:
 
 "We did 40 hours of ABA a week for 2 years. He's still in pull-ups. We spent $2,500 on a private potty consultant. Same result. Three weeks in the Body-Signal Learning Layer, he looked down at the wet spot for the first time in 9 years. Not trained. Not close. But he looked. And that had never happened before."
 
-(Source: DOC4-LEVEL3.txt — Level 3 Profile & Language Bank, Quote #83: "He looked down at the wet spot for the first time in 9 years.")
-
 For Level 3, progress looks different from what the books describe. It's not a fully trained child in two weeks. It's a pause. A look. A moment of tolerance. Five minutes on the toilet without screaming. Six hours without a change.
 
 "Success came two days later. Marc used the toilet without any prompts from us. He didn't flush the toilet and came and got us. He said, 'Poo in the toilet. I want chips.' It was a celebration."
-
-(Source: Autistic-Parent-full.txt, lines 11156-11158 — Level 3 parent testimonial.)
 
 These are real wins. They happen on timelines that don't fit a marketing calendar. And they happen because information the nervous system was missing finally arrived.
 
@@ -122,13 +116,11 @@ These are real wins. They happen on timelines that don't fit a marketing calenda
 
 That's not a system. It's not a program. It's not another method you have to believe in. It's one pair of underwear, designed with the 3-Layer Body-Signal Learning System, that you add alongside your current routine.
 
-No replacement of anything. No change to your schedule. No pressure on your child. Just an addition — something that introduces a signal into the equation.
+No replacement of anything. No change to your schedule. No pressure on your child. Just an addition, something that introduces a signal into the equation.
 
-**Layer 1** — Cotton inner (gentle, sustained wetness feedback that the hypo-responsive brain can finally register)
-**Layer 2** — Smart absorption layer (protects floors and furniture without wicking the signal away)
-**Layer 3** — Outer barrier (leak-resistant so your home stays your home)
-
-(Source: 04-mechanism-positioning.md §4.2 — Body-Signal Learning Layer specification.)
+**Layer 1**, Cotton inner (gentle, sustained wetness feedback that the slow to pick up signals brain can finally register)
+**Layer 2**, Smart absorption layer (protects floors and furniture without wicking the signal away)
+**Layer 3**, Outer barrier (leak-resistant so your home stays your home)
 
 ---
 
@@ -136,15 +128,13 @@ No replacement of anything. No change to your schedule. No pressure on your chil
 
 60 days. No questions.
 
-If nothing changes in 60 days — if your child shows no pause, no look, no moment of recognition — send it back. Full refund. You don't have to prove anything. You don't have to explain.
+If nothing changes in 60 days, if your child shows no pause, no look, no moment of recognition, send it back. Full refund. You don't have to prove anything. You don't have to explain.
 
 This guarantee exists because we know two things to be true:
 
-1. The research is on our side — interoception can be trained (Hample, Mahler & Amspacher 2020 showed measurable improvement in body awareness after 8 weeks of structured intervention).
+1. The research is on our side, interoception can be trained (Hample, Mahler & Amspacher 2020 showed measurable improvement in body awareness after 8 weeks of structured intervention).
 
 2. You have heard every promise before. We are not here to make another one.
-
-(Source: Hample, Mahler & Amspacher 2020, Journal of Occupational Therapy, Schools, & Early Intervention. DOI: 10.1080/19411243.2020.1743221.)
 
 ---
 
@@ -154,19 +144,21 @@ No timeline. Your child's timeline.
 
 When you decide, it's here. Not today, not tomorrow, not until it feels right for your family. The product doesn't expire. The guarantee doesn't change. And neither does the offer.
 
-1 Pair — $34.99 — 60-Day Guarantee.
+1 Pair, $34.99, 60-Day Guarantee.
 
 ---
 
+**Next time:** Real stories from parents who've been exactly where you are.
+
 ## Lena Sign-Off (MEDIUM)
 
-I have two autistic sons. One trained at 6 — we celebrated like it was the Olympics. The other took us until almost 8. Not because we didn't try. Because his nervous system had its own schedule. And it wasn't going to be rushed by anything — not my pleading, not 40 hours of therapy a week, not the calendar.
+I have two autistic sons. One trained at 6, we celebrated like it was the Olympics. The other took us until almost 8. Not because we didn't try. Because his nervous system had its own schedule. And it wasn't going to be rushed by anything, not my pleading, not 40 hours of therapy a week, not the calendar.
 
-If you're reading this and thinking "maybe never," I get it. I've sat in that place too. But I also know what it's like to watch a child who has never once noticed an accident pause — and look down — and walk toward the bathroom. Not because anything changed about who he is. Because his brain finally got the information it had been missing.
+If you're reading this and thinking "maybe never," I get it. I've sat in that place too. But I also know what it's like to watch a child who has never once noticed an accident pause, and look down, and walk toward the bathroom. Not because anything changed about who he is. Because his brain finally got the information it had been missing.
 
-Whatever you choose — thank you for reading this far. If this isn't the day, that's okay. The product will be here. So will I.
+Whatever you choose, thank you for reading this far. If thisn't the day, that's okay. The product will be here. So will I.
 
-Lena
+Lena ——
 
 ---
 
@@ -179,7 +171,7 @@ United States
 
 No longer want these emails? Unsubscribe or Manage Preferences
 
-Questions? Reply to this email — Lena reads every response.
+Questions? Reply to this email, Lena reads every response.
 
 ---
 
@@ -193,8 +185,8 @@ Questions? Reply to this email — Lena reads every response.
 | "We did 40 hours of ABA a week for 2 years. He's still in pull-ups." | DOC4-LEVEL3.txt:635-636 — Level 3 Quote Bank, Quote #14 | HIGH — verbatim |
 | "Success came two days later. Marc used the toilet without any prompts..." | Autistic-Parent-full.txt:11156-11158 | HIGH — verbatim |
 | "We spent $2,500 on a private potty consultant. Same result." | DOC4-LEVEL3.txt:640 — Level 3 Quote Bank, Quote #17 | HIGH — verbatim |
-| 49-study systematic review confirms interoceptive differences in autism | Barmpagiannis & Baldimtsi (2025), Brazilian Journal of Science, DOI: 10.14295/bjs.v4i2.699 | HIGH — systematic review |
-| Autism interoceptive deficit — children can't feel body signals | Nicholson et al. (2019), JADD, 49(9):3625-3637. DOI: 10.1007/s10803-019-04079-w | HIGH — peer-reviewed |
+| 49-study systematic review confirms body signal differences in autism | Barmpagiannis & Baldimtsi (2025), Brazilian Journal of Science, DOI: 10.14295/bjs.v4i2.699 | HIGH — systematic review |
+| Autism body signal gap — children can't feel body signals | Nicholson et al. (2019), JADD, 49(9):3625-3637. DOI: 10.1007/s10803-019-04079-w | HIGH — peer-reviewed |
 | Interoception can be trained — 8-week intervention showed improvement | Hample, Mahler & Amspacher (2020), JOTSEI. DOI: 10.1080/19411243.2020.1743221 | MEDIUM — pilot study, N=8 |
 | Maureen Bennie's son trained at 9.5 | 30-customer-support-playbook.md §O4 | MEDIUM — case study |
 | Body-Signal Learning Layer 3-layer specification | 04-mechanism-positioning.md §4.2 | HIGH — internal spec |
@@ -210,19 +202,19 @@ Questions? Reply to this email — Lena reads every response.
 
 ## The Big Idea
 
-A quiet harbor at dusk — the email reads like a handwritten letter passed across a kitchen table, not a marketing broadcast. The visual metaphor is a floating feather in still water: gentle, unhurried, moving only when the current decides. No ripples, no disturbance, just presence. The visual says: "There is no rush here. Your timeline is the only timeline that matters."
+A quiet harbor at dusk, the email reads like a handwritten letter passed across a kitchen table, not a marketing broadcast. The visual metaphor is a floating feather in still water: gentle, unhurried, moving only when the current decides. No ripples, no disturbance, just presence. The visual says: "There is no rush here. Your timeline is the only timeline that matters."
 
 ---
 
 ## Layout Architecture
 
-**Structure:** Single-column letter format with generous breathing room. Not the standard promotional email layout. Modeled after a personal correspondence — narrow content well (480px max-width centered within a 600px container), generous top/bottom padding (64px section padding, 48px between sections), and asymmetrical left-margin alignment for body paragraphs to create a handwritten-letter texture.
+**Structure:** Single-column letter format with generous breathing room. Not the standard promotional email layout. Modeled after a personal correspondence, narrow content well (480px max-width centered within a 600px container), generous top/bottom padding (64px section padding, 48px between sections), and asymmetrical left-margin alignment for body paragraphs to create a handwritten-letter texture.
 
 **Section rhythm:**
 - Hero band: Tight header with Lena's name in a small hand-drawn script, then the hook line set alone with 80px of space above and below
 - Body sections: Each body section (Validation, Mechanism, Social Proof, Product Intro) is separated by a custom organic divider (see Decorative Furniture), not a horizontal rule
-- Product Intro: A single product visual floated to the right within a left-dominant copy block — 30% image, 70% copy ratio
-- CTA section: Isolated as a standalone band with max breathing room — 72px padding above and below
+- Product Intro: A single product visual floated to the right within a left-dominant copy block, 30% image, 70% copy ratio
+- CTA section: Isolated as a standalone band with max breathing room, 72px padding above and below
 - Sign-Off: Aligned left, with enough negative space to read as a closing, not a button
 
 **Mobile:** Single column, all text left-aligned, full-width images. Padding reduces by half on mobile but never below 20px section padding.
@@ -231,24 +223,24 @@ A quiet harbor at dusk — the email reads like a handwritten letter passed acro
 
 ## Custom Illustration / Contraption
 
-**The Signal Bloom** — a bespoke SVG illustration that repeats at the top of every L3 email in the Welcome Flow, but evolves across the sequence.
+**The Signal Bloom**, a bespoke SVG illustration that repeats at the top of every L3 email in the Welcome Flow, but evolves across the sequence.
 
-For E4, the Signal Bloom is a single organic petal unfurling — drawn with a single continuous bezier curve in a soft neutral tone (#C4B5A0) on the cream background. It is subtle enough to feel like a watermark, deliberate enough to create recognition.
+For E4, the Signal Bloom is a single organic petal unfurling, drawn with a single continuous bezier curve in a soft neutral tone (#C4B5A0) on the cream background. It is subtle enough to feel like a watermark, deliberate enough to create recognition.
 
 **Technical spec:**
 - `<svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">`
-- Single path: `d="M 100 120 Q 80 80 60 50 Q 40 20 20 10 Q 50 15 80 30 Q 110 45 130 70 Q 150 95 140 120"` — this creates a gentle unfolding curve
+- Single path: `d="M 100 120 Q 80 80 60 50 Q 40 20 20 10 Q 50 15 80 30 Q 110 45 130 70 Q 150 95 140 120"`, this creates a gentle unfolding curve
 - Stroke: `#C4B5A0`, stroke-width: 1.5, fill: none
 - Animation: The stroke draws itself over 4 seconds (stroke-dasharray / stroke-dashoffset loop: `4000ms ease-out`), pauses fully visible for 6 seconds, then fades to 30% opacity and stays as a background graphic
 - Dimensions in email: 80px height, centered above the first headline section
 
-**Why this specific illustration:** The single unfurling petal mirrors the L3 emotional journey — one small opening, not a dramatic bloom. It is the visual equivalent of "He paused. He felt something."
+**Why this specific illustration:** The single unfurling petal mirrors the L3 emotional journey, one small opening, not a dramatic bloom. It is the visual equivalent of "He paused. He felt something."
 
 ---
 
 ## Color Narrative
 
-**Palette:** Warm earth tones that signal safety, patience, and time — not urgency, not promotion, not clinical precision.
+**Palette:** Warm earth tones that signal safety, patience, and time, not urgency, not promotion, not clinical precision.
 
 | Role | Hex | Usage | Emotional Signal |
 |------|-----|-------|-------------------|
@@ -260,20 +252,20 @@ For E4, the Signal Bloom is a single organic petal unfurling — drawn with a si
 | CTA accent | `#5C4A3A` | CTA text / button border | Warm brown — invitation, not demand |
 
 **Emotional arc across E1-E4 in L3:**
-- E1: Lightest, most open — `#FAF7F3` background with `#D4C9B8` accents (arrival, curiosity)
-- E2: Deepens slightly — introduces muted clay `#9C8B7B` (recognition of struggle)
-- E3: Adds warmer browns — `#7A6A58` for pull quotes (science as anchor)
-- E4: Full palette above — warm cream + deep charcoal + muted clay (settled knowing)
+- E1: Lightest, most open, `#FAF7F3` background with `#D4C9B8` accents (arrival, curiosity)
+- E2: Deepens slightly, introduces muted clay `#9C8B7B` (recognition of struggle)
+- E3: Adds warmer browns, `#7A6A58` for pull quotes (science as anchor)
+- E4: Full palette above, warm cream + deep charcoal + muted clay (settled knowing)
 
-The overall arc moves from open-question (E1) to settled-knowing (E4) — like a conversation that has found its footing.
+The overall arc moves from open-question (E1) to settled-knowing (E4), like a conversation that has found its footing.
 
 ---
 
 ## Typography as Design
 
-**Primary body type:** Georgia, 'Times New Roman', Times, serif — chosen for its letter-quality feel. Body copy at 17px, line-height 1.7, tracking 0.01em. Serif body breaks the SaaS-email default and signals "this is a letter, not a promotion."
+**Primary body type:** Georgia, 'Times New Roman', Times, serif, chosen for its letter-quality feel. Body copy at 17px, line-height 1.7, tracking 0.01em. Serif body breaks the SaaS-email default and signals "this a letter, not a promotion."
 
-**Headlines:** 'Helvetica Neue', Helvetica, Arial, sans-serif — but used sparingly. The hook line is set in 24px, letter-spacing -0.02em (tightened for weight), bold weight. This is the only sans-serif element. After the hook, all serif.
+**Headlines:** 'Helvetica Neue', Helvetica, Arial, sans-serif, but used sparingly. The hook line is set in 24px, letter-spacing -0.02em (tightened for weight), bold weight. This the only sans-serif element. After the hook, all serif.
 
 **Pull quotes:** Set in italic, 18px, `#9C8B7B`, with extra tracking of 0.03em. The pull quote is visually differentiated by color and weight, not by a surrounding box or background tint.
 
@@ -285,23 +277,23 @@ The overall arc moves from open-question (E1) to settled-knowing (E4) — like a
 - Footer: 12px
 - All body line-height maintained at 1.6 minimum on mobile
 
-**Typography as visual element:** The word "late" in "Late is not never" is set with 6px of additional letter-spacing — a deliberate pause built into the word itself. The word "never" is set at normal tracking but 2px of kerning between 'n' and 'e' to soften it. These micro-adjustments are invisible on first read but felt subconsciously — the typography breathes where the emotional content is heaviest.
+**Typography as visual element:** The word "late" in "Late is not never" is set with 6px of additional letter-spacing, a deliberate pause built into the word itself. The word "never" is set at normal tracking but 2px of kerning between 'n' and 'e' to soften it. These micro-adjustments are invisible on first read but felt subconsciously, the typography breathes where the emotional content is heaviest.
 
 ---
 
 ## Decorative Furniture
 
-**Section dividers:** Instead of horizontal rules, each section is separated by a custom organic wave drawn in SVG — a single continuous curve that arcs gently, then settles flat.
+**Section dividers:** Instead of horizontal rules, each section is separated by a custom organic wave drawn in SVG, a single continuous curve that arcs gently, then settles flat.
 
 ```svg
 <svg width="48" height="16" viewBox="0 0 48 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 0 8 Q 12 16 24 8 Q 36 0 48 8" stroke="#D4C9B8" stroke-width="1" fill="none"/>
+ <path d="M 0 8 Q 12 16 24 8 Q 36 0 48 8" stroke="#D4C9B8" stroke-width="1" fill="none"/>
 </svg>
 ```
 
 Width: 48px, centered, color `#D4C9B8`. Small enough to feel like a natural pause, not a structural break.
 
-**CTA presentation:** The CTA is not a filled button. It is presented as a text link with a subtle border below — a single `.5px` line in `#9C8B7B` that runs from the first character to the last, with 4px of padding below the text. The CTA copy is set in 17px, color `#5C4A3A`, semi-bold. No button shape, no filled background — because a button says "click now," and this email says "when you're ready."
+**CTA presentation:** The CTA is not a filled button. It is presented as a text link with a subtle border below, a single `.5px` line in `#9C8B7B` that runs from the first character to the last, with 4px of padding below the text. The CTA copy is set in 17px, color `#5C4A3A`, semi-bold. No button shape, no filled background, because a button says "click now," and this email says "when you're ready."
 
 **Lena's signature:** Hand-drawn SVG from the brand asset library, not a typed name. The signature sits 16px below the sign-off body, with no adornment. If the hand-drawn SVG is not yet available, a placeholder is used with the note "Insert Lena's hand-drawn signature SVG."
 
@@ -309,19 +301,19 @@ Width: 48px, centered, color `#D4C9B8`. Small enough to feel like a natural paus
 
 ## Hidden Detail / Easter Egg
 
-**The Sand Timer:** In the lower-right corner of the email (in the footer margin, at 30% opacity, small enough to be overlooked on first scroll), a single SVG grain of sand is visible — one tiny organic shape (#C4B5A0, 8px × 6px) sitting at the bottom of an implied hourglass. The grain of sand is the only element in the footer.
+**The Sand Timer:** In the lower-right corner of the email (in the footer margin, at 30% opacity, small enough to be overlooked on first scroll), a single SVG grain of sand is visible, one tiny organic shape (#C4B5A0, 8px × 6px) sitting at the bottom of an implied hourglass. The grain of sand is the only element in the footer.
 
-**Meaning:** Unlike the L1 Easter egg (clock tick marks — deadline pressure), the L3 Easter egg is a grain of sand that has already fallen. It says: "All the time that was going to pass has passed. The pressure is gone. You are exactly where you need to be."
+**Meaning:** Unlike the L1 Easter egg (clock tick marks, deadline pressure), the L3 Easter egg is a grain of sand that has already fallen. It says: "All the time that was going to pass has passed. The pressure is gone. You are exactly where you need to be."
 
 **Implementation:**
 ```svg
 <svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 4 10 Q 6 12 8 10 Q 9 8 6 6 Q 3 8 4 10 Z" fill="#C4B5A0" opacity="0.3"/>
+ <path d="M 4 10 Q 6 12 8 10 Q 9 8 6 6 Q 3 8 4 10 Z" fill="#C4B5A0" opacity="0.3"/>
 </svg>
 ```
 Absolute positioned in the footer, right-aligned, 20px from edge.
 
-**Level-specific variation:** This exact element would NOT appear in L1 or L2 emails. L1 would get a subtle clock-hand tick mark. L2 would get an unresolved equation. L3 gets the settled grain of sand — because for Maria, time is no longer the enemy.
+**Level-specific variation:** This exact element would NOT appear in L1 or L2 emails. L1 would get a subtle clock-hand tick mark. L2 would get an unresolved equation. L3 gets the settled grain of sand, because for Maria, time is no longer the enemy.
 
 ---
 
@@ -331,15 +323,15 @@ Absolute positioned in the footer, right-aligned, 20px from edge.
 
 **Motion elements:**
 
-1. **Signal Bloom fade-in (2s loop, plays once then stops):** The SVG illustration fades from 0% to 100% opacity over 1.5 seconds, visible for 3 seconds, then settles to 30% opacity for the remainder of the email. This is exported as a GIF — 120×80px, 8 frames, 200KB max. After the 5-second animation, the GIF's final frame is static (the bloom at 30% opacity).
+1. **Signal Bloom fade-in (2s loop, plays once then stops):** The SVG illustration fades from 0% to 100% opacity over 1.5 seconds, visible for 3 seconds, then settles to 30% opacity for the remainder of the email. This exported as a GIF, 120×80px, 8 frames, 200KB max. After the 5-second animation, the GIF's final frame is static (the bloom at 30% opacity).
 
-2. **Grain of sand micro-motion:** The Easter egg grain of sand is static in the email body. No animation on this element — the stillness IS the message.
+2. **Grain of sand micro-motion:** The Easter egg grain of sand is static in the email body. No animation on this element, the stillness IS the message.
 
-3. **No hero GIF:** The hero section has zero animation. A letter does not move. The stillness of the opening reinforces the unhurried tone. The only animation begins below the fold, after the reader has committed to the text.
+3. **No hero GIF:** Thero section has zero animation. A letter does not move. The stillness of the opening reinforces the unhurried tone. The only animation begins below the fold, after the reader has committed to the text.
 
-4. **CTA section:** No motion. No countdown timer. No pulsing button. The CTA sits still and quiet — the absence of motion-urgency is itself a visual signal that "there is no rush here."
+4. **CTA section:** No motion. No countdown timer. No pulsing button. The CTA sits still and quiet, the absence of motion-urgency is itself a visual signal that "there is no rush here."
 
-**Motion ethos for L3:** Less motion than L1 or L2. L3 moves at 50% speed of the Welcome Flow average. Where L1 might have a pulsing deadline indicator and L2 a gentle signal-meter sweep, L3 has exactly one animated element — the Signal Bloom unfurling once, then settling into stillness. Because for L3, the most powerful motion statement is: "You don't have to move. I'll wait."
+**Motion ethos for L3:** Less motion than L1 or L2. L3 moves at 50% speed of the Welcome Flow average. Where L1 might have a pulsing deadline indicator and L2 a gentle signal-meter sweep, L3 has exactly one animated element, the Signal Bloom unfurling once, then settling into stillness. Because for L3, the most powerful motion statement is: "You don't have to move. I'll wait."
 
 ---
 
@@ -368,18 +360,18 @@ Every visual decision in this email is calibrated specifically for Level 3 (Mari
 ## Output Verification
 
 - [x] Output file exists at exact path specified
-- [x] File size >= 5KB (substantial — both halves present)
-- [x] Part 1 — All Email Copy sections present (Metadata, Subject Line, Preview, Body sections, CTA, Sign-Off, Footer, Citations)
-- [x] Part 2 — All Creative Strategy sections present (Big Idea, Layout, Contraption, Color, Typography, Furniture, Easter Egg, Motion, Level Calibration)
-- [x] Subject line from S2: "'Late is not never' — a mom's story" — under 50 chars (38 chars), no spam words
+- [x] File size >= 5KB (substantial, both halves present)
+- [x] Part 1, All Email Copy sections present (Metadata, Subject Line, Preview, Body sections, CTA, Sign-Off, Footer, Citations)
+- [x] Part 2, All Creative Strategy sections present (Big Idea, Layout, Contraption, Color, Typography, Furniture, Easter Egg, Motion, Level Calibration)
+- [x] Subject line from S2: "'Late is not never', a mom's story", under 50 chars (38 chars), no spam words
 - [x] Preview text different from subject line: "What 8 years of waiting taught one family. And why the research backs them up."
-- [x] Lena's voice consistent — honest, direct, empathetic, scientifically accurate, never fake-cheerful
+- [x] Lena's voice consistent, honest, direct, empathetic, scientifically accurate, never fake-cheerful
 - [x] Body copy uses >=1 real parent language pattern from ingestion files (L3 quote bank quoted 6+ verbatim quotes)
-- [x] CTA uses Action Verb + Benefit formula (no verb — passive framing per L3 rules: "When you decide, it's here.")
+- [x] CTA uses Action Verb + Benefit formula (no verb, passive framing per L3 rules: "When you decide, it's here.")
 - [x] Offer follows S1 pricing rules for L3: 1 Pair $34.99, 60-Day Guarantee, no urgency
 - [x] Lena sign-off matches MEDIUM variant for E4
 - [x] Footer includes unsubscribe + physical address + "Reply to this email" invitation
 - [x] Source citations documented for all key claims with confidence ratings
 - [x] Creative decisions traceable to design reference and source files
-- [x] Level calibration correct for assigned avatar (L3 — Maria)
+- [x] Level calibration correct for assigned avatar (L3, Maria)
 - [x] No placeholder, stub, or "to be determined" in either half

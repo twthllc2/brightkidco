@@ -3,11 +3,11 @@
 
 **Flow:** PP-Extended Education (Flow 22)
 **Day:** D29 (E2)
-**Level:** L3 — Maria (Non-verbal, High Support Needs, Resigned)
+**Level:** L3, Maria (Non-verbal, High Support Needs, Resigned)
 **Offer:** 1 Pair ($34.99)
 **Tag:** `avatar_level3`
 
-**Source Strategy:** S2 §1.19 L3 E2 — "Understanding hypo-responsiveness: why your child doesn't register wetness and how BSL helps."
+**Source Strategy:** S2 §1.19 L3 E2, "Understanding slow to pick up signalsness: why your child doesn't register wetness and how BSL helps."
 
 ---
 
@@ -21,7 +21,7 @@ He sat in the same wet diaper for three hours.
 
 Not because you didn't check. You did. Because he didn't react. Not a shift in position. Not a pause. Not a whimper. Nothing.
 
-You changed him and he looked at you the same way he always does — like nothing happened. Like you found the wetness for him, because he couldn't feel it himself.
+You changed him and he looked at you the same way he always does, like nothing happened. Like you found the wetness for him, because he couldn't feel it himself.
 
 That's not a choice he's making. That's not stubbornness. That's not a behavior to shape.
 
@@ -33,13 +33,13 @@ That's his nervous system processing body information differently than the metho
 
 You've spent years watching for signs. Every shift in his body language. Every change in his breathing. Any flicker of recognition that something is happening down there.
 
-And year after year — nothing.
+And year after year, nothing.
 
 That's not a parenting gap. You did not miss the clues. There were no clues to miss.
 
-The research is clear: hypo-responsiveness — the reduced ability to register sensory input — is one of the most consistent findings in autistic children with high support needs. The body sends the signal. The brain doesn't register it arrives.
+The research is clear: slow to pick up signalsness, the reduced ability to register sensory input, is one of the most consistent findings in autistic children with high support needs. The body sends the signal. The brain doesn't register it arrives.
 
-Leekam et al. (2007) found that more than 90% of autistic children show sensory processing differences. For children like yours, the gap is often in the interoceptive system — the one that tells you when you're hungry, thirsty, or need the bathroom.
+Leekam et al. (2007) found that more than 90% of autistic children show sensory processing differences. For children like yours, the gap is often in the body signal system, the one that tells you when you're hungry, thirsty, or need the bathroom.
 
 It's not that he doesn't care. It's that his brain doesn't receive the message.
 
@@ -49,19 +49,11 @@ It's not that he doesn't care. It's that his brain doesn't receive the message.
 
 The Body-Signal Learning Layer was designed for exactly this gap.
 
-Here's what happens when a child with hypo-responsiveness wears a standard pull-up: the moisture-wicking layer pulls wetness away from the skin instantly. The child stays completely dry. The brain receives zero feedback. Zero information. Zero reason to pay attention to that part of the body.
+When a child wears a standard pull-up, the moisture-wicking layer pulls wetness away instantly. The brain receives zero feedback. Zero reason to pay attention.
 
-The BSL system does the opposite.
+The BSL system does the opposite. The cotton inner layer creates a gentle sensation lasting 30 to 60 seconds of mild awareness that gives a nervous system that picks up signals slowly enough time to register: something happened.
 
-Instead of wicking moisture away, the cotton inner layer creates a gentle, sustained sensation — 30 to 60 seconds of mild awareness that gives a deeply hypo-responsive nervous system enough time to register: something happened.
-
-Think of it as making the signal louder.
-
-Not louder in a punishing way. Not uncomfortable. Just — present. Sustained. Long enough for a nervous system that processes on a different timescale to finally catch up.
-
-Nicholson et al. (2019) confirmed what many parents already knew from experience: the interoception signal in autistic children is not absent, it's delayed and less accurate. The signal arrives — but too late, or too faintly, or too briefly for the brain to use it as information.
-
-The BSL layer extends that signal window.
+Nicholson et al. (2019) confirmed the interoception signal in autistic children is not absent — it's delayed and less accurate. The BSL layer extends that signal window.
 
 ---
 
@@ -71,13 +63,13 @@ For a child who has never registered wetness, the first sign of change will not 
 
 It might look like this:
 
-A pause before he stands up. Hands that brush at the waistband — once, then stop. A step toward the bathroom that goes nowhere. No initiation. No words. Just a single moment where something almost happened.
+A pause before he stands up. Hands that brush at the waistband, once, then stop. A step toward the bathroom that goes nowhere. No initiation. No words. Just a single moment where something almost happened.
 
-That moment is not failure. That is his brain receiving sensory information it has never received before. That is the first step in a process that takes months — sometimes longer — and that is not a problem to fix.
+That moment is not failure. That is his brain receiving sensory information it has never received before. That is the first step in a process that takes months, sometimes longer, and that is not something to force.
 
 Barmpagiannis and Baldimtsi (2025) reviewed 49 studies on interoception in autism. The conclusion: these differences are real, measurable, and neurological. They are not behavioral. They are not something your child can try harder at.
 
-The BSL system does not promise to train your child. It promises to give his brain information it has been missing. What his nervous system does with that information — that is between him and biology.
+The BSL system does not promise to train your child. It promises to give his brainformation it has been missing. What his nervous system does with that information, that is between him and biology.
 
 ---
 
@@ -87,19 +79,19 @@ One pair. $34.99.
 
 Not a replacement for his current diapers. An addition. Something he can wear for a few hours at home, alongside what you're already doing.
 
-If nothing changes in 60 days — full refund. No questions. No forms to fill out.
+If nothing changes in 60 days, full refund. No questions. No forms to fill out.
 
-This is not a promise. It is an offer of information for his nervous system. Whether it works for your child is something only time will tell. And that is a real answer.
+This not a promise. It is an offer of information for his nervous system. Whether it works for your child is something only time will tell. And that is a real answer.
 
 ---
 
 ### Section 6 — CTA
 
-No pressure. No timeline. If this isn't the day, that's okay.
+No pressure. No timeline. If thisn't the day, that's okay.
 
 When you're ready, it's here.
 
-[link: Add 1 Pair — $34.99 — 60-Day Guarantee]
+[link: Add 1 Pair, $34.99, 60-Day Guarantee]
 
 ---
 
@@ -109,9 +101,9 @@ I remember the first time I realized my older son could sit in a completely soak
 
 He was almost 8 before he registered wetness for the first time. Not trained. Just registered. He paused mid-step and looked down. That was the start.
 
-If you have questions about how the BSL system works for a child who has never shown any awareness — hit reply. I read every message.
+If you have questions about how the BSL system works for a child who has never shown any awareness, hit reply. I read every message.
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
 ---
@@ -125,13 +117,13 @@ Customer Support · Mom of two autistic sons
 | Dignity Frame | "Not stubborn. Not unaware. Processing differently." | 53 |
 | Validation Hook | "Three hours in a wet diaper. No reaction." | 48 |
 
-**Recommended:** "He doesn't feel it arrive — that's not behavior"
+**Recommended:** "He doesn't feel it arrive, that's not behavior"
 
 ---
 
 ### Preview Text
 
-"What the research says about hypo-responsiveness and why the BSL layer changes the equation."
+"What the research says about slow to pick up signalsness and why the BSL layer changes the equation."
 
 ---
 
@@ -143,7 +135,7 @@ Customer Support · Mom of two autistic sons
 
 ### 2.1 Strategic Purpose
 
-This email exists to explain the most confusing and painful aspect of the L3 experience: the complete absence of awareness. Standard potty training resources assume the child feels something. L3 parents live in a reality where their child shows zero — zero — reaction to wetness. This email names that reality, validates it as a real neurological phenomenon (not a behavior), and positions the BSL system as the mechanism that creates the missing signal.
+This email exists to explain the most confusing and painful aspect of the L3 experience: the complete absence of awareness. Standard potty training resources assume the child feels something. L3 parents live in a reality where their child shows zero, zero, reaction to wetness. This email names that reality, validates it as a real neurological phenomenon (not a behavior), and positions the BSL system as the mechanism that creates the missing signal.
 
 It is NOT a conversion email. Its job is understanding, not selling.
 
@@ -153,17 +145,17 @@ It is NOT a conversion email. Its job is understanding, not selling.
 
 ```
 quiet acceptance
-    │
-    ▼
-hypo-responsiveness explained (relief — "this is real")
-    │
-    ▼
+ │
+ ▼
+slow to pick up signalsness explained (relief, "this real")
+ │
+ ▼
 mechanism clarity (understanding how BSL addresses the gap)
-    │
-    ▼
+ │
+ ▼
 redefined progress (micro-win recognition)
-    │
-    ▼
+ │
+ ▼
 permission to continue at her pace
 ```
 
@@ -196,13 +188,13 @@ permission to continue at her pace
 | Section | Proportion | Purpose | L3 Energy Level |
 |---------|:---------:|---------|:---------------:|
 | Hook | 12% | Mirror the reality of zero awareness | Quiet recognition |
-| Validation | 18% | Normalize hypo-responsiveness as neurological | Deep validation |
+| Validation | 18% | Normalize slow to pick up signalsness as neurological | Deep validation |
 | Mechanism | 30% | Explain BSL as signal amplifier | Educational warmth |
 | What This Changes | 25% | Redefine what progress looks like | Gentle permission |
 | Product | 10% | Offer — after full mechanism | Minimal, low-energy |
 | CTA | 5% | Permission-not-to-buy | Soft off-ramp |
 
-**Note:** Mechanism + What This Changes = 55% of email. Education dominates. Product + CTA = 15%. This ratio is deliberate for L3 — Maria needs understanding before she can trust an offer.
+**Note:** Mechanism + What This Changes = 55% of email. Education dominates. Product + CTA = 15%. This ratio is deliberate for L3, Maria needs understanding before she can trust an offer.
 
 ---
 
@@ -212,7 +204,7 @@ permission to continue at her pace
 |-------------|--------|---------------|
 | >90% sensory processing differences | Leekam et al. 2007 | Validates that zero reaction is real and common |
 | Interoception deficit — delayed/less accurate | Nicholson et al. 2019 | Explains the mechanism gap |
-| 49 studies confirm interoception differences | Barmpagiannis & Baldimtsi 2025 | Reinforces that this is settled science |
+| 49 studies confirm interoception differences | Barmpagiannis & Baldimtsi 2025 | Reinforces that this settled science |
 | Lena's son registered wetness at almost 8 | Lena S. (peer testimony) | Late-trainer credibility anchor |
 | 60-day guarantee | BrightKidCo | Risk removal without sales pressure |
 
@@ -257,4 +249,4 @@ If open rates on the primary subject line underperform after 7 days, swap to:
 
 ---
 
-*End of PP-Extended Education E2 (D29) — Level 3 (Maria)*
+*End of PP-Extended Education E2 (D29), Level 3 (Maria)*

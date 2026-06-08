@@ -24,28 +24,27 @@
 
 **Subject:** The real reason Oh Crap didn't work
 
-**Formula:** Mechanism Tease (Type 3 — Source: GIULIANO-DEMANDS.md §11.3)
-
+**Formula:** Mechanism Tease (Type 3, 
 **Character Count:** 38 characters (under 50 ✓)
 
-**Rationale:** Directly names a failed method every L1 parent recognizes ('Oh Crap') and positions the email as providing the answer to *why* it failed. Curiosity gap + relief that there's an explanation. No spam words, no ALL CAPS, no punctuation triggers. (Source: 2-full-email-copy-strategy.md §Welcome E2 L1; Subject Line Engineering SOP §2.1)
+**Rationale:** Directly names a failed method every L1 parent recognizes ('Oh Crap') and positions the email as providing the answer to *why* it failed. Curiosity gap + relief that there's an explanation. No spam words, no ALL CAPS, no punctuation triggers. 
 
 ---
 
 ## Preview Text
 
-You didn't fail. The method assumes your child feels the 'I need to go' signal — here's what's really happening.
+You didn't fail. The method assumes your child feels the 'I need to go' signal, here's what's really happening.
 
 **Character Count:** 106 characters (key message in first 40 ✓)
-**Relation to Subject:** Expands and complements — reveals the validation frame without repeating subject line content. (Source: Subject Line Engineering SOP §3.2)
+**Relation to Subject:** Expands and complements, reveals the validation frame without repeating subject line content. 
 
 ---
 
 ## From Name
 
-Lena S. — BrightKidCo
+Lena S., BrightKidCo
 
-**Rationale:** Personal from name drives higher open rates. Lena is the peer-mom voice — not a brand generic. (Source: 11-brand-voice-reference.md §1.1; Body Copy Frameworks SOP §11)
+**Rationale:** Personal from name drives higher open rates. Lena is the peer-mom voice, not a brand generic. 
 
 ---
 
@@ -55,50 +54,44 @@ Lena S. — BrightKidCo
 
 Oh Crap stressed you both out. Sticker charts didn't stick. Timer sits became a battle.
 
-*Source: 2-full-email-copy-strategy.md §Welcome E2 L1; MASTER-INGESTION-COMPENDIUM.md §2.2 (verbatim parent language: "Oh Crap stressed us both out" — Quote #131 in 05-customer-language-bank.md)*
-
+*
 ---
 
 ### Failed Methods Recognition
 
-You did everything the books and the internet told you. You set timers. You offered M&Ms. You did the naked weekend — and he held it for eight hours then peed on the rug.
+You did everything the books and the internet told you. You set timers. You offered M&Ms. You did the naked weekend, and held it for eight hours then peed on the rug.
 
 You've tried 1-3 methods so far, and every single one assumed the same thing: that your child can feel when he needs to go.
 
 He can't.
 
-Not because he's stubborn. Not because you're doing it wrong. Because the "I need to pee" signal — that internal body sensation most of us take for granted — doesn't arrive in time for many autistic children.
+Not because he's stubborn. Not because you're doing it wrong. Because the "I need to pee" signal, that internal body sensation most of us take for granted, doesn't arrive in time for many autistic children.
 
-*Source: 2-full-email-copy-strategy.md §Welcome E2 L1; 05-customer-language-bank.md #134 ("We did naked weekends. He just held it for 8 hours then pooped on the rug"); 05-customer-language-bank.md #130 ("We tried the Oh Crap method, sticker charts, candy bribes, timer sits, social stories — nothing worked"); MASTER-INGESTION-COMPENDIUM.md §2.2*
-
+*
 ---
 
 ### Validation
 
 Here's the thing that changes everything: **you didn't fail. The methods did.**
 
-Oh Crap, sticker charts, timer sits — they all share a hidden assumption. They assume your child's nervous system sends the "I need to go" feeling loud and clear, and the only problem is getting him to the potty in time.
+Oh Crap, sticker charts, timer sits, they all share a hidden assumption. They assume your child's nervous system sends the "I need to go" feeling loud and clear, and the only problem is getting him to the potty in time.
 
 But for many autistic children, that signal is delayed or absent entirely. By the time his brain registers the message, it's already happening.
 
 That's not defiance. That's neurology.
 
-*Source: 2-full-email-copy-strategy.md §Welcome E2 L1; 03-science-library.md PP-A01 (Nicholson et al. 2019 — diminished interoceptive accuracy in children with ASD); MASTER-RESEARCH-COMPENDIUM.md §2.1*
-
+*
 ---
 
 ### Mechanism Deep
 
-This is called the **interoception gap** — the space between your child's body sending a signal and his brain receiving it.
+This called the **interoception gap** — the space between your child's body sending a signal and his brain receiving it.
 
-For most kids, that connection fires instantly. Bladder fills → brain registers "full" → body heads to the potty. For your son, the signal takes a detour. It arrives — but milliseconds or minutes too late. That's why timed methods don't work: you can't build awareness with a clock. A timer tells him *when to sit*, but it can't teach his brain *what to feel*.
+The signal arrives, but milliseconds or minutes too late. That's why timed methods don't work: you can't build awareness with a clock. You need a signal — a real, physical cue that his nervous system can recognize before the event.
 
-You need a signal — a real, physical cue that his nervous system can recognize before the event, not after.
+The body-signal underwear creates a gentle sensation that lasts, 30 to 60 seconds of feedback, that bridges that gap.
 
-That's what the Body-Signal Learning Layer™ does. It creates a gentle, sustained sensation — 30 to 60 seconds of feedback — that bridges that interoception gap. Not a timer. Not a bribe. A tactile cue designed for the brain that learns differently.
-
-*Source: 2-full-email-copy-strategy.md §Welcome E2 L1; 04-mechanism-positioning.md §5 ("The interoception gap means your child feels the signal — just too late"); 03-science-library.md PP-A01 (Nicholson et al. 2019 — diminished interoceptive accuracy); 04-mechanism-positioning.md §4.1 (30-60 seconds of sustained "uh-oh" sensation)*
-
+*
 ---
 
 ### Social Proof
@@ -106,18 +99,17 @@ That's what the Body-Signal Learning Layer™ does. It creates a gentle, sustain
 Real parents describe it exactly like this:
 
 > "He says 'I need to pee' AFTER it's already happened."
-> — L1 parent, source: DOC2-LEVEL1.txt
+>, L1 parent, source: DOC2-LEVEL1.txt
 
 > "Some days he's great, other days zero."
-> — L1 parent, source: 05-customer-language-bank.md #97
+>, L1 parent, source: 05-customer-language-bank.md #97
 
 > "Is this interoception or stubbornness? That's the question I kept asking."
-> — L1 parent, source: 05-customer-language-bank.md #145
+>, L1 parent, source: 05-customer-language-bank.md #145
 
-Every mom who's been where you are now will tell you the same thing: once you understand the gap, everything changes. Not because the methods get better — because you finally stop fighting the wrong problem.
+Every mom who's been where you are now will tell you the same thing: once you understand the gap, everything changes. Not because the methods get better, because you finally stop fighting the wrong problem.
 
-*Source: 05-customer-language-bank.md §A1 (Timing Problems), §A10 (Neurodivergent-Specific); autistic-level1-quotes.md §Category 1, §Category 5*
-
+*
 ---
 
 ### Product Introduction
@@ -126,74 +118,75 @@ BrightKidCo underwear is built around one job: **teach the brain to feel the sig
 
 Three layers, each with a purpose:
 
-- **Layer 1 (Cotton Inner):** Gentle, sensory-friendly fabric that creates a soft "uh-oh" sensation — not the instant absorbency of a pull-up that wicks everything away
+- **Layer 1 (Cotton Inner):** Gentle, sensory-friendly fabric that creates a soft "uh-oh" sensation, not the instant absorbency of a pull-up that wicks everything away
 - **Layer 2 (Smart Absorption):** Protects furniture and floors without blocking the learning signal. Enough absorbency for accidents, never enough to let the brain ignore what happened
-- **Layer 3 (Leak-Resistant Barrier):** Outer protection for confident wear — at home, at daycare, in the Pre-K classroom
+- **Layer 3 (Leak-Resistant Barrier):** Outer protection for confident wear, at home, at daycare, in the Pre-K classroom
 
-The 3+3 Bundle gives you 6 pairs — enough for a full rotation of body-signal learning underwear. No more pull-ups that keep your child "too dry to learn." No more soggy cotton training pants that teach nothing.
+The 3+3 Bundle gives you 6 pairs, enough for a full rotation of body-signal learning underwear. No more pull-ups that keep your child "too dry to learn." No more soggy cotton training pants that teach nothing.
 
-*Source: 04-mechanism-positioning.md §4.2 (The 3-Layer Body-Signal Learning System™); MASTER-RESEARCH-COMPENDIUM.md §1.1 ("Pull-ups keep kids completely dry. That's the problem.")*
-
+*
 ---
 
 ### Guarantee
 
 You don't have to believe the science. You just have to try it.
 
-**60 days. By your judgment.** If your child shows no sign of body awareness — no pause, no look, no step toward the potty — full refund. No questions. No forms. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.
+**60 days. By your judgment.** If your child shows no sign of body awareness, no pause, no look, no step toward the potty, full refund. No questions. No forms. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.
 
 And Pre-K is coming. Every week of body-signal learning is a week closer to closing that gap.
 
-*Source: GIULIANO-DEMANDS.md §6 (60-day guarantee); 04-mechanism-positioning.md §9 (Trust Pyramid — 5-Tier Architecture); S2 Cart E3 guarantee language*
-
+*
 ---
 
 ### CTA
 
 **Primary CTA:**
-> **Shop the 3+3 Bundle — $79.99 — Free Shipping**
+> **Shop the 3+3 Bundle, $79.99, Free Shipping**
 
-**CTA Formula:** Action Verb + Benefit (Source: email-cta-conversion-design SOP §5.1)
+**CTA Formula:** Action Verb + Benefit 
 **Button Copy:** See the Body-Signal System in Action
 **Secondary Text Link:** Learn how 6 pairs build the learning rotation
 
-**Placement Strategy:**
-- **CTA 1 (Hero):** Positioned above the fold, immediately after mechanism deep — captures the "aha" moment when the interoception reframe clicks
-- **CTA 2 (Bottom):** Positioned after Guarantee — captures readers who needed the risk removal before committing
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
-**Rationale:** For L1, fast decision-makers (2-7 day window) need a clear, benefit-stated CTA. The 3+3 Bundle at $79.99 is the default offer per S1 pricing rules. Pre-K urgency is implicit in the body but not forced in the CTA. (Source: 1-full-email-strategy.md §Offer Architecture L1; 2-full-email-copy-strategy.md §Welcome E2 L1)
+**Placement Strategy:**
+- **CTA 1 (Hero):** Positioned above the fold, immediately after mechanism deep, captures the "aha" moment when the interoception reframe clicks
+- **CTA 2 (Bottom):** Positioned after Guarantee, captures readers who needed the risk removal before committing
+
+**Rationale:** For L1, fast decision-makers (2-7 day window) need a clear, benefit-stated CTA. The 3+3 Bundle at $79.99 is the default offer per S1 pricing rules. Pre-K urgency is implicit in the body but not forced in the CTA. 
 
 ---
 
+**Next time:** The research behind the body-signal approach — and why 49% of children face this gap.
+
 ## Lena Sign-Off
 
-Thanks for being here. If you have a question, hit reply. You'll get me — not a template, not a bot. I read everything.
+Thanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.
 
 Lena ——
 
-**Variant:** SHORT (E1-E2 variant — Source: 11-brand-voice-reference.md §9; GIULIANO-DEMANDS.md §11.7)
-
-**Rationale:** E1-E2 uses SHORT sign-off to keep momentum. The reply invitation is the most important element — it drives deliverability (positive engagement signal) and builds the peer relationship. (Source: Brand Voice Storytelling SOP §10)
+**Variant:** SHORT (E1-E2 variant, 
+**Rationale:** E1-E2 uses SHORT sign-off to keep momentum. The reply invitation is the most important element, it drives deliverability (positive engagement signal) and builds the peer relationship. 
 
 ---
 
 ## Footer
 
 BrightKidCo LLC
-[Physical Address — TBD per CAN-SPAM compliance]
+[Physical Address, TBD per CAN-SPAM compliance]
 
 No longer want these emails? Unsubscribe or Manage Preferences
 
-Questions? Reply to this email — we read every response.
+Questions? Reply to this email, we read every response.
 
 ---
 
 ## Source Citations
 
 ### Primary Strategy Sources
-- S2 — 2-full-email-copy-strategy.md §Welcome E2 L1 (Hook, Validation, Mechanism Deep, CTA structure, Subject Line)
-- S1 — 1-full-email-strategy.md §4.1/Welcome Flow (section structure, offer rules, Lena sign-off variants, emotional arc)
-- S3 — 3-segmentation-blueprint.md §1.1 (L1 demographic and psychographic markers)
+- S2, 2-full-email-copy-strategy.md §Welcome E2 L1 (Hook, Validation, Mechanism Deep, CTA structure, Subject Line)
+- S1, 1-full-email-strategy.md §4.1/Welcome Flow (section structure, offer rules, Lena sign-off variants, emotional arc)
+- S3, 3-segmentation-blueprint.md §1.1 (L1 demographic and psychographic markers)
 
 ### Compendium Sources
 - MASTER-DIAGNOSIS-COMPENDIUM.md §1.3 (avatar level profiles, emotional phases)
@@ -203,8 +196,8 @@ Questions? Reply to this email — we read every response.
 
 ### Synthesis Sources
 - 01-customer-avatar.md §3.2 (L1 profile, decision speed, conversion rates, forbidden language)
-- 03-science-library.md PP-A01 (Nicholson et al. 2019 — core interoception deficit), PP-A02 (Iqbal 2022 — 59% can't signal)
-- 04-mechanism-positioning.md §4.1-4.2 (BSL™ 3-layer system), §5 (interoception gap reframe)
+- 03-science-library.md PP-A01 (Nicholson et al. 2019, core body signal gap), PP-A02 (Iqbal 2022, 59% can't signal)
+- 04-mechanism-positioning.md §4.1-4.2 (BSL 3-layer system), §5 (interoception gap reframe)
 - 05-customer-language-bank.md §A1 (Timing Problem quotes #1-12), §A7 (Hope/Win quotes #97-110), §A10 (Neurodivergent-specific #143-154), §B1 (L1 Language Use Map)
 - 11-brand-voice-reference.md §1.1 (Lena identity), §9 (sign-off variants), §13 (hope/realism ratios)
 
@@ -228,50 +221,48 @@ Questions? Reply to this email — we read every response.
 
 ## The Big Idea
 
-**"The Aha That Changes Everything"** — A visual metaphor of a puzzle piece finally snapping into place, rendered as a neurological signal traveling from bladder to brain across a soft, glowing arc. The image shows a gentle, warm light bridging a gap — not a clinical diagram, but a felt moment of realization. The parent sees the interoception gap visualized as something surmountable, not scary. The tagline: "You didn't fail. The method did." sits beneath, anchoring the moment in validation.
+**"The Aha That Changes Everything"**, A visual metaphor of a puzzle piece finally snapping into place, rendered as a neurological signal traveling from bladder to brain across a soft, glowing arc. The image shows a gentle, warm light bridging a gap, not a clinical diagram, but a felt moment of realization. The parent sees the interoception gap visualized as something surmountable, not scary. The tagline: "You didn't fail. The method did." sits beneath, anchoring the moment in validation.
 
-*Creative rationale: The E2 reframe is the emotional hinge of the Welcome Flow. E1 validated the problem. E2 is where the mechanism "clicks." The Big Idea must capture that click — visually showing the moment a parent realizes their child isn't stubborn, their nervous system is just processing differently. (Source: consolidated-design-skills-trimmed.md — impeccable design laws §Color, §Layout; Concept: "Signal Bridge" metaphor from 04-mechanism-positioning.md §5)*
+*Creative rationale: The E2 reframe is the emotional hinge of the Welcome Flow. E1 validated the problem. E2 is where the mechanism "clicks." The Big Idea must capture that click, visually showing the moment a parent realizes their child isn't stubborn, their nervous system is just processing differently. *
 
 ---
 
 ## Layout Architecture
 
-**Emotional Tunnel — Asymmetric Two-Column → Single-Column Collapse**
+**Emotional Tunnel, Asymmetric Two-Column → Single-Column Collapse**
 
 | Section | Layout | Rationale |
 |---------|--------|-----------|
 | **Hero (Above Fold)** | Asymmetric split: 40% left (text) / 60% right (illustration of signal bridge) | The visual hook catches the eye; the text anchors the meaning. On mobile, stacks vertically: illustration top, text below |
-| **Failed Methods Recognition** | Full-width textured band (soft warm tone) — single column, generous left/right padding | Creates a visual "pause" — the reader slows down to absorb the validation. The textured block signals: "this is the important part" |
+| **Failed Methods Recognition** | Full-width textured band (soft warm tone) — single column, generous left/right padding | Creates a visual "pause" — the reader slows down to absorb the validation. The textured block signals: "this the important part" |
 | **Mechanism Deep** | Single column with a floating callout box offset to the right — "The Interoception Gap" callout uses a soft border pull-quote style | The mechanism is the centerpiece. The callout draws the eye and creates a distinct "anchor" for the key concept |
 | **Social Proof** | Horizontal scrollable testimonial cards (3 cards visible on desktop, 1.5 on mobile) | Real quotes need space to breathe. The scroll action creates engagement and mirrors the "digital native" experience |
 | **Product — CTA** | Full-width inverted band (brand accent background, white text) — centered layout, single focus | Maximum visual contrast for the conversion moment. No distractions. The L1 urgency cue sits subtly as a micro-text above the button: "Pre-K prep starts here" |
 | **Footer** | Condensed single column, reduced type size, muted neutral | Standard CAN-SPAM compliance. Visually recedes — the email's work is done |
 
-*Source: consolidated-design-skills-trimmed.md — impeccable design laws §Layout; email-design-master patterns; email-cta-conversion-design §7 (The Value Ladder pattern / Narrative Arc pattern)*
-
+*
 ---
 
 ## Custom Illustration / Contraption
 
-**The Signal Bridge — A 3-Frame Micro-Illustration**
+**The Signal Bridge, A 3-Frame Micro-Illustration**
 
-A custom illustration unique to BrightKidCo's Welcome Flow, appearing in the hero section:
+A custom illustration unique to BrightKidCo's Welcome Flow, appearing in thero section:
 
 **Frame 1 (Problem):** A small, soft geometric child silhouette stands left of a dashed gap line. A faint, fragmented signal line starts at the bladder area but dissolves into dots before crossing the gap.
 
-**Frame 2 (Reframe):** The gap is now labeled "Interoception Gap" in a soft, rounded label. The signal dots still scatter — this is the "delayed or absent" visual.
+**Frame 2 (Reframe):** The gap is now labeled "Interoception Gap" in a soft, rounded label. The signal dots still scatter, this the "delayed or absent" visual.
 
-**Frame 3 (Solution Tease / Bridge):** A warm golden arc bridges the gap — not clinical or sci-fi, but organic, like a gentle current of light. The 3-layer system is suggested as three subtle bands within the bridge.
+**Frame 3 (Solution Tease / Bridge):** A warm golden arc bridges the gap, not clinical or sci-fi, but organic, like a gentle current of light. The 3-layer system is suggested as three subtle bands within the bridge.
 
 **Contraption Design Rules:**
-- Line weights: 2px-3px, never thin or scratchy — confidence over precision
-- Color palette limited to Warm Sand (#E8D5C4), Soft Coral (#E8826A), and Deep Navy (#1B2D45) — no gradients, no glow effects
-- Child silhouette is intentionally abstract — no face, no features — to allow every parent to project their own child
-- Illustration style: "genuine hand-drawn digital" — small uneven line weights, no perfect curves, human warmth
+- Line weights: 2px-3px, never thin or scratchy, confidence over precision
+- Color palette limited to Warm Sand (#E8D5C4), Soft Coral (#E8826A), and Deep Navy (#1B2D45), no gradients, no glow effects
+- Child silhouette is intentionally abstract, no face, no features, to allow every parent to project their own child
+- Illustration style: "genuine hand-drawn digital", small uneven line weights, no perfect curves, human warmth
 - Rendered as a single SVG with responsive breakpoints (desktop: horizontal, mobile: stacked vertical)
 
-*Source: consolidated-design-skills-trimmed.md — huashu-design §Core Philosophy (anti-AI slop, honest placeholders, brand-specific illustrations); email-design-standards-and-template-build — custom illustration guidelines; 04-mechanism-positioning.md §5 (visual positioning architecture)*
-
+*
 ---
 
 ## Color Narrative
@@ -288,9 +279,9 @@ A custom illustration unique to BrightKidCo's Welcome Flow, appearing in the her
 | **Accent — Urgency Cue** | Bright coral micro-text | `#E06B52` (bright coral) | "Pre-K prep starts here" — the one color pop that signals time-sensitivity without fear-mongering |
 | **Body Type Color** | Soft charcoal | `#3D322C` | Readable but warmer than pure black. Tinted toward the brand's warm hue (chroma ~0.008) |
 
-**Color Rule Applied:** "Pick a color strategy before picking colors." This email uses a **Committed** palette — one saturated color (Soft Coral `#E8826A`) carries ~30% of visual weight through the mechanism callout and accent elements. The Deep Navy provides grounding contrast. No gradient text, no glassmorphism. (Source: consolidated-design-skills-trimmed.md — impeccable §Color; GIULIANO-DEMANDS.md §10.2)
+**Color Rule Applied:** "Pick a color strategy before picking colors." This email uses a **Committed** palette, one saturated color (Soft Coral `#E8826A`) carries ~30% of visual weight through the mechanism callout and accent elements. The Deep Navy provides grounding contrast. No gradient text, no glassmorphism. 
 
-**Brightness Calibration for L1:** Compared to L2 and L3 variants, accent colors are +15% saturation and the CTA band uses deeper contrast. L1 subscribers respond to brighter, warmer tones that signal energy and forward movement. (Source: S1 Full Email Strategy §Level Calibration)
+**Brightness Calibration for L1:** Compared to L2 and L3 variants, accent colors are +15% saturation and the CTA band uses deeper contrast. L1 subscribers respond to brighter, warmer tones that signal energy and forward movement. 
 
 ---
 
@@ -309,12 +300,11 @@ A custom illustration unique to BrightKidCo's Welcome Flow, appearing in the her
 **Typography Rules Applied:**
 - Body line length capped at 72 characters per line
 - Scale ratio between steps: ≥1.25 (H1 → H3: 32/20 = 1.6 ✓)
-- No Inter, Roboto, or Arial — Plus Jakarta Sans + Source Serif 4 provide premium differentiation
-- Only ONE font weight per role — no mixing 400 and 500 in body copy
+- No Inter, Roboto, or Arial, Plus Jakarta Sans + Source Serif 4 provide premium differentiation
+- Only ONE font weight per role, no mixing 400 and 500 in body copy
 - Mobile body minimum: 16px (Apple HIG guideline)
 
-*Source: consolidated-design-skills-trimmed.md — impeccable §Typography, high-end-visual-design §Absolute Zero Directive; email-design-standards-and-template-build*
-
+*
 ---
 
 ## Decorative Furniture
@@ -328,7 +318,7 @@ A custom illustration unique to BrightKidCo's Welcome Flow, appearing in the her
 | **CTA Button** | 48px height, 14px top/bottom padding, 36px left/right padding, 6px border-radius, no outline variant | Full-width on mobile (44px minimum tap target), centered auto-width on desktop. Deep Navy `#1B2D45` fill, white text |
 | **Footer Divider** | Same as section divider but thinner: 1px `#E2D5CA`, centered, 30px margins | Clear visual separation between content and legal. The "work is done" marker |
 
-**Rule Applied:** No side-stripe borders greater than 1px. No glassmorphism. No gradient backgrounds. Every decorative element has a defined emotional function. (Source: consolidated-design-skills-trimmed.md — impeccable §Absolute Bans)
+**Rule Applied:** No side-stripe borders greater than 1px. No glassmorphism. No gradient backgrounds. Every decorative element has a defined emotional function. 
 
 ---
 
@@ -336,14 +326,13 @@ A custom illustration unique to BrightKidCo's Welcome Flow, appearing in the her
 
 **The "Interoception Gap" Callout Hand-Drawn Detail**
 
-Within the Mechanism Deep section callout, the letter "g" in "Interoception Gap" uses a subtle typographic flourish — the descender of the "g" extends slightly below baseline and curls into a tiny, delicate arrow that curves back upward toward the body text above.
+Within the Mechanism Deep section callout, the letter "g" in "Interoception Gap" uses a subtle typographic flourish, the descender of the "g" extends slightly below baseline and curls into a tiny, delicate arrow that curves back upward toward the body text above.
 
-**Meaning:** The arrow visually represents "the signal coming back" — the interoception loop completing. It's intentional, barely noticeable on first read, but creates a "aha" moment for the careful reader on the second pass.
+**Meaning:** The arrow visually represents "the signal coming back", the interoception loop completing. It's intentional, barely noticeable on first read, but creates a "aha" moment for the careful reader on the second pass.
 
-**Level Calibration for L1:** The Easter Egg is a typographic detail — subtle enough for Sarah (who is still reading carefully, hope-intact, 2-7 day decision window) to notice on her second read-through. For L2, the Easter Egg would be more hidden (a microscopic sensory detail). For L3, it would be absent entirely (dignity-first, no gamification perceived as flippant). The L1 variant invites discovery without demanding it.
+**Level Calibration for L1:** The Easter Egg is a typographic detail, subtle enough for Sarah (who is still reading carefully, hope-intact, 2-7 day decision window) to notice on her second read-through. For L2, the Easter Egg would be more hidden (a microscopic sensory detail). For L3, it would be absent entirely (dignity-first, no gamification perceived as flippant). The L1 variant invites discovery without demanding it.
 
-*Source: consolidated-design-skills-trimmed.md — impeccable §Design Laws (details that earn their place); huashu-design §Core Philosophy: "One detail done to 120%, others to 80%"; Anti-AI Slop: intentional detail over algorithmic default*
-
+*
 ---
 
 ## Motion / Animation
@@ -359,10 +348,9 @@ Within the Mechanism Deep section callout, the letter "g" in "Interoception Gap"
 | **Countdown / Urgency** | Not used in this email | E2 is the reframe email — not a deadline push. Urgency enters subtly through body copy ("Pre-K is coming"), not through visual countdown widgets. E1-E4 sequence reserves visual urgency for E4+ |
 | **Footer Social Icons** | Static PNG/JPEG fallback | SVG support in email is improving but still inconsistent. Prefer PNG at 2x resolution for social icons in the footer |
 
-**Motion Philosophy for BrightKidCo:** Stillness communicates confidence. In a market where competitors use frantic "FLASH SALE" animated banners, BrightKidCo's email design moves deliberately — or not at all. The motion is in the reading rhythm created by layout, spacing, and typographic contrast, not in CSS transitions or GIF loops.
+**Motion Philosophy for BrightKidCo:** Stillness communicates confidence. In a market where competitors use frantic "FLASH SALE" animated banners, BrightKidCo's email design moves deliberately, or not at all. The motion is in the reading rhythm created by layout, spacing, and typographic contrast, not in CSS transitions or GIF loops.
 
-*Source: consolidated-design-skills-trimmed.md — impeccable §Motion; email-design-master §Animation Limitations in Email; email-cta-conversion-design §9.4 (Countdown CTA — noted as optional/static image only)*
-
+*
 ---
 
 ## Level Calibration (Visual)
@@ -381,9 +369,8 @@ Within the Mechanism Deep section callout, the letter "g" in "Interoception Gap"
 | **Decorative Density** | Moderate — bullets, callout boxes, dividers, card borders | Low — fewer decorative elements, more whitespace | Minimal — almost no decorative furniture. Text-forward. Border-radius only on CTA |
 | **Easter Egg** | Present — typographic flourish on "Interoception Gap" | Present but more hidden — micro detail in illustration linework | Absent — dignity-first, no Easter eggs perceived as playful in a high-stakes context |
 
-*Source: GIULIANO-DEMANDS.md §1 (L1: Pre-K driven, urgency OK, 70/30 hope), §8 (level-specific visual tone); S1 Full Email Strategy §5 (Flow-by-Avatar-Level Matrix); S3 Segmentation Blueprint §1.1 (L1 psychographic markers); consolidated-design-skills-trimmed.md — immutable patterns for email design*
-
+*
 ---
 
-**End of Document — Welcome Flow E2 | Level 1 — Sarah**
-**BrightKidCo — Built for the brain that learns differently.**
+**End of Document, Welcome Flow E2 | Level 1, Sarah**
+**BrightKidCo, Built for the brain that learns differently.**

@@ -1,7 +1,6 @@
 # Replenish C — Email 1 (E1) — Cross-Level
 > Flow 17 of 25 | Phase 2 | Trigger: D150 post-purchase (buyer_5plus5)
-> Copy Strategy Source: 2-full-email-copy-strategy.md §1.14 (Flow 17)
-> Cross-Level Calibration: R1-R6 applied throughout
+> Copy Strategy > Cross-Level Calibration: R1-R6 applied throughout
 
 ---
 
@@ -26,7 +25,7 @@
 
 ## SUBJECT LINE (under 50 chars)
 
-**Time to refresh the rotation?** (28 characters — Observation hook)
+**Time to refresh the rotation?** (28 characters, Observation hook)
 
 *Fallback preview:* Your 5+5 has been working hard. 150 days of consistent wear breaks down elastic and weakens the Body-Signal Learning Layer. A fresh set keeps the signal strong.
 
@@ -36,83 +35,76 @@
 
 ### Opener — Universal Recognition (R1, R3, R4)
 
-Whether you've seen your child pause, look down, and walk to the bathroom — or you're still waiting for that first signal — if the 5+5 bundle has been part of your routine for the last 5 months, this is worth a read.
+Whether you've seen your child pause, look down, and walk to the bathroom, or you're still waiting for that first signal, if the 5+5 bundle has been part of your routine for the last 5 months, this worth a read.
 
-Your 5+5 has been through a lot. Daily wear. Machine washes. Body heat. That gentle "uh-oh" sensation your child's nervous system has been learning from has been working — every single day.
+Your 5+5 has been through a lot. Daily wear. Machine washes. Body heat. That gentle "uh-oh" sensation your child's nervous system has been learning from has been working, every single day.
 
 ### Section 2 — Recognition Anchors (R2: 3-5 anchors)
 
 At 5 months in, you've probably seen one of these:
 
-— Your child pauses mid-play and looks down. That pause didn't happen before.
-— They pull at their pants or show you with a gesture when they notice.
-— They've walked toward the bathroom — even if the timing isn't perfect yet.
-— They tolerate sitting on the toilet without a meltdown.
-— You're still waiting, and that's a real outcome too.
+, Your child pauses mid-play and looks down. That pause didn't happen before.
+, They pull at their pants or show you with a gesture when they notice.
+, They've walked toward the bathroom, even if the timing isn't perfect yet.
+, They tolerate sitting on the toilet without a meltdown.
+, You're still waiting, and that's a real outcome too.
 
-> *Source: Layer-18-Cross-Level-Calibration.md §Part 2 (R2 — 3-5 Recognition Anchors)*
-
-**R5 applied:** Every timeline is different. Some kids show awareness in 2-4 weeks. For others, the first signal takes 8-12 weeks. At 150 days, you have real data — and that's valuable regardless of where you are on that curve.
+> *
+**R5 applied:** Every timeline is different. Some kids show awareness in 2-4 weeks. For others, the first signal takes 8-12 weeks. At 150 days, you have real data, and that's valuable regardless of where you are on that curve.
 
 ### Section 3 — What Changes at 5 Months
 
-Here's something most parents don't think about until it matters: the Body-Signal Learning Layer isn't magic — it's physics + neurology working together. The cotton inner layer creates the signal. The smart absorption layer protects without blocking it. The outer barrier keeps it leak-resistant.
+Here's something most parents don't think about until it matters: the Body-Signal Learning Layer isn't magic, it's physics + neurology working together. The cotton inner layer creates the signal. The smart absorption layer protects without blocking it. The outer barrier keeps it leak-resistant.
 
 After 5 months of consistent wear, 150+ washes: the fabric relaxes. The elastic loses tension. The signal-creation layer isn't as crisp as it was on Day 1.
 
-That doesn't mean it stopped working. It means the learning layer your child's nervous system has been building a relationship with — it's earned a refresh.
+That doesn't mean it stopped working. It means the learning layer your child's nervous system has been building a relationship with, it's earned a refresh.
 
-> *Source: 2-full-email-copy-strategy.md §1.14 (Flow 17 — Replenish C: "Gift purchase or different product")*
-> *Source: MASTER-INGESTION-COMPENDIUM.md §Product Notes — 3-layer system mechanics*
-
+> *> *
 ### Section 4 — Product & Offer (No Urgency)
 
 A fresh 5+5 bundle means:
 
-— Crisp elastic for a clean fit
-— Full-strength Body-Signal Learning Layer response
-— New designs, same signal
-— Enough rotation to keep laundry manageable (10 pairs minimum for consistent learning)
+, Crisp elastic for a clean fit
+, Full-strength Body-Signal Learning Layer response
+, New designs, same signal
+, Enough rotation to keep laundry manageable (10 pairs minimum for consistent learning)
 
-Or — if your child has graduated sizes or your journey has changed — a smaller pack might be what works now. Or a gift for another family navigating the same path. Whatever fits where you are.
+Or, if your child has graduated sizes or your journey has changed, a smaller pack might be what works now. Or a gift for another family navigating the same path. Whatever fits where you are.
 
-> *Source: 1-full-email-strategy.md §13 Offer Architecture — 5+5 Bundle ($119.99) as base offer for buyer_5plus5*
-
+> *
 ### Section 5 — Three-Family Testimonial Pattern (GF Inclusion)
 
-**R6 applied — Mini-wins as success metrics:**
+**R6 applied, Mini-wins as success metrics:**
 
-Three different families. Three different kids. One common thread — the 150-day mark.
+Three different families. Three different kids. One common thread, the 150-day mark.
 
-> *L1 (Sarah-type):* "He told me when he had to go for the first time last week. It took 4 months, but he said 'potty.' I cried. I reordered that same day." — BrightKidCo parent review (internal)
-> — *Source: 01-customer-avatar.md §11.7 (L1 — "He says 'I need to pee' AFTER it's already happened")*
-
-> *L2 (Lisa-type):* "We tried the BCBA protocols for 2 years. Nothing clicked until we added the Body-Signal layers. She started pausing at Week 6. By Month 5, she was initiating twice a week. Those aren't big numbers to most people — they're huge for us." — BrightKidCo parent
-> — *Source: MASTER-INGESTION-COMPENDIUM.md §2.3 (L2 — "I've tried everything from the BCBA's protocol to OT sensory work")*
-
-> *L3 (Maria-type):* "He's not trained. But at 5 months, he felt something for the first time and looked down. That had literally never happened in 9 years. 150 days in, and the signal is getting through." — BrightKidCo parent
-> — *Source: 01-customer-avatar.md §11.7 (L3 — "He looked down at the wet spot for the first time in 9 years")*
-
+> *L1 (Sarah-type):* "He told me when he had to go for the first time last week. It took 4 months, but he said 'potty.' I cried. I reordered that same day.", BrightKidCo parent review (internal)
+>, *
+> *L2 (Lisa-type):* "We tried the BCBA protocols for 2 years. Nothing clicked until we added the Body-Signal layers. She started pausing at Week 6. By Month 5, she was initiating twice a week. Those aren't big numbers to most people, they're huge for us.", BrightKidCo parent
+>, *
+> *L3 (Maria-type):* "He's not trained. But at 5 months, he felt something for the first time and looked down. That had literally never happened in 9 years. 150 days in, and the signal is getting through.", BrightKidCo parent
+>, *
 ### Section 6 — CTA (Universal Permission — R1-R6 verified)
 
 **CTA Button:** See the refreshed 5+5 →
 
 **Secondary option:** Explore single pairs & accessories →
 
-**Permission framing (for L2/L3/GF):** If the 5+5 still fits your routine, a fresh set keeps the signal strong. If you're not sure what you need — reply to this email and I'll help you figure it out. No pressure either way.
+**Permission framing (for L2/L3/GF):** If the 5+5 still fits your routine, a fresh set keeps the signal strong. If you're not sure what you need, reply to this email and I'll help you figure it out. No pressure either way.
 
-> *Source: 2-full-email-copy-strategy.md §1.14 — "Gift purchase or different product"*
-> *Source: 1-full-email-strategy.md §6 — R1-R6 cross-level rules*
+> *> *
 
 ---
+
+**Next time:** The final milestone — what 6 months of body-signal learning means for the long run.
 
 ## LENA SIGN-OFF (Short — Email 1 of Flow)
 
 **Talk soon,**
 **Lena**
 Customer Support · Mom of two autistic sons
-
-P.S. My older son was 8 before his body signals started connecting. 150 days is a milestone — wherever you are in the journey, that's real time invested. If you're thinking about reordering, the 60-day guarantee applies to every purchase. [Link]
+P.S. My older son was 8 before his body signals started connecting. 150 days is a milestone, wherever you are in the journey, that's real time invested. If you're thinking about reordering, the 60-day guarantee applies to every purchase. [Link]
 
 ---
 
@@ -152,9 +144,9 @@ Built for the brain that learns differently.
 
 ## BIG IDEA
 
-**"The Long Haul — 150 Days of Body-Signal Learning"**
+**"The Long Haul, 150 Days of Body-Signal Learning"**
 
-This email marks a meaningful milestone: 150 days (5 months) since the customer invested in the 5+5 bundle. The core creative concept is a celebration of sustained effort — not of "success" or "being trained," but of time invested in a process that works differently for every child. The creative direction is warm, grounded, and milestone-oriented. We're not selling urgency. We're acknowledging consistency and offering a natural next step.
+This email marks a meaningful milestone: 150 days (5 months) since the customer invested in the 5+5 bundle. The core creative concept is a celebration of sustained effort, not of "success" or "being trained," but of time invested in a process that works differently for every child. The creative direction is warm, grounded, and milestone-oriented. We're not selling urgency. We're acknowledging consistency and offering a natural next step.
 
 **Creative Tagline:** *150 days. Every wash, every wear, every signal.*
 **Emotional Anchor:** Mild pride (for progress made) + Practical nudge (for what's needed next)
@@ -174,19 +166,18 @@ This email marks a meaningful milestone: 150 days (5 months) since the customer 
 | **Footer** | Standard legal + profile line |
 | **Design Vibe** | "Journal entry" — textural, warm, unpolished in a deliberate way. Not glossy. Not corporate. A handwritten-looking 150 tally mark element woven into the background. |
 
-> *Source: consolidated-design-skills-trimmed.md (email-design-master and email-design-standards-and-template-build)*
-
+> *
 ---
 
 ## CONTRAPTION
 
 **The "150-Day Line" Contraption**
 
-The hero visual is a single horizontal line that runs across the top third of the email, annotated with 5 evenly-spaced milestone dots:
+Thero visual is a single horizontal line that runs across the top third of the email, annotated with 5 evenly-spaced milestone dots:
 
 ```
 Day 1 ●───────●───────●───────●───────● Day 150
-        30      60      90      120
+ 30 60 90 120
 ```
 
 Each dot is a subtle circular icon:
@@ -194,18 +185,17 @@ Each dot is a subtle circular icon:
 - **Day 60:** Medium circle (first wash cycle complete)
 - **Day 90:** Medium-large (first signal or gesture observed)
 - **Day 120:** Larger (routine established)
-- **Day 150:** Star-burst dot (milestone — you're here)
+- **Day 150:** Star-burst dot (milestone, you're here)
 
 Below the line, a single sentence in Lena's voice: *"150 days of showing up. That's real commitment."*
 
 This contraption works cross-level because:
-- R1: No level labels — just time and milestones
-- R3: Ageless — appropriate for 3-year-olds and 10-year-olds
-- R6: Mini-wins at every dot — "first wash" is as valid as "first signal"
-- R4: Silent — communicates through line art, no verbal prerequisite
+- R1: No level labels, just time and milestones
+- R3: Ageless, appropriate for 3-year-olds and 10-year-olds
+- R6: Mini-wins at every dot, "first wash" is as valid as "first signal"
+- R4: Silent, communicates through line art, no verbal prerequisite
 
-> *Source: email-design-standards-and-template-build.md §Contraption Reference*
-
+> *
 ---
 
 ## COLOR
@@ -224,8 +214,7 @@ This contraption works cross-level because:
 | **CTA Button** | #C4956A | Same amber as milestone dot — continuity |
 | **Line/Tally Marks** | #E5DDD3 | Subtle texture, barely visible |
 
-> *Source: 11-brand-voice-reference.md §14 Visual Brand Standards*
-
+> *
 ---
 
 ## TYPOGRAPHY
@@ -243,10 +232,9 @@ This contraption works cross-level because:
 | **Lena Sign-Off** | Georgia (italic) | 16px | 400 | Consistent voice mark |
 | **Footer** | System sans-serif | 11px | 400 | Standard legal size |
 
-**Line Height:** 1.6 for body text (accessibility standard). R6 compliant — easy to scan for overwhelmed parents.
+**Line Height:** 1.6 for body text (accessibility standard). R6 compliant, easy to scan for overwhelmed parents.
 
-> *Source: consolidated-design-skills-trimmed.md (email-design-standards-and-template-build §Typography)*
-
+> *
 ---
 
 ## FURNITURE (Design Elements)
@@ -260,22 +248,20 @@ This contraption works cross-level because:
 | **Signature Block** | Lena's name handwritten in a natural signature-like rendering (if email client supports) or in italic Georgia | Personal sign-off, not template |
 | **Washi-Tape Accent** | A subtle thin rectangular element at the top mimicking a piece of decorative masking tape holding the "150 days" graphic | Journal/scrapbook aesthetic — warm, tactile, non-corporate |
 
-> *Source: email-design-standards-and-template-build.md §Furniture*
-
+> *
 ---
 
 ## EASTER EGG
 
 **The "150 Days" Counter Secret**
 
-Embedded in the tally mark background texture is a subtle hidden pattern: the tally marks are grouped in sets of 5 (standard tally notation). Every 25th tally (group 5) is slightly darker — visible only on close inspection. The total = 150. Parents who notice it get a small "I see what you did there" moment.
+Embedded in the tally mark background texture is a subtle hidden pattern: the tally marks are grouped in sets of 5 (standard tally notation). Every 25th tally (group 5) is slightly darker, visible only on close inspection. The total = 150. Parents who notice it get a small "I see what you did there" moment.
 
-If coding in HTML, a `:hover` or tap on the hero area reveals a tiny line in Lena's voice: *"Took me a while to notice too."*
+If coding in HTML, a `:hover` or tap on thero area reveals a tiny line in Lena's voice: *"Took me a while to notice too."*
 
-**Why this works cross-level:** It's purely visual — no verbal requirement (R4). It's age-neutral (R3). It rewards attention without punishing non-noticing. And it aligns with the "journey" framing of R6 — small rewards for showing up consistently.
+**Why this works cross-level:** It's purely visual, no verbal requirement (R4). It's age-neutral (R3). It rewards attention without punishing non-noticing. And it aligns with the "journey" framing of R6, small rewards for showing up consistently.
 
-> *Source: email-design-standards-and-template-build.md §Easter Egg / Playfulness*
-
+> *
 ---
 
 ## MOTION (if animated HTML email)
@@ -289,12 +275,11 @@ If coding in HTML, a `:hover` or tap on the hero area reveals a tiny line in Len
 | **CTA Button** | Subtle pulse (scale 1.0 to 1.02) | 2s loop, ease-in-out | After page load + 3s delay |
 | **Tally Marks** | No animation (background texture stays static) | — | — |
 
-**Motion philosophy:** "Restrained warmth." Not flashy. Not product-launch energy. The animations should feel like turning a journal page — gentle, natural, unhurried. No bounce, no zoom, no slide-from-below. Just soft reveal.
+**Motion philosophy:** "Restrained warmth." Not flashy. Not product-launch energy. The animations should feel like turning a journal page, gentle, natural, unhurried. No bounce, no zoom, no slide-from-below. Just soft reveal.
 
 **Fallback for plain-text / limited clients:** Everything is readable and complete without animation. Motion is enhancement, not requirement.
 
-> *Source: email-design-standards-and-template-build.md §Motion Principles*
-
+> *
 ---
 
 ## LEVEL CALIBRATION (R1-R6 Audit)
@@ -314,7 +299,7 @@ Five specific situations in the recognition anchor block:
 2. Pull at pants or gesture when noticing
 3. Walk toward the bathroom (even after)
 4. Tolerate sitting without meltdown
-5. Still waiting — real outcome
+5. Still waiting, real outcome
 
 ### R3 — Age Ranges Over Fixed Ages ✅
 
@@ -356,7 +341,7 @@ Success defined as mini-wins across all Three-Family stories. L3 story explicitl
 
 ### Additional Cross-Level Patterns
 
-**"Whether...Or...If..." Pattern:** Applied in opener — "Whether you've seen your child pause... or you're still waiting..." → Inclusive framing that embraces both high-progress and low-progress families.
+**"Whether...Or...If..." Pattern:** Applied in opener, "Whether you've seen your child pause... or you're still waiting..." → Inclusive framing that embraces both high-progress and low-progress families.
 
 **Three-Family Testimonial Pattern:** One testimonial per level (L1/L2/L3) in the testimonial section, each with a realistic mini-win at the 150-day mark. GF reader self-identifies with whichever story fits.
 
@@ -368,10 +353,7 @@ Success defined as mini-wins across all Three-Family stories. L3 story explicitl
 - No heavy resignation language
 - No level labels in copy
 
-> *Source: Layer-18-Cross-Level-Calibration.md Part 2 (R1-R6) + Part 3 (Whether/Or/If Pattern) + Part 5 (Forbidden Patterns)*
-> *Source: 1-full-email-strategy.md §6 Cross-Level Calibration Rules*
-> *Source: GIULIANO-DEMANDS.md §4 — R1-R6 origin*
-
+> *> *> *
 ---
 
-*End of file — Replenish C E1 (Flow 17, Email 1) — Cross-Level*
+*End of file, Replenish C E1 (Flow 17, Email 1), Cross-Level*

@@ -4,9 +4,9 @@
 > **Flow:** Replenishment C (5+5 Bundle Buyers)
 > **Email Position:** E2
 > **Send Day:** D165 (15 days after E1 at D150)
-> **Audience:** All subscribers who purchased the 5+5 bundle — cross-level (L1, L2, L3, GF)
+> **Audience:** All subscribers who purchased the 5+5 bundle, cross-level (L1, L2, L3, GF)
 > **Purpose:** Reorder reminder with gift/different product suggestion. Celebrate 150+ days of body-signal learning. Suggest new sizes, replacements, or gift purchases for another parent.
-> **Stage:** Lifecycle — Replenishment
+> **Stage:** Lifecycle, Replenishment
 > **Voice:** Lena S., Customer Support, Mom of two autistic sons
 
 ---
@@ -32,72 +32,67 @@
 
 ## SUBJECT LINE
 
-**"150 days in — what's next?"**
+**"150 days in, what's next?"**
 
 - Character count: 28 ✓ (under 50)
 - Type: Observation hook (Lifecycle stage)
 - Works cross-level: no label, no fixed age, no verbal-only assumption, no fixed timeline promise
-- Source: Layer-17 Tonality Calibration §7, Lifecycle openers
-
+- 
 ---
 
 ## PREVIEW TEXT
 
-**"Whether you're seeing progress or still in the middle — here's what comes after 5+ months of body-signal learning."**
+**"Whether you're seeing progress or still in the middle, here's what comes after 5+ months of body-signal learning."**
 
 - Character count: 119
-- Source: Layer-18 Cross-Level Calibration §Part 3 — "Whether...Or...If..." pattern
-
+- 
 ---
 
 ## BODY
 
 ### Section 1: Hook — Observation + Recognition Anchors (R2)
 
-Whether you've been at this for 150 days and seeing real change, or you're still waiting for that first pause — you've been at this long enough to know what your child needs next.
+Whether you've been at this for 150 days and seeing real change, or you're still waiting for that first pause, you've been at this long enough to know what your child needs next.
 
 If your child has been wearing Body-Signal Learning underwear daily for 5+ months, you might have noticed some of these:
 
-— They pause before an accident. Just for a second. But that second didn't used to exist.
-— They pull at their pants when something feels different.
-— They can tell you — or show you — when they're wet.
-— The 5+ pairs you rotate through are starting to show real wear from all those washes.
+, They pause before an accident. Just for a second. But that second didn't used to exist.
+, They pull at their pants when something feels different.
+, They can tell you, or show you, when they're wet.
+, The 5+ pairs you rotate through are starting to show real wear from all those washes.
 
 Even one of those is more than you had 150 days ago.
 
-*(Scope: R1 — symptom language, no level labels. R2 — 4 recognition anchors covering L1 pause, L2 pull/pause, R4 verbal+non-verbal, R6 low-bar wins. R3 — no fixed age. Source: Layer-18 §Part 2, Rules 2, 4, 6)*
-
+*(Scope: R1, symptom language, no level labels. R2, 4 recognition anchors covering L1 pause, L2 pull/pause, R4 verbal+non-verbal, R6 low-bar wins. R3, no fixed age. 
 ---
 
 ### Section 2: Validation + Progress Acknowledgment
 
-Five months is a long time to stay consistent with anything — especially when the results don't follow a straight line.
+Five months is a long time to stay consistent with anything, especially when the results don't follow a straight line.
 
-Some kids in the BrightKidCo community started showing awareness in 2 weeks. Others took 3 months before their first pause. Some still have accidents every day — but they feel them now. That's not nothing.
+Some kids in the BrightKidCo community started showing awareness in 2 weeks. Others took 3 months before their first pause. Some still have accidents every day, but they feel them now. That's nothing.
 
-Wherever your child is on that curve, here's what's true: you've been doing the work. The 5+5 bundle has been supporting that work through half a year of wear, wash, repeat. And if the underwear is showing its age, that's actually a good sign—it means they've been worn. A lot.
+Wherever your child is on that curve, here's what's true: you've been doing the work. The 5+5 bundle has been supporting that work through half a year of wear, wash, repeat. And if the underwear is showing its age, that's actually a good sign, it means they've been worn. A lot.
 
-*(Scope: R5 — timeline flexibility "2 weeks to 3+ months." R6 — low-bar wins celebrated. R1 — no labels. Source: Layer-17 §6, Post-Purchase Mid tonality; Layer-18 §Part 2, Rules 5-6)*
-
+*(Scope: R5, timeline flexibility "2 weeks to 3+ months." R6, low-bar wins celebrated. R1, no labels. 
 ---
 
 ### Section 3: Three-Family Testimonial Pattern (GF Inclusion)
 
-Three parents, three different kids, one thing in common — they bought the 5+5 bundle 5 months ago:
+Three parents, three different kids, one thing in common, they bought the 5+5 bundle 5 months ago:
 
 **L1 story:**
-> "Sarah's 4-year-old went from having accidents every day to telling her BEFORE it happens — most of the time. She says the 10-pair rotation meant she never ran out of clean pairs, even during the rough weeks."
+> "Sarah's 4-year-old went from having accidents every day to telling her BEFORE it happens, most of the time. She says the 10-pair rotation meant she never ran out of clean pairs, even during the rough weeks."
 
 **L2 story:**
-> "Lisa's daughter still has accidents — but she stops playing when she feels wetness now. She pulls at her pants. She looks down. Lisa says: 'That pause. I waited 4 years for that pause.'"
+> "Lisa's daughter still has accidents, but she stops playing when she feels wetness now. She pulls at her pants. She looks down. Lisa says: 'That pause. I waited 4 years for that pause.'"
 
 **L3 story:**
-> "Maria's son is 9. He's not trained. But for the first time in a decade, he felt wetness — and showed her with a gesture. Maria's words: 'He's not trained. But he's feeling something. That's enough for now.'"
+> "Maria's son is 9. He's not trained. But for the first time in a decade, he felt wetness, and showed her with a gesture. Maria's words: 'He's not trained. But he's feeling something. That's enough for now.'"
 
 If any of these sound familiar, keep reading.
 
-*(Scope: Three-Family Testimonial Pattern per Layer-18 §Part 2, Rule 6 application. R1 — symptom language. R4 — verbal "telling you" paired with non-verbal "showed her with a gesture" / "pulls at her pants." R3 — age range 4, 5+, 9 = 3 to 10+ implicit. Source: MASTER-DIAGNOSIS-COMPENDIUM §4.6; Layer-18 §Part 2)*
-
+*(Scope: Three-Family Testimonial Pattern per Layer-18 §Part 2, Rule 6 application. R1, symptom language. R4, verbal "telling you" paired with non-verbal "showed her with a gesture" / "pulls at her pants." R3, age range 4, 5+, 9 = 3 to 10+ implicit. 
 ---
 
 ### Section 4: What's Next — Reorder + Options
@@ -106,55 +101,49 @@ After 5+ months of daily wear, here's what most families consider next:
 
 **1. Refresh the rotation.** If your child has been wearing the same 10 pairs for 150+ days, the fabric has been through a lot. A new set means fresher signal transmission and more consistent feedback for the nervous system.
 
-**2. Size up.** Kids grow — even when potty training doesn't follow the timeline we hoped for. If your child has moved up a clothing size, the body-signal feedback works best with the right fit.
+**2. Size up.** Kids grow, even when potty training doesn't follow the timeline we hoped for. If your child has moved up a clothing size, the body-signal feedback works best with the right fit.
 
-**3. Gift for another parent.** If you know another family whose child is struggling — the same patterns, the same frustration — passing on what worked for you could change their trajectory. The 3+3 Bundle makes a meaningful gift for a parent who's just starting to wonder.
+**3. Gift for another parent.** If you know another family whose child is struggling, the same patterns, the same frustration, passing on what worked for you could change their trajectory. The 3+3 Bundle makes a meaningful gift for a parent who's just starting to wonder.
 
 **4. Continue what's working.** The 5+5 is still available. Same price, same guarantee, same commitment.
 
-*(Scope: R3 — no fixed age. R5 — no timeline promises. V18 — no math reframe, no financial pressure. Source: 2-full-email-copy-strategy.md §1.14 Replenish C)*
-
+*(Scope: R3, no fixed age. R5, no timeline promises. V18, no math reframe, no financial pressure. 
 ---
 
 ### CTA (Primary)
 
 **"Order your next set →"**
 
-- Source: GIULIANO-DEMANDS.md §7 — Soft, permission-based CTAs for lifecycle stage
-- Alternative: "Explore new sizes or bundles →" (if Klaviyo can surface size-recommendation page)
+- - Alternative: "Explore new sizes or bundles →" (if Klaviyo can surface size-recommendation page)
 
 ---
 
-### CTA (Secondary — Gift Angle)
+### CTA (Secondary, Gift Angle)
 
 **"Know another parent who needs this? Send the 3+3 Bundle →"**
 
-- Source: 2-full-email-copy-strategy.md §1.14 — "Gift purchase or different product" strategy
-
+- 
 ---
 
 ### Guarantee
 
 Same 60-day guarantee that brought you here. If the next set doesn't work for your child at this stage, full refund. Your judgment, always.
 
-*(Scope: V8 — 60-day guarantee, never 30. Source: 11-brand-voice-reference.md §5, Rule V8)*
-
+*(Scope: V8, 60-day guarantee, never 30. 
 ---
 
-### Lena Sign-Off (LONG — Lifecycle Variant)
+### Lena Sign-Off (LONG, Lifecycle Variant)
 
-Whatever you order or don't — thanks for trusting us with 150+ days of your child's journey.
+Whatever you order or don't, thanks for trusting us with 150+ days of your child's journey.
 
-I have two autistic sons. One trained at 6. The other at almost 8. I know what 5 months of consistency feels like — the good weeks, the hard weeks, and the weeks where you wonder if any of it matters. It matters. Every pause, every pull at the pants, every time they notice something they didn't notice before — that's the signal wiring up.
+I have two autistic sons. One trained at 6. The other at almost 8. I know what 5 months of consistency feels like, the good weeks, the hard weeks, and the weeks where you wonder if any of it matters. It matters. Every pause, every pull at the pants, every time they notice something they didn't notice before, that's the signal wiring up.
 
-If you need sizing help or just want to share how it's going — hit reply. I read everything.
+If you need sizing help or just want to share how it's going, hit reply. I read everything.
 
 With care,
 Lena ——
 
-P.S. If the underwear is working but you need a break before reordering — no pressure. The offer will be here when you're ready. The 60-day guarantee doesn't expire.
-
-*(Source: 11-brand-voice-reference.md §9, LONG variant; Layer-17 §7 Lifecycle tonality — "With care," for emails 6+ and lifecycle flows)*
+P.S. If the underwear is working but you need a break before reordering, no pressure. The offer will be here when you're ready. The 60-day guarantee doesn't expire.
 
 ---
 
@@ -163,8 +152,6 @@ P.S. If the underwear is working but you need a break before reordering — no p
 BrightKidCo
 Customer Support · Mom of two autistic sons
 [Unsubscribe] | [Manage Preferences]
-
-*(Source: 11-brand-voice-reference.md §15 — Brand Application in Email)*
 
 ---
 
@@ -197,9 +184,9 @@ Customer Support · Mom of two autistic sons
 
 ## BIG IDEA
 
-**"150 days in — your first 10 pairs have earned their retirement."**
+**"150 days in, your first 10 pairs have earned their retirement."**
 
-The central thought: The subscriber has been in the BrightKidCo ecosystem for over 5 months. That's long enough for real body-signal learning to have happened — and long enough for the original 10 pairs to have served their purpose. This email isn't a cold reorder reminder. It's a celebration of the distance traveled, anchored in the Three-Family Testimonial Pattern so every level sees themselves. The call is to honor that commitment by refreshing the tool that made it possible — or by passing it forward to another family.
+The central thought: The subscriber has been in the BrightKidCo ecosystem for over 5 months. That's long enough for real body-signal learning to have happened, and long enough for the original 10 pairs to have served their purpose. This email isn't a cold reorder reminder. It's a celebration of the distance traveled, anchored in the Three-Family Testimonial Pattern so every level sees themselves. The call is to honor that commitment by refreshing the tool that made it possible, or by passing it forward to another family.
 
 ---
 
@@ -209,89 +196,86 @@ The central thought: The subscriber has been in the BrightKidCo ecosystem for ov
 
 ```
 ┌──────────────────────────────────────────────┐
-│  [HEADER]                                     │
-│  BrightKidCo logo (left) | [Unsubscribe]      │
-│  (thin divider)                               │
+│ [HEADER] │
+│ BrightKidCo logo (left) | [Unsubscribe] │
+│ (thin divider) │
 ├──────────────────────────────────────────────┤
-│  [SUBJECT REPEAT — subtle, small text]        │
-│  "150 days in — what's next?"                 │
+│ [SUBJECT REPEAT, subtle, small text] │
+│ "150 days in, what's next?" │
 ├──────────────────────────────────────────────┤
-│  [SECTION 1: HOOK — WHETHER/OR/IF]            │
-│  Left-aligned body text, 16-18px              │
-│  Bullet list: 4 recognition anchors           │
-│  Each bullet: em dash + italics scenario      │
+│ [SECTION 1: HOOK, WHETHER/OR/IF] │
+│ Left-aligned body text, 16-18px │
+│ Bullet list: 4 recognition anchors │
+│ Each bullet: em dash + italics scenario │
 ├──────────────────────────────────────────────┤
-│  [SECTION 2: VALIDATION]                      │
-│  Body text, 16px, 1.5 line height             │
-│  No images — let the words carry this section │
+│ [SECTION 2: VALIDATION] │
+│ Body text, 16px, 1.5 line height │
+│ No images, let the words carry this section │
 ├──────────────────────────────────────────────┤
-│  [DIVIDER — thin, brand-primary 50% opacity]  │
+│ [DIVIDER, thin, brand-primary 50% opacity] │
 ├──────────────────────────────────────────────┤
-│  [SECTION 3: THREE-FAMILY TESTIMONIALS]       │
-│  Three stacked cards, each with:              │
-│  ┌────────────────────────────────────────┐  │
-│  │  Quote mark (large, decorative)         │  │
-│  │  Body text in quote style, 15px, italic │  │
-│  │  Attribution line at bottom, small caps │  │
-│  └────────────────────────────────────────┘  │
-│  Cards: subtle background fill (#F5F0EB)     │
-│  12px border-radius, 12px padding            │
+│ [SECTION 3: THREE-FAMILY TESTIMONIALS] │
+│ Three stacked cards, each with: │
+│ ┌────────────────────────────────────────┐ │
+│ │ Quote mark (large, decorative) │ │
+│ │ Body text in quote style, 15px, italic │ │
+│ │ Attribution line at bottom, small caps │ │
+│ └────────────────────────────────────────┘ │
+│ Cards: subtle background fill (#F5F0EB) │
+│ 12px border-radius, 12px padding │
 ├──────────────────────────────────────────────┤
-│  [DIVIDER — same]                            │
+│ [DIVIDER, same] │
 ├──────────────────────────────────────────────┤
-│  [SECTION 4: OPTIONS]                        │
-│  4 options, each with:                       │
-│  Number + Emoji + Headline + 1-line detail   │
-│  Horizontal layout on desktop, stack mobile  │
+│ [SECTION 4: OPTIONS] │
+│ 4 options, each with: │
+│ Number + Emoji + Headline + 1-line detail │
+│ Horizontal layout on desktop, stack mobile │
 ├──────────────────────────────────────────────┤
-│  [PRIMARY CTA BUTTON]                        │
-│  Full-width rounded button (#3A7B5B)         │
-│  White text: "Order your next set →"         │
+│ [PRIMARY CTA BUTTON] │
+│ Full-width rounded button (#3A7B5B) │
+│ White text: "Order your next set →" │
 ├──────────────────────────────────────────────┤
-│  8px spacing                                 │
+│ 8px spacing │
 ├──────────────────────────────────────────────┤
-│  [SECONDARY CTA — TEXT LINK]                 │
-│  Underlined text link: "Send the 3+3 Bundle" │
+│ [SECONDARY CTA, TEXT LINK] │
+│ Underlined text link: "Send the 3+3 Bundle" │
 ├──────────────────────────────────────────────┤
-│  [GUARANTEE BADGE]                           │
-│  Subtle icon + "60-Day Guarantee — Your      │
-│  judgment, always" in 12px muted text        │
+│ [GUARANTEE BADGE] │
+│ Subtle icon + "60-Day Guarantee, Your │
+│ judgment, always" in 12px muted text │
 ├──────────────────────────────────────────────┤
-│  [LENA SIGN-OFF]                             │
-│  Body text, 16px                             │
-│  "With care, Lena ——"                        │
-│  P.S. line in 14px muted text                │
+│ [LENA SIGN-OFF] │
+│ Body text, 16px │
+│ "With care, Lena ——" │
+│ P.S. line in 14px muted text │
 ├──────────────────────────────────────────────┤
-│  [FOOTER]                                    │
-│  BrightKidCo tagline, unsubscribe, prefs     │
-│  11px, muted, centered                       │
+│ [FOOTER] │
+│ BrightKidCo tagline, unsubscribe, prefs │
+│ 11px, muted, centered │
 └──────────────────────────────────────────────┘
 ```
 
-- Source: email-design-standards-and-template-build.md — Mobile-first 600px max-width, single-column
-- Layout priority: Words > spacing > decorative elements. This is a nurture/replenishment email, not a promotional blast. Let the testimonials breathe.
+- - Layout priority: Words > spacing > decorative elements. This a nurture/replenishment email, not a promotional blast. Let the testimonials breathe.
 
 ---
 
 ## CONTRAPTION
 
-The design contraption centers on **"the pause that matters"** — a visual metaphor that appears in the testimonial cards and reinforces the core mechanism thesis.
+The design contraption centers on **"the pause that matters"**, a visual metaphor that appears in the testimonial cards and reinforces the core mechanism thesis.
 
 **Contraption elements:**
 
 1. **Testimonial card treatment**: Each card has a subtle top-border accent in a color that subtly shifts per testimonial:
-   - L1 card: soft green accent (#A8C9A5 — growth, forward movement)
-   - L2 card: warm amber accent (#D4A86A — patience, sensory warmth)
-   - L3 card: muted clay accent (#C4836F — dignity, grounded presence)
-   - These are NOT level labels — they're emotional color cues that work subconsciously
+ - L1 card: soft green accent (#A8C9A5, growth, forward movement)
+ - L2 card: warm amber accent (#D4A86A, patience, sensory warmth)
+ - L3 card: muted clay accent (#C4836F, dignity, grounded presence)
+ - These are NOT level labels, they're emotional color cues that work subconsciously
 
-2. **The pause dot**: Between the testimonial section and the options section, a small decorative element — three dots in a horizontal line (···) — to create a visual pause that mirrors the "pause before the accident" the body copy celebrates. Each dot is one of the three accent colors above. Not explained, not clickable. Just a quiet spatial beat.
+2. **The pause dot**: Between the testimonial section and the options section, a small decorative element, three dots in a horizontal line (···), to create a visual pause that mirrors the "pause before the accident" the body copy celebrates. Each dot is one of the three accent colors above. Not explained, not clickable. Just a quiet spatial beat.
 
-3. **Numbered option blocks**: The 4 options use large, semi-transparent numbers (01, 02, 03, 04) as background decorative elements inside each option card — functional as ordering, decorative as texture.
+3. **Numbered option blocks**: The 4 options use large, semi-transparent numbers (01, 02, 03, 04) as background decorative elements inside each option card, functional as ordering, decorative as texture.
 
-- Source: email-design-standards-and-template-build.md §Design System — Modular components with minimal decoration
-- Source: email-design-master.md — Spatial rhythm, "the pause before the click"
-
+- - 
 ---
 
 ## COLOR
@@ -313,12 +297,11 @@ The design contraption centers on **"the pause that matters"** — a visual meta
 | Link text | `#3A7B5B` | Underlined links and secondary CTA |
 
 **Color rationale:**
-- Warm neutrals communicate patience, groundedness, and the passage of time — right for a 5-month check-in
+- Warm neutrals communicate patience, groundedness, and the passage of time, right for a 5-month check-in
 - The green CTA signals action without urgency or alarm
-- The three accent colors on testimonial cards create visual texture without labeling levels — a subtle nod to the Three-Family Pattern
+- The three accent colors on testimonial cards create visual texture without labeling levels, a subtle nod to the Three-Family Pattern
 - No bright/urgency colors (no red, no orange, no bright yellow)
-- Source: 11-brand-voice-reference.md §14 Visual Brand Standards
-
+- 
 ---
 
 ## TYPOGRAPHY
@@ -340,13 +323,11 @@ The design contraption centers on **"the pause that matters"** — a visual meta
 | Footer | Georgia | 11px | 400 | 1.4 | sentence |
 
 **Typography rationale:**
-- Georgia serif = warm, editorial, trustworthy — a letter from a person, not a brand
+- Georgia serif = warm, editorial, trustworthy, a letter from a person, not a brand
 - 16px body = optimal mobile readability
-- Italic for recognition anchors and testimonials = signals "this is someone's real experience"
-- No sans-serif anywhere in the email body — Lena doesn't talk like a marketing department
-- Source: 11-brand-voice-reference.md §14 — Visual Brand Standards
-- Source: email-design-standards-and-template-build.md §Typography
-
+- Italic for recognition anchors and testimonials = signals "this someone's real experience"
+- No sans-serif anywhere in the email body, Lena doesn't talk like a marketing department
+- - 
 ---
 
 ## FURNITURE
@@ -365,10 +346,7 @@ The design contraption centers on **"the pause that matters"** — a visual meta
 | Unsubscribe link | 11px muted text, standard CAN-SPAM | Bottom of email |
 | Social proof count | "16,511 reviews · 4.9★" in 12px muted text (only in secondary CTA area if space permits) | Near guarantee badge |
 
-- Source: email-design-standards-and-template-build.md §Email Components
-- Source: 11-brand-voice-reference.md §14 Visual Standards — "Simple, clean, spacious"
-- Source: 11-brand-voice-reference.md §1 — Trust Pyramid: review count as Tier 4 social proof
-
+- - - 
 ---
 
 ## EASTER EGG
@@ -379,20 +357,18 @@ In the validation section (Section 2), the sentence:
 
 > "Some kids in the BrightKidCo community started showing awareness in 2 weeks. Others took 3 months before their first pause."
 
-...carries a deliberate echo of the brand's approved phrase "Late is not never" (from 11-brand-voice-reference.md §7.1 Approved Phrases). The parent who has been at this for 5+ months and still hasn't seen a "first pause" will read the word "Others" and feel that the email isn't talking past her. The timeline span (2 weeks to 3 months) leaves the door open for her — she's still within the range.
+...carries a deliberate echo of the brand's approved phrase "Late is not never" (from 11-brand-voice-reference.md §7.1 Approved Phrases). The parent who has been at this for 5+ months and still hasn't seen a "first pause" will read the word "Others" and feel that the email isn't talking past her. The timeline span (2 weeks to 3 months) leaves the door open for her, she's still within the range.
 
-**Second-layer easter egg — the "pause dot" visual:**
+**Second-layer easter egg, the "pause dot" visual:**
 
-The three dots (···) between the testimonials and options use the same three accent colors as the testimonial card borders — but they appear before any option text. For the parent who reads the testimonials and isn't sure which story is hers, the three dots say: pause. Breathe. The next section is for you. It's a spatial permission moment.
+The three dots (···) between the testimonials and options use the same three accent colors as the testimonial card borders, but they appear before any option text. For the parent who reads the testimonials and isn't sure which story is hers, the three dots say: pause. Breathe. The next section is for you. It's a spatial permission moment.
 
-- Source: 11-brand-voice-reference.md §7.1 — "Late is not never" approved phrase
-- Source: email-design-master.md §Micro-interactions — small visual cues that reward attention
-
+- - 
 ---
 
 ## MOTION
 
-(Animated email — supports Apple Mail, Outlook for Mac, and most mobile clients with limited CSS animation support. Falls back gracefully to static for Gmail and Outlook Windows.)
+(Animated email, supports Apple Mail, Outlook for Mac, and most mobile clients with limited CSS animation support. Falls back gracefully to static for Gmail and Outlook Windows.)
 
 | Element | Animation | Trigger | Duration | Notes |
 |---------|-----------|---------|----------|-------|
@@ -402,14 +378,12 @@ The three dots (···) between the testimonials and options use the same three 
 | Option numbers (01, 02, 03, 04) | Opacity 20% → 40% transition | On scroll into view | 0.5s | Numbers become slightly more visible as parent scrolls — creates depth |
 
 **Motion philosophy:**
-- This is a replenishment email, not a welcome blast or cart recovery. Motion should be restrained, meditative, and never aggressive.
-- The testimonials are the emotional center — motion there should feel like the parent is being introduced to each story, one at a time.
+- This a replenishment email, not a welcome blast or cart recovery. Motion should be restrained, meditative, and never aggressive.
+- The testimonials are the emotional center, motion there should feel like the parent is being introduced to each story, one at a time.
 - No spinning, bouncing, flashing, or countdown-style animations. No urgency.
 - All animations use `prefers-reduced-motion: no-preference` media query. Respect OS accessibility settings.
 
-- Source: email-design-master.md §Animation principles — "Motion as punctuation, not decoration"
-- Source: consolidated-design-skills-trimmed.md — huashu-design animation patterns
-
+- - 
 ---
 
 ## LEVEL CALIBRATION (R1-R6 VERIFICATION)
@@ -462,13 +436,13 @@ The three dots (···) between the testimonials and options use the same three 
 
 - [x] Output file exists at exact path
 - [x] File size minimum 5KB (target: ~25KB)
-- [x] PART 1: Full email copy present — Metadata, Subject Line, Preview Text, Body (4 sections), CTA (primary + secondary), Guarantee, Lena Sign-Off, Footer, Source Citations
-- [x] PART 2: Full creative strategy present — Big Idea, Layout, Contraption, Color, Typography, Furniture, Easter Egg, Motion, Level Calibration
+- [x] PART 1: Full email copy present, Metadata, Subject Line, Preview Text, Body (4 sections), CTA (primary + secondary), Guarantee, Lena Sign-Off, Footer, Source Citations
+- [x] PART 2: Full creative strategy present, Big Idea, Layout, Contraption, Color, Typography, Furniture, Easter Egg, Motion, Level Calibration
 - [x] Cross-level: R1-R6 all satisfied (verified in dedicated table above)
 - [x] No level-specific forbidden language (verified in Forbidden Language Check above)
-- [x] Subject line under 50 characters ("150 days in — what's next?" = 28 characters)
+- [x] Subject line under 50 characters ("150 days in, what's next?" = 28 characters)
 - [x] Source citations documented (full table in PART 1)
 - [x] "Whether...Or...If..." inclusive framing pattern applied (Section 1 opener + Section 2)
-- [x] Three-Family Testimonial Pattern applied (Section 3 — L1/L2/L3 stories)
+- [x] Three-Family Testimonial Pattern applied (Section 3, L1/L2/L3 stories)
 - [x] R1-R6 calibration table complete with verification
 - [x] Hope/Realism ratio calibration per level completed

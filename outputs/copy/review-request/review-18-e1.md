@@ -1,9 +1,9 @@
 # Review Request Flow — Email 1: "Would you recommend us?"
 
-> **Cross-Level Email** — Phase 2 | Flow 18 (Review Request) | Email 1 of 2
+> **Cross-Level Email**, Phase 2 | Flow 18 (Review Request) | Email 1 of 2
 > Trigger: Post-Purchase Day 30-45 (no prior review submitted)
 > Audience: All levels simultaneously (L1, L2, L3, GF)
-> Tonality: Lifecycle / Peer Request — stage 6 per tonality calibration
+> Tonality: Lifecycle / Peer Request, stage 6 per tonality calibration
 > R1-R6: Fully calibrated
 > Generaled: May 29, 2026
 
@@ -24,7 +24,7 @@
 | **Exit** | Review submitted, Unsubscribed |
 | **Section Structure** | Hook → Recognition Anchors → Three-Family Testimonial → Leading Questions → CTA → Lena Sign-Off |
 | **Emotional Arc** | Gratitude → Recognition → Peer connection → Permission |
-| **Source** | 2-full-email-copy-strategy.md §Subject Line Matrix (line 1893, 1921), S02-A-framework.md §4.17 (line 400-407), Layer-18-Cross-Level-Calibration.md §Part 7-8, Layer-17-Tonality-Calibration.md §7 (line 442-445) |
+ 2-full-email-copy-strategy.md §Subject Line Matrix (line 1893, 1921), S02-A-framework.md §4.17 (line 400-407), Layer-18-Cross-Level-Calibration.md §Part 7-8, Layer-17-Tonality-Calibration.md §7 (line 442-445) |
 
 ---
 
@@ -38,86 +38,82 @@ Would you recommend us?
 |----------|--------------|
 | **Type** | Question hook (formula type 5) |
 | **Character Count** | 23 (under 50 ✓) |
-| **Source** | 2-full-email-copy-strategy.md §6.2 Subject Line Matrix (line 1893) |
+ 2-full-email-copy-strategy.md §6.2 Subject Line Matrix (line 1893) |
 
 ---
 
 ### PREVIEW TEXT
 
 ```
-Your experience — whatever it looks like — helps another parent decide. 2 minutes can change everything for someone.
+Your experience, whatever it looks like, helps another parent decide. 2 minutes can change everything for someone.
 ```
 
 | Property | Specification |
 |----------|--------------|
 | **Character Count** | 108 (under 150 ✓) |
 | **Function** | Lowers the barrier — "your experience" not "your success." |
-| **Source** | Layer-18-Cross-Level-Calibration.md §Part 8 — Universal Closers |
+ Layer-18-Cross-Level-Calibration.md §Part 8, Universal Closers |
 
 ---
 
 ### BODY
 
-**Section 1 — Hook (Universal Recognition — R1, R3, R4, R5)**
+**Section 1, Hook (Universal Recognition, R1, R3, R4, R5)**
 
-Whether your child showed their first awareness after 2 weeks, or you're still watching after 8 — whether they said "wet" one day, showed you with a gesture, or you noticed a pause you've never seen before — if something shifted, even a little, it matters more than you might think.
+Whether your child showed their first awareness after 2 weeks, or you're still watching after 8, whether they said "wet" one day, showed you with a gesture, or you noticed a pause you've never seen before, if something shifted, even a little, it matters more than you might think.
 
 Not because it proves the product works. Because another parent needs to know what "working" actually looks like.
 
 ---
 
-**Section 2 — Recognition Anchors (R2, R6)**
+**Section 2, Recognition Anchors (R2, R6)**
 
 Maybe you've seen one of these:
 
-— A pause before the accident. Just one. But it happened.
-— A look down at wetness for the first time.
-— Pulling at their pants, or showing you with their body.
-— Staying dry 2 hours instead of 30 minutes.
-— Nothing noticeable yet — and you're still watching, still hoping.
+, A pause before the accident. Just one. But it happened.
+, A look down at wetness for the first time.
+, Pulling at their pants, or showing you with their body.
+, Staying dry 2 hours instead of 30 minutes.
+, Nothing noticeable yet, and you're still watching, still hoping.
 
 Any one of these is real. And the parent reading this next week doesn't need a success story. They need an honest one.
 
-*(Source: Layer-18-Cross-Level-Calibration.md §Part 2 — Rule 2 & Rule 6)*
-
 ---
 
-**Section 3 — Three-Family Testimonial Pattern (GF Inclusion)**
+**Section 3, Three-Family Testimonial Pattern (GF Inclusion)**
 
 Three different kids. Three different timelines. One common thread:
 
-> *"He went from 'almost' to 'mostly' in about 6 weeks. I'd stopped believing that one missing piece — the signal — could make that much difference. It did."*
-> — Sarah, mom of a verbal 4-year-old
+> *"He went from 'almost' to 'mostly' in about 6 weeks. I'd stopped believing that one missing piece, the signal, could make that much difference. It did."*
+>, Sarah, mom of a verbal 4-year-old
 
 > *"She finally paused when she felt wetness. That was Week 4. We still have pull-up days. But she's feeling something for the first time."*
-> — Lisa, mom of a sensory-sensitive 6-year-old
+>, Lisa, mom of a sensory-sensitive 6-year-old
 
 > *"He's not trained. But he felt something for the first time in 8 years. He looked down. He paused. That's enough for now."*
-> — Maria, mom of a non-verbal 9-year-old
+>, Maria, mom of a non-verbal 9-year-old
 
-If your child fits any of these — your story is the one another parent needs to read.
-
-*(Source: MASTER-DIAGNOSIS-COMPENDIUM.md §4.6, Layer-18-Cross-Level-Calibration.md §Part 2 — Rule 6 Application)*
+If your child fits any of these, your story is the one another parent needs to read.
 
 ---
 
-**Section 4 — Review Ask with Leading Questions**
+**Section 4, Review Ask with Leading Questions**
 
-Here's what I'd love to know about your experience — and it doesn't have to be polished:
+Here's what I'd love to know about your experience, and it doesn't have to be polished:
 
 → What was your child doing before BrightKidCo?
-→ What changed — even a small thing?
+→ What changed, even a small thing?
 → What would you tell another parent who's considering this?
 
-A short review — 3 sentences, 2 sentences, bullet points — helps another parent recognize their own child in your story.
+A short review, 3 sentences, 2 sentences, bullet points, helps another parent recognize their own child in your story.
 
 ---
 
-**Section 5 — Primary CTA**
+**Section 5, Primary CTA**
 
 ```
 ┌──────────────────────────────────────┐
-│     Share your experience →          │
+│ Share your experience → │
 └──────────────────────────────────────┘
 ```
 
@@ -127,27 +123,27 @@ A short review — 3 sentences, 2 sentences, bullet points — helps another par
 | **Color** | Brand-Green #039902 |
 | **Text** | Permission frame — "Share your experience" |
 | **Link** | [Review page URL — product review form with photo upload option] |
-| **Source** | 2-full-email-copy-strategy.md §7.1 CTA Framework |
+ 2-full-email-copy-strategy.md §7.1 CTA Framework |
 
 ---
 
-**Section 6 — Secondary CTA (text link)**
+**Section 6, Secondary CTA (text link)**
 
-Or hit reply and tell me in your own words. I read everything — and I'll take care of the rest.
-
-*(Source: Layer-18-Cross-Level-Calibration.md §Part 4 — Migration Path 2: Reply-Based Migration)*
+Or hit reply and tell me in your own words. I read everything, and I'll take care of the rest.
 
 ---
 
-**Section 7 — Lena Sign-Off (Medium variant)**
+**Next time:** A gentle follow-up — in case you wanted to share but ran out of time.
+
+**Section 7, Lena Sign-Off (Medium variant)**
 
 ```
 Talk soon,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. Your story — the honest one, the one with ups and downs — is exactly
+P.S. Your story, the honest one, the one with ups and downs, is exactly
 what another mom needs to read this week.
 ```
 
@@ -157,15 +153,15 @@ what another mom needs to read this week.
 | **Closing** | "Talk soon," |
 | **Body** | 2 sentences ✓ |
 | **P.S.** | 1 line ✓ |
-| **Source** | 11-brand-voice-reference.md §9.2-9.4 (Sign-Off Selector Matrix) |
+ 11-brand-voice-reference.md §9.2-9.4 (Sign-Off Selector Matrix) |
 
 ---
 
-**Section 8 — Footer**
+**Section 8, Footer**
 
 ```
 *Standard unsubscribe and preference links apply.*
-BrightKidCo — Built for the brain that learns differently.
+BrightKidCo, Built for the brain that learns differently.
 [Unsubscribe] | [Update Preferences]
 ```
 
@@ -200,7 +196,7 @@ BrightKidCo — Built for the brain that learns differently.
 
 **"Your story IS the proof another parent needs."**
 
-The most honest review is not the 5-star rating — it's the parent who says "He's not trained, but he felt something for the first time." This email reframes the review ask from "help our brand" to "help another mom see her own child in your experience." The product isn't the hero of this email — the community is. The ask feels like a favor between peers, not a transaction.
+The most honest review is not the 5-star rating, it's the parent who says "He's not trained, but he felt something for the first time." This email reframes the review ask from "help our brand" to "help another mom see her own child in your experience." The product isn't thero of this email, the community is. The ask feels like a favor between peers, not a transaction.
 
 **Creative territory:** Peer-to-peer gratitude → Recognition → Service to others.
 
@@ -210,65 +206,65 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 
 ```text
 ┌──────────────────────────────────────────────────────┐
-│                   EMAIL LAYOUT MAP                     │
+│ EMAIL LAYOUT MAP │
 ├──────────────────────────────────────────────────────┤
-│                                                       │
-│  [HEADER — BrightKidCo logo + "Customer Support ·    │
-│   Mom of two autistic sons" subline]                  │
-│                                                       │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
-│                                                       │
-│  SECTION 1: HOOK (2-3 short paragraphs)               │
-│  → Whether...Or...If... opening                       │
-│  → "If something shifted, it matters"                 │
-│  → Transition: "Because another parent needs..."      │
-│                                                       │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
-│                                                       │
-│  SECTION 2: RECOGNITION ANCHORS (bullet list)         │
-│  → 5 symptom-based mini-wins (R2 + R6)                │
-│  → Em dash bullets, left-aligned                      │
-│  → Single column, no image                            │
-│                                                       │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
-│                                                       │
-│  SECTION 3: THREE-FAMILY TESTIMONIALS (blockquote)    │
-│  → 3 testimonial blocks separated by spacing          │
-│  → Italic body, small attribution line                │
-│  → No photos — text only (faster load + privacy)      │
-│  → "If your child fits any of these" transition       │
-│                                                       │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
-│                                                       │
-│  SECTION 4: LEADING QUESTIONS (short list)            │
-│  → 3 open-ended questions (→ bullet style)            │
-│  → Low-bar framing ("2 sentences, bullet points")     │
-│                                                       │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
-│                                                       │
-│  SECTION 5: PRIMARY CTA (button)                      │
-│  → Green button (#039902), white text                 │
-│  → "Share your experience →"                          │
-│                                                       │
-│  SECTION 6: SECONDARY CTA (text link)                 │
-│  → "Reply to this email"                              │
-│                                                       │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
-│                                                       │
-│  SECTION 7: LENA SIGN-OFF                             │
-│  → "Talk soon,"                                       │
-│  → 2-sentence Lena body                               │
-│  → 1-line P.S.                                        │
-│                                                       │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
-│                                                       │
-│  [FOOTER — Unsubscribe, Preferences, Brand tagline]   │
-│                                                       │
+│ │
+│ [HEADER, BrightKidCo logo + "Customer Support · │
+│ Mom of two autistic sons" subline] │
+│ │
+│ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
+│ │
+│ SECTION 1: HOOK (2-3 short paragraphs) │
+│ → Whether...Or...If... opening │
+│ → "If something shifted, it matters" │
+│ → Transition: "Because another parent needs..." │
+│ │
+│ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
+│ │
+│ SECTION 2: RECOGNITION ANCHORS (bullet list) │
+│ → 5 symptom-based mini-wins (R2 + R6) │
+│ → Em dash bullets, left-aligned │
+│ → Single column, no image │
+│ │
+│ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
+│ │
+│ SECTION 3: THREE-FAMILY TESTIMONIALS (blockquote) │
+│ → 3 testimonial blocks separated by spacing │
+│ → Italic body, small attribution line │
+│ → No photos, text only (faster load + privacy) │
+│ → "If your child fits any of these" transition │
+│ │
+│ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
+│ │
+│ SECTION 4: LEADING QUESTIONS (short list) │
+│ → 3 open-ended questions (→ bullet style) │
+│ → Low-bar framing ("2 sentences, bullet points") │
+│ │
+│ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
+│ │
+│ SECTION 5: PRIMARY CTA (button) │
+│ → Green button (#039902), white text │
+│ → "Share your experience →" │
+│ │
+│ SECTION 6: SECONDARY CTA (text link) │
+│ → "Reply to this email" │
+│ │
+│ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
+│ │
+│ SECTION 7: LENA SIGN-OFF │
+│ → "Talk soon," │
+│ → 2-sentence Lena body │
+│ → 1-line P.S. │
+│ │
+│ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ │
+│ │
+│ [FOOTER, Unsubscribe, Preferences, Brand tagline] │
+│ │
 └──────────────────────────────────────────────────────┘
 ```
 
 **Section order rationale:**
-1. Hook opens with deference — the ask comes LAST, not first
+1. Hook opens with deference, the ask comes LAST, not first
 2. Recognition anchors let mom see herself before being asked
 3. Testimonials show peer examples across all levels
 4. Leading questions lower the effort barrier
@@ -284,7 +280,7 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 | **Placement** | Below testimonial section, above leading questions |
 | **Behavior** | Star rating (1-5) with text: "Tap to rate — we'll handle the words." |
 | **Fallback** | If embedding fails, a text link: "Quick rating →" leads to inline form |
-| **Source** | Pattern from 2-full-email-copy-strategy.md §7 — CTA framework allows secondary resource links |
+ Pattern from 2-full-email-copy-strategy.md §7, CTA framework allows secondary resource links |
 | **Note** | Only include if technical platform supports it (Klaviyo). Otherwise, remove entirely — button CTA alone is sufficient. |
 
 ---
@@ -302,7 +298,7 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 | **Header/Logo area** | White bg | #FFFFFF | Clean separation |
 | **Accent (bullets)** | Muted green | #7BC77B | Soft recognition anchors — feels gentle, not urgent |
 
-**Color rationale (cross-level):** Green is neutral across all levels — no red (danger/urgency, forbidden for L2-L3), no blue (cold/clinical). Brand Green at #039902 has been validated across all 4 levels per the CTA framework.
+**Color rationale (cross-level):** Green is neutral across all levels, no red (danger/urgency, forbidden for L2-L3), no blue (cold/clinical). Brand Green at #039902 has been validated across all 4 levels per the CTA framework.
 
 ---
 
@@ -319,7 +315,7 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 | **Lena sign-off** | Georgia / serif | Regular | 16px | 15px | 1.5 |
 | **Footer** | Arial / sans-serif | Regular | 12px | 11px | 1.3 |
 
-**Font rationale (cross-level):** Serif body (Georgia) reads as personal, story-like — a letter from Lena, not a marketing email. Sans-serif (Arial) for CTA and footer signals functional elements. No decorative fonts — all levels are tired of "cute" email design.
+**Font rationale (cross-level):** Serif body (Georgia) reads as personal, story-like, a letter from Lena, not a marketing email. Sans-serif (Arial) for CTA and footer signals functional elements. No decorative fonts, all levels are tired of "cute" email design.
 
 ---
 
@@ -335,7 +331,7 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 | **P.S. indicator** | Bold "P.S." preceding sign-off postscript | Standard letter convention — reinforces peer voice |
 | **Icons** | None — text-only layout | Faster load, no accessibility issues, cleaner mobile render |
 
-**Furniture rationale (cross-level):** No photos, no icons, no decorative elements. The Three-Family section is text-only — avoids the "stock photo problem" where a generic parent image alienates any level. Text-only also loads faster on mobile and maintains privacy.
+**Furniture rationale (cross-level):** No photos, no icons, no decorative elements. The Three-Family section is text-only, avoids the "stock photo problem" where a generic parent image alienates any level. Text-only also loads faster on mobile and maintains privacy.
 
 ---
 
@@ -348,7 +344,7 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 | **Why it works** | Layer-18 §Part 4 identifies reply-based migration as Path 2 — mom's reply reveals level indicators. Even if she doesn't leave a public review, her reply feeds customer research and potentially her level tag. |
 | **Hidden bonus** | Moms who reply get a personal response from Lena (or support team as Lena) within 24 hours — building trust that converts future purchases. |
 | **Cross-level value** | Works for all levels: L1 parents often reply with excitement, L2 with detailed questions, L3 with cautious hope. No level feels excluded. |
-| **Source** | Layer-18-Cross-Level-Calibration.md §Part 4 — Migration Path 2: Reply-Based Migration |
+ Layer-18-Cross-Level-Calibration.md §Part 4, Migration Path 2: Reply-Based Migration |
 
 ---
 
@@ -361,7 +357,7 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 | **Header** | None | — | — |
 | **General email** | No entrance animations, no GIFs, no video | — | — |
 
-**Motion rationale:** Zero motion in the email body. This is a review request — motion/animation would feel like marketing pressure, contradicting the peer-to-peer ask. The only hover animation is the standard CTA button state change (trust signal, not attention-grab).
+**Motion rationale:** Zero motion in the email body. This a review request, motion/animation would feel like marketing pressure, contradicting the peer-to-peer ask. The only hover animation is the standard CTA button state change (trust signal, not attention-grab).
 
 **Forbidden motions:** 
 - ❌ Countdown timers (conversion stage forbidden per Layer-17 §3)
@@ -397,7 +393,7 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 | No "easy / simple / quickly" | ✅ | None present |
 | No aggressive math reframes | ✅ | None |
 | 50/50 hope/realism balance | ✅ | Testimonials include both progress and "still figuring it out" |
-| Mechanism before product | ✅ | This isn't a mechanism email — it's a review request. Mechanism is implied through testimonials (results), not explained. |
+| Mechanism before product | ✅ | Thisn't a mechanism email — it's a review request. Mechanism is implied through testimonials (results), not explained. |
 | Validation before proposal | ✅ | Sections 1-3 validate before Section 4-5 ask |
 | Permission-not-to-buy energy | ✅ | "If your child fits any of these" — no-pressure conditional; "hit reply" alternative |
 | Peer-to-peer voice | ✅ | Lena sign-off, "tell me in your own words" |
@@ -406,6 +402,6 @@ The most honest review is not the 5-star rating — it's the parent who says "He
 
 ---
 
-*End of Review Request Flow — Email 1*
+*End of Review Request Flow, Email 1*
 *Cross-Level (L1 · L2 · L3 · GF)*
 *Phase 2 · Flow 18 · Position E1*

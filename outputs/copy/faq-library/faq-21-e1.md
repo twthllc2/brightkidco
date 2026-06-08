@@ -1,13 +1,13 @@
 # FAQ Objection Library — E1 (Cross-Level)
 
-**Flow:** FAQ/Objection Library (Phase 3, Cross-Level)  
-**Email:** E1 — "I've Tried Everything" (Objection D1)  
-**Objective:** Address the most universal objection across ALL levels and sub-groups — the belief that every possible method has been exhausted with no results.  
-**Trigger:** Welcome flow completed + no purchase  
-**Cadence:** Day 1 of FAQ sequence  
-**Primary Lever:** L1 (Mechanism — sensory gap/interoception) + L5 (Normalization — 49% SPARK stat)  
-**Key Proof Points:** PP-A01 (Nicholson 2019 — interoception gap), PP-B01 (Wiggins 2022 — 49% stat), PP-A06 (Barmpagiannis & Baldimtsi 2025 — 49-study review)  
-**Voice:** Lena S., Customer Support · Mom of two autistic sons  
+**Flow:** FAQ/Objection Library (Phase 3, Cross-Level) 
+**Email:** E1, "I've Tried Everything" (Objection D1) 
+**Objective:** Address the most universal objection across ALL levels and sub-groups, the belief that every possible method has been exhausted with no results. 
+**Trigger:** Welcome flow completed + no purchase 
+**Cadence:** Day 1 of FAQ sequence 
+**Primary Lever:** L1 (Mechanism, sensory gap/interoception) + L5 (Normalization, 49% SPARK stat) 
+**Key Proof Points:** PP-A01 (Nicholson 2019, interoception gap), PP-B01 (Wiggins 2022, 49% stat), PP-A06 (Barmpagiannis & Baldimtsi 2025, 49-study review) 
+**Voice:** Lena S., Customer Support · Mom of two autistic sons 
 **Length:** Medium (~450 words)
 
 ---
@@ -16,9 +16,9 @@
 
 ### Visual Concept: "The Missing Piece"
 
-**Central Metaphor:** A jigsaw puzzle with one deliberately missing piece. The mom has assembled every piece — methods, schedules, charts, BCBA protocols, social stories, specialist consults — but the center piece is absent. The missing piece is labeled (in concept, never in copy) as "The Body Signal."
+**Central Metaphor:** A jigsaw puzzle with one deliberately missing piece. The mom has assembled every piece, methods, schedules, charts, BCBA protocols, social stories, specialist consults, but the center piece is absent. The missing piece is labeled (in concept, never in copy) as "The Body Signal."
 
-**Tone Architecture:** The visual world is warm-toned (cream #FBF7EB, mint #DBFFCD) with the missing piece area rendered in brand-green #039902 to draw the eye. The puzzle is shown at various stages of completion — some pieces assembled (the methods she's tried), some scattered (untried approaches), and the gap.
+**Tone Architecture:** The visual world is warm-toned (cream #FBF7EB, mint #DBFFCD) with the missing piece area rendered in brand-green #039902 to draw the eye. The puzzle is shown at various stages of completion, some pieces assembled (the methods she's tried), some scattered (untried approaches), and the gap.
 
 **R1-R6 Saturation:**
 
@@ -32,11 +32,11 @@
 | **R6 — Low-Bar Success** | Across bottom of every email: mini-win icon strip — pause icon / eye icon (looked down) / leg icon (walked toward bathroom) / clock icon (2hr dry) — micro-wins only, never "fully trained" |
 
 **Color Palette (All 6 Emails):**
-- Brand-Green #039902 — CTAs, missing-piece highlight
-- Mint #DBFFCD — backgrounds, highlights
-- Cream #FBF7EB — email body background
-- Warm Gray #5C5552 — body text
-- Deep Charcoal #2D2A26 — headlines
+- Brand-Green #039902, CTAs, missing-piece highlight
+- Mint #DBFFCD, backgrounds, highlights
+- Cream #FBF7EB, email body background
+- Warm Gray #5C5552, body text
+- Deep Charcoal #2D2A26, headlines
 
 **Image Style (All 6 Emails):**
 - Flat, minimal illustration style
@@ -69,7 +69,7 @@
 | 3. "It's not that you didn't try" | Validation Hook | 31 |
 | 4. "The piece most parents miss" | Curiosity Hook | 30 |
 
-**Recommended (Cross-Level):** Option 1 — "You've tried everything. We know."
+**Recommended (Cross-Level):** Option 1, "You've tried everything. We know."
 
 ### Preheader Options
 
@@ -92,7 +92,7 @@ Whether you've tried 2 things or 12.
 
 Whether you're 3 weeks into wondering or 3 years into trying.
 
-If your child doesn't feel when they need to go — sits on the toilet and nothing happens, plays in a wet pull-up without noticing, never initiates, or "almost trained" multiple times — then here's the one thing most methods assume exists. That doesn't yet.
+If your child doesn't feel when they need to go, sits on the toilet and nothing happens, plays in a wet pull-up without noticing, never initiates, or "almost trained" multiple times, then here's the one thing most methods assume exists. That doesn't yet.
 
 **The piece that's missing isn't another method.**
 
@@ -104,16 +104,16 @@ It's the signal.
 
 You didn't fail. You solved the wrong problem.
 
-Standard potty training methods — Oh Crap, sticker charts, timer sits, social stories, BCBA protocols, ABA schedules — they all depend on one thing your child may not have yet: the ability to feel the "I need to go" message from their body.
+Standard potty training methods, Oh Crap, sticker charts, timer sits, social stories, BCBA protocols, ABA schedules, they all depend on one thing your child may not have yet: the ability to feel the "I need to go" message from their body.
 
-Research from Nicholson et al. (2019) shows many autistic children have something called diminished interoceptive accuracy. The brain-body connection for internal signals — bladder fullness, thirst, the need to go — doesn't arrive the way traditional methods assume it does.
+Research from Nicholson et al. (2019) shows many autistic children have something called diminished body awareness. The brain-body connection for internal signals, bladder fullness, thirst, the need to go, doesn't arrive the way traditional methods assume it does.
 
 - He sits 20 minutes, nothing happens. Then pees 30 seconds after standing up.
-- She doesn't react to wetness at all — keeps playing, doesn't flinch.
-- He says "I need to go" after it's already happening — or can't tell you at all.
+- She doesn't react to wetness at all, keeps playing, doesn't flinch.
+- He says "I need to go" after it's already happening, or can't tell you at all.
 - She's "almost trained" for months. Multiple times.
 
-If even one of these sounds like your morning — keep reading.
+If even one of these sounds like your morning, keep reading.
 
 ---
 
@@ -121,9 +121,9 @@ If even one of these sounds like your morning — keep reading.
 
 The CDC-funded SPARK study of 743 autistic children found that 49% of 4-5 year olds aren't toilet trained yet (Wiggins et al. 2022). That's not a parenting failure. That's a measurable, documented gap.
 
-A 2025 review of 49 scientific studies confirms: interoceptive differences in autism are settled science (Barmpagiannis & Baldimtsi 2025). This isn't theory. This isn't guesswork.
+A 2025 review of 49 scientific studies confirms: body signal differences in autism are settled science (Barmpagiannis & Baldimtsi 2025). Thisn't theory. Thisn't guesswork.
 
-If your child's nervous system processes body signals differently — every method that assumes a working signal was built on the wrong foundation.
+If your child's nervous system processes body signals differently, every method that assumes a working signal was built on the wrong foundation.
 
 ---
 
@@ -131,58 +131,59 @@ If your child's nervous system processes body signals differently — every meth
 
 The Body-Signal Learning Layer doesn't rely on a signal your child hasn't developed yet. It creates one.
 
-A gentle, sustained feedback sensation — 30 to 60 seconds of awareness time — that gives the brain the input it's been missing. Pull-ups and regular underwear both fail here: one wicks everything away, the other overwhelms with a brief intense sensation that passes before the brain can register it.
+A gentle sensation that lasts sensation, 30 to 60 seconds of awareness time, that gives the brain the input it's been missing. Pull-ups and regular underwear both fail here: one wicks everything away, the other overwhelms with a brief intense sensation that passes before the brain can register it.
 
-This isn't training. It's signal-building.
+Thisn't training. It's signal-building.
 
 ---
 
 **What this doesn't promise:**
 
-- This isn't a guarantee your child will be "fully trained" in X weeks.
-- This isn't another schedule to follow or chart to fill.
-- This isn't asking you to hope again — just to understand what's been missing.
+- Thisn't a guarantee your child will be "fully trained" in X weeks.
+- Thisn't another schedule to follow or chart to fill.
+- Thisn't asking you to hope again, just to understand what's been missing.
 
 **What this does offer:**
 
 - A 60-day chance to see if your child starts to notice something new.
-- A full refund if it doesn't work — by your judgment, not ours.
+- A full refund if it doesn't work, by your judgment, not ours.
 - A peer who's been where you are.
 
 ---
 
-**Lena's story — because you deserve to know who's writing to you:**
+**Lena's story, because you deserve to know who's writing to you:**
 
-Both my autistic sons went through this exact loop. We tried the books. We tried the charts. We tried the "bootcamp weekend" that left us both in tears. Nothing worked not because we didn't try — but because every method assumed a signal that wasn't there yet.
+Both my autistic sons went through this exact loop. We tried the books. We tried the charts. We tried the "bootcamp weekend" that left us both in tears. Nothing worked not because we didn't try, but because every method assumed a signal that wasn't there yet.
 
 My older son was 8 before he trained. Not 3. Not 4. Eight.
 
-I know what it feels like to be told "you've tried everything." You probably have. But if everything you tried assumed a body signal your child can't feel yet — then what you haven't tried is building that signal first.
+I know what it feels like to be told "you've tried everything." You probably have. But if everything you tried assumed a body signal your child can't feel yet, then what you haven't tried is building that signal first.
 
 That's the missing piece.
 
 ---
 
-If this makes sense for your child — even a little — the 3+3 Bundle is $79.99 with free shipping and a 60-Day Guarantee.
+If this makes sense for your child, even a little, the 3+3 Bundle is $79.99 with free shipping and a 60-Day Guarantee.
 
 Try it for 60 days. By your judgment. If it doesn't work, full refund.
 
-**[See if the body-signal approach fits your child — button: Brand-Green #039902]**
+**[See if the body-signal approach fits your child, button: Brand-Green #039902]**
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
-*60-Day Guarantee: Try the underwear for 60 days. If you don't see the first signals — a pause, a look down, a pull at the pants — return for a full refund. Your call.*
+*60-Day Guarantee: Try the underwear for 60 days. If you don't see the first signals, a pause, a look down, a pull at the pants, return for a full refund. Your call.*
 
 ---
 
-On the other hand — if today isn't the right day, that's a real answer. The product will be here when you are. So will I.
+On the other hand, if today isn't the right day, that's a real answer. The product will be here when you are. So will I.
 
 Reply to this email and tell me about your child. I read everything.
 
 With understanding,
 
-Lena
+Lena ——
 *Customer Support · Mom of two autistic sons*
 
-P.S. 16,511 parents left a review. 4.9★ average. Not because every child trained — but because parents finally had an answer to "why nothing worked." Read a few if you're not sure yet.
+P.S. 16,511 parents left a review. 4.9★ average. Not because every child trained, but because parents finally had an answer to "why nothing worked." Read a few if you're not sure yet.
 
 ---
 
@@ -201,23 +202,23 @@ P.S. 16,511 parents left a review. 4.9★ average. Not because every child train
 
 ### How Each Level Reads This Email
 
-**Level 1 — Sarah (Verbal, 3-5, Hope 70%):**
+**Level 1, Sarah (Verbal, 3-5, Hope 70%):**
 - Resonates with "almost trained" anchor and "sits 20 minutes, nothing happens"
-- Lena's "my son was 8" might feel distant — but the "he trained, just not at 3" message is hopeful without overpromise
+- Lena's "my son was 8" might feel distant, but the "he trained, just not at 3" message is hopeful without overpromise
 - 49% stat normalizes her situation
 - Mechanism reframe (interoception gap) turns confusion into understanding
-- **Key conversion path:** Pre-K urgency is NOT primary here (this is FAQ, not Welcome) → mechanism understanding + guarantee drives action
+- **Key conversion path:** Pre-K urgency is NOT primary here (this FAQ, not Welcome) → mechanism understanding + guarantee drives action
 
-**Level 2 — Lisa (Mixed, 5-7, BCBA, Hope 40%):**
+**Level 2, Lisa (Mixed, 5-7, BCBA, Hope 40%):**
 - Resonates with "tried the BCBA protocol / ABA schedules" and "12 things" approach
 - "You solved the wrong problem" validates method-cycling exhaustion without criticizing her team
-- 49-study review (PP-A06) — high credibility for science-driven skeptic
+- 49-study review (PP-A06), high credibility for science-driven skeptic
 - Mechanism specificity (sustained 30-60 second feedback) gives her something NEW her BCBA hasn't tried
 - **Key conversion path:** Permission-not-to-buy ("if today isn't right") + mechanism differentiator + 60-day guarantee covers the risk she's been burned by before
 
-**Level 3 — Maria (Non-Verbal, 6-10+, Dignity-First):**
+**Level 3, Maria (Non-Verbal, 6-10+, Dignity-First):**
 - "3 years into trying" and "doesn't initiate" and "can't tell you at all" match her reality
-- Lena's story — training at age 8 — is the most powerful Late-Trainer anchor for L3
+- Lena's story, training at age 8, is the most powerful Late-Trainer anchor for L3
 - "If today isn't the right day" permission framing is critical
 - NO urgency, NO promises of "fully trained"
 - Micro-win framing ("notice something new," "first signals") lowers the bar to achievable
@@ -228,7 +229,7 @@ P.S. 16,511 parents left a review. 4.9★ average. Not because every child train
 - **B (Diagnosis-Rejecters):** No ASD/diagnosis language. "Nervous system processes signals differently" is the only framing. Never "autism" or "ASD"
 - **C (SPD/ADHD):** Mechanism-focused, science-backed. "Interoception" language works without ASD framing
 - **D (Overwhelmed Non-Selectors):** Deep recognition in the method-failure litany. Migration anchor embedded naturally
-- **E (Cart/Browse):** Fresh copy — no assumption of long history. "Whether you've tried 2 things or 12" covers both new and veteran
+- **E (Cart/Browse):** Fresh copy, no assumption of long history. "Whether you've tried 2 things or 12" covers both new and veteran
 
 ---
 
@@ -247,8 +248,8 @@ P.S. 16,511 parents left a review. 4.9★ average. Not because every child train
 
 | Order | Lever | Application |
 |:-----:|-------|-------------|
-| ① | **L1 — Mechanism Gap** | "Diminished interoceptive accuracy" — primary educational anchor |
-| ② | **L5 — 49% SPARK Stat** | Normalization — "this isn't you, this is documented" |
+| ① | **L1 — Mechanism Gap** | "Diminished body awareness" — primary educational anchor |
+| ② | **L5 — 49% SPARK Stat** | Normalization — "thisn't you, this documented" |
 | ③ | **L4 — Lena Voice** | Peer testimony — "my son was 8" — builds trust |
 | ④ | **L3 — 60-Day Guarantee** | Risk removal — "Try for 60 days. By your judgment." |
 

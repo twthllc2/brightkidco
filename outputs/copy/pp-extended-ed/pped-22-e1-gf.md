@@ -1,8 +1,7 @@
 # PP-Extended Education — E1-GF (Inclusive)
 
 > **Flow:** PP-Extended Education (Flow 22) | **Email:** E1 (D22+) | **Level:** GF (General Fallback)
-> **Written:** 2026-05-29 | **Strategy Source:** S2 §1.19 (/root/projects/brightkidco/outputs/strategy/2-full-email-copy-strategy.md)
-> **Design Reference:** /root/projects/brightkidco/plans/consolidated-design-skills-trimmed.md
+> **Written:** 2026-05-29 | **Strategy > **Design Reference:** /root/projects/brightkidco/plans/consolidated-design-skills-trimmed.md
 > **Voice:** Lena S., Customer Support · Mom of two autistic sons
 > **Status:** ✅ Complete
 
@@ -16,9 +15,9 @@
 
 **"When your child doesn't feel when they need to go"**
 
-*Type: Universal symptom hook (GF-appropriate). 46 characters. Opens curiosity without diagnosis language. Names the core mechanism gap without implying severity. (Source: S2 §6 — Subject Line Matrix, GF pattern: symptom hook with universal framing.)*
+*Type: Universal symptom hook (GF-appropriate). 46 characters. Opens curiosity without diagnosis language. Names the core mechanism gap without implying severity. *
 
-**Preview Text:** "The signal arrives — just too late. Here's why that happens, and what it means for your child's nervous system."
+**Preview Text:** "The signal arrives, just too late. Here's why that happens, and what it means for your child's nervous system."
 
 **From Name:** Lena from BrightKidCo
 **From Email:** support@brightkidco.com
@@ -37,47 +36,44 @@ Hi there,
 
 Let me describe something I hear from parents every day:
 
-Your child is interested in the potty. They'll sit when you ask. They might even tell you *after* they've gone. But the actual "I need to go now" signal — that moment of connection between body and brain — it doesn't arrive in time. Or it doesn't arrive at all.
+Your child is interested in the potty. They'll sit when you ask. They might even tell you *after* they've gone. But the actual "I need to go now" signal, that moment of connection between body and brain, it doesn't arrive in time. Or it doesn't arrive at all.
 
 You've watched them pause mid-play, go still for a second, and then it's already happened. And you think: *Did they even feel it?*
 
 The honest answer is: probably not. Not the way we assume they should.
 
-I've been there with my own two sons. One trained at 6, the other at almost 8. The thing I learned — the thing that changed everything — is that this isn't about motivation. It's not about defiance. It's not about you doing something wrong.
+I've been there with my own two sons. One trained at 6, the other at almost 8. The thing I learned, the thing that changed everything, is that thisn't about motivation. It's not about defiance. It's not about you doing something wrong.
 
 It's about the signal.
 
 **[SECTION: VALIDATION]**
 
-Here's what I want you to hear clearly: **You didn't fail. The method didn't fail.** The methods you've tried — sticker charts, timers, potty schedules — they all assume something that may not be true for your child's nervous system. They assume the body signal arrives in time to act on it.
+Here's what I want you to hear clearly: **You didn't fail. The method didn't fail.** The methods you've tried, sticker charts, timers, potty schedules, they all assume something that may not be true for your child's nervous system. They assume the body signal arrives in time to act on it.
 
 For many children with sensory differences, that signal is delayed. Or muffled. Or it arrives so late that by the time they register "I need to go," it's already too late.
 
-A study of 63 children found that 59% couldn't reliably tell when they needed to urinate — and 71% couldn't signal when they needed a bowel movement. (Source: Iqbal 2022, Pakistan Journal of Rehabilitation.) For most kids with body-signal processing differences, the "I need to go" feeling simply doesn't arrive in a useful time frame.
+A study of 63 children found that 59% couldn't reliably tell when they needed to urinate, and 71% couldn't signal when they needed a bowel movement. For most kids with body-signal processing differences, the "I need to go" feeling simply doesn't arrive in a useful time frame.
 
 That's not stubbornness. That's neurology.
 
 **[SECTION: MECHANISM]**
 
-The scientific term for this is **interoception** — your brain's ability to sense what's happening inside your body. Hunger, thirst, heartbeat, temperature, and yes — the need to use the bathroom. Every time your child's bladder fills, their nervous system is supposed to send a signal to their brain saying: "Hey, time to find a toilet."
+The scientific term for this is **interoception** — your brain's ability to sense what's happening inside your body. For children with sensory processing differences, that signal pathway works differently: the signal arrives faintly, too late, or not until the body has already released.
 
-For children with sensory processing differences, that signal pathway works differently. Sometimes the signal arrives faintly. Sometimes it arrives too late. Sometimes it doesn't arrive at all until the body has already released. (Source: Nicholson et al. 2019, Journal of Autism and Developmental Disorders — research confirms this is an interoception difference, not a behavioral one.)
+Standard potty training methods assume a strong, timely signal exists. But what if the signal never comes?
 
-Standard potty training methods — the ones designed for typically developing nervous systems — assume a strong, timely signal exists. They teach the child what to DO with that signal. But what if the signal never comes?
+That's where **body-signal learning** is different. The underwear itself becomes a gentle sensation that lasts — a signal the nervous system has time to notice and process. It's not about training faster. It's about building awareness, at the pace your child's nervous system can actually learn.
 
-That's where **body-signal learning** is different. Instead of trying to force a training method onto a nervous system that can't follow it, we start by supporting the body to become more aware of its own internal signals. The underwear itself becomes a gentle, sustained feedback cue — not a quick sensation that fades, but a signal that lasts, that the nervous system has time to notice and process.
+**[SECTION: CTA, PERMISSION]**
 
-It's not about training faster. It's about building awareness — at the pace your child's nervous system can actually learn.
-
-**[SECTION: CTA — PERMISSION]**
-
-This email is the first in a series about how body-signal learning works — the science behind why children with sensory differences struggle with potty training, and what a different approach looks like.
+This email is the first in a series about how body-signal learning works, the science behind why children with sensory differences struggle with potty training, and what a different approach looks like.
 
 If any of this resonates, you might want to look at how our body-signal learning underwear works. It's designed to do what pull-ups can't: preserve and amplify the body's natural awareness signals, rather than wicking them away.
 
-**If your child doesn't seem to feel when they need to go — you're not alone, and it's not a training problem.**
+**If your child doesn't seem to feel when they need to go, you're not alone, and it's not a training problem.**
 
 [**Learn how body signals work →**](https://brightkidco.com/pages/how-it-works)
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
 No pressure. The 60-day guarantee means you can try it by your own judgment. If it's not the right time, that's okay too.
 
@@ -85,10 +81,10 @@ No pressure. The 60-day guarantee means you can try it by your own judgment. If 
 
 With understanding,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. — One thing I wish someone had told me years earlier: a child who sits on the potty without going isn't being resistant. Their body genuinely hasn't sent the signal yet. When you understand that, the whole picture shifts.
+P.S., One thing I wish someone had told me years earlier: a child who sits on the potty without going isn't being resistant. Their body genuinely hasn't sent the signal yet. When you understand that, the whole picture shifts.
 
 ---
 
@@ -127,11 +123,11 @@ BrightKidCo LLC · 548 Market St, PMB 72296, San Francisco, CA 94104
 
 ## 1. Big Idea
 
-**"The signal is real — your child just can't feel it yet."**
+**"The signal is real, your child just can't feel it yet."**
 
-This email reorients how the parent thinks about potty training. The core shift: from "my child won't" to "my child can't feel the signal." The visual metaphor is a **broken or invisible communication line between body and brain** — a signal that travels but arrives too late or not at all. The email creates a sense of compassionate understanding: the child isn't broken, the method isn't wrong, but the *assumption* that the signal arrives in time is the thing that needs to change.
+This email reorients how the parent thinks about potty training. The core shift: from "my child won't" to "my child can't feel the signal." The visual metaphor is a **broken or invisible communication line between body and brain**, a signal that travels but arrives too late or not at all. The email creates a sense of compassionate understanding: the child isn't broken, the method isn't wrong, but the *assumption* that the signal arrives in time is the thing that needs to change.
 
-For GF (General Fallback) audience, this must be **universal, inclusive, and symptom-focused** — no autism labels, no level references, no specific age ranges. The imagery and language should work for any parent whose child struggles with body awareness, regardless of diagnosis status or child age.
+For GF (General Fallback) audience, this must be **universal, inclusive, and symptom-focused**, no autism labels, no level references, no specific age ranges. The imagery and language should work for any parent whose child struggles with body awareness, regardless of diagnosis status or child age.
 
 ---
 
@@ -139,56 +135,56 @@ For GF (General Fallback) audience, this must be **universal, inclusive, and sym
 
 ### 2.1 Email Template Type
 
-**Educational Story + Product Bridge** — a long-form educational email where the product is positioned as the natural answer to the question the education raises. Not a product-first email. Mechanism-first, product-as-resolution.
+**Educational Story + Product Bridge**, a long-form educational email where the product is positioned as the natural answer to the question the education raises. Not a product-first email. Mechanism-first, product-as-resolution.
 
 ### 2.2 Structural Sequence
 
 ```
 ┌─────────────────────────────────────────────────┐
-│  HERO SECTION                                   │
-│  ┌─────────────────────────────────────────────┐ │
-│  │  Subject Line + Preheader (inbox view)      │ │
-│  │  Logo — Lena from BrightKidCo              │ │
-│  │  Headline: Illustrative opening paragraph  │ │
-│  │  [Primary CTA Button] Above the fold       │ │
-│  └─────────────────────────────────────────────┘ │
+│ HERO SECTION │
+│ ┌─────────────────────────────────────────────┐ │
+│ │ Subject Line + Preheader (inbox view) │ │
+│ │ Logo, Lena from BrightKidCo │ │
+│ │ Headline: Illustrative opening paragraph │ │
+│ │ [Primary CTA Button] Above the fold │ │
+│ └─────────────────────────────────────────────┘ │
 ├─────────────────────────────────────────────────┤
-│  VALIDATION SECTION                              │
-│  ┌─────────────────────────────────────────────┐ │
-│  │  Sub-headline: "You didn't fail"           │ │
-│  │  Validation paragraph block                │ │
-│  │  Callout box: Iqbal 2022 stat              │ │
-│  └─────────────────────────────────────────────┘ │
+│ VALIDATION SECTION │
+│ ┌─────────────────────────────────────────────┐ │
+│ │ Sub-headline: "You didn't fail" │ │
+│ │ Validation paragraph block │ │
+│ │ Callout box: Iqbal 2022 stat │ │
+│ └─────────────────────────────────────────────┘ │
 ├─────────────────────────────────────────────────┤
-│  MECHANISM / EDUCATION SECTION                   │
-│  ┌─────────────────────────────────────────────┐ │
-│  │  Sub-headline: "The science of the signal" │ │
-│  │  Diagram or icon: Brain→Body signal path   │ │
-│  │  Mechanism explanation paragraph           │ │
-│  │  Nicholson 2019 citation callout           │ │
-│  └─────────────────────────────────────────────┘ │
+│ MECHANISM / EDUCATION SECTION │
+│ ┌─────────────────────────────────────────────┐ │
+│ │ Sub-headline: "The science of the signal" │ │
+│ │ Diagram or icon: Brain→Body signal path │ │
+│ │ Mechanism explanation paragraph │ │
+│ │ Nicholson 2019 citation callout │ │
+│ └─────────────────────────────────────────────┘ │
 ├─────────────────────────────────────────────────┤
-│  PRODUCT BRIDGE SECTION                          │
-│  ┌─────────────────────────────────────────────┐ │
-│  │  Gentle product introduction               │ │
-│  │  "This is where body-signal learning fits" │ │
-│  │  Product image: BSL underwear on neutral    │ │
-│  │  surface with cue icon overlay              │ │
-│  │  [Reinforced CTA Button]                    │ │
-│  └─────────────────────────────────────────────┘ │
+│ PRODUCT BRIDGE SECTION │
+│ ┌─────────────────────────────────────────────┐ │
+│ │ Gentle product introduction │ │
+│ │ "This where body-signal learning fits" │ │
+│ │ Product image: BSL underwear on neutral │ │
+│ │ surface with cue icon overlay │ │
+│ │ [Reinforced CTA Button] │ │
+│ └─────────────────────────────────────────────┘ │
 ├─────────────────────────────────────────────────┤
-│  LENA SIGN-OFF                                   │
-│  ┌─────────────────────────────────────────────┐ │
-│  │  Lena headshot (optional/circular icon)    │ │
-│  │  Signature block + P.S.                    │ │
-│  └─────────────────────────────────────────────┘ │
+│ LENA SIGN-OFF │
+│ ┌─────────────────────────────────────────────┐ │
+│ │ Lena headshot (optional/circular icon) │ │
+│ │ Signature block + P.S. │ │
+│ └─────────────────────────────────────────────┘ │
 ├─────────────────────────────────────────────────┤
-│  FOOTER                                          │
-│  ┌─────────────────────────────────────────────┐ │
-│  │  Unsubscribe link                           │ │
-│  │  Physical address                           │ │
-│  │  Social icons (small, low-weight)           │ │
-│  └─────────────────────────────────────────────┘ │
+│ FOOTER │
+│ ┌─────────────────────────────────────────────┐ │
+│ │ Unsubscribe link │ │
+│ │ Physical address │ │
+│ │ Social icons (small, low-weight) │ │
+│ └─────────────────────────────────────────────┘ │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -205,15 +201,15 @@ For GF (General Fallback) audience, this must be **universal, inclusive, and sym
 
 ### 3.1 Primary Illustration: "The Body-Signal Highway"
 
-A simplified, accessible illustration showing a child's silhouette with a visual pathway from the body (bladder area, indicated by a soft amber glow) up through the torso to the brain (a gentle warm pulse at the head). The pathway has a **delay element** — a wave that travels but with a gap or "speed bump" in the middle, showing that the signal arrives — just late.
+A simplified, accessible illustration showing a child's silhouette with a visual pathway from the body (bladder area, indicated by a soft amber glow) up through the torso to the brain (a gentle warm pulse at thead). The pathway has a **delay element**, a wave that travels but with a gap or "speed bump" in the middle, showing that the signal arrives, just late.
 
 **Visual style:**
 - Clean line art or gentle gradient blobs (no harsh edges)
-- Warm cream/beige child silhouette (gender-neutral, age-neutral — just a child form)
+- Warm cream/beige child silhouette (gender-neutral, age-neutral, just a child form)
 - The signal path: a soft amber/orange dotted line with a pulsing dot traveling along it
 - A "delay zone" where the signal slows: shown as a wider, gentler wave pattern
-- No labels, no words in the illustration itself — it should communicate visually across language barriers
-- For GF: no level-specific clothing or accessories — the child figure is universal
+- No labels, no words in the illustration itself, it should communicate visually across language barriers
+- For GF: no level-specific clothing or accessories, the child figure is universal
 
 ### 3.2 Secondary Illustration: "Signal Comparison"
 
@@ -227,13 +223,13 @@ A side-by-side visual showing two simplified experiences:
 - Signal from body → travels slowly → arrives faintly or too late → child misses the moment
 - Visual: dotted, broken or wavy arrow (amber/orange-tinted)
 
-**Both figures should be identical silhouettes** — the difference is only in the signal pathway, not the child. This reinforces the message: the child isn't the problem.
+**Both figures should be identical silhouettes**, the difference is only in the signal pathway, not the child. This reinforces the message: the child isn't the problem.
 
 ### 3.3 Product Illustration
 
-One neutral lifestyle image: a child (diverse representation — ambiguous features, could be any child) wearing BSL underwear, engaged in a normal activity. The product should be visible but not the focus — the focus is the child being comfortable, present, and themselves.
+One neutral lifestyle image: a child (diverse representation, ambiguous features, could be any child) wearing BSL underwear, engaged in a normal activity. The product should be visible but not the focus, the focus is the child being comfortable, present, and themselves.
 
-**GF requirement:** No level-specific products or accessories visible. Universal everyday activity — playing with blocks, reading, sitting on the floor.
+**GF requirement:** No level-specific products or accessories visible. Universal everyday activity, playing with blocks, reading, sitting on the floor.
 
 ---
 
@@ -266,7 +262,7 @@ One neutral lifestyle image: a child (diverse representation — ambiguous featu
 
 ### 4.3 Color Narrative Arc
 
-The email moves the eye from **amber/warmth** (opening observation — "this is what you're experiencing") through **cream/neutral space** (validation — breath, headspace) through **green** (growth, mechanism, understanding, the CTA zone). The illustration sits in amber tones because it's about the *problem space* — the delayed signal. The CTA zones transition to green because they represent *resolution* — the learning path forward.
+The email moves the eye from **amber/warmth** (opening observation, "this what you're experiencing") through **cream/neutral space** (validation, breath, headspace) through **green** (growth, mechanism, understanding, the CTA zone). The illustration sits in amber tones because it's about the *problem space*, the delayed signal. The CTA zones transition to green because they represent *resolution*, the learning path forward.
 
 ---
 
@@ -274,10 +270,10 @@ The email moves the eye from **amber/warmth** (opening observation — "this is 
 
 ### 5.1 Font Stack
 
-Primary font: **Questrial** (weight 400 only — BrightKidCo brand standard)
+Primary font: **Questrial** (weight 400 only, BrightKidCo brand standard)
 Fallback: `'Helvetica Neue', Helvetica, Arial, sans-serif`
 
-*Note: Questrial is the approved brand font per BrightKidCo brand standards. In email, use web-safe fallback with @font-face for Apple Mail support. Gmail will fall back to Helvetica — acceptable.*
+*Note: Questrial is the approved brand font per BrightKidCo brand standards. In email, use web-safe fallback with @font-face for Apple Mail support. Gmail will fall back to Helvetica, acceptable.*
 
 ### 5.2 Typography Scale
 
@@ -296,11 +292,11 @@ Fallback: `'Helvetica Neue', Helvetica, Arial, sans-serif`
 
 - Body copy: 60-70 characters per line (max-width 540px content area)
 - Headlines: 35-50 characters, keep short
-- No justified text — left-aligned only
+- No justified text, left-aligned only
 
 ### 5.4 Typography Mood
 
-Warm, human, accessible. The weight is consistent (Questrial 400 throughout) — hierarchy is created through size, color, and spacing rather than weight changes. This is deliberate: BrightKidCo's email voice should feel like a letter from a supportive peer, not a corporate document. The visual effect is **soft, spacious, unhurried** — matching the GF tone of calm education without urgency.
+Warm, human, accessible. The weight is consistent (Questrial 400 throughout), hierarchy is created through size, color, and spacing rather than weight changes. This deliberate: BrightKidCo's email voice should feel like a letter from a supportive peer, not a corporate document. The visual effect is **soft, spacious, unhurried**, matching the GF tone of calm education without urgency.
 
 ---
 
@@ -317,21 +313,21 @@ Warm, human, accessible. The weight is consistent (Questrial 400 throughout) —
 
 - `background-color: #DBFFCD` (mint) with 12px border-radius on desktop
 - `padding: 20px 24px` (desktop) / `16px 18px` (mobile)
-- Thin top border in brand green (`#039902`, 3px) as visual anchor — NOT a left border accent (per impeccable skill: side-stripe borders >1px are banned)
+- Thin top border in brand green (`#039902`, 3px) as visual anchor, NOT a left border accent (per impeccable skill: side-stripe borders >1px are banned)
 - Contains stat callouts and data citations
-- One per email max — used for the Iqbal 2022 stat and/or Nicholson citation
+- One per email max, used for the Iqbal 2022 stat and/or Nicholson citation
 
 ### 6.3 Button Design
 
 - **Full-width on mobile** (100% width, centered text)
 - **Fixed 280px on desktop** (centered in container)
 - `background-color: #039902` (brand green)
-- `border-radius: 6px` (subtle rounding — not pill-shaped, not square)
+- `border-radius: 6px` (subtle rounding, not pill-shaped, not square)
 - `padding: 14px 28px`
 - `font-size: 16px`, bold fallback weight
 - Text color: `#FFFFFF`
 - Hover: 5% darken on the green (email hover not always supported, but coded in)
-- **No arrow icons inside CTA** (this is GF — warm and low-pressure, not action-urgent)
+- **No arrow icons inside CTA** (this GF, warm and low-pressure, not action-urgent)
 
 ### 6.4 Bullet / Indicator Styling
 
@@ -352,19 +348,19 @@ Warm, human, accessible. The weight is consistent (Questrial 400 throughout) —
 
 ### Hidden Detail: The Signal Path Bridge
 
-**Concept:** An open door or bridge icon integrated into the footer or sign-off area — subtle, small, and only noticeable on deliberate inspection.
+**Concept:** An open door bridge icon integrated into the footer or sign-off area, subtle, small, and only noticeable on deliberate inspection.
 
 **Placement options (choose one):**
 
-1. **Between the CTA and Lena sign-off** — a subtle bridge icon (two pillars with an arch) in `#DBFFCD` (mint, barely visible) that sits as a decorative separator. The bridge represents: *crossing from confusion to understanding, from frustration to a new approach.* Open and welcoming — not a gate, not a barrier.
+1. **Between the CTA and Lena sign-off**, a subtle bridge icon (two pillars with an arch) in `#DBFFCD` (mint, barely visible) that sits as a decorative separator. The bridge represents: *crossing from confusion to understanding, from frustration to a new approach.* Open and welcoming, not a gate, not a barrier.
 
-2. **As part of the body-signal illustration** — a tiny open door at the end of the signal pathway, positioned at the brain. The idea: *the door is open, the signal just needs time to arrive.* The door is represented as a simple arched door shape, slightly ajar, in cream/off-white on the amber pathway.
+2. **As part of the body-signal illustration**, a tiny open door at the end of the signal pathway, positioned at the brain. The idea: *the door is open, the signal just needs time to arrive.* The door is represented as a simple arched door shape, slightly ajar, in cream/off-white on the amber pathway.
 
-3. **In the Lena P.S. zone** — a small bridge/arch icon (`18px`, `#DBFFCD`) next to the P.S. paragraph, functioning as a subtle visual "footnote" that echoes the Big Idea: *there's a path forward, and it welcomes everyone.*
+3. **In the Lena P.S. zone**, a small bridge/arch icon (`18px`, `#DBFFCD`) next to the P.S. paragraph, functioning as a subtle visual "footnote" that echoes the Big Idea: *there's a path forward, and it welcomes everyone.*
 
-**GF requirement:** No level-specific symbolism. The bridge/door must be universal — any parent can see themselves in it. No locks, no keys, no gates. Just open passage.
+**GF requirement:** No level-specific symbolism. The bridge/door must be universal, any parent can see themselves in it. No locks, no keys, no gates. Just open passage.
 
-**Easter egg layer:** The bridge icon also subtly echoes the interoception pathway — the "bridge" between body and brain that this email series is about. A parent who notices it and makes the connection feels rewarded for their attention — and reinforces the core teaching.
+**Easter egg layer:** The bridge icon also subtly echoes the interoception pathway, the "bridge" between body and brain that this email series is about. A parent who notices it and makes the connection feels rewarded for their attention, and reinforces the core teaching.
 
 ---
 
@@ -375,17 +371,17 @@ Warm, human, accessible. The weight is consistent (Questrial 400 throughout) —
 A lightweight animated GIF (max 800KB, <5 seconds loop) showing the signal pathway illustration in motion:
 
 1. **Start:** A pulsing dot at the body zone (bladder area, amber glow)
-2. **Travel:** The dot moves upward along the dotted pathway — slowly, with a rhythmic ease
+2. **Travel:** The dot moves upward along the dotted pathway, slowly, with a rhythmic ease
 3. **Delay zone:** The dot visibly slows down, wobbling gently (the "speed bump" in the signal)
-4. **Arrival:** The dot reaches the brain zone — pulses once, softer
+4. **Arrival:** The dot reaches the brain zone, pulses once, softer
 5. **Loop:** Resets back to the body starting point
 
 **GF requirements:**
 - No audio (email auto-play doesn't support sound)
 - Loop silently, max 3 seconds per cycle (keep it brief)
-- Motion should feel gentle — not alarming, not medical
+- Motion should feel gentle, not alarming, not medical
 - Soft opacity pulses (not sudden flashes)
-- Anti-slop check: no gradient-slider visuals, no neon — warm amber and cream tones only
+- Anti-slop check: no gradient-slider visuals, no neon, warm amber and cream tones only
 
 ### 8.2 CTA Micro-Animation
 
@@ -393,11 +389,11 @@ For clients that support CSS animations (Apple Mail, some Outlook versions):
 
 - On hover: subtle scale 1.02 with transition `duration-300 ease-out`
 - Focus ring: `#039902` with 2px offset (accessibility requirement)
-- No entrances, no bounces, no elastic — keep it simple
+- No entrances, no bounces, no elastic, keep it simple
 
 ### 8.3 Scroll / Reveal
 
-Not applicable for email — avoid JavaScript-driven animations (most clients block them). The entire email renders on open.
+Not applicable for email, avoid JavaScript-driven animations (most clients block them). The entire email renders on open.
 
 ---
 
@@ -416,7 +412,7 @@ Not applicable for email — avoid JavaScript-driven animations (most clients bl
 | **Illustration** | Universal silhouettes | No level-specific markers. No items that imply a particular child age. |
 | **Forbidden Elements** | No "autism", "ASD", "level", "severe", "mild", "verbal", "non-verbal" | GF must never assume diagnosis or ability. Use "sensory differences" / "nervous system differences" as umbrella. |
 | **Testimonial** | Not used in E1 | E1 is pure education/mechanism. Testimonials better suited to E2 (the Three-Family Pattern). |
-| **Hidden Detail** | Open door or bridge icon | Universal, welcoming, no level-specific symbolism. |
+| **Hidden Detail** | Open door bridge icon | Universal, welcoming, no level-specific symbolism. |
 | **Offer** | Educational, no hard offer | E1 of deep education flow. Product introduced gently as bridge at end. No "Buy Now" urgency. 3+3 Bundle ($79.99) referenced as natural next step. |
 
 ### 9.2 Cross-Level Comparison (how GF differs)
@@ -444,7 +440,7 @@ Not applicable for email — avoid JavaScript-driven animations (most clients bl
 | No "easy", "simple", "quick", "guaranteed" | 11-brand-voice-reference.md §5 (V5) |
 | Green/growth color narrative | email-design-standards-and-template-build §4.4 (color hierarchy), brand constants |
 | Questrial font, weight 400 only | Brand constants from 15-level-messaging-matrix.md §2.12 |
-| Hidden Detail: open door or bridge icon | Task spec (CP-097: PP-Ext Ed E1-GF) |
+| Hidden Detail: open door bridge icon | Task spec (CP-097: PP-Ext Ed E1-GF) |
 | Iqbal 2022 stat cited as MEDIUM confidence | 03-science-library.md §2 (PP-A02 confidence rating) |
 | Nicholson 2019 stat cited as HIGH confidence | 03-science-library.md §2 (PP-A01 confidence rating) |
 | No testimonial in E1 | Strategy decision: E1 is pure education for GF extended flow. Testimonials reserved for E2. |
@@ -454,14 +450,14 @@ Not applicable for email — avoid JavaScript-driven animations (most clients bl
 
 ## Creative Strategy Validation Checklist
 
-- [x] **Big Idea** — Clear, single, memorable concept that the entire email serves
-- [x] **Layout Architecture** — Defined hero, validation, mechanism, bridge, sign-off, footer zones
-- [x] **Custom Contraption/Illustration** — Two illustrations specified: signal pathway + signal comparison
-- [x] **Color Narrative** — Amber→cream→green arc with dark mode variants
-- [x] **Typography** — Questrial 400 throughout, complete scale table, line length rules
-- [x] **Decorative Furniture** — Dividers, callout boxes, buttons, bullet styling, sign-off block
-- [x] **Hidden Detail/Easter Egg** — Bridge/open door icon with 3 placement options + easter egg layer
-- [x] **Motion/Animation** — Animated GIF spec (signal-in-motion) + CTA micro-animation
-- [x] **Level Calibration** — GF-specific decisions documented with cross-level comparison table
-- [x] **Source Citations** — Every major creative decision traceable to design reference
-- [x] **Anti-slop check** — No gradient text, no glassmorphism, no side-stripe borders, no emoji icons, no Inter/Roboto font, no SVG hand-drawn faces, no hero-metric template
+- [x] **Big Idea**, Clear, single, memorable concept that the entire email serves
+- [x] **Layout Architecture**, Defined hero, validation, mechanism, bridge, sign-off, footer zones
+- [x] **Custom Contraption/Illustration**, Two illustrations specified: signal pathway + signal comparison
+- [x] **Color Narrative**, Amber→cream→green arc with dark mode variants
+- [x] **Typography**, Questrial 400 throughout, complete scale table, line length rules
+- [x] **Decorative Furniture**, Dividers, callout boxes, buttons, bullet styling, sign-off block
+- [x] **Hidden Detail/Easter Egg**, Bridge/open door icon with 3 placement options + easter egg layer
+- [x] **Motion/Animation**, Animated GIF spec (signal-in-motion) + CTA micro-animation
+- [x] **Level Calibration**, GF-specific decisions documented with cross-level comparison table
+- [x] **Source Citations**, Every major creative decision traceable to design reference
+- [x] **Anti-slop check**, No gradient text, no glassmorphism, no side-stripe borders, no emoji icons, no Inter/Roboto font, no SVG hand-drawn faces, no hero-metric template

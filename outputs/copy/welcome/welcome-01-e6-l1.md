@@ -28,8 +28,8 @@
 `Keeping your child too dry to learn ($50/mo)`
 
 - **Type:** Mechanism tease (Type 3 per GIULIANO-DEMANDS.md §11.3)
-- **Characters:** 44 (mobile-safe — key message "too dry to learn" fits in first ~30 chars)
-- **Rationale:** Creates curiosity gap + mechanism tease. The "$50/month" anchors real cost. "Too dry to learn" is the reframe hook. For L1, this lands as a Pre-K timing concern, not a sensory urgency — she's worried about readiness, not chronic severity.
+- **Characters:** 44 (mobile-safe, key message "too dry to learn" fits in first ~30 chars)
+- **Rationale:** Creates curiosity gap + mechanism tease. The "$50/month" anchors real cost. "Too dry to learn" is the reframe hook. For L1, this lands as a Pre-K timing concern, not a sensory urgency, she's worried about readiness, not chronic severity.
 
 ---
 
@@ -47,7 +47,7 @@
 
 `Lena from BrightKidCo`
 
-- **Rationale:** For E6, Lena's voice is established as a trusted guide. The "from name" signals continuity — this is Day 14, she's six emails deep. Personal from name increases open rates in nurture sequences.
+- **Rationale:** For E6, Lena's voice is established as a trusted guide. The "from name" signals continuity, this Day 14, she's six emails deep. Personal from name increases open rates in nurture sequences.
 
 ---
 
@@ -61,7 +61,7 @@ Pre-K starts in a few months. You've got the forms, the tour date, the supply li
 
 I hear this every single day. And here's something I wish someone had told me sooner.
 
-The pull-ups you're buying — the ones that cost $50–$100 a month and keep him perfectly dry — might be the very thing standing between him and that Pre-K readiness goal.
+The pull-ups you're buying, the ones that cost $50–$100 a month and keep him perfectly dry, might be the very thing standing between him and that Pre-K readiness goal.
 
 Not because they're bad. Because they're too good at their job.
 
@@ -71,39 +71,32 @@ Not because they're bad. Because they're too good at their job.
 
 Let me be clear: you didn't make a wrong choice using pull-ups. Every parent uses them. Every pediatrician recommends them. Every blog post says "start with pull-ups."
 
-But here's what nobody told us — and what the research shows.
+But here's what nobody told us, and what the research shows.
 
 Pull-ups were designed for neurotypical kids who already feel the "I need to go" signal. The moisture-wicking technology that keeps a child completely dry is the exact mechanism that prevents progress when the signal is missing.
 
-For an autistic child whose brain processes body signals differently — that perfect dryness is actually the problem. (Source: Nicholson et al. 2019, *Journal of Autism and Developmental Disorders*; Mahler interoception framework)
+For an autistic child whose brain processes body signals differently, that perfect dryness is actually the problem. 
 
-*"He says 'I need to pee' AFTER it's already happened."* — L1 parent
+*"He says 'I need to pee' AFTER it's already happened."*, L1 parent
 
-That quote isn't about refusal. It's about timing. The signal arrives — just milliseconds too late. And pull-ups ensure there's no feedback for the brain to learn from.
+That quote isn't about refusal. It's about timing. The signal arrives, just milliseconds too late. And pull-ups ensure there's no feedback for the brain to learn from.
 
 ---
 
 ### MECHANISM — THE PULL-UP REFRAME (WEAKENED, PRE-K FRAMED)
 
-Here's what's happening under the surface.
+Your child's body signal system works differently when the nervous system processes information differently. Research consistently shows this is a real, measurable neurological difference. It's not training. It's biology.
 
-Your child's interoceptive system — the body's ability to sense internal signals like a full bladder — works differently when the nervous system processes information differently. Research consistently shows this is a real, measurable neurological difference. It's not training. It's biology. (Source: Nicholson et al. 2019; Barmpagiannis & Baldimtsi 2025, 49-study review)
+The wetness signal is the only feedback the brain can use to learn the connection between "I feel something" and "I should go to the potty." Pull-ups remove that feedback entirely.
 
-The wetness signal is the only feedback the brain can use to learn the connection between "I feel something" and "I should go to the potty."
+Our 3-Layer Body-Signal Learning System changes that:
+- **Layer 1 (Cotton Inner):** Creates a gentle, sustained "uh-oh" sensation, 30–60 seconds of feedback the brain can register.
+- **Layer 2 (Smart Absorption Core):** Contains the accident without wicking away the learning signal.
+- **Layer 3 (Leak-Resistant Outer Barrier):** Holds everything in. The signal does its work.
 
-Pull-ups remove that feedback entirely. The child stays too dry to learn.
+The 49% statistic from the CDC-funded SPARK study says it plainly: 49% of autistic 4-5 year olds aren't toilet trained yet. That's 6 times the rate of typically developing kids.
 
-Think of it like this: if you're learning to cook and someone keeps wiping the pan clean before you can see if the food is burning, you never learn when to turn down the heat. The feedback is gone.
-
-Our 3-Layer Body-Signal Learning System™ changes that.
-
-- **Layer 1 (Cotton Inner):** Creates a gentle, sustained "uh-oh" sensation — 30–60 seconds of feedback the brain can register.
-- **Layer 2 (Smart Absorption Core):** Contains the accident without wicking away the learning signal. Protection without signal removal.
-- **Layer 3 (Leak-Resistant Outer Barrier):** Holds everything in. So you're not cleaning the couch. He's not embarrassed. The signal does its work.
-
-The 49% statistic from the CDC-funded SPARK study says it plainly: 49% of autistic 4-5 year olds aren't toilet trained yet (Wiggins et al. 2022, N=743). That's 6 times the rate of typically developing kids.
-
-This isn't you. This isn't him. This is a documented gap — and one we designed a specific solution for.
+Thisn't you. Thisn't him. This a documented gap, and one we designed a specific solution for.
 
 ---
 
@@ -113,7 +106,7 @@ Other L1 parents who've made the switch, in their own words:
 
 *"He had a perfect week, then a month of accidents. I was ready to give up. After two weeks in BrightKidCo undies, he paused. Then he looked down. Then he walked to the potty. Small. But that never happened before."*
 
-*"I had no idea pull-ups were part of the problem. I just thought he wasn't ready. Now I see he was ready — he just needed the signal."*
+*"I had no idea pull-ups were part of the problem. I just thought he wasn't ready. Now I see he was ready, he just needed the signal."*
 
 *"He went today! Once! But he went!"*
 
@@ -123,7 +116,7 @@ That last one is my favorite. Because for L1 parents, a single success in a sea 
 
 ### PRODUCT INTRO (PRE-K GATE FRAMED)
 
-The 3+3 Bundle gives you six pairs — enough for a full rotation — plus free shipping, for $79.99. That's less than two months of disposable pull-ups, for a product that actually teaches body awareness instead of blocking it.
+The 3+3 Bundle gives you six pairs, enough for a full rotation, plus free shipping, for $79.99. That's less than two months of disposable pull-ups, for a product that actually teaches body awareness instead of blocking it.
 
 If Pre-K starts in a few months, these six pairs give you the learning window to close the gap before September.
 
@@ -135,7 +128,7 @@ I know you've been burned before. Every product promises. Every method disappoin
 
 So here's the difference: 60 days to try. By your judgment.
 
-If your child shows any sign of body awareness — a pause, a look, a step toward the potty — you'll know the signal is working. If nothing changes after 60 days, full refund. No questions. No hoops.
+If your child shows any sign of body awareness, a pause, a look, a step toward the potty, you'll know the signal is working. If nothing changes after 60 days, full refund. No questions. No hoops.
 
 The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.
 
@@ -145,19 +138,23 @@ You don't have to believe me. You just have to try.
 
 ### CTA
 
-`Claim Your 60-Day Trial — 3+3 Bundle $79.99`
+`Claim Your 60-Day Trial, 3+3 Bundle $79.99`
 
-*(Primary button: "Get the 3+3 Bundle" — Action verb + benefit, 4 words, under 25 chars)*
+*(Primary button: "Get the 3+3 Bundle", Action verb + benefit, 4 words, under 25 chars)*
 
-*(Secondary text link: "Or start with 1 pair for $34.99" — lower commitment option for Pre-K curiosity)*
+*(Secondary text link: "Or start with 1 pair for $34.99", lower commitment option for Pre-K curiosity)*
+
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
 ---
 
+**Next time:** Your decision — what to do next, with no pressure.
+
 ### LENA SIGN-OFF (MEDIUM → LONG TRANSITION)
 
-No matter where you are in this, you're closer than you think. Pre-K won't wait — but the right approach can close the gap before it starts. I've been where you are. Two autistic sons. One trained at 6, the other at almost 8. I know what it's like to watch the calendar and feel the panic rise. And I know what it's like to find something that actually works.
+No matter where you are in this, you're closer than you think. Pre-K won't wait, but the right approach can close the gap before it starts. I've been where you are. Two autistic sons. One trained at 6, the other at almost 8. I know what it's like to watch the calendar and feel the panic rise. And I know what it's like to find something that actually works.
 
-If you have any questions about how the Body-Signal system fits with your child, hit reply. You'll get me — not a template, not a bot. I read every response.
+If you have any questions about how the Body-Signal system fits with your child, hit reply. You'll get me, not a template, not a bot. I read every response.
 
 With care,
 Lena ——
@@ -167,11 +164,11 @@ Lena ——
 ### FOOTER
 
 BrightKidCo LLC
-[Physical Address — 123 Example Street, City, State ZIP]
+[Physical Address, 123 Example Street, City, State ZIP]
 
 No longer want these emails? [Unsubscribe]({{unsubscribe_url}}) | [Manage Preferences]({{manage_preferences_url}})
 
-Questions? Reply to this email — we read every response.
+Questions? Reply to this email, we read every response.
 
 ---
 
@@ -184,7 +181,7 @@ Questions? Reply to this email — we read every response.
 | Wiggins et al. (2022) — 49% of autistic 4-5 year olds not toilet trained. CDC-funded SPARK study, N=743. *Journal of Developmental and Behavioral Pediatrics* | PP-B01 | Mechanism |
 | Mahler, K. (2016) — Interoception: The Eighth Sensory System. AAPC Publishing | PP-A07 | Pull-Up Reframe |
 | Iqbal (2022) — 59% cannot reliably signal bladder needs. *Pakistan Journal of Rehabilitation* | PP-A03 | Secondary proof |
-| BrightKidCo Product Spec — 3-Layer Body-Signal Learning System™ | Layer-15-Offers.md | Product Intro |
+| BrightKidCo Product Spec — 3-Layer Body-Signal Learning System | Layer-15-Offers.md | Product Intro |
 | MASTER-INGESTION-COMPENDIUM.md §2.2 — L1 Quotes (92 quotes) | Customer Language Bank | Social Proof |
 | MASTER-RESEARCH-COMPENDIUM.md §1.1 — Pull-ups competitor analysis | Competitive Intel | Pull-Up Reframe |
 | ra3-r4-sensory-processing.md — Pull-ups compound interoception gap | Sensory Research | Mechanism |
@@ -201,7 +198,7 @@ Questions? Reply to this email — we read every response.
 
 **"The Feedback You Didn't Know Was Missing."**
 
-The creative tension of this email is that parents believe pull-ups are helping — when in fact they're preventing the exact learning signal the child needs. The big idea is the reveal: what you thought was a solution is actually the barrier. For L1 (Sarah), this is framed through the lens of Pre-K readiness, not chronic severity. The visual narrative moves from "comfortably dry" → "too dry to learn" → "the signal that changes everything."
+The creative tension of this email is that parents believe pull-ups are helping, when in fact they're preventing the exact learning signal the child needs. The big idea is the reveal: what you thought was a solution is actually the barrier. For L1 (Sarah), this framed through the lens of Pre-K readiness, not chronic severity. The visual narrative moves from "comfortably dry" → "too dry to learn" → "the signal that changes everything."
 
 **Emotional payload:** Surprise (not guilt) → Understanding → Cautious hope → Action.
 
@@ -209,99 +206,99 @@ The creative tension of this email is that parents believe pull-ups are helping 
 
 ## LAYOUT ARCHITECTURE
 
-**Pattern:** Narrative Arc (Pattern D per email-cta-conversion-design SKILL) — Story leads to CTA. Build tension, then resolve with action.
+**Pattern:** Narrative Arc (Pattern D per email-cta-conversion-design SKILL), Story leads to CTA. Build tension, then resolve with action.
 
 **Email structure (vertical stack, mobile-first):**
 
 ```
 ┌──────────────────────────────────────┐
-│           ┌──────────────┐           │
-│           │   LOGO       │           │  Compact header
-│           └──────────────┘           │
+│ ┌──────────────┐ │
+│ │ LOGO │ │ Compact header
+│ └──────────────┘ │
 ├──────────────────────────────────────┤
-│                                      │
-│   SUBJECT LINE CONTEXT BAR           │  Light grey strip: "Day 14 of your
-│   "Week 2 check-in"                  │  Welcome Journey" — reinforces
-│                                      │  timeline continuity
+│ │
+│ SUBJECT LINE CONTEXT BAR │ Light grey strip: "Day 14 of your
+│ "Week 2 check-in" │ Welcome Journey", reinforces
+│ │ timeline continuity
 ├──────────────────────────────────────┤
-│                                      │
-│   HOOK SECTION                        │  First 200px — visible without scroll
-│   ┌──────────────────────────┐       │
-│   │  Hero icon: calendar +   │       │  Single icon, NOT cluttered
-│   │  question mark (SVG)     │       │
-│   └──────────────────────────┘       │
-│   Headline: "What if the thing        │  Bold, 28px, max 10 words
-│   helping is actually hurting?"       │
-│                                      │
-│   Body copy (3 short paragraphs)     │  16px, 1.6 line-height
-│                                      │
+│ │
+│ HOOK SECTION │ First 200px, visible without scroll
+│ ┌──────────────────────────┐ │
+│ │ Hero icon: calendar + │ │ Single icon, NOT cluttered
+│ │ question mark (SVG) │ │
+│ └──────────────────────────┘ │
+│ Headline: "What if the thing │ Bold, 28px, max 10 words
+│ helping is actually hurting?" │
+│ │
+│ Body copy (3 short paragraphs) │ 16px, 1.6 line-height
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   VALIDATION SECTION                  │  Soft cream background divider
-│   ┌──────────────────────────────┐   │
-│   │  Pull quote in serif italic  │   │  "He says 'I need to pee' AFTER
-│   │  Larger font, centered       │   │   it's already happened."
-│   └──────────────────────────────┘   │
-│                                      │
+│ │
+│ VALIDATION SECTION │ Soft cream background divider
+│ ┌──────────────────────────────┐ │
+│ │ Pull quote in serif italic │ │ "He says 'I need to pee' AFTER
+│ │ Larger font, centered │ │ it's already happened."
+│ └──────────────────────────────┘ │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   MECHANISM — THE REFRAME            │  White background, clean
-│                                      │
-│   ┌──── 3-Layer Visual ────┐        │  Simple stacked illustration
-│   │  Layer 1: Cotton Icon   │        │  Each layer: numbered badge
-│   │  Layer 2: Core Icon     │        │  + 1-line descriptor
-│   │  Layer 3: Barrier Icon  │        │
-│   └─────────────────────────┘        │
-│                                      │
-│   Science callout box                │  Subtle border, "Research shows"
-│   featuring 49% statistic            │  heading — NOT a highlighted banner
-│                                      │
+│ │
+│ MECHANISM, THE REFRAME │ White background, clean
+│ │
+│ ┌──── 3-Layer Visual ────┐ │ Simple stacked illustration
+│ │ Layer 1: Cotton Icon │ │ Each layer: numbered badge
+│ │ Layer 2: Core Icon │ │ + 1-line descriptor
+│ │ Layer 3: Barrier Icon │ │
+│ └─────────────────────────┘ │
+│ │
+│ Science callout box │ Subtle border, "Research shows"
+│ featuring 49% statistic │ heading, NOT a highlighted banner
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   SOCIAL PROOF — TESTIMONIAL ROW     │  1.5× line spacing, serif italics
-│   ┌──────────────────────┐          │  Three short pull quotes stacked
-│   │  "He paused. Then    │          │  vertically — each separated by
-│   │  he walked to the    │          │  thin hairline rule
-│   │  potty."             │          │
-│   └──────────────────────┘          │
-│                                      │
+│ │
+│ SOCIAL PROOF, TESTIMONIAL ROW │ 1.5× line spacing, serif italics
+│ ┌──────────────────────┐ │ Three short pull quotes stacked
+│ │ "He paused. Then │ │ vertically, each separated by
+│ │ he walked to the │ │ thin hairline rule
+│ │ potty." │ │
+│ └──────────────────────┘ │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   PRODUCT INTRO                       │  Tight, 2-column on desktop
-│   3+3 Bundle showcase                │  Single column on mobile
-│   Price + free shipping badge        │
-│                                      │
+│ │
+│ PRODUCT INTRO │ Tight, 2-column on desktop
+│ 3+3 Bundle showcase │ Single column on mobile
+│ Price + free shipping badge │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   GUARANTEE SECTION                   │  Full-width band, light sage/teal
-│   Big guarantee statement:           │  tinted background (brand accent)
-│   "60 days. Your judgment."          │  Bold 24px statement
-│   Trust signals below (3 icons)      │  Free shipping | 60-day returns
-│                                      │  | Secure checkout
-│                                      │
+│ │
+│ GUARANTEE SECTION │ Full-width band, light sage/teal
+│ Big guarantee statement: │ tinted background (brand accent)
+│ "60 days. Your judgment." │ Bold 24px statement
+│ Trust signals below (3 icons) │ Free shipping | 60-day returns
+│ │ | Secure checkout
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   CTA SECTION                         │  Maximum clear space (30px above,
-│   ┌──────────────────────────┐       │  30px below)
-│   │  [PRIMARY CTA BUTTON]    │       │  Full-width on mobile
-│   └──────────────────────────┘       │
-│   Secondary text link below          │  "Or start with 1 pair"
-│                                      │
+│ │
+│ CTA SECTION │ Maximum clear space (30px above,
+│ ┌──────────────────────────┐ │ 30px below)
+│ │ [PRIMARY CTA BUTTON] │ │ Full-width on mobile
+│ └──────────────────────────┘ │
+│ Secondary text link below │ "Or start with 1 pair"
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   LENA SIGN-OFF                       │  Left-aligned, warm tone,
-│   Headshot placeholder               │  signature-style
-│   + signature line                   │
-│                                      │
+│ │
+│ LENA SIGN-OFF │ Left-aligned, warm tone,
+│ Headshot placeholder │ signature-style
+│ + signature line │
+│ │
 ├──────────────────────────────────────┤
-│                                      │
-│   FOOTER (compact)                   │  Ultra-small, grey, legal + pref
-│                                      │
+│ │
+│ FOOTER (compact) │ Ultra-small, grey, legal + pref
+│ │
 └──────────────────────────────────────┘
 ```
 
 **Mobile considerations:**
-- Single column throughout — no multi-column on mobile
+- Single column throughout, no multi-column on mobile
 - All padding 24px on left/right (not 30px, for narrower viewports)
 - CTA button: full-width 100% - 48px (24px padding each side)
 - Font size minimum 15px body (increased from 14 for readability)
@@ -314,15 +311,15 @@ The creative tension of this email is that parents believe pull-ups are helping 
 
 **The "3-Layer Learning Reveal" panel**
 
-A stacked vertical illustration showing each layer of the Body-Signal Learning System™. Each layer is a horizontal band with:
+A stacked vertical illustration showing each layer of the Body-Signal Learning System. Each layer is a horizontal band with:
 
-1. **Layer 1 — Signal Creator** (Cotton Inner): Gentle wetness contact, breathable. Visual: soft wave icon + warm orange tint. Text: "30–60 seconds of sustained feedback."
+1. **Layer 1, Signal Creator** (Cotton Inner): Gentle wetness contact, breathable. Visual: soft wave icon + warm orange tint. Text: "30–60 seconds of gentle sensation that lasts."
 
-2. **Layer 2 — Smart Protection** (Absorption Core): Contains without wicking. Visual: honeycomb/shield icon + muted green tint. Text: "Accidents stay contained. The signal stays active."
+2. **Layer 2, Smart Protection** (Absorption Core): Contains without wicking. Visual: honeycomb/shield icon + muted green tint. Text: "Accidents stay contained. The signal stays active."
 
-3. **Layer 3 — Calm Containment** (Leak-Resistant Barrier): Visual: smooth curved line + cool blue tint. Text: "Leak-resistant. Floor-safe. Parent-sane."
+3. **Layer 3, Calm Containment** (Leak-Resistant Barrier): Visual: smooth curved line + cool blue tint. Text: "Leak-resistant. Floor-safe. Parent-sane."
 
-**Interaction (if animated):** Each layer reveals sequentially on scroll with a 0.3s stagger — Layer 1 fades in at scroll 25%, Layer 2 at 40%, Layer 3 at 55%. On mobile (no scroll-based animation), uses a 0.2s sequential fade on page load.
+**Interaction (if animated):** Each layer reveals sequentially on scroll with a 0.3s stagger, Layer 1 fades in at scroll 25%, Layer 2 at 40%, Layer 3 at 55%. On mobile (no scroll-based animation), uses a 0.2s sequential fade on page load.
 
 **Static fallback:** A single graphic with three stepped blocks, each with a small icon, 1-line label, and color accent. The block reads top→bottom, naturally guiding the eye down.
 
@@ -347,15 +344,15 @@ A stacked vertical illustration showing each layer of the Body-Signal Learning S
 | CTA button | Deep brand primary (`#1A2B3E`) on white, white text | Maximum contrast for action. No tricks, no red "sale" urgency |
 | Footer | Light grey (`#F2F2F2`), `#888888` text | Standard, unobtrusive |
 
-**Color commitment level:** Restrained with a single committed accent (amber/orange). The amber serves as the "revelation color" — it only appears at the reframe moment, creating a visual anchor for the email's core idea.
+**Color commitment level:** Restrained with a single committed accent (amber/orange). The amber serves as the "revelation color", it only appears at the reframe moment, creating a visual anchor for the email's core idea.
 
-**Dark mode behavior:** Button and brand-colored elements remain unchanged (sufficient contrast on dark grey `#1C1C1E` surfaces). Cream and sage sections invert to dark tinted neutrals. No `#000` or `#FFF` used — darkest is `#1A2B3E`, lightest is `#F8F5F0`.
+**Dark mode behavior:** Button and brand-colored elements remain unchanged (sufficient contrast on dark grey `#1C1C1E` surfaces). Cream and sage sections invert to dark tinted neutrals. No `#000` or `#FFF` used, darkest is `#1A2B3E`, lightest is `#F8F5F0`.
 
 ---
 
 ## TYPOGRAPHY AS DESIGN
 
-**Typography is not decoration — it IS the design.** In a science-driven email with dense copy, type hierarchy does the heavy lifting.
+**Typography is not decoration, it IS the design.** In a science-driven email with dense copy, type hierarchy does theavy lifting.
 
 | Element | Font | Size | Weight | Line Height | Notes |
 |---------|------|------|--------|-------------|-------|
@@ -367,16 +364,16 @@ A stacked vertical illustration showing each layer of the Body-Signal Learning S
 | Stat emphasis | Helvetica Neue | 18px | 700 | 1.3 | Bold stat numbers (49%, 6×) in brand navy |
 | Section headers | Helvetica Neue | 14px | 700 | 1.2 | All caps, letter-spaced 1px, muted grey |
 | CTA button | Helvetica Neue | 17px | 700 | 1.2 | Bold, centered, white on brand navy |
-| Lena sign-off | Georgia italic | 16px | 400 | 1.5 | Warm, personal — serif signals "this is from a person" |
+| Lena sign-off | Georgia italic | 16px | 400 | 1.5 | Warm, personal — serif signals "this from a person" |
 | Footer | Helvetica Neue | 12px | 400 | 1.4 | Minimal, low-contrast grey |
 
 **Typographic design decisions:**
 
-- **Serif body in a promotional email:** Unusual choice, but intentional. The serif (Georgia) signals editorial authority, not marketing. This email asks the reader to reconsider a core belief about pull-ups — serif copy reads as "information to trust," not "sales pitch to distrust." For L1 (Sarah), who is educated and research-driven, this matters.
+- **Serif body in a promotional email:** Unusual choice, but intentional. The serif (Georgia) signals editorial authority, not marketing. This email asks the reader to reconsider a core belief about pull-ups, serif copy reads as "information to trust," not "sales pitch to distrust." For L1 (Sarah), who is educated and research-driven, this matters.
 
-- **Sans-serif for science/data:** When presenting the 49% statistic and Nicholson citation, the font switches to sans-serif. This creates a visual "genre shift" — the reader feels the difference between story (serif) and evidence (sans).
+- **Sans-serif for science/data:** When presenting the 49% statistic and Nicholson citation, the font switches to sans-serif. This creates a visual "genre shift", the reader feels the difference between story (serif) and evidence (sans).
 
-- **No font stack fallback to default:** Stacks use named system fonts. No Inter, no Roboto — per the high-end design skill's "AI slop" ban.
+- **No font stack fallback to default:** Stacks use named system fonts. No Inter, no Roboto, per the high-end design skill's "AI slop" ban.
 
 - **Bold reading path:** Only 3 phrases are bolded in the entire email: "too dry to learn," "60 days. Your judgment.," and "the right approach can close the gap." The bold-only reading path tells the story: *too dry to learn → 60 days. Your judgment. → close the gap.*
 
@@ -402,7 +399,7 @@ Every visual element must earn its place. Nothing decorative.
 - No emoji in body copy (reserved for subject line)
 - No star ratings or review stars (clean design)
 - No percent-off badges or "Save X%" callouts (not a discount email)
-- No product hero image in the header (the reframe is the hero, not the product)
+- No product hero image in theader (the reframe is thero, not the product)
 - No "You might also like" cross-sell block (focus on single CTA)
 - No countdown timer (L1 urgency is Pre-K calendar, not a fake flash sale)
 
@@ -410,21 +407,21 @@ Every visual element must earn its place. Nothing decorative.
 
 ## HIDDEN DETAIL / EASTER EGG
 
-**Detail 1 — The "too dry to learn" visual anchor:** The phrase "too dry to learn" appears in amber (`#E8923A`) across every appearance in the email. On desktop, it subtly shifts to the brand dark navy on hover (in clients that support CSS hover). The shift from amber→navy mirrors the emotional journey: surprise → confidence.
+**Detail 1, The "too dry to learn" visual anchor:** The phrase "too dry to learn" appears in amber (`#E8923A`) across every appearance in the email. On desktop, it subtly shifts to the brand dark navy on hover (in clients that support CSS hover). The shift from amber→navy mirrors the emotional journey: surprise → confidence.
 
-**Detail 2 — The 3-layer color progression:** The three layer colors (amber → sage → teal) subtly mirror the Pre-K readiness journey: awareness (amber) → protection (sage) → completion (teal). A reader who notices the progression feels the narrative arc visually, not just textually.
+**Detail 2, The 3-layer color progression:** The three layer colors (amber → sage → teal) subtly mirror the Pre-K readiness journey: awareness (amber) → protection (sage) → completion (teal). A reader who notices the progression feels the narrative arc visually, not just textually.
 
-**Detail 3 — The 6× emphasis:** In the sentence "6 times the rate of typically developing kids," the "6×" is set in a larger, bold, navy numeral. If any email client supports inline CSS `::first-letter` equivalents, the "6" gets an extra 1.5px tracking — a micro-detail that only a typography-obsessed reader would notice, but signals precision.
+**Detail 3, The 6× emphasis:** In the sentence "6 times the rate of typically developing kids," the "6×" is set in a larger, bold, navy numeral. If any email client supports inline CSS `::first-letter` equivalents, the "6" gets an extra 1.5px tracking, a micro-detail that only a typography-obsessed reader would notice, but signals precision.
 
-**Detail 4 — The Lena signature evolution:** Across E1→E8, Lena's sign-off format subtly evolves. In E6 (medium→long transition), the sign-off gains a paragraph break and an extra sentence. Readers who follow the entire flow will feel the relationship deepening without ever noticing the mechanism. This mirroring of relationship growth is invisible to the analytic brain but felt by the emotional brain.
+**Detail 4, The Lena signature evolution:** Across E1→E8, Lena's sign-off format subtly evolves. In E6 (medium→long transition), the sign-off gains a paragraph break and an extra sentence. Readers who follow the entire flow will feel the relationship deepening without ever noticing the mechanism. This mirroring of relationship growth is invisible to the analytic brain but felt by the emotional brain.
 
-**Detail 5 — The "reply to this email" arrow:** The reply prompt has a tiny arrow SVG that points up and right (↗) — a subtle off-screen signal that the reply goes to a real person, not an inbox. On mobile clients with hover support, a soft pulse animation on the arrow draws the eye without being intrusive.
+**Detail 5, The "reply to this email" arrow:** The reply prompt has a tiny arrow SVG that points up and right (↗), a subtle off-screen signal that the reply goes to a real person, not an inbox. On mobile clients with hover support, a soft pulse animation on the arrow draws the eye without being intrusive.
 
 ---
 
 ## MOTION / ANIMATION
 
-**Platform constraint awareness:** This is an email — animation is HTML email constrained. Most clients strip JS, many strip CSS animations. Motion is designed for the best-case client (Apple Mail) and degrades gracefully to static in all others.
+**Platform constraint awareness:** This an email, animation is HTML email constrained. Most clients strip JS, many strip CSS animations. Motion is designed for the best-case client (Apple Mail) and degrades gracefully to static in all others.
 
 | Element | Animation | Trigger | Duration | Easing | Fallback |
 |---------|-----------|---------|----------|--------|----------|
@@ -434,7 +431,7 @@ Every visual element must earn its place. Nothing decorative.
 | Guarantee shield icon | Subtle 3° rotation → return | Hover | 0.6s | ease-out quart | Static icon |
 | Testimonial quote marks | Fade in on scroll (Apple Mail) | Viewport entrance | 0.5s | ease-out | Always visible |
 
-**Motion philosophy:** Minimal. No slides, no carousels, no bouncing elements. The email's urgency comes from content — the Pre-K calendar, the science, the reframe — not from flashing countdowns or pulsing buttons. Every animation serves the reading experience, not the sale.
+**Motion philosophy:** Minimal. No slides, no carousels, no bouncing elements. The email's urgency comes from content, the Pre-K calendar, the science, the reframe, not from flashing countdowns or pulsing buttons. Every animation serves the reading experience, not the sale.
 
 **For interactive HTML email build (future):** The 3-Layer System could be an interactive expand/collapse or a simple carousel. Current brief: static with animation enhancements only where safe.
 
@@ -453,18 +450,18 @@ Every creative decision above is calibrated specifically for the L1 (Sarah) avat
 | **Product framing** | Pre-K readiness tool, not medical equipment | "$79.99 — less than 2 months of pull-ups" creates financial + timeline logic. L1 makes decisions in 2-7 days and needs practical justification |
 | **CTA aggressiveness** | Medium-high (Action verb + benefit + optional secondary) | L1 is urgency-okay. "Claim Your 60-Day Trial" is confident but permission-based. The secondary "start with 1 pair" honors her need to test before committing |
 | **Emotional tone** | Surprise ("what if pull-ups are the problem?") → Understanding → Cautious hope | L1 hasn't heard this reframe before. The reveal is the emotional center. If the email makes her say "I never thought of it that way," it's succeeded |
-| **Visual density** | Moderate. Non-header sections separated by whitespace, but copy blocks are longer than L2/L3 | L1 reads. She researches. She needs the full argument, not just the headline. The layout gives her space to read without feeling overwhelmed |
+| **Visual density** | Moderate. Non-header sections separated by whitespace, but copy blocks are longer than L2/L3 | L1 reads. She researches. She needs the full argument, not just theadline. The layout gives her space to read without feeling overwhelmed |
 | **Lena voice depth** | Medium→Long transition. Lena shares her personal story (2 sons, ages) but doesn't go into the raw vulnerability of her L3 voice | L1 is still building trust. The medium→long sign-off at E6 signals the relationship deepening. Full vulnerability comes at E8 |
-| **Key parent quote used** | "He says 'I need to pee' AFTER it's already happened" | This is THE L1 signal. It describes the timing gap that defines Level 1 experience. Every L1 parent reading this will think "that's MY child" |
+| **Key parent quote used** | "He says 'I need to pee' AFTER it's already happened" | This THE L1 signal. It describes the timing gap that defines Level 1 experience. Every L1 parent reading this will think "that's MY child" |
 | **Objection handling** | "I've been burned before" — addressed via 60-day guarantee + permission frame | L1 has tried 1-3 methods (Oh Crap, sticker charts). She's been burned, but not method-cycling trauma like L2. The guarantee handles her skepticism without the deep permission that L3 needs |
 | **"So what?" test applied** | Every sentence: Yes/No | Passes — no generic brand fluff, no redundant descriptions, no empty transitional phrases |
 
 **Level calibration guardrails verified:**
 - ✅ Urgency allowed but used within Pre-K frame (not fake scarcity)
-- ✅ No "Level 1," "ASD," or clinical labels — symptom language only throughout
-- ✅ 70/30 hope/realism maintained — uncertainty is named, but action is framed confidently
-- ✅ Medium science density — enough for credibility, not so much it intimidates
-- ✅ Decision speed respected — CTA is clear but not aggressive ("Claim Your 60-Day Trial" vs. "Buy Now")
+- ✅ No "Level 1," "ASD," or clinical labels, symptom language only throughout
+- ✅ 70/30 hope/realism maintained, uncertainty is named, but action is framed confidently
+- ✅ Medium science density, enough for credibility, not so much it intimidates
+- ✅ Decision speed respected, CTA is clear but not aggressive ("Claim Your 60-Day Trial" vs. "Buy Now")
 - ✅ Pre-K deadline is the emotional driver, not guilt or social shame
 - ✅ The pull-up reframe is educational, not accusatory
 

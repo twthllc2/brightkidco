@@ -1,12 +1,11 @@
 # PP-Extended Education E4 (D43) — L1 (Sarah)
 # "When and how to reduce prompting and build independence."
 
-**Flow:** PP-Extended Education (Flow 22)  
-**Email:** E4 (Day 43 post-purchase)  
-**Level:** Level 1 — Sarah (Verbal, 3-5 yrs, Hope-Intact)  
-**Topic:** When and how to reduce prompting and build independence  
-**Source:** S2 §1.19; 01-customer-avatar.md §3.2; 15-level-messaging-matrix.md §2; 11-brand-voice-reference.md §9
-
+**Flow:** PP-Extended Education (Flow 22) 
+**Email:** E4 (Day 43 post-purchase) 
+**Level:** Level 1, Sarah (Verbal, 3-5 yrs, Hope-Intact) 
+**Topic:** When and how to reduce prompting and build independence 
+**
 ---
 
 ## PART 1 — FULL EMAIL COPY
@@ -23,49 +22,45 @@ You're still prompting him every hour. Maybe every 90 minutes. You've got the ti
 
 Some days he goes. Some days he doesn't. And every day you wonder the same thing: when does this stop being my job?
 
-That's the right question — and asking it means you're ready for the next phase.
+That's the right question, and asking it means you're ready for the next phase.
 
-If your child is showing any awareness at all — a pause mid-play, a glance down at his pants, a step toward the bathroom, even if he doesn't make it in time — the signal is forming. It's not consistent yet. But it's there. And that changes what he needs from you.
+If your child is showing any awareness at all, a pause mid-play, a glance down at his pants, a step toward the bathroom, even if he doesn't make it in time, the signal is forming. It's not consistent yet. But it's there. And that changes what he needs from you.
 
 **Why prompting can hold progress back**
 
-Here's the thing about prompting: it works. But it also becomes a crutch.
-
 When you say "Do you need to go?" every hour, his brain learns to wait for the question. The external cue becomes the trigger, not the internal sensation. He goes because you asked, not because he felt something.
 
-That's not failure — it's how brains work. All of us build habits around the signals we receive most consistently. For the last six weeks, the most consistent signal has been your voice.
+That's how brains work. For the last six weeks, the most consistent signal has been your voice. The goal now is to fade that signal so his internal one can take over.
 
-The goal now is to fade that signal so his internal one can take over.
+**How to reduce prompting, a gradual approach**
 
-**How to reduce prompting — a gradual approach**
-
-This isn't about quitting cold turkey. It's about creating space for his interoception pathway to operate on its own. The signal is building. It just needs room to connect to action without you as the middleman.
+Thisn't about quitting cold turkey. It's about creating space for his interoception pathway to operate on its own. The signal is building. It just needs room to connect to action without you as the middleman.
 
 *Week 1-2: Lengthen the intervals.*
 
-If you're prompting every hour, stretch to every 90 minutes. If every 90, stretch to two hours. The goal isn't to catch every accident — it's to give his brain a window where the only signal is the internal one. You'll see more accidents at first. That's normal. That's the signal working without the backup.
+If you're prompting every hour, stretch to every 90 minutes. If every 90, stretch to two hours. The goal isn't to catch every accident, it's to give his brain a window where the only signal is the internal one. You'll see more accidents at first. That's normal. That's the signal working without the backup.
 
-*Week 3-4: Watch for proto-initiation.*
+*Week 3-4: Watch for early signs of self-starting.*
 
-These are the small, easy-to-miss behaviors that come before a child says "I need to go." Pausing during play. Touching his pants. Fidgeting. Shifting positions. These mean the internal signal arrived — he just hasn't connected it to the potty walk yet. When you see one, don't prompt. Just observe. Let him sit with the sensation. If he figures out the next step on his own, that's a win. If he doesn't, no harm done — the pathway got a little stronger.
+These are the small, straightforward-to-miss behaviors that come before a child says "I need to go." Pausing during play. Touching his pants. Fidgeting. Shifting positions. These mean the internal signal arrived, he just hasn't connected it to the potty walk yet. When you see one, don't prompt. Just observe. Let him sit with the sensation. If he figures out the next step on his own, that's a win. If he doesn't, no harm done, the pathway got a little stronger.
 
 *Week 5-6: Switch from prompting to observing.*
 
-By now, most L1 kids who have been consistent with the body-signal underwear are showing some form of awareness 3-5 times per day. At this point, you can shift from "Do you need to go?" to a quiet presence. Have the potty available. Notice when he pauses. If he looks confused, that's good — confused means he felt something and isn't sure what to do next. Give him a moment before you step in.
+By now, most L1 kids who have been consistent with the body-signal underwear are showing some form of awareness 3-5 times per day. At this point, you can shift from "Do you need to go?" to a quiet presence. Have the potty available. Notice when he pauses. If he looks confused, that's good, confused means he felt something and isn't sure what to do next. Give him a moment before you step in.
 
 ---
 
 **What one L1 mom said about this transition:**
 
-> "I was still prompting every 45 minutes. I was terrified that if I stopped, he'd never go on his own. But when I finally stretched the intervals — it was like he'd been waiting for me to get out of the way. He started going on his own. Not every time at first. But those 'sometimes' turned into 'most times' within a couple of weeks. The prompting was holding us both back."
+> "I was still prompting every 45 minutes. I was terrified that if I stopped, he'd never go on his own. But when I finally stretched the intervals, it was like he'd been waiting for me to get out of the way. He started going on his own. Not every time at first. But those 'sometimes' turned into 'most times' within a couple of weeks. The prompting was holding us both back."
 
-— Real parent, BrightKidCo community
+, Real parent, BrightKidCo community
 
 ---
 
 **Where this fits in the Pre-K timeline**
 
-You've been at this for about six weeks. The school year is approaching. You're moving from "almost trained" to "mostly trained" — and this gradual prompt-fading is the step that gets you there. The kids who arrive at Pre-K with the most independence aren't the ones who were prompted most aggressively. They're the ones whose parents trusted the signal enough to step back at the right moment.
+You've been at this for about six weeks. The school year is approaching. You're moving from "almost trained" to "mostly trained", and this gradual prompt-fading is the step that gets you there. The kids who arrive at Pre-K with the most independence aren't the ones who were prompted most aggressively. They're the ones whose parents trusted the signal enough to step back at the right moment.
 
 You're already using the body-signal underwear. The mechanism is working. Now it's about giving your child the space to show you what he's learned.
 
@@ -73,12 +68,12 @@ You're already using the body-signal underwear. The mechanism is working. Now it
 
 With understanding,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. If you're not seeing any awareness yet — that's okay too. Some L1 kids need 8-10 weeks before the first consistent signal. If that's where you are, keep the prompting steady and check back in next week. Every child's timeline is different, and yours isn't behind. [link]
+P.S. If you're not seeing any awareness yet, that's okay too. Some L1 kids need 8-10 weeks before the first consistent signal. If that's where you are, keep the prompting steady and check back in next week. Every child's timeline is different, and yours isn't behind. [link]
 
-P.S. The 60-day guarantee means you've been trying this risk-free. If you're past 60 days and seeing progress, the 3+3 Bundle holds up — most parents get 6+ months of daily wear before needing to reorder. [link]
+P.S. The 60-day guarantee means you've been trying this risk-free. If you're past 60 days and seeing progress, the 3+3 Bundle holds up, most parents get 6+ months of daily wear before needing to reorder. [link]
 
 ---
 
@@ -161,18 +156,18 @@ Hook → Validation → Mechanism Deep → Practical Steps → Testimonial → P
 
 ```
 L1 PP-Extended Ed Emotional Journey (S2 §2.5):
-  cautious hope ──→ small wins ──→ growing confidence ──→ Pre-K readiness
-                                 │
-                    E4 (D43) lives here: growing confidence
-                    ════════════════════════════════
-                    This email bridges "small wins" (E3 covered body-signal tracking)
-                    to "Pre-K readiness" (E5 covers school readiness & teacher comms).
-                    
-                    Key tension: Parent has seen wins (intermittent awareness) but
-                    hasn't yet let go of prompting. Confidence is fragile.
-                    
-                    Resolution: Permission to fade + concrete protocol + timeline
-                    safety net (P.S. #1 for those not yet seeing awareness).
+ cautious hope ──→ small wins ──→ growing confidence ──→ Pre-K readiness
+ │
+ E4 (D43) lives here: growing confidence
+ ════════════════════════════════
+ This email bridges "small wins" (E3 covered body-signal tracking)
+ to "Pre-K readiness" (E5 covers school readiness & teacher comms).
+ 
+ Key tension: Parent has seen wins (intermittent awareness) but
+ hasn't yet let go of prompting. Confidence is fragile.
+ 
+ Resolution: Permission to fade + concrete protocol + timeline
+ safety net (P.S. #1 for those not yet seeing awareness).
 ```
 
 ### 2.8 Key Sources Cross-Reference

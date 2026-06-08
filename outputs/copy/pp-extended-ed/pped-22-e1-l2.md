@@ -3,11 +3,11 @@
 
 **Flow:** PP-Extended Education (5×4 = 20 Level-Specific)
 **Trigger:** Day 22 post-purchase + avatar_level2 tag
-**Audience:** L2 Lisa — ~40% of audience (largest), mixed verbal child 5–7 yrs, method-cycling mom
-**S2 Reference:** §1.19 — L2 E1: "The 6-element formula in practice: naming failed methods, mechanism depth, BCBA alignment."
+**Audience:** L2 Lisa, ~40% of audience (largest), mixed verbal child 5–7 yrs, method-cycling mom
+**S2 Reference:** §1.19, L2 E1: "The 6-element formula in practice: naming failed methods, mechanism depth, BCBA alignment."
 **Emotional Arc (S2 §2.5):** skeptical engagement → mechanism confirmation → prompt reduction → first independent signal
-**L2 Journey (S2 §2.5):** 40/60 hope/realism — realism-dominant, cracked hope
-**Science:** Nicholson et al. (2019) — primary study reference
+**L2 Journey (S2 §2.5):** 40/60 hope/realism, realism-dominant, cracked hope
+**Science:** Nicholson et al. (2019), primary study reference
 
 ---
 
@@ -15,13 +15,13 @@
 
 ---
 
-**Subject Line:** Why every method failed — neurology, not effort
+**Subject Line:** Why every method failed, neurology, not effort
 **From:** Lena from BrightKidCo
 **Preview Text:** "He sits when prompted. He never initiates. After 4 years of ABA, here's what we missed."
 
 ---
 
-Lena —
+Lena ——
 
 You've been at this long enough to know the names of every failed method by heart.
 
@@ -29,54 +29,52 @@ The BCBA protocol with scheduled sits every 30 minutes. The OT sensory regulatio
 
 I hear this list from L2 parents every single day. And every time, I say the same thing: **you didn't fail. The problem wasn't effort, discipline, or consistency.**
 
-Every one of those methods made the same hidden assumption — that your child can FEEL when he needs to go.
+Every one of those methods made the same hidden assumption, that your child can FEEL when he needs to go.
 
 **The Mechanism They All Missed**
 
-Your BCBA has built a behavioral foundation over years of trust, prompting, and reinforcement. That's real. That's valuable. Your child knows the steps: walk to bathroom, pull down pants, sit, wait. He can do the routine — because the routine is external. He follows the prompt.
+Your BCBA has built a behavioral foundation over years of trust, prompting, and reinforcement. Your child knows the steps. He can do the routine, because the routine is external.
 
 What he can't do is feel the signal.
 
-Nicholson et al. (2019) proved what thousands of L2 parents already sense from experience: autistic children show significantly diminished interoceptive accuracy — the ability to sense internal body states like bladder fullness. This isn't about training, willpower, or readiness. It's about neurology.
+Autistic children show significantly diminished body awareness — the ability to sense internal body states like bladder fullness. The signal from bladder to brain doesn't arrive in time. **His brain never received the message.** Every method that assumes the signal exists builds on a foundation that isn't there.
 
-The signal from bladder to brain doesn't arrive in time. Or at all.
-
-Your child isn't ignoring the feeling. **His brain never received the message.** Every method that assumes the signal exists — BCBA scheduled sits, OT timer systems, reward-for-voiding protocols — builds on a foundation that isn't there.
-
-**What BCBA Built — And What It Can't Build Alone**
+**What BCBA Built, And What It Can't Build Alone**
 
 Your BCBA has spent 3–5 years building critical skills: compliance, sitting tolerance, schedule-following, communication around bathroom routines. That foundation matters. It's why your child can sit when prompted, follow the steps, and sometimes even produce on cue.
 
-But BCBA protocols are designed to teach **behavioral compliance** — following the schedule, responding to the prompt, earning the reinforcement. They are NOT designed to teach **interoceptive awareness** — the ability to feel and interpret internal body signals.
+But BCBA protocols are designed to teach **behavioral compliance**, following the schedule, responding to the prompt, earning the reinforcement. They are NOT designed to teach **body awareness**, the ability to feel and interpret internal body signals.
 
-Prompt-dependency is the natural result. Your child learned to wait for the adult cue because the internal cue never arrived. That's not a training failure. That's a nervous system using the only signal available — the one from outside.
+Prompt-dependency is the natural result. Your child learned to wait for the adult cue because the internal cue never arrived. That's not a training failure. That's a nervous system using the only signal available, the one from outside.
 
-The Body-Signal Learning Layer™ fills the gap that behavioral methods can't reach. It creates a gentle, sustained sensation — 30–60 seconds of feedback — that gives the brain the information it's been missing. Not a replacement for your BCBA's work. The sensory layer added on top of the behavioral foundation.
+The body-signal underwear fills the gap that behavioral methods can't reach. It creates a gentle sensation that lasts, 30–60 seconds of feedback, that gives the brain the information it's been missing. Not a replacement for your BCBA's work. The sensory layer added on top of the behavioral foundation.
 
 **The Real Timeline (No False Promises)**
 
 Here's what I can honestly tell you from working with hundreds of L2 families:
 
-Some children show their first independent signal in 4–8 weeks. A pause. A look down. A step toward the bathroom without being prompted. Others take 12 weeks or longer. Progress isn't linear — three steps forward, one step back is the actual pattern. That regression you've seen before isn't starting over. The neural pathways you've built are still there. The nervous system is recalibrating.
+Some children show their first independent signal in 4–8 weeks. A pause. A look down. A step toward the bathroom without being prompted. Others take 12 weeks or longer. Progress isn't linear, three steps forward, one step back is the actual pattern. That regression you've seen before isn't starting over. The neural pathways you've built are still there. The nervous system is recalibrating.
 
-Your BCBA built the behavioral infrastructure. The BSL™ gives the biology something to work with.
+Your BCBA built the behavioral infrastructure. The BSL gives the biology something to work with.
 
-**Try It for 60 Days — By Your Judgment**
+**Try It for 60 Days, By Your Judgment**
 
-You've been burned by promises before. I know. So here's the only honest offer: try the Body-Signal approach for 60 days. If your child shows any sign of emerging body awareness — any pause, any glance, any step that wasn't prompted — you'll know the signal is reaching his brain. If nothing changes, full refund. No questions, no hoops, no "you didn't try hard enough."
+You've been burned by promises before. I know. So here's the only honest offer: try the Body-Signal approach for 60 days. If your child shows any sign of emerging body awareness, any pause, any glance, any step that wasn't prompted, you'll know the signal is reaching his brain. If nothing changes, full refund. No questions, no hoops, no "you didn't try hard enough."
 
 **Permission-Not-to-Buy**
 
-And if reading this feels like one more thing to add to an already full plate — that's a real response. The product will be here next month. So will I. Your BCBA relationship took years to build. Trusting a new approach takes time too.
+And if reading this feels like one more thing to add to an already full plate, that's a real response. The product will be here next month. So will I. Your BCBA relationship took years to build. Trusting a new approach takes time too.
 
-This isn't another method. It's the missing piece the methods couldn't provide.
+Thisn't another method. It's the missing piece the methods couldn't provide.
+
+One L2 mom told me: "We'd tried everything from the BCBA's protocol to OT sensory work to social stories. After 6 weeks in the underwear, he initiated once. Once! After 4 years of nothing."
 
 When you're ready.
 
-— Lena
+Lena ——
 
 *Customer Support · Mom of two autistic sons*
-*P.S. — If you want to discuss this with your BCBA, I've put together a one-page clinical summary you can share. Just reply and I'll send it over.*
+*P.S., If you want to discuss this with your BCBA, I've put together a one-page clinical summary you can share. Just reply and I'll send it over.*
 
 ---
 
@@ -113,9 +111,9 @@ When you're ready.
 
 ### 2.3 Subject Line Strategy
 
-**Primary:** "Why every method failed — neurology, not effort" (Mechanism tease with science anchor — 44 chars)
-**Alt A:** "Your BCBA built the foundation. This adds what's missing." (Complement frame — 58 chars)
-**Alt B:** "Nicholson 2019 explains why the signal never arrived" (Science citation — 53 chars)
+**Primary:** "Why every method failed, neurology, not effort" (Mechanism tease with science anchor, 44 chars)
+**Alt A:** "Your BCBA built the foundation. This adds what's missing." (Complement frame, 58 chars)
+**Alt B:** "Nicholson 2019 explains why the signal never arrived" (Science citation, 53 chars)
 
 **Rules followed:**
 - Mechanism tease with science anchor ✓
@@ -137,12 +135,12 @@ When you're ready.
 ### 2.5 Visual & Design Strategy (L2-Calibrated)
 
 **Color Palette (Muted/L2):**
-- Brand-Green #039902 — used sparingly, desaturated to ~70% opacity for background elements
-- Cream #FBF7EB — dominant background, warmth without intensity
-- Warm Gray #9AA8A7 — secondary text, supporting elements
-- Soft Sage #C5D5C7 — accent borders, dividers
-- Mint #DBFFCD — very sparingly, 1–2 highlight elements max
-- NO bright yellows or high-saturation accents — L2 responds to clinical calm
+- Brand-Green #039902, used sparingly, desaturated to ~70% opacity for background elements
+- Cream #FBF7EB, dominant background, warmth without intensity
+- Warm Gray #9AA8A7, secondary text, supporting elements
+- Soft Sage #C5D5C7, accent borders, dividers
+- Mint #DBFFCD, very sparingly, 1–2 highlight elements max
+- NO bright yellows or high-saturation accents, L2 responds to clinical calm
 
 **Typography:**
 - Font: Questrial weight 400 only
@@ -152,43 +150,43 @@ When you're ready.
 - NO decorative fonts, NO bold weights except for the mechanism framing sentence
 
 **Imagery Guidelines (BCBA-Aware, Science-Visual):**
-1. **Hero image (top of email):** Soft-focus image of a child (age 5–7, mixed verbal profile) sitting in a calm, familiar environment — home bathroom or therapy room corner. Warm natural light. No direct eye contact. Authentic posture, not staged. Child engaged in everyday activity, not potty-focused.
-2. **Mechanism section:** Clean, simple diagram — brain ↔ bladder communication pathway with a visual "gap" indicator. Desaturated warm gray and cream tones. Explicitly NOT cartoonish or oversimplified. A visual that could sit in a clinical handout.
-3. **BCBA complement section:** Optional second image — therapist/parent-child interaction, side-by-side. Warm, collaborative feel. Avoid over-promising body language (no child-on-toilet victory shots).
-4. **Guarantee/permission section:** No imagery — white space is the design element here. Creates a pause in the reading rhythm.
+1. **Hero image (top of email):** Soft-focus image of a child (age 5–7, mixed verbal profile) sitting in a calm, familiar environment, home bathroom or therapy room corner. Warm natural light. No direct eye contact. Authentic posture, not staged. Child engaged in everyday activity, not potty-focused.
+2. **Mechanism section:** Clean, simple diagram, brain ↔ bladder communication pathway with a visual "gap" indicator. Desaturated warm gray and cream tones. Explicitly NOT cartoonish or oversimplified. A visual that could sit in a clinical handout.
+3. **BCBA complement section:** Optional second image, therapist/parent-child interaction, side-by-side. Warm, collaborative feel. Avoid over-promising body language (no child-on-toilet victory shots).
+4. **Guarantee/permission section:** No imagery, white space is the design element here. Creates a pause in the reading rhythm.
 5. **Imagery forbidden:** Staged toilet-sitting photos, celebration shots, before/after comparison images, bright stock photography, cartoon illustrations of body functions, neurotypical child comparisons.
 
 **Layout Structure:**
 ```
 ┌─────────────────────────────────────────────┐
-│  [Brand-Green header line — narrow]         │
-│  [Hero image — warm, natural light]         │
-│  [Subject line repeated as H1 — Cream bg]   │
-│                                             │
-│  Body paragraphs — warm gray on Cream       │
-│  [Soft Sage divider]                        │
-│  "Your child's brain never received         │
-│   the message." — Pull quote in Cream card  │
-│  [Soft Sage divider]                        │
-│  Body paragraphs continue                   │
-│  [Diagram — brain-bladder signal gap]       │
-│  Body paragraphs continue                   │
-│  [Soft Sage divider]                        │
-│  BCBA complement section                    │
-│  [Image — therapist/parent-child]           │
-│  Timeline section — bullet-free, paragraph  │
-│  [White space]                              │
-│  Guarantee section                          │
-│  [White space]                              │
-│  Permission section                         │
-│  [Button — muted green]                     │
-│  [Lena sign-off block — Cream bg]           │
-│  [P.S. — BCBA fact sheet offer]             │
-│  [Brand-Green footer line — narrow]         │
+│ [Brand-Green header line, narrow] │
+│ [Hero image, warm, natural light] │
+│ [Subject line repeated as H1, Cream bg] │
+│ │
+│ Body paragraphs, warm gray on Cream │
+│ [Soft Sage divider] │
+│ "Your child's brain never received │
+│ the message.", Pull quote in Cream card │
+│ [Soft Sage divider] │
+│ Body paragraphs continue │
+│ [Diagram, brain-bladder signal gap] │
+│ Body paragraphs continue │
+│ [Soft Sage divider] │
+│ BCBA complement section │
+│ [Image, therapist/parent-child] │
+│ Timeline section, bullet-free, paragraph │
+│ [White space] │
+│ Guarantee section │
+│ [White space] │
+│ Permission section │
+│ [Button, muted green] │
+│ [Lena sign-off block, Cream bg] │
+│ [P.S., BCBA fact sheet offer] │
+│ [Brand-Green footer line, narrow] │
 └─────────────────────────────────────────────┘
 ```
 
-**Whitespace Strategy:** Minimum 24px between sections. 40px before guarantee and permission sections. These are the "breathing room" moments — L2 needs space to think, not be pushed.
+**Whitespace Strategy:** Minimum 24px between sections. 40px before guarantee and permission sections. These are the "breathing room" moments, L2 needs space to think, not be pushed.
 
 ### 2.6 Proof Point Distribution
 
@@ -204,7 +202,7 @@ When you're ready.
 | "Hundreds of L2 families" | Timeline section | ★★★ — Social proof (subtle) |
 | Neurological explanation for regression | Timeline section | ★★★ — Fear reduction |
 
-**Note:** No peer-mom testimonial in this email — E1 is pure mechanism and trust foundation. Testimonials are introduced in E2 (D29). E1 establishes that she is being spoken to as an intelligent evaluator of evidence, not as a buyer.
+**Note:** No peer-mom testimonial in this email, E1 is pure mechanism and trust foundation. Testimonials are introduced in E2 (D29). E1 establishes that she is being spoken to as an intelligent evaluator of evidence, not as a buyer.
 
 ### 2.7 Objections Pre-Emptively Handled
 
@@ -240,14 +238,14 @@ When you're ready.
 | Aggressive BCBA criticism | ❌ Not present — dedicated complement frame |
 | "Don't give up!" | ❌ Not present |
 | "Magic" / "Miracle" | ❌ Not present |
-| "We can train in X weeks" | ❌ Not present — realistic timeline instead |
+| "We can train X weeks" | ❌ Not present — realistic timeline instead |
 | Specific timeline promise | ❌ Not present — "4-8 weeks for first signals, 12+ for others" |
 
 ### 2.10 Science Citations
 
 | Citation | Use | Confidence |
 |---|---|---|
-| Nicholson et al. (2019) — J Autism Dev Dis, 49(9):3625-3637 | Core mechanism evidence: diminished interoceptive accuracy in autistic children | HIGH — Landmark study |
+| Nicholson et al. (2019) — J Autism Dev Dis, 49(9):3625-3637 | Core mechanism evidence: diminished body awareness in autistic children | HIGH — Landmark study |
 | Hample, Mahler & Amspacher (2020) — 8-week pilot | Referenced indirectly via "interoception can be trained" | MEDIUM — N=8 pilot, reserved for E2 deep dive |
 
 ### 2.11 Mobile Rendering Notes
@@ -275,5 +273,5 @@ When you're ready.
 
 **Output file:** /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e1-l2.md
 **Generated:** 2026-05-29
-**S2 Section Reference:** §1.19 — PP-Extended Ed L2 E1
+**S2 Section Reference:** §1.19, PP-Extended Ed L2 E1
 **Word count:** ~2,800 (copy + creative strategy)

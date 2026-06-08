@@ -5,8 +5,7 @@
 > **Segment:** Cross-Level (all 4 levels via R1-R6 calibration)
 > **Strategy (S2):** Stronger re-engagement. "One last thing to try."
 > **Tone:** Understanding, supportive, light.
-> **Source:** S2 §1.20 (2-full-email-copy-strategy.md)
-
+> **
 ---
 
 ## PART 1 — FULL EMAIL COPY
@@ -31,9 +30,9 @@
 
 **Primary:** "One last thing before I go quiet"
 
-**Fallback:** "A final thought — and a practical one"
+**Fallback:** "A final thought, and a practical one"
 
-**Rationale (S2 alignment):** Gentle, curious, not guilt-tripping. Matches S2 At-Risk subject line pattern: "One last thing before I go quiet" signals this is the final check-in before the frequency reduces. The word "quiet" feels respectful — we're not demanding attention, we're acknowledging their space. (Source: S2 §1.20, Subject Line Matrix pattern)
+**Rationale (S2 alignment):** Gentle, curious, not guilt-tripping. Matches S2 At-Risk subject line pattern: "One last thing before I go quiet" signals this the final check-in before the frequency reduces. The word "quiet" feels respectful, we're not demanding attention, we're acknowledging their space. 
 
 **Forbidden words avoided:** No urgency, no "last chance," no "don't miss out," no "easy/quick/simple."
 
@@ -41,7 +40,7 @@
 
 ### 1.3 PREVIEW TEXT
 
-> "A practical tip for the week ahead — no pressure, no guilt."
+> "A practical tip for the week ahead, no pressure, no guilt."
 
 **Rationale:** Sets the expectation that this email offers something useful, not a sales push. The "no pressure, no guilt" language is permission-giving (V12) and reassures a disengaged reader who may be bracing for a guilt trip.
 
@@ -55,13 +54,11 @@
 
 Hey,
 
-It's been a little quiet. Noticed you haven't opened our last couple of emails — and that's totally okay.
+It's been a little quiet. Noticed you haven't opened our last couple of emails, and that's totally okay.
 
 Maybe the underwear is sitting in a drawer. Maybe you tried it for a few days and didn't see what you were hoping for. Maybe life got busy and this fell off the priority list.
 
-Whatever the reason — there's no judgment here.
-
-*(Source: S2 At-Risk E1 — "If the underwear is sitting in a drawer — that's okay."; Voice: V7 — validate before proposing)*
+Whatever the reason, there's no judgment here.
 
 ---
 
@@ -69,25 +66,21 @@ Whatever the reason — there's no judgment here.
 
 I hear from parents every week who say the same thing: "I wanted it to work right away. When it didn't, I put it aside."
 
-That's not failure. That's being human. You've been at this for a while — you've earned the right to take a step back.
+That's not failure. That's being human. You've been at this for a while, you've earned the right to take a step back.
 
-Some kids need a slower ramp. Some need longer wear times before the body starts registering the signal. And some need a reset — a few days off, then a fresh start.
-
-*(Source: 05-customer-language-bank.md §A — #4 "I feel like giving up", #86 "Maybe she's just never going to get this"; V20 — regression normalization: "Progress isn't linear. The pathways you built are still there.")*
+Some kids need a slower ramp. Some need longer wear times before the body starts registering the signal. And some need a reset, a few days off, then a fresh start.
 
 ---
 
 **Mechanism Block (Practical Suggestion)**
 
-Here's one thing worth trying this week — just one:
+Here's one thing worth trying this week, just one:
 
 Put the underwear on for 3 consecutive hours, three days in a row. That's it. No timer sits. No pressure to use the potty. Just wear.
 
-Why 3 hours? Research on interoception suggests the body needs sustained exposure to the signal before the brain starts to register it. The Body-Signal Learning Layer creates that 30-60 second 'uh-oh' sensation after every event — but it takes repetition over hours, not minutes, for a hypo-responsive nervous system to begin picking it up.
+Why 3 hours? Research on interoception suggests the body needs sustained exposure to the signal before the brain starts to register it. The Body-Signal Learning Layer creates that 30-60 second 'uh-oh' sensation after every event, but it takes repetition over hours, not minutes, for a nervous system that picks up signals slowly to begin picking it up.
 
 I've seen this small change shift things for parents who thought nothing would.
-
-*(Source: 03-science-library.md PP-A01 — Nicholson et al. 2019 — diminished interoceptive accuracy in autistic children; S2 At-Risk E2 — "increase wear time to 3+ hours"; V11 — mechanism specificity over brand promises)*
 
 ---
 
@@ -95,25 +88,21 @@ I've seen this small change shift things for parents who thought nothing would.
 
 Try it for the next three days. See if anything shifts.
 
-If it doesn't — that's okay too. This email is the last one I'll send at this frequency. If you ever want to try again, the door is open. The 60-day guarantee doesn't expire — whenever you decide to give it a real try, it starts from that day.
+If it doesn't, that's okay too. This email is the last one I'll send at this frequency. If you ever want to try again, the door is open. The 60-day guarantee doesn't expire, whenever you decide to give it a real try, it starts from that day.
 
 No pressure. Just one small thing to try.
 
 Your judgment.
-
-*(Source: V8 — 60-day guarantee; V12 — permission-not-to-buy; S2 At-Risk E4 — "Door is always open. 60-day guarantee restart available.")*
 
 ---
 
 **Lena Sign-Off**
 
 With care,
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. My older son was 8 before his body started connecting the dots. If this week doesn't change anything — that's not a closed door. Some nervous systems just need more time. When you're ready, we're here. 60 days, your judgment. [Link]
-
-*(Source: 11-brand-voice-reference.md §9 — LONG sign-off variant; layer-09-voice-lena.md §8.4 — Long Sign-Off for Late-Flow emails)*
+P.S. My older son was 8 before his body started connecting the dots. If this week doesn't change anything, that's not a closed door. Some nervous systems just need more time. When you're ready, we're here. 60 days, your judgment. [Link]
 
 ---
 
@@ -141,7 +130,7 @@ No longer want to receive these emails? [Unsubscribe]
 
 | Claim / Phrase | Source | Confidence |
 |----------------|--------|------------|
-| "Research on interoception suggests the body needs sustained exposure" | Nicholson et al. (2019) — J. Autism Dev. Disord. 49(9):3625-3637 — diminished interoceptive accuracy in ASD children | HIGH |
+| "Research on interoception suggests the body needs sustained exposure" | Nicholson et al. (2019) — J. Autism Dev. Disord. 49(9):3625-3637 — diminished body awareness in ASD children | HIGH |
 | "3 hours consecutive wear" | S2 At-Risk E2 — practical troubleshooting recommendation | Strategy |
 | "30-60 second uh-oh sensation" | 04-mechanism-positioning.md §4.1 — BSL Layer description | Product |
 | "60-day guarantee doesn't expire" | S2 At-Risk E4 — restart available | Strategy |
@@ -161,12 +150,12 @@ No longer want to receive these emails? [Unsubscribe]
 
 **"One small thing. Three days. No pressure."**
 
-A gentleness-first re-engagement email that offers a single, concrete, low-bar action step — not a sales pitch, not a guilt trip, not another product push. The creative metaphor is a "soft reset": a quiet invitation to try again on the reader's own terms. The visual language mirrors the copy — spacious, warm, uncluttered. Every element says: "You're in control here."
+A gentleness-first re-engagement email that offers a single, concrete, low-bar action step, not a sales pitch, not a guilt trip, not another product push. The creative metaphor is a "soft reset": a quiet invitation to try again on the reader's own terms. The visual language mirrors the copy, spacious, warm, uncluttered. Every element says: "You're in control here."
 
-**Archetype:** Permission-based re-engagement (V12 — permission-not-to-buy)
-**Visual metaphor:** A gentle nudge — like a friend leaving a useful note on your desk, then stepping back. No flashing lights, no urgency banners.
+**Archetype:** Permission-based re-engagement (V12, permission-not-to-buy)
+**Visual metaphor:** A gentle nudge, like a friend leaving a useful note on your desk, then stepping back. No flashing lights, no urgency banners.
 
-*(Sources: consolidated-design-skills-trimmed.md §8.6 — Creative Strategy Box; S2 §1.20 At-Risk E3)*
+*(Sources: consolidated-design-skills-trimmed.md §8.6, Creative Strategy Box; S2 §1.20 At-Risk E3)*
 
 ---
 
@@ -174,91 +163,91 @@ A gentleness-first re-engagement email that offers a single, concrete, low-bar a
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  HEADER BAND                                              │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │ [BKC Logo — 120px wide, centered]                  │   │
-│  │ [Divider line — #E8E0D8, 1px]                      │   │
-│  └────────────────────────────────────────────────────┘   │
+│ HEADER BAND │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ [BKC Logo, 120px wide, centered] │ │
+│ │ [Divider line, #E8E0D8, 1px] │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  HERO BAND                                                │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │                                                    │   │
-│  │   [Custom illustration — Soft Reset Still Life]    │   │
-│  │   → A pair of white-framed children's underwear    │   │
-│  │     draped over the back of a small wooden chair,  │   │
-│  │     warm sunlight falling across the seat.         │   │
-│  │     Aspect ratio: 600×320px                        │   │
-│  │                                                    │   │
-│  └────────────────────────────────────────────────────┘   │
+│ HERO BAND │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ │ │
+│ │ [Custom illustration, Soft Reset Still Life] │ │
+│ │ → A pair of white-framed children's underwear │ │
+│ │ draped over the back of a small wooden chair, │ │
+│ │ warm sunlight falling across the seat. │ │
+│ │ Aspect ratio: 600×320px │ │
+│ │ │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  HEADLINE BAND  (bg: #FFF9F5)                             │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │                                                    │   │
-│  │  Subject-reflected headline:                       │   │
-│  │  "One last thing before I go quiet"                │   │
-│  │  (font-size: 24px, bold, #3D2C2E)                  │   │
-│  │                                                    │   │
-│  └────────────────────────────────────────────────────┘   │
+│ HEADLINE BAND (bg: #FFF9F5) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ │ │
+│ │ Subject-reflected headline: │ │
+│ │ "One last thing before I go quiet" │ │
+│ │ (font-size: 24px, bold, #3D2C2E) │ │
+│ │ │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  BODY BAND — HOOK  (bg: #FFF9F5)                          │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │  18px text, #3D2C2E — "Hey, it's been a little    │   │
-│  │  quiet..." — 3 short paragraphs max                │   │
-│  │  Max-width: 520px, centered, line-height: 1.6      │   │
-│  └────────────────────────────────────────────────────┘   │
+│ BODY BAND, HOOK (bg: #FFF9F5) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ 18px text, #3D2C2E, "Hey, it's been a little │ │
+│ │ quiet...", 3 short paragraphs max │ │
+│ │ Max-width: 520px, centered, line-height: 1.6 │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  BODY BAND — VALIDATION  (bg: #FFF9F5)                    │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │  "That's not failure. That's being human."         │   │
-│  │  18px text, #3D2C2E                                │   │
-│  │  Soft left border accent: 3px solid #D4A89B        │   │
-│  │   (Lena's signature rose)                          │   │
-│  └────────────────────────────────────────────────────┘   │
+│ BODY BAND, VALIDATION (bg: #FFF9F5) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ "That's not failure. That's being human." │ │
+│ │ 18px text, #3D2C2E │ │
+│ │ Soft left border accent: 3px solid #D4A89B │ │
+│ │ (Lena's signature rose) │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  MECHANISM BLOCK  (bg: #F5EFEA)                           │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │  ★ ICYMI SECTION ★                                 │   │
-│  │  [Small icon: Lightbulb or simple compass icon]    │   │
-│  │  Headline: "One thing worth trying" (20px bold)    │   │
-│  │  Body: "Put the underwear on for 3 consecutive     │   │
-│  │   hours, three days in a row..." (18px)            │   │
-│  │  → Bordered callout box: 2px #D4A89B rounded 8px  │   │
-│  │  → Subtle bg: #FAF5F0                              │   │
-│  └────────────────────────────────────────────────────┘   │
+│ MECHANISM BLOCK (bg: #F5EFEA) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ ★ ICYMI SECTION ★ │ │
+│ │ [Small icon: Lightbulb or simple compass icon] │ │
+│ │ Headline: "One thing worth trying" (20px bold) │ │
+│ │ Body: "Put the underwear on for 3 consecutive │ │
+│ │ hours, three days in a row..." (18px) │ │
+│ │ → Bordered callout box: 2px #D4A89B rounded 8px │ │
+│ │ → Subtle bg: #FAF5F0 │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  CTA BAND  (bg: #FFF9F5)                                  │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │                                                    │   │
-│  │  [████████████████████████████████████████████]    │   │
-│  │  [   Try it for 3 days — no pressure   ]          │   │
-│  │  [████████████████████████████████████████████]    │   │
-│  │  bg: #D4A89B → text: #FFFFFF → 16px bold          │   │
-│  │  border-radius: 25px → padding: 14px 32px         │   │
-│  │  → Secondary CTA text below:                      │   │
-│  │  "Or just tuck this away for later. No rush."     │   │
-│  │  (14px, #8C7A6B, link style)                      │   │
-│  │                                                    │   │
-│  └────────────────────────────────────────────────────┘   │
+│ CTA BAND (bg: #FFF9F5) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ │ │
+│ │ [████████████████████████████████████████████] │ │
+│ │ [ Try it for 3 days, no pressure ] │ │
+│ │ [████████████████████████████████████████████] │ │
+│ │ bg: #D4A89B → text: #FFFFFF → 16px bold │ │
+│ │ border-radius: 25px → padding: 14px 32px │ │
+│ │ → Secondary CTA text below: │ │
+│ │ "Or just tuck this away for later. No rush." │ │
+│ │ (14px, #8C7A6B, link style) │ │
+│ │ │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  SIGN-OFF BAND  (bg: #FFF9F5)                             │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │  "With care, Lena"                                 │   │
-│  │  "Customer Support · Mom of two autistic sons"     │   │
-│  │  "P.S. ..." in 15px italic, #5A4A4B                │   │
-│  └────────────────────────────────────────────────────┘   │
+│ SIGN-OFF BAND (bg: #FFF9F5) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ "With care, Lena" │ │
+│ │ "Customer Support · Mom of two autistic sons" │ │
+│ │ "P.S. ..." in 15px italic, #5A4A4B │ │
+│ └────────────────────────────────────────────────────┘ │
 ├──────────────────────────────────────────────────────────┤
-│  FOOTER BAND  (bg: #EDE6DF, text: #8C7A6B)               │
-│  ┌────────────────────────────────────────────────────┐   │
-│  │  [Unsubscribe link · Preferences · Address]        │   │
-│  │  Font: 11px, (#8C7A6B)                             │   │
-│  └────────────────────────────────────────────────────┘   │
+│ FOOTER BAND (bg: #EDE6DF, text: #8C7A6B) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ [Unsubscribe link · Preferences · Address] │ │
+│ │ Font: 11px, (#8C7A6B) │ │
+│ └────────────────────────────────────────────────────┘ │
 └──────────────────────────────────────────────────────────┘
 
 Total HTML weight target: <60KB | Image weight: <120KB
 Gmail clip-safe at <102KB HTML
 ```
 
-*(Sources: consolidated-design-skills-trimmed.md §8.6 — Wireframe Format; email-design-master §1 — Mobile-First Architecture; S2 §1.20)*
+*(Sources: consolidated-design-skills-trimmed.md §8.6, Wireframe Format; email-design-master §1, Mobile-First Architecture; S2 §1.20)*
 
 ---
 
@@ -268,23 +257,23 @@ Gmail clip-safe at <102KB HTML
 
 A custom warm-toned illustration in flat, minimal style showing:
 
-- A small wooden child's chair (lightly distressed — warm oak tones)
+- A small wooden child's chair (lightly distressed, warm oak tones)
 - A pair of BrightKidCo underwear in white with the signature embroidered BKC logo stripe (soft blue-grey) draped over the backrest
 - Late afternoon sunlight streaming from frame-right, casting a gentle diagonal shadow
-- A single small plant (potted succulent) on the floor beside the chair — symbolizing growth without pressure
+- A single small plant (potted succulent) on the floor beside the chair, symbolizing growth without pressure
 - Art style: flat vector with subtle texture overlay (20% grain), warm beige background (#F5EFEA)
 
 **Composition notes:**
-- Chair off-center left, facing right — creates "looking forward" energy
-- Underwear draped naturally, not staged — looks like it was left there after a quiet afternoon
+- Chair off-center left, facing right, creates "looking forward" energy
+- Underwear draped naturally, not staged, looks like it was left there after a quiet afternoon
 - Warm color palette: #C9A88B (chair wood), #F5EFEA (background), #FFFFFF (underwear), #8FA8A0 (plant green)
-- No human figures — inclusive across all family compositions
+- No human figures, inclusive across all family compositions
 
 **Secondary icon:**
 - A small hand-drawn compass or "reset" arrow icon used as the ICYMI section marker (32×32px, #D4A89B)
 - Simple 2-line SVG: a circle with a directional arrow curling back on itself
 
-*(Sources: consolidated-design-skills-trimmed.md §8.6 — Image Briefs; email-design-standards §3 — Branded Graphics; GIULIANO-DEMANDS.md §R1-R6 — cross-level imagery rules — no level-specific imagery; V23 — alt-text must match voice tone)*
+*(Sources: consolidated-design-skills-trimmed.md §8.6, Image Briefs; email-design-standards §3, Branded Graphics; GIULIANO-DEMANDS.md §R1-R6, cross-level imagery rules, no level-specific imagery; V23, alt-text must match voice tone)*
 
 ---
 
@@ -292,7 +281,7 @@ A custom warm-toned illustration in flat, minimal style showing:
 
 **Palette Name:** "Warm Reset"
 
-This warm, earthy palette is calibrated for a re-engagement email. No bright promotional colors — everything reads as soft, familiar, and non-pressuring.
+This warm, earthy palette is calibrated for a re-engagement email. No bright promotional colors, everything reads as soft, familiar, and non-pressuring.
 
 | Role | Hex | Name | Usage | Emotional Intent |
 |------|-----|------|-------|-----------------|
@@ -309,9 +298,9 @@ This warm, earthy palette is calibrated for a re-engagement email. No bright pro
 
 **Color psychology rationale:**
 - No blues (too clinical), no reds (too urgent), no blacks (too final)
-- Warm beige-linen family reads as "safe space" — like a living room, not a clinic
-- Rose (#D4A89B) is the signature BKC accent — used sparingly so it carries weight
-- Sage green emerges only in the illustration — organic, alive, but quiet
+- Warm beige-linen family reads as "safe space", like a living room, not a clinic
+- Rose (#D4A89B) is the signature BKC accent, used sparingly so it carries weight
+- Sage green emerges only in the illustration, organic, alive, but quiet
 
 **Dark mode adaptation:**
 - Swap `#FFF9F5` → `#2A2522` (warm dark)
@@ -319,7 +308,7 @@ This warm, earthy palette is calibrated for a re-engagement email. No bright pro
 - CTA bg `#D4A89B` stays (auto-inversion acceptable; contrast maintained)
 - Dark mode bg uses warm undertone (not neutral grey or pure black) to preserve the emotional tone
 
-*(Sources: consolidated-design-skills-trimmed.md — email-design-master §7 — Dark Mode Color System; GIULIANO-DEMANDS.md — BKC brand standards from diagnosis layers; V23 — dark mode alt-text)*
+*(Sources: consolidated-design-skills-trimmed.md, email-design-master §7, Dark Mode Color System; GIULIANO-DEMANDS.md, BKC brand standards from diagnosis layers; V23, dark mode alt-text)*
 
 ---
 
@@ -336,14 +325,14 @@ This warm, earthy palette is calibrated for a re-engagement email. No bright pro
 | **Footer** | Same stack | 11px | Normal (400) | `#8C7A6B` | 0px | 1.4 |
 
 **Rationale:**
-- No custom fonts (Gmail strips @font-face) — using the robust Helvetica Neue stack
+- No custom fonts (Gmail strips @font-face), using the robust Helvetica Neue stack
 - 18px body minimum for mobile readability (iOS auto-zoomes below 13px)
 - 24px headline = visible hierarchy without shouting
 - Generous line-height (1.6) creates the "spacious, no-pressure" feel
-- P.S. in italic signals "this is a personal afterthought from Lena" — less formal
+- P.S. in italic signals "this a personal afterthought from Lena", less formal
 - CTA button text has 0.5px letter-spacing for a premium finish; all-caps avoided (screams marketing)
 
-*(Sources: consolidated-design-skills-trimmed.md — email-design-master §5 — Font Stacks, §6 — Standard Email Anatomy; 11-brand-voice-reference.md §9 — Sign-Off Variants)*
+*(Sources: consolidated-design-skills-trimmed.md, email-design-master §5, Font Stacks, §6, Standard Email Anatomy; 11-brand-voice-reference.md §9, Sign-Off Variants)*
 
 ---
 
@@ -359,13 +348,13 @@ This warm, earthy palette is calibrated for a re-engagement email. No bright pro
 | **Unsubscribe footer** | 11px text, centered, 2 links: Preferences / Unsubscribe | Footer | Legal requirement; small to recede |
 
 **Anti-patterns explicitly avoided:**
-- ❌ No emoji bullets (V4 — never sound like marketing)
-- ❌ No gradient backgrounds (anti-slop — consolidated-design-skills-trimmed.md §6.2)
-- ❌ No stock photo of a child (V23 — alt-text must match voice tone; cross-level email means no level-specific imagery)
-- ❌ No product grid / multiple products (this is re-engagement, not commerce)
-- ❌ No star ratings / social proof counters (E3 is too early in At-Risk for these — reserved for E4)
+- ❌ No emoji bullets (V4, never sound like marketing)
+- ❌ No gradient backgrounds (anti-slop, consolidated-design-skills-trimmed.md §6.2)
+- ❌ No stock photo of a child (V23, alt-text must match voice tone; cross-level email means no level-specific imagery)
+- ❌ No product grid / multiple products (this re-engagement, not commerce)
+- ❌ No star ratings / social proof counters (E3 is too early in At-Risk for these, reserved for E4)
 
-*(Sources: consolidated-design-skills-trimmed.md §6 — Anti-AI Slop; email-design-master §6 — Standard Email Anatomy)*
+*(Sources: consolidated-design-skills-trimmed.md §6, Anti-AI Slop; email-design-master §6, Standard Email Anatomy)*
 
 ---
 
@@ -373,13 +362,11 @@ This warm, earthy palette is calibrated for a re-engagement email. No bright pro
 
 **The Chair's Shadow:**
 
-In the hero illustration, the shadow cast by the child's chair forms a subtle, almost-imperceptible shape — if the viewer looks closely, the shadow line traces the rough outline of a lowercase "b" and "k" (for BrightKidCo). This is a quiet brand signature: the brand is present, but it doesn't announce itself. It's just part of the environment.
+In thero illustration, the shadow cast by the child's chair forms a subtle, almost-imperceptible shape, if the viewer looks closely, the shadow line traces the rough outline of a lowercase "b" and "k" (for BrightKidCo). This a quiet brand signature: the brand is present, but it doesn't announce itself. It's just part of the environment.
 
-**Implementation:** The shadow is rendered in 15% opacity of the chair's color (#C9A88B at 15%) — visible if you look for it, seamless if you don't.
+**Implementation:** The shadow is rendered in 15% opacity of the chair's color (#C9A88B at 15%), visible if you look for it, seamless if you don't.
 
 **Alt-text for the illustration:** "A small wooden child's chair with a pair of BrightKidCo underwear draped over the backrest, warm afternoon light falling across the scene."
-
-*(Source: V23 — Image alt-text must match voice tone: L1: active/forward-looking, L2: calm/sensory-aware, L3: reflective/dignity-forward. This cross-level email uses the L2 variant: calm, sensory-aware.)*
 
 **The "Open Door" HTML Comment:**
 
@@ -389,9 +376,9 @@ In the email's HTML source, a hidden comment near the CTA reads:
 <!-- The door doesn't lock. Come back anytime. -->
 ```
 
-This is invisible to recipients but embodies the brand's permission-not-to-buy philosophy (V12) at the code level. It's a detail that the design team will recognize as intentional on future audits.
+This invisible to recipients but embodies the brand's permission-not-to-buy philosophy (V12) at the code level. It's a detail that the design team will recognize as intentional on future audits.
 
-*(Sources: V12 — Permission-not-to-buy; GIULIANO-DEMANDS.md §6 — D3 Objection)*
+*(Sources: V12, Permission-not-to-buy; GIULIANO-DEMANDS.md §6, D3 Objection)*
 
 ---
 
@@ -399,28 +386,28 @@ This is invisible to recipients but embodies the brand's permission-not-to-buy p
 
 **Live email animation (GIF, <400KB):**
 
-A subtle micro-animation lives in the hero image area:
+A subtle micro-animation lives in thero image area:
 
-1. **Light ray shift (6-second loop):** The warm sunlight angle shifts very slightly — a 3° rotation over 3 seconds, then holds for 3 seconds, then resets. This creates a "breathing" quality — the scene feels alive, like late afternoon light moving across a room.
+1. **Light ray shift (6-second loop):** The warm sunlight angle shifts very slightly, a 3° rotation over 3 seconds, then holds for 3 seconds, then resets. This creates a "breathing" quality, the scene feels alive, like late afternoon light moving across a room.
 
 2. **Frame rate:** 15fps (adequate for subtle ambient motion, keeps file size small)
 
-3. **Colour shift:** The highlight on the chair's wood grain subtly warms (#C9A88B → #D4A89B over 3s, then back) — as if the sun is slowly moving
+3. **Colour shift:** The highlight on the chair's wood grain subtly warms (#C9A88B → #D4A89B over 3s, then back), as if the sun is slowly moving
 
-**Static fallback:** In Outlook and Gmail (which don't reliably support GIF animation), the hero displays the static version of the illustration at frame 0 — the warmest, most inviting frame. No information is lost.
+**Static fallback:** In Outlook and Gmail (which don't reliably support GIF animation), thero displays the static version of the illustration at frame 0, the warmest, most inviting frame. No information is lost.
 
 **Why this motion:**
-- Not decorative — it serves the "time passing gently" metaphor of the email
-- Not distracting — no flash, no bounce, no kinetic text
+- Not decorative, it serves the "time passing gently" metaphor of the email
+- Not distracting, no flash, no bounce, no kinetic text
 - The animation reinforces the verbal message: "take your time, there's no rush"
 
-*(Sources: consolidated-design-skills-trimmed.md — email-design-master §6.3 — Image Rules; huashu-design §2 — motion principles)*
+*(Sources: consolidated-design-skills-trimmed.md, email-design-master §6.3, Image Rules; huashu-design §2, motion principles)*
 
 ---
 
 ### 2.9 LEVEL CALIBRATION (R1-R6)
 
-This email is cross-level — a single copy serving all 4 avatar levels (L1-Sarah, L2-Lisa, L3-Maria, General Fallback). Every level consideration is embedded in the copy and design:
+This email is cross-level, a single copy serving all 4 avatar levels (L1-Sarah, L2-Lisa, L3-Maria, General Fallback). Every level consideration is embedded in the copy and design:
 
 | Rule | Requirement | How This Email Satisfies It | Line Reference |
 |------|-------------|----------------------------|----------------|
@@ -440,13 +427,13 @@ This email is cross-level — a single copy serving all 4 avatar levels (L1-Sara
 | **L3 (Maria) — Dignity-first** | The P.S. "if this week doesn't change anything — that's not a closed door" directly addresses L3's hope-fear (D3 objection). No "don't give up" language (forbidden per L3 rules) |
 | **GF (General Fallback) — Including all sub-groups** | Symptom-only language ("if your child doesn't feel when they need to go" — never mentions autism/ASD) satisfies Sub-Group B (Diagnosis-Rejecters, V16). No diagnosis prerequisite (GF-C: sensory-difference). "Underwear sitting in a drawer" is universal across all GF segments |
 
-**Violation cost check:** R1 violation would be worst — using level labels would make GF parents feel excluded and L3 parents feel labeled. Every line has been checked against all 6 rules. Clean.
+**Violation cost check:** R1 violation would be worst, using level labels would make GF parents feel excluded and L3 parents feel labeled. Every line has been checked against all 6 rules. Clean.
 
-*(Sources: 15-level-messaging-matrix.md §5.3 — The 6 Cross-Level Calibration Rules; GIULIANO-DEMANDS.md §1 — Four-Level Segmentation; 11-brand-voice-reference.md §7.3 — Level-Specific Approved Phrases)*
+*(Sources: 15-level-messaging-matrix.md §5.3, The 6 Cross-Level Calibration Rules; GIULIANO-DEMANDS.md §1, Four-Level Segmentation; 11-brand-voice-reference.md §7.3, Level-Specific Approved Phrases)*
 
 ---
 
 > **End of document.**
 > **File version:** 1.0
-> **Produced for:** BrightKidCo — PP-Support At-Risk Flow (Wave 9 of 11)
-> **Source:** S2 §1.20 — At-Risk E3 (Cross-Level) strategy
+> **Produced for:** BrightKidCo, PP-Support At-Risk Flow (Wave 9 of 11)
+> **

@@ -3,7 +3,7 @@
 
 **Flow:** PP-Extended Education (Flow 22)
 **Email:** E2 (Day 29)
-**Level:** L2 — Lisa (Method-Cycling, ~40% audience)
+**Level:** L2, Lisa (Method-Cycling, ~40% audience)
 **Author:** Lena S., Customer Support · Mom of two autistic sons
 **Status:** ✅ Complete
 
@@ -15,94 +15,65 @@
 
 **Subject Line:** What Nicholson et al. 2019 revealed about autistic children's body signals
 
-**Preheader:** The landmark study that explains why your child's learning timeline looks different — and why that's exactly what you should expect.
+**Preheader:** The landmark study that explains why your child's learning timeline looks different, and why that's exactly what you should expect.
 
 ---
 
 Lena from BrightKidCo here.
 
-You're 29 days in with the Body-Signal Learning Layer. Some days you see something — a pause, a look down, a hand on the waistband. Other days nothing.
+You're 29 days in with the Body-Signal Learning Layer. Some days you see something, a pause, a look down, a hand on the waistband. Other days nothing.
 
 You're tracking. You're documenting. And you're wondering: *Is this actually working? Am I just seeing what I want to see?*
 
-I want to walk you through the study that underpins everything BrightKidCo does — Nicholson et al. 2019. Not because you need a science lesson. Because when you understand exactly what's happening in your child's nervous system, the waiting makes sense. The timeline makes sense. And the small signals you're tracking become evidence, not wishful thinking.
+I want to walk you through the study that underpins everything BrightKidCo does, Nicholson et al. 2019. Not because you need a science lesson. Because when you understand exactly what's happening in your child's nervous system, the waiting makes sense. The timeline makes sense. And the small signals you're tracking become evidence, not wishful thinking.
 
 ---
 
 ## What Nicholson et al. 2019 Actually Found
 
-The study compared interoceptive accuracy — the ability to sense internal body states — between autistic children and typically developing children.
+The study compared body awareness, the ability to sense internal body states, between autistic children and typically developing children.
+## What Nicholson et al. 2019 Actually Found
 
-**Here's what they found in Experiment 2 (children):**
+The study compared body awareness between autistic children and typically developing children.
 
-Autistic children showed significantly diminished interoceptive accuracy. Moderate-to-large effect size. This wasn't a small difference — it was a measurable, statistically significant gap.
+**Experiment 2 (children):** Autistic children showed significantly diminished body awareness. Moderate-to-large effect size — a measurable, statistically significant gap.
 
-**Here's what they found in Experiment 1 (adults):**
+**Experiment 1 (adults):** Autistic adults showed NO difference from non-autistic adults. The body signal gap was gone.
 
-Autistic adults showed NO difference from non-autistic adults. The interoceptive gap was gone.
+> *Early interoception difficulties are resolved or compensated for by adulthood in people with ASD.*
 
-**The conclusion the researchers drew is the single most important sentence for your journey:**
-
-> *"Early interoception difficulties are resolved or compensated for by adulthood in people with ASD."*
-
-The deficit is childhood-specific. It closes. The brain finds a way.
-
-Your child is not permanently disconnected from their body signals. The wiring is delayed, not absent.
-
----
+The deficit is childhood-specific. It closes. Your child is not permanently disconnected from their body signals. The wiring is delayed, not absent.
 
 ## What This Means for Your Child's Learning Timeline
 
-This finding changes how you read your child's progress.
-
 ### 1. The current delay is developmental, not fixed.
 
-The interoceptive gap exists because the neural pathways for body-signal awareness haven't fully formed yet. Nicholson's team proved this pathway *does* eventually develop in autistic individuals — but it needs the right input during childhood.
-
-Your child's nervous system is not failing. It's developing on a different timeline.
+The neural pathways for body-signal awareness haven't fully formed yet. Nicholson's team proved this pathway *does* eventually develop, but it needs the right input during childhood.
 
 ### 2. External feedback is the missing piece.
 
-The study's implication for intervention is clear: if the internal signal isn't reaching the brain on time, an external signal can fill the gap. That's what the Body-Signal Learning Layer provides.
-
-- No signal yet? The wet sensation from Layer 1 creates the feedback the brain needs.
-- Inconsistent signal? The sustained 30-60 second sensation reinforces the pathway each time.
-
-Think of it like this: the BSL isn't training behavior. It's giving your child's interoceptive system the repetitions it needs to build the connection.
+If the internal signal isn't reaching the brain on time, an external signal can fill the gap. The BSL Layer provides that — a wet sensation from Layer 1, a sustained 30-60 second sensation reinforcing the pathway each time.
 
 ### 3. Weeks 4-8 are the neural-rewiring window.
 
-From the first day in BSL underwear, your child's brain begins receiving a signal it never got consistently before. But neural pathways don't form overnight.
+From the first day in BSL underwear, your child's brain begins receiving a signal it never got consistently before.
 
-**What typically happens in this window:**
-
-| Week Range | What's Happening Neurologically | What You Might See |
-|------------|-------------------------------|-------------------|
-| Week 1-2 | Novel sensation — brain registers "something is different" | Possible refusal, curiosity, or ignoring it entirely |
-| Week 3-4 | Repetition — pathway begins forming | Occasional pause after wetting; inconsistent awareness |
-| Week 5-8 | Consolidation — signal is being recognized more reliably | Looking down, touching waistband, sometimes pausing mid-accident |
-| Week 8-12 | Pathway strengthening — signal is becoming meaningful | Occasional successful redirection; growing consistency |
-
-Your BCBA can help you track these markers objectively. The data you're collecting — times of day, types of accidents, any micro-pause — is valuable clinical information.
+| Week Range | What's Happening | What You Might See |
+|------------|-----------------|-------------------|
+| Week 1-2 | Novel sensation — brain registers "something is different" | Possible refusal, curiosity, or ignoring |
+| Week 3-4 | Repetition — pathway begins forming | Occasional pause after wetting |
+| Week 5-8 | Consolidation — signal recognized more reliably | Looking down, touching waistband |
+| Week 8-12 | Pathway strengthening | Occasional successful redirection |
 
 ### 4. Prompt-dependency will fade as the internal signal grows.
 
-If your child currently goes only when prompted, that's not failure. That's exactly what interoception research predicts.
-
-Your BCBA built behavioral compliance: your child learned to respond to an external cue (your prompt). What's been missing is the internal cue (the feeling of bladder fullness). The BSL underwear is now building that internal signal layer.
-
-**Over time, two things happen:**
-
-- The external prompt becomes less necessary as the internal signal gets stronger
-- Your child begins responding to the body signal first, then checking in with you
-
-This doesn't happen overnight. But it does happen. Nicholson's research confirms the brain *can* build this pathway.
+Your child currently goes only when prompted — that's not failure. That's exactly what interoception research predicts. Over time, the external prompt becomes less necessary as the internal signal gets stronger.
 
 ---
 
 ## Your BCBA and the BSL Layer — Partners, Not Competitors
 
-I want to be direct about something: your BCBA has done valuable work. The compliance, the routines, the prompting protocols — those were necessary. They built the foundation your child needed to even attempt toileting.
+I want to be direct about something: your BCBA has done valuable work. The compliance, the routines, the prompting protocols, those were necessary. They built the foundation your child needed to even attempt toileting.
 
 The BSL layer doesn't replace that work. It adds a sensory component that ABA alone couldn't address.
 
@@ -110,7 +81,7 @@ The BSL layer doesn't replace that work. It adds a sensory component that ABA al
 
 - Share your tracking data after 30 days
 - Note any changes in awareness timing (does he pause faster than before?)
-- Track whether wetness awareness emerges before BM awareness (this is typical)
+- Track whether wetness awareness emerges before BM awareness (this typical)
 
 Your BCBA can integrate this data into their ongoing assessment. The sensory layer and the behavioral layer together close a gap that neither could close alone.
 
@@ -118,9 +89,9 @@ Your BCBA can integrate this data into their ongoing assessment. The sensory lay
 
 ## Where Your Child Is Right Now Is Normal
 
-You're in week 4-5 of this experiment. If you're seeing anything from the Week 3-4 column above — an occasional pause, a different facial expression after an accident, reaching for the underwear instead of ignoring it — that's a measurable change. That's evidence that the pathway is forming.
+You're in week 4-5 of this experiment. If you're seeing anything from the Week 3-4 column above, an occasional pause, a different facial expression after an accident, reaching for the underwear instead of ignoring it, that's a measurable change. That's evidence that the pathway is forming.
 
-If you're still in Week 1-2 territory (no visible awareness yet), that's also normal. Some children need 8-12 weeks before the first recognizable signal appears. Nicholson's study measured interoceptive accuracy at a group level; individual children vary widely.
+If you're still in Week 1-2 territory (no visible awareness yet), that's also normal. Some children need 8-12 weeks before the first recognizable signal appears. Nicholson's study measured body awareness at a group level; individual children vary widely.
 
 Your child's timeline is their own. The science says the brain *can* learn this. But "can learn" doesn't mean "in a specific number of weeks."
 
@@ -128,27 +99,27 @@ Your child's timeline is their own. The science says the brain *can* learn this.
 
 ## The 60-Day Guarantee Still Stands
 
-You haven't made a final decision yet. You're 29 days into a 60-day trial. If at day 55 you look at your tracking data and see zero change — not one micro-pause, not one look down, nothing — then this approach wasn't right for your child. Full refund, no questions, no return shipping.
+You haven't made a final decision yet. You're 29 days into a 60-day trial. If at day 55 you look at your tracking data and see zero change, not one micro-pause, not one look down, nothing, then this approach wasn't right for your child. Full refund, no questions, no return shipping.
 
 But in my experience reading parent tracking sheets over the last few years, most parents at day 29 are seeing more than they think they are. The changes are small. But they're real.
 
-Keep tracking. Keep the underwear on. The interoceptive pathway builds in quiet, millimeter-by-millimeter steps. Then one day you realize a pause came before the accident instead of after — and that's the day everything shifts.
+Keep tracking. Keep the underwear on. The body signal pathway builds in quiet, millimeter-by-millimeter steps. Then one day you realize a pause came before the accident instead of after, and that's the day everything shifts.
 
 ---
 
-If today isn't right — if the tracking feels overwhelming, if you need a break — that's a real answer. The product will be here. So will I.
+If today isn't right, if the tracking feels overwhelming, if you need a break, that's a real answer. The product will be here. So will I.
 
 With understanding,
 
-Lena
+Lena ——
 
 *Customer Support · Mom of two autistic sons*
 
-P.S. — If you want a one-page explanation of the Nicholson study to share with your BCBA or OT, reply to this email and I'll send it to you. I've read it about twenty times now, and I can help you find the parts most relevant to your child's age and profile.
+P.S., If you want a one-page explanation of the Nicholson study to share with your BCBA or OT, reply to this email and I'll send it to you. I've read it about twenty times now, and I can help you find the parts most relevant to your child's age and profile.
 
 ---
 
-**CTA:** None — education-only email. Soft permission at sign-off.
+**CTA:** None, education-only email. Soft permission at sign-off.
 
 ---
 
@@ -193,7 +164,7 @@ P.S. — If you want a one-page explanation of the Nicholson study to share with
 
 | Tier | Citation/Element | Location |
 |------|-----------------|----------|
-| 🏆 Tier 1: Mechanism Specificity | Nicholson 2019 — interoceptive accuracy deficit in children vs adults | Core body of email |
+| 🏆 Tier 1: Mechanism Specificity | Nicholson 2019 — body awareness deficit in children vs adults | Core body of email |
 | 🏆 Tier 3: Kelly Mahler/SPARK | Nicholson is THE landmark interoception study; citation anchors entire email | Header + mechanism section |
 | 🏆 Tier 2: BCBA Co-Sign | "Your BCBA can integrate this data into ongoing assessment" | BCBA bridge section |
 | 🏆 Tier 5: 60-Day Guarantee | Full refund at day 55 if no change | Guarantee section |
@@ -227,14 +198,14 @@ P.S. — If you want a one-page explanation of the Nicholson study to share with
 |---------|-----------|
 | **Hook** | Name the prompt-dependency loop with precision: "He looks at you before he looks at the potty. Every time." |
 | **Emotional pivot** | From mechanism confirmation → practical strategy. She's ready for next steps. |
-| **Core mechanism** | Explain *why* prompts create dependency (ABA reinforcement model meets interoceptive delay) |
+| **Core mechanism** | Explain *why* prompts create dependency (ABA reinforcement model meets body signal delay) |
 | **Strategy delivery** | 3-stage prompt fading protocol: (1) Distance prompts — stand further away, (2) Delayed prompts — wait 10 seconds before cueing, (3) Observation-only — track without intervening |
-| **Science backing** | Reference Azrin & Foxx 1971 (behavioral reinforcement pathways) + Nicholson 2019 (interoceptive timeline) |
+| **Science backing** | Reference Azrin & Foxx 1971 (behavioral reinforcement pathways) + Nicholson 2019 (body signal timeline) |
 | **BCBA alignment** | "Share the fading protocol with your BCBA. They may have additional strategies to layer in that align with your child's behavioral goals." |
 | **Hope anchor** | "Every time your child initiates — even once — that's proof the internal signal is winning over the external cue." |
 | **CTA** | "Try the 10-second delay this week. Just one change. See what happens." |
 
-**Visual concept for E3:** A two-column comparison table — "Prompt-Dependent" vs. "Emerging Independence" — showing concrete behavioral markers parents can recognize.
+**Visual concept for E3:** A two-column comparison table, "Prompt-Dependent" vs. "Emerging Independence", showing concrete behavioral markers parents can recognize.
 
 **Subject line direction for E3:** "He waits for your cue. Here's how to change that."
 
@@ -242,20 +213,20 @@ P.S. — If you want a one-page explanation of the Nicholson study to share with
 
 ## 2.8 Lena Sign-Off Variant Used
 
-**Medium variant** — per L2 sign-off calibration:
+**Medium variant**, per L2 sign-off calibration:
 > "With understanding, Lena — Customer Support · Mom of two autistic sons"
 
-The postscript (P.S.) adds a peer-resource offer ("reply and I'll send you the one-page summary") — a characteristically Lena touch that extends education without pushing product.
+The postscript (P.S.) adds a peer-resource offer ("reply and I'll send you the one-page summary"), a characteristically Lena touch that extends education without pushing product.
 
 ---
 
 ## 2.9 Science Integrity Notes
 
 - Nicholson et al. (2019) citation: PMID 31127487, J Autism Dev Disord 49(9):3625-3637
-- Experiment 1 = adults (no interoceptive deficit), Experiment 2 = children (significant deficit)
-- Only claim made: "Early interoception difficulties are resolved or compensated for by adulthood" — verbatim from the study conclusion
+- Experiment 1 = adults (no body signal gap), Experiment 2 = children (significant deficit)
+- Only claim made: "Early interoception difficulties are resolved or compensated for by adulthood", verbatim from the study conclusion
 - No fabricated claims about BSL efficacy beyond available evidence
-- Week-by-week timeline is derived from the understood mechanism (external feedback → neural pathway formation) — labeled as typical observation, not a scientific claim
+- Week-by-week timeline is derived from the understood mechanism (external feedback → neural pathway formation), labeled as typical observation, not a scientific claim
 
 ---
 

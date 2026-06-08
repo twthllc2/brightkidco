@@ -1,8 +1,8 @@
 # PP-Mary S. Story — Flow 14, E1 (Cross-Level)
 
-> **Founder Story — Day 21 Post-Purchase**
-> Voice: Mary S. (Founder) — NOT Lena. NEVER mix with Lena.
-> Sign-Off: "— Mary S., Founder"
+> **Founder Story, Day 21 Post-Purchase**
+> Voice: Mary S. (Founder), NOT Lena. NEVER mix with Lena.
+> Sign-Off: ", Mary S., Founder"
 > Cross-Level Calibration: R1-R6
 
 ---
@@ -18,17 +18,17 @@
 
 ### OPENER — The Universal Symptom Hook
 
-Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or still figuring it out — if they don't feel when they need to go, you've probably seen some of these:
+Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or still figuring it out, if they don't feel when they need to go, you've probably seen some of these:
 
-— Sitting on the toilet for 20 minutes. Nothing happens. You put the pull-up back on, and 30 seconds later it's wet.
+, Sitting on the toilet for 20 minutes. Nothing happens. You put the pull-up back on, and 30 seconds later it's wet.
 
-— Playing in a wet diaper without a single reaction. No pause. No look down. Nothing.
+, Playing in a wet diaper without a single reaction. No pause. No look down. Nothing.
 
-— "Almost trained" three times. Every time it falls apart.
+, "Almost trained" three times. Every time it falls apart.
 
-— Years of trying. You've stopped counting the failed attempts.
+, Years of trying. You've stopped counting the failed attempts.
 
-If any of those sound like your morning — I wrote this email for you.
+If any of those sound like your morning, I wrote this email for you.
 
 ---
 
@@ -36,7 +36,7 @@ If any of those sound like your morning — I wrote this email for you.
 
 I'm Mary S. I'm a mom. And I went through exactly this with my own child.
 
-My son was 4 when I realized something wasn't working. Not with him — with the methods. We tried everything the books and internet told us to try. Sticker charts. Timer sits. The naked weekend. Rewards. Schedules. Charts. Songs. Puppets. Bribes.
+My son was 4 when I realized something wasn't working. Not with him, with the methods. We tried everything the books and internet told us to try. Sticker charts. Timer sits. The naked weekend. Rewards. Schedules. Charts. Songs. Puppets. Bribes.
 
 None of it worked. Not because I wasn't trying hard enough. Not because he was being difficult. But because every single method assumed something that wasn't true for him.
 
@@ -50,7 +50,7 @@ He couldn't.
 
 One morning, after yet another accident, I sat on the bathroom floor and realized: my son wasn't ignoring his body. His body wasn't sending the signal. The "I need to go" message was leaving his bladder and never arriving at his brain.
 
-I started researching. I found the science of interoception — the body's ability to sense internal states like hunger, thirst, and bladder fullness. The research was clear (Nicholson et al. 2019, Barmpagiannis & Baldimtsi 2025): autistic children process body signals differently. The gap isn't behavioral. It's neurological.
+I started researching. I found the science of interoception, the body's ability to sense internal states like hunger, thirst, and bladder fullness. The research was clear (Nicholson et al. 2019, Barmpagiannis & Baldimtsi 2025): autistic children process body signals differently. The gap isn't behavioral. It's neurological.
 
 That morning on the bathroom floor, I went from frustrated to determined.
 
@@ -60,13 +60,13 @@ If the methods didn't exist for kids like mine, I'd build them.
 
 ### THE DISCOVERY — The Missing Piece
 
-The insight was simple once I found it:
+The insight was clear once I found it:
 
-Standard underwear assumes the child already feels the signal. Pull-ups wick the signal away entirely. Neither solves the real problem — building body awareness from scratch.
+Standard underwear assumes the child already feels the signal. Pull-ups wick the signal away entirely. Neither solves the real problem, building body awareness from scratch.
 
 What if an underwear could *create* the signal instead of waiting for it?
 
-That's what BrightKidCo became. The Body-Signal Learning Layer — a three-layer system designed to give a developing nervous system the feedback it needs. A gentle, sustained sensation that lasts 30-60 seconds. Not punishment. Not training in the traditional sense. Information. A signal that says: "Something happened here."
+That's what BrightKidCo became. The Body-Signal Learning Layer, a three-layer system designed to give a developing nervous system the feedback it needs. A gentle sensation that lasts that lasts 30-60 seconds. Not punishment. Not training in the traditional sense. Information. A signal that says: "Something happened here."
 
 For some kids, it's the first time they've ever felt it.
 
@@ -74,18 +74,18 @@ For some kids, it's the first time they've ever felt it.
 
 ### THE CONNECTION — Different Families, Same Gap
 
-Since founding BrightKidCo, I've heard from thousands of parents. Their stories span the full spectrum — and they all share one thing in common.
+Since founding BrightKidCo, I've heard from thousands of parents. Their stories span the full spectrum, and they all share one thing in common.
 
 **Families with a verbal preschooler who "gets it but doesn't get it":**
-"How do I know if it's refusal or inability?" — Real parent
+"How do I know if it's refusal or inability?", Real parent
 
 **Families with a sensory-sensitive child who's tried every BCBA protocol:**
-"He sits for 45 minutes and then pees the second he stands up." — Real parent
+"He sits for 45 minutes and then pees the second he stands up.", Real parent
 
 **Families with a non-verbal child who's never shown a sign in years:**
-"He looked down at the wet spot for the first time in 9 years." — Real parent
+"He looked down at the wet spot for the first time in 9 years.", Real parent
 
-Whether your child is here at the beginning, stuck in the middle, or you've been at this so long you've stopped hoping — that gap, that missing signal, is the same.
+Whether your child is here at the beginning, stuck in the middle, or you've been at this so long you've stopped hoping, that gap, that missing signal, is the same.
 
 The child's age changes. The support needs change. But the biology of the interoception gap doesn't.
 
@@ -101,7 +101,7 @@ The product you have is built from that morning on the bathroom floor. Every sti
 
 Body-signal learning takes time. Some kids show first signs in 2 weeks. Others need 8 weeks. Some take 3-6 months. All of that is normal. All of that is progress.
 
-The goal isn't "fully trained by next month." The goal is simple: one moment of awareness. One pause. One look down. One step toward the bathroom — even after the accident.
+The goal isn't "fully trained by next month." The goal is clear: one moment of awareness. One pause. One look down. One step toward the bathroom, even after the accident.
 
 That moment changes everything.
 
@@ -115,19 +115,19 @@ I built BrightKidCo so no other parent would have to sit on a bathroom floor won
 
 You didn't do anything wrong. Neither did your child.
 
-Whether your journey takes 2 weeks or 6 months, whether your child shows subtle signals or dramatic progress, whether you're just starting or you've been at this for years — you belong here. This product was built for your child's nervous system. Exactly as it is.
+Whether your journey takes 2 weeks or 6 months, whether your child shows subtle signals or dramatic progress, whether you're just starting or you've been at this for years, you belong here. This product was built for your child's nervous system. Exactly as it is.
 
 Thank you for being part of this community. And thank you for trusting us with something so important.
 
-If this email resonated, or if you have a question about your child's progress, hit reply. I read every message. You'll get me — not a template, not a bot.
+If this email resonated, or if you have a question about your child's progress, hit reply. I read every message. You'll get me, not a template, not a bot.
 
-— Mary S., Founder
+, Mary S., Founder
 
 ---
 
 ### P.S.
 
-P.S. — The 60-day guarantee is real. If the product doesn't work for your child, full refund, no questions. But most parents find the real change happens between week 3 and week 8. If you're in week 1 and nothing's happened yet — that's normal. Keep going.
+P.S., The 60-day guarantee is real. If the product doesn't work for your child, full refund, no questions. But most parents find the real change happens between week 3 and week 8. If you're in week 1 and nothing's happened yet, that's normal. Keep going.
 
 ---
 
@@ -148,7 +148,7 @@ P.S. — The 60-day guarantee is real. If the product doesn't work for your chil
 | **Sign-Off** | "— Mary S., Founder" |
 | **Primary Purpose** | Deepen brand trust. Reinforce founder mission. Strengthen post-purchase commitment. |
 | **Secondary Purpose** | Normalize timeline variation. Reduce buyer's remorse. Increase 60-day retention. |
-| **Source** | 1-full-email-strategy.md §4.2, 2-full-email-copy-strategy.md §1.13, GIULIANO-DEMANDS.md §7.4 |
+ 1-full-email-strategy.md §4.2, 2-full-email-copy-strategy.md §1.13, GIULIANO-DEMANDS.md §7.4 |
 
 ---
 
@@ -158,7 +158,7 @@ P.S. — The 60-day guarantee is real. If the product doesn't work for your chil
 
 **Applied in:** Opener (paragraph 2), Mary's Story section, The Connection section.
 
-**How:** The opener lists observable behaviors — "sitting 20 minutes," "playing in a wet diaper," "almost trained three times," "years of trying" — without ever using level labels (Level 1/2/3, ASD, etc.). The founder story frames the problem as "his body wasn't sending the signal" rather than "my child has X level of autism."
+**How:** The opener lists observable behaviors, "sitting 20 minutes," "playing in a wet diaper," "almost trained three times," "years of trying", without ever using level labels (Level 1/2/3, ASD, etc.). The founder story frames the problem as "his body wasn't sending the signal" rather than "my child has X level of autism."
 
 **Verification:** Zero mentions of "Level 1," "Level 2," "Level 3," "ASD severity," "high-functioning," or "low-functioning" anywhere in copy.
 
@@ -167,24 +167,24 @@ P.S. — The 60-day guarantee is real. If the product doesn't work for your chil
 **Applied in:** Opener (5 anchors), The Connection section (3 parent quotes).
 
 **Opener anchors (5 total):**
-1. *Sits 20 minutes on toilet, nothing happens* — Level 1 anchor
-2. *Plays in wet diaper without reaction* — Level 2-3 anchor
-3. *"Almost trained" three times* — Level 1 anchor
-4. *Years of trying, stopped counting* — Level 2-3 anchor
-5. *The symptom list itself ("any of those")* — Universal
+1. *Sits 20 minutes on toilet, nothing happens*, Level 1 anchor
+2. *Plays in wet diaper without reaction*, Level 2-3 anchor
+3. *"Almost trained" three times*, Level 1 anchor
+4. *Years of trying, stopped counting*, Level 2-3 anchor
+5. *The symptom list itself ("any of those")*, Universal
 
 **The Connection anchors (3 specific parent quotes):**
-1. *Verbal preschooler* — Level 1 parent
-2. *Sensory-sensitive child with BCBA* — Level 2 parent
-3. *Non-verbal child, never shown a sign* — Level 3 parent
+1. *Verbal preschooler*, Level 1 parent
+2. *Sensory-sensitive child with BCBA*, Level 2 parent
+3. *Non-verbal child, never shown a sign*, Level 3 parent
 
 ### R3 — Age Ranges Over Fixed Ages ✅
 
 **Applied in:** Opener ("Whether your child is 3 or 10"), Mary's Story ("My son was 4"), The Invitation (multiple range references).
 
 **Cross-level usage:**
-- Opener: "3 or 10" — spans L1 (3-5), L2 (5-7), L3 (6-10+)
-- The Invitation: "Some kids show first signs in 2 weeks. Others need 8 weeks. Some take 3-6 months." — spans all levels
+- Opener: "3 or 10", spans L1 (3-5), L2 (5-7), L3 (6-10+)
+- The Invitation: "Some kids show first signs in 2 weeks. Others need 8 weeks. Some take 3-6 months.", spans all levels
 - Never uses "toddler," "preschooler," "elementary schooler" as exclusive age markers
 
 ### R4 — Verbal/Non-Verbal Inclusivity ✅
@@ -192,10 +192,10 @@ P.S. — The 60-day guarantee is real. If the product doesn't work for your chil
 **Applied in:** Opener ("verbal or non-verbal"), The Connection section (verbal quote + non-verbal quote + BCBA parent).
 
 **Examples:**
-- "Whether your child is...verbal or non-verbal" — covers both
-- Quote 1: "He gets it but doesn't get it" — verbal child scenario
-- Quote 2: "Sits 45 minutes" — verbal/mixed child scenario
-- Quote 3: "Looked down at the wet spot...in 9 years" — non-verbal child scenario
+- "Whether your child is...verbal or non-verbal", covers both
+- Quote 1: "He gets it but doesn't get it", verbal child scenario
+- Quote 2: "Sits 45 minutes", verbal/mixed child scenario
+- Quote 3: "Looked down at the wet spot...in 9 years", non-verbal child scenario
 - The Discovery section: describes the signal in physical terms, not verbal terms
 
 ### R5 — Timeline Flexibility ✅
@@ -203,11 +203,11 @@ P.S. — The 60-day guarantee is real. If the product doesn't work for your chil
 **Applied in:** The Invitation section, P.S.
 
 **Cross-level timelines:**
-- "Some kids show first signs in 2 weeks" — Level 1 realistic
-- "Others need 8 weeks" — Level 2 realistic
-- "Some take 3-6 months" — Level 3 realistic
-- "All of that is normal. All of that is progress." — Universal normalization
-- "most parents find the real change happens between week 3 and week 8" — Research-backed zone
+- "Some kids show first signs in 2 weeks", Level 1 realistic
+- "Others need 8 weeks", Level 2 realistic
+- "Some take 3-6 months", Level 3 realistic
+- "All of that is normal. All of that is progress.", Universal normalization
+- "most parents find the real change happens between week 3 and week 8", Research-backed zone
 
 **Never stated:**
 - ❌ "Your child will be trained in X weeks"
@@ -222,8 +222,8 @@ P.S. — The 60-day guarantee is real. If the product doesn't work for your chil
 - "one moment of awareness"
 - "one pause"
 - "one look down"
-- "one step toward the bathroom — even after the accident"
-- The Connection quote: "He looked down at the wet spot for the first time" — a real L3 mini-win
+- "one step toward the bathroom, even after the accident"
+- The Connection quote: "He looked down at the wet spot for the first time", a real L3 mini-win
 
 **Never defined success as:**
 - ❌ Fully potty trained
@@ -239,17 +239,17 @@ The pattern is used at two structural levels in this email:
 
 ### Structural Level 1 — The Opener (Universal Framing)
 
-> **"Whether** your child is 3 or 10, verbal or non-verbal, newly diagnosed or still figuring it out — **if** they don't feel when they need to go, you've probably seen some of these..."
+> **"Whether** your child is 3 or 10, verbal or non-verbal, newly diagnosed or still figuring it out, **if** they don't feel when they need to go, you've probably seen some of these..."
 
 This opens with the full "Whether...Or...If..." pattern, immediately establishing that the email is for ALL subscribers regardless of level, age, verbal ability, or diagnostic status. The "whether" clause covers 3 critical dimensions: age (R3), verbal ability (R4), and diagnostic identity (R1/GF inclusion).
 
 ### Structural Level 2 — The Connection Section & Closing
 
-> "**Whether** your child is here at the beginning, stuck in the middle, or you've been at this so long you've stopped hoping — that gap, that missing signal, is the same."
+> "**Whether** your child is here at the beginning, stuck in the middle, or you've been at this so long you've stopped hoping, that gap, that missing signal, is the same."
 
 This creates a second "Whether" bridge in the body of the email, acknowledging the emotional journey continuum from Phase 1 (early) through Phase 3 (method cycling) to Phase 4 (resignation).
 
-> "**Whether** your journey takes 2 weeks or 6 months, **whether** your child shows subtle signals or dramatic progress, **whether** you're just starting or you've been at this for years — you belong here."
+> "**Whether** your journey takes 2 weeks or 6 months, **whether** your child shows subtle signals or dramatic progress, **whether** you're just starting or you've been at this for years, you belong here."
 
 This triple-"Whether" in the closing provides the permission frame, covering timeline (R5), outcome scope (R6), and journey stage (emotional inclusion for all phases).
 
@@ -317,14 +317,14 @@ This structure ensures GF subscribers see themselves in the copy regardless of w
 
 ### Mary's Voice Rules
 
-1. **✅ Direct naming of the problem** — "he couldn't feel when he needed to go"
-2. **✅ Mechanism specificity** — interoception, Nicholson et al. 2019, Barmpagiannis & Baldimtsi 2025
-3. **✅ Mission-driven framing** — "I'd build them" / "the shared mission"
-4. **✅ Permission-not-to-buy** — even though they've already purchased, reinforce "60-day guarantee"
-5. **✅ Reply invitation** — "hit reply. I read every message." (mirrors Lena's practice in founder voice)
-6. **❌ NEVER hard sell** — the purchase is already made
-7. **❌ NEVER over-promise** — "some kids 2 weeks, others 8 weeks, some 3-6 months"
-8. **❌ NEVER mix with Lena voice** — no "I have two autistic sons," no Lena sign-off variants
+1. **✅ Direct naming of the problem**, "he couldn't feel when he needed to go"
+2. **✅ Mechanism specificity**, interoception, Nicholson et al. 2019, Barmpagiannis & Baldimtsi 2025
+3. **✅ Mission-driven framing**, "I'd build them" / "the shared mission"
+4. **✅ Permission-not-to-buy**, even though they've already purchased, reinforce "60-day guarantee"
+5. **✅ Reply invitation**, "hit reply. I read every message." (mirrors Lena's practice in founder voice)
+6. **❌ NEVER hard sell**, the purchase is already made
+7. **❌ NEVER over-promise**, "some kids 2 weeks, others 8 weeks, some 3-6 months"
+8. **❌ NEVER mix with Lena voice**, no "I have two autistic sons," no Lena sign-off variants
 
 ---
 
@@ -334,48 +334,48 @@ This structure ensures GF subscribers see themselves in the copy regardless of w
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│  SECTION 1: OPENER                                       │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │  "Whether...Or...If..." universal symptom hook     │ │
-│  │  5 recognition anchors spanning all levels         │ │
-│  │  2-4 sentences → reader thinks "they know my kid"  │ │
-│  └────────────────────────────────────────────────────┘ │
-│                     ↓                                    │
-│  SECTION 2: MARY'S STORY                                 │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │  Her child's failed methods (validation)           │ │
-│  │  The morning of realization (mechanism moment)     │ │
-│  │  Research discovery (credibility)                  │ │
-│  └────────────────────────────────────────────────────┘ │
-│                     ↓                                    │
-│  SECTION 3: THE DISCOVERY                                │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │  The insight: signal vs. assumption                │ │
-│  │  The BSL™ mechanism (not product-heavy)            │ │
-│  │  "For some kids, it's the first time" (hope)       │ │
-│  └────────────────────────────────────────────────────┘ │
-│                     ↓                                    │
-│  SECTION 4: THE CONNECTION (Three-Family Pattern)        │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │  3 parent quotes → L1 / L2 / L3 recognition       │ │
-│  │  "the biology of the gap doesn't change" (unity)  │ │
-│  └────────────────────────────────────────────────────┘ │
-│                     ↓                                    │
-│  SECTION 5: THE INVITATION                               │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │  "You've already taken a step" (validation)        │ │
-│  │  Timeline ranges (R5)                              │ │
-│  │  Low-bar success: one pause (R6)                   │ │
-│  │  "That moment changes everything" (gentle hope)    │ │
-│  └────────────────────────────────────────────────────┘ │
-│                     ↓                                    │
-│  SECTION 6: CLOSING                                      │
-│  ┌────────────────────────────────────────────────────┐ │
-│  │  Mission statement                                │ │
-│  │  Triple-"Whether" permission closing               │ │
-│  │  Reply invitation                                 │ │
-│  │  Sign-Off: "— Mary S., Founder"                    │ │
-│  └────────────────────────────────────────────────────┘ │
+│ SECTION 1: OPENER │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ "Whether...Or...If..." universal symptom hook │ │
+│ │ 5 recognition anchors spanning all levels │ │
+│ │ 2-4 sentences → reader thinks "they know my kid" │ │
+│ └────────────────────────────────────────────────────┘ │
+│ ↓ │
+│ SECTION 2: MARY'S STORY │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ Her child's failed methods (validation) │ │
+│ │ The morning of realization (mechanism moment) │ │
+│ │ Research discovery (credibility) │ │
+│ └────────────────────────────────────────────────────┘ │
+│ ↓ │
+│ SECTION 3: THE DISCOVERY │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ The insight: signal vs. assumption │ │
+│ │ The BSL mechanism (not product-heavy) │ │
+│ │ "For some kids, it's the first time" (hope) │ │
+│ └────────────────────────────────────────────────────┘ │
+│ ↓ │
+│ SECTION 4: THE CONNECTION (Three-Family Pattern) │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ 3 parent quotes → L1 / L2 / L3 recognition │ │
+│ │ "the biology of the gap doesn't change" (unity) │ │
+│ └────────────────────────────────────────────────────┘ │
+│ ↓ │
+│ SECTION 5: THE INVITATION │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ "You've already taken a step" (validation) │ │
+│ │ Timeline ranges (R5) │ │
+│ │ Low-bar success: one pause (R6) │ │
+│ │ "That moment changes everything" (gentle hope) │ │
+│ └────────────────────────────────────────────────────┘ │
+│ ↓ │
+│ SECTION 6: CLOSING │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ Mission statement │ │
+│ │ Triple-"Whether" permission closing │ │
+│ │ Reply invitation │ │
+│ │ Sign-Off: ", Mary S., Founder" │ │
+│ └────────────────────────────────────────────────────┘ │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -468,7 +468,7 @@ This structure ensures GF subscribers see themselves in the copy regardless of w
 | **L3 (~25%)** | 20/80 Deep Realism | "3-6 months," "some kids take longer," "whether you've stopped hoping" | Permission-framed, no urgency, dignity preserved throughout |
 | **GF (~50%)** | 50/50 Balanced | "Whether...Or...If..." pattern + Three-Family quotes | Universal framing with symptom-specific anchors for self-identification |
 
-The email lands at approximately **40/60 Hope/Realism** as a cross-level average — realistic enough for L3 to trust, hopeful enough for L1 to stay engaged.
+The email lands at approximately **40/60 Hope/Realism** as a cross-level average, realistic enough for L3 to trust, hopeful enough for L1 to stay engaged.
 
 ---
 
@@ -513,6 +513,6 @@ The email lands at approximately **40/60 Hope/Realism** as a cross-level average
 
 ---
 
-*End of Mary S. Story E1 — Flow 14, Cross-Level*
+*End of Mary S. Story E1, Flow 14, Cross-Level*
 *Generated: May 29, 2026*
 *Sources: GIULIANO-DEMANDS.md, 1-full-email-strategy.md, 2-full-email-copy-strategy.md, 3-segmentation-blueprint.md, 01-customer-avatar.md, 11-brand-voice-reference.md, layer-17-tonality-calibration.md, layer-18-cross-level-calibration.md, layer-21-sub-groups.md*

@@ -1,11 +1,11 @@
 # PP-Extended Education E1 (D22) — L3 Maria
 ## "The gentle path: body-signal learning alongside dignity-centered care."
 
-**Flow:** PP-Extended Education (Flow 22)  
-**Email:** E1 — Day 22 post-purchase  
-**Level:** L3 Maria (Non-verbal, 6-10+ years, Resigned/Dignity-seeking)  
-**Title:** "The gentle path: body-signal learning alongside dignity-centered care."  
-**Timing:** D22 (3 weeks post-purchase)  
+**Flow:** PP-Extended Education (Flow 22) 
+**Email:** E1, Day 22 post-purchase 
+**Level:** L3 Maria (Non-verbal, 6-10+ years, Resigned/Dignity-seeking) 
+**Title:** "The gentle path: body-signal learning alongside dignity-centered care." 
+**Timing:** D22 (3 weeks post-purchase) 
 
 ---
 
@@ -19,7 +19,7 @@
 
 "That's not a line. That's the truth."
 
-"You've watched him in ways no therapist, no consultant, no book author ever could. You know when something is different. When a pause that never happened before happens. When he looks down instead of through. When the signal — for the first time — arrives somewhere."
+"You've watched him in ways no therapist, no consultant, no book author ever could. You know when something is different. When a pause that never happened before happens. When he looks down instead of through. When the signal, for the first time, arrives somewhere."
 
 "And when it doesn't. That too."
 
@@ -29,9 +29,9 @@
 
 "You've been on this road for years. You've heard every pitch, every promise, every 'this time it will be different.' And every time, life went back to the way it was."
 
-"That's not failure. That's his nervous system doing exactly what autistic nervous systems do — processing body signals on a pathway that doesn't match the standard map."
+"That's not failure. That's his nervous system doing exactly what autistic nervous systems do, processing body signals on a pathway that doesn't match the standard map."
 
-"The research is settled. Barmpagiannis and Baldimtsi's 2025 systematic review of 49 studies confirms: interoceptive differences in autism are real, measurable, and persistent through childhood. The 'I need to go' signal doesn't arrive the way traditional methods assume it should."
+"The research is settled. Barmpagiannis and Baldimtsi's 2025 systematic review of 49 studies confirms: body signal differences in autism are real, measurable, and persistent through childhood. The 'I need to go' signal doesn't arrive the way traditional methods assume it should."
 
 "You didn't miss something. The signal pathway was never built the way the method manuals assumed."
 
@@ -41,21 +41,13 @@
 
 "The Body-Signal Learning Layer doesn't change who your child is."
 
-"That matters, so let me say it again."
+"The BSL Layer is not a training program. It's not a schedule. It's not a reward system. It's a gentle sensation that lasts loop that gives his brainformation it's been missing."
 
-"The BSL Layer is not a training program. It's not a schedule. It's not a reward system. It's a gentle, sustained feedback loop that gives his brain information it's been missing."
+"When an accident happens inside BrightKidCo underwear, Layer 1 preserves a gentle 'uh-oh' sensation for 30 to 60 seconds. Just enough, sustained enough, for a nervous system that picks up signals slowly to register: something happened."
 
-"Here's how it works."
+"Pull-ups wick that entire sensation away in seconds. The brain never receives the feedback."
 
-"When an accident happens inside BrightKidCo underwear, Layer 1 (the soft cotton inner) preserves a gentle 'uh-oh' sensation for 30 to 60 seconds. It's not soaked. It's not uncomfortable. It's just enough — sustained enough — for a deeply hypo-responsive nervous system to register: something happened."
-
-"Pull-ups wick that entire sensation away in seconds. The brain never receives the feedback. The signal pathway never gets the practice it needs."
-
-"The BSL Layer doesn't train. It provides information. The brain does the rest — at its own pace, on its own timeline."
-
-"Some children notice the sensation within two weeks. Others take months. Some notice it fleetingly, then lose it, then find it again."
-
-"All of that is normal. All of that is progress. The nervous system is learning a language it was never taught."
+"The BSL Layer doesn't train. It provides information. The brain does the rest, at its own pace. Some children notice within two weeks. Others take months. All of that is normal."
 
 ---
 
@@ -65,7 +57,7 @@
 
 "Someone sent her a pair of BrightKidCo underwear. She didn't expect anything. She put it on him alongside his regular diapers. No pressure. No countdown. Just added it to his morning routine."
 
-"Three weeks later, she saw him pause. Pause — a full three-second pause — after an accident. He looked down. He touched the spot. Then he went back to what he was doing."
+"Three weeks later, she saw him pause. Pause, a full three-second pause, after an accident. He looked down. He touched the spot. Then he went back to what he was doing."
 
 "She wrote us: 'He's not trained. I don't know if he ever will be. But for the first time in 9 years, he noticed. That's enough for now.'"
 
@@ -79,7 +71,7 @@
 
 "Maybe it's sitting in a drawer. Maybe he's worn it a few times. Maybe the rhythm hasn't found itself yet. All of that is okay."
 
-"The BSL Layer works best as an addition — worn alongside your current routine. Not a replacement. Not a switch. Just an extra source of information for his nervous system to learn from."
+"The BSL Layer works best as an addition, worn alongside your current routine. Not a replacement. Not a switch. Just an extra source of information for his nervous system to learn from."
 
 "One pair. Added alongside. No pressure to switch. No deadline to be diaper-free."
 
@@ -97,9 +89,11 @@
 
 ## SECTION 7: CTA
 
-"You know your child. You know your timeline. Whatever that timeline looks like — it's the right one."
+"You know your child. You know your timeline. Whatever that timeline looks like, it's the right one."
 
 "If nothing has changed yet, that's not a sign that nothing will. Some pathways take longer to form than others."
+
+One L3 mom wrote: "He's not trained. I don't know if he ever will be. But for the first time in 9 years, he noticed. That's enough for now."
 
 ---
 
@@ -108,11 +102,11 @@
 ```
 Talk soon,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
 P.S. Both my boys were different. One trained at 6. The other was almost 8.
-If your timeline looks nothing like mine — that doesn't mean it's wrong.
+If your timeline looks nothing like mine, that doesn't mean it's wrong.
 ```
 
 ---
@@ -197,20 +191,20 @@ If your timeline looks nothing like mine — that doesn't mean it's wrong.
 
 ```
 quiet acceptance
-    │
-    ▼
+ │
+ ▼
 micro-win recognition (the pause, the look, the moment)
-    │
-    ▼
+ │
+ ▼
 dignity-centered progress ("that's enough for now")
-    │
-    ▼
+ │
+ ▼
 redefined success (whatever progress means for your family)
 ```
 
-This email opens in Maria's current emotional state — quiet acceptance, years of effort without the expected result. It validates the weight of that journey without trying to fix it. The mechanism is presented as gentle information, not as a solution. The testimonial offers recognition through a peer story (not a promise). The close offers permission — to continue, to pause, to decide later. No pressure at any point.
+This email opens in Maria's current emotional state, quiet acceptance, years of effort without the expected result. It validates the weight of that journey without trying to fix it. The mechanism is presented as gentle information, not as a solution. The testimonial offers recognition through a peer story (not a promise). The close offers permission, to continue, to pause, to decide later. No pressure at any point.
 
 ---
 
-*Generated for BrightKidCo — PP-Extended Education Flow, E1 (D22), Level 3 Maria*
-*Voice: Lena S. — Customer Support, Mom of two autistic sons*
+*Generated for BrightKidCo, PP-Extended Education Flow, E1 (D22), Level 3 Maria*
+*Voice: Lena S., Customer Support, Mom of two autistic sons*

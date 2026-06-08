@@ -1,12 +1,12 @@
 # FAQ Objection Library — E5 (Cross-Level)
 
 **Flow:** FAQ/Objection Library (Phase 3, Cross-Level)
-**Email:** E5 — BCBA Alignment + School/IEP + Medical Conditions
-**Objective:** Address three interconnected gatekeeping objections — the BCBA protocol (B2), School/Daycare policies (NEW-2), and Medical/GI concerns (B4) — with a single unified reframe: the sensory gap that no external system can fix.
+**Email:** E5, BCBA Alignment + School/IEP + Medical Conditions
+**Objective:** Address three interconnected gatekeeping objections, the BCBA protocol (B2), School/Daycare policies (NEW-2), and Medical/GI concerns (B4), with a single unified reframe: the sensory gap that no external system can fix.
 **Trigger:** Welcome flow completed + no purchase
 **Cadence:** Day 5 of FAQ sequence
-**Primary Lever:** L1 (Mechanism — sensory gap) + L4 (Lena Voice — peer authenticity)
-**Key Proof Points:** PP-A01 (Nicholson 2019 — interoception gap), PP-B01 (Wiggins 2022 — 49% stat), BCBA-complement thesis, GI-medical alongside framing
+**Primary Lever:** L1 (Mechanism, sensory gap) + L4 (Lena Voice, peer authenticity)
+**Key Proof Points:** PP-A01 (Nicholson 2019, interoception gap), PP-B01 (Wiggins 2022, 49% stat), BCBA-complement thesis, GI-medical alongside framing
 **Voice:** Lena S., Customer Support · Mom of two autistic sons
 **Length:** Medium (~500 words)
 
@@ -16,9 +16,9 @@
 
 ### Visual Concept: "The Missing Piece"
 
-**Central Metaphor:** A jigsaw puzzle with one deliberately missing piece. The mom has assembled every piece — methods, schedules, charts, BCBA protocols, social stories, specialist consults — but the center piece is absent. The missing piece is labeled (in concept, never in copy) as "The Body Signal."
+**Central Metaphor:** A jigsaw puzzle with one deliberately missing piece. The mom has assembled every piece, methods, schedules, charts, BCBA protocols, social stories, specialist consults, but the center piece is absent. The missing piece is labeled (in concept, never in copy) as "The Body Signal."
 
-**Tone Architecture:** The visual world is warm-toned (cream #FBF7EB, mint #DBFFCD) with the missing piece area rendered in brand-green #039902 to draw the eye. The puzzle is shown at various stages of completion — some pieces assembled (the methods she's tried), some scattered (untried approaches), and the gap.
+**Tone Architecture:** The visual world is warm-toned (cream #FBF7EB, mint #DBFFCD) with the missing piece area rendered in brand-green #039902 to draw the eye. The puzzle is shown at various stages of completion, some pieces assembled (the methods she's tried), some scattered (untried approaches), and the gap.
 
 **R1-R6 Saturation:**
 
@@ -33,7 +33,7 @@
 
 **E5-Specific Visual Treatment:**
 
-Three puzzle pieces on the left side — each representing one of the three gatekeeping systems — and a dotted arrow from each piece pointing toward the missing center:
+Three puzzle pieces on the left side, each representing one of the three gatekeeping systems, and a dotted arrow from each piece pointing toward the missing center:
 
 | Piece | Icon | Label (Concept) |
 |-------|------|-----------------|
@@ -44,11 +44,11 @@ Three puzzle pieces on the left side — each representing one of the three gate
 All three point to the same missing center piece in brand-green with the label: "The signal they all assume exists."
 
 **Color Palette (All 6 Emails):**
-- Brand-Green #039902 — CTAs, missing-piece highlight
-- Mint #DBFFCD — backgrounds, highlights
-- Cream #FBF7EB — email body background
-- Warm Gray #5C5552 — body text
-- Deep Charcoal #2D2A26 — headlines
+- Brand-Green #039902, CTAs, missing-piece highlight
+- Mint #DBFFCD, backgrounds, highlights
+- Cream #FBF7EB, email body background
+- Warm Gray #5C5552, body text
+- Deep Charcoal #2D2A26, headlines
 
 **Image Style (All 6 Emails):**
 - Flat, minimal illustration style
@@ -81,7 +81,7 @@ All three point to the same missing center piece in brand-green with the label: 
 | 3. "When everyone has a protocol but nothing works" | Validation Hook | 51 |
 | 4. "Your BCBA, your school, your doctor — and the missing piece" | Curiosity Hook | 62 |
 
-**Recommended (Cross-Level):** Option 1 — "Answering your top question: BCBA, school, and medical concerns"
+**Recommended (Cross-Level):** Option 1, "Answering your top question: BCBA, school, and medical concerns"
 
 ### Preheader Options
 
@@ -102,13 +102,13 @@ Customer Support · Mom of two autistic sons
 
 Your BCBA has a protocol. Your school has a policy. Your GI doctor has a treatment plan.
 
-If you're reading this, you're probably managing all three at once — and none of them are getting your child out of pull-ups.
+If you're reading this, you're probably managing all three at once, and none of them are getting your child out of pull-ups.
 
 Here's why. And what to do about it.
 
 ---
 
-**The question we hear most:** "If my BCBA, my school, and my doctor all have their own plans — and none of them are working for potty training — what's left?"
+**The question we hear most:** "If my BCBA, my school, and my doctor all have their own plans, and none of them are working for potty training, what's left?"
 
 The answer: what's missing is the same thing in every case.
 
@@ -116,21 +116,21 @@ The answer: what's missing is the same thing in every case.
 
 **Let's name them:**
 
-Your BCBA has been doing the hard work for years. ABA addresses the behavioral component — compliance, routines, prompt-fading, scheduled sits. What it can't address is the sensory component: your child's ability to FEEL the signal. That's a different brain system entirely. This isn't about replacing ABA — it's about filling a gap ABA isn't designed for.
+Your BCBA has been doing the hard work for years. ABA addresses the behavioral component, compliance, routines, prompt-fading, scheduled sits. What it can't address is the sensory component: your child's ability to FEEL the signal. That's a different brain system entirely. Thisn't about replacing ABA, it's about filling a gap ABA isn't designed for.
 
 Your school or daycare has policies based on neurotypical timelines. If your child isn't "fully trained," they require a pull-up. The problem is pull-ups actively remove the wetness signal your child needs to build body awareness. And even the best IEP can't mandate a sensory signal into existence.
 
-Your GI doctor manages the medical piece — withholding, constipation, MiraLAX, ER visits when things go wrong. That's critical care. But the same interoception gap that blocks pee signals also blocks poop signals. Your child can't feel the urge until it's urgent, and by then the withholding cycle has already started.
+Your GI doctor manages the medical piece, withholding, constipation, MiraLAX, ER visits when things go wrong. That's critical care. But the same interoception gap that blocks pee signals also blocks poop signals. Your child can't feel the urge until it's urgent, and by then the withholding cycle has already started.
 
 ---
 
 **Here's what connects all three:**
 
-Every system your child is in — BCBA, school, medical — assumes the "I need to go" signal arrives in time to act on it.
+Every system your child is in, BCBA, school, medical, assumes the "I need to go" signal arrives in time to act on it.
 
 For kids whose nervous systems process body signals differently, that assumption is the crack everything else falls through.
 
-Research from Nicholson et al. (2019) shows many autistic children have diminished interoceptive accuracy — the ability to sense internal body states like bladder fullness. The brain-body connection doesn't arrive the way traditional methods assume it does.
+Research from Nicholson et al. (2019) shows many autistic children have diminished body awareness, the ability to sense internal body states like bladder fullness. The brain-body connection doesn't arrive the way traditional methods assume it does.
 
 - Your BCBA can't prompt a sensory signal into existence.
 - Your school can't teach interoception in a pull-up.
@@ -142,26 +142,26 @@ Research from Nicholson et al. (2019) shows many autistic children have diminish
 
 With one option none of those systems offer: building the signal itself.
 
-The Body-Signal Learning Layer creates a gentle, sustained feedback sensation — 30 to 60 seconds of awareness time — that gives your child's nervous system the input it's been missing.
+The Body-Signal Learning Layer creates a gentle sensation that lasts sensation, 30 to 60 seconds of awareness time, that gives your child's nervous system the input it's been missing.
 
 Your BCBA's sit schedule works better when your child can actually feel the urge.
 
 Your school's pull-up policy can work with the underwear underneath: daycare sees the pull-up, your child still feels the feedback.
 
-Your GI doctor manages the medical piece. The body-signal approach adds a sensory learning layer alongside — not replacing, just complementing.
+Your GI doctor manages the medical piece. The body-signal approach adds a sensory learning layer alongside, not replacing, just complementing.
 
 ---
 
 **Three families. Three different situations. One common thread.**
 
-**Sarah —**
+**Sarah,**
 Her son was 4, verbal, and "almost trained" three separate times. BCBA protocol had him on a 30-minute sit schedule for 18 months. Nothing changed. "I thought I just had to be more consistent. Then I realized: he couldn't feel it. Two weeks in the body-signal underwear, he paused mid-play for the first time. That was Week 2. By Week 8 he was initiating on his own."
 
-**Lisa —**
-Her daughter was 6, sensory-sensitive, in ABA since age 3, and had an IEP that required pull-ups during school hours. "The school would put the pull-up back on the minute she arrived. I felt like I was fighting everyone — the BCBA, the school, my own child. The bridge strategy — underwear under the pull-up — changed everything. She started coming home dry after two weeks. That was the first win we'd had in years."
+**Lisa,**
+Her daughter was 6, sensory-sensitive, in ABA since age 3, and had an IEP that required pull-ups during school hours. "The school would put the pull-up back on the minute she arrived. I felt like I was fighting everyone, the BCBA, the school, my own child. The bridge strategy, underwear under the pull-up, changed everything. She started coming home dry after two weeks. That was the first win we'd had in years."
 
-**Maria —**
-Her child was 8, non-verbal, with a history of withholding that led to two ER visits. "I wasn't thinking about potty training. I was thinking about preventing another hospitalization. My GI doctor said Miralax and wait. My BCBA said more scheduled sits. Nobody addressed the fact that he genuinely couldn't feel the urge. The underwear didn't fix the medical piece — that's for the doctor. But for the first time he started pausing, looking down, acknowledging something was happening. That's not training. That's signal awareness. And that was enough."
+**Maria,**
+Her child was 8, non-verbal, with a history of withholding that led to two ER visits. "I wasn't thinking about potty training. I was thinking about preventing another hospitalization. My GI doctor said Miralax and wait. My BCBA said more scheduled sits. Nobody addressed the fact that he genuinely couldn't feel the urge. The underwear didn't fix the medical piece, that's for the doctor. But for the first time he started pausing, looking down, acknowledging something was happening. That's not training. That's signal awareness. And that was enough."
 
 ---
 
@@ -175,39 +175,41 @@ Your GI doctor manages the medical piece. We handle the sensory learning layer.
 
 **What this doesn't promise:**
 
-- This isn't a guarantee your child will be "fully trained" in X weeks.
-- This isn't asking you to replace your BCBA's protocol, your school's policy, or your doctor's guidance.
-- This isn't one more thing to add to your already full plate.
+- Thisn't a guarantee your child will be "fully trained" in X weeks.
+- Thisn't asking you to replace your BCBA's protocol, your school's policy, or your doctor's guidance.
+- Thisn't one more thing to add to your already full plate.
 
 **What this does offer:**
 
 - A 60-day chance to see if your child starts to notice something they haven't noticed before.
-- A full refund if it doesn't work — by your judgment, not ours.
+- A full refund if it doesn't work, by your judgment, not ours.
 - A bridge strategy that lets you work WITH your existing systems, not against them.
 - A peer who's been through all three.
 
 ---
 
-If any of this sounds like your situation — the 3+3 Bundle is $79.99 with free shipping and a 60-Day Guarantee.
+If any of this sounds like your situation, the 3+3 Bundle is $79.99 with free shipping and a 60-Day Guarantee.
 
 Try it for 60 days. By your judgment. If it doesn't work, full refund.
 
-**[See the bridge strategy for your child's situation — button: Brand-Green #039902]**
+**[See the bridge strategy for your child's situation, button: Brand-Green #039902]**
 
-*60-Day Guarantee: Try the underwear for 60 days. If you don't see the first signals — a pause, a look down, a pull at the pants — return for a full refund. Your call.*
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
+
+*60-Day Guarantee: Try the underwear for 60 days. If you don't see the first signals, a pause, a look down, a pull at the pants, return for a full refund. Your call.*
 
 ---
 
-On the other hand — if today isn't the right day, that's a real answer. The systems your child is in aren't going anywhere. Neither are we.
+On the other hand, if today isn't the right day, that's a real answer. The systems your child is in aren't going anywhere. Neither are we.
 
-Reply to this email and tell me about your child's situation — BCBA, school, medical, whatever it is. I read everything.
+Reply to this email and tell me about your child's situation, BCBA, school, medical, whatever it is. I read everything.
 
 With understanding,
 
-Lena
+Lena ——
 *Customer Support · Mom of two autistic sons*
 
-P.S. Both my sons had BCBAs. Both had school accommodations. One had GI issues. The systems aren't the enemy — they just weren't designed to build a sensory signal. That's what this fills. 60 days to see if it fits your child.
+P.S. Both my sons had BCBAs. Both had school accommodations. One had GI issues. The systems aren't the enemy, they just weren't designed to build a sensory signal. That's what this fills. 60 days to see if it fits your child.
 
 ---
 
@@ -226,33 +228,33 @@ P.S. Both my sons had BCBAs. Both had school accommodations. One had GI issues. 
 
 ### How Each Level Reads This Email
 
-**Level 1 — Sarah (Verbal, 3-5, Hope 70%):**
-- Resonates with Sarah's story: "almost trained three separate times" — matches the pre-K urgency cycle
+**Level 1, Sarah (Verbal, 3-5, Hope 70%):**
+- Resonates with Sarah's story: "almost trained three separate times", matches the pre-K urgency cycle
 - BCBA section may not directly apply (L1 often has no BCBA), but the "school policy" and "pull-up bridge" sections do
-- The GI section may feel distant — but the "all three systems" frame lets her skip what doesn't apply
+- The GI section may feel distant, but the "all three systems" frame lets her skip what doesn't apply
 - **Key conversion path:** School/daycare bridge strategy + 60-day guarantee + Sarah's story as hope anchor
 
-**Level 2 — Lisa (Mixed, 5-7, BCBA, Hope 40%):**
+**Level 2, Lisa (Mixed, 5-7, BCBA, Hope 40%):**
 - The CORE audience for this email. All three objections hit: BCBA loyalty, school/IEP policies, and GI issues (~50% have GI comorbidity)
-- Lisa's story mirrors her exact situation: "fighting everyone — the BCBA, the school, my own child"
+- Lisa's story mirrors her exact situation: "fighting everyone, the BCBA, the school, my own child"
 - "Your BCBA leads. We add alongside" is the critical trust line
 - "Your BCBA's sit schedule works better when your child can actually feel the urge" gives her permission to explore without betraying her provider
 - **Key conversion path:** BCBA-complement framing + school bridge strategy + Lisa's story as permission-to-try + 60-day guarantee covers all three risk points
 
-**Level 3 — Maria (Non-Verbal, 6-10+, Dignity-First):**
-- Maria's story is the emotional center — "I wasn't thinking about potty training. I was thinking about preventing another hospitalization."
+**Level 3, Maria (Non-Verbal, 6-10+, Dignity-First):**
+- Maria's story is the emotional center, "I wasn't thinking about potty training. I was thinking about preventing another hospitalization."
 - The GI/medical section speaks directly to her reality
-- "That's not training. That's signal awareness. And that was enough." — the critical dignity line
-- "Your GI doctor manages the medical piece. We handle the sensory learning layer" — essential alongside positioning
+- "That's not training. That's signal awareness. And that was enough.", the critical dignity line
+- "Your GI doctor manages the medical piece. We handle the sensory learning layer", essential alongside positioning
 - NO urgency, NO promises of "fully trained"
 - **Key conversion path:** Medical alongside framing + Maria's story as peer validation + dignity-first language + 60-day guarantee removes risk on a child with complex needs
 
 **General Fallback (Cross-Level, 5 Sub-Groups):**
-- **A (Diagnostic Entrants):** "Your BCBA has a protocol" entry point may feel premature — but the structure lets them skip ahead. School and medical sections are broadly relatable. The "Whether you have one system or all three" opener covers them.
+- **A (Diagnostic Entrants):** "Your BCBA has a protocol" entry point may feel premature, but the structure lets them skip ahead. School and medical sections are broadly relatable. The "Whether you have one system or all three" opener covers them.
 - **B (Diagnosis-Rejecters):** No ASD/diagnosis language. "Nervous system processes signals differently" is the only neurological framing. "Systems" refers to medical/school/therapy systems, not diagnosis.
-- **C (SPD/ADHD):** Mechanism-focused throughout. School pull-up policy is universal for kids with sensory differences. GI comorbidity is high in SPD as well. BCBA section may not apply — easily skippable.
-- **D (Overwhelmed Non-Selectors):** Three objections named upfront provide deep recognition. Three-family stories give migration paths — each mom finds "her" story organically.
-- **E (Cart/Browse):** Fresh entry — "Your BCBA has a protocol. Your school has a policy. Your GI doctor has a treatment plan" — immediate real-world recognition. Bridge strategy and guarantee close for skeptics.
+- **C (SPD/ADHD):** Mechanism-focused throughout. School pull-up policy is universal for kids with sensory differences. GI comorbidity is high in SPD as well. BCBA section may not apply, easily skippable.
+- **D (Overwhelmed Non-Selectors):** Three objections named upfront provide deep recognition. Three-family stories give migration paths, each mom finds "her" story organically.
+- **E (Cart/Browse):** Fresh entry, "Your BCBA has a protocol. Your school has a policy. Your GI doctor has a treatment plan", immediate real-world recognition. Bridge strategy and guarantee close for skeptics.
 
 ---
 
@@ -293,7 +295,7 @@ P.S. Both my sons had BCBAs. Both had school accommodations. One had GI issues. 
 
 | Order | Lever | Application |
 |:-----:|-------|-------------|
-| ① | **L1 — Mechanism Gap** | "Diminished interoceptive accuracy" — the connector that explains why BCBA, school, and GI all hit the same wall |
+| ① | **L1 — Mechanism Gap** | "Diminished body awareness" — the connector that explains why BCBA, school, and GI all hit the same wall |
 | ② | **L4 — Lena Voice** | Three-family testimonial pattern — Sarah (L1), Lisa (L2), Maria (L3) — peer stories covering all levels |
 | ③ | **L2 — ABA Complement** | "Your BCBA leads. We add alongside." — critical positioning for the 65% of audience with a BCBA relationship |
 | ④ | **L3 — 60-Day Guarantee** | Risk removal across all three concerns — "Try for 60 days. By your judgment." |

@@ -1,9 +1,8 @@
 # PP At-Risk E1 (Cross-Level) — "Haven't heard from you. How's it going?"
 
 **Flow:** 1.20 PP-Support At-Risk (4 Emails, Cross-Level)
-**Email Position:** E1 — Day 0 (3-7 days no opens)
-**Strategy Source:** S2 §1.20 (2-full-email-copy-strategy.md)
-**Audience:** Post-purchase subscribers who have stopped engaging (no opens in 3-7 days). Cross-level — single copy calibrated for all 4 levels via R1-R6.
+**Email Position:** E1, Day 0 (3-7 days no opens)
+**Strategy **Audience:** Post-purchase subscribers who have stopped engaging (no opens in 3-7 days). Cross-level, single copy calibrated for all 4 levels via R1-R6.
 **Tone Calibration (from 11-brand-voice-reference.md §12):** Empathetic Lena — extra empathy, Hope/Realism 30/70
 
 ---
@@ -24,7 +23,7 @@
 
 ---
 
-**Subject:** Haven't heard from you — checking in
+**Subject:** Haven't heard from you, checking in
 
 **Preview:** No pressure. Just wanted to see how things are going with the underwear.
 
@@ -36,21 +35,23 @@
 
 **HOOK**
 
-Haven't heard from you in a bit. So I thought I'd check in — how's it going?
+Haven't heard from you in a bit. So I thought I'd check in, how's it going?
 
 **VALIDATION**
 
-If the underwear is sitting in a drawer — that's okay. Some kids need a break. Some moms need a break. That's real. I took breaks too. My older son was 8 before we figured this out, and there were months when the underwear just sat there.
+If the underwear is sitting in a drawer, that's okay. Some kids need a break. Some moms need a break. That's real. I took breaks too. My older son was 8 before we figured this out, and there were months when the underwear just sat there.
 
 **MECHANISM**
 
-Body-signal learning doesn't work on a timeline. Some kids process interoception at a different pace — and that pace isn't a reflection of you or your child. 49% of autistic 4-5 year olds aren't trained. You're not behind. You're not doing it wrong. The nervous system takes the time it takes.
+Body-signal learning doesn't work on a timeline. Some kids process interoception at a different pace, and that pace isn't a reflection of you or your child. 49% of autistic 4-5 year olds aren't trained. You're not behind. You're not doing it wrong. The nervous system takes the time it takes.
 
-When the underwear goes back on — whether that's tomorrow, next week, or next month — the body-signal learning starts wherever your child is. Not on a Pre-K deadline. Not on anyone else's timeline.
+When the underwear goes back on, whether that's tomorrow, next week, or next month, the body-signal learning starts wherever your child is. Not on a Pre-K deadline. Not on anyone else's timeline.
+
+One dad told me: "We put them in a drawer for three weeks. When we pulled them out, something had shifted. He didn't say anything. But he paused before he peed. That pause was new."
 
 **CTA**
 
-If you want to tell me what's happening — whether things are going well, whether you hit a wall, whether you just needed a breather — reply to this email. I read every response.
+If you want to tell me what's happening, whether things are going well, whether you hit a wall, whether you just needed a breather, reply to this email. I read every response.
 
 No judgment. Just curious.
 
@@ -60,7 +61,7 @@ No judgment. Just curious.
 
 Talk soon,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
 P.S. When you're ready to try again, the science will be here. 60 days, your judgment. No rush.
@@ -107,7 +108,7 @@ United States
 
 **"The Pause Is Part of the Process."**
 
-This email doesn't ask the parent to do anything. It doesn't sell. It doesn't re-engage with a discount or a new feature. The core creative idea is that disengagement is not failure — it's a natural rhythm in a long journey. The email positions itself as a quiet check-in from a friend who's been there, holding space for the parent to return when they're ready.
+This email doesn't ask the parent to do anything. It doesn't sell. It doesn't re-engage with a discount or a new feature. The core creative idea is that disengagement is not failure, it's a natural rhythm in a long journey. The email positions itself as a quiet check-in from a friend who's been there, holding space for the parent to return when they're ready.
 
 Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validation after method fatigue), L3 (dignity in long-term acceptance), and GF (universal permission to pause).
 
@@ -115,25 +116,25 @@ Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validati
 
 | Section | Component | Notes |
 |---------|-----------|-------|
-| **Hero** | Text-only headline | No hero image. The subject line + preview text + greeting IS the hero. Intentional — no visual ask. |
+| **Hero** | Text-only headline | No hero image. The subject line + preview text + greeting IS thero. Intentional — no visual ask. |
 | **Body block 1** | Hook (centered, 2-3 sentences) | "Haven't heard from you in a bit. So I thought I'd check in — how's it going?" Single-column, no dividers. |
 | **Body block 2** | Validation (centered, 3-4 sentences) | "If the underwear is sitting in a drawer..." Expands the S2 content. Soft tone. |
 | **Body block 3** | Mechanism (centered, 4-5 sentences) | Interoception science, SPARK stat. Gentle education — not overwhelming. |
-| **CTA block** | Text-link CTA (centered) | "Reply to this email" — not a button. No retail action. This is a conversation opener, not a conversion. |
+| **CTA block** | Text-link CTA (centered) | "Reply to this email" — not a button. No retail action. This a conversation opener, not a conversion. |
 | **Sign-off** | Lena signature block | Standard Lena: "Talk soon, Lena — Customer Support · Mom of two autistic sons" |
 | **Footer** | Unsubscribe + address | Standard BrightKidCo footer, minimal visual weight |
 
-**Layout type:** Single-column text-forward. No imagery, no product grid, no social proof block. The absence of visual clutter IS the design — it signals "this is a real person writing, not a campaign."
+**Layout type:** Single-column text-forward. No imagery, no product grid, no social proof block. The absence of visual clutter IS the design, it signals "this a real person writing, not a campaign."
 
-**Mobile approach:** 100% fluid, single stack, 16px body minimum. No media queries needed — the design is text with a single column throughout.
+**Mobile approach:** 100% fluid, single stack, 16px body minimum. No media queries needed, the design is text with a single column throughout.
 
 ### Custom Contraption / Illustration
 
 **None.** This email intentionally uses zero illustrations, product photos, or decorative hero imagery.
 
-**Rationale (Cross-Level):** At-risk subscribers who haven't opened in 3-7 days need the lowest possible cognitive load. Any image is a reason not to render the email (client blocking, load time). A text-only email feels like a personal message rather than a broadcast. This is the BrightKidCo equivalent of a handwritten note.
+**Rationale (Cross-Level):** At-risk subscribers who haven't opened in 3-7 days need the lowest possible cognitive load. Any image is a reason not to render the email (client blocking, load time). A text-only email feels like a personal message rather than a broadcast. This the BrightKidCo equivalent of a handwritten note.
 
-**Fallback:** If an image is required by the ESP template structure, use a subtle 1px spacer or a very light top-divider line (#D4C9B8, 1px) — nothing that reads as "content."
+**Fallback:** If an image is required by the ESP template structure, use a subtle 1px spacer or a very light top-divider line (#D4C9B8, 1px), nothing that reads as "content."
 
 ### Color Narrative
 
@@ -142,12 +143,12 @@ Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validati
 | Page background | Off-white | #FAF9F7 | Warm, soft — reduces clinical feel |
 | Content background | Transparent | — | Floats on page BG, no card needed |
 | Headline / Body text | Warm dark gray | #3A3A3A | Softer than pure black, easier on eyes |
-| CTA text link | Muted sage | #7A9A7A | Low-urgency green — signals "this is safe to click" |
+| CTA text link | Muted sage | #7A9A7A | Low-urgency green — signals "this safe to click" |
 | Divider | Warm cream beige | #D4C9B8 | Subtle separation line |
 | Lena signature | Same as body | #3A3A3A | No distinction between "brand" and "person" |
 | Footer text | Muted | #8A8A8A | Low visual weight, compliant |
 
-**Cross-level justification:** The muted, warm palette avoids L1's bright Pre-K green (which would signal urgency this email explicitly avoids), L2's clinical blue-gray, and L3's darker tones. Off-white + warm gray is universally safe — it reads as "handwritten letter" across all levels.
+**Cross-level justification:** The muted, warm palette avoids L1's bright Pre-K green (which would signal urgency this email explicitly avoids), L2's clinical blue-gray, and L3's darker tones. Off-white + warm gray is universally safe, it reads as "handwritten letter" across all levels.
 
 ### Typography
 
@@ -160,8 +161,8 @@ Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validati
 | Footer | Arial, Helvetica, sans-serif | 11px | 12px | 400 | 1.3 |
 
 **Notes:**
-- NO bold weight used anywhere — follows consolidated design reference "NEVER bold for body text" (11-brand-voice-reference.md §14.3).
-- No headline size used — this email has no traditional "headline." The hook IS the headline, rendered at body size. This is intentional: a personal check-in doesn't shout.
+- NO bold weight used anywhere, follows consolidated design reference "NEVER bold for body text" (11-brand-voice-reference.md §14.3).
+- No headline size used, this email has no traditional "headline." The hook IS theadline, rendered at body size. This intentional: a personal check-in doesn't shout.
 - Questrial is brand font; Arial/Helvetica/sans-serif is email-safe fallback (email-design-master §2).
 - SPARK statistic ("49% of autistic 4-5 year olds...") is in italics for subtle emphasis.
 
@@ -181,15 +182,15 @@ Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validati
 
 **The "How's it going?" echo.** The email opens with "how's it going?" and returns to this in the CTA ("tell me what's happening"). The reader who doesn't open but preview-texts gets: "No pressure. Just wanted to see how things are going with the underwear." This frames the entire email as a two-way conversation even before opening.
 
-**Cross-level calibration note:** There is no level-specific easter egg. The email is deliberately universal. L1 readers see relief from pressure. L2 readers see validation from a peer who gets method fatigue. L3 readers see dignity — the email doesn't ask them to try again. GF readers see a human check-in.
+**Cross-level calibration note:** There is no level-specific easter egg. The email is deliberately universal. L1 readers see relief from pressure. L2 readers see validation from a peer who gets method fatigue. L3 readers see dignity, the email doesn't ask them to try again. GF readers see a human check-in.
 
 ### Motion / Animation
 
 **None.** This email has no animated elements.
 
 **Rationale:** Animated elements in an at-risk re-engagement email create two problems:
-1. **Rendering risk** — Gmail app, Outlook, and Yahoo strip or break animations. The email may render as broken CSS rather than the intended experience.
-2. **Tone mismatch** — Movement reads as urgency, excitement, or "campaign energy." This email's entire creative strategy is the opposite: stillness, pause, reflection.
+1. **Rendering risk**, Gmail app, Outlook, and Yahoo strip or break animations. The email may render as broken CSS rather than the intended experience.
+2. **Tone mismatch**, Movement reads as urgency, excitement, or "campaign energy." This email's entire creative strategy is the opposite: stillness, pause, reflection.
 
 ### Level Calibration
 
@@ -203,7 +204,7 @@ Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validati
 | **Sensitive language avoided** | "Pre-K deadline," "time running out" | "Your BCBA," "methods you tried" | "Fix," "cure," "progress" | No labels |
 | **SPARK stat** | Included (gentle) | Included (normalizing) | Included (empathetic context) | Included |
 
-**Cross-level resolution:** The email uses V12 (permission framing) as its primary voice rule across all levels. The SPARK stat ("49% of autistic 4-5 year olds aren't trained") is the single universal anchor — it normalizes the experience for L1, validates the difficulty for L2, and removes shame for L3.
+**Cross-level resolution:** The email uses V12 (permission framing) as its primary voice rule across all levels. The SPARK stat ("49% of autistic 4-5 year olds aren't trained") is the single universal anchor, it normalizes the experience for L1, validates the difficulty for L2, and removes shame for L3.
 
 ---
 

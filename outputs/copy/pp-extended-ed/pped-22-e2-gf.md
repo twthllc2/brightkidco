@@ -4,7 +4,7 @@
 
 **Flow:** PP-Extended Education (Flow 22)
 **Email:** E2 (Day 29)
-**Level:** GF — General Family (Inclusive, Cross-Level)
+**Level:** GF, General Family (Inclusive, Cross-Level)
 **Author:** Lena S., Customer Support · Mom of two autistic sons
 **Status:** ✅ Complete
 
@@ -16,7 +16,7 @@
 
 **Subject Line:** The sign you might be missing (and why it matters)
 
-**Preheader:** When the novelty wears off but the signal hasn't fully formed — here's what to look for and why your child's progress is already happening.
+**Preheader:** When the novelty wears off but the signal hasn't fully formed, here's what to look for and why your child's progress is already happening.
 
 **From Name:** Lena from BrightKidCo
 
@@ -24,23 +24,23 @@
 
 Lena here.
 
-You're about four weeks in with the Body-Signal Learning Layer. Maybe your child has been wearing the underwear for a few weeks now — some days they hardly notice it, other days they pull at the waistband or pause after an accident.
+You're about four weeks in with the Body-Signal Learning Layer. Maybe your child has been wearing the underwear for a few weeks now, some days they hardly notice it, other days they pull at the waistband or pause after an accident.
 
-And maybe a quiet question has started creeping in: *Is anything actually changing? I can't tell if this is working.*
+And maybe a quiet question has started creeping in: *Is anything actually changing? I can't tell if this working.*
 
-I want to talk about that question. Not with a promise, but with what I've seen across hundreds of families — including my own two sons.
+I want to talk about that question. Not with a promise, but with what I've seen across hundreds of families, including my own two sons.
 
 ---
 
 ## The Plateau Nobody Warns You About
 
-Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still figuring things out — if they don't feel when they need to go, the first few weeks of BSL underwear follow a predictable pattern.
+Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still figuring things out, if they don't feel when they need to go, the first few weeks of BSL underwear follow a predictable pattern.
 
 **Phase 1: Novelty.** The first week or two, your child notices something different. Some kids are curious. Some are annoyed. Some ignore it completely. Either way, the brain registers: *something is new.*
 
-**Phase 2: The Plateau.** Weeks 3-5. The novelty fades. The underwear is just... underwear now. Your child wears it, has accidents, maybe stops reacting to the wet sensation the way they did in week one. And you think: *Wait — is this going backwards?*
+**Phase 2: The Plateau.** Weeks 3-5. The novelty fades. The underwear is just... underwear now. Your child wears it, has accidents, maybe stops reacting to the wet sensation the way they did in week one. And you think: *Wait, is this going backwards?*
 
-This is the plateau. And it's not a setback. It's the most important phase of the entire body-signal learning process.
+This the plateau. And it's not a setback. It's the most important phase of the entire body-signal learning process.
 
 Here's why.
 
@@ -48,11 +48,9 @@ Here's why.
 
 ## What's Actually Happening During the Plateau
 
-The first time your child felt the wet sensation from the BSL layer, their brain registered *something unfamiliar.* That's a basic neurological response — novelty triggers alertness. But novelty doesn't build pathways. Repetition does.
+The first time your child felt the wet sensation, their brain registered *something unfamiliar.* Novelty triggers alertness, but novelty doesn't build pathways. Repetition does.
 
-In weeks 3-5, your child's brain has stopped treating the sensation as new. It's started the real work: building a neural bridge between *that feeling* and *that action* (using the potty). The reason you might not see obvious signs yet is that the bridge isn't complete. Your child is registering the signal — but the signal doesn't yet arrive early enough to change behavior.
-
-Research from Nicholson et al. (2019) showed that autistic children have significantly diminished interoceptive accuracy — the ability to sense internal body signals like bladder fullness — but that this gap *closes over time.* The deficit is developmental, not permanent. The brain learns. But it needs the right kind of repetitions.
+In weeks 3-5, the brain has stopped treating the sensation as new. It's building a neural bridge between *that feeling* and *that action.* Research from Nicholson et al. (2019) showed that autistic children have significantly diminished body awareness, but this gap *closes over time.* The deficit is developmental, not permanent.
 
 Those repetitions are happening right now, even when nothing seems to be happening.
 
@@ -60,7 +58,7 @@ Those repetitions are happening right now, even when nothing seems to be happeni
 
 ## What Awareness Actually Looks Like (The Small Signs)
 
-Most parents expect body-signal awareness to look like a child walking to the potty and saying "I need to go." But awareness starts much smaller than that — especially for children whose nervous systems process signals differently.
+Most parents expect body-signal awareness to look like a child walking to the potty and saying "I need to go." But awareness starts much smaller than that, especially for children whose nervous systems process signals differently.
 
 Here's what real early awareness looks like across different kids:
 
@@ -74,7 +72,7 @@ Here's what real early awareness looks like across different kids:
 | Signalling *after* the accident instead of ignoring it entirely | The communication pathway is activating — even retroactively | Precedes pro-active signalling by 2-6 weeks |
 | A vocalization — sound, word, or pointing — that accompanies the accident | The brain is connecting body sensation to communication | Language-ready kids start here; non-verbal kids use gesture first |
 
-Some kids show one of these signs. Some show several. Some show none of them visibly — and the awareness is still building internally.
+Some kids show one of these signs. Some show several. Some show none of them visibly, and the awareness is still building internally.
 
 **If your child is 4 weeks in and you haven't seen anything on this list:** That's okay. Some children need 8-10 weeks before the first recognizable micro-signal appears. Every nervous system builds connections at its own speed.
 
@@ -82,33 +80,33 @@ Some kids show one of these signs. Some show several. Some show none of them vis
 
 ## The Tracking System That Actually Helps
 
-The hardest part of this phase isn't the waiting — it's not knowing what to look for. Most parents track "number of successes" and feel discouraged when the number isn't going up. But in weeks 4-8 of body-signal learning, success isn't measured in dry pants. It's measured in *signal awareness.*
+The hardest part of this phase isn't the waiting, it's not knowing what to look for. Most parents track "number of successes" and feel discouraged when the number isn't going up. But in weeks 4-8 of body-signal learning, success isn't measured in dry pants. It's measured in *signal awareness.*
 
 Here's what to track instead:
 
-1. **Signal timing.** Not *if* your child signals, but *when.* Does the pause or look happen closer to the accident than it did in week one? Even by a few seconds — that's progress.
+1. **Signal timing.** Not *if* your child signals, but *when.* Does the pause or look happen closer to the accident than it did in week one? Even by a few seconds, that's progress.
 
 2. **Accident type drift.** Are wet accidents decreasing while "almost made it" moments increase? That's your child getting closer.
 
-3. **Reaction after accidents.** Does your child seem to notice faster than before? A quicker look down, a faster attention shift — these are neurological milestones.
+3. **Reaction after accidents.** Does your child seem to notice faster than before? A quicker look down, a faster attention shift, these are neurological milestones.
 
 4. **Dry stretches.** Don't track total dry days. Track longest dry stretch per day. 30 minutes becoming 60 minutes is a measurable improvement.
 
-5. **Behavioral cues.** Any new behavior around bathroom time? A glance at the potty door, a pause at the bathroom threshold, a hand on the pants — these are body signals trying to surface.
+5. **Behavioral cues.** Any new behavior around bathroom time? A glance at the potty door, a pause at the bathroom threshold, a hand on the pants, these are body signals trying to surface.
 
-You don't need a spreadsheet. A sticky note on the fridge with three columns — "Date," "What I Saw," "Signal Timing" — is more useful than a complex tracking system you abandon after three days.
+You don't need a spreadsheet. A sticky note on the fridge with three columns, "Date," "What I Saw," "Signal Timing", is more useful than a complex tracking system you abandon after three days.
 
 ---
 
 ## When the Plateau Ends
 
-Every child's timeline is different. But here's what I've seen across hundreds of families — including my own:
+Every child's timeline is different. But here's what I've seen across hundreds of families, including my own:
 
 - **Some children** show their first recognizable awareness signal between weeks 4-6. It's usually a pause. Just a few seconds. But it's the first time the brain and the body connected on their own.
-- **Other children** need 8-12 weeks before the first signal appears. The awareness is building internally the whole time — you just can't see it yet.
+- **Other children** need 8-12 weeks before the first signal appears. The awareness is building internally the whole time, you just can't see it yet.
 - **For children with significant sensory differences**, the timeline can extend to 12-16 weeks. That's not failure. That's their nervous system working at its own pace.
 
-And then one day — maybe on a Tuesday afternoon when you're not even watching closely — your child pauses. Looks down. Touches their pants. And you realize: *They felt something. Before the accident, not after.*
+And then one day, maybe on a Tuesday afternoon when you're not even watching closely, your child pauses. Looks down. Touches their pants. And you realize: *They felt something. Before the accident, not after.*
 
 That's the day everything shifts. Not because the training is over, but because the connection has been made. The rest is repetition and reinforcement.
 
@@ -118,22 +116,22 @@ That's the day everything shifts. Not because the training is over, but because 
 
 Whether your child showed a sign in week two and you're still waiting for the next one. Whether you're in week four with nothing visible at all. Whether you're not sure what counts as a signal and what's just normal kid behavior.
 
-Track what you see. Ignore what you don't. And if today feels hard — if the underwear is sitting in a drawer, or you've taken a break, or you're wondering if this is worth the emotional energy — that's a real feeling, and it's valid.
+Track what you see. Ignore what you don't. And if today feels hard, if the underwear is sitting in a drawer, or you've taken a break, or you're wondering if this worth the emotional energy, that's a real feeling, and it's valid.
 
 The 60-day guarantee is here. If nothing changes and you decide this approach wasn't right, full refund, no questions, no return shipping.
 
 But what I can tell you, from watching thousands of families and raising two sons of my own: the plateau is where the real learning happens. It doesn't look like progress. It looks like nothing. But under the surface, millimeter by millimeter, the pathway is forming.
 
-Keep wearing. Keep noticing. The signal is coming — on your child's timeline, not anyone else's.
+Keep wearing. Keep noticing. The signal is coming, on your child's timeline, not anyone else's.
 
 ---
 
 Talk soon,
 
-Lena
+Lena ——
 *Customer Support · Mom of two autistic sons*
 
-P.S. If you want a simple one-page tracking guide — the kind you can tape to the fridge — reply to this email and I'll send it to you. No charge, no strings. Just something I wish I'd had.
+P.S. If you want a one-page tracking guide, the kind you can tape to the fridge, reply to this email and I'll send it to you. No charge, no strings. Just something I wish I'd had.
 
 ---
 
@@ -142,9 +140,9 @@ P.S. If you want a simple one-page tracking guide — the kind you can tape to t
 BrightKidCo
 123 Main Street, Denver, CO 80202
 
-You're receiving this because you're part of the BrightKidCo community. If this isn't helpful right now, no hard feelings — unsubscribe here.
+You're receiving this because you're part of the BrightKidCo community. If thisn't helpful right now, no hard feelings, unsubscribe here.
 
-Reply to this email — Lena reads every response.
+Reply to this email, Lena reads every response.
 
 ---
 
@@ -169,7 +167,7 @@ Reply to this email — Lena reads every response.
 | Element | Present? | Where |
 |---------|:--------:|-------|
 | ① Real Symptom Recognition | ✅ | Opening: "Your child has been wearing... some days they pull at the waistband... And a quiet question has started creeping in: Is anything actually changing?" |
-| ② Mechanism Specificity | ✅ | Nicholson 2019 cited for interoceptive accuracy deficit; "Novelty triggers alertness but repetition builds pathways"; neural bridge formation explained with developmental resolution |
+| ② Mechanism Specificity | ✅ | Nicholson 2019 cited for body awareness deficit; "Novelty triggers alertness but repetition builds pathways"; neural bridge formation explained with developmental resolution |
 | ③ Acknowledge BCBA/OT Work | ✅ | Implicitly addressed via "Some children need 8-12 weeks before the first signal appears" and inclusive framing of sensory differences — avoids level-specific BCBA language for GF audience where not all have BCBAs |
 | ④ Realistic Timelines | ✅ | 4-6 week range, 8-12 week range, 12-16 week for significant sensory differences — all labelled as normal; timeline flexibility via R5 |
 | ⑤ 60-Day Guarantee | ✅ | "If nothing changes and you decide this approach wasn't right, full refund, no questions, no return shipping." |
@@ -204,7 +202,7 @@ Reply to this email — Lena reads every response.
 
 | Tier | Citation/Element | Location |
 |------|-----------------|----------|
-| 🏆 Tier 1: Mechanism Specificity | Nicholson 2019 — interoceptive accuracy gap closes over time; novelty vs. repetition mechanism | Core mechanism section |
+| 🏆 Tier 1: Mechanism Specificity | Nicholson 2019 — body awareness gap closes over time; novelty vs. repetition mechanism | Core mechanism section |
 | 🏆 Tier 3: Peer-Mom Credibility | Lena's own experience: "including my own two sons"; "I've seen across hundreds of families" | Opening hook + closing |
 | 🏆 Tier 2: Science Normalization | Developmental, not permanent — "The brain learns. But it needs the right kind of repetitions." | Mechanism section |
 | 🏆 Tier 5: 60-Day Guarantee | Full refund at day 60 if no change — "no questions, no return shipping" | Guarantee section |
@@ -233,7 +231,7 @@ Reply to this email — Lena reads every response.
 
 ## 2.8 Big Idea
 
-**"The plateau is the learning."** The core reframe: weeks 3-5 are not a stall or regression — they are the period when the brain shifts from novelty-response to pathway-building. For GF audiences, this idea needs to be universal: accessible whether the child has a diagnosis, a sensory processing difference, or no label at all. The big idea normalizes the silent phase of neural development and gives parents a framework for seeing invisible progress.
+**"The plateau is the learning."** The core reframe: weeks 3-5 are not a stall or regression, they are the period when the brain shifts from novelty-response to pathway-building. For GF audiences, this idea needs to be universal: accessible whether the child has a diagnosis, a sensory processing difference, or no label at all. The big idea normalizes the silent phase of neural development and gives parents a framework for seeing invisible progress.
 
 ## 2.9 Layout Architecture
 
@@ -255,10 +253,10 @@ Reply to this email — Lena reads every response.
 A simple stylized cross-section showing the neural pathway forming beneath the surface:
 
 - Left side: A body outline with a dashed neural pathway from the bladder area upward
-- Middle: The pathway is half-formed — dotted lines with small spark/signal nodes at points where connections are being made
+- Middle: The pathway is half-formed, dotted lines with small spark/signal nodes at points where connections are being made
 - Right side: The pathway completes, showing an arrow from body → brain
 - Subtle earthy-warm tones: soft clay (`#D4B5A0`) for the body outline, warm amber (`#C4956A`) for signal nodes, muted sage (`#8BA794`) for the completed pathway
-- Style: Minimal line-art with soft shading — approachable, not clinical
+- Style: Minimal line-art with soft shading, approachable, not clinical
 - Placement: Between the Mechanism and the Awareness Signs sections
 
 **Secondary visual: "The Micro-Signal Stamp Collection"**
@@ -286,7 +284,7 @@ Arranged in a 3×2 grid with a warm off-white background (`#F7F5F3`), rounded co
 | **Dividers** | `#E5DDD6` | Horizontal rules, table cell borders — warm beige, not grey |
 | **CTA / link** | `#2C2C2C` | Underlined text links — not a separate CTA button (education-only) |
 
-**Color psychology:** The GF palette leans warm-nurturing with no clinical associations. The amber + sage combination reads as grounded and natural — accessible to parents who may not identify with "autism" or "ASD" labels. No cool blues or harsh contrasts. The palette evokes clean paper, soft earth, comfort.
+**Color psychology:** The GF palette leans warm-nurturing with no clinical associations. The amber + sage combination reads as grounded and natural, accessible to parents who may not identify with "autism" or "ASD" labels. No cool blues or harsh contrasts. The palette evokes clean paper, soft earth, comfort.
 
 ## 2.12 Typography
 
@@ -319,13 +317,13 @@ Arranged in a 3×2 grid with a warm off-white background (`#F7F5F3`), rounded co
 
 **Hidden detail: The Open Door at the Base of the Bridge**
 
-In the "Invisible Bridge" illustration, the completed pathway on the right side of the image resolves into a small open door drawn at the base. The door is a simple arched outline — no handle, no threshold — just a warm amber opening. The door represents:
+In the "Invisible Bridge" illustration, the completed pathway on the right side of the image resolves into a small open door drawn at the base. The door is a simple arched outline, no handle, no threshold, just a warm amber opening. The door represents:
 
-- Welcoming — no barrier to entry
-- Universal — anyone can walk through, regardless of level, age, or diagnosis
-- Subtle — it's not called out in the copy. The parent notices it on the second or third read. It triggers a quiet sense of invitation.
+- Welcoming, no barrier to entry
+- Universal, anyone can walk through, regardless of level, age, or diagnosis
+- Subtle, it's not called out in the copy. The parent notices it on the second or third read. It triggers a quiet sense of invitation.
 
-**Alternative (text-only email):** If illustration can't be rendered (e.g. plain-text fallback screen readers), the hidden detail is carried in the P.S. — the offer to reply for a free tracking guide positions Lena as standing at an open door, ready to help without asking for anything in return. The "door" is the reply invitation itself — always open, never locked.
+**Alternative (text-only email):** If illustration can't be rendered (e.g. plain-text fallback screen readers), the hidden detail is carried in the P.S., the offer to reply for a free tracking guide positions Lena as standing at an open door, ready to help without asking for anything in return. The "door" is the reply invitation itself, always open, never locked.
 
 ## 2.15 Motion / Animation
 
@@ -351,14 +349,14 @@ In the "Invisible Bridge" illustration, the completed pathway on the right side 
 
 ## 2.17 Lena Sign-Off Variant Used
 
-**SHORT variant** — per GF E1-E2 sign-off calibration:
+**SHORT variant**, per GF E1-E2 sign-off calibration:
 
 > Talk soon,
 >
 > Lena
 > *Customer Support · Mom of two autistic sons*
 >
-> P.S. If you want a simple one-page tracking guide — the kind you can tape to the fridge — reply to this email and I'll send it to you. No charge, no strings. Just something I wish I'd had.
+> P.S. If you want a one-page tracking guide, the kind you can tape to the fridge, reply to this email and I'll send it to you. No charge, no strings. Just something I wish I'd had.
 
 The P.S. is a characteristically Lena touch: peer-to-peer resource offer without any product push. The phrase "something I wish I'd had" reinforces peer credibility and the open-door invitation.
 
@@ -381,8 +379,8 @@ The P.S. is a characteristically Lena touch: peer-to-peer resource offer without
 ## 2.19 Science Integrity Notes
 
 - Nicholson et al. (2019) citation: PMID 31127487, J Autism Dev Disord 49(9):3625-3637
-- Claim used: "autistic children have significantly diminished interoceptive accuracy... but this gap closes over time" — consistent with Experiment 2 (children with deficit) and Experiment 1 (adults with no deficit); conclusion verbatim: "Early interoception difficulties are resolved or compensated for by adulthood"
-- Timing ranges (4-6 weeks, 8-12 weeks, 12-16 weeks) are observational patterns from BrightKidCo's internal parent tracking data, not from Nicholson 2019 — labelled as "what I've seen across hundreds of families" not as a scientific claim
+- Claim used: "autistic children have significantly diminished body awareness... but this gap closes over time", consistent with Experiment 2 (children with deficit) and Experiment 1 (adults with no deficit); conclusion verbatim: "Early interoception difficulties are resolved or compensated for by adulthood"
+- Timing ranges (4-6 weeks, 8-12 weeks, 12-16 weeks) are observational patterns from BrightKidCo's internal parent tracking data, not from Nicholson 2019, labelled as "what I've seen across hundreds of families" not as a scientific claim
 - "Novelty triggers alertness but repetition builds pathways" is a general principle of neuroplasticity, not a specific study citation
 - No fabricated claims about BSL efficacy beyond available evidence
 - GF version avoids technical language about interoception to keep the mechanism accessible without sacrificing accuracy

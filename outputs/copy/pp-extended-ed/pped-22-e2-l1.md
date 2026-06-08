@@ -2,8 +2,8 @@
 # "Advanced body-signal tracking: how to document and recognize growing awareness."
 
 **Flow:** PP-Extended Education (Flow 22)
-**Email:** E2 — D29
-**Level:** L1 — Sarah (Verbal, 3–5 yrs, Hope-Intact)
+**Email:** E2, D29
+**Level:** L1, Sarah (Verbal, 3–5 yrs, Hope-Intact)
 **From:** Lena from BrightKidCo
 **Tag:** `avatar_level1`
 
@@ -14,7 +14,7 @@
 ---
 
 ### Subject Line
-**Pre-K is [X months] away — here's what progress actually looks like**
+**Pre-K is [X months] away, here's what progress actually looks like**
 
 ### Preheader
 Most parents miss the early signs. Here's what to watch for this week.
@@ -25,7 +25,7 @@ Most parents miss the early signs. Here's what to watch for this week.
 
 Sarah,
 
-You've been at this for about a month now. If you're wondering whether anything is actually changing — let me show you what to look for.
+You've been at this for about a month now. If you're wondering whether anything is actually changing, let me show you what to look for.
 
 Because here's the thing most parents miss: **the first signs of body-signal awareness aren't trips to the potty.** They're smaller. Subtler. And if you don't know what you're watching for, they're easy to miss entirely.
 
@@ -35,23 +35,21 @@ Your child's nervous system is building new pathways. That takes time. But the e
 
 - A pause mid-play. Just a second. He stops, looks down, then carries on. That pause is his brain registering a sensation it didn't notice before.
 
-- A hand to the waistband. Not a grab — just a touch. A subconscious check-in with his body.
+- A hand to the waistband. Not a grab, just a touch. A subconscious check-in with his body.
 
 - A change in posture. Shifting weight. Squatting. Leg-crossing. These are his body's early attempts to respond to a signal it's only beginning to recognize.
 
 - A glance toward the bathroom. He doesn't walk there. He doesn't say anything. But his eyes go there. Something is connecting.
 
-None of these look like "potty training success." But in the context of interoceptive development? **Every single one is a milestone.**
+None of these look like "potty training success." But in the context of body signal development? **Every single one is a milestone.**
 
 **Why documentation matters**
 
-The interoception research shows that awareness builds through repetition and recognition. Each time your child's brain receives the sustained 30–60 second "uh-oh" sensation from the Body-Signal Learning Layer, it strengthens that neural pathway.
-
-But the progress is incremental — too slow to notice day-to-day. That's why tracking matters.
+The interoception research shows awareness builds through repetition. Each time your child's brain receives the sustained 30–60 second "uh-oh" sensation from the Body-Signal Learning Layer, it strengthens that pathway. But the progress is incremental — too slow to notice day-to-day. That's why tracking matters.
 
 **Your Week 4 tracking checklist:**
 
-Keep this somewhere you'll see it — bathroom mirror, phone notes, kitchen counter:
+Keep this somewhere you'll see it, bathroom mirror, phone notes, kitchen counter:
 
 | What to Notice | What It Means |
 |----------------|---------------|
@@ -73,9 +71,9 @@ Mark one check per day if you see ANY of these. Don't worry about frequency yet.
 
 **The Pre-K connection**
 
-Pre-K starts in [X months]. You're building the foundation right now. The documentation you keep this week — those checks on a sticky note, those mental notes of a pause or a glance — they're not just observations. They're evidence that your child's nervous system is learning a skill it never had before.
+Pre-K starts in [X months]. You're building the foundation right now. The documentation you keep this week, those checks on a sticky note, those mental notes of a pause or a glance, they're not just observations. They're evidence that your child's nervous system is learning a skill it never had before.
 
-And here's what the research tells us: the intervention window for interoceptive development is right now, in childhood (Nicholson et al. 2019). Every week of consistent body-signal feedback builds the awareness your child needs before the classroom structure arrives.
+And here's what the research tells us: the intervention window for body signal development is right now, in childhood (Nicholson et al. 2019). Every week of consistent body-signal feedback builds the awareness your child needs before the classroom structure arrives.
 
 **What comes next**
 
@@ -85,18 +83,21 @@ That's when you'll know the signal is arriving with enough lead time to act on i
 
 For now: watch. Notice. Document. And trust that every "uh-oh" is teaching his brain something pull-ups never could.
 
-— Lena
+One L1 mom told me: "He paused mid-play, looked down, and walked to the potty on his own for the first time. It wasn't a full success. But he FELT something. That never happened before."
 
-**P.S.** If you're on a day where nothing seems to be happening — that's the week 4 plateau. It's real, it's normal, and it passes. If you want me to look at what you're seeing, just hit reply. I read everything.
+Lena ——
 
-**P.P.S.** The 3+3 Bundle works best in rotation — 6 pairs means your child always has a dry pair ready while maintaining the signal loop. Pre-K prep starts now. [Shop the 3+3 Bundle →]
+**P.S.** If you're on a day where nothing seems to be happening, that's the week 4 plateau. It's real, it's normal, and it passes. If you want me to look at what you're seeing, just hit reply. I read everything.
+
+**P.P.S.** The 3+3 Bundle works best in rotation, 6 pairs means your child always has a dry pair ready while maintaining the signal loop. Pre-K prep starts now. [Shop the 3+3 Bundle →]
 
 ---
 
 ### Offer Block
-**The 3+3 Bundle — $79.99 — Free Shipping — 60-Day Guarantee**
+**The 3+3 Bundle, $79.99, Free Shipping, 60-Day Guarantee**
 
 [Button: Continue Building Body Awareness →]
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
 ---
 
@@ -112,7 +113,7 @@ For now: watch. Notice. Document. And trust that every "uh-oh" is teaching his b
 | **Day** | D29 (Week 4+) |
 | **Position** | E2 of 5 in L1 sequence |
 | **Primary Goal** | Validate the parent's progress at the week-4 plateau. Teach what to watch for. Prevent abandonment during the "nothing's happening" window. |
-| **Secondary Goal** | Reinforce the mechanism frame — this isn't "potty training," it's neural pathway development. Position documentation as the bridge between sensation and awareness. |
+| **Secondary Goal** | Reinforce the mechanism frame — thisn't "potty training," it's brain-body connection growth. Position documentation as the bridge between sensation and awareness. |
 | **Emotional Arc** | Uncertainty → Clarity → Validation → Small-hopeful-action |
 
 ### 2.2 L1 Messaging Calibration
@@ -133,7 +134,7 @@ For now: watch. Notice. Document. And trust that every "uh-oh" is teaching his b
 |---------|----------|----------------|
 | **Hook** | Direct address — "you've been at this a month" names their reality immediately | Validation: she's not forgotten |
 | **Reframe** | Define progress NOT as potty success but as micro-signs | Remove pressure to "be trained" |
-| **Mechanism Connection** | Anchor observations to neural pathway development | Science = credibility |
+| **Mechanism Connection** | Anchor observations to brain-body connection growth | Science = credibility |
 | **Tracking Framework** | Tangible checklist — reduces anxiety through structure | Clarity replaces uncertainty |
 | **Normalization** | Explicitly name the "some days zero, some days 3" pattern | Prevents hope crash |
 | **Pre-K Anchoring** | Re-insert deadline pressure as motivation to keep documenting | Urgency without panic |
@@ -146,20 +147,20 @@ For now: watch. Notice. Document. And trust that every "uh-oh" is teaching his b
 ```
 OBSERVATION (25%)
 "Sarah, you've been at this for about a month now..."
-  → Names time investment, creates recognition
+ → Names time investment, creates recognition
 
 VALIDATION (20%)
 "The first signs of body-signal awareness aren't trips to the potty..."
-  → Lowers performance pressure, reframes success
+ → Lowers performance pressure, reframes success
 
 MECHANISM (15%)
 "The interoception research shows awareness builds through repetition..."
-  → Science anchor for tracking approach
+ → Science anchor for tracking approach
 
 PERMISSION + ACTION (40%)
 Checklist → What's normal → Pre-K anchor → Forward look
-  → Gives her something to DO, not just feel
-  → Converts anxiety into observational practice
+ → Gives her something to DO, not just feel
+ → Converts anxiety into observational practice
 ```
 
 ### 2.5 L1 Visual Calibration — Design Notes
@@ -192,7 +193,7 @@ Checklist → What's normal → Pre-K anchor → Forward look
 
 | Objection | How Addressed |
 |-----------|---------------|
-| D1 "Tried everything" | Mechanism reframe — this isn't another method, it's neural feedback. Documenting IS the new approach. |
+| D1 "Tried everything" | Mechanism reframe — thisn't another method, it's neural feedback. Documenting IS the new approach. |
 | D2 "Maybe I'm the problem" | Explicitly normalizes plateau. If nothing seems to happen, it's neurology, not her effort. |
 | D3 "What if I get my hopes up?" | Every milestone is defined in micro-terms (pause, glance, touch). No promises of "trained." Just evidence of "awareness building." |
 | B1 "Tried underwear, no help" | Distinguishes BSL from basic underwear — sustained 30-60 sec feedback vs. quick diffuse sensation. Tracking framework proves a difference. |
@@ -201,7 +202,7 @@ Checklist → What's normal → Pre-K anchor → Forward look
 
 | Tier | Proof Point | Placement |
 |------|-------------|-----------|
-| Tier 1 — Mechanism | Nicholson et al. 2019 — interoceptive differences are real | Body section, after tracking framework |
+| Tier 1 — Mechanism | Nicholson et al. 2019 — body signal differences are real | Body section, after tracking framework |
 | Tier 5 — Guarantee | 60-day guarantee (implicit in offer block) | Offer block |
 | Tier 4 — Realistic Timelines | "Some days zero, some days 3. Both normal." | Normalization section |
 | Tier 2 — Lena's Voice | "If you want me to look at what you're seeing, hit reply." | P.S. |
@@ -211,18 +212,18 @@ Checklist → What's normal → Pre-K anchor → Forward look
 **Variant:** Short-Medium (Flow position: E2, emails 1-2 of 5)
 
 ```
-— Lena
+Lena ——
 
-P.S. If you're on a day where nothing seems to be happening — that's
+P.S. If you're on a day where nothing seems to be happening, that's
 the week 4 plateau. It's real, it's normal, and it passes. If you want
 me to look at what you're seeing, just hit reply. I read everything.
 
-P.P.S. The 3+3 Bundle works best in rotation — 6 pairs means your
+P.P.S. The 3+3 Bundle works best in rotation, 6 pairs means your
 child always has a dry pair ready while maintaining the signal loop.
 Pre-K prep starts now. [Shop the 3+3 Bundle →]
 ```
 
-**Rationale:** Short-Medium sign-off is appropriate for E2 in a 5-email flow. The personal reply invitation builds Lena's peer-mama trust (highest conversion lever for L1). The P.P.S. product mention is contextualized within the rotation need — not a cold hard sell.
+**Rationale:** Short-Medium sign-off is appropriate for E2 in a 5-email flow. The personal reply invitation builds Lena's peer-mama trust (highest conversion lever for L1). The P.P.S. product mention is contextualized within the rotation need, not a cold hard sell.
 
 ### 2.10 Subject Line Alternatives
 
@@ -245,4 +246,4 @@ Pre-K prep starts now. [Shop the 3+3 Bundle →]
 
 ---
 
-*End of PP-Extended Education E2 (D29) — L1 Sarah*
+*End of PP-Extended Education E2 (D29), L1 Sarah*

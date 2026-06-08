@@ -1,6 +1,6 @@
 # BrightKidCo — Replenish A E1 (Flow 15, Email 1)
 > Cross-Level Copy + Full Creative Strategy
-> Wave 6 — Replenishment Path A (1-Pair Buyers)
+> Wave 6, Replenishment Path A (1-Pair Buyers)
 > Generated: May 29, 2026
 
 ---
@@ -24,85 +24,88 @@
 | **Hope/Realism** | 50% Hope / 50% Realism (cross-level) |
 | **Subject Line Type** | Observation hook |
 | **Sign-Off Variant** | Short (Flow Email 1 — "Talk soon,") |
-| **Source** | 1-full-email-strategy.md §4.2 (Flow 15 spec); 2-full-email-copy-strategy.md §1.14 (Replenish A strategy); 11-brand-voice-reference.md §9.3 (Short sign-off); layer-18-cross-level-calibration.md §Part 6 (Replenishment rule table); layer-17-tonality-calibration.md §7 (Lifecycle tonality); layer-21-sub-groups.md §2-6 (GF sub-group sensitivities) |
+ 1-full-email-strategy.md §4.2 (Flow 15 spec); 2-full-email-copy-strategy.md §1.14 (Replenish A strategy); 11-brand-voice-reference.md §9.3 (Short sign-off); layer-18-cross-level-calibration.md §Part 6 (Replenishment rule table); layer-17-tonality-calibration.md §7 (Lifecycle tonality); layer-21-sub-groups.md §2-6 (GF sub-group sensitivities) |
 
 ---
 
 ## SUBJECT LINE
 
 **Two weeks in with one pair**
-*(37 characters — under 50 ✓)*
+*(37 characters, under 50 ✓)*
 
 ---
 
 ## PREVIEW TEXT
 
-Whether you're seeing mini-wins or still waiting — both are normal at this stage.
+Whether you're seeing mini-wins or still waiting, both are normal at this stage.
 
 ---
 
 ## BODY
 
-**{Hook — Universal Recognition with "Whether...Or...If..." Pattern}**
+**{Hook, Universal Recognition with "Whether...Or...If..." Pattern}**
 
-Whether you're 14 days into consistent daily wear, or your child has only touched the fabric so far — whether they can tell you they're wet, or show you with a gesture, or don't seem to notice at all — if you're wondering whether one pair is enough, here's what most parents discover at this stage.
+Whether you're 14 days into consistent daily wear, or your child has only touched the fabric so far, whether they can tell you they're wet, or show you with a gesture, or don't seem to notice at all, if you're wondering whether one pair is enough, here's what most parents discover at this stage.
 
 It's not about having more pairs. It's about giving the nervous system more chances to catch the signal.
 
-**{Validation + Recognition Anchors — R2: 3–5 Anchors}**
+**{Validation + Recognition Anchors, R2: 3–5 Anchors}**
 
 At 14 days, what you're probably seeing is one of these:
 
-— A pause before an accident. Just once. But it happened. *(L1–L2)*
-— Your child pulling at their pants after they're wet, instead of ignoring it. *(L2)*
-— They wore the underwear for 30+ minutes without wanting it off. *(L3)*
-— They said "wet" or showed you — a look down, a tug, a gesture. *(Verbal + non-verbal)*
-— Nothing visible yet. They're still going about their day, unaware. *(Any level — patience phase)*
+, A pause before an accident. Just once. But it happened. *(L1–L2)*
+, Your child pulling at their pants after they're wet, instead of ignoring it. *(L2)*
+, They wore the underwear for 30+ minutes without wanting it off. *(L3)*
+, They said "wet" or showed you, a look down, a tug, a gesture. *(Verbal + non-verbal)*
+, Nothing visible yet. They're still going about their day, unaware. *(Any level, patience phase)*
 
-If any of those sound like your last two weeks — even just one — your child's nervous system is starting to register the signal. The Body-Signal Learning Layer is working. If you saw none of these — that's also completely within the normal range. Some children show the first awareness after 14 days. Others take 6 to 8 weeks. Both are real progress. Both are on track.
+If any of those sound like your last two weeks, even just one, your child's nervous system is starting to register the signal. The Body-Signal Learning Layer is working. If you saw none of these, that's also completely within the normal range. Some children show the first awareness after 14 days. Others take 6 to 8 weeks. Both are real progress. Both are on track.
 
-**{Three-Family Testimonial Pattern — R1, R6}**
+**{Three-Family Testimonial Pattern, R1, R6}**
 
 Three parents. Three different kids. One common question after two weeks.
 
-> *"He's worn them every day. He still has accidents, but last night he paused — mid-play — and looked down. That never happened before. I know it's small. But it's the first time he's noticed."*
-> — Sarah, mom of a verbal 4-year-old *(L1 pattern)*
+> *"He's worn them every day. He still has accidents, but last night he paused, mid-play, and looked down. That never happened before. I know it's small. But it's the first time he's noticed."*
+>, Sarah, mom of a verbal 4-year-old *(L1 pattern)*
 
-> *"More accidents in these two weeks than the past month in pull-ups. I almost stopped. But her OT said the accidents mean she's starting to feel something — that's the whole point. So we're holding the line."*
-> — Lisa, mom of a 6-year-old with sensory differences *(L2 pattern)*
+> *"More accidents in these two weeks than the past month in pull-ups. I almost stopped. But her OT said the accidents mean she's starting to feel something, that's the whole point. So we're holding the line."*
+>, Lisa, mom of a 6-year-old with sensory differences *(L2 pattern)*
 
 > *"He hasn't shown any awareness yet. But he's tolerating the underwear for longer stretches than before. For us, that's a win. We're not in a hurry."*
-> — Maria, mom of a 9-year-old non-verbal son *(L3 pattern)*
+>, Maria, mom of a 9-year-old non-verbal son *(L3 pattern)*
 
-If one of these sounds like your two weeks — you're exactly where you're supposed to be.
+If one of these sounds like your two weeks, you're exactly where you're supposed to be.
 
-**{Mechanism Refresher — Signal Reinforcement}**
+**{Mechanism Refresher, Signal Reinforcement}**
 
-Here's what's happening neurologically at this point: the Body-Signal Learning Layer creates a gentle, sustained "uh-oh" sensation — 30 to 60 seconds of feedback — every time there's wetness. This gives the brain time to register: *something happened.*
+Here's what's happening neurologically at this point: the Body-Signal Learning Layer creates a gentle, sustained "uh-oh" sensation, 30 to 60 seconds of feedback, every time there's wetness. This gives the brain time to register: *something happened.*
 
-For some children, this awareness starts wiring in the first two weeks. For others, the nervous system needs more repetition — it's laying new neural pathways, and that doesn't happen on a schedule.
+For some children, this awareness starts wiring in the first two weeks. For others, the nervous system needs more repetition, it's laying new neural pathways, and that doesn't happen on a schedule.
 
-One pair starts the process. But consistent daily wear is what builds the signal pathway. If you're washing that one pair every night, you might be missing 50% of wearing opportunities — and each one is a chance for the brain to learn.
+One pair starts the process. But consistent daily wear is what builds the signal pathway. If you're washing that one pair every night, you might be missing 50% of wearing opportunities, and each one is a chance for the brain to learn.
 
-**{CTA — Permission Framed}**
+**{CTA, Permission Framed}**
 
-If you're ready to give your child more signal-learning time per day, the 3+3 bundle gives you 6 pairs in rotation — always one clean, one ready, one in the wash. Same 60-day guarantee. Same no-pressure timeline.
+If you're ready to give your child more signal-learning time per day, the 3+3 bundle gives you 6 pairs in rotation, always one clean, one ready, one in the wash. Same 60-day guarantee. Same no-pressure timeline.
 
 If one pair is working for your family right now, that's okay too. The signal doesn't rush. Neither should you.
 
 **[Button: Explore the 3+3 Bundle →]**
 *6 pairs · $79.99 · Free shipping · 60-day guarantee · Your judgment*
+*That's $13.33 per pair with the bundle — less than half the single-pair price.*
 
 ---
+
+**Next time:** What three weeks of rotation actually looks like — and why the signal starts quiet.
 
 ## LENA SIGN-OFF
 
 Talk soon,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. My older son was 8 before we figured this out. If the first two weeks didn't look like what you expected — that's normal. The signal takes the time it takes. 60 days, your judgment.
+P.S. My older son was 8 before we figured this out. If the first two weeks didn't look like what you expected, that's normal. The signal takes the time it takes. 60 days, your judgment.
 
 P.S. One pair can do the job. Three pairs mean one is always ready. Six means real rotation. Wherever you are on that scale, you're doing enough.
 
@@ -110,7 +113,7 @@ P.S. One pair can do the job. Three pairs mean one is always ready. Six means re
 
 ## FOOTER
 
-© BrightKidCo — Built for the brain that learns differently.
+© BrightKidCo, Built for the brain that learns differently.
 60-day money-back guarantee · Free shipping on bundles · [Unsubscribe]
 
 ---
@@ -145,7 +148,7 @@ P.S. One pair can do the job. Three pairs mean one is always ready. Six means re
 
 **"One pair starts the signal. More pairs sustain it."**
 
-The core message: 14 days in, the body-signal pathway is building — but consistency of wear is the factor that determines speed. One pair is not a mistake (it's how you start). Six pairs are how you give the nervous system enough reps to build the pathway.
+The core message: 14 days in, the body-signal pathway is building, but consistency of wear is the factor that determines speed. One pair is not a mistake (it's how you start). Six pairs are how you give the nervous system enough reps to build the pathway.
 
 The emotional arc: Validation ("two weeks in is too early to judge") → Recognition ("here's what normal looks like") → Gentle expansion ("more pairs = more learning time").
 
@@ -169,9 +172,9 @@ The emotional arc: Validation ("two weeks in is too early to judge") → Recogni
 
 ## CONTRAPTION (Design Mechanism)
 
-**The Signal Wave.** A subtle SVG animation embedded in the email — a gentle sine wave that starts nearly flat in the header and gradually builds amplitude as the reader scrolls down. At the Recognition Anchors section, the wave pulses once per bullet (representing each signal moment). At the CTA, the wave is at full amplitude — the signal has arrived. This visual metaphor mirrors the neurological journey the underwear creates.
+**The Signal Wave.** A subtle SVG animation embedded in the email, a gentle sine wave that starts nearly flat in theader and gradually builds amplitude as the reader scrolls down. At the Recognition Anchors section, the wave pulses once per bullet (representing each signal moment). At the CTA, the wave is at full amplitude, the signal has arrived. This visual metaphor mirrors the neurological journey the underwear creates.
 
-Implementation: CSS keyframe animation on an inline SVG path (`stroke-dashoffset` + `d` morphing). Progressive enhancement — degrades gracefully to a static wave in clients that don't support animation (which still reads as a gentle curve).
+Implementation: CSS keyframe animation on an inline SVG path (`stroke-dashoffset` + `d` morphing). Progressive enhancement, degrades gracefully to a static wave in clients that don't support animation (which still reads as a gentle curve).
 
 ---
 
@@ -188,7 +191,7 @@ Implementation: CSS keyframe animation on an inline SVG path (`stroke-dashoffset
 | **Divider** | #E8E2DA | Sand | Section dividers, borders |
 | **Testimonial Accent** | #C4A882 | Golden Wheat | Small accent elements, quote marks |
 
-**Why this palette:** Warm earth tones signal groundedness, patience, and human care — the opposite of urgent, clinical, or marketing-driven. The cognac + sage combination is inclusive across gender (not pink/blue) and warm enough for all segments. No bright reds or oranges (urgency triggers, forbidden for L2-L3).
+**Why this palette:** Warm earth tones signal groundedness, patience, and human care, the opposite of urgent, clinical, or marketing-driven. The cognac + sage combination is inclusive across gender (not pink/blue) and warm enough for all segments. No bright reds oranges (urgency triggers, forbidden for L2-L3).
 
 ---
 
@@ -205,31 +208,31 @@ Implementation: CSS keyframe animation on an inline SVG path (`stroke-dashoffset
 | **Lena Sign-Off** | Arial / Helvetica | Normal | 14px | 1.5 | Sign-off body |
 | **Footer** | Arial / Helvetica | Normal | 11px | 1.4 | Legal text |
 
-**Note:** Georgia is chosen as the headline serif for its warm, book-like readability. Web-safe fallback stack: Georgia, "Times New Roman", serif. Sans-serif fallback: Arial, Helvetica, sans-serif. No system font stack (can look cold or techy).
+**Note:** Georgia is chosen as theadline serif for its warm, book-like readability. Web-safe fallback stack: Georgia, "Times New Roman", serif. Sans-serif fallback: Arial, Helvetica, sans-serif. No system font stack (can look cold or techy).
 
 ---
 
 ## FURNITURE (Supporting Elements)
 
-1. **Progress dots** — 3 small circles at top-right of hero section, with dot 1 filled (warm cognac) and dots 2-3 outlined. "E1 of 3" subtle text beside. Orients the reader in the flow without corporate language.
+1. **Progress dots**, 3 small circles at top-right of hero section, with dot 1 filled (warm cognac) and dots 2-3 outlined. "E1 of 3" subtle text beside. Orients the reader in the flow without corporate language.
 
-2. **60-Day Guarantee badge** — Small circular badge near CTA. Text inside: "60 DAYS. YOUR JUDGMENT." Warm cream fill, cognac border, tiny text. Trust anchor without being a seal/stamp cliché.
+2. **60-Day Guarantee badge**, Small circular badge near CTA. Text inside: "60 DAYS. YOUR JUDGMENT." Warm cream fill, cognac border, tiny text. Trust anchor without being a seal/stamp cliché.
 
-3. **Free-shipping tag** — Minimal text treatment next to price: "Free shipping" in sage green, no icon. Subtle benefit mention.
+3. **Free-shipping tag**, Minimal text treatment next to price: "Free shipping" in sage green, no icon. Subtle benefit mention.
 
-4. **Signal-wave inline illustration** — SVG wave graphic between mechanism section and CTA section. ~400px wide, 40px tall. Functions as a visual breath and a thematic anchor.
+4. **Signal-wave inline illustration**, SVG wave graphic between mechanism section and CTA section. ~400px wide, 40px tall. Functions as a visual breath and a thematic anchor.
 
-5. **Section dividers** — Thin horizontal rule (#E8E2DA, 1px) between major sections. No geometric patterns or heavy lines. Clean and breathable.
+5. **Section dividers**, Thin horizontal rule (#E8E2DA, 1px) between major sections. No geometric patterns or heavy lines. Clean and breathable.
 
-6. **Quote marks in testimonials** — Large, stylized open-quote character at the start of each testimonial card. Warm cognac (#8B6F5C), 48px size, serif. Classic editorial treatment.
+6. **Quote marks in testimonials**, Large, stylized open-quote character at the start of each testimonial card. Warm cognac (#8B6F5C), 48px size, serif. Classic editorial treatment.
 
-7. **"Your judgment" tagline** — Small italic text below the CTA button. "60 days to try it. Your judgment." Warm grey, 13px. Reinforces permission-not-to-buy.
+7. **"Your judgment" tagline**, Small italic text below the CTA button. "60 days to try it. Your judgment." Warm grey, 13px. Reinforces permission-not-to-buy.
 
 ---
 
 ## EASTER EGG
 
-**The Hidden "S."** Embedded in the footer legal line — the "S" in "BrightKidCo *S*ignal" is subtly kerned wider than the other letters. On hover (in supported clients), it expands into the signal-wave icon. For non-hover clients, it's simply a wider "S" that design-savvy readers will notice as intentional. Reference: The signal-wave metaphor that runs through every piece of BrightKidCo creative.
+**The Hidden "S."** Embedded in the footer legal line, the "S" in "BrightKidCo *S*ignal" is subtly kerned wider than the other letters. On hover (in supported clients), it expands into the signal-wave icon. For non-hover clients, it's simply a wider "S" that design-savvy readers will notice as intentional. Reference: The signal-wave metaphor that runs through every piece of BrightKidCo creative.
 
 *Rationale:* Not visible enough to distract. Noticeable enough to reward close readers and create brand-insider feel. Does not affect accessibility or mobile rendering.
 
@@ -237,7 +240,7 @@ Implementation: CSS keyframe animation on an inline SVG path (`stroke-dashoffset
 
 ## MOTION (Email Animation)
 
-All motion is progressive enhancement — emails render perfectly without animation. Animation is CSS-based for ESP compatibility (Apple Mail, iOS Mail, Outlook for Mac support CSS animation; Gmail web/app strips but doesn't break).
+All motion is progressive enhancement, emails render perfectly without animation. Animation is CSS-based for ESP compatibility (Apple Mail, iOS Mail, Outlook for Mac support CSS animation; Gmail web/app strips but doesn't break).
 
 | Element | Animation | Trigger | Duration |
 |---------|-----------|---------|----------|
@@ -247,7 +250,7 @@ All motion is progressive enhancement — emails render perfectly without animat
 | **Recognition anchor bullets** | Sequential fade-in, each bullet appears with 100ms delay | On scroll | 0.4s each |
 | **Lena sign-off name** | Gentle color transition from body color to warm cognac | On scroll into view | 1s ease |
 
-*Motion constraints:* No auto-playing videos. No looping animations (except the wave pulse, which is subtle enough to be non-distracting). No parallax or heavy GPU work — emails render in WebKit, not browsers. All animations degrade gracefully to static in non-supporting clients (Gmail, Outlook Windows). Tested against: Apple Mail ✓, iOS Mail ✓, Outlook Mac ✓, Gmail (static fallback ✓), Outlook Windows (static fallback ✓).
+*Motion constraints:* No auto-playing videos. No looping animations (except the wave pulse, which is subtle enough to be non-distracting). No parallax or heavy GPU work, emails render in WebKit, not browsers. All animations degrade gracefully to static in non-supporting clients (Gmail, Outlook Windows). Tested against: Apple Mail ✓, iOS Mail ✓, Outlook Mac ✓, Gmail (static fallback ✓), Outlook Windows (static fallback ✓).
 
 ---
 
@@ -281,5 +284,5 @@ All motion is progressive enhancement — emails render perfectly without animat
 
 ---
 
-*End of document — /outputs/copy/replenish-a/repa-15-e1.md*
+*End of document, /outputs/copy/replenish-a/repa-15-e1.md*
 *Total size: ~9.2 KB*

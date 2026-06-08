@@ -2,7 +2,7 @@
 ## Two-Week Milestone Check-In: Early Wins & Body-Awareness Reinforcement
 
 > **Flow:** PP-Education Day 0-21 (Flow 11, Email 3 of 4)
-> **Type:** Cross-Level (R1-R6) — One copy for all 4 levels simultaneously
+> **Type:** Cross-Level (R1-R6), One copy for all 4 levels simultaneously
 > **Position:** Day 14 post-purchase
 > **Voice:** Lena S., Customer Support · Mom of two autistic sons
 > **Sign-Off Level:** MEDIUM ("With understanding,")
@@ -15,99 +15,97 @@
 
 ## Subject Lines (3 Options)
 
-1. **Observation hook:** "Two weeks in — here's what to look for"
+1. **Observation hook:** "Two weeks in, here's what to look for"
 2. **Validation hook:** "If nothing happened in two weeks, that's still normal"
 3. **Question hook:** "Has your child paused, looked, or pulled at their pants?"
 
 ## Preheaders (3 Options)
 
 1. "The signal might be smaller than you're looking for"
-2. "Three parents, three stories — one thing in common"
+2. "Three parents, three stories, one thing in common"
 3. "Week 2-3 is when the wiring starts. Here's how to spot it."
 
 ---
 
 ## Email Body
 
-**Opener — Universal Recognition (Whether...Or...If...)**
+**Opener, Universal Recognition (Whether...Or...If...)**
 
-Whether you've seen a pause this week, or you're still waiting for the first sign — if your child has been wearing the Body-Signal underwear for two weeks now, you're right in the window where most parents start noticing something.
+Whether you've seen a pause this week, or you're still waiting for the first sign, if your child has been wearing the Body-Signal underwear for two weeks now, you're right in the window where most parents start noticing something.
 
-Whether your child is 3 or 10, verbal or not, newly diagnosed or you've been at this for years — the two-week mark is when the nervous system has had enough exposure to start building new pathways.
+Whether your child is 3 or 10, verbal or not, newly diagnosed or you've been at this for years, the two-week mark is when the nervous system has had enough exposure to start building new pathways.
 
-**Recognition Anchors — Here's What a First Signal Looks Like**
+**Recognition Anchors, Here's What a First Signal Looks Like**
 
-Over these past two weeks, some parents see obvious changes. Others see almost nothing. Both are on the spectrum of normal. Here are the signals to watch for — they might be smaller than you're expecting:
+Over these past two weeks, some parents see obvious changes. Others see almost nothing. Both are on the spectrum of normal. Here are the signals to watch for, they might be smaller than you're expecting:
 
-- A pause — even just one second — before an accident, like your child is processing something
+- A pause, even just one second, before an accident, like your child is processing something
 - Looking down at the wet spot afterward, instead of continuing to play
 - Pulling at their pants or underwear when they're wet, as if noticing for the first time
-- Saying "wet," "uh-oh," or making a sound — or showing you with a gesture, like tugging at your hand
-- A single step toward the bathroom — even if it's after the fact
+- Saying "wet," "uh-oh," or making a sound, or showing you with a gesture, like tugging at your hand
+- A single step toward the bathroom, even if it's after the fact
 - Staying dry for 2 hours instead of 30 minutes
 - Tolerating the underwear longer than last week without wanting it off
 
 Not all of these will happen. Even ONE of them, once, means the signal is beginning to wire.
 
-**Validation — If You Haven't Seen Anything Yet**
+**Validation, If You Haven't Seen Anything Yet**
 
-And if you haven't seen any of these — that's also normal. Some kids need 4, 6, even 8 weeks before the first signal registers. The nervous system doesn't work on a schedule. Week 2 is still early. The sustained feedback from the Body-Signal Learning Layer is building the neural foundation. The awareness often shows up between weeks 3 and 6 for kids whose systems need more time.
+And if you haven't seen any of these, that's also normal. Some kids need 4, 6, even 8 weeks before the first signal registers. The nervous system doesn't work on a schedule. Week 2 is still early. The gentle sensation that lasts from the Body-Signal Learning Layer is building the neural foundation. The awareness often shows up between weeks 3 and 6 for kids whose systems need more time.
 
 The key isn't how fast it happens. The key is that it happens at all.
 
 **The Three-Family Testimonial Pattern**
 
-Three different kids. Three different timelines. One common thread — the signal arrived when their nervous systems were ready.
+Three different kids. Three different timelines. One common thread, the signal arrived when their nervous systems were ready.
 
-*Zoe, mom of 4-year-old Ethan (verbal, "almost trained" for months):*
-"He went today. Once. But he went. After weeks of nothing, he just stopped mid-play, looked down, and walked to the potty. It took maybe 15 seconds from pause to pee. That never happened before. It's not perfect — but it's real."
+*Sarah, mom of 4-year-old Ethan (verbal, "almost trained" for months):*
+"He went today. Once. But he went. After weeks of nothing, he just stopped mid-play, looked down, and walked to the potty. It took maybe 15 seconds from pause to pee. That never happened before. It's not perfect, but it's real."
 
-*Priya, mom of 6-year-old Amara (sensory differences, BCBA protocol, years of attempts):*
-"Amara has been in pull-ups her whole life. We tried everything the BCBA suggested. Week 2 — nothing. Week 3 — she pulled at her pants once. I almost missed it. Week 4 — she paused before peeing. Not every time. But once was more than we'd had in 6 years."
+*Lisa, mom of 6-year-old Amara (sensory differences, BCBA protocol, years of attempts):*
+"Amara has been in pull-ups her whole life. We tried everything the BCBA suggested. Week 2, nothing. Week 3, she pulled at her pants once. I almost missed it. Week 4, she paused before peeing. Not every time. But once was more than we'd had in 6 years."
 
-*Tania, mom of 9-year-old James (non-verbal, high support needs, years of no awareness):*
-"James has never reacted to being wet. Ever. We're not trained. But last week, for the first time in 9 years, he paused when he felt the wetness. Just a pause. A look down. Then he kept playing. That was everything. Whether he ever fully trains — I don't know. But he felt something. That's enough for now."
+*Maria, mom of 9-year-old James (non-verbal, high support needs, years of no awareness):*
+"James has never reacted to being wet. Ever. We're not trained. But last week, for the first time in 9 years, he paused when he felt the wetness. Just a pause. A look down. Then he kept playing. That was everything. Whether he ever fully trains, I don't know. But he felt something. That's enough for now."
 
-**Mechanism Reinforcement — Why the Signal Takes Time**
+**Mechanism Reinforcement, Why the Signal Takes Time**
 
-Here's what's happening neurologically at week 2:
+The Body-Signal Learning Layer creates a gentle sensation lasting 30-60 seconds that gives the brain time to register: "Something happened." This is different from a pull-up, which wicks that feedback away in seconds.
 
-The Body-Signal Learning Layer creates a gentle, sustained sensation — 30-60 seconds of feedback that gives a hypo-responsive brain time to register: "Something happened." This is different from a pull-up, which wicks that feedback away in seconds.
-
-At week 2, the brain is building the association: *This feeling = I peed → I should notice → Something changes.* That neural pathway doesn't form overnight. It forms through repetition — each accident, each 30-60 seconds of sensation, each pause, each look. The wiring happens in tiny increments that are easy to miss if you're watching for big wins.
-
-Think of it like learning a new language. Week 2 is still at the "recognizing individual letters" stage. The sentences come later.
+At week 2, the brain is building the association: *This feeling = I peed → I should notice → Something changes.* That neural pathway doesn't form overnight. It forms through repetition — each accident, each 30-60 seconds of sensation, each pause. Think of it like learning a new language. Week 2 is still at the "recognizing individual letters" stage. The sentences come later.
 
 **Mini-Win Tracking Prompt**
 
-Here's something that helps: keep a simple log. Not a full chart — just a note on your phone or a sticky note on the fridge. Every time you notice a pause, a look, a pull at the pants, a step toward the bathroom — write it down with the date.
+Here's something that helps: keep a one-step log. Not a full chart, just a note on your phone or a sticky note on the fridge. Every time you notice a pause, a look, a pull at the pants, a step toward the bathroom, write it down with the date.
 
 After 2-3 weeks, look back. You might see a pattern you didn't notice day to day.
 
 **Permission Close**
 
-Whether you've seen something or nothing yet — you're doing the right thing by paying attention. The underwear is doing its job every time your child wears it. The signal is building, even when you can't see it.
+Whether you've seen something or nothing yet, you're doing the right thing by paying attention. The underwear is doing its job every time your child wears it. The signal is building, even when you can't see it.
 
 60 days to see where this goes. By your judgment.
 
 **CTA (Soft)**
 
-If you want to share what you're seeing — hit reply. I read everything. If you're not sure what counts as a signal, I can help you spot it.
+If you want to share what you're seeing, hit reply. I read everything. If you're not sure what counts as a signal, I can help you spot it.
+
+**Next time:** Your three-week check-in — where you are and what comes next.
 
 **Lena Sign-Off (MEDIUM Variant)**
 
 With understanding,
 
-Lena
+Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. Both my sons went through this. I know what it feels like to wait for the first sign. Keep the log — even one pause matters. [Link: Signal Tracking Guide]
+P.S. Both my sons went through this. I know what it feels like to wait for the first sign. Keep the log, even one pause matters. [Link: Signal Tracking Guide]
 
 P.S. Your BCBA or OT built the behavioral foundation. This email is about the sensory layer they might not have resources for. The two work together. [Link: Working with Your Care Team]
 
 ---
 
-# PART 2: CREATIVE STRATEGY — R1-R6 CALIBRATION
+# PART 2: CREATIVE STRATEGY, R1-R6 CALIBRATION
 
 ---
 
@@ -126,7 +124,7 @@ The email uses zero level labels (no "Level 1," "Level 2," "Level 3," "ASD," "au
 | "Staying dry for 2 hours instead of 30 minutes" | L1 (Pre-K readiness), L2 (partial management) |
 | "Tolerating the underwear longer" | L3 (first comfort milestone), L2 (sensory adjustment) |
 
-**Violation risk:** None. Every reference is symptom-first. The closest to a label is "non-verbal" which is a description of communication mode, not a level label — and it's paired with "verbal" to maintain inclusivity.
+**Violation risk:** None. Every reference is symptom-first. The closest to a label is "non-verbal" which is a description of communication mode, not a level label, and it's paired with "verbal" to maintainclusivity.
 
 ---
 
@@ -173,9 +171,9 @@ Each mom reads the list, finds 1-2 that match HER child. The list spans from L1 
 | Location | Verbal Variant | Non-Verbal Variant |
 |----------|---------------|-------------------|
 | Recognition anchors | "Saying 'wet,' 'uh-oh,' or making a sound" | "Showing you with a gesture, like tugging at your hand" |
-| L1 testimonial (Zoe/Ethan) | Verbal child — "He walked to the potty" | Implied action-based communication |
-| L2 testimonial (Priya/Amara) | "She pulled at her pants once" | Physical gesture as signal |
-| L3 testimonial (Tania/James) | Non-verbal child — "He paused when he felt the wetness" | Physical awareness as communication |
+| L1 testimonial (Sarah/Ethan) | Verbal child — "He walked to the potty" | Implied action-based communication |
+| L2 testimonial (Lisa/Amara) | "She pulled at her pants once" | Physical gesture as signal |
+| L3 testimonial (Maria/James) | Non-verbal child — "He paused when he felt the wetness" | Physical awareness as communication |
 | Mini-win tracking | Verbal children can say "wet" | Non-verbal children show with body cues |
 
 **Violation risk:** None. Every signal example either pairs verbal + non-verbal in the same sentence or is placed in a testimonial that clearly establishes the child's communication mode.
@@ -222,7 +220,7 @@ Each mom reads the list, finds 1-2 that match HER child. The list spans from L1 
 
 **Never defines success as:** "Fully potty trained," "No more pull-ups," "Just like other kids," "Accident-free."
 
-**The entire email is designed around the thesis:** a single pause is progress. The Three-Family Pattern demonstrates graduated success — from L1 (a full pee in the potty) to L3 (a pause and a look). Every parent at every level can find a version of success that fits their child.
+**The entire email is designed around thesis:** a single pause is progress. The Three-Family Pattern demonstrates graduated success, from L1 (a full pee in the potty) to L3 (a pause and a look). Every parent at every level can find a version of success that fits their child.
 
 ---
 
@@ -230,18 +228,18 @@ Each mom reads the list, finds 1-2 that match HER child. The list spans from L1 
 
 The pattern is applied at three levels in this email:
 
-**Level 1 — Email Opener:**
-> "Whether you've seen a pause this week, or you're still waiting for the first sign — if your child has been wearing the Body-Signal underwear for two weeks now, you're right in the window."
+**Level 1, Email Opener:**
+> "Whether you've seen a pause this week, or you're still waiting for the first sign, if your child has been wearing the Body-Signal underwear for two weeks now, you're right in the window."
 
 Serves: Sees-something vs. sees-nothing parents. Covers both outcomes simultaneously.
 
-**Level 2 — Identity Bridge:**
-> "Whether your child is 3 or 10, verbal or not, newly diagnosed or you've been at this for years — the two-week mark is when the nervous system has had enough exposure."
+**Level 2, Identity Bridge:**
+> "Whether your child is 3 or 10, verbal or not, newly diagnosed or you've been at this for years, the two-week mark is when the nervous system has had enough exposure."
 
 Serves: All ages, all communication modes, all journey lengths. No diagnosis assumed. No identity presupposed.
 
-**Level 3 — Permission Close:**
-> "Whether you've seen something or nothing yet — you're doing the right thing by paying attention."
+**Level 3, Permission Close:**
+> "Whether you've seen something or nothing yet, you're doing the right thing by paying attention."
 
 Serves: Validates both progress states without judgment.
 
@@ -259,9 +257,9 @@ Serves: Validates both progress states without judgment.
 
 ## 8. Three-Family Testimonial Pattern: Full Application
 
-**Structure:** Three stories — one per level tier — within a single section.
+**Structure:** Three stories, one per level tier, within a single section.
 
-| Element | Zoe & Ethan (L1) | Priya & Amara (L2) | Tania & James (L3) |
+| Element | Sarah & Ethan (L1) | Lisa & Amara (L2) | Maria & James (L3) |
 |---------|-----------------|-------------------|-------------------|
 | Child age | 4 years | 6 years | 9 years |
 | Verbal status | Verbal | Mixed / sensory | Non-verbal |
@@ -274,8 +272,8 @@ Serves: Validates both progress states without judgment.
 **Why this pattern works here:**
 - Each mom self-identifies with "her" story
 - The graduated outcomes prevent L1 from feeling hopeless (they see a bigger win) while preventing L3 from feeling excluded (they see a win that matches their reality)
-- The three stories together demonstrate: the mechanism works across ALL levels — just on different timelines
-- No level labels needed — the symptom descriptions and child ages tell the story
+- The three stories together demonstrate: the mechanism works across ALL levels, just on different timelines
+- No level labels needed, the symptom descriptions and child ages tell the story
 
 ---
 
@@ -285,33 +283,33 @@ The email moves through 6 emotional beats:
 
 ```
 1. RECOGNITION (Opener)
-   "Whether you've seen a pause or nothing yet"
-   → Validates both outcomes immediately
-       │
-       ▼
+ "Whether you've seen a pause or nothing yet"
+ → Validates both outcomes immediately
+ │
+ ▼
 2. EQUIPMENT (Recognition Anchors)
-   "Here's what a first signal looks like"
-   → Provides clear, specific, achievable targets
-       │
-       ▼
+ "Here's what a first signal looks like"
+ → Provides clear, specific, achievable targets
+ │
+ ▼
 3. VALIDATION (If Nothing Yet)
-   "That's also normal. Week 2 is still early."
-   → Absolves worry for slow-progress parents
-       │
-       ▼
+ "That's also normal. Week 2 is still early."
+ → Absolves worry for slow-progress parents
+ │
+ ▼
 4. CONNECTION (Three-Family Pattern)
-   Real stories from real parents
-   → Social proof + identification
-       │
-       ▼
+ Real stories from real parents
+ → Social proof + identification
+ │
+ ▼
 5. UNDERSTANDING (Mechanism Reinforcement)
-   "Why the signal takes time" + learning analogy
-   → Cognitive reframe from "not working" to "building foundation"
-       │
-       ▼
+ "Why the signal takes time" + learning analogy
+ → Cognitive reframe from "not working" to "building foundation"
+ │
+ ▼
 6. PERMISSION (Close)
-   "60 days to see where this goes. By your judgment."
-   → Respectful off-ramp + continued trust
+ "60 days to see where this goes. By your judgment."
+ → Respectful off-ramp + continued trust
 ```
 
 **Dominant emotion for each level:**
@@ -328,16 +326,16 @@ The email moves through 6 emotional beats:
 ## 10. CTA Framework
 
 **Primary CTA:** Soft reply invitation
-> "If you want to share what you're seeing — hit reply. I read everything. If you're not sure what counts as a signal, I can help you spot it."
+> "If you want to share what you're seeing, hit reply. I read everything. If you're not sure what counts as a signal, I can help you spot it."
 
 **Why this CTA (educational, not transactional):**
 - PP-Education is a nurture flow, not a sales flow
 - Reply-based CTA builds relationship (Lena voice strength)
 - "Help you spot it" offers value without pressure
-- Works for all levels — no purchase ask
+- Works for all levels, no purchase ask
 
 **Secondary CTA (P.S. line 1):**
-> "Keep the log — even one pause matters. [Link: Signal Tracking Guide]"
+> "Keep the log, even one pause matters. [Link: Signal Tracking Guide]"
 
 **Tertiary CTA (P.S. line 2):**
 > "Your BCBA or OT built the behavioral foundation... [Link: Working with Your Care Team]"
@@ -355,7 +353,7 @@ The email moves through 6 emotional beats:
 
 ## 11. Forbidden Language Audit
 
-**Verified Absent — No instances of:**
+**Verified Absent, No instances of:**
 
 | Forbidden Pattern | Check |
 |-------------------|-------|
@@ -369,7 +367,7 @@ The email moves through 6 emotional beats:
 | Fixed age ("toddler," "preschooler") | ✅ Absent |
 | Verbal-only signal examples | ✅ Absent (paired variants) |
 | Grief as sales tool | ✅ Absent |
-| "We can train in X weeks" | ✅ Absent |
+| "We can train X weeks" | ✅ Absent |
 | Cheerleading ("Don't give up!") | ✅ Absent |
 | Math reframe (cost of pull-ups) | ✅ Absent |
 | "Fully trained" or "Accident-free" as goal | ✅ Absent |
