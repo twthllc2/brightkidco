@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=420">
+  <title>PP-Extended Ed E3 GF — Render</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Questrial&family=Fraunces:ital,wght@0,400;0,700;1,400;1,500&family=Caveat:wght@400&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #e5e5e5;
+      display: flex;
+      justify-content: center;
+      padding: 0;
+      font-family: 'Questrial', system-ui, sans-serif;
+    }
+    .email-container {
+      width: 420px;
+      background: #FFFFFF;
+      margin: 0 auto;
+    }
+    .drop-cap {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 48px;
+      font-weight: 700;
+      line-height: 0.9;
+      color: #2BAEB4;
+      float: left;
+      margin-right: 10px;
+      margin-top: 4px;
+    }
+    .caveat { font-family: 'Caveat', cursive; }
+    .fraunces { font-family: 'Fraunces', Georgia, serif; }
+    .sticker-card {
+      background: #FFFFFF;
+      border: 2px solid #1F2D2F;
+      border-radius: 18px;
+      box-shadow: 4px 4px 0 #1F2D2F;
+      padding: 24px;
+    }
+    .icon-circle {
+      width: 24px;
+      height: 24px;
+      flex-shrink: 0;
+      border-radius: 50%;
+      background: #2BAEB4;
+      border: 1.5px solid #1F2D2F;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      color: #FFFFFF;
+      margin-top: 2px;
+    }
+    .gradient-band {
+      height: 44px;
+      background: linear-gradient(180deg, #2BAEB4 0%, #5DD07A 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+    .cta-btn {
+      display: inline-block;
+      padding: 14px 32px;
+      height: 48px;
+      line-height: 48px;
+      background: #D8F57C;
+      color: #1F2D2F;
+      font-family: 'Questrial', system-ui, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      text-decoration: none;
+      border-radius: 999px;
+      text-align: center;
+    }
+    .thin-rule {
+      height: 1px;
+      background: rgba(255,255,255,0.2);
+      width: 20%;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="email-container">
+
+    <!-- SECTION 1: BRAND HEADER -->
+    <div style="background: #FFFFFF; padding: 48px 24px 24px; text-align: center;">
+      <div style="font-family: 'Questrial', sans-serif; font-size: 22px; font-weight: 400; letter-spacing: 1.5px; color: #1F2D2F;">BrightKidCo</div>
+    </div>
+
+    <!-- SECTION 2: HERO — The Invisible Bridge -->
+    <div style="background: #FFFBF0; position: relative;">
+      <!-- Illustration placeholder -->
+      <div style="position: relative;">
+        <div style="height: 260px; background: #EAF6F2; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px;">
+          <div class="fraunces" style="font-size: 14px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: #4A6568; margin-bottom: 8px;">THE INVISIBLE BRIDGE</div>
+          <div style="font-size: 11px; color: #8A9B9D; text-align: center; line-height: 1.4; max-width: 280px;">Child figure on body side, planks crossing gap to brain side · bridge being built plank by plank · whimsical, warm, hand-drawn feeling</div>
+        </div>
+        <!-- Subtle teal→green gradient overlay -->
+        <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(180deg, rgba(43,174,180,0.08) 0%, rgba(93,208,122,0.12) 100%); pointer-events: none;"></div>
+      </div>
+      <!-- Headline + Subhead -->
+      <div style="padding: 0 32px 24px;">
+        <h1 style="font-family: 'Questrial', sans-serif; font-size: 22px; font-weight: 400; line-height: 1.3; color: #1F2D2F; margin: 0 0 10px; text-align: center;">
+          The small things that mean more than you think
+        </h1>
+        <p style="font-family: 'Questrial', sans-serif; font-size: 16px; font-style: italic; line-height: 1.4; color: #4A6568; margin: 0; text-align: center;">
+          What 'progress' actually looks like in weeks 5-8 — and why most parents miss it
+        </p>
+      </div>
+    </div>
+
+    <!-- GRADIENT BAND -->
+    <div class="gradient-band"></div>
+
+    <!-- SECTION 3: LETTER OPENING -->
+    <div style="background: #FFF6E2; padding: 24px;">
+      <!-- Drop-cap "L" + signature -->
+      <div style="margin-bottom: 16px;">
+        <span class="drop-cap">L</span>
+        <span class="caveat" style="font-size: 18px; color: #1F2D2F; line-height: 1.2;">ena here.</span>
+      </div>
+      <div style="clear: both;"></div>
+
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 16px;">
+        If you're five to eight weeks in, you might be wondering: Is anything actually happening?
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 16px;">
+        The answer is probably yes, just not in the way you expected.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 16px;">
+        The underwear doesn't work like a switch. It doesn't produce a 'trained' child on a schedule. What it does is quieter than that. And most parents don't realize they're seeing progress until we show them what to look for.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">
+        So here's what to watch for in weeks 5-8.
+      </p>
+    </div>
+
+    <!-- GRADIENT BAND -->
+    <div class="gradient-band"></div>
+
+    <!-- SECTION 4: MICRO-SIGNALS LIST -->
+    <div style="background: #FFFFFF; padding: 24px;">
+      <div class="sticker-card">
+        <!-- Section header -->
+        <h2 style="font-family: 'Questrial', sans-serif; font-size: 18px; font-weight: 700; letter-spacing: 0.5px; color: #1F2D2F; margin: 0 0 16px; text-align: center;">
+          The micro-signals nobody tells you about
+        </h2>
+
+        <!-- Intro copy -->
+        <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 20px;">
+          Your child may not be saying 'I need to go.' They may not be walking to the bathroom on their own. That's normal.
+        </p>
+
+        <!-- 5 micro-signal items -->
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+          <div class="icon-circle">⏸</div>
+          <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">A pause mid-play. Not an accident. Just a pause.</p>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+          <div class="icon-circle">👁</div>
+          <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">A glance at their pants after they've gone.</p>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+          <div class="icon-circle">✋</div>
+          <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">A hand reaching toward their waistband.</p>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 14px;">
+          <div class="icon-circle">⏱</div>
+          <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">A shorter delay between 'it happened' and showing you.</p>
+        </div>
+        <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 20px;">
+          <div class="icon-circle">🧘</div>
+          <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">Sitting still for a few extra minutes after a change.</p>
+        </div>
+
+        <!-- Closing copy -->
+        <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 14px;">
+          These are not 'fully trained' moments. They're not supposed to be. They're the first connection forming between body and brain. A nervous system that couldn't register the signal at all is starting to notice: something happened.
+        </p>
+
+        <!-- Bold emphasis -->
+        <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0; font-weight: 700;">
+          That's the transition from reactive to proactive. It starts in the noticing. Not in the doing.
+        </p>
+      </div>
+    </div>
+
+    <!-- GRADIENT BAND -->
+    <div class="gradient-band"></div>
+
+    <!-- SECTION 5: MECHANISM BRIDGE — Pull-Quote -->
+    <div style="background: #EAF6F2; padding: 24px;">
+      <!-- Pull-quote -->
+      <p class="fraunces" style="font-size: 20px; font-style: italic; line-height: 1.4; color: #1F2D2F; margin: 0 0 8px; text-align: center;">
+        "He paused. He felt something."
+      </p>
+      <!-- Attribution -->
+      <p style="font-family: 'Questrial', sans-serif; font-size: 13px; color: #4A6568; margin: 0 0 20px; text-align: center;">
+        — Parent verbatim quote
+      </p>
+
+      <!-- Follow-up copy -->
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 16px;">
+        That pause was week 6. By week 12, he was walking to the bathroom half the time.
+      </p>
+
+      <!-- Mechanism copy -->
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">
+        The BSL Layer creates a sustained, gentle sensation that gives the brain time to register: something happened. The more that connection fires, the stronger it gets — in micro-moments, not dramatic breakthroughs.
+      </p>
+    </div>
+
+    <!-- GRADIENT BAND -->
+    <div class="gradient-band"></div>
+
+    <!-- SECTION 6: WHY THIS MATTERS -->
+    <div style="background: #FBF7F1; padding: 24px;">
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 16px;">
+        The parent who told us: 'He paused. He felt something.' That pause was week 6. By week 12, he was walking to the bathroom half the time. Not every child follows that curve. Some show awareness sooner, some take longer. The shape of progress depends on your child's nervous system, not a timeline a product promised you.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">
+        But the mechanism is the same: the BSL Layer creates a sustained, gentle sensation that gives the brain time to register: something happened. The more that connection fires, the stronger it gets — in micro-moments, not dramatic breakthroughs.
+      </p>
+    </div>
+
+    <!-- GRADIENT BAND with Door Easter Egg -->
+    <div class="gradient-band">
+      <!-- Open door Easter egg -->
+      <svg width="20" height="24" viewBox="0 0 20 24" fill="none" style="opacity: 0.35;">
+        <rect x="2" y="0" width="16" height="24" rx="1" stroke="#FFFFFF" stroke-width="1.5" fill="none" />
+        <rect x="5" y="0" width="10" height="24" rx="0" stroke="#FFFFFF" stroke-width="1" fill="rgba(255,255,255,0.15)" />
+        <circle cx="13" cy="12" r="1.2" fill="#FFFFFF" />
+        <path d="M2 0 L8 6 L8 24 L2 24 Z" fill="rgba(255,255,255,0.1)" stroke="#FFFFFF" stroke-width="0.8" />
+      </svg>
+    </div>
+
+    <!-- SECTION 7: GUIDANCE -->
+    <div style="background: #FAF7F0; padding: 24px;">
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 16px;">
+        Keep wearing. Keep the routine steady. Don't add pressure, the pressure doesn't help the signal.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0 0 16px;">
+        The goal in weeks 5-8 isn't training. It's noticing. If your child shows even one of those micro-signals, you're seeing the pathway form.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #1F2D2F; margin: 0;">
+        If you haven't seen anything yet, that's also normal. Some nervous systems take longer to build the connection. The 60-day window is designed for this range. You're not behind.
+      </p>
+    </div>
+
+    <!-- GRADIENT BAND -->
+    <div class="gradient-band"></div>
+
+    <!-- SECTION 8: CTA SECTION -->
+    <div style="background: #1F2D2F; padding: 30px 24px; text-align: center;">
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #FFFFFF; margin: 0 0 12px;">
+        You've been at this for over a month. Whether you're seeing small signs or waiting for the first one, you've done the hardest part: showing up consistently.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 16px; line-height: 1.6; color: #FFFFFF; margin: 0 0 24px;">
+        If this the right time to continue, the product is here. If you need to pause and come back, that works too.
+      </p>
+
+      <!-- CTA Button — green pill -->
+      <a href="#" class="cta-btn">Continue the journey</a>
+
+      <!-- Secondary text -->
+      <p style="font-family: 'Questrial', sans-serif; font-size: 14px; color: #8A9B9D; margin: 16px 0 0;">
+        60 days to decide. By your judgment.
+      </p>
+    </div>
+
+    <!-- THIN DIVIDER -->
+    <div style="background: #1F2D2F; padding: 0 24px;">
+      <div class="thin-rule"></div>
+    </div>
+
+    <!-- SECTION 9: LENA SIGN-OFF -->
+    <div style="background: #1F2D2F; padding: 24px;">
+      <p class="caveat" style="font-size: 18px; line-height: 1.2; color: #FFFFFF; margin: 0 0 4px;">
+        With understanding,
+      </p>
+      <p class="caveat" style="font-size: 18px; line-height: 1.2; color: #FFFFFF; margin: 0 0 4px;">
+        Lena ——
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 14px; line-height: 1.3; color: #FFFFFF; margin: 0 0 16px;">
+        Customer Support · Mom of two autistic sons
+      </p>
+
+      <!-- Thin decorative rule -->
+      <div style="height: 1px; background: rgba(255,255,255,0.2); width: 20%; margin: 0 auto 16px;"></div>
+
+      <!-- P.S. -->
+      <p style="font-family: 'Questrial', sans-serif; font-size: 14px; line-height: 1.5; color: #8A9B9D; margin: 0;">
+        <span style="font-weight: 700;">P.S.</span> One of my sons showed his first awareness in week 7. His brother took until week 10. Both trained, on their own timelines, not mine.
+      </p>
+    </div>
+
+    <!-- SECTION 10: FOOTER -->
+    <div style="background: #1F2D2F; padding: 16px 24px; text-align: center;">
+      <p style="font-family: 'Questrial', sans-serif; font-size: 11px; line-height: 1.3; letter-spacing: 0.5px; color: #8A9B9D; margin: 0 0 8px;">
+        You're receiving this because you're on the BrightKidCo list.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 11px; line-height: 1.3; letter-spacing: 0.5px; color: #8A9B9D; margin: 0 0 8px;">
+        <a href="#" style="color: #8A9B9D; text-decoration: underline;">Unsubscribe</a>
+        {" | "}
+        <a href="#" style="color: #8A9B9D; text-decoration: underline;">Manage Preferences</a>
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 11px; line-height: 1.3; letter-spacing: 0.5px; color: #8A9B9D; margin: 0 0 4px;">
+        BrightKidCo, Built for the brain that learns differently.
+      </p>
+      <p style="font-family: 'Questrial', sans-serif; font-size: 11px; line-height: 1.3; letter-spacing: 0.5px; color: #8A9B9D; margin: 0;">
+        [Physical Address, BrightKidCo HQ]
+      </p>
+    </div>
+
+  </div>
+</body>
+</html>

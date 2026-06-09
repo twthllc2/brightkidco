@@ -43,7 +43,7 @@ The Body-Signal Learning Layer gives the nervous system the feedback it's been m
 
 "He says 'I need to pee' AFTER it's already happened." That's what one L1 mom told us before she started using BSL. Two weeks in, something shifted. Her son paused mid-accident. Then he looked down. Then he walked to the potty. Not a full success. Not yet. But that pause had never happened before in three years of trying.
 
-That's what a 30-second sustained signal does. It doesn't train your child. It gives his brainformation it's been missing.
+That's what a 30-second sustained signal does. It doesn't train your child. It gives his brain the information it's been missing.
 
 ### Section 5: Product Introduction
 

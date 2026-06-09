@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BrightKidCo — PP At-Risk E4 Verification</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #e0e0e0;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+  }
+  .email-container {
+    width: 420px;
+    max-width: 100%;
+  }
+  .section { background: #FBF7EB; }
+  .logo-section {
+    background: #FBF7EB;
+    padding: 24px 20px 0;
+    text-align: center;
+  }
+  .logo-section img {
+    height: 34px;
+  }
+  .hero-section {
+    background: #FBF7EB;
+  }
+  .hero-frame {
+    width: 100%;
+    aspect-ratio: 600/320;
+    background: #FBF7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .hero-frame svg {
+    width: 100%;
+    height: 100%;
+  }
+  .headline-section {
+    background: #FBF7EB;
+    padding: 28px 30px 8px;
+    text-align: center;
+  }
+  .headline-section h1 {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #039902;
+    margin: 0;
+    letter-spacing: 0;
+  }
+  .body-section {
+    background: #FBF7EB;
+    padding: 16px 30px 24px;
+  }
+  .body-section p {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #4A4A4A;
+    margin: 0 0 16px;
+  }
+  .body-section p:last-child { margin-bottom: 0; }
+  .body-section p strong { font-weight: 700; }
+  .validation-section {
+    background: #FBF7EB;
+    padding: 0 30px 24px;
+  }
+  .validation-section p {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #4A4A4A;
+    margin: 0 0 16px;
+  }
+  .validation-section p:last-child { margin-bottom: 0; }
+  .validation-section p strong { font-weight: 700; }
+  .mechanism-section {
+    background: #FBF7EB;
+    padding: 0 30px 24px;
+  }
+  .mechanism-section p {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #4A4A4A;
+    margin: 0 0 16px;
+  }
+  .mechanism-section p:last-child { margin-bottom: 0; }
+  .mechanism-section p strong { font-weight: 700; }
+  .permission-section {
+    background: #FBF7EB;
+    padding: 0 30px 24px;
+  }
+  .permission-section p {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #4A4A4A;
+    margin: 0 0 16px;
+  }
+  .permission-section p:last-child { margin-bottom: 0; }
+  .permission-section p strong { font-weight: 700; }
+  .cta-section {
+    background: #FBF7EB;
+    padding: 8px 30px 32px;
+    text-align: center;
+  }
+  .cta-section p {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.6;
+    color: #4A4A4A;
+    margin: 0 0 20px;
+  }
+  .cta-button {
+    display: inline-block;
+    padding: 14px 32px;
+    background: #039902;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    text-decoration: none;
+    border-radius: 6px;
+    line-height: 1.2;
+  }
+  .cta-text-link {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #039902;
+    margin: 16px 0 0;
+    text-decoration: underline;
+  }
+  .cta-text-link a {
+    color: #039902;
+    text-decoration: underline;
+  }
+  .divider-section {
+    padding: 0 30px;
+  }
+  .divider-section .divider {
+    border-bottom: 1px solid #DBFFCD;
+  }
+  .signoff-section {
+    background: #FBF7EB;
+    padding: 24px 30px 32px;
+  }
+  .signoff-section p {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    margin: 0 0 4px;
+  }
+  .signoff-section .signoff-with-care {
+    font-size: 14px;
+    line-height: 1.4;
+    color: #5A5A5A;
+    font-style: italic;
+  }
+  .signoff-section .signoff-lena {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.4;
+    color: #5A5A5A;
+  }
+  .signoff-section .signoff-profile {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #5A5A5A;
+    margin-bottom: 16px !important;
+  }
+  .signoff-section .signoff-ps {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #5A5A5A;
+    margin: 0;
+  }
+  .signoff-section .signoff-ps strong { font-weight: 700; }
+  .footer-section {
+    background: #FBF7EB;
+    padding: 16px 24px;
+    text-align: center;
+  }
+  .footer-section p {
+    font-family: 'Questrial', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 11px;
+    line-height: 1.3;
+    color: #7A7A7A;
+    margin: 0 0 8px;
+  }
+  .footer-section p:last-child { margin-bottom: 0; }
+  .footer-section a { color: #7A7A7A; text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="email-container">
+
+  <!-- SECTION 1: LOGO -->
+  <div class="section logo-section">
+    <img src="../raw/BKCO - EMAIL MARKETING/assets/brightkidco-logo-v2.png" alt="BrightKidCo" />
+  </div>
+
+  <!-- SECTION 2: HERO — The Door Held Open -->
+  <div class="section hero-section">
+    <div class="hero-frame">
+      <svg viewBox="0 0 600 320" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <linearGradient id="lightGlow" x1="0.5" y1="0" x2="0.5" y2="1">
+            <stop offset="0%" stop-color="#F5D97A" stop-opacity="0.85"/>
+            <stop offset="50%" stop-color="#F0C850" stop-opacity="0.6"/>
+            <stop offset="100%" stop-color="#E8B830" stop-opacity="0.3"/>
+          </linearGradient>
+          <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+            <feOffset dx="2" dy="4"/>
+            <feComponentTransfer>
+              <feFuncA type="linear" slope="0.15"/>
+            </feComponentTransfer>
+            <feMerge>
+              <feMergeNode/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+        </defs>
+        <!-- Floor -->
+        <rect x="0" y="260" width="600" height="60" fill="#F5F0E8"/>
+        <!-- Door frame -->
+        <rect x="220" y="40" width="200" height="230" rx="2" fill="#8B6F4E"/>
+        <!-- Door (angled ajar) -->
+        <g transform="rotate(-12, 420, 155)">
+          <rect x="224" y="44" width="190" height="222" rx="2" fill="#A0845C"/>
+          <!-- Panel grooves -->
+          <line x1="250" y1="60" x2="250" y2="150" stroke="#8B6F4E" stroke-width="1" opacity="0.4"/>
+          <line x1="380" y1="60" x2="380" y2="150" stroke="#8B6F4E" stroke-width="1" opacity="0.4"/>
+          <line x1="250" y1="160" x2="250" y2="250" stroke="#8B6F4E" stroke-width="1" opacity="0.4"/>
+          <line x1="380" y1="160" x2="380" y2="250" stroke="#8B6F4E" stroke-width="1" opacity="0.4"/>
+          <!-- Door handle -->
+          <circle cx="395" cy="155" r="5" fill="#C0A060"/>
+        </g>
+        <!-- Light glow through crack -->
+        <rect x="418" y="50" width="12" height="210" fill="url(#lightGlow)" opacity="0.7">
+          <animate attributeName="opacity" values="0.6;0.85;0.6" dur="4s" repeatCount="indefinite"/>
+        </rect>
+        <!-- Warm glow spill on floor -->
+        <ellipse cx="430" cy="270" rx="60" ry="20" fill="#F5D97A" opacity="0.15"/>
+        <!-- Paper airplane -->
+        <g transform="translate(435, 245) rotate(8)">
+          <polygon points="0,0 30,-12 35,-8 5,4" fill="#F5F0E8" stroke="#D4CFC4" stroke-width="0.5"/>
+          <line x1="0" y1="0" x2="30" y2="-12" stroke="#E8E3D8" stroke-width="0.5" opacity="0.6"/>
+          <line x1="5" y1="4" x2="30" y2="-12" stroke="#E8E3D8" stroke-width="0.3" opacity="0.4"/>
+        </g>
+        <!-- Door shadow on floor -->
+        <ellipse cx="330" cy="268" rx="100" ry="10" fill="#000000" opacity="0.06"/>
+      </svg>
+    </div>
+  </div>
+
+  <!-- SECTION 3: HEADLINE -->
+  <div class="section headline-section">
+    <h1>One last thing before I go quiet</h1>
+  </div>
+
+  <!-- SECTION 4: BODY — HOOK -->
+  <div class="section body-section">
+    <p><strong>It's been quiet for a couple weeks. That's okay.</strong> I know what it's like when something doesn't click right away, the underwear sits in the drawer, you tell yourself you'll try again next week, and then next week turns into next month. I've been there. Both my sons went through stretches where we had to step back, breathe, and reset.</p>
+  </div>
+
+  <!-- SECTION 5: BODY — VALIDATION -->
+  <div class="section validation-section">
+    <p>You didn't do anything wrong. If your child's nervous system wasn't ready to register the body-signal feedback yet, that's <strong>neurology, not failure</strong>. The underwear can't force awareness. It can only be there when the brain is ready to receive the information.</p>
+    <p>Some kids show the first sign, a pause, a look down, a step toward the bathroom, in two weeks. Some take eight weeks. Some need longer. None of those are wrong. His nervous system is on <strong>its own timeline</strong>, and that timeline is not a reflection of your effort.</p>
+  </div>
+
+  <!-- SECTION 6: BODY — MECHANISM REFRESHER -->
+  <div class="section mechanism-section">
+    <p>The way BrightKidCo underwear works hasn't changed: the Body-Signal Learning Layer creates a gentle sensation that lasts, 30 to 60 seconds of feedback, every time there's an accident. That sustained 'uh-oh' feeling gives a slow to pick up signals brain time to register what happened. Where pull-ups wick that signal away, our underwear preserves it.</p>
+    <p>But it only works if it's being worn. And wearing it consistently is harder than any product description makes it sound. I know.</p>
+  </div>
+
+  <!-- SECTION 7: BODY — PERMISSION + RE-ENTRY PATH -->
+  <div class="section permission-section">
+    <p>Here's what I want you to know: the <strong>60-day guarantee restarts whenever you're ready</strong>. If you bought a pair or a bundle months ago and it didn't take, you can try again. The clock resets. Your purchase is still protected.</p>
+    <p>If the underwear never got worn, try it for 30 minutes after school, when the day has settled. If it was worn but you didn't see signs, increase wear time to 3+ hours or try a different time of day. Some kids do better in the morning, some after dinner. It's worth experimenting.</p>
+    <p>And if you've decided this isn't the right approach for your family, that's a real answer too. No hard feelings.</p>
+  </div>
+
+  <!-- SECTION 8: CTA -->
+  <div class="section cta-section">
+    <p>If you want to give it another try, the 60-day guarantee restart is available. No need to buy anything new, just start putting the underwear back into rotation and count from today.</p>
+    <a href="#" class="cta-button">Try again — 60-day guarantee restart</a>
+    <p class="cta-text-link">
+      <a href="#">Hit reply — I read everything</a>
+    </p>
+  </div>
+
+  <!-- MINT HAIRLINE DIVIDER -->
+  <div class="section divider-section">
+    <div class="divider"></div>
+  </div>
+
+  <!-- SECTION 9: LENA SIGN-OFF + P.S. -->
+  <div class="section signoff-section">
+    <p class="signoff-with-care"><em>With care,</em></p>
+    <p class="signoff-lena">Lena ——</p>
+    <p class="signoff-profile">Customer Support · Mom of two autistic sons</p>
+    <p class="signoff-ps">P.S. My older son was 8 before we figured this out. We took breaks. We restarted twice. If you need a breather, take it. The science will still be here when you're ready. <strong>60 days, your judgment.</strong></p>
+  </div>
+
+  <!-- SECTION 10: FOOTER -->
+  <div class="section footer-section">
+    <p>BrightKidCo LLC · [Physical Address]</p>
+    <p>No longer want these emails? <a href="#">Unsubscribe</a> | <a href="#">Manage Preferences</a></p>
+    <p>Questions? Reply to this email, I read every response.</p>
+  </div>
+
+</div>
+</body>
+</html>

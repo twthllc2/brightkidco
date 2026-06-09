@@ -1,0 +1,89 @@
+{
+  "console_errors": [
+    {
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_FILE_NOT_FOUND"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_FILE_NOT_FOUND"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_FILE_NOT_FOUND"
+    }
+  ],
+  "dimensions": {
+    "width": 420,
+    "height": 3273,
+    "rootWidth": 420
+  },
+  "font_family": "Questrial, sans-serif",
+  "cta_button": {
+    "text": "When you're ready, the 3+3 Bundle is here",
+    "width": 362.203125,
+    "height": 44,
+    "top": 2620.609375,
+    "bottom": 2664.609375
+  },
+  "color_samples": [
+    {
+      "el": "email-shell",
+      "bg": "rgb(251, 247, 241)"
+    },
+    {
+      "el": "checkmark-green",
+      "bg": "rgb(93, 208, 122)"
+    },
+    {
+      "el": "cta-button",
+      "bg": "rgb(43, 174, 180)",
+      "color": "rgb(255, 255, 255)"
+    },
+    {
+      "el": "body-text",
+      "color": "rgb(31, 45, 47)"
+    },
+    {
+      "el": "muted-text",
+      "color": "rgb(138, 155, 157)"
+    },
+    {
+      "el": "secondary-text",
+      "color": "rgb(74, 101, 104)"
+    },
+    {
+      "el": "teal-element",
+      "bg": "rgb(43, 174, 180)"
+    }
+  ],
+  "images": [
+    {
+      "src": "file:///root/projects/brightkidco/outputs/verification/assets/brightkidco-logo-v2.png",
+      "alt": "BrightKidCo",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rendered": true
+    },
+    {
+      "src": "file:///root/projects/brightkidco/outputs/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png",
+      "alt": "Toddler with moon and cloud pattern backpack, wearing BrightKidCo training pants",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rendered": true
+    },
+    {
+      "src": "file:///root/projects/brightkidco/outputs/raw/product-photos/flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+      "alt": "BrightKidCo pocket diaper in moon and cloud blue pattern, flat-lay product photo",
+      "naturalWidth": 0,
+      "naturalHeight": 0,
+      "rendered": true
+    }
+  ],
+  "cta_tap_target": true,
+  "heading_text": "This my last email (for now)",
+  "checkmark_count": 6,
+  "text_preview": "Preheader: Whatever you decide, the 60-day guarantee still stands.\n\nThis my last email (for now)\n\nI have two autistic sons. One trained at 6. The other took us until he was almost 8.\n\nI know what you're going through. Not because I read about it in a research paper. Because I've lived it, the morning carpet cleanups, the \"I don't know, I didn't feel it,\" the quiet dread of another year in pull-ups.\n\nOver the last three weeks, I've walked through every element I know matters for L2 parents like y",
+  "star_count": 5,
+  "green_dots_easter_egg": 2
+}

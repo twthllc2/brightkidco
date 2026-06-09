@@ -1,0 +1,26 @@
+{
+  "email": "mid-13-d60",
+  "flow": "pp-mid-checkin",
+  "renderedWidth": 420,
+  "renderedHeight": 6687,
+  "sectionCount": 18,
+  "fontsLoaded": [
+    "Fraunces",
+    "Questrial"
+  ],
+  "consoleMessages": [
+    {
+      "type": "warn",
+      "text": "You are using the in-browser Babel transformer. Be sure to precompile your scripts for production - https://babeljs.io/docs/setup/"
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: net::ERR_FILE_NOT_FOUND"
+    }
+  ],
+  "styleInfo": {
+    "rootWidth": "420px",
+    "rootBg": "rgb(251, 247, 241)",
+    "rootFont": "Questrial, system-ui, sans-serif"
+  }
+}

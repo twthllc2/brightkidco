@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=420">
+<link href="https://fonts.googleapis.com/css2?family=Questrial&family=Fraunces:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<style>body{margin:0;padding:0;background:#f5f5f5;display:flex;justify-content:center;}</style>
+</head><body>
+<div id="root"></div>
+<script type="text/babel">
+/* ── Brand tokens ── */
+window.BRAND = {
+  teal: "#2BAEB4",
+  green: "#5DD07A",
+  ink: "#1F2D2F",
+  cream: "#FBF7F1",
+  paper: "#FFFFFF",
+  soft: "#4A6568",
+  muted: "#8A9B9D",
+  tealDeep: "#2BAEB4",
+  warmYellow: "#F5C84B",
+  divider: "#E8E2DA",
+  gradient: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+  gradientText: { background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent" },
+};
+window.FONT = {
+  main: "'Questrial', Helvetica, Arial, sans-serif",
+  display: "'Fraunces', Georgia, serif",
+};
+
+/* ── Primitives ── */
+const MW = 420;
+const LOGO = "data:image/svg+xml," + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="180" height="34" viewBox="0 0 180 34"><rect width="180" height="34" fill="none"/><text x="0" y="24" font-family="Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1F2D2F">BrightKidCo</text></svg>');
+const B = window.BRAND;
+const F = window.FONT;
+
+/* ── Email Shell ── */
+const EmailShell = ({ children, preheader, bg }) => (
+  <div style={{ width: MW, background: bg, fontFamily: F.main, color: B.ink }}>
+    <div style={{ padding: "6px 20px", fontSize: 11, color: B.muted, background: "#F6F2EA", textAlign: "center", fontStyle: "italic" }}>
+      Preheader: {preheader}
+    </div>
+    {children}
+  </div>
+);
+
+/* ── Email Component: winback-b-24-e1-l3 ── */
+const Email_winback_b_24_e1_l3 = () => (
+  <EmailShell preheader="60 days since you subscribed. That information still applies. Whenever you're ready." bg="#FFFFFF">
+
+    {/* SECTION 1: PREHEADER BAR */}
+    <div style={{ background: "#F6F2EA", padding: "6px 20px", textAlign: "center" }}>
+      <span style={{ fontFamily: F.main, fontSize: 11, fontStyle: "italic", color: "#9AA8A7" }}>
+        60 days since you subscribed. That information still applies. Whenever you're ready.
+      </span>
+    </div>
+
+    {/* SECTION 2: HEADER */}
+    <div style={{ background: "#FFFFFF", padding: "24px 20px 0", textAlign: "center" }}>
+      <img src={LOGO} alt="BrightKidCo" style={{ height: 34 }} />
+      <div style={{ fontFamily: F.main, fontSize: 14, color: "#8A9B9D", marginTop: 8 }}>
+        Lena from BrightKidCo
+      </div>
+    </div>
+
+    {/* SECTION 3: HERO — HERO-13 Permission Frame */}
+    <div style={{ background: "#FFFFFF", padding: "48px 30px 48px", textAlign: "center" }}>
+      <h1 style={{ fontFamily: F.main, fontSize: 24, fontWeight: 400, lineHeight: 1.4, color: "#1F2D2F", margin: 0, letterSpacing: 0 }}>
+        Door's still open. No rush.
+      </h1>
+    </div>
+
+    {/* SECTION 4: OBSERVATION — Quiet Check-In */}
+    <div style={{ background: "#FFFFFF", padding: "48px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 24px" }}>
+        It's been 60 days since you subscribed. Maybe you read everything and decided it wasn't the right time. Maybe you bookmarked it and meant to come back. Maybe you're still watching, still wondering whether any of this could apply to your child.
+      </p>
+      <p style={{ fontFamily: F.display, fontSize: 18, fontStyle: "italic", lineHeight: 1.5, color: "#1F2D2F", margin: 0 }}>
+        Wherever you are, that's okay.
+      </p>
+    </div>
+
+    {/* 1px RULE */}
+    <div style={{ padding: "0 30px" }}>
+      <hr style={{ border: "none", borderTop: "1px solid rgba(123, 158, 123, 0.3)", margin: 0 }} />
+    </div>
+
+    {/* SECTION 5: VALIDATION */}
+    <div style={{ background: "#FFFFFF", padding: "48px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 24px" }}>
+        You didn't fail at deciding. You protected yourself. After years of methods and promises and hope that turned into more of the same, protecting yourself is not giving up. It's wisdom.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 24px" }}>
+        I wrote these emails knowing some parents would need to sit with the information longer. Some would need to read it, put it down, pick it up again weeks later. Some would need to find it in their inbox on a random Tuesday and realize, maybe now.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: 0 }}>
+        That's what this email is. A quiet check-in. Nothing changed since you last heard from me. The mechanism is still the same. The science is still settled.
+      </p>
+    </div>
+
+    {/* 1px RULE */}
+    <div style={{ padding: "0 30px" }}>
+      <hr style={{ border: "none", borderTop: "1px solid rgba(123, 158, 123, 0.3)", margin: 0 }} />
+    </div>
+
+    {/* SECTION 6: MECHANISM — Gentle Refresher */}
+    <div style={{ background: "#FFFFFF", padding: "48px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 24px" }}>
+        The Body-Signal Learning Layer in BrightKidCo underwear does one thing: it creates a gentle sensation that lasts, 30 to 60 seconds of feedback, that gives a nervous system that picks up signals slowly time to register: something happened.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 24px" }}>
+        For children who have never shown a sign of feeling wet or dirty, that feedback is information their brain has been missing. Pull-ups and diapers wick that feedback away entirely, they keep your child so dry that the brain never gets the message.
+      </p>
+      <p style={{ fontFamily: F.display, fontSize: 18, fontStyle: "italic", lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 24px" }}>
+        The underwear doesn't promise training. It promises information. Whether your child's nervous system acts on that information, that's between him and biology.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: 0 }}>
+        One L3 parent told us: 'He doesn't notice wetness. He never has. But after a month of consistent wear, he walks differently when he has an accident. That's new. I'll take it.'
+      </p>
+    </div>
+
+    {/* 1px RULE */}
+    <div style={{ padding: "0 30px" }}>
+      <hr style={{ border: "none", borderTop: "1px solid rgba(123, 158, 123, 0.3)", margin: 0 }} />
+    </div>
+
+    {/* SECTION 7: TESTIMONIAL — L3 Parent Story */}
+    <div style={{ background: "#FFFFFF", padding: "48px 30px" }}>
+      <div style={{ background: "#DBFFCD", borderLeft: "3px solid #7B9E7B", borderRadius: 16, padding: 24, boxShadow: "0 2px 6px rgba(31,45,47,0.04)" }}>
+        <p style={{ fontFamily: F.display, fontSize: 18, fontStyle: "italic", lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 16px" }}>
+          "He doesn't notice wetness. He never has. But after a month of consistent wear, he walks differently when he has an accident. That's new. I'll take it."
+        </p>
+        <p style={{ fontFamily: F.main, fontSize: 12, color: "#9AA8A7", margin: 0 }}>
+          L3 parent
+        </p>
+      </div>
+    </div>
+
+    {/* 1px RULE */}
+    <div style={{ padding: "0 30px" }}>
+      <hr style={{ border: "none", borderTop: "1px solid rgba(123, 158, 123, 0.3)", margin: 0 }} />
+    </div>
+
+    {/* SECTION 8: PERMISSION CTA — Three Off-Ramps */}
+    <div style={{ background: "#FFFFFF", padding: "48px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 20px" }}>
+        If you want to try it, one pair, $34.99. Add it alongside whatever you're using now. No replacement of anything. Just an addition. See if anything changes over 60 days.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 20px" }}>
+        If nothing changes, full refund. No questions.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 18, lineHeight: 1.8, color: "#1F2D2F", margin: "0 0 24px" }}>
+        If today isn't the day, the product will be here. So will I.
+      </p>
+
+      {/* CTA Button */}
+      <div style={{ textAlign: "center", marginBottom: 12 }}>
+        <a href="#" style={{
+          display: "inline-block",
+          width: 280,
+          maxWidth: "100%",
+          padding: "14px 24px",
+          background: "#2BAEB4",
+          color: "#FFFFFF",
+          fontFamily: F.main,
+          fontSize: 16,
+          fontWeight: 400,
+          lineHeight: "1.0",
+          textDecoration: "none",
+          borderRadius: 8,
+          height: 48,
+          boxSizing: "border-box",
+          textAlign: "center",
+        }}>
+          Add 1 Pair, $34.99
+        </a>
+      </div>
+      <div style={{ textAlign: "center", fontFamily: F.main, fontSize: 13, color: "#9AA8A7" }}>
+        60-Day Guarantee · No Pressure
+      </div>
+    </div>
+
+    {/* 1px RULE */}
+    <div style={{ padding: "0 30px" }}>
+      <hr style={{ border: "none", borderTop: "1px solid rgba(123, 158, 123, 0.3)", margin: 0 }} />
+    </div>
+
+    {/* SECTION 9: LENA SIGN-OFF — Medium Variant (L3) */}
+    <div style={{ background: "#FAF9F7", padding: "48px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontStyle: "italic", lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 20px" }}>
+        Wherever you are on this, trust your read. You know your child better than anyone.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 4px" }}>
+        With care,
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, color: "#1F2D2F", margin: "0 0 4px" }}>
+        Lena
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 13, color: "#9AA8A7", margin: "0 0 24px" }}>
+        Customer Support · Mom of two autistic sons
+      </p>
+
+      {/* Dashed divider */}
+      <div style={{ borderTop: "1px dashed #9AA8A7", margin: "0 0 24px" }} />
+
+      <p style={{ fontFamily: F.main, fontSize: 14, lineHeight: 1.6, color: "#4A4A4A", margin: 0 }}>
+        P.S. If you ever want to talk through whether this might work for your child, hit reply. You'll get me, not a template. I read everything.
+      </p>
+    </div>
+
+    {/* 1px RULE — #E0E0E0 at 50% */}
+    <div style={{ padding: "0 30px" }}>
+      <hr style={{ border: "none", borderTop: "1px solid rgba(224, 224, 224, 0.5)", margin: 0 }} />
+    </div>
+
+    {/* SECTION 10: FOOTER */}
+    <div style={{ background: "#FFFFFF", padding: "20px 30px 30px", textAlign: "center" }}>
+      <p style={{ fontFamily: F.display, fontSize: 14, fontStyle: "italic", color: "#4A6568", marginBottom: 20, lineHeight: 1.5 }}>
+        "Wherever you are on this journey, we're glad you're here."
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 11, lineHeight: 1.6, color: "#9AA8A7", margin: "0 0 4px" }}>
+        BrightKidCo
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 11, lineHeight: 1.6, color: "#9AA8A7", margin: "0 0 4px" }}>
+        Austin, TX 78701
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 11, lineHeight: 1.6, color: "#9AA8A7", margin: "0 0 4px" }}>
+        No longer want these emails? <a href="#" style={{ color: "#9AA8A7", textDecoration: "underline" }}>Unsubscribe</a> or <a href="#" style={{ color: "#9AA8A7", textDecoration: "underline" }}>Manage Preferences</a>.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 11, lineHeight: 1.6, color: "#9AA8A7", margin: 0 }}>
+        Questions? Reply to this email, Lena reads every response.
+      </p>
+    </div>
+
+  </EmailShell>
+);
+
+Object.assign(window, { Email_winback_b_24_e1_l3 });
+
+/* ── Mount ── */
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<Email_winback_b_24_e1_l3 />);
+</script>
+</body></html>

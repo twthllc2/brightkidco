@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome E4 L3 — Render</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #E8E4E0; display: flex; justify-content: center; padding: 20px 0; font-family: 'Georgia', 'Times New Roman', Times, serif; }
+    .email { width: 420px; background: #FAF7F3; color: #3C3633; }
+    .header { background: #FAF7F3; padding: 24px 20px 0; text-align: center; }
+    .header-logo { height: 34px; }
+    .header-lena { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 14px; font-style: italic; color: #9C8B7B; margin-top: 8px; }
+    .signal-bloom { background: #FAF7F3; padding: 16px 0; text-align: center; }
+    .hero { background: #FAF7F3; padding: 80px 22px; text-align: center; }
+    .hero h1 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; line-height: 1.15; letter-spacing: -0.02em; color: #2B2623; margin: 0; }
+    .wave-divider { background: #FAF7F3; padding: 8px 0; text-align: center; }
+    .section-gap { background: #FAF7F3; padding: 48px 22px; }
+    .section-gap p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; line-height: 1.7; color: #3C3633; letter-spacing: 0.01em; margin: 0 0 14px; }
+    .section-gap p:last-child { margin-bottom: 0; }
+    .lifestyle-img { text-align: center; padding: 16px 0; }
+    .lifestyle-img img { width: 30%; border-radius: 12px; float: right; margin-left: 16px; margin-bottom: 8px; }
+    .counter-testimonial { background: #FAF7F3; padding: 48px 22px; }
+    .pull-quote { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 18px; font-weight: 600; font-style: italic; line-height: 1.4; color: #9C8B7B; letter-spacing: 0.03em; margin: 0 0 24px; }
+    .counter-testimonial p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; line-height: 1.7; color: #3C3633; letter-spacing: 0.01em; margin: 0 0 24px; }
+    .counter-testimonial p:last-child { margin-bottom: 0; }
+    .did-you-know { background: #FAF7F3; padding: 48px 22px; }
+    .eyebrow { font-size: 10.5px; letter-spacing: 2px; text-transform: uppercase; color: #9C8B7B; font-weight: 700; margin-bottom: 10px; }
+    .did-you-know p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; line-height: 1.7; color: #3C3633; letter-spacing: 0.01em; margin: 0 0 14px; }
+    .did-you-know p:last-child { margin-bottom: 0; }
+    .product-showcase { padding: 0 22px 20px; }
+    .product-card { background: #FFFDF6; border: 2px dashed #A8B5A0; border-radius: 12px; padding: 18px; position: relative; }
+    .product-eyebrow { font-size: 10px; letter-spacing: 1.3px; text-transform: uppercase; color: #A8B5A0; font-weight: 700; margin-bottom: 12px; }
+    .product-desc { font-size: 17px; line-height: 1.6; color: #3C3633; }
+    .product-desc p { margin: 0 0 14px; }
+    .product-desc p:last-child { margin: 0; font-style: italic; }
+    .layer-row { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+    .layer-row:last-child { margin-bottom: 0; }
+    .layer-line { flex: 1; height: 3px; background: #A8B5A0; border-radius: 2px; }
+    .layer-label { font-size: 13px; color: #3C3633; white-space: nowrap; }
+    .layers-wrap { margin-bottom: 20px; }
+    .layer-breakdown { padding: 0 22px 20px; }
+    .layer-breakdown p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 13px; line-height: 1.5; color: #3C3633; margin: 0 0 6px; }
+    .layer-breakdown p:last-child { margin-bottom: 0; }
+    .guarantee-section { background: #FAF7F3; padding: 48px 22px; }
+    .guarantee-card { border: 2px dashed #D4C9B8; border-radius: 16px; padding: 24px; }
+    .guarantee-title { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 20px; font-weight: 600; color: #2B2623; margin: 0 0 14px; }
+    .guarantee-card p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; line-height: 1.7; color: #3C3633; letter-spacing: 0.01em; margin: 0 0 14px; }
+    .guarantee-card p:last-child { margin-bottom: 0; }
+    .cta-section { background: #FAF7F3; padding: 72px 22px; text-align: center; }
+    .cta-section h2 { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; color: #2B2623; margin: 0 0 16px; }
+    .cta-section p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; line-height: 1.7; color: #3C3633; letter-spacing: 0.01em; margin: 0 0 24px; }
+    .cta-link { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; font-weight: 600; color: #5C4A3A; text-decoration: none; border-bottom: 0.5px solid #9C8B7B; padding-bottom: 4px; }
+    .cta-teaser { font-style: italic; margin-top: 24px !important; }
+    .signoff { background: #FAF7F3; padding: 48px 22px; }
+    .signoff p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; line-height: 1.7; color: #3C3633; letter-spacing: 0.01em; margin: 0 0 14px; }
+    .signoff p:last-child { margin-bottom: 24px; }
+    .signoff .lena-name { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 18px; font-style: italic; color: #9C8B7B; }
+    .footer { background: #FFFFFF; padding: 30px 24px; text-align: center; position: relative; }
+    .footer-company { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 500; color: #3C3633; margin-bottom: 10px; }
+    .footer-address { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 12px; color: #9C8B9D; line-height: 1.65; margin-bottom: 14px; }
+    .footer-unsub { font-size: 11.5px; color: #8A9B9D; line-height: 1.65; margin-bottom: 14px; }
+    .footer-unsub a { color: #3C3633; text-decoration: underline; }
+    .footer-reply { font-size: 11.5px; color: #8A9B9D; line-height: 1.65; }
+    .outline { padding: 48px 22px; background: #FAF7F3; }
+    .outline p { font-family: 'Georgia', 'Times New Roman', Times, serif; font-size: 17px; line-height: 1.7; color: #3C3633; letter-spacing: 0.01em; margin: 0; }
+  </style>
+</head>
+<body>
+  <div class="email">
+    <!-- Header -->
+    <div class="header">
+      <img src="../assets/brightkidco-logo-v2.png" alt="BrightKidCo" class="header-logo" style="height: 34px;" />
+      <div class="header-lena">Lena ——</div>
+    </div>
+
+    <!-- Signal Bloom SVG -->
+    <div class="signal-bloom">
+      <svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg" style="width: 200px; height: 80px; opacity: 0.3;" aria-hidden="true">
+        <path d="M 100 120 Q 80 80 60 50 Q 40 20 20 10 Q 50 15 80 30 Q 110 45 130 70 Q 150 95 140 120" stroke="#C4B5A0" stroke-width="1.5" fill="none" />
+      </svg>
+    </div>
+
+    <!-- HERO — WHISPER TONE -->
+    <div class="hero">
+      <h1>&ldquo;I&rsquo;ve made peace with maybe never.&rdquo;</h1>
+    </div>
+
+    <!-- Wave Divider -->
+    <div class="wave-divider">
+      <svg width="48" height="16" viewBox="0 0 48 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M 0 8 Q 12 16 24 8 Q 36 0 48 8" stroke="#D4C9B8" stroke-width="1" fill="none" />
+      </svg>
+    </div>
+
+    <!-- LETTER — HANDWRITTEN OPENER -->
+    <div class="section-gap">
+      <p>&ldquo;I&rsquo;ve made peace with maybe never.&rdquo; I hear that sentence more than any other from Level 3 parents. It arrives quiet, without drama. After years of scheduled sits and social stories and BCBA protocols and private consultants and 40-hour ABA weeks, &ldquo;maybe never&rdquo; stops being a fear and starts being a protection. A way to keep going without breaking. I understand. I have two autistic sons. One trained at 6. The other at almost 8. For years, I sat where you&rsquo;re sitting now, wondering if the window had closed before I&rsquo;d even found it.</p>
+
+      <!-- Wave Divider -->
+      <div style="text-align: center; padding: 16px 0;">
+        <svg width="48" height="16" viewBox="0 0 48 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M 0 8 Q 12 16 24 8 Q 36 0 48 8" stroke="#D4C9B8" stroke-width="1" fill="none" />
+        </svg>
+      </div>
+
+      <p>But here&rsquo;s what the research says that hope alone cannot:</p>
+      <p>Maureen Bennie&rsquo;s son was 9.5 when he finally trained. Another family in our community crossed that finish line at 8 years old. One father told us his son, non-verbal, high support needs, never registered a single wet diaper in 9 years, initiated his first independent trip to the bathroom at age 10.</p>
+      <p><span style="letter-spacing: 0.1em;">Late</span> is not never.</p>
+      <p>These aren&rsquo;t outliers. A 2025 systematic review of 49 peer-reviewed studies confirmed that body signal differences in autism are real, measurable, and, crucially, not permanent. Barmpagiannis &amp; Baldimtsi (2025) showed that while body-signal processing works differently in autistic children, the nervous system remains capable of learning. The timeline is longer. The path is different. But the capacity is there.</p>
+
+      <!-- Wave Divider -->
+      <div style="text-align: center; padding: 16px 0;">
+        <svg width="48" height="16" viewBox="0 0 48 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M 0 8 Q 12 16 24 8 Q 36 0 48 8" stroke="#D4C9B8" stroke-width="1" fill="none" />
+        </svg>
+      </div>
+
+      <p>You&rsquo;ve seen 9 years of nothing. No pause, no reaction, no signal. He&rsquo;s never shown a single sign of feeling wet or dirty. You&rsquo;ve stopped counting the attempts because counting assumes there&rsquo;s a pattern to track. Here&rsquo;s what&rsquo;s actually happening: His brain and bladder are on different frequencies. The body signal, the &ldquo;I need to go&rdquo; message, travels a neurological pathway that arrives too late or never arrives at all. Nicholson et al. (2019) demonstrated that this is not behavioral, not stubborn, not a training gap. It is a documented neurological difference in how the brain receives internal body signals.</p>
+      <p>The Body-Signal Learning Layer doesn&rsquo;t change who your child is. It doesn&rsquo;t demand compliance or attention or understanding. It simply gives his brain information it has been missing: 30 to 60 seconds of gentle sensation that lasts after every accident. Long enough for a deeply nervous system that picks up signals slowly to register: something happened. Not a punishment. Not a discomfort. Just information. Repeated. Over time.</p>
+
+      <!-- Lifestyle Image -->
+      <div style="text-align: center; padding: 16px 0;">
+        <img src="../product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png" alt="Child outdoors on grass, natural light, quiet moment" style="width: 30%; border-radius: 12px; float: right; margin-left: 16px; margin-bottom: 8px;" />
+      </div>
+
+      <!-- Wave Divider -->
+      <div style="text-align: center; padding: 16px 0; clear: both;">
+        <svg width="48" height="16" viewBox="0 0 48 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M 0 8 Q 12 16 24 8 Q 36 0 48 8" stroke="#D4C9B8" stroke-width="1" fill="none" />
+        </svg>
+      </div>
+    </div>
+
+    <!-- COUNTER-TESTIMONIAL -->
+    <div class="counter-testimonial">
+      <p class="pull-quote">&ldquo;He paused. He felt something. After 4 years of nothing, that was everything.&rdquo;</p>
+      <p>That&rsquo;s not an overnight change. That&rsquo;s the Body-Signal Learning Layer doing what it was designed to do, providing the feedback the brain was never getting.</p>
+      <p class="pull-quote">&ldquo;We did 40 hours of ABA a week for 2 years. He&rsquo;s still in pull-ups. We spent $2,500 on a private potty consultant. Same result. Three weeks in the Body-Signal Learning Layer, he looked down at the wet spot for the first time in 9 years. Not trained. Not close. But he looked. And that had never happened before.&rdquo;</p>
+      <p>For Level 3, progress looks different from what the books describe. It&rsquo;s not a fully trained child in two weeks. It&rsquo;s a pause. A look. A moment of tolerance. Five minutes on the toilet without screaming. Six hours without a change.</p>
+      <p class="pull-quote">&ldquo;Success came two days later. Marc used the toilet without any prompts from us. He didn&rsquo;t flush the toilet and came and got us. He said, &lsquo;Poo in the toilet. I want chips.&rsquo; It was a celebration.&rdquo;</p>
+      <p>These are real wins. They happen on timelines that don&rsquo;t fit a marketing calendar. And they happen because information the nervous system was missing finally arrived.</p>
+    </div>
+
+    <!-- DID YOU KNOW -->
+    <div class="did-you-know">
+      <div class="eyebrow">Did You Know</div>
+      <p>A 2025 systematic review of 49 peer-reviewed studies confirmed that body signal differences in autism are real, measurable, and, crucially, not permanent.</p>
+      <p>Nicholson et al. (2019) demonstrated that this is not behavioral, not stubborn, not a training gap. It is a documented neurological difference in how the brain receives internal body signals.</p>
+      <p>Hample, Mahler &amp; Amspacher (2020) showed measurable improvement in body awareness after 8 weeks of structured intervention.</p>
+    </div>
+
+    <!-- PRODUCT SHOWCASE SOFT -->
+    <div class="product-showcase">
+      <div class="product-card">
+        <div class="product-eyebrow">The product</div>
+        <div class="product-desc">
+          <p>1 Pair of Body-Signal Learning Underwear. $34.99. That&rsquo;s not a system. It&rsquo;s not a program. It&rsquo;s not another method you have to believe in. It&rsquo;s one pair of underwear, designed with the 3-Layer Body-Signal Learning System, that you add alongside your current routine. No replacement of anything. No change to your schedule. No pressure on your child. Just an addition, something that introduces a signal into the equation.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Layer breakdown -->
+    <div class="layer-breakdown">
+      <p><strong>Layer 1</strong>, Cotton inner (gentle, sustained wetness feedback that the slow to pick up signals brain can finally register)</p>
+      <p><strong>Layer 2</strong>, Smart absorption layer (protects floors and furniture without wicking the signal away)</p>
+      <p><strong>Layer 3</strong>, Outer barrier (leak-resistant so your home stays your home)</p>
+    </div>
+
+    <!-- TRUST — DASHED POLICY QUOTE -->
+    <div class="guarantee-section">
+      <div class="guarantee-card">
+        <p class="guarantee-title">60 days. No questions.</p>
+        <p>If nothing changes in 60 days, if your child shows no pause, no look, no moment of recognition, send it back. Full refund. You don&rsquo;t have to prove anything. You don&rsquo;t have to explain.</p>
+        <p>This guarantee exists because we know two things to be true: 1. The research is on our side, interoception can be trained (Hample, Mahler &amp; Amspacher 2020 showed measurable improvement in body awareness after 8 weeks of structured intervention). 2. You have heard every promise before. We are not here to make another one.</p>
+      </div>
+    </div>
+
+    <!-- CTA — SOFT LINK -->
+    <div class="cta-section">
+      <h2>No timeline. Your child&rsquo;s timeline.</h2>
+      <p>When you decide, it&rsquo;s here. Not today, not tomorrow, not until it feels right for your family. The product doesn&rsquo;t expire. The guarantee doesn&rsquo;t change. And neither does the offer.</p>
+      <a href="#" class="cta-link">1 Pair &mdash; $34.99 &mdash; 60-Day Guarantee</a>
+      <p class="cta-teaser">Next time: Real stories from parents who&rsquo;ve been exactly where you are.</p>
+    </div>
+
+    <!-- LENA SIGN-OFF -->
+    <div class="signoff">
+      <p>I have two autistic sons. One trained at 6, we celebrated like it was the Olympics. The other took us until almost 8. Not because we didn&rsquo;t try. Because his nervous system had its own schedule. And it wasn&rsquo;t going to be rushed by anything, not my pleading, not 40 hours of therapy a week, not the calendar.</p>
+      <p>If you&rsquo;re reading this and thinking &ldquo;maybe never,&rdquo; I get it. I&rsquo;ve sat in that place too. But I also know what it&rsquo;s like to watch a child who has never once noticed an accident pause, and look down, and walk toward the bathroom. Not because anything changed about who he is. Because his brain finally got the information it had been missing.</p>
+      <p>Whatever you choose, thank you for reading this far. If this isn&rsquo;t the day, that&rsquo;s okay. The product will be here. So will I.</p>
+      <div class="lena-name">Lena ——</div>
+    </div>
+
+    <!-- OUTLINE -->
+    <div class="outline">
+      <p></p>
+    </div>
+
+    <!-- Footer -->
+    <div class="footer">
+      <div class="footer-company">BrightKidCo LLC</div>
+      <div class="footer-address">123 Commerce Street, Suite 200<br>Nashville, TN 37201<br>United States</div>
+      <div class="footer-unsub">No longer want these emails? <a href="#">Unsubscribe</a> or <a href="#">Manage Preferences</a></div>
+      <div class="footer-reply">Questions? Reply to this email, Lena reads every response.</div>
+    </div>
+  </div>
+</body>
+</html>

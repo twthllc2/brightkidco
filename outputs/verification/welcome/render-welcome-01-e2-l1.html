@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome E2 L1 — Render</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Caveat:wght@400;500;700&display=swap" rel="stylesheet">
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #E8E4E0; display: flex; justify-content: center; padding: 20px 0; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script>
+    // Brand tokens
+    window.BRAND = {
+      ink: '#1F2D2F',
+      teal: '#2BAEB4',
+      tealDeep: '#1A8A8F',
+      green: '#5DD07A',
+      soft: '#4A6568',
+      cream: '#FBF7F1',
+      paper: '#FFFFFF',
+      muted: '#8A9B9D',
+      gradient: 'linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)',
+      gradientText: {
+        background: 'linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)',
+        WebkitBackgroundClip: 'text',
+        WebkitTextFillColor: 'transparent',
+        backgroundClip: 'text',
+      },
+    };
+    window.FONT = {
+      main: "'Plus Jakarta Sans', sans-serif",
+      display: "'Source Serif 4', serif",
+      caveat: "'Caveat', cursive",
+    };
+    window.FLOW1_SHARED = {
+      signoff: {
+        line1: 'Thanks for being here. If you have a question, hit reply. You\'ll get me, not a template, not a bot. I read everything.',
+        ps: 'P.S. Every email in this series has a reply button. I answer every one personally.',
+      },
+      out: 'Manage preferences · Unsubscribe',
+      footer: {
+        tagline: 'Built for the brain that learns differently.',
+        links: ['Shop', 'Our Story', 'Body-Signal Science', 'FAQ'],
+        address: 'BrightKidCo LLC · 123 Learning Lane, Suite 100, Portland, OR 97201',
+      },
+    };
+  </script>
+
+  <script type="text/babel">
+    /* ─── primitives.jsx ─── */
+    const MW = 420;
+    const LOGO = "https://via.placeholder.com/140x34/FBF7F1/1F2D2F?text=BrightKidCo";
+    const B = window.BRAND;
+    const F = window.FONT;
+
+    const ImgFrame = ({ height = 200, label, sublabel, radius = 20, aspect }) => (
+      <div style={{
+        position: "relative", width: "100%", height: aspect ? undefined : height,
+        aspectRatio: aspect, background: "#FFFFFF", border: `2px dashed ${B.teal}`,
+        borderRadius: radius, display: "flex", flexDirection: "column",
+        alignItems: "center", justifyContent: "center", padding: "18px 22px",
+        textAlign: "center", overflow: "hidden",
+      }}>
+        <svg width="14" height="14" style={{ position: "absolute", top: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,6 L1,1 L6,1" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="14" height="14" style={{ position: "absolute", top: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,1 L13,1 L13,6" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="14" height="14" style={{ position: "absolute", bottom: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,8 L1,13 L6,13" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="14" height="14" style={{ position: "absolute", bottom: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,13 L13,13 L13,8" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="32" height="32" viewBox="0 0 32 32" style={{ marginBottom: 10, opacity: 0.5 }}>
+          <rect x="3" y="6" width="26" height="20" rx="3" stroke={B.teal} strokeWidth="1.8" fill="none" />
+          <circle cx="11" cy="13" r="2.5" fill={B.teal} opacity="0.5" />
+          <path d="M5,23 L12,16 L18,21 L22,18 L27,23" stroke={B.teal} strokeWidth="1.8" fill="none" strokeLinejoin="round" />
+        </svg>
+        <div style={{ fontFamily: F.main, fontSize: 12.5, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase", color: B.teal, marginBottom: 6 }}>{label}</div>
+        <div style={{ fontFamily: F.main, fontSize: 12, lineHeight: 1.5, color: B.soft, maxWidth: 300 }}>{sublabel}</div>
+      </div>
+    );
+
+    const FramedImage = ({ children, height, label, sublabel, shadow = 4 }) => (
+      <div style={{ borderRadius: 20, overflow: "hidden", border: `2px solid ${B.ink}`, boxShadow: `${shadow}px ${shadow}px 0 ${B.ink}` }}>
+        <ImgFrame height={height} radius={0} label={label} sublabel={sublabel} />
+        {children}
+      </div>
+    );
+
+    const Header = ({ bg }) => (
+      <div style={{ background: bg, padding: "24px 20px 0", textAlign: "center" }}>
+        <img src={LOGO} alt="BrightKidCo" style={{ height: 34 }} />
+      </div>
+    );
+
+    const Eyebrow = ({ children, color = B.tealDeep }) => (
+      <div style={{ fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color, fontWeight: 700, marginBottom: 10 }}>{children}</div>
+    );
+
+    const Signoff = ({ bg = B.ink }) => {
+      const s = window.FLOW1_SHARED.signoff;
+      return (
+        <div style={{ background: bg, padding: "0 22px 36px" }}>
+          <div style={{
+            position: "relative", background: "#1F2A2C", border: "1.5px solid #2F3D40",
+            borderRadius: 22, padding: "26px 24px 24px", overflow: "hidden",
+          }}>
+            <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 4, background: B.gradient, opacity: 0.9 }} />
+            <div style={{ display: "flex", alignItems: "center", gap: 14, marginBottom: 18 }}>
+              <div style={{
+                width: 58, height: 58, flexShrink: 0, borderRadius: "50%",
+                background: `linear-gradient(135deg, #FFD866 0%, ${B.teal} 100%)`, padding: 2.5,
+              }}>
+                <div style={{
+                  width: "100%", height: "100%", borderRadius: "50%", background: "#FFFDF6",
+                  display: "flex", alignItems: "center", justifyContent: "center", overflow: "hidden",
+                  border: `1.5px solid ${B.ink}`,
+                }}>
+                  <svg width="58" height="58" viewBox="0 0 58 58">
+                    <rect width="58" height="58" fill="#F5E8D0" />
+                    <circle cx="29" cy="22" r="10" fill="#D4A574" />
+                    <path d="M10,58 C10,42 18,34 29,34 C40,34 48,42 48,58 Z" fill="#C98C6B" />
+                    <text x="29" y="55" textAnchor="middle" fontSize="6" fill={B.ink} fontWeight="700" letterSpacing="0.5" opacity="0.4">PHOTO</text>
+                  </svg>
+                </div>
+              </div>
+              <div style={{ flex: 1, minWidth: 0 }}>
+                <div style={{ fontSize: 10.5, letterSpacing: 1.6, textTransform: "uppercase", color: "#8FAFB2", fontWeight: 700, marginBottom: 2 }}>A note from</div>
+                <div style={{ fontSize: 17, fontWeight: 700, color: "#FFFFFF", lineHeight: 1.2 }}>Lena Bauer</div>
+                <div style={{ fontSize: 12, color: "#8FAFB2", marginTop: 2, fontStyle: "italic" }}>Founder · BrightKidCo · Mom of two</div>
+              </div>
+            </div>
+            <div style={{
+              display: "flex", alignItems: "center", gap: 14, paddingTop: 16, paddingBottom: 16,
+              borderTop: "1.5px dashed #3A4547", borderBottom: "1.5px dashed #3A4547", marginBottom: 16,
+            }}>
+              <div style={{ flex: 1 }}>
+                <div style={{ fontSize: 12.5, color: "#B8CACD", marginBottom: 2 }}>{s.line1}</div>
+                <div style={{
+                  fontFamily: "'Caveat', cursive", fontSize: 42, lineHeight: 0.95,
+                  fontWeight: 500, color: "#D8F57C", letterSpacing: -0.5, marginTop: 2,
+                }}>Lena</div>
+              </div>
+              <svg width="54" height="40" viewBox="0 0 54 40" style={{ flexShrink: 0, opacity: 0.55 }}>
+                <path d="M2,20 C8,10 16,28 24,18 C30,10 38,26 48,14 L52,10" stroke="#D8F57C" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+                <path d="M48,12 L52,10 L50,14" stroke="#D8F57C" strokeWidth="1.5" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+            </div>
+            <div style={{ fontSize: 13, lineHeight: 1.65, color: "#B8CACD", fontStyle: "italic" }}>
+              <span style={{ color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 }}>P.S.</span>
+              {s.ps.replace(/^P\.S\.\s*/, "")}
+            </div>
+          </div>
+        </div>
+      );
+    };
+
+    const OutLine = ({ bg = "#FFFFFF" }) => (
+      <div style={{ background: bg, padding: "18px 24px 0", textAlign: "center", fontSize: 12.5, color: B.muted, fontStyle: "italic" }}>
+        {window.FLOW1_SHARED.out}
+      </div>
+    );
+
+    const Footer = () => {
+      const f = window.FLOW1_SHARED.footer;
+      return (
+        <div style={{ background: "#FFFFFF", padding: "30px 24px 30px", textAlign: "center" }}>
+          <div style={{ fontFamily: F.display, fontSize: 20, fontStyle: "italic", fontWeight: 500, color: B.ink, marginBottom: 30, letterSpacing: -0.2 }}>
+            {f.tagline}
+          </div>
+          {f.links.map((l, i) => (
+            <div key={i} style={{ fontSize: 14, color: B.ink, fontWeight: 500, marginBottom: 14 }}>
+              <a href="#" style={{ color: B.ink, textDecoration: "none" }}>{l}</a>
+            </div>
+          ))}
+          <div style={{ display: "flex", justifyContent: "center", gap: 22, margin: "14px 0 28px" }}>
+            <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="0.8" fill={B.ink} stroke="none" /></svg></a>
+            <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M16 3h-3a5 5 0 0 0-5 5v3H5v4h3v8h4v-8h3l1-4h-4V8a1 1 0 0 1 1-1h3z" strokeLinejoin="round" /></svg></a>
+            <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M9 12a4 4 0 1 0 4 4V4c.5 2.5 2.5 4.5 5 5" strokeLinecap="round" strokeLinejoin="round" /></svg></a>
+          </div>
+          <div style={{ fontSize: 11.5, color: B.muted, lineHeight: 1.65, margin: "0 auto", maxWidth: 340 }}>
+            No longer want to receive these emails? <a href="#" style={{ color: B.ink, textDecoration: "underline" }}>Unsubscribe</a>.<br/>
+            <span style={{ fontSize: 11 }}>{f.address}</span>
+          </div>
+          <div style={{ margin: "28px auto 0", width: 60, height: 3, background: B.gradient, borderRadius: 3 }} />
+        </div>
+      );
+    };
+
+    const EmailShell = ({ children, preheader, bg }) => (
+      <div style={{ width: MW, background: bg, fontFamily: F.main, color: B.ink }}>
+        <div style={{ padding: "6px 20px", fontSize: 11, color: B.muted, background: "#F6F2EA", textAlign: "center", fontStyle: "italic" }}>
+          Preheader: {preheader}
+        </div>
+        {children}
+      </div>
+    );
+
+    /* ─── product-showcase.jsx ─── */
+    const ProductShowcaseMedium = ({ eyebrow, title, priceFrom = "€34", ctaButton }) => (
+      <div style={{ padding: "12px 14px 20px" }}>
+        <div style={{
+          background: "#FFFFFF", border: `2px solid ${B.ink}`,
+          borderRadius: 20, overflow: "hidden", boxShadow: `4px 4px 0 ${B.ink}`,
+        }}>
+          <div style={{ display: "flex", alignItems: "stretch" }}>
+            <div style={{ width: 140, flexShrink: 0, borderRight: `2px solid ${B.ink}`, background: "#FFFDF6" }}>
+              <ImgFrame height={220} radius={0} label="PRODUCT" sublabel="" />
+            </div>
+            <div style={{ padding: "18px 18px", flex: 1, display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
+              <div>
+                <div style={{ fontSize: 10, letterSpacing: 1.4, textTransform: "uppercase", color: B.tealDeep, fontWeight: 700, marginBottom: 6 }}>
+                  {eyebrow || "The method Sarah used"}
+                </div>
+                <h3 style={{ margin: "0 0 10px", fontSize: 17, fontWeight: 700, lineHeight: 1.2, color: B.ink }}>
+                  {title || "Body-Signal Learning Layer™"}
+                </h3>
+                <div style={{ display: "flex", alignItems: "baseline", gap: 6, marginBottom: 12 }}>
+                  <span style={{ fontSize: 20, fontWeight: 700, color: B.ink, letterSpacing: -0.3 }}>{priceFrom}</span>
+                  <span style={{ fontSize: 11, color: B.soft }}>starter pair</span>
+                </div>
+                <div style={{ fontSize: 11.5, color: B.soft, lineHeight: 1.5 }}>
+                  60-day calm-progress guarantee. Return anytime, any reason.
+                </div>
+              </div>
+              <a href="#" style={{
+                display: "inline-block", padding: "11px 18px", background: B.ink,
+                color: "#D8F57C", fontSize: 13, fontWeight: 700, textDecoration: "none",
+                borderRadius: 999, textAlign: "center", marginTop: 14, letterSpacing: 0.2,
+              }}>
+                {ctaButton || "See the pants"} →
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    );
+
+    /* ─── welcome-01-e2-l1.jsx ─── */
+    const Email_Welcome_E2_L1 = () => (
+      <EmailShell preheader="You didn't fail. The method assumes your child feels the 'I need to go' signal, here's what's really happening." bg="#FAF9F7">
+
+        {/* ── Header ── */}
+        <Header bg="#FAF9F7" />
+
+        {/* ═══════ HERO: Mirror Moment ═══════ */}
+        <div style={{ padding: "34px 22px 0", textAlign: "center", background: "#FDF8F3" }}>
+          <Eyebrow color="#E8826A">THE AHA THAT CHANGES EVERYTHING</Eyebrow>
+          <h1 style={{
+            fontSize: 32, lineHeight: 1.1, fontWeight: 700,
+            margin: "16px 0 0", letterSpacing: -0.6, color: B.ink,
+          }}>
+            The Real Reason<br/>Oh Crap Didn't Work
+          </h1>
+          <FramedImage
+            height={220}
+            label="SIGNAL BRIDGE"
+            sublabel="3-frame illustration: Problem → Reframe → Solution tease"
+          />
+        </div>
+
+        {/* ═══════ DIVIDER ═══════ */}
+        <div style={{ padding: "40px 0", display: "flex", justifyContent: "center" }}>
+          <div style={{ width: 60, height: 1.5, background: "#E2D5CA" }} />
+        </div>
+
+        {/* ═══════ LETTER: Paragraph Stack ═══════ */}
+        <div style={{ background: "#FAF9F7", padding: "0 22px 24px", fontSize: 18, lineHeight: 1.6, color: "#3D322C" }}>
+          {/* Hook */}
+          <p style={{ margin: "0 0 14px" }}>
+            Oh Crap stressed you both out. Sticker charts didn't stick. Timer sits became a battle.
+          </p>
+
+          {/* Failed Methods Recognition */}
+          <p style={{ margin: "0 0 14px" }}>
+            You did everything the books and the internet told you. You set timers. You offered M&Ms. You did the naked weekend, and held it for eight hours then peed on the rug.
+          </p>
+          <p style={{ margin: "0 0 14px" }}>
+            You've tried 1-3 methods so far, and every single one assumed the same thing: that your child can feel when he needs to go.
+          </p>
+          <p style={{ margin: "0 0 14px", fontSize: 20, fontWeight: 600, color: B.ink }}>
+            He can't.
+          </p>
+          <p style={{ margin: "0 0 14px" }}>
+            Not because he's stubborn. Not because you're doing it wrong. Because the "I need to pee" signal, that internal body sensation most of us take for granted, doesn't arrive in time for many autistic children.
+          </p>
+
+          {/* Validation */}
+          <p style={{ margin: "0 0 14px", fontSize: 20, fontWeight: 600, color: B.ink }}>
+            Here's the thing that changes everything: you didn't fail. The methods did.
+          </p>
+          <p style={{ margin: "0 0 14px" }}>
+            Oh Crap, sticker charts, timer sits, they all share a hidden assumption. They assume your child's nervous system sends the "I need to go" feeling loud and clear, and the only problem is getting him to the potty in time.
+          </p>
+          <p style={{ margin: "0 0 14px" }}>
+            But for many autistic children, that signal is delayed or absent entirely. By the time his brain registers the message, it's already happening.
+          </p>
+          <p style={{ margin: 0, fontSize: 20, fontWeight: 600, color: B.ink }}>
+            That's not defiance. That's neurology.
+          </p>
+        </div>
+
+        {/* ═══════ DIVIDER ═══════ */}
+        <div style={{ padding: "40px 0", display: "flex", justifyContent: "center" }}>
+          <div style={{ width: 60, height: 1.5, background: "#E2D5CA" }} />
+        </div>
+
+        {/* ═══════ MECHANISM: Myth vs Fact ═══════ */}
+        <div style={{ padding: "0 22px 24px" }}>
+          <div style={{
+            borderLeft: "3px solid #E8826A", borderRadius: 8,
+            background: "#FDF8F3", padding: "16px 16px 16px 20px",
+          }}>
+            <p style={{
+              margin: "0 0 14px", fontSize: 20, fontWeight: 500,
+              color: B.ink, lineHeight: 1.4,
+            }}>
+              This called the <strong>interoception gap</strong> — the space between your child's body sending a signal and his brain receiving it.
+            </p>
+            <p style={{ margin: "0 0 14px", fontSize: 18, lineHeight: 1.6, color: "#3D322C" }}>
+              The signal arrives, but milliseconds or minutes too late. That's why timed methods don't work: you can't build awareness with a clock. You need a signal — a real, physical cue that his nervous system can recognize before the event.
+            </p>
+            <p style={{ margin: 0, fontSize: 18, lineHeight: 1.6, color: "#3D322C" }}>
+              The body-signal underwear creates a gentle sensation that lasts, 30 to 60 seconds of feedback, that bridges that gap.
+            </p>
+          </div>
+        </div>
+
+        {/* ═══════ DIVIDER ═══════ */}
+        <div style={{ padding: "40px 0", display: "flex", justifyContent: "center" }}>
+          <div style={{ width: 60, height: 1.5, background: "#E2D5CA" }} />
+        </div>
+
+        {/* ═══════ SOCIAL PROOF: Yellow Quote Block ═══════ */}
+        <div style={{ padding: "0 22px 24px" }}>
+          <div style={{
+            background: "#FFD866", borderRadius: 16, padding: 20,
+          }}>
+            <p style={{
+              margin: "0 0 16px", fontSize: 16, fontWeight: 500,
+              color: B.ink, lineHeight: 1.4,
+            }}>
+              Real parents describe it exactly like this:
+            </p>
+
+            {/* Quote 1 */}
+            <div style={{ marginBottom: 14 }}>
+              <p style={{
+                margin: 0, fontSize: 16, lineHeight: 1.5,
+                color: B.ink, fontStyle: "italic",
+              }}>
+                "He says 'I need to pee' AFTER it's already happened."
+              </p>
+              <p style={{ margin: "4px 0 0", fontSize: 13, color: "#3D322C" }}>
+                — L1 parent
+              </p>
+            </div>
+
+            {/* Quote 2 */}
+            <div style={{ marginBottom: 14 }}>
+              <p style={{
+                margin: 0, fontSize: 16, lineHeight: 1.5,
+                color: B.ink, fontStyle: "italic",
+              }}>
+                "Some days he's great, other days zero."
+              </p>
+              <p style={{ margin: "4px 0 0", fontSize: 13, color: "#3D322C" }}>
+                — L1 parent
+              </p>
+            </div>
+
+            {/* Quote 3 */}
+            <div style={{ marginBottom: 14 }}>
+              <p style={{
+                margin: 0, fontSize: 16, lineHeight: 1.5,
+                color: B.ink, fontStyle: "italic",
+              }}>
+                "Is this interoception or stubbornness? That's the question I kept asking."
+              </p>
+              <p style={{ margin: "4px 0 0", fontSize: 13, color: "#3D322C" }}>
+                — L1 parent
+              </p>
+            </div>
+
+            {/* Closing */}
+            <p style={{ margin: 0, fontSize: 16, lineHeight: 1.6, color: B.ink }}>
+              Every mom who's been where you are now will tell you the same thing: once you understand the gap, everything changes. Not because the methods get better, because you finally stop fighting the wrong problem.
+            </p>
+          </div>
+        </div>
+
+        {/* ═══════ DIVIDER ═══════ */}
+        <div style={{ padding: "40px 0", display: "flex", justifyContent: "center" }}>
+          <div style={{ width: 60, height: 1.5, background: "#E2D5CA" }} />
+        </div>
+
+        {/* ═══════ PRODUCT: ProductShowcaseMedium ═══════ */}
+        <ProductShowcaseMedium
+          eyebrow="The product"
+          title="BrightKidCo Body-Signal Learning Layer™ Pants"
+          priceFrom="€34"
+          ctaButton="See the pants"
+        />
+
+        {/* ═══════ DIVIDER ═══════ */}
+        <div style={{ padding: "40px 0", display: "flex", justifyContent: "center" }}>
+          <div style={{ width: 60, height: 1.5, background: "#E2D5CA" }} />
+        </div>
+
+        {/* ═══════ TRUST: 60-Day Seal ═══════ */}
+        <div style={{ padding: "0 22px 24px" }}>
+          <div style={{
+            background: "#FDF8F3", borderRadius: 16, padding: 24,
+            textAlign: "center",
+          }}>
+            <p style={{
+              margin: "0 0 12px", fontSize: 20, fontWeight: 500,
+              color: B.ink, lineHeight: 1.4,
+            }}>
+              You don't have to believe the science. You just have to try it.
+            </p>
+            <p style={{ margin: "0 0 12px", fontSize: 18, lineHeight: 1.6, color: "#3D322C" }}>
+              <strong>60 days. By your judgment.</strong> If your child shows no sign of body awareness, no pause, no look, no step toward the potty, full refund. No questions. No forms. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.
+            </p>
+            <p style={{ margin: 0, fontSize: 18, lineHeight: 1.6, color: "#3D322C" }}>
+              And Pre-K is coming. Every week of body-signal learning is a week closer to closing that gap.
+            </p>
+          </div>
+        </div>
+
+        {/* ═══════ CTA: Gentle Invite ═══════ */}
+        <div style={{ background: "#1B2D45", padding: "20px 22px 44px", textAlign: "center" }}>
+          {/* Coral micro-text */}
+          <p style={{
+            margin: "0 0 16px", fontSize: 13, fontWeight: 600,
+            color: "#E06B52", letterSpacing: 0.5,
+          }}>
+            Pre-K prep starts here
+          </p>
+
+          {/* CTA Button */}
+          <a href="#" style={{
+            display: "block", padding: "14px 36px",
+            background: "#1B2D45", color: "#FFFFFF",
+            border: "2px solid #FFFFFF", borderRadius: 6,
+            fontSize: 17, fontWeight: 700,
+            textDecoration: "none", textAlign: "center",
+            letterSpacing: 0.4,
+          }}>
+            See the Body-Signal System in Action →
+          </a>
+
+          {/* Price note */}
+          <p style={{
+            margin: "20px 0 0", fontSize: 16, lineHeight: 1.6,
+            color: "#B8CACD",
+          }}>
+            That's $13.33 per pair with the bundle — less than half the single-pair price.
+          </p>
+
+          {/* Secondary link */}
+          <p style={{ margin: "14px 0 0" }}>
+            <a href="#" style={{
+              color: "#B8CACD", fontSize: 14,
+              textDecoration: "underline",
+            }}>
+              Learn how 6 pairs build the learning rotation
+            </a>
+          </p>
+        </div>
+
+        {/* ═══════ NEXT TIME TEASER ═══════ */}
+        <div style={{ padding: "24px 22px", background: "#FAF9F7" }}>
+          <p style={{
+            margin: 0, fontSize: 16, fontStyle: "italic",
+            color: "#3D322C", lineHeight: 1.6,
+          }}>
+            Next time: The research behind the body-signal approach — and why 49% of children face this gap.
+          </p>
+        </div>
+
+        {/* ═══════ SIGNOFF ═══════ */}
+        <Signoff />
+
+        {/* ═══════ OUTLINE + FOOTER ═══════ */}
+        <OutLine />
+        <Footer />
+
+      </EmailShell>
+    );
+
+    /* ─── Mount ─── */
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<Email_Welcome_E2_L1 />);
+  </script>
+</body>
+</html>

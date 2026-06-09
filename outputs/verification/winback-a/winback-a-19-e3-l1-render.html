@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=420">
+<link href="https://fonts.googleapis.com/css2?family=Questrial&family=Fraunces:ital,wght@0,400;0,700;1,400&family=Caveat:wght@400;500;700&display=swap" rel="stylesheet">
+<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<style>body{margin:0;padding:0;background:#f5f5f5;display:flex;justify-content:center;}</style>
+</head><body>
+<div id="root"></div>
+<script type="text/babel">
+
+window.BRAND = {
+  teal: "#2BAEB4", tealDeep: "#1E8A8F", green: "#5DD07A", greenDeep: "#3BB35E",
+  ink: "#1F2D2F", soft: "#4A6568", muted: "#8A9B9D", cream: "#FBF7F1", paper: "#FFFFFF",
+  gradient: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+  gradientText: {
+    background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+    WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent",
+    backgroundClip: "text", color: "transparent",
+  },
+};
+window.FONT = { main: "'Questrial', system-ui, sans-serif", display: "'Fraunces', Georgia, serif" };
+window.FLOW1_SHARED = {
+  signoff: { line1: "A note from", name: "Lena Bauer", ps: "My older son was 8 before we figured this out. If you've stepped back from trying, I get it. When you're ready, the science will still be here. 60 days, your judgment." },
+  out: "Built for the brain that learns differently.",
+  footer: { tagline: "BrightKidCo", links: ["Shop", "Our Story", "Support"], address: "BrightKidCo, 123 Learning Lane, Portland, OR 97201" },
+};
+
+/* Welcome Flow · Shared primitives
+   — Reused across all 6 emails so they feel like one family.
+*/
+
+const MW = 420;
+const LOGO = "brightkidco-logo-v2.png";
+const B = window.BRAND;
+const F = window.FONT;
+
+/* ── Image placeholder (dashed teal frame) ── */
+const ImgFrame = ({ height = 200, label, sublabel, radius = 20, aspect }) => (
+  <div style={{
+    position: "relative", width: "100%", height: aspect ? undefined : height,
+    aspectRatio: aspect, background: "#FFFFFF", border: `2px dashed ${B.teal}`,
+    borderRadius: radius, display: "flex", flexDirection: "column",
+    alignItems: "center", justifyContent: "center", padding: "18px 22px",
+    textAlign: "center", overflow: "hidden",
+  }}>
+    <svg width="14" height="14" style={{ position: "absolute", top: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,6 L1,1 L6,1" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", top: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,1 L13,1 L13,6" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", bottom: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,8 L1,13 L6,13" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", bottom: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,13 L13,13 L13,8" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="32" height="32" viewBox="0 0 32 32" style={{ marginBottom: 10, opacity: 0.5 }}>
+      <rect x="3" y="6" width="26" height="20" rx="3" stroke={B.teal} strokeWidth="1.8" fill="none" />
+      <circle cx="11" cy="13" r="2.5" fill={B.teal} opacity="0.5" />
+      <path d="M5,23 L12,16 L18,21 L22,18 L27,23" stroke={B.teal} strokeWidth="1.8" fill="none" strokeLinejoin="round" />
+    </svg>
+    <div style={{ fontFamily: F.main, fontSize: 12.5, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase", color: B.teal, marginBottom: 6 }}>{label}</div>
+    <div style={{ fontFamily: F.main, fontSize: 12, lineHeight: 1.5, color: B.soft, maxWidth: 300 }}>{sublabel}</div>
+  </div>
+);
+
+/* ── Framed image wrapper (black border + drop-shadow ink block) ── */
+const FramedImage = ({ children, height, label, sublabel, shadow = 4 }) => (
+  <div style={{ borderRadius: 20, overflow: "hidden", border: `2px solid ${B.ink}`, boxShadow: `${shadow}px ${shadow}px 0 ${B.ink}` }}>
+    <ImgFrame height={height} radius={0} label={label} sublabel={sublabel} />
+    {children}
+  </div>
+);
+
+/* ── Gradient transition band ── */
+const Band = ({ from, to, height = 40 }) => (
+  <div style={{ height, background: `linear-gradient(180deg, ${from} 0%, ${to} 100%)` }} />
+);
+
+/* ── Header with logo ── */
+const Header = ({ bg }) => (
+  <div style={{ background: bg, padding: "24px 20px 0", textAlign: "center" }}>
+    <img src={LOGO} alt="BrightKidCo" style={{ height: 34 }} />
+  </div>
+);
+
+/* ── Part badge (sticker) ── */
+const PartBadge = ({ children }) => (
+  <div style={{
+    display: "inline-block", background: "#FFD866",
+    padding: "7px 14px", borderRadius: 999, fontSize: 10.5,
+    fontWeight: 700, letterSpacing: 1.5, textTransform: "uppercase",
+    marginBottom: 16, border: `2px solid ${B.ink}`, transform: "rotate(-1.5deg)",
+    whiteSpace: "nowrap", lineHeight: 1.4,
+  }}>{children}</div>
+);
+
+/* ── Title block ── */
+const TitleBlock = ({ badge, part1, part2, accent2 = true, subhead }) => (
+  <div style={{ padding: "34px 22px 0", textAlign: "center" }}>
+    <PartBadge>{badge}</PartBadge>
+    <h1 style={{ fontSize: 40, lineHeight: 1, fontWeight: 700, margin: 0, letterSpacing: -0.8 }}>
+      {part1}<br/>
+      {accent2 ? <span style={{ ...B.gradientText, fontWeight: 700 }}>{part2}</span> : part2}
+    </h1>
+    {subhead && (
+      <p style={{ fontSize: 17, color: B.soft, marginTop: 14, lineHeight: 1.4, fontWeight: 500 }}>{subhead}</p>
+    )}
+  </div>
+);
+
+/* ── Letter block (plain paragraph stack, warm bg) ── */
+const Letter = ({ bg, paras, first }) => (
+  <div style={{ background: bg, padding: "4px 24px 28px", fontSize: 15, lineHeight: 1.7, color: B.soft }}>
+    {first && <p style={{ margin: "0 0 14px", fontSize: 17, color: B.ink, fontWeight: 600 }}>{first}</p>}
+    {paras.map((p, i) => (
+      <p key={i} style={{ margin: i === paras.length - 1 ? 0 : "0 0 14px" }}>{p}</p>
+    ))}
+  </div>
+);
+
+/* ── Section eyebrow ── */
+const Eyebrow = ({ children, color = B.tealDeep }) => (
+  <div style={{ fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color, fontWeight: 700, marginBottom: 10 }}>{children}</div>
+);
+
+/* ── Section H2 with gradient accent word ── */
+const H2 = ({ children, center, size = 28 }) => (
+  <h2 style={{ fontSize: size, lineHeight: 1.15, fontWeight: 700, margin: "0 0 16px", letterSpacing: -0.4, textAlign: center ? "center" : "left" }}>{children}</h2>
+);
+
+/* ── CTA section (dark ink) ── */
+const CTAClose = ({ intro, button, fine, bg = B.ink }) => (
+  <div style={{ background: bg, padding: "20px 22px 44px", textAlign: "center", color: "#FFF" }}>
+    <p style={{ fontSize: 14, lineHeight: 1.6, color: "#B8CACD", margin: "0 0 24px" }}>{intro}</p>
+    <a href="#" style={{
+      display: "inline-block", padding: "17px 32px",
+      background: "#D8F57C", color: B.ink, fontSize: 15.5, fontWeight: 700,
+      textDecoration: "none", borderRadius: 999, letterSpacing: 0.3,
+    }}>{button} →</a>
+    {fine && <div style={{ marginTop: 16, fontSize: 11.5, color: "#8A9B9D" }}>{fine}</div>}
+  </div>
+);
+
+/* ── Signoff (personal · Lena)
+   Warm, human close: avatar + handwritten signature + role + P.S.
+   Used at end of every email in Flow 1 + Flow 2.
+*/
+const Signoff = ({ bg = B.ink }) => {
+  const s = window.FLOW1_SHARED.signoff;
+  return (
+    <div style={{ background: bg, padding: "0 22px 36px" }}>
+      <div style={{
+        position: "relative",
+        background: "#1F2A2C",
+        border: "1.5px solid #2F3D40",
+        borderRadius: 22,
+        padding: "26px 24px 24px",
+        overflow: "hidden",
+      }}>
+        {/* subtle top gradient accent */}
+        <div style={{
+          position: "absolute", top: 0, left: 0, right: 0, height: 4,
+          background: B.gradient, opacity: 0.9,
+        }} />
+
+        {/* Top row: avatar + name/role */}
+        <div style={{ display: "flex", alignItems: "center", gap: 14, marginBottom: 18 }}>
+          {/* Avatar with warm ring */}
+          <div style={{
+            width: 58, height: 58, flexShrink: 0,
+            borderRadius: "50%",
+            background: `linear-gradient(135deg, #FFD866 0%, ${B.teal} 100%)`,
+            padding: 2.5,
+            position: "relative",
+          }}>
+            <div style={{
+              width: "100%", height: "100%", borderRadius: "50%",
+              background: "#FFFDF6",
+              display: "flex", alignItems: "center", justifyContent: "center",
+              overflow: "hidden",
+              border: `1.5px solid ${B.ink}`,
+            }}>
+              {/* Portrait placeholder — swap src for real photo */}
+              <svg width="58" height="58" viewBox="0 0 58 58">
+                <rect width="58" height="58" fill="#F5E8D0" />
+                {/* simple warm portrait silhouette */}
+                <circle cx="29" cy="22" r="10" fill="#D4A574" />
+                <path d="M10,58 C10,42 18,34 29,34 C40,34 48,42 48,58 Z" fill="#C98C6B" />
+                <text x="29" y="55" textAnchor="middle" fontSize="6" fill={B.ink} fontWeight="700" letterSpacing="0.5" opacity="0.4">PHOTO</text>
+              </svg>
+            </div>
+          </div>
+
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <div style={{
+              fontSize: 10.5, letterSpacing: 1.6, textTransform: "uppercase",
+              color: "#8FAFB2", fontWeight: 700, marginBottom: 2,
+            }}>
+              A note from
+            </div>
+            <div style={{ fontSize: 17, fontWeight: 700, color: "#FFFFFF", lineHeight: 1.2 }}>
+              Lena Bauer
+            </div>
+            <div style={{ fontSize: 12, color: "#8FAFB2", marginTop: 2, fontStyle: "italic" }}>
+              Founder · BrightKidCo · Mom of two
+            </div>
+          </div>
+        </div>
+
+        {/* Handwritten signature — Caveat font, gradient accent color */}
+        <div style={{
+          display: "flex", alignItems: "center", gap: 14,
+          paddingTop: 16, paddingBottom: 16,
+          borderTop: "1.5px dashed #3A4547",
+          borderBottom: "1.5px dashed #3A4547",
+          marginBottom: 16,
+        }}>
+          <div style={{ flex: 1 }}>
+            <div style={{ fontSize: 12.5, color: "#B8CACD", marginBottom: 2 }}>
+              {s.line1}
+            </div>
+            <div style={{
+              fontFamily: "'Caveat', cursive",
+              fontSize: 42,
+              lineHeight: 0.95,
+              fontWeight: 500,
+              color: "#D8F57C",
+              letterSpacing: -0.5,
+              marginTop: 2,
+            }}>
+              Lena
+            </div>
+          </div>
+
+          {/* tiny flourish SVG */}
+          <svg width="54" height="40" viewBox="0 0 54 40" style={{ flexShrink: 0, opacity: 0.55 }}>
+            <path d="M2,20 C8,10 16,28 24,18 C30,10 38,26 48,14 L52,10" stroke="#D8F57C" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+            <path d="M48,12 L52,10 L50,14" stroke="#D8F57C" strokeWidth="1.5" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </div>
+
+        {/* Personal P.S. */}
+        <div style={{
+          fontSize: 13, lineHeight: 1.65, color: "#B8CACD",
+          fontStyle: "italic",
+        }}>
+          <span style={{ color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 }}>
+            P.S.
+          </span>
+          {s.ps.replace(/^P\.S\.\s*/, "")}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+/* ── Soft "Out" line (unsubscribe-adjacent, calming) ── */
+const OutLine = ({ bg = "#FFFFFF" }) => (
+  <div style={{ background: bg, padding: "18px 24px 0", textAlign: "center", fontSize: 12.5, color: B.muted, fontStyle: "italic" }}>
+    {window.FLOW1_SHARED.out}
+  </div>
+);
+
+/* ── BREZ-inspired footer ── */
+const Footer = () => {
+  const f = window.FLOW1_SHARED.footer;
+  return (
+    <div style={{ background: "#FFFFFF", padding: "30px 24px 30px", textAlign: "center" }}>
+      <div style={{ fontFamily: F.display, fontSize: 20, fontStyle: "italic", fontWeight: 500, color: B.ink, marginBottom: 30, letterSpacing: -0.2 }}>
+        {f.tagline}
+      </div>
+      {f.links.map((l, i) => (
+        <div key={i} style={{ fontSize: 14, color: B.ink, fontWeight: 500, marginBottom: 14 }}>
+          <a href="#" style={{ color: B.ink, textDecoration: "none" }}>{l}</a>
+        </div>
+      ))}
+      <div style={{ display: "flex", justifyContent: "center", gap: 22, margin: "14px 0 28px" }}>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="0.8" fill={B.ink} stroke="none" /></svg></a>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M16 3h-3a5 5 0 0 0-5 5v3H5v4h3v8h4v-8h3l1-4h-4V8a1 1 0 0 1 1-1h3z" strokeLinejoin="round" /></svg></a>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M9 12a4 4 0 1 0 4 4V4c.5 2.5 2.5 4.5 5 5" strokeLinecap="round" strokeLinejoin="round" /></svg></a>
+      </div>
+      <div style={{ fontSize: 11.5, color: B.muted, lineHeight: 1.65, margin: "0 auto", maxWidth: 340 }}>
+        No longer want to receive these emails? <a href="#" style={{ color: B.ink, textDecoration: "underline" }}>Unsubscribe</a>.<br/>
+        <span style={{ fontSize: 11 }}>{f.address}</span>
+      </div>
+      <div style={{ margin: "28px auto 0", width: 60, height: 3, background: B.gradient, borderRadius: 3 }} />
+    </div>
+  );
+};
+
+/* ── Email shell (wraps each email) ── */
+const EmailShell = ({ children, preheader, bg }) => (
+  <div style={{ width: MW, background: bg, fontFamily: F.main, color: B.ink }}>
+    {/* preheader (hidden in email clients, visible in preview) */}
+    <div style={{ padding: "6px 20px", fontSize: 11, color: B.muted, background: "#F6F2EA", textAlign: "center", fontStyle: "italic" }}>
+      Preheader: {preheader}
+    </div>
+    {children}
+  </div>
+);
+
+
+/* Product Placement Components
+   Three variants for different email contexts:
+   - ProductShowcaseFull   → E4, E6 (hero product moment)
+   - ProductShowcaseMedium → E5 (Sarah's story, inline)
+   - ProductShowcaseSoft   → E2, E3 (end-of-email gentle nod)
+*/
+
+/* ═════════════════════════════════════════════════════
+   FULL · Hero product block
+   Lifestyle hero + price + 3 feature pills + sub-grid + CTA
+   Used in: Email 4, Email 6
+   ═════════════════════════════════════════════════════ */
+const ProductShowcaseFull = ({ eyebrow, title, titleAccent, sub, priceFrom = "€34", priceNote = "Starter pair · 10% off first order", features, ctaButton, guaranteeBadge = true }) => {
+  const defaultFeatures = features || [
+    { icon: "◉", label: "Body-Signal Layer™" },
+    { icon: "✓", label: "60-day guarantee" },
+    { icon: "♡", label: "Sensory-friendly" },
+  ];
+
+  return (
+    <div style={{ padding: "28px 14px 20px" }}>
+      {/* Intro */}
+      <div style={{ textAlign: "center", marginBottom: 18, padding: "0 16px" }}>
+        <Eyebrow>{eyebrow || "The product"}</Eyebrow>
+        <H2 size={28} center>
+          {title}{" "}
+          <span style={{ ...B.gradientText, fontWeight: 700 }}>{titleAccent}</span>
+        </H2>
+        {sub && (
+          <p style={{ fontSize: 14, color: B.soft, lineHeight: 1.55, margin: "8px 0 0" }}>{sub}</p>
+        )}
+      </div>
+
+      {/* Main product card */}
+      <div style={{
+        background: "#FFFFFF",
+        border: `2px solid ${B.ink}`,
+        borderRadius: 24,
+        overflow: "hidden",
+        boxShadow: `6px 6px 0 ${B.ink}`,
+      }}>
+        {/* Hero shot */}
+        <div style={{ position: "relative", background: "#FFFDF6" }}>
+          <ImgFrame
+            height={300}
+            radius={0}
+            label="PRODUCT · HERO SHOT"
+            sublabel="Lifestyle on-body · toddler wearing BrightKidCo pants · natural pose, soft window light. Ratio ~4:5"
+          />
+          {/* floating guarantee badge */}
+          {guaranteeBadge && (
+            <div style={{
+              position: "absolute", top: 14, right: 14,
+              background: "#FFD866", border: `2px solid ${B.ink}`,
+              borderRadius: 999, padding: "6px 12px",
+              fontSize: 10, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase",
+              transform: "rotate(4deg)", boxShadow: `2px 2px 0 ${B.ink}`,
+              display: "flex", alignItems: "center", gap: 5,
+            }}>
+              <span style={{ fontSize: 13 }}>✿</span>
+              <span>60 days calm</span>
+            </div>
+          )}
+        </div>
+
+        {/* Product info block */}
+        <div style={{ padding: "22px 22px 22px", borderTop: `2px solid ${B.ink}` }}>
+          {/* name + price row */}
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 14, marginBottom: 14 }}>
+            <div style={{ flex: 1 }}>
+              <div style={{ fontSize: 10.5, letterSpacing: 1.5, textTransform: "uppercase", color: B.tealDeep, fontWeight: 700, marginBottom: 4 }}>
+                BrightKidCo
+              </div>
+              <h3 style={{ margin: 0, fontSize: 19, fontWeight: 700, lineHeight: 1.2, color: B.ink }}>
+                Body-Signal Learning<br/>Layer™ Pants
+              </h3>
+            </div>
+            <div style={{ textAlign: "right", flexShrink: 0 }}>
+              <div style={{ fontSize: 10, color: B.muted, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase" }}>From</div>
+              <div style={{ fontSize: 28, fontWeight: 700, color: B.ink, lineHeight: 1, letterSpacing: -0.5 }}>
+                {priceFrom}
+              </div>
+            </div>
+          </div>
+
+          {/* price note */}
+          <div style={{ fontSize: 12.5, color: B.soft, marginBottom: 18, fontStyle: "italic" }}>
+            {priceNote}
+          </div>
+
+          {/* feature pills */}
+          <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 20 }}>
+            {defaultFeatures.map((f, i) => (
+              <div key={i} style={{
+                display: "flex", alignItems: "center", gap: 6,
+                padding: "7px 12px",
+                background: "#FAF7F0", border: `1.5px solid ${B.ink}`,
+                borderRadius: 999, fontSize: 11.5, fontWeight: 600,
+                color: B.ink,
+              }}>
+                <span style={{ color: B.teal, fontWeight: 700 }}>{f.icon}</span>
+                <span>{f.label}</span>
+              </div>
+            ))}
+          </div>
+
+          {/* CTA button */}
+          <a href="#" style={{
+            display: "block",
+            padding: "16px 24px",
+            background: B.ink,
+            color: "#D8F57C",
+            fontSize: 15, fontWeight: 700,
+            textDecoration: "none", borderRadius: 999,
+            textAlign: "center",
+            letterSpacing: 0.3,
+          }}>
+            {ctaButton || "Shop the pants"} →
+          </a>
+
+          {/* micro trust line */}
+          <div style={{ marginTop: 12, textAlign: "center", fontSize: 11, color: B.muted, letterSpacing: 0.3 }}>
+            Free shipping on orders over €50 · 60-day guarantee · Real returns
+          </div>
+        </div>
+      </div>
+
+      {/* 2-up sub row */}
+      <div style={{ display: "flex", gap: 10, marginTop: 12 }}>
+        <div style={{
+          flex: 1, background: "#FFFFFF",
+          border: `2px solid ${B.ink}`, borderRadius: 14,
+          overflow: "hidden", boxShadow: `3px 3px 0 ${B.ink}`,
+        }}>
+          <div style={{ background: `${B.teal}15` }}>
+            <ImgFrame height={110} radius={0} label="COLOURWAY 01" sublabel="Sage · soft green" />
+          </div>
+          <div style={{ padding: "10px 12px", fontSize: 11.5, fontWeight: 700, color: B.ink, textAlign: "center", borderTop: `2px solid ${B.ink}` }}>
+            3 colourways
+          </div>
+        </div>
+        <div style={{
+          flex: 1, background: "#FFFFFF",
+          border: `2px solid ${B.ink}`, borderRadius: 14,
+          overflow: "hidden", boxShadow: `3px 3px 0 ${B.ink}`,
+        }}>
+          <div style={{ background: `${B.green}15` }}>
+            <ImgFrame height={110} radius={0} label="SIZE RANGE" sublabel="2T · 3T · 4T · 5T · 6T" />
+          </div>
+          <div style={{ padding: "10px 12px", fontSize: 11.5, fontWeight: 700, color: B.ink, textAlign: "center", borderTop: `2px solid ${B.ink}` }}>
+            Ages 2–7
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+/* ═════════════════════════════════════════════════════
+   MEDIUM · Inline product card with Sarah-style context
+   Side-by-side image + info, clean
+   Used in: Email 5
+   ═════════════════════════════════════════════════════ */
+const ProductShowcaseMedium = ({ eyebrow, title, priceFrom = "€34", ctaButton }) => (
+  <div style={{ padding: "12px 14px 20px" }}>
+    <div style={{
+      background: "#FFFFFF",
+      border: `2px solid ${B.ink}`,
+      borderRadius: 20,
+      overflow: "hidden",
+      boxShadow: `4px 4px 0 ${B.ink}`,
+    }}>
+      {/* Two-column: image + content */}
+      <div style={{ display: "flex", alignItems: "stretch" }}>
+        <div style={{ width: 140, flexShrink: 0, borderRight: `2px solid ${B.ink}`, background: "#FFFDF6" }}>
+          <ImgFrame
+            height={220}
+            radius={0}
+            label="PRODUCT"
+            sublabel=""
+          />
+        </div>
+        <div style={{ padding: "18px 18px", flex: 1, display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
+          <div>
+            <div style={{ fontSize: 10, letterSpacing: 1.4, textTransform: "uppercase", color: B.tealDeep, fontWeight: 700, marginBottom: 6 }}>
+              {eyebrow || "The method Sarah used"}
+            </div>
+            <h3 style={{ margin: "0 0 10px", fontSize: 17, fontWeight: 700, lineHeight: 1.2, color: B.ink }}>
+              {title || "Body-Signal Learning Layer™"}
+            </h3>
+            <div style={{ display: "flex", alignItems: "baseline", gap: 6, marginBottom: 12 }}>
+              <span style={{ fontSize: 20, fontWeight: 700, color: B.ink, letterSpacing: -0.3 }}>{priceFrom}</span>
+              <span style={{ fontSize: 11, color: B.soft }}>starter pair</span>
+            </div>
+            <div style={{ fontSize: 11.5, color: B.soft, lineHeight: 1.5 }}>
+              60-day calm-progress guarantee. Return anytime, any reason.
+            </div>
+          </div>
+          <a href="#" style={{
+            display: "inline-block",
+            padding: "11px 18px",
+            background: B.ink,
+            color: "#D8F57C",
+            fontSize: 13, fontWeight: 700,
+            textDecoration: "none", borderRadius: 999,
+            textAlign: "center", marginTop: 14,
+            letterSpacing: 0.2,
+          }}>
+            {ctaButton || "See the pants"} →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+);
+
+/* ═════════════════════════════════════════════════════
+   SOFT · End-of-email gentle product mention
+   Tiny, text-forward, not pushy
+   Used in: Email 2, Email 3
+   ═════════════════════════════════════════════════════ */
+const ProductShowcaseSoft = ({ eyebrow, line, ctaText = "See the different path" }) => (
+  <div style={{ padding: "8px 22px 20px" }}>
+    <div style={{
+      background: "#FFFDF6",
+      border: `2px dashed ${B.teal}`,
+      borderRadius: 16,
+      padding: "18px 18px",
+      display: "flex", gap: 14, alignItems: "center",
+    }}>
+      {/* tiny product thumb */}
+      <div style={{
+        width: 60, height: 60, flexShrink: 0,
+        background: "#FFFFFF", borderRadius: 12,
+        border: `1.5px solid ${B.ink}`,
+        display: "flex", alignItems: "center", justifyContent: "center",
+      }}>
+        <svg width="28" height="28" viewBox="0 0 32 32">
+          <rect x="6" y="8" width="20" height="16" rx="4" stroke={B.teal} strokeWidth="1.8" fill="none" />
+          <rect x="6" y="8" width="20" height="5" rx="2" fill={B.teal} opacity="0.2" />
+          <circle cx="10" cy="11" r="0.8" fill={B.teal} />
+          <circle cx="22" cy="11" r="0.8" fill={B.teal} />
+        </svg>
+      </div>
+      <div style={{ flex: 1 }}>
+        <div style={{ fontSize: 10, letterSpacing: 1.3, textTransform: "uppercase", color: B.tealDeep, fontWeight: 700, marginBottom: 3 }}>
+          {eyebrow || "Designed around this"}
+        </div>
+        <div style={{ fontSize: 13, color: B.ink, lineHeight: 1.45, marginBottom: 8, fontWeight: 500 }}>
+          {line}
+        </div>
+        <a href="#" style={{
+          display: "inline-block",
+          fontSize: 12.5, fontWeight: 700,
+          color: B.tealDeep, textDecoration: "none",
+          borderBottom: `1.5px solid ${B.tealDeep}`,
+          paddingBottom: 2,
+        }}>
+          {ctaText} →
+        </a>
+      </div>
+    </div>
+  </div>
+);
+
+
+/* Winback Path A — E3 | Level 1 (Sarah)
+   Wireframe: wireframes/winback-a/winback-a-19-e3-l1.md
+   Copy: copy/winback-a/winback-a-19-e3-l1.md
+   Strategy: strategy-map.json → flows.winback-a.emails.e3-l1
+   Generated: 2026-06-09
+*/
+
+const Email_winback_a_19_e3_l1 = () => (
+  <EmailShell preheader="It's been a while. If your child is verbal, smart, and still not feeling the signal, here's why that's not defiance. And why you still have time." bg="#FBF7F1">
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 1: PREHEADER BAR
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ width: "100%", height: 36, background: "#FBF7F1", padding: "8px 30px", fontFamily: F.main, fontSize: 12, fontWeight: 400, lineHeight: 1.4, color: "#8A9B9D", textAlign: "left" }}>
+      It's been a while. If your child is verbal, smart, and still not feeling the signal, here's why that's not defiance. And why you still have time.
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 2: HEADER — Logo + From Name
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", borderBottom: "1px solid #E8E2DA", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+      <img src={LOGO} alt="BrightKidCo" style={{ height: 34 }} />
+      <div style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, color: "#4A6568" }}>
+        Lena from BrightKidCo
+      </div>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 3: HERO — HERO-10 Bold Declaration
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "44px 30px 24px" }}>
+
+      {/* Eyebrow */}
+      <div style={{ fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color: "#2BAEB4", fontWeight: 700, fontFamily: F.main, marginBottom: 16 }}>
+        DAY 14 · FINAL TOUCH
+      </div>
+
+      {/* Hero Image */}
+      <div style={{ width: "100%", marginBottom: 24 }}>
+        <ImgFrame height={200} label="Hero Product" sublabel="BrightKidCo training pants — unicorn pink, clean flat-lay" radius={16} />
+      </div>
+
+      {/* Heading — verbatim */}
+      <h1 style={{ fontFamily: F.main, fontSize: 28, fontWeight: 600, lineHeight: 1.15, letterSpacing: -0.02, color: "#1F2D2F", margin: "0 0 16px" }}>
+        Pre-K is coming, here's the gap you can still close
+      </h1>
+
+      {/* Subhead — verbatim */}
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: 0 }}>
+        It's been a while. If your child is verbal, smart, and still not feeling the signal, here's why that's not defiance. And why you still have time.
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 4: DESDEEP-8 — Icon Story (Pre-K themed)
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ padding: "20px 30px", textAlign: "center" }}>
+      <div style={{ display: "flex", justifyContent: "center", gap: 16, alignItems: "center" }}>
+        {/* Backpack icon */}
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2BAEB4" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M6 18 L6 8a6 6 0 0 1 12 0v10" />
+          <rect x="4" y="10" width="16" height="12" rx="2" />
+          <circle cx="12" cy="15" r="1" />
+        </svg>
+        {/* Clock icon */}
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2BAEB4" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="12" cy="12" r="10" />
+          <path d="M12 6v6l4 2" />
+        </svg>
+        {/* School icon */}
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2BAEB4" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <path d="M3 21h18M3 10h18M12 3l9 7-9 7-9-7z" />
+          <path d="M6 21v-7M18 21v-7" />
+        </svg>
+      </div>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 5: LETTER-02 — Hook (Handwritten Opener)
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568" }}>
+      {/* Paragraph 1 — verbatim */}
+      <p style={{ margin: "0 0 16px" }}>
+        It's been a while since we last talked. I know that doesn't mean you've stopped trying, it probably means you've been living in that place between hope and exhaustion where most parents of verbal autistic kids spend their days.
+      </p>
+
+      {/* Paragraph 2 — verbatim */}
+      <p style={{ margin: "0 0 16px" }}>
+        Your child talks. He's smart. He knows his letters, can count, charms everyone at the playground. But potty training? Something isn't clicking. He has good days and bad days. Sometimes he tells you after the fact. Sometimes he doesn't seem to notice at all.
+      </p>
+
+      {/* Paragraph 3 — verbatim */}
+      <p style={{ margin: "0 0 16px" }}>
+        If that sounds familiar, here's what I want to say, in plain terms.
+      </p>
+
+      {/* Paragraph 4 — verbatim, with bold */}
+      <p style={{ margin: 0 }}>
+        It's not defiance. It's not motivation. It's not that you haven't tried hard enough. It's a <strong style={{ fontWeight: 700, color: "#1F2D2F" }}>signal-timing gap</strong>, his nervous system processes the body signal, but the message arrives a few seconds too late. By the time he <em>feels</em> the need to go, it's already happening.
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 6: 1px RULE DIVIDER
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ padding: "0 30px" }}>
+      <div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} />
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 7: LETTER-02 — Validation (Absolve the Guilt)
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568" }}>
+      {/* Intro — verbatim */}
+      <p style={{ margin: "0 0 20px" }}>
+        I want to name something that rarely gets said out loud:
+      </p>
+
+      {/* Pull-Quote Card — L1 recognition marker */}
+      <div style={{ background: "#FBF7F1", borderLeft: "3px solid #2BAEB4", borderRadius: 20, padding: 24, margin: "0 0 20px" }}>
+        <p style={{ fontFamily: "'Fraunces', serif", fontSize: 22, fontStyle: "italic", fontWeight: 400, lineHeight: 1.4, color: "#1F2D2F", margin: 0 }}>
+          "He gets it, but he doesn't get it."
+        </p>
+      </div>
+
+      {/* Body — verbatim, with bold */}
+      <p style={{ margin: "0 0 16px" }}>
+        That sentence, the one that lives in your head and your search history, is not proof that something is wrong with your child or your parenting. It's proof that <strong style={{ fontWeight: 700, color: "#1F2D2F" }}>normal potty training methods assume something your child can't do yet</strong>: feel the signal in time.
+      </p>
+      <p style={{ margin: "0 0 16px" }}>
+        Sticker charts assume motivation will overcome the gap. Timer sits assume the body follows a predictable clock. The naked method assumes sensitivity will trigger awareness. All three assume the signal arrives on time.
+      </p>
+      <p style={{ margin: 0 }}>
+        For a child whose nervous system processes body signals with a delay, none of those methods <em>could</em> have worked. Not because you did them wrong. Because they weren't designed for a brain that learns differently.
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 8: 1px RULE DIVIDER
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ padding: "0 30px" }}>
+      <div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} />
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 9: EDU-3 — Pre-K Window + Mechanism
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FBF7F1", padding: "32px 30px", borderRadius: 20 }}>
+      {/* Eyebrow */}
+      <div style={{ fontFamily: F.main, fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color: "#2BAEB4", fontWeight: 700, marginBottom: 16 }}>
+        THE PRE-K WINDOW
+      </div>
+
+      {/* Body — verbatim, with bold markers */}
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: "0 0 16px" }}>
+        Let me be direct with you, because you can hear this in a way other parents can't.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: "0 0 16px" }}>
+        <strong style={{ fontWeight: 700, color: "#1F2D2F" }}>Pre-K enrollment is a deadline.</strong> Many schools require daytime training before the first day. If your child is 4 or turning 4, you're looking at a window of months, not years.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: "0 0 16px" }}>
+        The good news: <strong style={{ fontWeight: 700, color: "#1F2D2F" }}>the gap you're trying to close is actually smaller than it feels.</strong>
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: "0 0 16px" }}>
+        Your child already has the cognitive piece, he understands the potty, he can communicate, he's shown moments of awareness. What he needs is the one piece standard methods leave out: <strong style={{ fontWeight: 700, color: "#1F2D2F" }}>a way to feel the signal early enough to act on it.</strong>
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: "0 0 16px" }}>
+        The Body-Signal Learning Layer does one thing: it creates a gentle sensation that lasts the moment there's wetness, 30 to 60 seconds of feedback that gives the brain time to register <em>something happened.</em> Over weeks of consistent wear, that delay shrinks. The signal arrives earlier. And one day, it arrives in time.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: 0 }}>
+        Not overnight. Not on a perfect schedule. But weeks, not years, and many parents see the first shift within 2–4 weeks of consistent daily wear.
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 10: 1px RULE DIVIDER
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ padding: "0 30px" }}>
+      <div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} />
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 11: SP-02 — Expert Endorsement
+                   (Pre-K Testimonial)
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "24px 30px" }}>
+      {/* Testimonial Card — verbatim */}
+      <div style={{ background: "#FBF7F1", borderLeft: "3px solid #5DD07A", borderRadius: 20, padding: 24 }}>
+        <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 16px", fontStyle: "italic" }}>
+          "We started three months before Pre-K. The first two weeks, nothing. Week 3, he paused mid-play and looked down. That was the first time he'd ever noticed he was wet. By week 6, he was telling us before, sometimes just seconds before, but before. He started Pre-K on time, in underwear, with an extra set of clothes in his bag. It wasn't a straight line. But it started with that one pause."
+        </p>
+        <p style={{ fontFamily: F.main, fontSize: 13, fontWeight: 500, letterSpacing: "0.05em", color: "#8A9B9D", margin: 0, textTransform: "uppercase" }}>
+          — Sarah, mom of a verbal 4-year-old
+        </p>
+      </div>
+
+      {/* Closing — verbatim */}
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: "20px 0 0" }}>
+        That pause. That look down. That's not luck. That's the signal-timing gap starting to close. And it's the most common first sign parents of verbal kids report.
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 12: 1px RULE DIVIDER
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ padding: "0 30px" }}>
+      <div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} />
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 13: PRODUCT SHOWCASE — FULL
+       (3+3 Bundle with urgency framing)
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "24px 30px" }}>
+      {/* Intro — verbatim */}
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: "0 0 16px" }}>
+        If Pre-K is on your horizon, or even if it's still a few months out, the most important thing you can give your child right now is <strong style={{ fontWeight: 700, color: "#1F2D2F" }}>consistent daily wear</strong>. Not 3 hours a week. Not just on weekends. Every day, for as many hours as your child will tolerate it.
+      </p>
+
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: "0 0 20px" }}>
+        That's why most families start with the <strong style={{ fontWeight: 700, color: "#1F2D2F" }}>3+3 Bundle</strong>, six pairs in rotation so there's always a clean one ready. One in the wash, one in the drawer, one being worn. The nervous system gets more reps per day. The signal builds faster.
+      </p>
+
+      {/* Product Image */}
+      <div style={{ width: "100%", marginBottom: 16 }}>
+        <ImgFrame height={200} label="3+3 Bundle" sublabel="Toddler potty ladder — warm, natural-light setting" radius={16} />
+      </div>
+
+      {/* Product Details */}
+      <div style={{ textAlign: "center" }}>
+        <p style={{ fontFamily: F.main, fontSize: 18, fontWeight: 600, color: "#1F2D2F", margin: "0 0 4px" }}>
+          3+3 Bundle
+        </p>
+        <p style={{ fontFamily: F.main, fontSize: 20, fontWeight: 700, color: "#2BAEB4", margin: "0 0 4px" }}>
+          $79.99
+        </p>
+
+        {/* Savings Badge */}
+        <div style={{ display: "inline-block", background: "#FBF7F1", border: "2px solid #5DD07A", borderRadius: 12, padding: "4px 12px", margin: "0 0 8px" }}>
+          <span style={{ fontFamily: F.main, fontSize: 13, fontWeight: 700, color: "#5DD07A" }}>
+            62% savings vs. single pairs
+          </span>
+        </div>
+
+        <p style={{ fontFamily: F.main, fontSize: 14, color: "#8A9B9D", margin: "0 0 4px" }}>
+          6 pairs total (buy 3, get 3 free) · Free Shipping
+        </p>
+        <p style={{ fontFamily: F.main, fontSize: 14, color: "#8A9B9D", margin: "0 0 4px" }}>
+          60-day money-back guarantee
+        </p>
+      </div>
+
+      {/* Secondary option — verbatim */}
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: "20px 0 8px" }}>
+        Or if one pair is more realistic for your budget right now, that's okay too. The signal doesn't rush. Neither should you. The 60-day guarantee is there either way.
+      </p>
+
+      {/* Secondary Text Link */}
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, margin: 0 }}>
+        <a href="#" style={{ color: "#2BAEB4", textDecoration: "underline", fontWeight: 500 }}>
+          Start with 1 pair for $34.99 →
+        </a>
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 14: CTA-5 — Product CTA (Green Fill)
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", textAlign: "center" }}>
+      {/* Green Fill Button — CTA-5 */}
+      <a href="#" style={{
+        display: "inline-block",
+        padding: "14px 32px",
+        background: "#2BAEB4",
+        color: "#FFFFFF",
+        fontFamily: F.main,
+        fontSize: 18,
+        fontWeight: 700,
+        textDecoration: "none",
+        borderRadius: 999,
+        lineHeight: 1.4,
+      }}>
+        Explore the 3+3 Bundle →
+      </a>
+
+      {/* Subtext — verbatim */}
+      <p style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, color: "#8A9B9D", margin: "20px 0 0" }}>
+        6 pairs · $79.99 · Free shipping · 60 days, your judgment
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 15: 1px RULE DIVIDER
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ padding: "0 30px" }}>
+      <div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} />
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 16: LENA SIGN-OFF — Long Variant
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FFFFFF", padding: "32px 30px" }}>
+      {/* Signoff — verbatim */}
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, color: "#1F2D2F", margin: "0 0 4px" }}>
+        With care,
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 600, color: "#1F2D2F", margin: "0 0 4px" }}>
+        Lena ——
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 13, color: "#8A9B9D", margin: "0 0 20px" }}>
+        Customer Support · Mom of two autistic sons
+      </p>
+
+      {/* P.S. — verbatim */}
+      <p style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: 0, fontStyle: "italic" }}>
+        P.S. My older son was 8 before we figured this out. If you've stepped back from trying, I get it. When you're ready, the science will still be here. 60 days, your judgment.
+      </p>
+    </div>
+
+    {/* ══════════════════════════════════════════════════════
+       SECTION 17: FOOTER
+       ══════════════════════════════════════════════════════ */}
+    <div style={{ background: "#FBF7F1", padding: "20px 30px", textAlign: "center" }}>
+      <p style={{ fontFamily: F.main, fontSize: 12, fontWeight: 400, color: "#8A9B9D", margin: "0 0 8px" }}>
+        <a href="#" style={{ color: "#8A9B9D", textDecoration: "underline" }}>Unsubscribe</a> · <a href="#" style={{ color: "#8A9B9D", textDecoration: "underline" }}>Update Preferences</a>
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 12, fontWeight: 400, color: "#8A9B9D", margin: "0 0 8px" }}>
+        BrightKidCo, Built for the brain that learns differently.
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 12, fontWeight: 400, color: "#8A9B9D", margin: 0 }}>
+        60-day money-back guarantee · Free shipping on bundles · WELCOME10 auto-applies
+      </p>
+    </div>
+
+  </EmailShell>
+);
+
+Object.assign(window, { Email_winback_a_19_e3_l1 });
+window.EMAILS = window.EMAILS || {};
+window.EMAILS["winback-a/winback-a-19-e3-l1"] = Email_winback_a_19_e3_l1;
+
+ReactDOM.createRoot(document.getElementById('root')).render(React.createElement(Email_winback_a_19_e3_l1));
+</script></body></html>

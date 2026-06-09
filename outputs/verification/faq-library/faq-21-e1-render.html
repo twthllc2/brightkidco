@@ -1,0 +1,1817 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>faq-21-e1 Render</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Questrial&family=Fraunces:ital,wght@0,400;0,700;1,400&family=Caveat:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #F5F5F5; display: flex; justify-content: center; padding: 20px; }
+    #root { width: 420px; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script>
+/* Global styles & tokens for all variants
+   Primary: Questrial (Google Font, geometric sans, rounded-adjacent — matches logo)
+   Headline accent: Fraunces for variants that need a serif counterpoint
+   Brand gradient: logo's teal→green
+*/
+window.BRAND = {
+  teal: "#2BAEB4",
+  tealDeep: "#1E8A8F",
+  green: "#5DD07A",
+  greenDeep: "#3BB35E",
+  ink: "#1F2D2F",
+  soft: "#4A6568",
+  muted: "#8A9B9D",
+  cream: "#FBF7F1",
+  paper: "#FFFFFF",
+  gradient: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+  gradientText: {
+    background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+    WebkitBackgroundClip: "text",
+    WebkitTextFillColor: "transparent",
+    backgroundClip: "text",
+    color: "transparent",
+  },
+};
+
+window.FONT = {
+  main: "'Questrial', system-ui, sans-serif",
+  display: "'Fraunces', Georgia, serif", // for a few serif-driven variants
+};
+window.FLOW1_SHARED = {
+      signoff: {
+        line1: 'With you,',
+        name: 'Lena Bauer',
+        ps: 'P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.',
+      },
+      out: "You can pause this series anytime. Come back when you're ready.",
+      footer: {
+        tagline: 'Calm progress, one day at a time.',
+        links: ['Our Method', 'Shop the Pants', 'Parent Stories'],
+        address: 'BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com',
+      },
+    };
+  </script>
+  <script type="text/babel">
+/* Welcome Flow · Shared primitives
+   — Reused across all 6 emails so they feel like one family.
+*/
+
+const MW = 420;
+const LOGO = "../assets/brightkidco-logo-v2.png";
+const B = window.BRAND;
+const F = window.FONT;
+
+/* ── Image placeholder (dashed teal frame) ── */
+const ImgFrame = ({ height = 200, label, sublabel, radius = 20, aspect }) => (
+  <div style={{
+    position: "relative", width: "100%", height: aspect ? undefined : height,
+    aspectRatio: aspect, background: "#FFFFFF", border: `2px dashed ${B.teal}`,
+    borderRadius: radius, display: "flex", flexDirection: "column",
+    alignItems: "center", justifyContent: "center", padding: "18px 22px",
+    textAlign: "center", overflow: "hidden",
+  }}>
+    <svg width="14" height="14" style={{ position: "absolute", top: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,6 L1,1 L6,1" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", top: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,1 L13,1 L13,6" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", bottom: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,8 L1,13 L6,13" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", bottom: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,13 L13,13 L13,8" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="32" height="32" viewBox="0 0 32 32" style={{ marginBottom: 10, opacity: 0.5 }}>
+      <rect x="3" y="6" width="26" height="20" rx="3" stroke={B.teal} strokeWidth="1.8" fill="none" />
+      <circle cx="11" cy="13" r="2.5" fill={B.teal} opacity="0.5" />
+      <path d="M5,23 L12,16 L18,21 L22,18 L27,23" stroke={B.teal} strokeWidth="1.8" fill="none" strokeLinejoin="round" />
+    </svg>
+    <div style={{ fontFamily: F.main, fontSize: 12.5, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase", color: B.teal, marginBottom: 6 }}>{label}</div>
+    <div style={{ fontFamily: F.main, fontSize: 12, lineHeight: 1.5, color: B.soft, maxWidth: 300 }}>{sublabel}</div>
+  </div>
+);
+
+/* ── Framed image wrapper (black border + drop-shadow ink block) ── */
+const FramedImage = ({ children, height, label, sublabel, shadow = 4 }) => (
+  <div style={{ borderRadius: 20, overflow: "hidden", border: `2px solid ${B.ink}`, boxShadow: `${shadow}px ${shadow}px 0 ${B.ink}` }}>
+    <ImgFrame height={height} radius={0} label={label} sublabel={sublabel} />
+    {children}
+  </div>
+);
+
+/* ── Gradient transition band ── */
+const Band = ({ from, to, height = 40 }) => (
+  <div style={{ height, background: `linear-gradient(180deg, ${from} 0%, ${to} 100%)` }} />
+);
+
+/* ── Header with logo ── */
+const Header = ({ bg }) => (
+  <div style={{ background: bg, padding: "24px 20px 0", textAlign: "center" }}>
+    <img src={LOGO} alt="BrightKidCo" style={{ height: 34 }} />
+  </div>
+);
+
+/* ── Part badge (sticker) ── */
+const PartBadge = ({ children }) => (
+  <div style={{
+    display: "inline-block", background: "#FFD866",
+    padding: "7px 14px", borderRadius: 999, fontSize: 10.5,
+    fontWeight: 700, letterSpacing: 1.5, textTransform: "uppercase",
+    marginBottom: 16, border: `2px solid ${B.ink}`, transform: "rotate(-1.5deg)",
+    whiteSpace: "nowrap", lineHeight: 1.4,
+  }}>{children}</div>
+);
+
+/* ── Title block ── */
+const TitleBlock = ({ badge, part1, part2, accent2 = true, subhead }) => (
+  <div style={{ padding: "34px 22px 0", textAlign: "center" }}>
+    <PartBadge>{badge}</PartBadge>
+    <h1 style={{ fontSize: 40, lineHeight: 1, fontWeight: 700, margin: 0, letterSpacing: -0.8 }}>
+      {part1}<br/>
+      {accent2 ? <span style={{ ...B.gradientText, fontWeight: 700 }}>{part2}</span> : part2}
+    </h1>
+    {subhead && (
+      <p style={{ fontSize: 17, color: B.soft, marginTop: 14, lineHeight: 1.4, fontWeight: 500 }}>{subhead}</p>
+    )}
+  </div>
+);
+
+/* ── Letter block (plain paragraph stack, warm bg) ── */
+const Letter = ({ bg, paras, first }) => (
+  <div style={{ background: bg, padding: "4px 24px 28px", fontSize: 15, lineHeight: 1.7, color: B.soft }}>
+    {first && <p style={{ margin: "0 0 14px", fontSize: 17, color: B.ink, fontWeight: 600 }}>{first}</p>}
+    {paras.map((p, i) => (
+      <p key={i} style={{ margin: i === paras.length - 1 ? 0 : "0 0 14px" }}>{p}</p>
+    ))}
+  </div>
+);
+
+/* ── Section eyebrow ── */
+const Eyebrow = ({ children, color = B.tealDeep }) => (
+  <div style={{ fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color, fontWeight: 700, marginBottom: 10 }}>{children}</div>
+);
+
+/* ── Section H2 with gradient accent word ── */
+const H2 = ({ children, center, size = 28 }) => (
+  <h2 style={{ fontSize: size, lineHeight: 1.15, fontWeight: 700, margin: "0 0 16px", letterSpacing: -0.4, textAlign: center ? "center" : "left" }}>{children}</h2>
+);
+
+/* ── CTA section (dark ink) ── */
+const CTAClose = ({ intro, button, fine, bg = B.ink }) => (
+  <div style={{ background: bg, padding: "20px 22px 44px", textAlign: "center", color: "#FFF" }}>
+    <p style={{ fontSize: 14, lineHeight: 1.6, color: "#B8CACD", margin: "0 0 24px" }}>{intro}</p>
+    <a href="#" style={{
+      display: "inline-block", padding: "17px 32px",
+      background: "#D8F57C", color: B.ink, fontSize: 15.5, fontWeight: 700,
+      textDecoration: "none", borderRadius: 999, letterSpacing: 0.3,
+    }}>{button} →</a>
+    {fine && <div style={{ marginTop: 16, fontSize: 11.5, color: "#8A9B9D" }}>{fine}</div>}
+  </div>
+);
+
+/* ── Signoff (personal · Lena)
+   Warm, human close: avatar + handwritten signature + role + P.S.
+   Used at end of every email in Flow 1 + Flow 2.
+*/
+const Signoff = ({ bg = B.ink }) => {
+  const s = window.FLOW1_SHARED.signoff;
+  return (
+    <div style={{ background: bg, padding: "0 22px 36px" }}>
+      <div style={{
+        position: "relative",
+        background: "#1F2A2C",
+        border: "1.5px solid #2F3D40",
+        borderRadius: 22,
+        padding: "26px 24px 24px",
+        overflow: "hidden",
+      }}>
+        {/* subtle top gradient accent */}
+        <div style={{
+          position: "absolute", top: 0, left: 0, right: 0, height: 4,
+          background: B.gradient, opacity: 0.9,
+        }} />
+
+        {/* Top row: avatar + name/role */}
+        <div style={{ display: "flex", alignItems: "center", gap: 14, marginBottom: 18 }}>
+          {/* Avatar with warm ring */}
+          <div style={{
+            width: 58, height: 58, flexShrink: 0,
+            borderRadius: "50%",
+            background: `linear-gradient(135deg, #FFD866 0%, ${B.teal} 100%)`,
+            padding: 2.5,
+            position: "relative",
+          }}>
+            <div style={{
+              width: "100%", height: "100%", borderRadius: "50%",
+              background: "#FFFDF6",
+              display: "flex", alignItems: "center", justifyContent: "center",
+              overflow: "hidden",
+              border: `1.5px solid ${B.ink}`,
+            }}>
+              {/* Portrait placeholder — swap src for real photo */}
+              <svg width="58" height="58" viewBox="0 0 58 58">
+                <rect width="58" height="58" fill="#F5E8D0" />
+                {/* simple warm portrait silhouette */}
+                <circle cx="29" cy="22" r="10" fill="#D4A574" />
+                <path d="M10,58 C10,42 18,34 29,34 C40,34 48,42 48,58 Z" fill="#C98C6B" />
+                <text x="29" y="55" textAnchor="middle" fontSize="6" fill={B.ink} fontWeight="700" letterSpacing="0.5" opacity="0.4">PHOTO</text>
+              </svg>
+            </div>
+          </div>
+
+          <div style={{ flex: 1, minWidth: 0 }}>
+            <div style={{
+              fontSize: 10.5, letterSpacing: 1.6, textTransform: "uppercase",
+              color: "#8FAFB2", fontWeight: 700, marginBottom: 2,
+            }}>
+              A note from
+            </div>
+            <div style={{ fontSize: 17, fontWeight: 700, color: "#FFFFFF", lineHeight: 1.2 }}>
+              Lena Bauer
+            </div>
+            <div style={{ fontSize: 12, color: "#8FAFB2", marginTop: 2, fontStyle: "italic" }}>
+              Founder · BrightKidCo · Mom of two
+            </div>
+          </div>
+        </div>
+
+        {/* Handwritten signature — Caveat font, gradient accent color */}
+        <div style={{
+          display: "flex", alignItems: "center", gap: 14,
+          paddingTop: 16, paddingBottom: 16,
+          borderTop: "1.5px dashed #3A4547",
+          borderBottom: "1.5px dashed #3A4547",
+          marginBottom: 16,
+        }}>
+          <div style={{ flex: 1 }}>
+            <div style={{ fontSize: 12.5, color: "#B8CACD", marginBottom: 2 }}>
+              {s.line1}
+            </div>
+            <div style={{
+              fontFamily: "'Caveat', cursive",
+              fontSize: 42,
+              lineHeight: 0.95,
+              fontWeight: 500,
+              color: "#D8F57C",
+              letterSpacing: -0.5,
+              marginTop: 2,
+            }}>
+              Lena
+            </div>
+          </div>
+
+          {/* tiny flourish SVG */}
+          <svg width="54" height="40" viewBox="0 0 54 40" style={{ flexShrink: 0, opacity: 0.55 }}>
+            <path d="M2,20 C8,10 16,28 24,18 C30,10 38,26 48,14 L52,10" stroke="#D8F57C" strokeWidth="1.5" fill="none" strokeLinecap="round" />
+            <path d="M48,12 L52,10 L50,14" stroke="#D8F57C" strokeWidth="1.5" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+        </div>
+
+        {/* Personal P.S. */}
+        <div style={{
+          fontSize: 13, lineHeight: 1.65, color: "#B8CACD",
+          fontStyle: "italic",
+        }}>
+          <span style={{ color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 }}>
+            P.S.
+          </span>
+          {s.ps.replace(/^P\.S\.\s*/, "")}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+/* ── Soft "Out" line (unsubscribe-adjacent, calming) ── */
+const OutLine = ({ bg = "#FFFFFF" }) => (
+  <div style={{ background: bg, padding: "18px 24px 0", textAlign: "center", fontSize: 12.5, color: B.muted, fontStyle: "italic" }}>
+    {window.FLOW1_SHARED.out}
+  </div>
+);
+
+/* ── BREZ-inspired footer ── */
+const Footer = () => {
+  const f = window.FLOW1_SHARED.footer;
+  return (
+    <div style={{ background: "#FFFFFF", padding: "30px 24px 30px", textAlign: "center" }}>
+      <div style={{ fontFamily: F.display, fontSize: 20, fontStyle: "italic", fontWeight: 500, color: B.ink, marginBottom: 30, letterSpacing: -0.2 }}>
+        {f.tagline}
+      </div>
+      {f.links.map((l, i) => (
+        <div key={i} style={{ fontSize: 14, color: B.ink, fontWeight: 500, marginBottom: 14 }}>
+          <a href="#" style={{ color: B.ink, textDecoration: "none" }}>{l}</a>
+        </div>
+      ))}
+      <div style={{ display: "flex", justifyContent: "center", gap: 22, margin: "14px 0 28px" }}>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="0.8" fill={B.ink} stroke="none" /></svg></a>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M16 3h-3a5 5 0 0 0-5 5v3H5v4h3v8h4v-8h3l1-4h-4V8a1 1 0 0 1 1-1h3z" strokeLinejoin="round" /></svg></a>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M9 12a4 4 0 1 0 4 4V4c.5 2.5 2.5 4.5 5 5" strokeLinecap="round" strokeLinejoin="round" /></svg></a>
+      </div>
+      <div style={{ fontSize: 11.5, color: B.muted, lineHeight: 1.65, margin: "0 auto", maxWidth: 340 }}>
+        No longer want to receive these emails? <a href="#" style={{ color: B.ink, textDecoration: "underline" }}>Unsubscribe</a>.<br/>
+        <span style={{ fontSize: 11 }}>{f.address}</span>
+      </div>
+      <div style={{ margin: "28px auto 0", width: 60, height: 3, background: B.gradient, borderRadius: 3 }} />
+    </div>
+  );
+};
+
+/* ── Email shell (wraps each email) ── */
+const EmailShell = ({ children, preheader, bg }) => (
+  <div style={{ width: MW, background: bg, fontFamily: F.main, color: B.ink }}>
+    {/* preheader (hidden in email clients, visible in preview) */}
+    <div style={{ padding: "6px 20px", fontSize: 11, color: B.muted, background: "#F6F2EA", textAlign: "center", fontStyle: "italic" }}>
+      Preheader: {preheader}
+    </div>
+    {children}
+  </div>
+);
+
+Object.assign(window, {
+  MW, LOGO, B, F,
+  ImgFrame, FramedImage, Band,
+  Header, PartBadge, TitleBlock,
+  Letter, Eyebrow, H2,
+  CTAClose, Signoff, OutLine, Footer, EmailShell,
+});
+
+/* Product Placement Components
+   Three variants for different email contexts:
+   - ProductShowcaseFull   → E4, E6 (hero product moment)
+   - ProductShowcaseMedium → E5 (Sarah's story, inline)
+   - ProductShowcaseSoft   → E2, E3 (end-of-email gentle nod)
+*/
+
+/* ═════════════════════════════════════════════════════
+   FULL · Hero product block
+   Lifestyle hero + price + 3 feature pills + sub-grid + CTA
+   Used in: Email 4, Email 6
+   ═════════════════════════════════════════════════════ */
+const ProductShowcaseFull = ({ eyebrow, title, titleAccent, sub, priceFrom = "€34", priceNote = "Starter pair · 10% off first order", features, ctaButton, guaranteeBadge = true }) => {
+  const defaultFeatures = features || [
+    { icon: "◉", label: "Body-Signal Layer™" },
+    { icon: "✓", label: "60-day guarantee" },
+    { icon: "♡", label: "Sensory-friendly" },
+  ];
+
+  return (
+    <div style={{ padding: "28px 14px 20px" }}>
+      {/* Intro */}
+      <div style={{ textAlign: "center", marginBottom: 18, padding: "0 16px" }}>
+        <Eyebrow>{eyebrow || "The product"}</Eyebrow>
+        <H2 size={28} center>
+          {title}{" "}
+          <span style={{ ...B.gradientText, fontWeight: 700 }}>{titleAccent}</span>
+        </H2>
+        {sub && (
+          <p style={{ fontSize: 14, color: B.soft, lineHeight: 1.55, margin: "8px 0 0" }}>{sub}</p>
+        )}
+      </div>
+
+      {/* Main product card */}
+      <div style={{
+        background: "#FFFFFF",
+        border: `2px solid ${B.ink}`,
+        borderRadius: 24,
+        overflow: "hidden",
+        boxShadow: `6px 6px 0 ${B.ink}`,
+      }}>
+        {/* Hero shot */}
+        <div style={{ position: "relative", background: "#FFFDF6" }}>
+          <ImgFrame
+            height={300}
+            radius={0}
+            label="PRODUCT · HERO SHOT"
+            sublabel="Lifestyle on-body · toddler wearing BrightKidCo pants · natural pose, soft window light. Ratio ~4:5"
+          />
+          {/* floating guarantee badge */}
+          {guaranteeBadge && (
+            <div style={{
+              position: "absolute", top: 14, right: 14,
+              background: "#FFD866", border: `2px solid ${B.ink}`,
+              borderRadius: 999, padding: "6px 12px",
+              fontSize: 10, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase",
+              transform: "rotate(4deg)", boxShadow: `2px 2px 0 ${B.ink}`,
+              display: "flex", alignItems: "center", gap: 5,
+            }}>
+              <span style={{ fontSize: 13 }}>✿</span>
+              <span>60 days calm</span>
+            </div>
+          )}
+        </div>
+
+        {/* Product info block */}
+        <div style={{ padding: "22px 22px 22px", borderTop: `2px solid ${B.ink}` }}>
+          {/* name + price row */}
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 14, marginBottom: 14 }}>
+            <div style={{ flex: 1 }}>
+              <div style={{ fontSize: 10.5, letterSpacing: 1.5, textTransform: "uppercase", color: B.tealDeep, fontWeight: 700, marginBottom: 4 }}>
+                BrightKidCo
+              </div>
+              <h3 style={{ margin: 0, fontSize: 19, fontWeight: 700, lineHeight: 1.2, color: B.ink }}>
+                Body-Signal Learning<br/>Layer™ Pants
+              </h3>
+            </div>
+            <div style={{ textAlign: "right", flexShrink: 0 }}>
+              <div style={{ fontSize: 10, color: B.muted, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase" }}>From</div>
+              <div style={{ fontSize: 28, fontWeight: 700, color: B.ink, lineHeight: 1, letterSpacing: -0.5 }}>
+                {priceFrom}
+              </div>
+            </div>
+          </div>
+
+          {/* price note */}
+          <div style={{ fontSize: 12.5, color: B.soft, marginBottom: 18, fontStyle: "italic" }}>
+            {priceNote}
+          </div>
+
+          {/* feature pills */}
+          <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 20 }}>
+            {defaultFeatures.map((f, i) => (
+              <div key={i} style={{
+                display: "flex", alignItems: "center", gap: 6,
+                padding: "7px 12px",
+                background: "#FAF7F0", border: `1.5px solid ${B.ink}`,
+                borderRadius: 999, fontSize: 11.5, fontWeight: 600,
+                color: B.ink,
+              }}>
+                <span style={{ color: B.teal, fontWeight: 700 }}>{f.icon}</span>
+                <span>{f.label}</span>
+              </div>
+            ))}
+          </div>
+
+          {/* CTA button */}
+          <a href="#" style={{
+            display: "block",
+            padding: "16px 24px",
+            background: B.ink,
+            color: "#D8F57C",
+            fontSize: 15, fontWeight: 700,
+            textDecoration: "none", borderRadius: 999,
+            textAlign: "center",
+            letterSpacing: 0.3,
+          }}>
+            {ctaButton || "Shop the pants"} →
+          </a>
+
+          {/* micro trust line */}
+          <div style={{ marginTop: 12, textAlign: "center", fontSize: 11, color: B.muted, letterSpacing: 0.3 }}>
+            Free shipping on orders over €50 · 60-day guarantee · Real returns
+          </div>
+        </div>
+      </div>
+
+      {/* 2-up sub row */}
+      <div style={{ display: "flex", gap: 10, marginTop: 12 }}>
+        <div style={{
+          flex: 1, background: "#FFFFFF",
+          border: `2px solid ${B.ink}`, borderRadius: 14,
+          overflow: "hidden", boxShadow: `3px 3px 0 ${B.ink}`,
+        }}>
+          <div style={{ background: `${B.teal}15` }}>
+            <ImgFrame height={110} radius={0} label="COLOURWAY 01" sublabel="Sage · soft green" />
+          </div>
+          <div style={{ padding: "10px 12px", fontSize: 11.5, fontWeight: 700, color: B.ink, textAlign: "center", borderTop: `2px solid ${B.ink}` }}>
+            3 colourways
+          </div>
+        </div>
+        <div style={{
+          flex: 1, background: "#FFFFFF",
+          border: `2px solid ${B.ink}`, borderRadius: 14,
+          overflow: "hidden", boxShadow: `3px 3px 0 ${B.ink}`,
+        }}>
+          <div style={{ background: `${B.green}15` }}>
+            <ImgFrame height={110} radius={0} label="SIZE RANGE" sublabel="2T · 3T · 4T · 5T · 6T" />
+          </div>
+          <div style={{ padding: "10px 12px", fontSize: 11.5, fontWeight: 700, color: B.ink, textAlign: "center", borderTop: `2px solid ${B.ink}` }}>
+            Ages 2–7
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+/* ═════════════════════════════════════════════════════
+   MEDIUM · Inline product card with Sarah-style context
+   Side-by-side image + info, clean
+   Used in: Email 5
+   ═════════════════════════════════════════════════════ */
+const ProductShowcaseMedium = ({ eyebrow, title, priceFrom = "€34", ctaButton }) => (
+  <div style={{ padding: "12px 14px 20px" }}>
+    <div style={{
+      background: "#FFFFFF",
+      border: `2px solid ${B.ink}`,
+      borderRadius: 20,
+      overflow: "hidden",
+      boxShadow: `4px 4px 0 ${B.ink}`,
+    }}>
+      {/* Two-column: image + content */}
+      <div style={{ display: "flex", alignItems: "stretch" }}>
+        <div style={{ width: 140, flexShrink: 0, borderRight: `2px solid ${B.ink}`, background: "#FFFDF6" }}>
+          <ImgFrame
+            height={220}
+            radius={0}
+            label="PRODUCT"
+            sublabel=""
+          />
+        </div>
+        <div style={{ padding: "18px 18px", flex: 1, display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
+          <div>
+            <div style={{ fontSize: 10, letterSpacing: 1.4, textTransform: "uppercase", color: B.tealDeep, fontWeight: 700, marginBottom: 6 }}>
+              {eyebrow || "The method Sarah used"}
+            </div>
+            <h3 style={{ margin: "0 0 10px", fontSize: 17, fontWeight: 700, lineHeight: 1.2, color: B.ink }}>
+              {title || "Body-Signal Learning Layer™"}
+            </h3>
+            <div style={{ display: "flex", alignItems: "baseline", gap: 6, marginBottom: 12 }}>
+              <span style={{ fontSize: 20, fontWeight: 700, color: B.ink, letterSpacing: -0.3 }}>{priceFrom}</span>
+              <span style={{ fontSize: 11, color: B.soft }}>starter pair</span>
+            </div>
+            <div style={{ fontSize: 11.5, color: B.soft, lineHeight: 1.5 }}>
+              60-day calm-progress guarantee. Return anytime, any reason.
+            </div>
+          </div>
+          <a href="#" style={{
+            display: "inline-block",
+            padding: "11px 18px",
+            background: B.ink,
+            color: "#D8F57C",
+            fontSize: 13, fontWeight: 700,
+            textDecoration: "none", borderRadius: 999,
+            textAlign: "center", marginTop: 14,
+            letterSpacing: 0.2,
+          }}>
+            {ctaButton || "See the pants"} →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+);
+
+/* ═════════════════════════════════════════════════════
+   SOFT · End-of-email gentle product mention
+   Tiny, text-forward, not pushy
+   Used in: Email 2, Email 3
+   ═════════════════════════════════════════════════════ */
+const ProductShowcaseSoft = ({ eyebrow, line, ctaText = "See the different path" }) => (
+  <div style={{ padding: "8px 22px 20px" }}>
+    <div style={{
+      background: "#FFFDF6",
+      border: `2px dashed ${B.teal}`,
+      borderRadius: 16,
+      padding: "18px 18px",
+      display: "flex", gap: 14, alignItems: "center",
+    }}>
+      {/* tiny product thumb */}
+      <div style={{
+        width: 60, height: 60, flexShrink: 0,
+        background: "#FFFFFF", borderRadius: 12,
+        border: `1.5px solid ${B.ink}`,
+        display: "flex", alignItems: "center", justifyContent: "center",
+      }}>
+        <svg width="28" height="28" viewBox="0 0 32 32">
+          <rect x="6" y="8" width="20" height="16" rx="4" stroke={B.teal} strokeWidth="1.8" fill="none" />
+          <rect x="6" y="8" width="20" height="5" rx="2" fill={B.teal} opacity="0.2" />
+          <circle cx="10" cy="11" r="0.8" fill={B.teal} />
+          <circle cx="22" cy="11" r="0.8" fill={B.teal} />
+        </svg>
+      </div>
+      <div style={{ flex: 1 }}>
+        <div style={{ fontSize: 10, letterSpacing: 1.3, textTransform: "uppercase", color: B.tealDeep, fontWeight: 700, marginBottom: 3 }}>
+          {eyebrow || "Designed around this"}
+        </div>
+        <div style={{ fontSize: 13, color: B.ink, lineHeight: 1.45, marginBottom: 8, fontWeight: 500 }}>
+          {line}
+        </div>
+        <a href="#" style={{
+          display: "inline-block",
+          fontSize: 12.5, fontWeight: 700,
+          color: B.tealDeep, textDecoration: "none",
+          borderBottom: `1.5px solid ${B.tealDeep}`,
+          paddingBottom: 2,
+        }}>
+          {ctaText} →
+        </a>
+      </div>
+    </div>
+  </div>
+);
+
+Object.assign(window, {
+  ProductShowcaseFull,
+  ProductShowcaseMedium,
+  ProductShowcaseSoft,
+});
+
+/* FAQ/Objection Library — E1 | Cross-Level
+   Wireframe: wireframes/faq-library/faq-21-e1.md
+   Copy: copy/faq-library/faq-21-e1.md
+   Flow 21 · FAQ Library · Day 1
+   Generated: 2026-06-09
+*/
+
+const Email_faq_21_e1 = () => (
+  <EmailShell
+    preheader="16,511 reviews. 4.9★. 49% of 4-5 year olds aren't trained. Here's what that means."
+    bg={B.paper}
+  >
+    {/* ─── SECTION 2: Header ─── */}
+    <Header bg={B.paper} />
+    <div style={{ textAlign: 'center', padding: '0 0 12px', background: B.paper }}>
+      <span
+        style={{
+          fontFamily: F.main,
+          fontSize: '14px',
+          color: B.soft,
+          letterSpacing: '0.3px',
+        }}
+      >
+        Lena from BrightKidCo
+      </span>
+    </div>
+
+    {/* ─── SECTION 3: HERO-11 Question Storm ─── */}
+    <div style={{ background: B.paper, padding: '44px 22px 0' }}>
+      {/* Eyebrow */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '10.5px',
+          color: B.teal,
+          textTransform: 'uppercase',
+          letterSpacing: '2px',
+          textAlign: 'center',
+          fontWeight: 700,
+          marginBottom: '12px',
+        }}
+      >
+        YOU'VE TRIED EVERYTHING
+      </div>
+
+      {/* Headline */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '28px',
+          color: B.ink,
+          fontWeight: 700,
+          textAlign: 'center',
+          lineHeight: 1.25,
+          marginBottom: '28px',
+          maxWidth: '380px',
+          margin: '0 auto 28px',
+        }}
+      >
+        Why nothing worked — and what was missing
+      </div>
+
+      {/* Puzzle SVG Illustration */}
+      <div style={{ textAlign: 'center', marginBottom: '28px' }}>
+        <svg
+          width="420"
+          height="240"
+          viewBox="0 0 420 240"
+          xmlns="http://www.w3.org/2000/svg"
+          style={{ maxWidth: '100%', display: 'block', margin: '0 auto' }}
+        >
+          {/* Cream background */}
+          <rect x="0" y="0" width="420" height="240" rx="16" fill={B.cream} />
+
+          {/* Puzzle piece 1 - top left */}
+          <g transform="translate(60, 30)">
+            <rect x="0" y="0" width="110" height="80" rx="6" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            {/* Tab right */}
+            <circle cx="110" cy="40" r="14" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            <rect x="98" y="30" width="14" height="20" fill="#E2DDD4" />
+            {/* Tab bottom */}
+            <circle cx="55" cy="80" r="14" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            <rect x="45" y="68" width="20" height="14" fill="#E2DDD4" />
+            {/* Inner detail */}
+            <rect x="16" y="16" width="20" height="20" rx="3" fill={B.teal} opacity="0.3" />
+            <rect x="44" y="40" width="14" height="14" rx="3" fill={B.green} opacity="0.25" />
+          </g>
+
+          {/* Puzzle piece 2 - top right */}
+          <g transform="translate(250, 30)">
+            <rect x="0" y="0" width="110" height="80" rx="6" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            {/* Tab left */}
+            <circle cx="0" cy="40" r="14" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            <rect x="-2" y="30" width="14" height="20" fill="#E2DDD4" />
+            {/* Tab bottom */}
+            <circle cx="55" cy="80" r="14" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            <rect x="45" y="68" width="20" height="14" fill="#E2DDD4" />
+            {/* Inner detail */}
+            <rect x="30" y="16" width="20" height="20" rx="3" fill={B.teal} opacity="0.3" />
+            <rect x="60" y="40" width="14" height="14" rx="3" fill={B.green} opacity="0.25" />
+          </g>
+
+          {/* Puzzle piece 3 - bottom left */}
+          <g transform="translate(60, 140)">
+            <rect x="0" y="0" width="110" height="80" rx="6" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            {/* Tab right */}
+            <circle cx="110" cy="40" r="14" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            <rect x="98" y="30" width="14" height="20" fill="#E2DDD4" />
+            {/* Tab top */}
+            <circle cx="55" cy="0" r="14" fill="#E2DDD4" stroke={B.soft} strokeWidth="1.5" />
+            <rect x="45" y="-2" width="20" height="14" fill="#E2DDD4" />
+            {/* Inner detail */}
+            <rect x="20" y="24" width="18" height="18" rx="3" fill={B.teal} opacity="0.3" />
+            <rect x="56" y="36" width="12" height="12" rx="3" fill={B.green} opacity="0.25" />
+          </g>
+
+          {/* Missing piece slot - center (green gap) */}
+          <g transform="translate(250, 140)">
+            <rect x="0" y="0" width="110" height="80" rx="6" fill={B.green} opacity="0.25" stroke={B.green} strokeWidth="2" strokeDasharray="6 4" />
+            {/* Tab left */}
+            <circle cx="0" cy="40" r="14" fill={B.green} opacity="0.25" stroke={B.green} strokeWidth="2" strokeDasharray="6 4" />
+            <rect x="-2" y="30" width="14" height="20" fill={B.green} opacity="0.25" />
+            {/* Tab top */}
+            <circle cx="55" cy="0" r="14" fill={B.green} opacity="0.25" stroke={B.green} strokeWidth="2" strokeDasharray="6 4" />
+            <rect x="45" y="-2" width="20" height="14" fill={B.green} opacity="0.25" />
+            {/* Question mark */}
+            <text
+              x="55"
+              y="50"
+              textAnchor="middle"
+              fontFamily={F.main}
+              fontSize="32"
+              fontWeight="700"
+              fill={B.green}
+              opacity="0.6"
+            >
+              ?
+            </text>
+          </g>
+
+          {/* Scattered small puzzle shapes */}
+          <rect x="30" y="110" width="16" height="12" rx="2" fill={B.cream} stroke={B.soft} strokeWidth="1" opacity="0.6" />
+          <rect x="380" y="100" width="14" height="10" rx="2" fill={B.cream} stroke={B.soft} strokeWidth="1" opacity="0.5" />
+          <rect x="200" y="20" width="10" height="8" rx="1.5" fill={B.cream} stroke={B.soft} strokeWidth="1" opacity="0.4" />
+        </svg>
+      </div>
+
+      {/* Subhead */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '17px',
+          color: B.soft,
+          textAlign: 'center',
+          lineHeight: 1.5,
+          maxWidth: '370px',
+          margin: '0 auto',
+          paddingBottom: '8px',
+        }}
+      >
+        Whether you've tried 2 things or 12, here's the one thing most methods assume exists — that doesn't yet.
+      </div>
+    </div>
+
+    {/* ─── SECTION 4: DESDEEP-3 Card Cascade Divider ─── */}
+    <div style={{ background: B.paper, height: '40px', textAlign: 'center', overflow: 'hidden' }}>
+      <svg
+        width="420"
+        height="40"
+        viewBox="0 0 420 40"
+        xmlns="http://www.w3.org/2000/svg"
+        style={{ display: 'block', margin: '0 auto' }}
+      >
+        {/* Scattered small rectangles converging to center */}
+        <rect x="80" y="6" width="22" height="16" rx="3" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.7" />
+        <rect x="130" y="10" width="18" height="14" rx="3" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.6" />
+        <rect x="180" y="12" width="16" height="12" rx="2" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.5" />
+        {/* Center green dot */}
+        <circle cx="210" cy="20" r="5" fill={B.green} opacity="0.8" />
+        {/* Right side pieces */}
+        <rect x="224" y="12" width="16" height="12" rx="2" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.5" />
+        <rect x="272" y="10" width="18" height="14" rx="3" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.6" />
+        <rect x="320" y="6" width="22" height="16" rx="3" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.7" />
+      </svg>
+    </div>
+
+    {/* ─── SECTION 5: LETTER-03 Letter + Pull-Quote ─── */}
+    <div style={{ background: B.paper, padding: '0 22px 44px' }}>
+      {/* Paragraph 1 */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '16px',
+          color: B.ink,
+          lineHeight: 1.7,
+          marginBottom: '28px',
+        }}
+      >
+        Whether you've tried 2 things or 12. Whether you're 3 weeks into wondering or 3 years into trying. If your child doesn't feel when they need to go, sits on the toilet and nothing happens, plays in a wet pull-up without noticing, never initiates, or 'almost trained' multiple times, then here's the one thing most methods assume exists. That doesn't yet.
+      </div>
+
+      {/* Pull Quote */}
+      <div
+        style={{
+          fontFamily: F.display,
+          fontSize: '20px',
+          fontStyle: 'italic',
+          color: B.ink,
+          textAlign: 'center',
+          lineHeight: 1.5,
+          margin: '0 auto 28px',
+          maxWidth: '350px',
+          padding: '20px 0',
+          borderTop: `1px solid ${B.cream}`,
+          borderBottom: `1px solid ${B.cream}`,
+        }}
+      >
+        The piece that's missing isn't another method. It's the signal.
+      </div>
+
+      {/* Validation heading */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '16px',
+          fontWeight: 700,
+          color: B.ink,
+          marginBottom: '8px',
+        }}
+      >
+        Here's what every parent who's 'tried everything' has in common:
+      </div>
+
+      {/* Validation paragraph */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '16px',
+          fontWeight: 700,
+          color: B.ink,
+          marginBottom: '28px',
+        }}
+      >
+        You didn't fail. You solved the wrong problem.
+      </div>
+
+      {/* Methods Block - B.cream bg, 3px B.green left border */}
+      <div
+        style={{
+          background: B.cream,
+          borderLeft: `3px solid ${B.green}`,
+          padding: '24px 20px',
+          borderRadius: '0 10px 10px 0',
+          marginBottom: '28px',
+        }}
+      >
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '15px',
+            color: B.ink,
+            lineHeight: 1.7,
+            marginBottom: '16px',
+          }}
+        >
+          Standard potty training methods — Oh Crap, sticker charts, timer sits, social stories, BCBA protocols, ABA schedules — they all depend on one thing your child may not have yet: the ability to feel the 'I need to go' message from their body.
+        </div>
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '15px',
+            color: B.ink,
+            lineHeight: 1.7,
+            marginBottom: '12px',
+          }}
+        >
+          Research from Nicholson et al. (2019) shows many autistic children have something called diminished body awareness. The brain-body connection for internal signals — bladder fullness, thirst, the need to go — doesn't arrive the way traditional methods assume it does.
+        </div>
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '13px',
+            color: B.muted,
+          }}
+        >
+          Nicholson et al. 2019
+        </div>
+      </div>
+
+      {/* Recognition Anchors */}
+      {[
+        'He sits 20 minutes, nothing happens. Then pees 30 seconds after standing up.',
+        'She doesn\'t react to wetness at all, keeps playing, doesn\'t flinch.',
+        'He says \'I need to go\' after it\'s already happening, or can\'t tell you at all.',
+        'She\'s \'almost trained\' for months. Multiple times.',
+      ].map((text, i) => (
+        <div
+          key={i}
+          style={{
+            display: 'flex',
+            alignItems: 'flex-start',
+            gap: '10px',
+            marginBottom: '12px',
+          }}
+        >
+          <div
+            style={{
+              width: '12px',
+              height: '12px',
+              minWidth: '12px',
+              borderRadius: '50%',
+              background: B.teal,
+              marginTop: '4px',
+            }}
+          />
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '15px',
+              color: B.ink,
+              lineHeight: 1.6,
+            }}
+          >
+            {text}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    {/* ─── SECTION 6: 1px Rule ─── */}
+    <div style={{ height: '1px', background: '#E8E2DA', width: '100%' }} />
+
+    {/* ─── SECTION 7: EDU-4 Myth vs Fact ─── */}
+    <div style={{ background: B.paper, padding: '44px 22px' }}>
+      {/* Stat Callout Box */}
+      <div
+        style={{
+          border: `1px solid rgba(43, 174, 180, 0.3)`,
+          borderRadius: '12px',
+          padding: '24px',
+          background: B.paper,
+          marginBottom: '32px',
+          textAlign: 'center',
+        }}
+      >
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '48px',
+            fontWeight: 800,
+            color: B.teal,
+            lineHeight: 1,
+            marginBottom: '8px',
+          }}
+        >
+          49%
+        </div>
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '15px',
+            color: B.ink,
+            lineHeight: 1.5,
+            marginBottom: '12px',
+          }}
+        >
+          of autistic 4-5 year olds aren't toilet trained yet — a 6-to-1 gap compared to typically developing kids.
+        </div>
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '12px',
+            color: B.muted,
+            lineHeight: 1.4,
+          }}
+        >
+          CDC-funded SPARK study of 743 children
+          <br />
+          Wiggins et al. 2022
+        </div>
+      </div>
+
+      {/* Myth vs Fact Grid */}
+      <div
+        style={{
+          border: `2px solid ${B.ink}`,
+          borderRadius: '12px',
+          background: B.cream,
+          overflow: 'hidden',
+          marginBottom: '32px',
+        }}
+      >
+        {/* Row 1 */}
+        <div
+          style={{
+            display: 'flex',
+            borderBottom: `1px solid ${B.ink}`,
+          }}
+        >
+          <div
+            style={{
+              flex: '0 0 40%',
+              fontFamily: F.main,
+              fontSize: '14px',
+              fontWeight: 700,
+              color: B.ink,
+              padding: '16px',
+              borderRight: `1px solid ${B.ink}`,
+              background: B.paper,
+            }}
+          >
+            "You tried everything"
+          </div>
+          <div
+            style={{
+              flex: 1,
+              fontFamily: F.main,
+              fontSize: '14px',
+              color: B.ink,
+              padding: '16px',
+              lineHeight: 1.5,
+            }}
+          >
+            49% of 4-5 year olds aren't trained. This is documented, not personal.
+          </div>
+        </div>
+        {/* Row 2 */}
+        <div
+          style={{
+            display: 'flex',
+            borderBottom: `1px solid ${B.ink}`,
+          }}
+        >
+          <div
+            style={{
+              flex: '0 0 40%',
+              fontFamily: F.main,
+              fontSize: '14px',
+              fontWeight: 700,
+              color: B.ink,
+              padding: '16px',
+              borderRight: `1px solid ${B.ink}`,
+              background: B.paper,
+            }}
+          >
+            "It's a parenting problem"
+          </div>
+          <div
+            style={{
+              flex: 1,
+              fontFamily: F.main,
+              fontSize: '14px',
+              color: B.ink,
+              padding: '16px',
+              lineHeight: 1.5,
+            }}
+          >
+            Body signal differences are settled science. 49 studies confirm this.
+          </div>
+        </div>
+        {/* Row 3 */}
+        <div style={{ display: 'flex' }}>
+          <div
+            style={{
+              flex: '0 0 40%',
+              fontFamily: F.main,
+              fontSize: '14px',
+              fontWeight: 700,
+              color: B.ink,
+              padding: '16px',
+              borderRight: `1px solid ${B.ink}`,
+              background: B.paper,
+            }}
+          >
+            "You need another method"
+          </div>
+          <div
+            style={{
+              flex: 1,
+              fontFamily: F.main,
+              fontSize: '14px',
+              color: B.ink,
+              padding: '16px',
+              lineHeight: 1.5,
+            }}
+          >
+            Every method that assumes a working signal was built on the wrong foundation.
+          </div>
+        </div>
+      </div>
+
+      {/* Pull Quote */}
+      <div
+        style={{
+          fontFamily: F.display,
+          fontSize: '18px',
+          fontStyle: 'italic',
+          color: B.ink,
+          textAlign: 'center',
+          lineHeight: 1.5,
+          marginBottom: '8px',
+        }}
+      >
+        If your child's nervous system processes body signals differently, every method that assumes a working signal was built on the wrong foundation.
+      </div>
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '12px',
+          color: B.muted,
+          textAlign: 'center',
+        }}
+      >
+        Barmpagiannis & Baldimtsi 2025
+      </div>
+    </div>
+
+    {/* ─── SECTION 8: DESDEEP-3 Transition ─── */}
+    <div style={{ background: B.paper, height: '32px', textAlign: 'center', overflow: 'hidden' }}>
+      <svg
+        width="420"
+        height="32"
+        viewBox="0 0 420 32"
+        xmlns="http://www.w3.org/2000/svg"
+        style={{ display: 'block', margin: '0 auto' }}
+      >
+        <rect x="100" y="8" width="14" height="10" rx="2" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.6" />
+        <rect x="160" y="10" width="12" height="8" rx="2" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.5" />
+        <circle cx="210" cy="16" r="4" fill={B.green} opacity="0.7" />
+        <rect x="248" y="10" width="12" height="8" rx="2" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.5" />
+        <rect x="306" y="8" width="14" height="10" rx="2" fill={B.cream} stroke="#E2DDD4" strokeWidth="1" opacity="0.6" />
+      </svg>
+    </div>
+
+    {/* ─── SECTION 9: Product Showcase (Custom) ─── */}
+    <div style={{ background: B.paper, padding: '0 22px 44px' }}>
+      <div
+        style={{
+          background: B.paper,
+          border: `2px solid ${B.ink}`,
+          borderRadius: '24px',
+          boxShadow: `0 6px 0 ${B.ink}`,
+          overflow: 'hidden',
+        }}
+      >
+        {/* Hero image area */}
+        <div style={{ padding: '20px 20px 0' }}>
+          <ImgFrame height={280} label="HERO SHOT" radius="20px">
+            <img
+              src="../../raw/product-photos/flat-lay/diaper-woodland-creature-yellow.jpg"
+              alt="BrightKidCo Body-Signal Diaper - Woodland Creature Yellow"
+              style={{
+                width: '420px',
+                height: '280px',
+                objectFit: 'cover',
+                borderRadius: '20px',
+                display: 'block',
+              }}
+            />
+          </ImgFrame>
+        </div>
+
+        {/* Content area */}
+        <div style={{ padding: '24px 24px 28px' }}>
+          {/* Eyebrow */}
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '10.5px',
+              color: B.teal,
+              textTransform: 'uppercase',
+              letterSpacing: '2px',
+              marginBottom: '8px',
+              fontWeight: 700,
+            }}
+          >
+            THE BODY-SIGNAL APPROACH
+          </div>
+
+          {/* Title */}
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '22px',
+              fontWeight: 700,
+              color: B.ink,
+              lineHeight: 1.3,
+              marginBottom: '16px',
+            }}
+          >
+            What's different about this approach?
+          </div>
+
+          {/* Body text */}
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '15px',
+              color: B.ink,
+              lineHeight: 1.7,
+              marginBottom: '14px',
+            }}
+          >
+            The Body-Signal Learning Layer doesn't rely on a signal your child hasn't developed yet. It creates one.
+          </div>
+
+          {/* Detail */}
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '15px',
+              color: B.ink,
+              lineHeight: 1.7,
+              marginBottom: '14px',
+            }}
+          >
+            A gentle sensation that lasts — 30 to 60 seconds of awareness time — that gives the brain the input it's been missing.
+          </div>
+
+          {/* Contrast */}
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '15px',
+              color: B.soft,
+              lineHeight: 1.7,
+              marginBottom: '20px',
+            }}
+          >
+            Pull-ups and regular underwear both fail here: one wicks everything away, the other overwhelms with a brief intense sensation that passes before the brain can register it.
+          </div>
+
+          {/* Feature pills */}
+          <div
+            style={{
+              display: 'flex',
+              gap: '8px',
+              flexWrap: 'wrap',
+              marginBottom: '20px',
+            }}
+          >
+            {['◉ Body-Signal Layer™', '✓ 60-day guarantee', '♡ Sensory-friendly'].map(
+              (pill, i) => (
+                <span
+                  key={i}
+                  style={{
+                    fontFamily: F.main,
+                    fontSize: '13px',
+                    color: B.ink,
+                    background: B.cream,
+                    border: `1px solid #E2DDD4`,
+                    borderRadius: '999px',
+                    padding: '6px 14px',
+                    whiteSpace: 'nowrap',
+                  }}
+                >
+                  {pill}
+                </span>
+              ),
+            )}
+          </div>
+
+          {/* CTA Button */}
+          <a
+            href="#"
+            style={{
+              display: 'block',
+              background: B.teal,
+              color: '#D8F57C',
+              fontFamily: F.main,
+              fontSize: '15px',
+              fontWeight: 700,
+              textAlign: 'center',
+              textDecoration: 'none',
+              borderRadius: '999px',
+              padding: '16px 24px',
+              marginBottom: '14px',
+            }}
+          >
+            See if it fits your child
+          </a>
+
+          {/* Tagline */}
+          <div
+            style={{
+              fontFamily: F.display,
+              fontSize: '17px',
+              fontStyle: 'italic',
+              color: B.ink,
+              textAlign: 'center',
+            }}
+          >
+            This isn't training. It's signal-building.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {/* ─── SECTION 10: SP-08 Stacked Mini-Reviews ─── */}
+    <div style={{ background: B.paper, padding: '0 22px 44px' }}>
+      <div
+        style={{
+          display: 'flex',
+          gap: '10px',
+          overflow: 'hidden',
+        }}
+      >
+        {/* Quote 1 - Lena */}
+        <div
+          style={{
+            flex: 1,
+            background: B.cream,
+            borderRadius: '16px',
+            border: `2px solid ${B.ink}`,
+            boxShadow: `0 6px 0 ${B.ink}`,
+            padding: '20px 16px',
+            minWidth: 0,
+          }}
+        >
+          <div
+            style={{
+              display: 'flex',
+              alignItems: 'flex-start',
+              gap: '8px',
+              marginBottom: '10px',
+            }}
+          >
+            <div
+              style={{
+                width: '12px',
+                height: '12px',
+                minWidth: '12px',
+                borderRadius: '50%',
+                background: B.teal,
+                opacity: 0.5,
+                marginTop: '3px',
+              }}
+            />
+            <div
+              style={{
+                fontFamily: F.main,
+                fontSize: '13px',
+                color: B.ink,
+                lineHeight: 1.5,
+                fontStyle: 'italic',
+              }}
+            >
+              My older son was 8 before he trained. Not 3. Not 4. Eight.
+            </div>
+          </div>
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '13px',
+              color: B.muted,
+              fontStyle: 'italic',
+            }}
+          >
+            — Lena, mom of two autistic sons
+          </div>
+        </div>
+
+        {/* Quote 2 - Sarah */}
+        <div
+          style={{
+            flex: 1,
+            background: B.cream,
+            borderRadius: '16px',
+            border: `2px solid ${B.ink}`,
+            boxShadow: `0 6px 0 ${B.ink}`,
+            padding: '20px 16px',
+            minWidth: 0,
+          }}
+        >
+          <div
+            style={{
+              display: 'flex',
+              alignItems: 'flex-start',
+              gap: '8px',
+              marginBottom: '10px',
+            }}
+          >
+            <div
+              style={{
+                width: '12px',
+                height: '12px',
+                minWidth: '12px',
+                borderRadius: '50%',
+                background: B.teal,
+                opacity: 0.5,
+                marginTop: '3px',
+              }}
+            />
+            <div
+              style={{
+                fontFamily: F.main,
+                fontSize: '13px',
+                color: B.ink,
+                lineHeight: 1.5,
+                fontStyle: 'italic',
+              }}
+            >
+              I'd tried everything — Oh Crap, sticker charts, a $2,500 private consultant. Nothing. Then in Week 3 of just wearing the underwear, he paused mid-play. Looked down. Walked to the potty. First independent initiation ever.
+            </div>
+          </div>
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '13px',
+              color: B.muted,
+              fontStyle: 'italic',
+            }}
+          >
+            — Sarah, GF parent, child 5
+          </div>
+        </div>
+
+        {/* Quote 3 - Lisa */}
+        <div
+          style={{
+            flex: 1,
+            background: B.cream,
+            borderRadius: '16px',
+            border: `2px solid ${B.ink}`,
+            boxShadow: `0 6px 0 ${B.ink}`,
+            padding: '20px 16px',
+            minWidth: 0,
+          }}
+        >
+          <div
+            style={{
+              display: 'flex',
+              alignItems: 'flex-start',
+              gap: '8px',
+              marginBottom: '10px',
+            }}
+          >
+            <div
+              style={{
+                width: '12px',
+                height: '12px',
+                minWidth: '12px',
+                borderRadius: '50%',
+                background: B.teal,
+                opacity: 0.5,
+                marginTop: '3px',
+              }}
+            />
+            <div
+              style={{
+                fontFamily: F.main,
+                fontSize: '13px',
+                color: B.ink,
+                lineHeight: 1.5,
+                fontStyle: 'italic',
+              }}
+            >
+              He sat 20 minutes, nothing. Then peed 30 seconds after standing up. Every single time. The underwear changed that — not by training him, but by teaching his body to feel the signal.
+            </div>
+          </div>
+          <div
+            style={{
+              fontFamily: F.main,
+              fontSize: '13px',
+              color: B.muted,
+              fontStyle: 'italic',
+            }}
+          >
+            — Lisa, L2 parent, child 6
+          </div>
+        </div>
+      </div>
+
+      {/* Bridge copy */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '15px',
+          color: B.ink,
+          textAlign: 'center',
+          lineHeight: 1.6,
+          marginTop: '24px',
+          maxWidth: '370px',
+          margin: '24px auto 0',
+        }}
+      >
+        Each of these parents thought they'd tried everything. Each discovered the same thing: the signal was never there.
+      </div>
+    </div>
+
+    {/* ─── SECTION 11: TRUST-5 Promise Badges ─── */}
+    <div style={{ background: B.paper, padding: '0 22px 44px' }}>
+      <div
+        style={{
+          display: 'flex',
+          gap: '10px',
+        }}
+      >
+        {[
+          { icon: '✿', text: '60-Day Guarantee' },
+          { icon: '💰', text: 'Full Refund · No questions' },
+          { icon: '📩', text: 'Reply to Lena · I read everything' },
+        ].map((badge, i) => (
+          <div
+            key={i}
+            style={{
+              flex: 1,
+              background: B.cream,
+              borderRadius: '12px',
+              border: `2px solid ${B.green}`,
+              padding: '16px 12px',
+              textAlign: 'center',
+            }}
+          >
+            <div
+              style={{
+                fontSize: '24px',
+                color: B.teal,
+                marginBottom: '8px',
+              }}
+            >
+              {badge.icon}
+            </div>
+            <div
+              style={{
+                fontFamily: F.main,
+                fontSize: '13px',
+                color: B.ink,
+                lineHeight: 1.4,
+              }}
+            >
+              {badge.text}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    {/* ─── SECTION 12: CTA-11 Permission CTA ─── */}
+    <div style={{ background: B.paper, padding: '0 22px 44px' }}>
+      {/* Intro */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '17px',
+          color: B.ink,
+          lineHeight: 1.6,
+          marginBottom: '12px',
+        }}
+      >
+        If this makes sense for your child, even a little, the 3+3 Bundle is $79.99 with free shipping and a 60-Day Guarantee.
+      </div>
+
+      {/* Body */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '15px',
+          color: B.soft,
+          lineHeight: 1.6,
+          marginBottom: '24px',
+        }}
+      >
+        Try it for 60 days. By your judgment. If it doesn't work, full refund.
+      </div>
+
+      {/* CTA Button */}
+      <a
+        href="#"
+        style={{
+          display: 'block',
+          background: B.teal,
+          color: '#D8F57C',
+          fontFamily: F.main,
+          fontSize: '15px',
+          fontWeight: 700,
+          textAlign: 'center',
+          textDecoration: 'none',
+          borderRadius: '999px',
+          height: '52px',
+          lineHeight: '52px',
+          width: '380px',
+          maxWidth: '100%',
+          margin: '0 auto 16px',
+        }}
+      >
+        See if the body-signal approach fits your child
+      </a>
+
+      {/* Price note */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '13px',
+          color: B.muted,
+          fontStyle: 'italic',
+          textAlign: 'center',
+          marginBottom: '12px',
+          lineHeight: 1.5,
+        }}
+      >
+        That's $13.33 per pair with the bundle — less than half the single-pair price.
+      </div>
+
+      {/* Guarantee */}
+      <div
+        style={{
+          fontFamily: F.main,
+          fontSize: '13px',
+          color: B.muted,
+          fontStyle: 'italic',
+          textAlign: 'center',
+          lineHeight: 1.5,
+        }}
+      >
+        60-Day Guarantee: Try the underwear for 60 days. If you don't see the first signals, a pause, a look down, a pull at the pants, return for a full refund. Your call.
+      </div>
+    </div>
+
+    {/* ─── SECTION 13: 1px Rule ─── */}
+    <div style={{ height: '1px', background: '#E8E2DA', width: '100%' }} />
+
+    {/* ─── SECTION 14: Signoff (FAQ Variant - Custom) ─── */}
+    <div style={{ background: B.ink, padding: '0 22px 36px' }}>
+      <div
+        style={{
+          background: '#1F2A2C',
+          border: '1.5px solid #2F3D40',
+          borderRadius: '22px',
+          padding: '26px 24px 24px',
+        }}
+      >
+        {/* Top accent gradient bar */}
+        <div
+          style={{
+            height: '4px',
+            background: B.gradient,
+            borderRadius: '4px 4px 0 0',
+            margin: '-26px -24px 20px',
+            width: 'calc(100% + 48px)',
+          }}
+        />
+
+        {/* Avatar */}
+        <div style={{ textAlign: 'center', marginBottom: '16px' }}>
+          <div
+            style={{
+              width: '58px',
+              height: '58px',
+              borderRadius: '50%',
+              background: `linear-gradient(135deg, #FFD866 0%, ${B.teal} 100%)`,
+              display: 'inline-flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              fontSize: '24px',
+              color: B.paper,
+              fontWeight: 700,
+              fontFamily: F.display,
+            }}
+          >
+            L
+          </div>
+        </div>
+
+        {/* A note from eyebrow */}
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '11px',
+            color: '#8FAFB2',
+            textTransform: 'uppercase',
+            letterSpacing: '1.5px',
+            textAlign: 'center',
+            marginBottom: '4px',
+          }}
+        >
+          A note from
+        </div>
+
+        {/* Name */}
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '17px',
+            fontWeight: 700,
+            color: '#FFFFFF',
+            textAlign: 'center',
+            marginBottom: '4px',
+          }}
+        >
+          Lena S.
+        </div>
+
+        {/* Role */}
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '12px',
+            color: '#8FAFB2',
+            fontStyle: 'italic',
+            textAlign: 'center',
+            marginBottom: '20px',
+          }}
+        >
+          Customer Support · Mom of two autistic sons
+        </div>
+
+        {/* Dashed divider */}
+        <div
+          style={{
+            borderTop: '1.5px dashed #3A4547',
+            marginBottom: '20px',
+          }}
+        />
+
+        {/* Personal text */}
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '15px',
+            color: '#B8CACD',
+            lineHeight: 1.7,
+            marginBottom: '20px',
+          }}
+        >
+          On the other hand, if today isn't the right day, that's a real answer. The product will be here when you are. So will I. Reply to this email and tell me about your child. I read everything.
+        </div>
+
+        {/* With understanding, */}
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '12px',
+            color: '#B8CACD',
+            marginBottom: '4px',
+          }}
+        >
+          With understanding,
+        </div>
+
+        {/* Lena signature with flourish */}
+        <div style={{ position: 'relative', display: 'inline-block', marginBottom: '16px' }}>
+          <div
+            style={{
+              fontFamily: 'Caveat',
+              fontSize: '42px',
+              color: '#D8F57C',
+              lineHeight: 1,
+            }}
+          >
+            Lena
+          </div>
+          {/* Flourish SVG */}
+          <svg
+            width="60"
+            height="12"
+            viewBox="0 0 60 12"
+            xmlns="http://www.w3.org/2000/svg"
+            style={{ display: 'block', marginTop: '-4px' }}
+          >
+            <path
+              d="M2 8 Q15 2, 30 6 Q45 10, 58 4"
+              fill="none"
+              stroke="#D8F57C"
+              strokeWidth="1.5"
+              strokeLinecap="round"
+              opacity="0.6"
+            />
+          </svg>
+        </div>
+
+        {/* Another dashed divider */}
+        <div
+          style={{
+            borderTop: '1.5px dashed #3A4547',
+            marginBottom: '16px',
+          }}
+        />
+
+        {/* P.S. */}
+        <div
+          style={{
+            fontFamily: F.main,
+            fontSize: '13px',
+            color: '#8FAFB2',
+            lineHeight: 1.6,
+          }}
+        >
+          <strong style={{ color: '#B8CACD' }}>P.S.</strong> 16,511 parents left a review. 4.9★ average. Not because every child trained, but because parents finally had an answer to 'why nothing worked.' Read a few if you're not sure yet.
+        </div>
+      </div>
+    </div>
+
+    {/* ─── SECTION 15: OutLine + Footer ─── */}
+    <OutLine bg={B.paper} />
+    <Footer />
+  </EmailShell>
+);
+
+Object.assign(window, { Email_faq_21_e1 });
+
+    ReactDOM.createRoot(document.getElementById('root')).render(React.createElement(Email_faq_21_e1));
+  </script>
+</body>
+</html>

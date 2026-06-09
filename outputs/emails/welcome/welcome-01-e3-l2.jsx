@@ -30,69 +30,66 @@ const Email_Welcome_E3_L2 = () => (
     <Band from={L2.offWhite} to={L2.taupe} height={40} />
 
     {/* ═══════════════ HERO — MECHANISM TEASE (two-column) ═══════════════ */}
-    <div style={{ background: L2.taupe, padding: "30px 30px 40px" }}>
-      <div style={{ display: "flex", gap: 20, alignItems: "center" }}>
-        {/* Left: Interoception Gap Diagram placeholder */}
+    <div style={{ background: L2.taupe, padding: "15px 24px 18px" }}>
+      <div style={{ display: "flex", gap: 16, alignItems: "center" }}>
+        {/* Left: Interoception Gap Diagram (compact) */}
         <div style={{
-          flex: 1, minWidth: 0,
+          flex: "0 0 130px", minWidth: 0,
           background: "#FFFFFF",
           border: `2px solid ${L2.navy}`,
-          borderRadius: 16,
-          padding: 20,
+          borderRadius: 14,
+          padding: 14,
           textAlign: "center",
-          position: "relative",
         }}>
-          {/* Simplified bridge diagram */}
-          <svg width="220" height="180" viewBox="0 0 220 180" style={{ display: "block", margin: "0 auto" }}>
-            {/* Brain icon */}
-            <ellipse cx="110" cy="30" rx="28" ry="20" stroke={L2.navy} strokeWidth="2" fill="none" />
-            <text x="110" y="34" textAnchor="middle" fontSize="9" fill={L2.navy} fontWeight="700">BRAIN</text>
-
-            {/* Dashed arrow — signal path with gap */}
-            <line x1="110" y1="52" x2="110" y2="80" stroke={L2.amber} strokeWidth="2" strokeDasharray="4 3" />
-            <text x="130" y="72" fontSize="7" fill={L2.mutedCite} fontStyle="italic">gap</text>
-
-            {/* Bridge glow */}
-            <rect x="95" y="80" width="30" height="24" rx="6" fill={L2.gold} opacity="0.85" />
-            <text x="110" y="95" textAnchor="middle" fontSize="6" fill={L2.navy} fontWeight="700">BRIDGE</text>
-
-            {/* Lower dashed arrow */}
-            <line x1="110" y1="106" x2="110" y2="134" stroke={L2.amber} strokeWidth="2" strokeDasharray="4 3" />
-
-            {/* Bladder icon */}
-            <ellipse cx="110" cy="150" rx="28" ry="20" stroke={L2.navy} strokeWidth="2" fill="none" />
-            <text x="110" y="154" textAnchor="middle" fontSize="9" fill={L2.navy} fontWeight="700">BLADDER</text>
+          <svg width="140" height="100" viewBox="0 0 140 100" style={{ display: "block", margin: "0 auto" }}>
+            <ellipse cx="70" cy="16" rx="18" ry="12" stroke={L2.navy} strokeWidth="2" fill="none" />
+            <text x="70" y="20" textAnchor="middle" fontSize="7" fill={L2.navy} fontWeight="700">BRAIN</text>
+            <line x1="70" y1="30" x2="70" y2="46" stroke={L2.amber} strokeWidth="2" strokeDasharray="4 3" />
+            <text x="84" y="41" fontSize="6" fill={L2.mutedCite} fontStyle="italic">gap</text>
+            <rect x="58" y="46" width="24" height="16" rx="4" fill={L2.gold} opacity="0.85" />
+            <text x="70" y="57" textAnchor="middle" fontSize="5" fill={L2.navy} fontWeight="700">BRIDGE</text>
+            <line x1="70" y1="64" x2="70" y2="78" stroke={L2.amber} strokeWidth="2" strokeDasharray="4 3" />
+            <ellipse cx="70" cy="88" rx="18" ry="12" stroke={L2.navy} strokeWidth="2" fill="none" />
+            <text x="70" y="92" textAnchor="middle" fontSize="7" fill={L2.navy} fontWeight="700">BLADDER</text>
           </svg>
-          <div style={{
-            fontSize: 10, letterSpacing: 1, textTransform: "uppercase",
-            color: L2.amber, fontWeight: 700, marginTop: 10,
-          }}>
-            Interoception Gap Diagram
-          </div>
         </div>
 
         {/* Right: Headline + subject display */}
         <div style={{ flex: 1, minWidth: 0 }}>
           <div style={{
-            fontSize: 13, letterSpacing: 1, textTransform: "uppercase",
-            color: L2.amber, fontWeight: 700, marginBottom: 12,
+            fontSize: 11, letterSpacing: 1, textTransform: "uppercase",
+            color: L2.amber, fontWeight: 700, marginBottom: 8,
           }}>
             Part three of six
           </div>
           <h1 style={{
-            fontSize: 28, lineHeight: 1.3, fontWeight: 700,
-            color: L2.navy, margin: "0 0 14px", letterSpacing: -0.5,
+            fontSize: 22, lineHeight: 1.25, fontWeight: 700,
+            color: L2.navy, margin: "0 0 10px", letterSpacing: -0.3,
             fontFamily: "'Georgia', 'Times New Roman', Times, serif",
           }}>
             Kelly Mahler explains why your child can't feel the signal
           </h1>
           <p style={{
-            fontSize: 17, lineHeight: 1.6, color: L2.textGrey, margin: 0,
+            fontSize: 14, lineHeight: 1.5, color: L2.textGrey, margin: 0,
             fontFamily: "'Georgia', serif",
           }}>
-            Your OT mentioned interoception. Here's what the research actually says, and why it changes everything for L2 potty training.
+            Your OT mentioned interoception. Here's what the research actually says.
           </p>
         </div>
+      </div>
+    </div>
+
+    {/* ═══════════════ ABOVE-FOLD CTA (compact) ═══════════════ */}
+    <div style={{ background: L2.taupe, padding: "0 24px 14px", textAlign: "center" }}>
+      <a href="#" style={{
+        display: "inline-block", padding: "14px 28px",
+        background: L2.navy, color: "#D8F57C",
+        fontSize: 14, fontWeight: 700,
+        textDecoration: "none", borderRadius: 999, letterSpacing: 0.3,
+        border: "2px solid #D8F57C",
+      }}>
+        See the 3+3 Bundle, $79.99
+      </a>
       </div>
     </div>
 
@@ -465,7 +462,7 @@ const Email_Welcome_E3_L2 = () => (
         { icon: "✓", label: "60-day guarantee" },
         { icon: "♡", label: "Sensory-friendly" },
       ]}
-      ctaButton="See the 3+3 Bundle, $79.99"
+      ctaButton="Learn more about the 3+3 Bundle"
       guaranteeBadge={true}
     />
 

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upsell-09-e1 Render</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Questrial&family=Fraunces:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #F5F5F5; display: flex; justify-content: center; padding: 20px; }
+    #root { width: 420px; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script>
+    window.BRAND = {
+      teal: '#2BAEB4',
+      green: '#5DD07A',
+      ink: '#1F2D2F',
+      cream: '#FBF7F1',
+      soft: '#4A6568',
+      muted: '#8A9B9D',
+      gradient: 'linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)',
+      gradientText: {
+        background: 'linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)',
+        WebkitBackgroundClip: 'text',
+        WebkitTextFillColor: 'transparent',
+      },
+      tealDeep: '#1A7A7F',
+    };
+    window.FONT = {
+      main: "'Questrial', sans-serif",
+      display: "'Fraunces', Georgia, serif",
+    };
+    window.FLOW1_SHARED = {
+      signoff: {
+        line1: 'With love and fewer laundry meltdowns,',
+        ps: "P.S. Every wash bag sold helps us keep making underwear that actually does something. Thank you for being part of this.",
+      },
+      out: "You're receiving this because you recently purchased from BrightKidCo.",
+      footer: {
+        tagline: 'BrightKidCo — Because childhood is too short for bad underwear.',
+        links: ['Shop', 'Our Story', 'Care Guide', 'Contact'],
+        address: 'BrightKidCo · 123 Main Street · Portland, OR 97201',
+      },
+    };
+    window.EMAILS = {};
+  </script>
+  <script type="text/babel">
+    const MW = 420;
+    const LOGO = "../assets/brightkidco-logo-v2.png";
+    const B = window.BRAND;
+    const F = window.FONT;
+
+    const ImgFrame = ({ height = 200, label, sublabel, radius = 20, aspect }) => (
+      <div style={{
+        position: "relative", width: "100%", height: aspect ? undefined : height,
+        aspectRatio: aspect, background: "#FFFFFF", border: `2px dashed ${B.teal}`,
+        borderRadius: radius, display: "flex", flexDirection: "column",
+        alignItems: "center", justifyContent: "center", padding: "18px 22px",
+        textAlign: "center", overflow: "hidden",
+      }}>
+        <svg width="14" height="14" style={{ position: "absolute", top: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,6 L1,1 L6,1" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="14" height="14" style={{ position: "absolute", top: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,1 L13,1 L13,6" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="14" height="14" style={{ position: "absolute", bottom: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,8 L1,13 L6,13" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="14" height="14" style={{ position: "absolute", bottom: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,13 L13,13 L13,8" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+        <svg width="32" height="32" viewBox="0 0 32 32" style={{ marginBottom: 10, opacity: 0.5 }}>
+          <rect x="3" y="6" width="26" height="20" rx="3" stroke={B.teal} strokeWidth="1.8" fill="none" />
+          <circle cx="11" cy="13" r="2.5" fill={B.teal} opacity="0.5" />
+          <path d="M5,23 L12,16 L18,21 L22,18 L27,23" stroke={B.teal} strokeWidth="1.8" fill="none" strokeLinejoin="round" />
+        </svg>
+        <div style={{ fontFamily: F.main, fontSize: 12.5, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase", color: B.teal, marginBottom: 6 }}>{label}</div>
+        <div style={{ fontFamily: F.main, fontSize: 12, lineHeight: 1.5, color: B.soft, maxWidth: 300 }}>{sublabel}</div>
+      </div>
+    );
+
+    const FramedImage = ({ children, height, label, sublabel, shadow = 4 }) => (
+      <div style={{ borderRadius: 20, overflow: "hidden", border: `2px solid ${B.ink}`, boxShadow: `${shadow}px ${shadow}px 0 ${B.ink}` }}>
+        <ImgFrame height={height} radius={0} label={label} sublabel={sublabel} />
+        {children}
+      </div>
+    );
+
+    const Band = ({ from, to, height = 40 }) => (
+      <div style={{ height, background: `linear-gradient(180deg, ${from} 0%, ${to} 100%)` }} />
+    );
+
+    const Header = ({ bg }) => (
+      <div style={{ background: bg, padding: "24px 20px 0", textAlign: "center" }}>
+        <img src={LOGO} alt="BrightKidCo" style={{ height: 34 }} />
+      </div>
+    );
+
+    const PartBadge = ({ children }) => (
+      <div style={{
+        display: "inline-block", background: "#FFD866",
+        padding: "7px 14px", borderRadius: 999, fontSize: 10.5,
+        fontWeight: 700, letterSpacing: 1.5, textTransform: "uppercase",
+        marginBottom: 16, border: `2px solid ${B.ink}`, transform: "rotate(-1.5deg)",
+        whiteSpace: "nowrap", lineHeight: 1.4,
+      }}>{children}</div>
+    );
+
+    const TitleBlock = ({ badge, part1, part2, accent2 = true, subhead }) => (
+      <div style={{ padding: "34px 22px 0", textAlign: "center" }}>
+        <PartBadge>{badge}</PartBadge>
+        <h1 style={{ fontSize: 40, lineHeight: 1, fontWeight: 700, margin: 0, letterSpacing: -0.8 }}>
+          {part1}<br/>
+          {accent2 ? <span style={{ ...B.gradientText, fontWeight: 700 }}>{part2}</span> : part2}
+        </h1>
+        {subhead && (
+          <p style={{ fontSize: 17, color: B.soft, marginTop: 14, lineHeight: 1.4, fontWeight: 500 }}>{subhead}</p>
+        )}
+      </div>
+    );
+
+    const Letter = ({ bg, paras, first }) => (
+      <div style={{ background: bg, padding: "4px 24px 28px", fontSize: 15, lineHeight: 1.7, color: B.soft }}>
+        {first && <p style={{ margin: "0 0 14px", fontSize: 17, color: B.ink, fontWeight: 600 }}>{first}</p>}
+        {paras.map((p, i) => (
+          <p key={i} style={{ margin: i === paras.length - 1 ? 0 : "0 0 14px" }}>{p}</p>
+        ))}
+      </div>
+    );
+
+    const Eyebrow = ({ children, color = B.tealDeep }) => (
+      <div style={{ fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color, fontWeight: 700, marginBottom: 10 }}>{children}</div>
+    );
+
+    const H2 = ({ children, center, size = 28 }) => (
+      <h2 style={{ fontSize: size, lineHeight: 1.15, fontWeight: 700, margin: "0 0 16px", letterSpacing: -0.4, textAlign: center ? "center" : "left" }}>{children}</h2>
+    );
+
+    const CTAClose = ({ intro, button, fine, bg = B.ink }) => (
+      <div style={{ background: bg, padding: "20px 22px 44px", textAlign: "center", color: "#FFF" }}>
+        <p style={{ fontSize: 14, lineHeight: 1.6, color: "#B8CACD", margin: "0 0 24px" }}>{intro}</p>
+        <a href="#" style={{
+          display: "inline-block", padding: "17px 32px",
+          background: "#D8F57C", color: B.ink, fontSize: 15.5, fontWeight: 700,
+          textDecoration: "none", borderRadius: 999, letterSpacing: 0.3,
+        }}>{button} →</a>
+        {fine && <div style={{ marginTop: 16, fontSize: 11.5, color: "#8A9B9D" }}>{fine}</div>}
+      </div>
+    );
+
+    const EmailShell = ({ children, preheader, bg }) => (
+      <div style={{ width: MW, background: bg, fontFamily: F.main, color: B.ink }}>
+        <div style={{ padding: "6px 20px", fontSize: 11, color: B.muted, background: "#F6F2EA", textAlign: "center", fontStyle: "italic" }}>
+          Preheader: {preheader}
+        </div>
+        {children}
+      </div>
+    );
+
+    /* ── Email: upsell-09-e1 ── */
+    const Email_pp_direct_upsell_09_e1 = () => (
+      <EmailShell preheader="One small add-on that keeps the signal layer working wash after wash" bg="#FAF9F7">
+
+        {/* SECTION 1: FROM NAME */}
+        <div style={{ background: "#FFFFFF", padding: "32px 24px 16px", borderBottom: "1px solid #E5E5E5" }}>
+          <div style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, color: "#4A6568" }}>
+            Lena from BrightKidCo
+          </div>
+        </div>
+
+        {/* SECTION 2: HERO */}
+        <div style={{ background: "#FAF9F7", padding: "48px 24px 40px" }}>
+          <div style={{ fontSize: 11, letterSpacing: 1.5, textTransform: "uppercase", color: "#8A9B9D", fontWeight: 700, fontFamily: F.main, marginBottom: 20 }}>
+            CARE GUIDE
+          </div>
+          <table cellPadding="0" cellSpacing="0" border="0" width="100%" style={{ borderCollapse: "collapse" }}>
+            <tbody>
+              <tr>
+                <td style={{ verticalAlign: "top", width: "60%", paddingRight: 16 }}>
+                  <h1 style={{ fontFamily: F.main, fontSize: 28, fontWeight: 400, lineHeight: 1.4, letterSpacing: -0.3, color: "#1F2D2F", margin: 0 }}>
+                    How to make your Body-Signal underwear last longer
+                  </h1>
+                </td>
+                <td style={{ verticalAlign: "middle", width: "40%", textAlign: "right" }}>
+                  <svg width="240" height="240" viewBox="0 0 240 240" style={{ display: "block", marginLeft: "auto" }}>
+                    <rect x="30" y="40" width="180" height="170" rx="16" fill="none" stroke="#D4C9B8" strokeWidth="1" />
+                    {[...Array(8)].map((_, row) =>
+                      [...Array(9)].map((_, col) => (
+                        <circle key={`dot-${row}-${col}`} cx={50 + col * 20} cy={60 + row * 20} r="2" fill="#E8E0D4" opacity="0.15" />
+                      ))
+                    )}
+                    <line x1="30" y1="40" x2="210" y2="40" stroke="#039902" strokeWidth="1" opacity="0.8" />
+                    <circle cx="120" cy="36" r="6" fill="none" stroke="#C4BBA8" strokeWidth="0.5" />
+                    <path d="M120,36 Q123,33 120,30 Q117,33 120,36" fill="none" stroke="#C4BBA8" strokeWidth="0.5" />
+                    <path d="M120,36 Q126,33 120,27 Q114,33 120,36" fill="none" stroke="#C4BBA8" strokeWidth="0.5" />
+                    <path d="M120,36 Q129,33 120,24 Q111,33 120,36" fill="none" stroke="#C4BBA8" strokeWidth="0.5" />
+                    <ellipse cx="120" cy="130" rx="40" ry="30" fill="none" stroke="#C4BBA8" strokeWidth="1" opacity="0.2" />
+                    <path d="M80,130 Q80,165 95,175 L120,180 L145,175 Q160,165 160,130" fill="none" stroke="#C4BBA8" strokeWidth="1" opacity="0.2" />
+                  </svg>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        {/* SECTION 3: HOOK */}
+        <div style={{ background: "#FFFFFF", padding: "24px 24px" }}>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A4A4A", margin: 0 }}>
+            Your order arrived a few days ago. You've got the Body-Signal underwear in hand, and your child is starting to explore the sensation. Whether they're already showing awareness, a pause, a look, a pull at the pants, or still in the familiarization phase, the underwear is doing its work every time they wear it. The question now is how to keep it working well, wash after wash.
+          </p>
+        </div>
+
+        {/* SECTION 4: VALIDATION */}
+        <div style={{ background: "#FBF7F1", padding: "32px 24px" }}>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A4A4A", margin: "0 0 20px" }}>
+            The Body-Signal Learning Layer is the key mechanism, that's the cotton inner layer that creates the gentle sustained "uh-oh" sensation after every accident. This what bridges the interoception gap, giving your child's brain the feedback it's been missing. But here's what most parents don't realize: standard washing machine cycles, with their aggressive agitation and high heat, can break down the signal-preserving properties of that inner layer over time. The cotton fibers that make the learning mechanism work need gentler care. Without it, the very layer that's doing the neurological teaching starts to lose effectiveness, and the learning window narrows with every wash that's too harsh.
+          </p>
+          <div style={{ background: "#E8E0D4", borderRadius: 4, padding: 20, borderLeft: "3px solid #D4C9B8" }}>
+            <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 15, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: 0 }}>
+              Standard wash cycles break down signal-preserving properties over time.
+            </p>
+          </div>
+        </div>
+
+        {/* SECTION 5: MECHANISM */}
+        <div style={{ background: "#FFFFFF", padding: "32px 24px" }}>
+          <div style={{ position: "relative", paddingLeft: 20 }}>
+            <div style={{ position: "absolute", left: 8, top: 0, bottom: 0, width: 2, background: "rgba(3, 153, 2, 0.5)" }} />
+            <div style={{ fontFamily: F.main, fontSize: 13, fontWeight: 500, letterSpacing: 0.15, textTransform: "uppercase", color: "#039902", marginBottom: 10 }}>
+              how it works
+            </div>
+            <p style={{ fontFamily: F.main, fontSize: 18, fontWeight: 700, lineHeight: 1.3, color: "#1F2D2F", margin: "0 0 4px" }}>
+              The BrightKidCo Wash Bag
+            </p>
+            <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: "0 0 16px" }}>
+              $14.99
+            </p>
+            <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A4A4A", margin: "0 0 18px" }}>
+              The BrightKidCo Wash Bag ($14.99) was designed for exactly this reason. It's a dedicated mesh laundry bag that protects the Body-Signal Learning Layer during machine washing. You toss the underwear inside, zip it up, and run your regular cycle. The mesh barriers reduce abrasion, prevent the cotton from over-agitating, and maintain the structural integrity that makes the signal mechanism work. One Wash Bag covers up to 6 pairs, the same capacity as the 3+3 Bundle rotation. It's a one-time purchase that extends the functional life of every pair you own. Same commitment to sensory-friendly materials, soft, no tags, no rough edges.
+            </p>
+            <div style={{ marginBottom: 4 }}>
+              <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 10px" }}>
+                <span style={{ color: "#039902", marginRight: 8 }}>◆</span> Mesh barriers reduce abrasion
+              </p>
+              <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 10px" }}>
+                <span style={{ color: "#039902", marginRight: 8 }}>◆</span> Prevents cotton from over-agitating
+              </p>
+              <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 10px" }}>
+                <span style={{ color: "#039902", marginRight: 8 }}>◆</span> Maintains structural integrity
+              </p>
+              <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 10px" }}>
+                <span style={{ color: "#039902", marginRight: 8 }}>◆</span> Covers up to 6 pairs
+              </p>
+              <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: 0 }}>
+                <span style={{ color: "#039902", marginRight: 8 }}>◆</span> One-time purchase
+              </p>
+            </div>
+          </div>
+        </div>
+
+        {/* SECTION 6: PRODUCT */}
+        <div style={{ background: "#FFFFFF", padding: "32px 24px" }}>
+          <ImgFrame height={400} label="WASH BAG PRODUCT PHOTO" sublabel="BrightKidCo mesh wash bag for body-signal underwear — 600×400px flat-lay" aspect="3/2" />
+          <p style={{ fontFamily: F.main, fontSize: 18, fontWeight: 700, lineHeight: 1.3, color: "#1F2D2F", margin: "20px 0 8px" }}>
+            Sensory-friendly materials
+          </p>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A4A4A", margin: 0 }}>
+            Soft, no tags, no rough edges. Same commitment as the underwear you're already wearing.
+          </p>
+        </div>
+
+        {/* SECTION 7: TESTIMONIAL */}
+        <div style={{ background: "#FBF7F1", padding: "24px 24px" }}>
+          <div style={{ background: "#FFFFFF", borderRadius: 8, padding: 24 }}>
+            <p style={{ fontFamily: "Georgia, serif", fontSize: 16, fontWeight: 400, fontStyle: "italic", lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 12px" }}>
+              "I didn't think a laundry bag mattered until I saw the difference at week four. The underwear held up better, and I wasn't replacing pairs as fast."
+            </p>
+            <p style={{ fontFamily: F.main, fontSize: 12, fontWeight: 400, lineHeight: 1.3, color: "#8A9B9D", margin: 0 }}>
+              — Real parent
+            </p>
+          </div>
+        </div>
+
+        {/* SECTION 8: TRUST */}
+        <div style={{ background: "#FFFFFF", padding: "16px 24px" }}>
+          <table cellPadding="0" cellSpacing="0" border="0" width="100%" style={{ borderCollapse: "collapse" }}>
+            <tbody>
+              <tr>
+                <td style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, color: "#8A9B9D", textAlign: "center", padding: "8px 0" }}>
+                  ✓ 60-Day Guarantee &nbsp;·&nbsp; ✓ Sensory-Friendly Materials &nbsp;·&nbsp; ✓ One-Time Purchase
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        {/* SECTION 9: CTA */}
+        <div style={{ background: "#FFFFFF", padding: "30px 24px", textAlign: "center" }}>
+          <a href="https://www.brightkidco.com/products/wash-bag" style={{
+            display: "inline-block",
+            padding: "0 32px",
+            background: "#039902",
+            color: "#FFFFFF",
+            fontFamily: F.main,
+            fontSize: 16,
+            fontWeight: 600,
+            letterSpacing: 1.2,
+            textTransform: "uppercase",
+            textDecoration: "none",
+            borderRadius: 8,
+            height: 48,
+            lineHeight: "48px",
+            textAlign: "center",
+          }}>
+            Add the Wash Bag to your routine
+          </a>
+          <p style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, color: "#4A6568", margin: "16px 0 0" }}>
+            <a href="#" style={{ color: "#4A6568", textDecoration: "underline" }}>
+              Learn more about caring for your Body-Signal underwear
+            </a>
+          </p>
+        </div>
+
+        {/* SECTION 10: NEXT TEASER */}
+        <div style={{ background: "#FFFFFF", padding: "16px 24px" }}>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 14, fontWeight: 400, fontStyle: "italic", color: "#8A9B9D", margin: 0 }}>
+            Next time: One thing every parent wishes they'd bought sooner.
+          </p>
+        </div>
+
+        {/* SECTION 11: LENA SIGN-OFF */}
+        <div style={{ background: "#FFFFFF", padding: "24px 24px" }}>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 4px" }}>
+            Thanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.
+          </p>
+          <p style={{ fontFamily: "'Fraunces', Georgia, serif", fontSize: 16, fontWeight: 400, fontStyle: "italic", lineHeight: 1.6, color: "#1F2D2F", margin: 0 }}>
+            Lena —,
+          </p>
+        </div>
+
+        {/* SECTION 12: FOOTER */}
+        <div style={{ background: "#FBF7F1", padding: "24px 24px 16px", textAlign: "center" }}>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 12, lineHeight: 1.3, color: "#8A9B9D", margin: "0 0 6px" }}>
+            BrightKidCo · [Physical Address]
+          </p>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 12, lineHeight: 1.3, color: "#8A9B9D", margin: "0 0 6px" }}>
+            If you'd prefer not to receive future emails, <a href="#" style={{ color: "#8A9B9D", textDecoration: "underline" }}>unsubscribe here</a>.
+          </p>
+          <p style={{ fontFamily: "Helvetica, Arial, sans-serif", fontSize: 12, lineHeight: 1.3, color: "#8A9B9D", margin: 0 }}>
+            Reply to this email, Lena reads every response.
+          </p>
+        </div>
+
+      </EmailShell>
+    );
+
+    const root = ReactDOM.createRoot(document.getElementById("root"));
+    root.render(<Email_pp_direct_upsell_09_e1 />);
+  </script>
+</body>
+</html>

@@ -33,11 +33,21 @@ const Email_Welcome_E2_L2 = () => (
         Why your BCBA protocol couldn't fix this
       </h1>
       <p style={{
-        fontSize: 16, lineHeight: 1.5, color: "#4A6568", margin: 0,
+        fontSize: 16, lineHeight: 1.5, color: "#4A6568", margin: "0 0 20px",
         fontFamily: "Georgia, serif",
       }}>
         The signal comes too late for prompt systems to work. Here's what's actually happening neurologically.
       </p>
+      <a href="#body-signal" style={{
+        display: "inline-block", padding: "14px 28px",
+        background: "#1F2D2F", color: "#D8F57C",
+        fontSize: 14, fontWeight: 700,
+        textDecoration: "none", borderRadius: 999,
+        letterSpacing: 0.3,
+        fontFamily: "Plus Jakarta Sans, Inter, sans-serif",
+      }}>
+        See the pants →
+      </a>
     </div>
 
     {/* ══════ 20.2 — Dot Pattern Divider ══════ */}
@@ -302,12 +312,14 @@ const Email_Welcome_E2_L2 = () => (
     </div>
 
     {/* ══════ PRODUCT SHOWCASE: ProductShowcaseMedium ══════ */}
+    <div id="body-signal">
     <ProductShowcaseMedium
       eyebrow="THE BODY-SIGNAL APPROACH"
       title="Body-Signal Learning Layer™"
       priceFrom="€34"
       ctaButton="See the pants"
     />
+    </div>
 
     {/* ══════ GUARANTEE: TRUST-2 — Guarantee Detail Cards ══════ */}
     <div style={{
@@ -414,6 +426,69 @@ const Email_Welcome_E2_L2 = () => (
     {/* ── OutLine + Footer ── */}
     <OutLine />
     <Footer />
+
+    {/* ── Dark Mode ── */}
+    <style>{`
+      @media (prefers-color-scheme: dark) {
+        /* Global overrides */
+        body, .email-wrap, table td { background-color: #1a1f1e !important; }
+        h1, h2, h3, strong { color: #f0f0f0 !important; }
+        p, span, td, div { color: #d0d0d0 !important; }
+
+        /* Hero section */
+        [style*="background: #F5F0EB"],
+        [style*="background-color: #F5F0EB"] {
+          background-color: #2a2520 !important;
+        }
+
+        /* CTA dark block */
+        [style*="background: #1F2D2F"],
+        [style*="background-color: #1F2D2F"] {
+          background-color: #0d1516 !important;
+        }
+
+        /* Guarantee sage block */
+        [style*="background: #F0F4EE"],
+        [style*="background-color: #F0F4EE"] {
+          background-color: #1e2822 !important;
+        }
+
+        /* Pull quote / callout boxes */
+        [style*="background: #F5F0EB"],
+        [style*="background-color: #F5F0EB"] {
+          background-color: #2a2520 !important;
+        }
+
+        /* Product card backgrounds */
+        [style*="background: #FDFBF8"],
+        [style*="background-color: #FDFBF8"] {
+          background-color: #1e1f1e !important;
+        }
+
+        /* Mechanism layer backgrounds */
+        [style*="background: #F5EDE0"],
+        [style*="background-color: #F5EDE0"] {
+          background-color: #2a2520 !important;
+        }
+        [style*="background: #E8DCC8"],
+        [style*="background-color: #E8DCC8"] {
+          background-color: #2a2820 !important;
+        }
+
+        /* Link color */
+        a { color: #2BAEB4 !important; }
+
+        /* CTA button override */
+        [style*="background: #D8F57C"],
+        [style*="background-color: #D8F57C"] {
+          background-color: #2BAEB4 !important;
+          color: #1a1f1e !important;
+        }
+
+        /* Image dimming */
+        img { opacity: 0.85; }
+      }
+    `}</style>
 
   </EmailShell>
 );

@@ -199,6 +199,11 @@ const Email_welcome_01_e7_l1 = () => {
             { icon: "♡", label: "Sensory-friendly" },
           ]}
           ctaButton="See if the 3+3 Bundle Works for Your Child"
+          ctaBg="#4A7C59"
+          ctaColor="#FFFFFF"
+          ctaRadius={6}
+          ageRange="Ages 3-5"
+          microTrustText="Free shipping on orders over $50 · 60-day guarantee"
         />
         {/* Secondary value line */}
         <div style={{ padding: "0 22px 20px", textAlign: "center" }}>

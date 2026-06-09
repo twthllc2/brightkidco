@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=420">
+<script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<style>body{margin:0;padding:0;background:#f5f5f5;display:flex;justify-content:center;}</style>
+</head><body>
+<div id="root"></div>
+<script type="text/babel">
+window.BRAND = {
+  teal: "#2BAEB4",
+  tealDeep: "#1A8A90",
+  green: "#5DD07A",
+  ink: "#1F2D2F",
+  cream: "#FBF7F1",
+  paper: "#FFFFFF",
+  soft: "#4A6568",
+  muted: "#8A9B9D",
+  gradient: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+  gradientText: {
+    background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+    WebkitBackgroundClip: "text",
+    WebkitTextFillColor: "transparent",
+  },
+};
+window.FONT = { main: "Questrial, sans-serif", display: "Fraunces, serif" };
+window.FLOW1_SHARED = {
+  signoff: { line1: "A note from", ps: "If you have a question about why you didn't see the results you hoped for, hit reply. I read every message. No templates, no bots, just me." },
+  out: "No longer want to receive these emails? Unsubscribe.",
+  footer: { tagline: "Built for the brain that learns differently.", links: ["Shop", "Our Story", "Support"], address: "BrightKidCo, Portland, OR" },
+};
+
+const MW = 420;
+const LOGO = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='34'%3E%3Ctext x='0' y='24' font-family='sans-serif' font-size='18' font-weight='700' fill='%231F2D2F'%3EBrightKidCo%3C/text%3E%3C/svg%3E";
+const B = window.BRAND;
+const F = window.FONT;
+
+const ImgFrame = ({ height = 200, label, sublabel, radius = 20 }) => (
+  <div style={{
+    position: "relative", width: "100%", height: height,
+    background: "#FFFFFF", border: "2px dashed " + B.teal,
+    borderRadius: radius, display: "flex", flexDirection: "column",
+    alignItems: "center", justifyContent: "center", padding: "18px 22px",
+    textAlign: "center", overflow: "hidden",
+  }}>
+    <svg width="14" height="14" style={{ position: "absolute", top: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,6 L1,1 L6,1" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", top: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,1 L13,1 L13,6" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", bottom: 10, left: 10 }} viewBox="0 0 14 14"><path d="M1,8 L1,13 L6,13" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="14" height="14" style={{ position: "absolute", bottom: 10, right: 10 }} viewBox="0 0 14 14"><path d="M8,13 L13,13 L13,8" stroke={B.teal} strokeWidth="2" fill="none" strokeLinecap="round" /></svg>
+    <svg width="32" height="32" viewBox="0 0 32 32" style={{ marginBottom: 10, opacity: 0.5 }}>
+      <rect x="3" y="6" width="26" height="20" rx="3" stroke={B.teal} strokeWidth="1.8" fill="none" />
+      <circle cx="11" cy="13" r="2.5" fill={B.teal} opacity="0.5" />
+      <path d="M5,23 L12,16 L18,21 L22,18 L27,23" stroke={B.teal} strokeWidth="1.8" fill="none" strokeLinejoin="round" />
+    </svg>
+    <div style={{ fontFamily: F.main, fontSize: 12.5, fontWeight: 700, letterSpacing: 1, textTransform: "uppercase", color: B.teal, marginBottom: 6 }}>{label}</div>
+    <div style={{ fontFamily: F.main, fontSize: 12, lineHeight: 1.5, color: B.soft, maxWidth: 300 }}>{sublabel}</div>
+  </div>
+);
+
+const EmailShell = ({ children, preheader, bg }) => (
+  <div style={{ width: MW, background: bg, fontFamily: F.main, color: B.ink, margin: "0 auto" }}>
+    <div style={{ padding: "6px 20px", fontSize: 11, color: B.muted, background: "#F6F2EA", textAlign: "center", fontStyle: "italic" }}>
+      Preheader: {preheader}
+    </div>
+    {children}
+  </div>
+);
+
+const Email = () => (
+  <EmailShell preheader="No pressure. No deadline. Just a note from Lena." bg="#FBF7F1">
+    <div style={{ width: "100%", height: 36, background: "#FBF7F1", padding: "8px 30px", fontFamily: F.main, fontSize: 12, fontWeight: 400, lineHeight: 1.4, color: "#8A9B9D", textAlign: "left" }}>
+      No pressure. No deadline. Just a note from Lena.
+    </div>
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", borderBottom: "1px solid #E8E2DA", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+      <img src={LOGO} alt="BrightKidCo" style={{ height: 34 }} />
+      <div style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, color: "#4A6568" }}>Lena from BrightKidCo</div>
+    </div>
+    <div style={{ background: "#FFFFFF", padding: "44px 30px 24px" }}>
+      <div style={{ fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color: "#2BAEB4", fontWeight: 700, fontFamily: F.main, marginBottom: 16 }}>WINBACK · FINAL TOUCH</div>
+      <div style={{ width: "100%", marginBottom: 24 }}>
+        <ImgFrame height={180} label="Hero Lifestyle" sublabel="Warm lifestyle image — founders holding pants, natural light" radius={16} />
+      </div>
+      <h1 style={{ fontFamily: F.main, fontSize: 26, fontWeight: 600, lineHeight: 1.2, letterSpacing: -0.01, color: "#1F2D2F", margin: "0 0 16px" }}>
+        Still figuring it out? Door's open.
+      </h1>
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: 0 }}>
+        Whether you used them for a week or a month, whether your child showed a flicker of awareness or nothing at all, whether you're still deciding or you'd already decided: this email isn't trying to change your mind.
+      </p>
+    </div>
+    <div style={{ padding: "24px 30px", textAlign: "center" }}>
+      <div style={{ width: 60, height: 8, borderTop: "2px solid #2BAEB4", margin: "0 auto" }} />
+    </div>
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568" }}>
+      <p style={{ margin: "0 0 16px" }}>It's just a check-in. From one parent to another.</p>
+      <p style={{ margin: "0 0 16px" }}><strong style={{ fontWeight: 700, color: "#1F2D2F" }}>The thing about body-signal learning is that it doesn't follow a timeline.</strong></p>
+      <p style={{ margin: "0 0 16px" }}>Some kids show their first sign, a pause, a look down, a pull at their pants, in 2 weeks. Others need 8 weeks. Some take longer. And some take a break, then come back, and suddenly something clicks that wasn't clicking before.</p>
+      <p style={{ margin: 0 }}>That's not failure. That's a nervous system learning at its own pace.</p>
+    </div>
+    <div style={{ padding: "0 30px" }}><div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} /></div>
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568" }}>
+      <p style={{ margin: "0 0 16px" }}><strong style={{ fontWeight: 700, color: "#1F2D2F" }}>If you stopped because nothing seemed to change, here's what that might mean:</strong></p>
+      <p style={{ margin: "0 0 16px" }}>Your child's brain was still receiving the information. Every time they wore the underwear and felt that gentle sensation, even if you didn't see an outward sign, their body signal system was logging data. Building a connection that wasn't there before.</p>
+      <p style={{ margin: 0 }}><strong style={{ fontWeight: 700, color: "#1F2D2F" }}>The awareness often shows up after the break. Not during.</strong></p>
+    </div>
+    <div style={{ background: "#FBF7F1", padding: "32px 30px", borderRadius: 16 }}>
+      <div style={{ fontFamily: F.main, fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color: "#2BAEB4", fontWeight: 700, marginBottom: 16 }}>HOW THE SIGNAL WORKS</div>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#4A6568", margin: "0 0 24px" }}>The Body-Signal Learning Layer creates a gentle sensation that lasts when wetness happens — 30 to 60 seconds of feedback that gives the brain time to register something happened.</p>
+      <div style={{ background: "#FFFFFF", borderRadius: 12, padding: "20px 16px" }}>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 8, flexWrap: "wrap" }}>
+          <div style={{ textAlign: "center", padding: "8px 12px" }}>
+            <div style={{ width: 48, height: 48, borderRadius: "50%", background: "#FBF7F1", border: "2px solid #2BAEB4", display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 8px" }}><span style={{ fontSize: 20 }}>💧</span></div>
+            <div style={{ fontFamily: F.main, fontSize: 12, fontWeight: 600, color: "#1F2D2F" }}>Wetness</div>
+          </div>
+          <div style={{ fontFamily: F.main, fontSize: 18, color: "#2BAEB4", fontWeight: 700 }}>→</div>
+          <div style={{ textAlign: "center", padding: "8px 12px" }}>
+            <div style={{ width: 48, height: 48, borderRadius: "50%", background: "#FBF7F1", border: "2px solid #2BAEB4", display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 8px" }}><span style={{ fontSize: 20 }}>⏱</span></div>
+            <div style={{ fontFamily: F.main, fontSize: 12, fontWeight: 600, color: "#1F2D2F" }}>30-60s feedback</div>
+          </div>
+          <div style={{ fontFamily: F.main, fontSize: 18, color: "#2BAEB4", fontWeight: 700 }}>→</div>
+          <div style={{ textAlign: "center", padding: "8px 12px" }}>
+            <div style={{ width: 48, height: 48, borderRadius: "50%", background: "#FBF7F1", border: "2px solid #2BAEB4", display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 8px" }}><span style={{ fontSize: 20 }}>🧠</span></div>
+            <div style={{ fontFamily: F.main, fontSize: 12, fontWeight: 600, color: "#1F2D2F" }}>Brain registers</div>
+          </div>
+          <div style={{ fontFamily: F.main, fontSize: 18, color: "#2BAEB4", fontWeight: 700 }}>→</div>
+          <div style={{ textAlign: "center", padding: "8px 12px" }}>
+            <div style={{ width: 48, height: 48, borderRadius: "50%", background: "#FBF7F1", border: "2px solid #2BAEB4", display: "flex", alignItems: "center", justifyContent: "center", margin: "0 auto 8px" }}><span style={{ fontSize: 20 }}>✨</span></div>
+            <div style={{ fontFamily: F.main, fontSize: 12, fontWeight: 600, color: "#1F2D2F" }}>Awareness builds</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style={{ padding: "0 30px" }}><div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} /></div>
+    <div style={{ background: "#FFFFFF", padding: "24px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 20px" }}><strong style={{ fontWeight: 700 }}>Here's what "something" can look like:</strong></p>
+      <div style={{ background: "#FBF7F1", borderLeft: "3px solid #2BAEB4", borderRadius: 12, padding: "20px 22px" }}>
+        <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 12px" }}>— A pause during play. Just one. That wasn't there before.</p>
+        <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 12px" }}>— A look at the wet spot. For the first time.</p>
+        <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 12px" }}>— A step toward the bathroom. Even after the accident.</p>
+        <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 12px" }}>— Staying dry 2 hours instead of 30 minutes.</p>
+        <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.5, color: "#1F2D2F", margin: 0 }}>— Saying "wet" or showing you with a gesture. Once.</p>
+      </div>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: "20px 0 0" }}>None of these are "trained." All of them are progress. And they all happened for real families, some after weeks of nothing, some after a months-long break.</p>
+    </div>
+    <div style={{ padding: "0 30px" }}><div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} /></div>
+    <div style={{ background: "#FFFFFF", padding: "24px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 600, lineHeight: 1.5, color: "#1F2D2F", margin: "0 0 20px" }}><strong style={{ fontWeight: 700 }}>You already own the underwear. So there's nothing to decide today.</strong></p>
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: "0 0 20px" }}>If you want to try again, tomorrow, next week, next month, they're in the drawer. The Body-Signal Learning Layer doesn't expire. The mechanism still works the same way it did the first day.</p>
+      <p style={{ fontFamily: F.main, fontSize: 17, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: "0 0 20px" }}>And the 60-day guarantee? Still stands. If nothing has changed and you're ready to move on, full refund. Your judgment. Always has been.</p>
+      <div style={{ width: "100%", marginBottom: 16 }}>
+        <ImgFrame height={200} label="3+3 Bundle" sublabel="BrightKidCo 3+3 Bundle — flat-lay, laundry bag" radius={16} />
+      </div>
+      <div style={{ textAlign: "center" }}>
+        <p style={{ fontFamily: F.main, fontSize: 18, fontWeight: 600, color: "#1F2D2F", margin: "0 0 4px" }}>3+3 Bundle</p>
+        <p style={{ fontFamily: F.main, fontSize: 20, fontWeight: 700, color: "#2BAEB4", margin: "0 0 4px" }}>$79.99</p>
+        <p style={{ fontFamily: F.main, fontSize: 14, color: "#8A9B9D", margin: "0 0 4px" }}>Free Shipping · 60-Day Guarantee</p>
+        <p style={{ fontFamily: F.main, fontSize: 14, color: "#8A9B9D", margin: 0 }}>$13.33/pair — less than half single price</p>
+      </div>
+    </div>
+    <div style={{ background: "#FFFFFF", padding: "24px 30px", textAlign: "center" }}>
+      <a href="#" style={{ display: "inline-block", padding: "14px 32px", background: "transparent", border: "2px solid #2BAEB4", color: "#2BAEB4", fontFamily: F.main, fontSize: 17, fontWeight: 700, textDecoration: "none", borderRadius: 999, lineHeight: 1.4 }}>
+        Check your order — your 3+3 is ready when you are
+      </a>
+      <p style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, color: "#8A9B9D", margin: "20px 0 0" }}>60-day guarantee still stands. Always has.</p>
+    </div>
+    <div style={{ padding: "0 30px" }}><div style={{ width: "60%", height: 1, background: "#E8E2DA", margin: "0 auto" }} /></div>
+    <div style={{ background: "#FFFFFF", padding: "32px 30px" }}>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 16px" }}>No pressure. No deadline. No guilt.</p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, lineHeight: 1.6, color: "#1F2D2F", margin: "0 0 24px" }}>The door is open. Whenever you walk through it, or don't, that's your call.</p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 400, color: "#1F2D2F", margin: "0 0 4px" }}>With care,</p>
+      <p style={{ fontFamily: F.main, fontSize: 16, fontWeight: 600, color: "#1F2D2F", margin: "0 0 4px" }}>Lena ——</p>
+      <p style={{ fontFamily: F.main, fontSize: 13, color: "#8A9B9D", margin: "0 0 20px" }}>Customer Support · Mom of two autistic sons</p>
+      <p style={{ fontFamily: F.main, fontSize: 14, fontWeight: 400, lineHeight: 1.6, color: "#4A6568", margin: 0, fontStyle: "italic" }}>P.S. If you have a question about why you didn't see the results you hoped for, hit reply. I read every message. No templates, no bots, just me. If I don't have the answer, I'll find someone who does.</p>
+    </div>
+    <div style={{ background: "#FBF7F1", padding: "20px 30px", textAlign: "center" }}>
+      <p style={{ fontFamily: F.main, fontSize: 12, fontWeight: 400, color: "#8A9B9D", margin: "0 0 8px" }}>
+        <a href="#" style={{ color: "#8A9B9D", textDecoration: "underline" }}>Unsubscribe</a> · <a href="#" style={{ color: "#8A9B9D", textDecoration: "underline" }}>Update Preferences</a>
+      </p>
+      <p style={{ fontFamily: F.main, fontSize: 12, fontWeight: 400, color: "#8A9B9D", margin: "0 0 8px" }}>BrightKidCo, Built for the brain that learns differently.</p>
+      <p style={{ fontFamily: F.main, fontSize: 12, fontWeight: 400, color: "#8A9B9D", margin: 0 }}>60-day money-back guarantee · Free shipping on bundles · WELCOME10 auto-applies</p>
+    </div>
+  </EmailShell>
+);
+
+ReactDOM.createRoot(document.getElementById('root')).render(React.createElement(Email));
+</script></body></html>

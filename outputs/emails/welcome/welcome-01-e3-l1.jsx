@@ -1,7 +1,9 @@
-/* Welcome Flow — E3 | L1
+/* Welcome Flow — E3 | L1 (R2 revision)
    Wireframe: wireframes/welcome/welcome-01-e3-l1.md
    Strategy: strategy-map.json → welcome.emails.e3-l1
    Generated: 2026-06-09
+   R2: Replaced B.green (#5DD07A) with #039902 for CTAs, stats, signal dots, validation borders, guarantee badge
+       Added above-fold CTA link after Hook
 */
 
 const Email_Welcome_E3_L1 = () => (
@@ -11,20 +13,21 @@ const Email_Welcome_E3_L1 = () => (
     <Header bg={B.paper} />
 
     {/* ═══ BAND TRANSITION ═══ */}
-    <Band from={B.paper} to={B.cream} height={40} />
+    <Band from={B.paper} to={B.cream} height={20} />
 
-    {/* ═══ HERO — Bold Declaration ═══ */}
-    <TitleBlock
-      badge="3/8 — THE SIGNAL"
-      part1="The Science Behind the"
-      part2={'"Uh-Oh" Sensation'}
-      accent2={true}
-    />
+    {/* ═══ HERO — Bold Declaration (compact for above-fold) ═══ */}
+    <div style={{ padding: "20px 22px 0", textAlign: "center" }}>
+      <PartBadge>3/8 — THE SIGNAL</PartBadge>
+      <h1 style={{ fontSize: 28, lineHeight: 1.1, fontWeight: 700, margin: 0, letterSpacing: -0.4 }}>
+        The Science Behind the<br/>
+        <span style={{ ...B.gradientText, fontWeight: 700 }}>{'"Uh-Oh" Sensation'}</span>
+      </h1>
+    </div>
 
-    {/* ═══ Signal Path Illustration ═══ */}
-    <div style={{ padding: "24px 22px 0" }}>
+    {/* ═══ Signal Path Illustration (compact) ═══ */}
+    <div style={{ padding: "10px 22px 0" }}>
       <ImgFrame
-        height={160}
+        height={80}
         radius={20}
         label="SIGNAL PATH · ANIMATED ILLUSTRATION"
         sublabel="Dotted neural arc: fragmented → connecting → solid emerald glow"
@@ -35,21 +38,32 @@ const Email_Welcome_E3_L1 = () => (
     <div style={{ background: "#FAF9F7", padding: "24px 22px" }}>
 
       {/* Hook — warm entry, no border */}
-      <p style={{ margin: "0 0 14px", fontSize: 17, color: B.ink, lineHeight: 1.6 }}>
+      <p style={{ margin: "0 0 8px", fontSize: 17, color: B.ink, lineHeight: 1.6 }}>
         Pre-K starts in a few months. He needs to be trained. You've tried sticker charts. You've tried timers. You've probably read Oh Crap, tried the naked weekend, and wondered why nothing stuck. Here's what nobody told you, and it changes everything about how you think about this.
       </p>
 
+      {/* ═══ ABOVE-FOLD CTA LINK (R2 addition) ═══ */}
+      <div style={{ textAlign: "center", marginBottom: 8 }}>
+        <a href="#" style={{
+          fontSize: 13,
+          color: "#1A8A8F",
+          textDecoration: "underline",
+        }}>
+          Learn how body signals work
+        </a>
+      </div>
+
       {/* ── Signal Dot Divider (8px) ── */}
       <div style={{ textAlign: "center", padding: "18px 0" }}>
-        <span style={{ display: "inline-block", width: 8, height: 8, borderRadius: "50%", background: B.green }} aria-hidden="true" />
+        <span style={{ display: "inline-block", width: 8, height: 8, borderRadius: "50%", background: "#039902" }} aria-hidden="true" />
       </div>
 
       {/* Validation — 3px emerald left border */}
-      <div style={{ borderLeft: `3px solid ${B.green}`, paddingLeft: 16, marginBottom: 14 }}>
+      <div style={{ borderLeft: "3px solid #039902", paddingLeft: 16, marginBottom: 14 }}>
         <h2 style={{ fontSize: 22, fontWeight: 700, margin: "0 0 10px", lineHeight: 1.25, color: B.ink }}>
           Forty-nine percent of autistic 4-5 year olds aren't toilet trained.
         </h2>
-        <p style={{ fontSize: 32, fontWeight: 700, color: B.green, margin: "0 0 10px", fontFamily: "'Questrial', sans-serif", lineHeight: 1 }}>
+        <p style={{ fontSize: 32, fontWeight: 700, color: "#039902", margin: "0 0 10px", fontFamily: "'Questrial', sans-serif", lineHeight: 1 }}>
           49%
         </p>
         <p style={{ fontSize: 17, color: B.soft, lineHeight: 1.6, margin: 0 }}>
@@ -59,7 +73,7 @@ const Email_Welcome_E3_L1 = () => (
 
       {/* ── Signal Dot Divider (10px) ── */}
       <div style={{ textAlign: "center", padding: "18px 0" }}>
-        <span style={{ display: "inline-block", width: 10, height: 10, borderRadius: "50%", background: B.green }} aria-hidden="true" />
+        <span style={{ display: "inline-block", width: 10, height: 10, borderRadius: "50%", background: "#039902" }} aria-hidden="true" />
       </div>
 
       {/* Mechanism — plain */}
@@ -89,7 +103,7 @@ const Email_Welcome_E3_L1 = () => (
       <div style={{
         background: "#FFFDF6",
         borderTop: "2px solid #FFD866",
-        borderLeft: `3px solid ${B.green}`,
+        borderLeft: "3px solid #039902",
         borderRadius: 20,
         padding: "24px 22px",
       }}>
@@ -116,7 +130,7 @@ const Email_Welcome_E3_L1 = () => (
         gap: 14,
         alignItems: "flex-start",
       }}>
-        <span style={{ fontSize: 18, color: B.green, lineHeight: 1, marginTop: 2 }}>●</span>
+        <span style={{ fontSize: 18, color: "#039902", lineHeight: 1, marginTop: 2 }}>●</span>
         <div>
           <div style={{ fontSize: 16, fontWeight: 700, color: B.ink, marginBottom: 4 }}>Layer 1 (cotton inner)</div>
           <div style={{ fontSize: 16, color: B.soft, lineHeight: 1.5 }}>creates the sustained signal.</div>
@@ -133,7 +147,7 @@ const Email_Welcome_E3_L1 = () => (
         gap: 14,
         alignItems: "flex-start",
       }}>
-        <span style={{ fontSize: 18, color: B.green, lineHeight: 1, marginTop: 2 }}>●</span>
+        <span style={{ fontSize: 18, color: "#039902", lineHeight: 1, marginTop: 2 }}>●</span>
         <div>
           <div style={{ fontSize: 16, fontWeight: 700, color: B.ink, marginBottom: 4 }}>Layer 2 (smart absorption core)</div>
           <div style={{ fontSize: 16, color: B.soft, lineHeight: 1.5 }}>protects clothes and furniture without blocking the learning sensation.</div>
@@ -150,7 +164,7 @@ const Email_Welcome_E3_L1 = () => (
         gap: 14,
         alignItems: "flex-start",
       }}>
-        <span style={{ fontSize: 18, color: B.green, lineHeight: 1, marginTop: 2 }}>●</span>
+        <span style={{ fontSize: 18, color: "#039902", lineHeight: 1, marginTop: 2 }}>●</span>
         <div>
           <div style={{ fontSize: 16, fontWeight: 700, color: B.ink, marginBottom: 4 }}>Layer 3 (protective outer barrier)</div>
           <div style={{ fontSize: 16, color: B.soft, lineHeight: 1.5 }}>resists leaks so you can stay calm while your child's brain does the work.</div>
@@ -175,6 +189,8 @@ const Email_Welcome_E3_L1 = () => (
         { icon: "♡", label: "Sensory-friendly" },
       ]}
       ctaButton="See if the 3+3 bundle works for your child"
+      ctaBg="#039902"
+      ctaColor="#FFFFFF"
     />
 
     {/* ═══ GUARANTEE — 60-Day Seal ═══ */}
@@ -183,7 +199,7 @@ const Email_Welcome_E3_L1 = () => (
         <span style={{
           display: "inline-block",
           background: "#DBFFCD",
-          color: B.green,
+          color: "#039902",
           padding: "6px 14px",
           borderRadius: 999,
           fontSize: 12,
@@ -204,7 +220,7 @@ const Email_Welcome_E3_L1 = () => (
       <a href="#" style={{
         display: "block",
         padding: "17px 32px",
-        background: B.green,
+        background: "#039902",
         color: "#FFFFFF",
         fontSize: 15.5,
         fontWeight: 700,
@@ -247,7 +263,7 @@ const Email_Welcome_E3_L1 = () => (
           fontWeight: 700,
           letterSpacing: 1.5,
           textTransform: "uppercase",
-          color: B.green,
+          color: "#039902",
           marginBottom: 10,
         }}>
           BESTSELLER

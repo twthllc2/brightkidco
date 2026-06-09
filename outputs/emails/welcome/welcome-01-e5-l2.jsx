@@ -2,10 +2,52 @@
    Wireframe: wireframes/welcome/welcome-01-e5-l2.md
    Strategy: strategy-map.json → welcome.emails.e5-l2
    Generated: 2026-06-09
+   Dark mode: Added prefers-color-scheme media queries (R2)
 */
+
+/* ── Dark Mode Styles ── */
+const DarkModeStyles = () => (
+  <style dangerouslySetInnerHTML={{ __html: `
+    @media (prefers-color-scheme: dark) {
+      /* Main container: background + text color */
+      #root > div { background-color: #1A1917 !important; color: #E8E2D5 !important; }
+
+      /* Accent blocks (#F0ECE6 sections) → semi-transparent white overlay */
+      .dm-accent { background-color: rgba(232, 226, 213, 0.08) !important; }
+
+      /* Text overrides */
+      .dm-text { color: #E8E2D5 !important; }
+      .dm-text-soft { color: #B8C4BC !important; }
+      .dm-text-muted { color: #7A8A82 !important; }
+
+      /* Hairlines */
+      .dm-hairline { border-color: rgba(232, 226, 213, 0.12) !important; }
+
+      /* CTA — maintain #2B5F4E */
+      .dm-cta { background-color: #2B5F4E !important; }
+
+      /* Preheader bar */
+      .dm-preheader { background-color: #1E1D1A !important; color: #7A8A82 !important; }
+
+      /* Sign-off outer wrapper */
+      .dm-signoff-outer { background-color: #1A1917 !important; }
+
+      /* Bridge SVG section */
+      .dm-bridge { background: linear-gradient(180deg, rgba(138, 126, 114, 0.3) 0%, rgba(26, 25, 23, 0.8) 100%) !important; }
+
+      /* Footer */
+      .dm-footer { background-color: rgba(232, 226, 213, 0.06) !important; }
+
+      /* Preheader inner bar */
+      .dm-preheader-bar { background-color: #1E1D1A !important; color: #7A8A82 !important; }
+    }
+  `}} />
+);
 
 const Email_Welcome_E5_L2 = () => (
   <EmailShell preheader="40+ methods haven't worked. Not because they were wrong, because they solved the wrong problem." bg={B.cream}>
+
+    <DarkModeStyles />
 
     {/* ── Header ── */}
     <Header bg={B.cream} />
@@ -14,7 +56,7 @@ const Email_Welcome_E5_L2 = () => (
     <Band from={B.cream} to="#F0ECE6" height={40} />
 
     {/* ════════════════ HERO — SCIENTIFIC HOOK ════════════════ */}
-    <div style={{ background: "#F0ECE6", padding: "40px 30px", textAlign: "center" }}>
+    <div className="dm-accent" style={{ background: "#F0ECE6", padding: "40px 30px", textAlign: "center" }}>
       <h1 style={{ fontFamily: "'Georgia', serif", fontSize: 28, fontWeight: 700, lineHeight: 1.3, letterSpacing: -0.3, color: B.ink, margin: 0 }}>
         Not magic. Not another method.{"\n"}
         A different mechanism.
@@ -38,10 +80,10 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ── ── ── ── hairline ── ── ── ── */}
-    <div style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
+    <div className="dm-hairline" style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
 
     {/* ════════════════ SECTION 2: OBJECTION NAMING — PULL QUOTE ════════════════ */}
-    <div style={{ background: "#F0ECE6", padding: 24 }}>
+    <div className="dm-accent" style={{ background: "#F0ECE6", padding: 24 }}>
       <div style={{ borderLeft: `3px solid ${B.teal}`, padding: "20px 20px 20px 24px" }}>
         <p style={{ fontFamily: "'Georgia', serif", fontSize: 19, fontStyle: "italic", lineHeight: 1.5, color: B.ink, margin: 0 }}>
           "I've tried everything. 40+ methods. $50,000 in therapy. Nothing worked."
@@ -58,7 +100,7 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ── ── ── ── hairline ── ── ── ── */}
-    <div style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
+    <div className="dm-hairline" style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
 
     {/* ════════════════ SECTION 3: REFRAME — THE WRONG BATTLE ════════════════ */}
     <div style={{ padding: "32px 30px" }}>
@@ -80,10 +122,10 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ── ── ── ── hairline ── ── ── ── */}
-    <div style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
+    <div className="dm-hairline" style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
 
     {/* ════════════════ BRIDGE SVG CONTRAPTION ════════════════ */}
-    <div style={{ background: "linear-gradient(180deg, #C4B4A4 0%, #F0ECE6 100%)", padding: "16px 0", display: "flex", justifyContent: "center" }}>
+    <div className="dm-bridge" style={{ background: "linear-gradient(180deg, #C4B4A4 0%, #F0ECE6 100%)", padding: "16px 0", display: "flex", justifyContent: "center" }}>
       <svg width="450" height="80" viewBox="0 0 450 80" style={{ maxWidth: "100%" }}>
         {/* Bridge towers */}
         <line x1="112" y1="10" x2="112" y2="65" stroke="#C4B4A4" strokeWidth="2.5" opacity="0.5" />
@@ -111,7 +153,7 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ── ── ── ── hairline ── ── ── ── */}
-    <div style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
+    <div className="dm-hairline" style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
 
     {/* ════════════════ SECTION 4: MECHANISM — SCIENCE OF BSL ════════════════ */}
     <div style={{ padding: "32px 30px" }}>
@@ -162,10 +204,10 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ── ── ── ── hairline ── ── ── ── */}
-    <div style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
+    <div className="dm-hairline" style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
 
     {/* ════════════════ SECTION 5: SOCIAL PROOF — REAL L2 PARENTS ════════════════ */}
-    <div style={{ background: "#F0ECE6", padding: "24px 30px" }}>
+    <div className="dm-accent" style={{ background: "#F0ECE6", padding: "24px 30px" }}>
       {/* Quote 1 */}
       <div style={{ borderLeft: `3px solid ${B.teal}`, padding: "16px 16px 16px 20px", marginBottom: 8 }}>
         <p style={{ fontFamily: "'Georgia', serif", fontSize: 16, fontStyle: "italic", lineHeight: 1.6, color: B.ink, margin: "0 0 6px" }}>
@@ -202,10 +244,10 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ── ── ── ── hairline ── ── ── ── */}
-    <div style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
+    <div className="dm-hairline" style={{ margin: "0 30px", borderTop: "1px solid #DDD8D0" }} />
 
     {/* ════════════════ SECTION 6: GUARANTEE ════════════════ */}
-    <div style={{ background: "#F0ECE6", padding: "32px 30px", textAlign: "center" }}>
+    <div className="dm-accent" style={{ background: "#F0ECE6", padding: "32px 30px", textAlign: "center" }}>
       <p style={{ fontFamily: "'Georgia', serif", fontSize: 18, lineHeight: 1.5, color: B.ink, margin: "0 0 16px" }}>
         I can't promise your child will potty train. No one can. Every child's nervous system is different, and biology doesn't follow marketing timelines.
       </p>
@@ -216,7 +258,7 @@ const Email_Welcome_E5_L2 = () => (
 
     {/* ════════════════ CTA ════════════════ */}
     <div style={{ padding: "24px 30px 20px", textAlign: "center" }}>
-      <a href="#" style={{
+      <a href="#" className="dm-cta" style={{
         display: "block",
         padding: "17px 32px",
         background: B.teal,
@@ -236,8 +278,9 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ════════════════ LENA SIGN-OFF ════════════════ */}
-    <div style={{ padding: "0 30px 36px" }}>
+    <div className="dm-signoff-outer" style={{ padding: "0 30px 36px" }}>
       <div style={{
+        position: "relative",
         background: "#1F2A2C",
         border: "1.5px solid #2F3D40",
         borderRadius: 22,
@@ -323,7 +366,7 @@ const Email_Welcome_E5_L2 = () => (
     </div>
 
     {/* ════════════════ FOOTER ════════════════ */}
-    <div style={{ background: "#F0ECE6", padding: "20px 24px 20px", textAlign: "center" }}>
+    <div className="dm-accent dm-footer" style={{ background: "#F0ECE6", padding: "20px 24px 20px", textAlign: "center" }}>
       <div style={{ fontSize: 10, color: B.muted, opacity: 0.4, marginBottom: 10 }}>
         This email was written by a mom who has been where you are.
       </div>

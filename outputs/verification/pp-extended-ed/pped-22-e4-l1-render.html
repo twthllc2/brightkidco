@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=420">
+<title>pped-22-e4-l1 — PP-Extended Ed E4 L1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;1,400&family=Questrial&display=swap" rel="stylesheet">
+<style>
+  /* Reset */
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Questrial', sans-serif;
+    background: #E5DDD3;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  .email-wrapper {
+    width: 420px;
+    background: #FFFFFF;
+  }
+  /* Brand tokens */
+  :root {
+    --teal: #2BAEB4;
+    --green: #5DD07A;
+    --ink: #1F2D2F;
+    --soft: #4A6568;
+    --cream: #FBF7F1;
+    --paper: #FFFFFF;
+    --muted: #8A9B9D;
+  }
+  /* Color block divider */
+  .color-block {
+    padding: 12px 22px 0;
+  }
+  .color-block-inner {
+    border-radius: 8px;
+    opacity: 0.35;
+  }
+  /* Tonal rule */
+  .tonal-rule {
+    padding: 20px 0 0;
+  }
+  .tonal-rule-inner {
+    height: 1px;
+    background: #E5DDD3;
+  }
+  /* Tip cards */
+  .tip-card {
+    background: #FFF5EE;
+    border: 1px solid #E5DDD3;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 14px;
+  }
+  .tip-card:last-child {
+    margin-bottom: 0;
+  }
+  .tip-heading {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 8px;
+  }
+  .tip-body {
+    font-size: 15px;
+    line-height: 1.5;
+    color: var(--soft);
+    margin: 0;
+  }
+  /* Pull quote */
+  .pull-quote {
+    background: #F5F0EB;
+    border-left: 3px solid var(--teal);
+    padding: 20px;
+    margin: 0 0 16px;
+  }
+  .pull-quote p {
+    font-family: 'Fraunces', serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--soft);
+    margin: 0;
+  }
+  /* Testimonial */
+  .testimonial {
+    background: #F5F0EB;
+    padding: 40px 22px;
+  }
+  .testimonial-inner {
+    border-left: 3px solid var(--green);
+    padding-left: 20px;
+  }
+  .testimonial-quote {
+    font-family: 'Fraunces', serif;
+    font-size: 17px;
+    line-height: 1.6;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--ink);
+    margin: 0 0 16px;
+  }
+  .testimonial-attribution {
+    font-size: 12px;
+    color: var(--muted);
+    letter-spacing: 0.3px;
+    margin: 0 0 8px;
+  }
+  .testimonial-badge {
+    display: inline-block;
+    background: #E8F6F4;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: var(--teal);
+  }
+  /* Product card */
+  .product-card {
+    background: var(--paper);
+    border: 2px solid var(--ink);
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 4px 4px 0 var(--ink);
+  }
+  .product-card-inner {
+    display: flex;
+    align-items: stretch;
+  }
+  .product-image {
+    width: 140px;
+    flex-shrink: 0;
+    border-right: 2px solid var(--ink);
+    background: #FFFDF6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .product-image-placeholder {
+    width: 100%;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    color: var(--muted);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+  .product-info {
+    padding: 18px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .product-eyebrow {
+    font-size: 10px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--teal);
+    font-weight: 700;
+    margin-bottom: 6px;
+  }
+  .product-name {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: var(--ink);
+    margin: 0 0 10px;
+  }
+  .product-price-row {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  .product-price {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--ink);
+    letter-spacing: -0.3px;
+  }
+  .product-price-label {
+    font-size: 11px;
+    color: var(--soft);
+  }
+  .product-guarantee {
+    font-size: 11.5px;
+    color: var(--soft);
+    line-height: 1.5;
+  }
+  .product-cta {
+    display: inline-block;
+    padding: 11px 18px;
+    background: var(--ink);
+    color: #D8F57C;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 999px;
+    text-align: center;
+    margin-top: 14px;
+    letter-spacing: 0.2px;
+  }
+  /* CTA section */
+  .cta-section {
+    background: #EDF7ED;
+    padding: 30px 22px;
+    text-align: center;
+  }
+  .cta-button {
+    display: block;
+    padding: 16px 36px;
+    background: var(--teal);
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+  }
+  /* Guarantee section */
+  .guarantee-section {
+    background: var(--cream);
+    padding: 20px 22px;
+    text-align: center;
+  }
+  .guarantee-text {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: var(--soft);
+  }
+  /* Sign-off */
+  .signoff {
+    background: var(--cream);
+    padding: 30px 22px;
+  }
+  .signoff-text {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--soft);
+  }
+  .signoff-name {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-top: 12px;
+  }
+  .signoff-role {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 2px;
+    font-style: italic;
+  }
+  .ps-block {
+    margin-top: 16px;
+    font-family: 'Fraunces', serif;
+    font-size: 14px;
+    line-height: 1.5;
+    font-style: italic;
+    color: var(--soft);
+  }
+  .ps-label {
+    color: var(--ink);
+    font-weight: 700;
+    font-style: normal;
+    margin-right: 4px;
+  }
+  /* Footer */
+  .footer {
+    background: var(--cream);
+    padding: 20px 22px;
+    border-top: 1px solid #E5DDD3;
+    text-align: center;
+  }
+  .footer-links {
+    font-size: 11px;
+    line-height: 1.5;
+    color: var(--muted);
+    margin-bottom: 8px;
+  }
+  .footer-links a {
+    color: var(--ink);
+    text-decoration: underline;
+  }
+  .footer-address {
+    font-size: 11px;
+    line-height: 1.5;
+    color: var(--muted);
+  }
+</style>
+</head>
+<body>
+<div class="email-wrapper">
+
+  <!-- SECTION 1: HEADER — UTIL-02 Logo Bar -->
+  <div style="background: var(--cream); padding: 24px 20px 0; text-align: center;">
+    <img src="https://via.placeholder.com/160x34/2BAEB4/FFFFFF?text=BRIGHTKIDCO" alt="BrightKidCo" style="height: 34px;" />
+  </div>
+
+  <!-- SECTION 2: HERO-17 — Social Proof Hero -->
+  <div style="background: #FFF5EE; padding: 40px 22px 30px;">
+    <!-- Eyebrow -->
+    <div style="font-size: 10.5px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--teal); font-weight: 700; margin-bottom: 12px;">
+      6-WEEK CHECK-IN
+    </div>
+    <!-- H1 -->
+    <h1 style="font-size: 28px; line-height: 1.15; font-weight: 700; letter-spacing: -0.4px; color: var(--ink); margin: 0 0 16px;">
+      You've been prompting for 6 weeks.<br>
+      Here's when to step back.
+    </h1>
+    <!-- Sub — Fraunces italic -->
+    <p style="font-family: 'Fraunces', serif; font-size: 16px; font-style: italic; font-weight: 400; line-height: 1.5; color: var(--soft); margin: 0 0 24px;">
+      The transition from 'almost trained' to 'mostly trained' starts with one shift.
+    </p>
+    <!-- Hero image — framed with ink border + shadow -->
+    <div style="border: 2px solid var(--ink); box-shadow: 6px 6px 0 var(--ink); overflow: hidden;">
+      <div style="height: 200px; background: linear-gradient(135deg, #FFB5A7 0%, #FCD5CE 50%, #FFF5EE 100%); display: flex; align-items: center; justify-content: center; flex-direction: column;">
+        <span style="font-size: 10px; color: var(--muted); letter-spacing: 1px; text-transform: uppercase;">HERO · LIFESTYLE</span>
+        <span style="font-size: 9px; color: var(--muted); margin-top: 4px;">BrightKidCo Body-Signal Learning underwear — watermelon pink pattern</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 3: DESDEEP-6 Color Block (amber gradient) -->
+  <div class="color-block">
+    <div class="color-block-inner" style="height: 16px; background: linear-gradient(135deg, #D4A76A 0%, #FBF7F1 100%);"></div>
+  </div>
+
+  <!-- SECTION 4: LETTER-03 — Letter + Pull-Quote -->
+  <div style="background: var(--cream); padding: 30px 22px;">
+    <!-- H2 -->
+    <h2 style="font-size: 22px; line-height: 1.2; font-weight: 700; color: var(--ink); margin: 0 0 16px;">
+      Some days he goes. Some days he doesn't. And every day you wonder the same thing: when does this stop being my job?
+    </h2>
+    <!-- Body paragraph 1 -->
+    <p style="font-size: 16px; line-height: 1.6; color: var(--ink); margin: 0 0 16px;">
+      That's the right question, and asking it means you're ready for the next phase.
+    </p>
+    <!-- Pull-Quote — teal left border, warm linen bg -->
+    <div class="pull-quote">
+      <p>
+        If your child is showing any awareness at all, a pause mid-play, a glance down at his pants, a step toward the bathroom, even if he doesn't make it in time, the signal is forming. It's not consistent yet. But it's there. And that changes what he needs from you.
+      </p>
+    </div>
+    <!-- H3 — Mechanism heading -->
+    <h3 style="font-size: 18px; line-height: 1.3; font-weight: 700; color: var(--ink); margin: 24px 0 12px;">
+      Why prompting can hold progress back
+    </h3>
+    <!-- Body paragraph 2 -->
+    <p style="font-size: 16px; line-height: 1.6; color: var(--ink); margin: 0 0 14px;">
+      When you say "Do you need to go?" every hour, his brain learns to wait for the question. The external cue becomes the trigger, not the internal sensation. He goes because you asked, not because he felt something.
+    </p>
+    <!-- Body paragraph 3 -->
+    <p style="font-size: 16px; line-height: 1.6; color: var(--ink); margin: 0;">
+      That's how brains work. For the last six weeks, the most consistent signal has been your voice. The goal now is to fade that signal so his internal one can take over.
+    </p>
+  </div>
+
+  <!-- SECTION 5: DESDEEP-6 Color Block (teal gradient) -->
+  <div class="color-block">
+    <div class="color-block-inner" style="height: 16px; background: linear-gradient(135deg, var(--teal) 0%, #FBF7F1 100%);"></div>
+  </div>
+
+  <!-- SECTION 6: EDU-9 — Tip Cards (3-Phase Weaning) -->
+  <div style="background: var(--cream); padding: 30px 22px;">
+    <!-- H2 -->
+    <h2 style="font-size: 22px; line-height: 1.2; font-weight: 700; color: var(--ink); margin: 0 0 20px;">
+      How to reduce prompting, a gradual approach
+    </h2>
+    <!-- Intro body -->
+    <p style="font-size: 16px; line-height: 1.6; color: var(--ink); margin: 0 0 16px;">
+      This isn't about quitting cold turkey. It's about creating space for his interoception pathway to operate on its own. The signal is building. It just needs room to connect to action without you as the middleman.
+    </p>
+    <!-- Tip Card 1 — Week 1-2 -->
+    <div class="tip-card">
+      <div class="tip-heading">Week 1-2: Lengthen the intervals.</div>
+      <p class="tip-body">
+        If you're prompting every hour, stretch to every 90 minutes. If every 90, stretch to two hours. The goal isn't to catch every accident, it's to give his brain a window where the only signal is the internal one. You'll see more accidents at first. That's normal. That's the signal working without the backup.
+      </p>
+    </div>
+    <!-- Tip Card 2 — Week 3-4 -->
+    <div class="tip-card">
+      <div class="tip-heading">Week 3-4: Watch for early signs of self-starting.</div>
+      <p class="tip-body">
+        These are the small, straightforward-to-miss behaviors that come before a child says "I need to go." Pausing during play. Touching his pants. Fidgeting. Shifting positions. These mean the internal signal arrived, he just hasn't connected it to the potty walk yet. When you see one, don't prompt. Just observe.
+      </p>
+    </div>
+    <!-- Tip Card 3 — Week 5-6 -->
+    <div class="tip-card">
+      <div class="tip-heading">Week 5-6: Switch from prompting to observing.</div>
+      <p class="tip-body">
+        By now, most L1 kids who have been consistent with the body-signal underwear are showing some form of awareness 3-5 times per day. At this point, you can shift from "Do you need to go?" to a quiet presence. Have the potty available. Notice when he pauses. If he looks confused, that's good, confused means he felt something and isn't sure what to do next.
+      </p>
+    </div>
+  </div>
+
+  <!-- SECTION 7: SP-13 — Review of the Week (Testimonial) -->
+  <div class="testimonial">
+    <div class="testimonial-inner">
+      <!-- Quote text -->
+      <p class="testimonial-quote">
+        "I was still prompting every 45 minutes. I was terrified that if I stopped, he'd never go on his own. But when I finally stretched the intervals, it was like he'd been waiting for me to get out of the way. He started going on his own. Not every time at first. But those 'sometimes' turned into 'most times' within a couple of weeks. The prompting was holding us both back."
+      </p>
+      <!-- Attribution -->
+      <p class="testimonial-attribution">— Real parent, BrightKidCo community</p>
+      <!-- Badge -->
+      <div class="testimonial-badge">VERBAL · 3-5 YRS · PROMPT-FADING</div>
+    </div>
+  </div>
+
+  <!-- SECTION 8: DESDEEP-6 Color Block (green gradient) -->
+  <div class="color-block">
+    <div class="color-block-inner" style="height: 16px; background: linear-gradient(135deg, var(--green) 0%, #FBF7F1 100%);"></div>
+  </div>
+
+  <!-- SECTION 9: LETTER-03 — Pre-K Timeline Context -->
+  <div style="background: var(--cream); padding: 30px 22px;">
+    <!-- H2 -->
+    <h2 style="font-size: 22px; line-height: 1.2; font-weight: 700; color: var(--ink); margin: 0 0 16px;">
+      Where this fits in the Pre-K timeline
+    </h2>
+    <!-- Body paragraph 1 -->
+    <p style="font-size: 16px; line-height: 1.6; color: var(--ink); margin: 0 0 14px;">
+      You've been at this for about six weeks. The school year is approaching. You're moving from "almost trained" to "mostly trained", and this gradual prompt-fading is the step that gets you there.
+    </p>
+    <!-- Body paragraph 2 -->
+    <p style="font-size: 16px; line-height: 1.6; color: var(--ink); margin: 0 0 14px;">
+      The kids who arrive at Pre-K with the most independence aren't the ones who were prompted most aggressively. They're the ones whose parents trusted the signal enough to step back at the right moment.
+    </p>
+    <!-- Body paragraph 3 -->
+    <p style="font-size: 16px; line-height: 1.6; color: var(--ink); margin: 0;">
+      You're already using the body-signal underwear. The mechanism is working. Now it's about giving your child the space to show you what he's learned.
+    </p>
+  </div>
+
+  <!-- SECTION 10: ProductShowcaseMedium — Product Introduction -->
+  <div style="background: var(--cream); padding: 30px 22px;">
+    <div class="product-card">
+      <div class="product-card-inner">
+        <!-- Left column — product image -->
+        <div class="product-image">
+          <div class="product-image-placeholder">
+            <span>PRODUCT</span>
+          </div>
+        </div>
+        <!-- Right column — product info -->
+        <div class="product-info">
+          <div>
+            <div class="product-eyebrow">THE PRODUCT</div>
+            <h3 class="product-name">3+3 Bundle</h3>
+            <div class="product-price-row">
+              <span class="product-price">$79.99</span>
+              <span class="product-price-label">bundle price</span>
+            </div>
+            <div class="product-guarantee">
+              60-day calm-progress guarantee. Return anytime, any reason.
+            </div>
+          </div>
+          <a href="#" class="product-cta">See the pants →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION 11: CTA-5 — Product CTA -->
+  <div class="cta-section">
+    <a href="#" class="cta-button">Continue the Journey</a>
+  </div>
+
+  <!-- SECTION 12: TRUST-1 — 60-Day Seal -->
+  <div class="guarantee-section">
+    <p class="guarantee-text">
+      60-Day Guarantee — your judgment, no questions
+    </p>
+  </div>
+
+  <!-- SECTION 13: Divider — 1px #E5DDD3 -->
+  <div class="tonal-rule">
+    <div class="tonal-rule-inner"></div>
+  </div>
+
+  <!-- SECTION 14: Lena Sign-Off (Medium — Phase 3 Variant) -->
+  <div class="signoff">
+    <p class="signoff-text">With understanding,</p>
+    <p class="signoff-name">Lena ——</p>
+    <p class="signoff-role">Customer Support · Mom of two autistic sons</p>
+    <!-- P.S. 1 — catching parents not yet seeing progress -->
+    <div class="ps-block">
+      <span class="ps-label">P.S.</span>
+      If you're not seeing any awareness yet, that's okay too. Some L1 kids need 8-10 weeks before the first consistent signal. If that's where you are, keep the prompting steady and check back in next week. Every child's timeline is different, and yours isn't behind.
+    </div>
+    <!-- P.S. 2 — normalizing reorder -->
+    <div class="ps-block">
+      <span class="ps-label">P.S.</span>
+      The 60-day guarantee means you've been trying this risk-free. If you're past 60 days and seeing progress, the 3+3 Bundle holds up, most parents get 6+ months of daily wear before needing to reorder.
+    </div>
+  </div>
+
+  <!-- SECTION 15: UTIL-04 — Footer -->
+  <div class="footer">
+    <p class="footer-links">
+      <a href="#">Unsubscribe</a> | <a href="#">Manage Preferences</a>
+    </p>
+    <p class="footer-address">
+      BrightKidCo LLC<br>
+      1234 Innovation Drive, Suite 200<br>
+      San Francisco, CA 94107<br>
+      United States
+    </p>
+  </div>
+
+</div>
+</body>
+</html>

@@ -10,7 +10,7 @@
    Lifestyle hero + price + 3 feature pills + sub-grid + CTA
    Used in: Email 4, Email 6
    ═════════════════════════════════════════════════════ */
-const ProductShowcaseFull = ({ eyebrow, title, titleAccent, sub, priceFrom = "€34", priceNote = "Starter pair · 10% off first order", features, ctaButton, guaranteeBadge = true }) => {
+const ProductShowcaseFull = ({ eyebrow, title, titleAccent, sub, priceFrom = "€34", priceNote = "Starter pair · 10% off first order", features, ctaButton, guaranteeBadge = true, ctaBg, ctaColor, ctaRadius, ageRange, microTrustText }) => {
   const defaultFeatures = features || [
     { icon: "◉", label: "Body-Signal Layer™" },
     { icon: "✓", label: "60-day guarantee" },
@@ -108,10 +108,10 @@ const ProductShowcaseFull = ({ eyebrow, title, titleAccent, sub, priceFrom = "�
           <a href="#" style={{
             display: "block",
             padding: "16px 24px",
-            background: B.ink,
-            color: "#D8F57C",
+            background: ctaBg || B.ink,
+            color: ctaColor || "#D8F57C",
             fontSize: 15, fontWeight: 700,
-            textDecoration: "none", borderRadius: 999,
+            textDecoration: "none", borderRadius: ctaRadius !== undefined ? ctaRadius : 999,
             textAlign: "center",
             letterSpacing: 0.3,
           }}>
@@ -120,7 +120,7 @@ const ProductShowcaseFull = ({ eyebrow, title, titleAccent, sub, priceFrom = "�
 
           {/* micro trust line */}
           <div style={{ marginTop: 12, textAlign: "center", fontSize: 11, color: B.muted, letterSpacing: 0.3 }}>
-            Free shipping on orders over €50 · 60-day guarantee · Real returns
+            {microTrustText || "Free shipping on orders over €50 · 60-day guarantee · Real returns"}
           </div>
         </div>
       </div>
@@ -148,7 +148,7 @@ const ProductShowcaseFull = ({ eyebrow, title, titleAccent, sub, priceFrom = "�
             <ImgFrame height={110} radius={0} label="SIZE RANGE" sublabel="2T · 3T · 4T · 5T · 6T" />
           </div>
           <div style={{ padding: "10px 12px", fontSize: 11.5, fontWeight: 700, color: B.ink, textAlign: "center", borderTop: `2px solid ${B.ink}` }}>
-            Ages 2–7
+            {ageRange || "Ages 2–7"}
           </div>
         </div>
       </div>
@@ -198,7 +198,7 @@ const ProductShowcaseMedium = ({ eyebrow, title, priceFrom = "€34", ctaButton 
           </div>
           <a href="#" style={{
             display: "inline-block",
-            padding: "11px 18px",
+            padding: "14px 18px",
             background: B.ink,
             color: "#D8F57C",
             fontSize: 13, fontWeight: 700,

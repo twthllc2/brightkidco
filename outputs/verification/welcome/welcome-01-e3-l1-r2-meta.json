@@ -1,0 +1,63 @@
+{
+  "email": "welcome-01-e3-l1",
+  "revision": "R2",
+  "flow": "welcome",
+  "renderedWidth": 420,
+  "renderedHeight": 4712,
+  "sectionCount": 18,
+  "fontsLoaded": [
+    "Caveat",
+    "Questrial"
+  ],
+  "ctaPositions": [
+    {
+      "text": "Learn how body signals work",
+      "top": 559.59375,
+      "height": 14,
+      "background": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "text": "See if the 3+3 bundle works for your child →",
+      "top": 3157.25,
+      "height": 64,
+      "background": "rgb(3, 153, 2)"
+    },
+    {
+      "text": "See if the 3+3 bundle works for your child",
+      "top": 3583.25,
+      "height": 50,
+      "background": "rgb(3, 153, 2)"
+    },
+    {
+      "text": "Learn how body signals work",
+      "top": 3649.25,
+      "height": 14,
+      "background": "rgba(0, 0, 0, 0)"
+    }
+  ],
+  "colorAudit": [
+    {
+      "element": "Primary CTA button",
+      "color": "rgb(3, 153, 2)"
+    },
+    {
+      "element": "Primary CTA button",
+      "color": "rgb(3, 153, 2)"
+    },
+    {
+      "element": "49% stat text",
+      "color": "rgb(3, 153, 2)"
+    },
+    {
+      "element": "Guarantee badge",
+      "color": "rgb(3, 153, 2)",
+      "bg": "rgb(219, 255, 205)"
+    }
+  ],
+  "consoleMessages": [],
+  "fixes": [
+    "Replaced B.green (#5DD07A) with #039902 for CTAs, signal dots, stat highlights, validation borders, guarantee badge, BESTSELLER badge",
+    "Added above-fold CTA link \"Learn how body signals work\" after Hook paragraph",
+    "Passed ctaBg=#039902 and ctaColor=#FFFFFF to ProductShowcaseFull component"
+  ]
+}
