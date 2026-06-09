@@ -1,0 +1,1366 @@
+{
+  "agent": 1,
+  "flow": "welcome",
+  "totalEmails": 32,
+  "emails": {
+    "e1-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md",
+      "level": "GF",
+      "creativeStrategy": "Neurological signal pathway \u2014 a faint ping traveling across the page, fading in and out, culminating in a moment of recognition. The visual metaphor mirrors the emotional journey from confusion to clarity.",
+      "components": {
+        "hero": "HERO-3 \u2014 Permission Open",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-08 \u2014 Stacked Mini-Reviews",
+        "mechanism": "EDU-5 \u2014 Infographic",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-4 \u2014 Gentle Invite",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-playing-train-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/book-potty-training-guide.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 8,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e1-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md",
+      "level": "L1",
+      "creativeStrategy": "Two radios, one frequency \u2014 the moment the signals finally find each other. Split-frequency imagery with organic warmth on one side and signal-wave visual language on the other.",
+      "components": {
+        "hero": "HERO-20 \u2014 Handwritten Letter Opener",
+        "text": "LETTER-02 \u2014 Handwritten Opener",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-7 \u2014 Did You Know",
+        "product": "ProductShowcaseMedium",
+        "cta": "CTA-4 \u2014 Gentle Invite",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-01 \u2014 Gradient Band"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-bunny-hearts-pink.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 7,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e1-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md",
+      "level": "L2",
+      "creativeStrategy": "Two radios tuned to different frequencies with a gentle bridge signal connecting them. Signal translation narrative \u2014 the child's body broadcasts a signal the brain isn't receiving.",
+      "components": {
+        "hero": "HERO-16 \u2014 Mechanism Tease",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-8 \u2014 Mechanism Diagram",
+        "product": "ProductShowcaseMedium",
+        "cta": "CTA-3 \u2014 Curiosity Code",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/towel-set-llama-cactus.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 8,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e1-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md",
+      "level": "L3",
+      "creativeStrategy": "The quiet dawn \u2014 early morning light, a child's hand on a cotton surface, a small wet patch darkening fabric. Not a crisis, but information. A nervous system receiving a signal it never received before.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-07 \u2014 Greeting Card",
+        "socialProof": "TRUSTDEEP-15 \u2014 The Honest Negative",
+        "mechanism": "EDU-1 \u2014 Definition Block",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-napping-watermelon-pink-shorts.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-watermelon-pink.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 6,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e2-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md",
+      "level": "GF",
+      "creativeStrategy": "Signal finally being heard \u2014 each section strips away noise of failed methods, revealing the missing element: interoception. A dotted neural pathway arcs from a question mark to a glowing aha node.",
+      "components": {
+        "hero": "HERO-1 \u2014 Curiosity Gap",
+        "text": "LETTER-04 \u2014 Letter + Image Break",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-4 \u2014 Myth vs Fact",
+        "product": "ProductShowcaseMedium",
+        "cta": "CTA-3 \u2014 Curiosity Code",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-livingroom-dino-yellow.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-woodland-white.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 8,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e2-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md",
+      "level": "L1",
+      "creativeStrategy": "The Aha That Changes Everything \u2014 a puzzle piece snapping into place, rendered as a neurological signal traveling from bladder to brain across a soft, glowing arc. You didn't fail. The method did.",
+      "components": {
+        "hero": "HERO-5 \u2014 Mirror Moment",
+        "text": "LETTER-01 \u2014 Paragraph Stack",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-4 \u2014 Myth vs Fact",
+        "product": "ProductShowcaseMedium",
+        "cta": "CTA-4 \u2014 Gentle Invite",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-02 \u2014 Divider Bar"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-red-white.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 8,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e2-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md",
+      "level": "L2",
+      "creativeStrategy": "Your BCBA built the bridge. This lays the cable the signal travels on. A sensory-signal metaphor: the body as a circuit-diagram where the neural pathway is a dashed unfinished connection, and the underwear completes the circuit.",
+      "components": {
+        "hero": "HERO-13 \u2014 Scientific Hook",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-10 \u2014 How It Works",
+        "product": "ProductShowcaseMedium",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-playing-train-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/book-potty-training-guide.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e2-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md",
+      "level": "L3",
+      "creativeStrategy": "Information that took years to discover, delivered in one spacious layout. A signal traveling through a nervous system, text blocks cascading left to right, building to a quiet landing zone where the reader can pause and breathe.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-02 \u2014 Handwritten Opener",
+        "socialProof": "SP-07 \u2014 Counter-Testimonial",
+        "mechanism": "EDU-1 \u2014 Definition Block",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-penguin-multicolor.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 6,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e3-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-gf.md",
+      "level": "GF",
+      "creativeStrategy": "The Signal That Finally Arrives \u2014 a delayed radio transmission struggling to connect, then reaching its destination. A gentle ripple emanating from a child's core outward as a soft concentric wave.",
+      "components": {
+        "hero": "HERO-16 \u2014 Mechanism Tease",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-03 \u2014 Stat Row",
+        "mechanism": "EDU-8 \u2014 Mechanism Diagram",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "20.3 \u2014 Gradient Band Variants"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/diaper-woodland-creature-yellow.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/potty-targets-stickers-chart.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e3-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-l1.md",
+      "level": "L1",
+      "creativeStrategy": "Signal pathway visualization \u2014 a dotted neural arc travels from the left margin across the body, growing brighter and more connected as science unfolds, arriving at a solid glowing emerald destination behind the CTA.",
+      "components": {
+        "hero": "HERO-10 \u2014 Bold Declaration",
+        "text": "LETTER-01 \u2014 Paragraph Stack",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-2 \u2014 Step Cards",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-01 \u2014 Gradient Band"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-pink-multicolor.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-bunny-hearts-pink.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/book-potty-training-guide.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 8,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e3-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-l2.md",
+      "level": "L2",
+      "creativeStrategy": "The bridge across the interoception gap \u2014 a neural signal traveling from bladder to brain with a gap in the middle, the Body-Signal Learning Layer appearing as a warm luminous bridge spanning that gap.",
+      "components": {
+        "hero": "HERO-16 \u2014 Mechanism Tease",
+        "text": "LETTER-09 \u2014 Double Column",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-10 \u2014 How It Works",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/towel-set-llama-cactus.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e3-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-l3.md",
+      "level": "L3",
+      "creativeStrategy": "A single cotton thread glowing gently, connecting a child's body to the bathroom light. Not a training journey or success path \u2014 a signal, something small, fragile, and real.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-07 \u2014 Greeting Card",
+        "socialProof": "SP-07 \u2014 Counter-Testimonial",
+        "mechanism": "EDU-1 \u2014 Definition Block",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-napping-watermelon-pink-shorts.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-watermelon-pink.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 7,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e4-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-gf.md",
+      "level": "GF",
+      "creativeStrategy": "Three different doors, one key \u2014 three distinct families standing before three different doors, but the key that unlocks all three is the same: body-signal learning. Universal mechanism.",
+      "components": {
+        "hero": "HERO-4 \u2014 Story Fragment",
+        "text": "LETTER-09 \u2014 Double Column",
+        "socialProof": "SP-09 \u2014 UGC Photo Grid",
+        "mechanism": "EDU-12 \u2014 Comparison Matrix",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "20.3 \u2014 Gradient Band Variants"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-livingroom-dino-yellow.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-woodland-white.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e4-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-l1.md",
+      "level": "L1",
+      "creativeStrategy": "The signal that changes everything \u2014 a single gentle ripple spreading across water, representing the body signal radiating out from the Body-Signal Learning Layer. Change starts with one signal, then another.",
+      "components": {
+        "hero": "HERO-17 \u2014 Social Proof Hero",
+        "text": "LETTER-01 \u2014 Paragraph Stack",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-9 \u2014 Tip Cards",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-01 \u2014 Gradient Band"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-red-white.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 8,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e4-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-l2.md",
+      "level": "L2",
+      "creativeStrategy": "The signal was there all along \u2014 a quiet radio receiver slowly tuning into a frequency. Static turns to signal. Clinical and honest, not promotional. Science-visual elements dominate.",
+      "components": {
+        "hero": "HERO-13 \u2014 Scientific Hook",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-12 \u2014 Comparison Matrix",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-playing-train-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/book-potty-training-guide.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e4-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-l3.md",
+      "level": "L3",
+      "creativeStrategy": "A quiet harbor at dusk \u2014 a handwritten letter passed across a kitchen table. A floating feather in still water: gentle, unhurried, moving only when the current decides. No rush here.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-02 \u2014 Handwritten Opener",
+        "socialProof": "SP-07 \u2014 Counter-Testimonial",
+        "mechanism": "EDU-7 \u2014 Did You Know",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-penguin-multicolor.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 7,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e5-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-gf.md",
+      "level": "GF",
+      "creativeStrategy": "The method failed you. The mechanism won't. A parent standing at a closed door labeled Everything I've Tried, being shown a door they never knew existed labeled The Real Problem. Reversal through reframing.",
+      "components": {
+        "hero": "HERO-7 \u2014 Counter-Intuitive Truth",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-05 \u2014 Before/After Testimonial",
+        "mechanism": "EDU-6 \u2014 FAQ Blocks",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.3 \u2014 Gradient Band Variants"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/diaper-woodland-creature-yellow.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/potty-targets-stickers-chart.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 8,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e5-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-l1.md",
+      "level": "L1",
+      "creativeStrategy": "The method didn't fail your child. The signal did. Reframes failure as a mechanism gap, not a parenting gap. Takes her objection and answers it with a different question: what if the signal never arrived?",
+      "components": {
+        "hero": "HERO-12 \u2014 Before Snapshot",
+        "text": "LETTER-01 \u2014 Paragraph Stack",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-4 \u2014 Myth vs Fact",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-01 \u2014 Gradient Band"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-bunny-hearts-pink.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 8,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e5-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-l2.md",
+      "level": "L2",
+      "creativeStrategy": "The Signal You've Been Waiting For \u2014 a suspension bridge connecting two landmasses across an impossible gap. Before: chaos of method cycling. After: first moment of body awareness. The bridge is the underwear.",
+      "components": {
+        "hero": "HERO-13 \u2014 Scientific Hook",
+        "text": "LETTER-09 \u2014 Double Column",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-8 \u2014 Mechanism Diagram",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/towel-set-llama-cactus.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e5-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-l3.md",
+      "level": "L3",
+      "creativeStrategy": "The Signal Bridge \u2014 a quiet, patient space. Progress is not a destination but a single quiet moment: a body receiving information it has never received before. The Patient Witness archetype.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-07 \u2014 Greeting Card",
+        "socialProof": "SP-07 \u2014 Counter-Testimonial",
+        "mechanism": "EDU-1 \u2014 Definition Block",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-napping-watermelon-pink-shorts.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-watermelon-pink.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 6,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e6-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-gf.md",
+      "level": "GF",
+      "creativeStrategy": "Too dry to learn \u2014 moisture-wicking pull-ups that keep kids completely dry is precisely the thing blocking body awareness. Reframes a premium feature as the hidden obstacle. No guilt, no blame.",
+      "components": {
+        "hero": "HERO-7 \u2014 Counter-Intuitive Truth",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-03 \u2014 Stat Row",
+        "mechanism": "EDU-12 \u2014 Comparison Matrix",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.3 \u2014 Gradient Band Variants"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-livingroom-dino-yellow.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-woodland-white.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 8,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e6-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-l1.md",
+      "level": "L1",
+      "creativeStrategy": "The Feedback You Didn't Know Was Missing \u2014 what you thought was a solution is actually the barrier. Framed through Pre-K readiness, not chronic severity. Surprised not guilt -> understanding -> cautious hope.",
+      "components": {
+        "hero": "HERO-19 \u2014 Timeline Shock",
+        "text": "LETTER-01 \u2014 Paragraph Stack",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-4 \u2014 Myth vs Fact",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-01 \u2014 Gradient Band"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-red-white.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 8,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e6-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-l2.md",
+      "level": "L2",
+      "creativeStrategy": "The signal your child needs is the one pull-ups take away \u2014 a counterintuitive reveal flipping pull-ups from necessary tool to unintentional barrier. Dryness is not the goal, sensation is.",
+      "components": {
+        "hero": "HERO-7 \u2014 Counter-Intuitive Truth",
+        "text": "LETTER-09 \u2014 Double Column",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-10 \u2014 How It Works",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-playing-train-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/book-potty-training-guide.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e6-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-l3.md",
+      "level": "L3",
+      "creativeStrategy": "A signal that was always there, finally reaching its destination. A quiet journey from silence to awareness, opening with a wide muted landscape and narrowing toward a single glowing point of connection.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-07 \u2014 Greeting Card",
+        "socialProof": "SP-07 \u2014 Counter-Testimonial",
+        "mechanism": "EDU-1 \u2014 Definition Block",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-penguin-multicolor.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 7,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e7-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-gf.md",
+      "level": "GF",
+      "creativeStrategy": "Training wheels for the nervous system \u2014 a bridge between the nervous system and the signal it needs to recognize. Not a cure, not a quick fix. A sensory bridge providing missing feedback until the brain learns.",
+      "components": {
+        "hero": "HERO-16 \u2014 Mechanism Tease",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-05 \u2014 Before/After Testimonial",
+        "mechanism": "EDU-9 \u2014 Tip Cards",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "20.3 \u2014 Gradient Band Variants"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/diaper-woodland-creature-yellow.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/potty-targets-stickers-chart.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 8,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e7-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-l1.md",
+      "level": "L1",
+      "creativeStrategy": "Train the Signal, Not the Behavior \u2014 the invisible bridge between body and brain made visible. For L1 parents whose child is verbal, smart, and close \u2014 showing WHY the final connection hasn't been made.",
+      "components": {
+        "hero": "HERO-10 \u2014 Bold Declaration",
+        "text": "LETTER-01 \u2014 Paragraph Stack",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-2 \u2014 Step Cards",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-01 \u2014 Gradient Band"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-bunny-hearts-pink.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 8,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e7-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-l2.md",
+      "level": "L2",
+      "creativeStrategy": "The signal is there, it's just arriving too late \u2014 a precision insight. The child IS receiving the interoception signal, the problem is timing not absence. Uniquely powerful for L2 parents with deep BCBA experience.",
+      "components": {
+        "hero": "HERO-13 \u2014 Scientific Hook",
+        "text": "LETTER-09 \u2014 Double Column",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-8 \u2014 Mechanism Diagram",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/towel-set-llama-cactus.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 9,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e7-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-l3.md",
+      "level": "L3",
+      "creativeStrategy": "Training wheels for the nervous system \u2014 gentle assistance, not transformation. Scaffolding that enables the brain to do what it was always meant to do, at its own pace, on its own timeline.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-07 \u2014 Greeting Card",
+        "socialProof": "SP-07 \u2014 Counter-Testimonial",
+        "mechanism": "EDU-1 \u2014 Definition Block",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-napping-watermelon-pink-shorts.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-watermelon-pink.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 7,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e8-gf": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-gf.md",
+      "level": "GF",
+      "creativeStrategy": "The Open Field \u2014 a wide, calm landscape at dusk. Three weeks of information shared. Now the reader stands at a clearing. No fences, no arrows, no urgency. Just an open field with a gently lit path.",
+      "components": {
+        "hero": "HERO-3 \u2014 Permission Open",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-14 \u2014 Quick Reference Card",
+        "product": "ProductShowcaseMedium",
+        "cta": "CTA-4 \u2014 Gentle Invite",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "20.3 \u2014 Gradient Band Variants"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-livingroom-dino-yellow.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-woodland-white.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Inclusive, warm, broad appeal \u2014 signal pathway metaphor with universal framing",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "moderate",
+        "copyDensity": "long",
+        "socialProofStyle": "Three-family quote pattern \u2014 multiple perspectives to bridge all GF sub-groups",
+        "borderRadius": 16,
+        "shadowIntensity": "6px",
+        "background": "#FAF8F5",
+        "sectionCount": 7,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e8-l1": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-l1.md",
+      "level": "L1",
+      "creativeStrategy": "The Final Invitation, Clear, Warm, Unhurried \u2014 an open door with warm light spilling through. Not a closing door, not a countdown. Completion, not expiration. Crisp and resolved.",
+      "components": {
+        "hero": "HERO-3 \u2014 Permission Open",
+        "text": "LETTER-01 \u2014 Paragraph Stack",
+        "socialProof": "SP-01 \u2014 Yellow Quote Block",
+        "mechanism": "EDU-14 \u2014 Quick Reference Card",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-5 \u2014 Product CTA",
+        "trust": "TRUST-1 \u2014 60-Day Seal",
+        "decorative": "UTIL-01 \u2014 Gradient Band"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-red-white.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Medium",
+        "heroImageMood": "Bright, playful \u2014 signal-wave imagery with warm organic tones, Pre-K urgency compatible",
+        "colorWarmth": "warmer",
+        "ctaUrgency": "moderate",
+        "copyDensity": "medium",
+        "socialProofStyle": "L1-specific parent quotes \u2014 timing problems, inconsistent performance, verbal child",
+        "borderRadius": 20,
+        "shadowIntensity": "6px",
+        "background": "#FAF9F7",
+        "sectionCount": 7,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e8-l2": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-l2.md",
+      "level": "L2",
+      "creativeStrategy": "The last email isn't a close. It's a door held open \u2014 a respectful handoff from information to decision. Lena in a calm home environment, authentic, not staged. A person, not a brand, saying goodbye for now.",
+      "components": {
+        "hero": "HERO-3 \u2014 Permission Open",
+        "text": "LETTER-03 \u2014 Letter + Pull-Quote",
+        "socialProof": "SP-02 \u2014 Expert Endorsement",
+        "mechanism": "EDU-14 \u2014 Quick Reference Card",
+        "product": "ProductShowcaseFull",
+        "cta": "CTA-4 \u2014 Gentle Invite",
+        "trust": "TRUST-2 \u2014 Guarantee Detail Cards",
+        "decorative": "20.2 \u2014 Dot Pattern Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+        "/root/projects/brightkidco/raw/product-photos/accessories/towel-set-llama-cactus.png"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Semi-bold",
+        "heroImageMood": "Balanced, structured \u2014 clinical-honest signal diagram, BCBA-aware visual language",
+        "colorWarmth": "neutral",
+        "ctaUrgency": "low",
+        "copyDensity": "long",
+        "socialProofStyle": "BCBA-context quotes \u2014 method cycling, therapy integration, structured approach",
+        "borderRadius": 16,
+        "shadowIntensity": "8px",
+        "background": "#FAFAF8",
+        "sectionCount": 7,
+        "imageCount": 3
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    },
+    "e8-l3": {
+      "copyFile": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-l3.md",
+      "level": "L3",
+      "creativeStrategy": "Permission to pause \u2014 not a closing argument or final push. The most respectful thing for a parent burned by hope for 6+ years: a quiet, dignified off-ramp. An open door that doesn't close.",
+      "components": {
+        "hero": "HERO-9 \u2014 Whisper Tone",
+        "text": "LETTER-07 \u2014 Greeting Card",
+        "socialProof": "SP-07 \u2014 Counter-Testimonial",
+        "mechanism": "EDU-1 \u2014 Definition Block",
+        "product": "ProductShowcaseSoft",
+        "cta": "CTA-2 \u2014 Soft Link",
+        "trust": "TRUST-4 \u2014 Dashed Policy Quote",
+        "decorative": "20.1 \u2014 Wave Divider"
+      },
+      "images": [
+        "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-penguin-multicolor.jpg"
+      ],
+      "levelCalibration": {
+        "typographyWeight": "Bold",
+        "heroImageMood": "Dignity-first \u2014 quiet dawn, soft light, no urgency, patient and spacious",
+        "colorWarmth": "cooler",
+        "ctaUrgency": "zero",
+        "copyDensity": "medium",
+        "socialProofStyle": "Dignity-first quotes \u2014 long journey, quiet moments, micro-shifts",
+        "borderRadius": 12,
+        "shadowIntensity": "4px",
+        "background": "#F8F6F3",
+        "sectionCount": 6,
+        "imageCount": 2
+      },
+      "componentCategories": [
+        "HERO",
+        "TEXT/LETTER",
+        "TESTIMONIAL",
+        "MECHANISM",
+        "PRODUCT",
+        "CTA",
+        "GUARANTEE",
+        "DECORATIVE"
+      ]
+    }
+  }
+}

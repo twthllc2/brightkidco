@@ -1,0 +1,871 @@
+{
+  "agent": 2,
+  "flows": [
+    "cart",
+    "checkout",
+    "browse",
+    "transactional",
+    "pp-direct-upsell",
+    "pp-level-detection",
+    "pp-education",
+    "pp-extended-upsell",
+    "pp-mid-checkin",
+    "pp-mary-story"
+  ],
+  "totalEmails": 27,
+  "flows_data": {
+    "cart": {
+      "flowNumber": 2,
+      "levelSpecific": false,
+      "signature": "urgent-gentle",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/cart/cart-02-e1.md",
+          "creativeStrategy": "Signal-path metaphor: dotted neural line enters from left, travels through three recognition-anchor icons, culminates in soft glow behind CTA. Editorial Split layout. Signal-Path Travel Animation GIF with nodes lighting up sequentially. Custom SVG signal-path illustration with three glowing nodes representing three family stories.",
+          "components": {
+            "hero": "HERO-16 Mechanism Tease",
+            "text": "LETTER-03 Letter + Pull-Quote",
+            "socialProof": "SP-06 Before/After Testimonial",
+            "mechanism": "EDU-8 Mechanism Diagram",
+            "product": "ProductShowcaseMedium",
+            "cta": "CTA-4 Gentle Invite",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-02 Divider Bar"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-bunny-hearts-pink.jpg",
+            "/root/projects/brightkidco/raw/product-photos/accessories/potty-targets-stickers-chart.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e2": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/cart/cart-02-e2.md",
+          "creativeStrategy": "Testimonial wall with subtle neural pulse line splitting into three paths (one per family story) converging at CTA as unified signal-received glow. Single-column cascade with asymmetrical testimonial cards. Signal Progress Meter SVG with three branching neural nodes.",
+          "components": {
+            "hero": "HERO-17 Social Proof Hero",
+            "text": "LETTER-06 PS Teaser",
+            "socialProof": "SP-08 Stacked Mini-Reviews",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseFull",
+            "cta": "CTA-5 Product CTA",
+            "trust": "TRUST-2 Guarantee Detail Cards",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e3": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/cart/cart-02-e3.md",
+          "creativeStrategy": "Skepticism-acknowledging close email. Objection D3 (hope-fear cycle). Minimal hero, guarantee-focused layout. Section structure: Hook, Validation, Recognition Anchors, Mechanism, Guarantee, Three-Family Testimonial, CTA + Offer, Lena Sign-Off. 60-day guarantee as honest protocol not sales tactic.",
+          "components": {
+            "hero": "HERO-9 Whisper Tone",
+            "text": "LETTER-04 Letter + Image Break",
+            "socialProof": "SP-07 Counter-Testimonial",
+            "mechanism": "EDU-1 Definition Block",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-11 Permission CTA",
+            "trust": "TG1 Guarantee Breakdown",
+            "decorative": "UTIL-05 Signoff Card"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-red-white.jpg",
+            "/root/projects/brightkidco/raw/product-photos/accessories/book-potty-training-guide.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "checkout": {
+      "flowNumber": 3,
+      "levelSpecific": false,
+      "signature": "trust-building",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/checkout/checkout-03-e1.md",
+          "creativeStrategy": "Permission to pause backed by guarantee. Speed of send (10 min) catches hesitation before rationalization. Minimal hero \u2014 permission-frame email. Clean, no product imagery, focused on reassurance. Lena 4-step formula (Observation, Validation, Mechanism, Permission).",
+          "components": {
+            "hero": "HERO-3 Permission Open",
+            "text": "LETTER-02 Handwritten Opener",
+            "socialProof": "SP-01 Yellow Quote Block",
+            "mechanism": "EDU-4 Why It Works (3 Reasons)",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-11 Permission CTA",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-02 Divider Bar"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e2": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/checkout/checkout-03-e2.md",
+          "creativeStrategy": "Deep barrier \u2014 hope-fear cycle. Full Whether/Or/If 5-dimension sentence for cross-level coverage. Minimal validation-focused email, text-heavy with warmth. Three-Family Testimonial Pattern in body. CTA intentionally soft.",
+          "components": {
+            "hero": "HERO-18 Guilt Absolution",
+            "text": "LETTER-09 Double Column",
+            "socialProof": "SP-05 Counter Testimonial",
+            "mechanism": "ED3 Interoception Explainer",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-2 Soft Link",
+            "trust": "TRUST-5 Promise Badges Strip",
+            "decorative": "UTIL-07 Section Header"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-watermelon-pink.jpg",
+            "/root/projects/brightkidco/raw/product-photos/accessories/towel-set-llama-cactus.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "browse": {
+      "flowNumber": 4,
+      "levelSpecific": false,
+      "signature": "curiosity-spark",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/browse/browse-04-e1.md",
+          "creativeStrategy": "Softest touch in recovery funnel. Educational bridge connecting symptom to mechanism. Re-engage with symptom recognition (not product push), Validate the struggle, Educate on interoception mechanism, Introduce BSL concept without hard sell. ZERO urgency. Keep reading CTA \u2014 education-first positioning.",
+          "components": {
+            "hero": "HERO-1 Curiosity Gap",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-02 Expert Endorsement",
+            "mechanism": "ED3 Interoception Explainer",
+            "product": "ProductShowcaseSoft",
+            "cta": "FLOW-11 Browse Abandon",
+            "trust": "TRUST-8 Trust Icons Row",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/diaper-woodland-creature-yellow.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-livingroom-dino-yellow.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e2": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/browse/browse-04-e2.md",
+          "creativeStrategy": "Social proof pivot. Single job: make every abandoned browser feel seen, then show parents like them found the missing piece. Review count (16,511) as primary visual element. No product mention until CTA. GF-D lever included.",
+          "components": {
+            "hero": "HERO-17 Social Proof Hero",
+            "text": "LETTER-05 Manifesto Line",
+            "socialProof": "SP-14 Trust Badges Row",
+            "mechanism": "EDU-8 Mechanism Diagram",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-6 Social CTA",
+            "trust": "TRUST-N Social Proof Counter",
+            "decorative": "UTIL-07 Section Header"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/swim-diaper-giraffe-yellow.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-playing-train-moon-cloud-blue.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e3": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/browse/browse-04-e3.md",
+          "creativeStrategy": "Guarantee-driven close with permission-not-to-buy. Visual metaphor of a held-open door. Door illustration grows wider as reader scrolls. Signal-Dot Pulse CSS animation. Threshold Glow easter egg.",
+          "components": {
+            "hero": "HERO-8 Visual Metaphor",
+            "text": "LETTER-03 Letter + Pull-Quote",
+            "socialProof": "SP-03 UGC Photo Grid",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-4 Gentle Invite",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-02 Divider Bar"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/swim-diaper-whale-ocean-blue.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-napping-watermelon-pink-shorts.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "transactional": {
+      "flowNumber": 5,
+      "levelSpecific": false,
+      "signature": "clean-efficient",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/transactional/order-05-e1.md",
+          "creativeStrategy": "Clean unboxing-like structure. Top half crisp and functional (order details, tracking), bottom half unfolds into soft family-warmth visuals. Z-Axis Cascade layout. Signal Arrival illustration (dotted neural pathway converging to emerald glow).",
+          "components": {
+            "hero": "HERO-2 Warm Hero",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-04 Trust Pills Row",
+            "mechanism": "EDU-14 Quick Reference Card",
+            "product": "ProductShowcaseMedium",
+            "cta": "FLOW-8 Post-Purchase Education",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-woodland-white.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e2": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/transactional/shipping-06.md",
+          "creativeStrategy": "Package journey \u2014 dotted trajectory line from warehouse to home icon. Warm + functional. NO CTA button per S2 spec \u2014 pure fulfillment. Package Journey Line SVG with signal-wave bumps. 3-Layer Exploded View illustration.",
+          "components": {
+            "hero": "HERO-2 Warm Hero",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-04 Trust Pills Row",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseSoft",
+            "cta": "FLOW-9 Shipping Tracker",
+            "trust": "TG2 Shipping Timeline",
+            "decorative": "UTIL-02 Divider Bar"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/swim-diaper-unicorn-pink.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/washing-machine-training-pants.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e3": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/transactional/ofd-07-e1.md",
+          "creativeStrategy": "Unboxing moment, warm anticipation. Package icon transforms into open box revealing underwear, signal-path dotted line flowing toward CTA. Tracking Signal Path Animation, dot traveling dotted line from gray to green. Signal Dots in three-step cards.",
+          "components": {
+            "hero": "HERO-2 Warm Hero",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-04 Trust Pills Row",
+            "mechanism": "EDU-2 Step Cards",
+            "product": "ProductShowcaseSoft",
+            "cta": "FLOW-9 Shipping Tracker",
+            "trust": "TG2 Shipping Timeline",
+            "decorative": "UTIL-07 Section Header"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-penguin-multicolor.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e4": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/transactional/arrived-08.md",
+          "creativeStrategy": "Delivery moment \u2014 package arriving, being opened, revealing learning journey inside. Unfolding Signal Diagram SVG. Signal Path Pulse + 'Uh-Oh' Awareness Wave motion. Editorial product shot on warm cream linen.",
+          "components": {
+            "hero": "HERO-12 Before Snapshot",
+            "text": "LETTER-04 Letter + Image Break",
+            "socialProof": "SP-04 Trust Pills Row",
+            "mechanism": "EDU-8 Mechanism Diagram",
+            "product": "ProductShowcaseMedium",
+            "cta": "CTA-5 Product CTA",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-05 Signoff Card"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/laundry-bag-llama-cream.png",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddlers-backview-disposable-diapers.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "pp-direct-upsell": {
+      "flowNumber": 9,
+      "levelSpecific": false,
+      "signature": "complementary",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-direct-upsell/upsell-09-e1.md",
+          "creativeStrategy": "Care instruction card arriving at exactly the right moment \u2014 Day 3, when parent has just started washing routine. Single wash bag visual (SVG mesh bag with emerald accents). Utility email \u2014 NO animation. Instructional, trustworthy, not sales.",
+          "components": {
+            "hero": "HERO-2 Warm Hero",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-04 Trust Pills Row",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseFull",
+            "cta": "FLOW-8 Post-Purchase Education",
+            "trust": "TRUST-8 Trust Icons Row",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/swim-diaper-giraffe-yellow.jpg",
+            "/root/projects/brightkidco/raw/product-photos/accessories/wet-bags-space-zebra-llama.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e2": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-direct-upsell/upsell-09-e2.md",
+          "creativeStrategy": "Split-frame visual showing two-layer protection concept. Cutaway illustration of mattress protector layers in Ethereal Glass style. Signal-path dotted line arches from child through protector to mattress. Practical problem-solving, not emotional.",
+          "components": {
+            "hero": "HERO-13 Scientific Hook",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-04 Trust Pills Row",
+            "mechanism": "ED1 3-Layer Product Diagram",
+            "product": "ProductShowcaseFull",
+            "cta": "CTA-5 Product CTA",
+            "trust": "TRUST-2 Guarantee Detail Cards",
+            "decorative": "UTIL-07 Section Header"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/swim-diaper-unicorn-pink.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-pink-multicolor.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "pp-level-detection": {
+      "flowNumber": 10,
+      "levelSpecific": false,
+      "signature": "gentle-diagnostic",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-level-detection/detection-10.md",
+          "creativeStrategy": "Kitchen-table conversation. Four expandable symptom cards like handwritten sticky notes. Cards fade in sequentially. Four card accent stripes encode four avatar levels (never named).",
+          "components": {
+            "hero": "HERO-11 Question Storm",
+            "text": "LETTER-02 Handwritten Opener",
+            "socialProof": "SP-01 Yellow Quote Block",
+            "mechanism": "EDU-1 Definition Block",
+            "product": "ProductShowcaseSoft",
+            "cta": "FLOW-12 Level Detection",
+            "trust": "TRUST-8 Trust Icons Row",
+            "decorative": "UTIL-05 Signoff Card"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+            "/root/projects/brightkidco/raw/product-photos/accessories/potty-targets-stickers-chart.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e2": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-level-detection/pp-leveldetect-01-e1.md",
+          "creativeStrategy": "Parents don't want forms they want to feel seen. Level detection as recognition. No CTA button - the cards ARE the interaction. Dashed Not sure variant.",
+          "components": {
+            "hero": "HERO-5 Mirror Moment",
+            "text": "LETTER-02 Handwritten Opener",
+            "socialProof": "SP-01 Yellow Quote Block",
+            "mechanism": "EDU-6 FAQ Blocks",
+            "product": "ProductShowcaseSoft",
+            "cta": "FLOW-12 Level Detection",
+            "trust": "TRUST-5 Promise Badges Strip",
+            "decorative": "UTIL-05 Signoff Card"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png",
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-bunny-hearts-pink.jpg"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "pp-education": {
+      "flowNumber": 11,
+      "levelSpecific": false,
+      "signature": "science-warm",
+      "emails": {
+        "d0": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-education/pped-11-d0.md",
+          "creativeStrategy": "Week 1 reset. 8-part cross-level architecture. Mint badge. Easter egg: Hidden Calibration Table in testimonials.",
+          "components": {
+            "hero": "HERO-16 Mechanism Tease",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-08 Stacked Mini-Reviews",
+            "mechanism": "EDU-8 Mechanism Diagram",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-2 Soft Link",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-napping-watermelon-pink-shorts.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "d7": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-education/pped-11-d7.md",
+          "creativeStrategy": "Week 1 plateau validation. Radio analogy (static before signal). Pure education no purchase CTA.",
+          "components": {
+            "hero": "HERO-9 Whisper Tone",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-05 Counter Testimonial",
+            "mechanism": "EDU-4 Why It Works (3 Reasons)",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-2 Soft Link",
+            "trust": "TRUST-5 Promise Badges Strip",
+            "decorative": "UTIL-07 Section Header"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/diaper-woodland-creature-yellow.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-playing-train-moon-cloud-blue.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "d14": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-education/pped-11-d14.md",
+          "creativeStrategy": "Two-week milestone. 7 recognition anchors. Graduated success. Reply CTA.",
+          "components": {
+            "hero": "HERO-19 Timeline Shock",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-06 Before/After Testimonial",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-6 Social CTA",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-red-white.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-rearview-cat-mustard.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "d21": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-education/pped-11-d21.md",
+          "creativeStrategy": "Three-week checkpoint. 6 Recognition Anchors. Bridges to Flows 12 and 13.",
+          "components": {
+            "hero": "HERO-11 Question Storm",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-08 Stacked Mini-Reviews",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-2 Soft Link",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-07 Section Header"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-penguin-multicolor.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-backpack-moon-cloud-blue.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "pp-extended-upsell": {
+      "flowNumber": 12,
+      "levelSpecific": false,
+      "signature": "value-demonstration",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-extended-upsell/ppupsell-12-e1.md",
+          "creativeStrategy": "Day 28 bundle upgrade. Hook with symptom recognition. Consistency beats intensity - more pairs = no wash gaps = uninterrupted signal. Three-Family Testimonial Pattern. L3 guard: 1pr to 3+3 max NEVER 5+5.",
+          "components": {
+            "hero": "HERO-16 Mechanism Tease",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-08 Stacked Mini-Reviews",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseFull",
+            "cta": "CTA-5 Product CTA",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-watermelon-pink.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e2": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-extended-upsell/ppupsell-12-e2.md",
+          "creativeStrategy": "Day 35 rotation reinforcement. Three parents added more pairs (social proof normalization). Rotation = more signal exposure = faster neural wiring. FAQ section addressing top 3 objections inline.",
+          "components": {
+            "hero": "HERO-17 Social Proof Hero",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-14 Trust Badges Row",
+            "mechanism": "EDU-8 Mechanism Diagram",
+            "product": "ProductShowcaseFull",
+            "cta": "CTA-4 Gentle Invite",
+            "trust": "TRUST-2 Guarantee Detail Cards",
+            "decorative": "UTIL-05 Signoff Card"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-woodland-white.jpg",
+            "/root/projects/brightkidco/raw/product-photos/accessories/cloth-pads-watermelon-astronaut-cat.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "e3": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-extended-upsell/ppupsell-12-e3.md",
+          "creativeStrategy": "Day 60 final extended upsell. Highest-risk period for abandonment. Validates hybrid progress state. 60-day science checkpoint. Product moment: next-phase tools (Targets Pack, Reward Chart, E-book).",
+          "components": {
+            "hero": "HERO-19 Timeline Shock",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-06 Before/After Testimonial",
+            "mechanism": "EDU-11 Science Citation",
+            "product": "ProductShowcaseFull",
+            "cta": "CTA-5 Product CTA",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/laundry-bag-llama-cream.png",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-livingroom-dino-yellow.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "pp-mid-checkin": {
+      "flowNumber": 13,
+      "levelSpecific": false,
+      "signature": "supportive-checkin",
+      "emails": {
+        "d30": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-mid-checkin/mid-13-d30.md",
+          "creativeStrategy": "Day 30 not a deadline a benchmark. Signal-Strength Indicator contraption (3-stage journey). 5 Recognition Anchors. The absence of visible progress is not the absence of progress.",
+          "components": {
+            "hero": "HERO-15 Level Callout",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-08 Stacked Mini-Reviews",
+            "mechanism": "EDU-7 Did You Know",
+            "product": "ProductShowcaseSoft",
+            "cta": "FLOW-12 Level Detection",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/diaper-woodland-creature-yellow.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "d45": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-mid-checkin/mid-13-d45.md",
+          "creativeStrategy": "Day 45 the quiet before the signal. Most critical period invisible. Validates plateau normalizes silence. Nicholson 2019 science + 30-60 second feedback explanation. Permission-framed upsell.",
+          "components": {
+            "hero": "HERO-16 Mechanism Tease",
+            "text": "LETTER-01 Paragraph Stack",
+            "socialProof": "SP-05 Counter Testimonial",
+            "mechanism": "EDU-8 Mechanism Diagram",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-2 Soft Link",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-07 Section Header"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/swim-diaper-whale-ocean-blue.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/toddler-napping-watermelon-pink-shorts.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        },
+        "d60": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-mid-checkin/mid-13-d60.md",
+          "creativeStrategy": "60-day checkpoint that meets every child where they are. Three-path validation all outcomes equal. Closing: You did. (single-word acknowledgment). 7 hidden easter eggs including Trust your read signature.",
+          "components": {
+            "hero": "HERO-5 Mirror Moment",
+            "text": "LETTER-03 Letter + Pull-Quote",
+            "socialProof": "SP-06 Before/After Testimonial",
+            "mechanism": "EDU-10 How It Works",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-2 Soft Link",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-01 Gradient Band"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/swim-diaper-unicorn-pink.jpg",
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/washing-machine-training-pants.png"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    },
+    "pp-mary-story": {
+      "flowNumber": 14,
+      "levelSpecific": false,
+      "signature": "founder-story",
+      "emails": {
+        "e1": {
+          "copyFile": "/root/projects/brightkidco/outputs/copy/pp-mary-story/mary-14-e1.md",
+          "creativeStrategy": "Founder story from Mary S. NOT Lena never mixed. Mary sits on bathroom floor, research discovery of interoception, signal vs assumption insight. No purchase CTA trust-building only. 60-day guarantee in P.S. Mission statement with triple-Whether permission frame.",
+          "components": {
+            "hero": "HERO-4 Story Fragment",
+            "text": "LETTER-02 Handwritten Opener",
+            "socialProof": "SP-01 Yellow Quote Block",
+            "mechanism": "EDU-1 Definition Block",
+            "product": "ProductShowcaseSoft",
+            "cta": "CTA-6 Social CTA",
+            "trust": "TRUST-1 60-Day Seal",
+            "decorative": "UTIL-05 Signoff Card"
+          },
+          "images": [
+            "/root/projects/brightkidco/raw/product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png",
+            "/root/projects/brightkidco/raw/product-photos/flat-lay/training-pant-fox-red-white.jpg"
+          ],
+          "r1r6Compliance": true,
+          "componentCategories": [
+            "HERO",
+            "TEXT/LETTER",
+            "TESTIMONIAL",
+            "MECHANISM",
+            "PRODUCT",
+            "CTA",
+            "GUARANTEE",
+            "DECORATIVE"
+          ]
+        }
+      }
+    }
+  }
+}

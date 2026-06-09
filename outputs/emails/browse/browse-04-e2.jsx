@@ -1,0 +1,482 @@
+/* Browse Abandonment — E2 | Cross-Level
+   Wireframe: wireframes/browse/browse-04-e2.md
+   Strategy: strategy-map.json → browse.emails.e2
+   Generated: 2026-06-09
+*/
+
+// ══════════════════════════════════════════════════════
+// SECTION 1: PREHEADER + HEADER
+// ══════════════════════════════════════════════════════
+const Email_browse_04_e2 = () => (
+  <EmailShell
+    preheader="Three parents. Three different kids. One thing they all share."
+    bg={B.paper}
+  >
+
+    {/* ── Header ── */}
+    <Header bg={B.paper} />
+
+    {/* ══════ HERO-17: Social Proof Hero ══════ */}
+    <div style={{ padding: "0 22px 8px", textAlign: "center" }}>
+      {/* Review Counter — hero element */}
+      <div style={{
+        background: "#FAFAFA",
+        border: `2px solid ${B.ink}`,
+        borderRadius: 14,
+        padding: "18px 22px",
+        marginBottom: 24,
+        boxShadow: `3px 3px 0 ${B.ink}`,
+      }}>
+        {/* Stars */}
+        <div style={{ fontSize: 22, color: "#FFD866", marginBottom: 4, letterSpacing: 2 }}>
+          ★★★★★
+        </div>
+        <div style={{ fontSize: 14, color: B.ink, fontWeight: 600, marginBottom: 4 }}>
+          4.9 out of 5
+        </div>
+        <div style={{ fontSize: 16, color: B.teal, fontWeight: 700 }}>
+          16,511 reviews from parents like you
+        </div>
+      </div>
+
+      {/* Headline */}
+      <h1 style={{
+        fontSize: 30, lineHeight: 1.2, fontWeight: 700,
+        margin: "0 0 14px", letterSpacing: -0.3, color: B.ink,
+      }}>
+        What 16,511 reviews have in common
+      </h1>
+
+      {/* Subhead */}
+      <p style={{
+        fontSize: 17, color: B.soft, lineHeight: 1.5,
+        margin: "0 0 24px", fontWeight: 500,
+      }}>
+        Three parents. Three different kids. One thing they all share.
+      </p>
+    </div>
+
+    {/* ══════ UTIL-01: Gradient Band — Teal → Green (6px) ══════ */}
+    <div style={{ height: 6, background: `linear-gradient(90deg, ${B.teal} 0%, ${B.green} 100%)` }} />
+
+    {/* ══════ LETTER-05: Manifesto Line (Recognition Opener) ══════ */}
+    <div style={{ padding: "28px 22px" }}>
+      {/* Recognition opener */}
+      <p style={{
+        margin: "0 0 14px", fontSize: 17, lineHeight: 1.6, color: B.soft,
+      }}>
+        Whether your child is 3 or 10, verbal or not, diagnosed or still figuring it out, if they don't feel when they need to go, you're in the right place.
+      </p>
+
+      {/* Recognition intro */}
+      <p style={{
+        margin: "0 0 12px", fontSize: 15, color: B.ink, fontWeight: 600,
+      }}>
+        Chances are you've seen some of these:
+      </p>
+
+      {/* Recognition Anchors — cream card with teal left border */}
+      <div style={{
+        background: B.cream,
+        borderLeft: `3px solid ${B.teal}`,
+        borderRadius: 14,
+        padding: "18px 16px",
+        marginBottom: 20,
+      }}>
+        {/* Bullet 1 */}
+        <div style={{ fontSize: 16, lineHeight: 1.6, color: B.ink, marginBottom: 12 }}>
+          <span style={{ color: B.teal, marginRight: 6 }}>▸</span>
+          He sits on the toilet for 20 minutes. Nothing happens. Then he pees 30 seconds after standing up.
+        </div>
+        {/* Bullet 2 */}
+        <div style={{ fontSize: 16, lineHeight: 1.6, color: B.ink, marginBottom: 12 }}>
+          <span style={{ color: B.teal, marginRight: 6 }}>▸</span>
+          She plays in a wet pull-up without noticing. Doesn't flinch. Doesn't pause.
+        </div>
+        {/* Bullet 3 */}
+        <div style={{ fontSize: 16, lineHeight: 1.6, color: B.ink, marginBottom: 12 }}>
+          <span style={{ color: B.teal, marginRight: 6 }}>▸</span>
+          He 'almost trained' more than once. You can't figure out what's different this time.
+        </div>
+        {/* Bullet 4 */}
+        <div style={{ fontSize: 16, lineHeight: 1.6, color: B.ink, marginBottom: 12 }}>
+          <span style={{ color: B.teal, marginRight: 6 }}>▸</span>
+          She knows what to do, she'll tell you she needs to go, but it's already happening by the time she says it.
+        </div>
+        {/* Bullet 5 */}
+        <div style={{ fontSize: 16, lineHeight: 1.6, color: B.ink }}>
+          <span style={{ color: B.teal, marginRight: 6 }}>▸</span>
+          You've stopped counting the attempts. Years of pull-ups, and nothing shifted.
+        </div>
+      </div>
+
+      {/* Bridge line */}
+      <p style={{
+        margin: "0 0 0", fontSize: 16, color: B.ink, fontStyle: "italic",
+      }}>
+        If any of those sound like your morning, keep reading.
+      </p>
+    </div>
+
+    {/* ══════ UTIL-07: Section Header ══════ */}
+    <div style={{ padding: "12px 22px", textAlign: "center" }}>
+      <h2 style={{
+        fontSize: 20, lineHeight: 1.3, fontWeight: 700,
+        margin: 0, color: B.ink, letterSpacing: -0.2,
+      }}>
+        Three parents. Three different kids.<br/>One common thread.
+      </h2>
+    </div>
+
+    {/* ══════ SP-02: Three-Family Testimonial Block ══════ */}
+    <div style={{ padding: "14px 22px" }}>
+      {/* Testimonial 1 — Sarah (L1) */}
+      <div style={{
+        background: B.cream,
+        borderRadius: 14,
+        border: `2px solid ${B.ink}`,
+        boxShadow: `5px 5px 0 ${B.ink}`,
+        padding: "20px 18px",
+        marginBottom: 14,
+      }}>
+        <div style={{ display: "flex", gap: 10, marginBottom: 12 }}>
+          <div style={{
+            width: 12, height: 12, borderRadius: "50%",
+            background: B.teal, opacity: 0.5, flexShrink: 0, marginTop: 4,
+          }} />
+          <div>
+            <p style={{
+              margin: 0, fontSize: 16, lineHeight: 1.6, color: B.soft,
+            }}>
+              "My son is 3. Verbal. He can tell me 'I need to pee', after he's already done it. We tried Oh Crap. Sticker charts. Timer sits. Nothing worked. He'd sit for 20 minutes, get up, and pee on the floor 30 seconds later. I was ready to give up.
+            </p>
+            <p style={{
+              margin: "10px 0 0", fontSize: 16, lineHeight: 1.6, color: B.soft,
+            }}>
+              After a few weeks in BrightKidCo underwear, he paused. Mid-pee, he stopped. Looked down. Then walked to the bathroom. That pause never happened before. It's not perfect, but it's real."
+            </p>
+          </div>
+        </div>
+        <div style={{ fontSize: 13, color: B.muted, fontStyle: "italic" }}>
+          — Sarah, mom of a 3-year-old
+        </div>
+      </div>
+
+      {/* Testimonial 2 — Lisa (L2) */}
+      <div style={{
+        background: B.cream,
+        borderRadius: 14,
+        border: `2px solid ${B.ink}`,
+        boxShadow: `5px 5px 0 ${B.ink}`,
+        padding: "20px 18px",
+        marginBottom: 14,
+      }}>
+        <div style={{ display: "flex", gap: 10, marginBottom: 12 }}>
+          <div style={{
+            width: 12, height: 12, borderRadius: "50%",
+            background: B.teal, opacity: 0.5, flexShrink: 0, marginTop: 4,
+          }} />
+          <div>
+            <p style={{
+              margin: 0, fontSize: 16, lineHeight: 1.6, color: B.soft,
+            }}>
+              "We've been in ABA for 2 years. BCBA protocol. Timed sits every 45 minutes. He'd go when prompted, but never on his own. The moment we stopped the schedule, the accidents came back. Prompt-dependency, his BCBA called it.
+            </p>
+            <p style={{
+              margin: "10px 0 0", fontSize: 16, lineHeight: 1.6, color: B.soft,
+            }}>
+              Kelly Mahler talks about interoception as the 'eighth sensory system', the one that tells you when you're hungry, thirsty, or need the bathroom. For my son, that system wasn't sending the signal. The underwear gave his brain the feedback it was missing. After a few weeks, he paused before an accident. First time in 4 years."
+            </p>
+          </div>
+        </div>
+        <div style={{ fontSize: 13, color: B.muted, fontStyle: "italic" }}>
+          — Lisa, mom of a 5-year-old
+        </div>
+      </div>
+
+      {/* Testimonial 3 — Maria (L3) */}
+      <div style={{
+        background: B.cream,
+        borderRadius: 14,
+        border: `2px solid ${B.ink}`,
+        boxShadow: `5px 5px 0 ${B.ink}`,
+        padding: "20px 18px",
+        marginBottom: 14,
+      }}>
+        <div style={{ display: "flex", gap: 10, marginBottom: 12 }}>
+          <div style={{
+            width: 12, height: 12, borderRadius: "50%",
+            background: B.teal, opacity: 0.5, flexShrink: 0, marginTop: 4,
+          }} />
+          <div>
+            <p style={{
+              margin: 0, fontSize: 16, lineHeight: 1.6, color: B.soft,
+            }}>
+              "My son is 9. Non-verbal. Uses AAC. In 9 years, he's never shown any awareness of being wet. We tried everything, OT, social stories, specialists. Nothing. I made peace with pull-ups forever. It's just where we were.
+            </p>
+            <p style={{
+              margin: "10px 0 0", fontSize: 16, lineHeight: 1.6, color: B.soft,
+            }}>
+              After a couple of months in Body-Signal underwear, he paused. He looked down at the wet spot. Then he walked toward the bathroom. Not trained. But feeling something for the first time. That pause was more than I'd seen in 9 years.
+            </p>
+            <p style={{
+              margin: "10px 0 0", fontSize: 16, lineHeight: 1.6, color: B.soft,
+            }}>
+              Maureen Bennie's son was 9.5 when he trained. Late is not never."
+            </p>
+          </div>
+        </div>
+        <div style={{ fontSize: 13, color: B.muted, fontStyle: "italic" }}>
+          — Maria, mom of a 9-year-old
+        </div>
+      </div>
+    </div>
+
+    {/* ══════ 1px RULE — Section Break ══════ */}
+    <div style={{ height: 1, background: "#E8DED5", margin: "0 22px" }} />
+
+    {/* ══════ EDU-8: Mechanism Reveal ══════ */}
+    <div style={{ padding: "28px 22px" }}>
+      {/* Mechanism intro */}
+      <p style={{
+        margin: "0 0 14px", fontSize: 17, lineHeight: 1.6, color: B.soft,
+      }}>
+        The common thread across every one of these stories: every child was missing the body signal.
+      </p>
+
+      {/* Interoception definition */}
+      <p style={{
+        margin: "0 0 14px", fontSize: 17, lineHeight: 1.6, color: B.soft,
+      }}>
+        Interoception is the body's ability to sense internal signals, hunger, thirst, bladder fullness. Research shows this works differently in many autistic children and kids who process signals differently (Barmpagiannis &amp; Baldimtsi 2025, 49-study review).
+      </p>
+
+      {/* Citation */}
+      <div style={{
+        fontSize: 13, color: B.muted, fontStyle: "italic", marginBottom: 14,
+      }}>
+        Barmpagiannis &amp; Baldimtsi 2025, 49-study review
+      </div>
+
+      {/* Standard methods line */}
+      <p style={{
+        margin: "0 0 14px", fontSize: 17, lineHeight: 1.6, color: B.soft,
+      }}>
+        Standard methods assume the signal is there. If it's not, they can't work.
+      </p>
+
+      {/* Product intro */}
+      <p style={{
+        margin: "0 0 14px", fontSize: 17, lineHeight: 1.6, color: B.soft,
+      }}>
+        Body-Signal Learning Layer underwear creates a gentle, sustained 'uh-oh' sensation, 30 to 60 seconds of feedback that gives the brain time to register: something happened.
+      </p>
+
+      {/* Timeline ranges */}
+      <p style={{
+        margin: "0 0 0", fontSize: 17, lineHeight: 1.6, color: B.soft,
+      }}>
+        Some kids show first signs in 2 weeks. Others need 8 weeks. Both are normal. Wins look different on different timelines, a pause, a look, a step toward the bathroom. That's not failure. That's the signal wiring.
+      </p>
+    </div>
+
+    {/* ══════ CTA-6: Social CTA ══════ */}
+    <div style={{ padding: "14px 22px 28px", textAlign: "center" }}>
+      {/* Permission text */}
+      <p style={{
+        margin: "0 0 6px", fontSize: 17, lineHeight: 1.5, color: B.ink, fontWeight: 600,
+      }}>
+        Your child, your timeline, your judgment.
+      </p>
+      <p style={{
+        margin: "0 0 20px", fontSize: 16, lineHeight: 1.6, color: B.soft,
+      }}>
+        If this sounds like something your family could use, here's where to learn more about how the Body-Signal approach actually works.
+      </p>
+
+      {/* CTA button */}
+      <a href="#" style={{
+        display: "inline-block", padding: "14px 32px",
+        background: B.teal, color: "#D8F57C",
+        fontSize: 16, fontWeight: 700,
+        textDecoration: "none", borderRadius: 999,
+        letterSpacing: 0.3, minWidth: 280,
+        textAlign: "center",
+      }}>
+        See how it works for kids like yours
+      </a>
+
+      {/* Guarantee line */}
+      <p style={{
+        margin: "18px 0 0", fontSize: 14, lineHeight: 1.4, color: B.muted,
+      }}>
+        60-day guarantee. Full refund if it doesn't fit your child. No pressure either way.
+      </p>
+    </div>
+
+    {/* ══════ TRUST-N: Social Proof Counter ══════ */}
+    <div style={{ padding: "0 22px 20px", textAlign: "center" }}>
+      <div style={{ display: "flex", justifyContent: "center", alignItems: "center", gap: 8 }}>
+        <span style={{ color: "#FFD866", fontSize: 14 }}>★★★★★</span>
+        <span style={{ fontSize: 13, color: B.muted }}>4.9</span>
+        <span style={{ fontSize: 13, color: B.muted }}>·</span>
+        <span style={{ fontSize: 13, color: B.teal, fontWeight: 600 }}>16,511 reviews</span>
+      </div>
+    </div>
+
+    {/* ══════ MIGRATION ANCHORS (GF Sub-Groups) ══════ */}
+    <div style={{ padding: "0 22px 28px" }}>
+      <p style={{
+        margin: "0 0 14px", fontSize: 15, lineHeight: 1.6, color: B.muted,
+      }}>
+        If you're wondering whether your child's situation is specific enough for this product, here are three stories from parents who were asking the same question:
+      </p>
+
+      {/* Sarah's story link */}
+      <p style={{ margin: "0 0 10px", fontSize: 15, lineHeight: 1.5 }}>
+        <span style={{ color: B.teal, fontWeight: 700, marginRight: 4 }}>→</span>
+        <a href="#" style={{ color: B.teal, textDecoration: "none", fontWeight: 500 }}>
+          If your child is verbal, under 5, and 'almost trained' multiple times, Sarah's story might sound familiar. Read Sarah's full journey
+        </a>
+      </p>
+
+      {/* Lisa's story link */}
+      <p style={{ margin: "0 0 10px", fontSize: 15, lineHeight: 1.5 }}>
+        <span style={{ color: B.teal, fontWeight: 700, marginRight: 4 }}>→</span>
+        <a href="#" style={{ color: B.teal, textDecoration: "none", fontWeight: 500 }}>
+          If your child has sensory issues around the bathroom and you've worked with a therapist or BCBA, here's what Lisa learned. Read Lisa's path
+        </a>
+      </p>
+
+      {/* Maria's story link */}
+      <p style={{ margin: "0 0 10px", fontSize: 15, lineHeight: 1.5 }}>
+        <span style={{ color: B.teal, fontWeight: 700, marginRight: 4 }}>→</span>
+        <a href="#" style={{ color: B.teal, textDecoration: "none", fontWeight: 500 }}>
+          If your child is 7+, non-verbal or high-support needs, Maria's experience will tell you what to expect. Read Maria's journey
+        </a>
+      </p>
+
+      {/* General guide */}
+      <p style={{ margin: "14px 0 0", fontSize: 15, lineHeight: 1.5, color: B.muted }}>
+        Not sure where your child fits? That's okay. The general framework works for all kids whose nervous systems process signals differently.{' '}
+        <a href="#" style={{ color: B.teal, textDecoration: "none", fontWeight: 500 }}>
+          Keep reading the general guide
+        </a>
+      </p>
+    </div>
+
+    {/* ══════ SIGNOFF — Lena (MEDIUM) ══════ */}
+    <div style={{ background: B.ink, padding: "0 22px 36px" }}>
+      <div style={{
+        position: "relative",
+        background: "#1F2A2C",
+        border: "1.5px solid #2F3D40",
+        borderRadius: 20,
+        padding: "26px 24px 24px",
+        overflow: "hidden",
+      }}>
+        {/* Top gradient accent */}
+        <div style={{
+          position: "absolute", top: 0, left: 0, right: 0, height: 4,
+          background: `linear-gradient(90deg, ${B.teal}, ${B.green})`, opacity: 0.9,
+        }} />
+
+        {/* Avatar + name */}
+        <div style={{ display: "flex", alignItems: "center", gap: 14, marginBottom: 18 }}>
+          <div style={{
+            width: 58, height: 58, flexShrink: 0,
+            borderRadius: "50%",
+            background: `linear-gradient(135deg, #FFD866 0%, ${B.teal} 100%)`,
+            padding: 2.5,
+          }}>
+            <div style={{
+              width: "100%", height: "100%", borderRadius: "50%",
+              background: "#FFFDF6",
+              display: "flex", alignItems: "center", justifyContent: "center",
+              overflow: "hidden", border: `1.5px solid ${B.ink}`,
+            }}>
+              <svg width="58" height="58" viewBox="0 0 58 58">
+                <rect width="58" height="58" fill="#F5E8D0" />
+                <circle cx="29" cy="22" r="10" fill="#D4A574" />
+                <path d="M10,58 C10,42 18,34 29,34 C40,34 48,42 48,58 Z" fill="#C98C6B" />
+                <text x="29" y="55" textAnchor="middle" fontSize="6" fill={B.ink} fontWeight="700" letterSpacing="0.5" opacity="0.4">PHOTO</text>
+              </svg>
+            </div>
+          </div>
+          <div style={{ flex: 1 }}>
+            <div style={{
+              fontSize: 10.5, letterSpacing: 1.6, textTransform: "uppercase",
+              color: "#8FAFB2", fontWeight: 700, marginBottom: 2,
+            }}>
+              A note from
+            </div>
+            <div style={{ fontSize: 17, fontWeight: 700, color: "#FFFFFF", lineHeight: 1.2 }}>
+              Lena
+            </div>
+            <div style={{ fontSize: 12, color: "#8FAFB2", marginTop: 2, fontStyle: "italic" }}>
+              Customer Support · Mom of two autistic sons
+            </div>
+          </div>
+        </div>
+
+        {/* Dashed divider */}
+        <div style={{
+          borderTop: "1.5px dashed #3A4547", marginBottom: 16, paddingTop: 16,
+          borderBottom: "1.5px dashed #3A4547", paddingBottom: 16,
+        }}>
+          <div style={{ fontSize: 12.5, color: "#B8CACD", marginBottom: 8 }}>
+            With understanding,
+          </div>
+          <div style={{
+            fontFamily: "'Caveat', cursive",
+            fontSize: 38, lineHeight: 0.95, fontWeight: 500,
+            color: "#D8F57C",
+          }}>
+            Lena
+          </div>
+        </div>
+
+        {/* P.S. */}
+        <p style={{
+          fontSize: 13, lineHeight: 1.65, color: "#B8CACD",
+          fontStyle: "italic", margin: 0,
+        }}>
+          <span style={{ color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 }}>P.S.</span>
+          I have two autistic sons. One was 6, the other almost 8 before we figured this out. I know how hard it is to hope again after so many letdowns. 60 days to try it. By your judgment.
+        </p>
+      </div>
+    </div>
+
+    {/* ══════ FOOTER — BREZ-inspired ══════ */}
+    <div style={{ background: "#FFFFFF", padding: "30px 24px 30px", textAlign: "center" }}>
+      <div style={{
+        fontFamily: F.display, fontSize: 20, fontStyle: "italic", fontWeight: 500,
+        color: B.ink, marginBottom: 30, letterSpacing: -0.2,
+      }}>
+        Small signals, big changes.
+      </div>
+      {/* Footer links */}
+      {["Shop", "FAQ", "Contact"].map((l, i) => (
+        <div key={i} style={{ fontSize: 14, color: B.ink, fontWeight: 500, marginBottom: 14 }}>
+          <a href="#" style={{ color: B.ink, textDecoration: "none" }}>{l}</a>
+        </div>
+      ))}
+      {/* Social icons */}
+      <div style={{ display: "flex", justifyContent: "center", gap: 22, margin: "14px 0 28px" }}>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="0.8" fill={B.ink} stroke="none" /></svg></a>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M16 3h-3a5 5 0 0 0-5 5v3H5v4h3v8h4v-8h3l1-4h-4V8a1 1 0 0 1 1-1h3z" strokeLinejoin="round" /></svg></a>
+        <a href="#"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke={B.ink} strokeWidth="1.8"><path d="M9 12a4 4 0 1 0 4 4V4c.5 2.5 2.5 4.5 5 5" strokeLinecap="round" strokeLinejoin="round" /></svg></a>
+      </div>
+      {/* Unsubscribe + address */}
+      <div style={{ fontSize: 11.5, color: B.muted, lineHeight: 1.65, margin: "0 auto", maxWidth: 340 }}>
+        No longer want to receive these emails? <a href="#" style={{ color: B.ink, textDecoration: "underline" }}>Unsubscribe</a>.<br/>
+        <span style={{ fontSize: 11 }}>123 Commerce Street, Suite 200, Portland, OR 97201</span>
+      </div>
+      {/* Gradient accent bar */}
+      <div style={{ margin: "28px auto 0", width: 60, height: 3, background: `linear-gradient(90deg, ${B.teal}, ${B.green})`, borderRadius: 3 }} />
+    </div>
+
+  </EmailShell>
+);
+
+Object.assign(window, { Email_browse_04_e2 });
