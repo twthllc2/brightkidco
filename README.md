@@ -45,7 +45,7 @@ brightkidco/
 ├── README.md
 ├── outputs/
 │   ├── copy/                  124 email copy files (all flows, all levels)
-│   ├── email-design/          → symlink to email-ops/email-design/
+│   ├── email-design/          (moved from email-ops/email-design/ on Jun 17 2026)
 │   ├── strategy/              Strategy documents
 │   └── synthesis/             Source synthesis docs
 ├── raw/
