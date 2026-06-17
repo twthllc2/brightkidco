@@ -102,7 +102,7 @@ These files are loaded by every flow's Local.html. Changes here affect ALL flows
 5. Fill in `emails.jsx` with the React component using Giuliano's primitives
 6. Fill in `app.jsx` with the artboard entry
 7. Open `<Flow Name> Local.html` in a browser to preview
-8. Run the bundler: `python3 /root/projects/email-ops/email-design/tools/bundle_standalone.py "<Local.html>" "<standalone>.html"`
+8. Run the bundler: `python3 /root/projects/brightkidco/outputs/email-design/tools/bundle_standalone.py "<Local.html>" "<standalone>.html"`
 9. scp the standalone to cachy for Ayoub's review
 
 ## Key Rules
@@ -127,12 +127,12 @@ These files are loaded by every flow's Local.html. Changes here affect ALL flows
 ```
 Copy:    /root/projects/brightkidco/outputs/copy/<flow>/<file>.md
             ↓
-Build:   /root/projects/email-ops/email-design/raw/BKCO - EMAIL MARKETING/<flow>-flow/
+Build:   /root/projects/brightkidco/outputs/email-design/raw/BKCO - EMAIL MARKETING/<flow>-flow/
             ↓ (fill content.js, emails.jsx, app.jsx)
             ↓
 Bundle:  python3 tools/bundle_standalone.py "raw/BKCO - EMAIL MARKETING/<flow>-flow/<Flow> Local.html" "raw/<Flow> _standalone_.html"
             ↓
-Output:  /root/projects/email-ops/email-design/raw/<Flow> _standalone_.html
+Output:  /root/projects/brightkidco/outputs/email-design/raw/<Flow> _standalone_.html
             ↓
 Ship:    scp "raw/<Flow> _standalone_.html" ayoub@100.76.121.113:/home/ayoub/Documents/
 ```
@@ -143,7 +143,7 @@ Ship:    scp "raw/<Flow> _standalone_.html" ayoub@100.76.121.113:/home/ayoub/Doc
 ✅ Shared primitives, canvas, tokens, illustrations all wired
 ✅ Consistent load order in every Local.html
 ✅ All `Local.html` files open in a browser will show the canvas (empty for new flows, populated for welcome-flow)
-✅ Bundler is ready at `/root/projects/email-ops/email-design/tools/bundle_standalone.py`
+✅ Bundler is ready at `/root/projects/brightkidco/outputs/email-design/tools/bundle_standalone.py`
 
 ## What's NOT Ready (needs actual building)
 
@@ -156,6 +156,6 @@ Ship:    scp "raw/<Flow> _standalone_.html" ayoub@100.76.121.113:/home/ayoub/Doc
 
 - `_TEMPLATE/README.md` — Detailed pattern documentation
 - `welcome-flow/` — The only working reference (10 emails built by Giuliano)
-- `/root/projects/email-ops/email-design/component-index-v2.md` — 950 components to pick from
+- `/root/projects/brightkidco/outputs/email-design/component-index-v2.md` — 950 components to pick from
 - `/root/projects/brightkidco/outputs/copy/` — The .md copy files for all 22 flows (125 emails)
-- `/root/projects/email-ops/email-design/tools/bundle_standalone.py` — The bundler
+- `/root/projects/brightkidco/outputs/email-design/tools/bundle_standalone.py` — The bundler

@@ -45,7 +45,7 @@ The 4 files per flow already exist (templated, empty). You fill them in from the
 
 ## The Component Library (for sections beyond the 14 primitives)
 
-`/root/projects/email-ops/email-design/component-index-v2.md` — 950 components organized by email position (13 positions: SHELL, HERO, BODY-RECOGNITION, BODY-MECHANISM, etc.)
+`/root/projects/brightkidco/outputs/email-design/component-index-v2.md` — 950 components organized by email position (13 positions: SHELL, HERO, BODY-RECOGNITION, BODY-MECHANISM, etc.)
 
 ## The Working Reference (the only flow with real emails)
 
@@ -84,7 +84,7 @@ grep "\\$" "raw/BKCO - EMAIL MARKETING/<flow>-flow/content.js"  # should be empt
 grep -c "return (" "raw/BKCO - EMAIL MARKETING/<flow>-flow/emails.jsx"
 
 # 5. Bundle
-cd /root/projects/email-ops/email-design
+cd /root/projects/brightkidco/outputs/email-design
 python3 tools/bundle_standalone.py "raw/BKCO - EMAIL MARKETING/<flow>-flow/<Flow> Local.html" "raw/<Flow> _standalone_.html"
 # Should produce ~3.2MB output
 

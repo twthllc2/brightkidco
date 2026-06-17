@@ -77,13 +77,13 @@ This is the file structure Giuliano uses to build BrightKidCo emails. Every flow
 ```
 Source: /root/projects/brightkidco/outputs/copy/<flow>/<file>.md  (the .md copy)
    ↓
-Build:  /root/projects/email-ops/email-design/raw/BKCO - EMAIL MARKETING/<flow>-flow/
+Build:  /root/projects/brightkidco/outputs/email-design/raw/BKCO - EMAIL MARKETING/<flow>-flow/
    ↓        (content.js + emails.jsx + app.jsx + <Flow> Local.html)
    ↓
-Bundle: /root/projects/email-ops/email-design/tools/bundle_standalone.py
+Bundle: /root/projects/brightkidco/outputs/email-design/tools/bundle_standalone.py
    ↓        (inlines React, fonts, images into single ~3.2MB HTML)
    ↓
-Output: /root/projects/email-ops/email-design/raw/<Flow> _standalone_.html
+Output: /root/projects/brightkidco/outputs/email-design/raw/<Flow> _standalone_.html
    ↓
 Ship:   scp to ayoub@100.76.121.113:/home/ayoub/Documents/
 ```
