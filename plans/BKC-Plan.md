@@ -333,20 +333,28 @@ Add the email to the canvas:
   <window.Email<N> />
 </DCArtboard>
 
-Bundle:
+Bundle the canvas HTML (NOT the .jsx source):
 python3 /root/projects/email-ops/email-design/tools/bundle_standalone.py \
   "raw/BKCO - EMAIL MARKETING/<flow>-flow/<Flow> Local.html" \
   "raw/<Flow> _standalone_.html"
 
+The bundler inlines React, Babel runtime, all .jsx files, all images, and
+all fonts into a single self-contained HTML (~3.2MB). Opening this file in
+a browser shows the design canvas with all emails in the flow rendered at 420px.
+This is what gets scp'd to cachy — the canvas HTML, not the source.
+
 Run all 13 verification checks (§8). Fix any failures and re-run until all 13 pass.
 
-Ship (autonomous, no confirmation):
+Ship the bundled canvas HTML (autonomous, no confirmation):
 scp "raw/<Flow> _standalone_.html" ayoub@100.76.121.113:/home/ayoub/Documents/
 ssh ayoub@100.76.121.113 "chmod 644 '/home/ayoub/Documents/<Flow> _standalone_.html'"
 
 If scp returns non-zero, retry up to 2 times. If still failing, log the exit code and
 continue — the file is on disk at raw/<Flow> _standalone_.html and ready for manual
 shipment later. Do not stop.
+
+NEVER scp the .jsx source. The .jsx files are build artifacts, not deliverables.
+The deliverable is the bundled canvas HTML (raw/<Flow> _standalone_.html).
 ```
 
 ---
