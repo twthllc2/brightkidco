@@ -1,0 +1,1071 @@
+# BKC Component Index v2 — By Email Position
+
+> All 950 components from `component-index.md`, reorganized by **where they go in the email**.
+> Source line numbers in `showcase-artifacts-final.html` are preserved as `(L####)`.
+> Reorganized: 2026-06-17.
+
+---
+
+## TAGS
+
+- **`[G]`** = Literal Giuliano source — name in code matches `primitives.jsx` / `product-showcase.jsx` / `illustrations.jsx`
+- **`[G+]`** = Giuliano-derived — wraps or aliases a `[G]` component (e.g. `4.1 Letter Section` uses the `Letter` primitive)
+- **`[A*]`** = Quality-approved — has the `✦` star marker in the original index (Giuliano approved the design, but it's not in his source files)
+- **`[A]`** = Agent/standard — no star, no Giuliano source link
+- **`⚠️ RETIRED`** = in the index but on the plan's banned-patterns list — avoid in new work
+- **`(L####)`** = line number in `showcase-artifacts-final.html` where the actual component HTML lives
+
+## POSITIONS (in email assembly order)
+
+1. **SHELL & HEADER** — wrapper, logo, dividers, decorative SVGs, page chrome
+2. **HERO** — top fold, primary message opener (text-based, not photo)
+3. **BODY — RECOGNITION & STORY** — "you are not alone" / emotional middle
+4. **BODY — MECHANISM & EDUCATION** — "this is how it works" middle (always BEFORE trust per plan rule)
+5. **BODY — SOCIAL PROOF & TESTIMONIALS** — "real parents" middle (text-based)
+6. **BODY — IMAGES & PHOTOS** — visual content blocks, UGC, lifestyle, unboxing
+7. **PRODUCT SHOWCASE** — "what you're buying" block (banned in post-purchase)
+8. **GUARANTEE & TRUST** — risk reversal (Cart, PP Mid Checkin, Winback B, PP At Risk only)
+9. **CTA — THE CLOSE** — the ask (match to moment, never universal)
+10. **EMOTIONAL SUPPORT** — "you don't have to be perfect" blocks
+11. **FLOW-SPECIFIC PATTERNS** — pre-built templates per flow (Welcome E1-E5, Cart E1-E3, etc.)
+12. **SEASONAL & CAMPAIGN** — date-specific or campaign visuals (use only when relevant)
+13. **SIGNOFF & FOOTER** — Lena signoff, footer, social, legal
+
+## GIULIANO SOURCE (the 27 actual components)
+
+These are the components defined in Giuliano's source files. **When in doubt, pick from here.**
+
+**From `primitives.jsx` (14):** `EmailShell`, `Header`, `ImgFrame`, `FramedImage`, `Band`, `PartBadge`, `TitleBlock`, `Letter`, `Eyebrow`, `H2`, `CTAClose`, `Signoff`, `OutLine`, `Footer`
+
+**From `product-showcase.jsx` (3):** `ProductShowcaseFull`, `ProductShowcaseMedium`, `ProductShowcaseSoft`
+
+**From `illustrations.jsx` (10):** `Illu_GentleMorning`, `Illu_Letter`, `Illu_QuietRoom`, `Illu_Hands`, `Illu_ProductPants`, `Illu_Airplane`, `Illu_Signal`, `Illu_Sensory`, `Illu_CalmSun`, `Illu_QuoteBadge`
+
+## RETIRED PATTERNS (in index but banned per plan rules)
+
+- **4.2 Quote Card Yellow** (tilted yellow) — was in 18/20 flows, plan rule #1
+- **60-day seal in non-guarantee flows** — plan rule #3 (Cart, PP Mid Checkin, Winback B, PP At Risk only)
+- **Universal lime-on-dark CTA** outside Cart / Winback B / PP At Risk — plan rule #5
+- **Universal Body Signal SVG** outside Welcome E3 / PP Ed D14 / FAQ / PP Ext Ed W2 — plan rule #7
+- **Em dashes (—) in any copy text** — plan rule #13 (use commas, periods, line breaks)
+- **$ pricing** — plan rule #10 (use €, e.g. €34, €30.60 with BRIGHT10, €79.99 bundle)
+- **External labels in customer text** — plan rule #11 (never "this customer is a Level 2 mom")
+
+---
+
+## SHELL & HEADER (30)
+
+- `3.2               ` [G+] — Eyebrow Label (uses Eyebrow) *(L450)*
+- `13.2              ` [G+] — Letter & Envelope (uses Letter) *(L1127)*
+- `20.3              ` [G+] — Gradient Band Variants (uses Band) *(L1889)*
+- `26.5              ` [G+] — Dark Footer Bar (uses Footer) *(L2361)*
+- `UTIL-07           ` [G+] — Section Header (uses Header) *(L7652)*
+- `UTIL-06           ` [A*] — Preheader Bar *(L7624)*
+- `UTIL-08           ` [A*] — Nav Bar *(L7682)*
+- `DESDEEP-12        ` [A*] — The Gradient Text *(L13360)*
+- `1.1               ` [A] — Brand Color Palette *(L286)*
+- `1.3               ` [A] — Gradient Text *(L346)*
+- `11.1              ` [A] — Code Block *(L962)*
+- `11.2              ` [A] — Reminder Bar *(L981)*
+- `11.3              ` [A] — What's Next Timeline *(L1000)*
+- `13.1              ` [A] — Gentle Morning *(L1086)*
+- `13.3              ` [A] — Quiet Bedroom *(L1161)*
+- `13.4              ` [A] — Hand Holding *(L1198)*
+- `13.6              ` [A] — Paper Airplane *(L1257)*
+- `13.7              ` [A] — Signal Waves *(L1287)*
+- `13.9              ` [A] — Calm Sun *(L1342)*
+- `15.1              ` [A] — WBox (Wireframe Box) *(L1427)*
+- `15.2              ` [A] — WImg (Image Placeholder) *(L1446)*
+- `15.3              ` [A] — WBtn (Wireframe Button) *(L1462)*
+- `15.4              ` [A] — WText, WHand, WMono *(L1478)*
+- `15.5              ` [A] — WNote (Annotation Callout) *(L1497)*
+- `15.6              ` [A] — WireframeShell (Email Preview) *(L1510)*
+- `20.1              ` [A] — Wave Divider *(L1858)*
+- `20.2              ` [A] — Dot Pattern Divider *(L1876)*
+- `24.2              ` [A] — SVG Sun/Cloud Decoration *(L2182)*
+- `25.4              ` [A] — Gradient Text on Dark (Neon Glow) *(L2256)*
+- `26.6              ` [A] — Wavy Underline SVG *(L2376)*
+
+## HERO (30)
+
+- `HERO-20           ` [G+] — Handwritten Letter Opener (uses Letter) *(L4270)*
+- `HERO-1            ` [A*] — Curiosity Gap *(L3811)*
+- `HERO-2            ` [A*] — Data Shock *(L3834)*
+- `HERO-3            ` [A*] — Permission Open *(L3857)*
+- `HERO-4            ` [A*] — Story Fragment *(L3882)*
+- `HERO-5            ` [A*] — Mirror Moment *(L3904)*
+- `HERO-6            ` [A*] — Identity Statement *(L3925)*
+- `HERO-7            ` [A*] — Counter-Intuitive Truth *(L3950)*
+- `HERO-8            ` [A*] — Visual Metaphor *(L3971)*
+- `HERO-9            ` [A*] — Whisper Tone *(L3996)*
+- `HERO-10           ` [A*] — Bold Declaration *(L4016)*
+- `HERO-11           ` [A*] — Question Storm *(L4036)*
+- `HERO-12           ` [A*] — Before Snapshot *(L4062)*
+- `HERO-13           ` [A*] — Scientific Hook *(L4089)*
+- `HERO-14           ` [A*] — Quote Bomb *(L4114)*
+- `HERO-15           ` [A*] — Level Callout *(L4136)*
+- `HERO-16           ` [A*] — Mechanism Tease *(L4164)*
+- `HERO-17           ` [A*] — Social Proof Hero *(L4192)*
+- `HERO-18           ` [A*] — Guilt Absolution *(L4221)*
+- `HERO-19           ` [A*] — Timeline Shock *(L4246)*
+- `PSYCH-05          ` [A*] — Curiosity Gap *(L8578)*
+- `2.1               ` [A] — Lilac Gradient Hero *(L364)*
+- `2.2               ` [A] — Warm Hero *(L390)*
+- `2.3               ` [A] — Teal CTA Hero *(L410)*
+- `18.1              ` [A] — Hi-Fi Gradient Hero + Discount Block *(L1735)*
+- `22.3              ` [A] — Circle Crop Hero *(L2070)*
+- `23.1              ` [A] — Magazine Masthead *(L2117)*
+- `M1                ` [A] — Emotional Hero (Storytelling Open) *(L2945)*
+- `CC3               ` [A] — Curiosity Gap CTA *(L3716)*
+- `FSHOP-N           ` [A] — Welcome E2: Mechanism Tease *(L24112)*
+
+## BODY — RECOGNITION & STORY (117)
+
+- `4.1               ` [G+] — Letter Section (uses Letter) *(L468)*
+- `17.7              ` [G+] — Closing Letter (Before CTA) (uses Letter) *(L1716)*
+- `23.2              ` [G+] — Drop Cap Initial Letter (uses Letter) *(L2133)*
+- `UTIL-01           ` [G+] — Gradient Band (uses Band) *(L7487)*
+- `UTIL-05           ` [G+] — Signoff Card (uses Signoff) *(L7600)*
+- `LETTER-03         ` [G+] — Letter + Pull-Quote (uses Letter) *(L7826)*
+- `STORYDEEP-03      ` [G+] — The Letter From Future (uses Letter) *(L9918)*
+- `1                 ` [A*] — The Body Signal Concept (Core Mechanism Visual) *(L34)*
+- `2                 ` [A*] — The Reframe Moment *(L61)*
+- `3                 ` [A*] — Micro-Win Celebration *(L82)*
+- `4                 ` [A*] — The Pull-Up Villain Card *(L101)*
+- `5                 ` [A*] — 60-Day Calm Promise *(L127)*
+- `7                 ` [A*] — Parent Stories (Emotional Proof) *(L187)*
+- `8                 ` [A*] — CTA Varieties (Permission-Based) *(L211)*
+- `9                 ` [A*] — The Journey Map (Where You Are) *(L234)*
+- `10                ` [A*] — Mini-Win Streak (Progress Tracker) *(L260)*
+- `STORY-01          ` [A*] — Chapter Cards — Book-like story progression *(L4294)*
+- `STORY-02          ` [A*] — Vertical Timeline — Chronological milestones *(L4322)*
+- `STORY-03          ` [A*] — Split Before/After — Visual transformation *(L4356)*
+- `STORY-04          ` [A*] — Deep Quote — Pull-quote feature story *(L4388)*
+- `STORY-05          ` [A*] — Diary Entry — Handwritten-style journal *(L4421)*
+- `STORY-07          ` [A*] — Dialogue — Text-message conversation story *(L4487)*
+- `STORY-08          ` [A*] — Origin Story — Brand founding narrative *(L4525)*
+- `STORY-09          ` [A*] — The Reframe — Challenge → New perspective *(L4559)*
+- `STORY-10          ` [A*] — Stacked Story — Vertical card stack narrative *(L4587)*
+- `STORY-11          ` [A*] — Contrast Cards — Side-by-side "What they said vs. what happened" *(L4617)*
+- `STORY-12          ` [A*] — Milestone Tracker — Visual progress tracker *(L4650)*
+- `STORY-13          ` [A*] — Parallel Paths — Two families side by side *(L4683)*
+- `STORY-14          ` [A*] — Micro-Story — Single powerful moment *(L4715)*
+- `STORY-15          ` [A*] — Story Carousel — Horizontal scrollable cards *(L4748)*
+- `UTIL-02           ` [A*] — Divider Bar *(L7509)*
+- `UTIL-03           ` [A*] — Out-Line *(L7543)*
+- `LETTER-01         ` [A*] — Paragraph Stack *(L7767)*
+- `LETTER-02         ` [A*] — Handwritten Opener *(L7797)*
+- `LETTER-05         ` [A*] — Manifesto Line *(L7884)*
+- `LETTER-06         ` [A*] — PS Teaser *(L7910)*
+- `LETTER-07         ` [A*] — Greeting Card *(L7937)*
+- `LETTER-08         ` [A*] — Voice Note *(L7967)*
+- `LETTER-09         ` [A*] — Double Column *(L8000)*
+- `LETTER-10         ` [A*] — Highlighted Passage *(L8036)*
+- `LETTER-11         ` [A*] — Margin Notes *(L8064)*
+- `LETTER-12         ` [A*] — Fragmented Text *(L8096)*
+- `PERS-01           ` [A*] — Level Greeting *(L8129)*
+- `PERS-04           ` [A*] — Dynamic Progress *(L8221)*
+- `PERS-05           ` [A*] — Avatar Recognition *(L8253)*
+- `DEEP-01           ` [A*] — The Unfinished Study *(L9134)*
+- `DEEP-02           ` [A*] — The Mom Confessional *(L9160)*
+- `DEEP-03           ` [A*] — The Pattern Break *(L9184)*
+- `DEEP-04           ` [A*] — The Sensory Description *(L9217)*
+- `DEEP-05           ` [A*] — The Before-After-Moment *(L9245)*
+- `DEEP-06           ` [A*] — The Whisper Network *(L9272)*
+- `DEEP-07           ` [A*] — The Evidence Chain *(L9302)*
+- `DEEP-08           ` [A*] — The Permission Paradox *(L9331)*
+- `DEEP-09           ` [A*] — The Invisible Struggle *(L9359)*
+- `DEEP-11           ` [A*] — The Guilt Audit *(L9416)*
+- `DEEP-12           ` [A*] — The Time Capsule *(L9447)*
+- `DEEP-13           ` [A*] — The Reverse Testimonial *(L9478)*
+- `DEEP-14           ` [A*] — The Sensory Map *(L9507)*
+- `DEEP-15           ` [A*] — The Method Graveyard *(L9534)*
+- `DEEP-16           ` [A*] — The Brain-Body Bridge *(L9565)*
+- `DEEP-17           ` [A*] — The Language Shift *(L9595)*
+- `DEEP-18           ` [A*] — The Celebration Deficit *(L9621)*
+- `DEEP-19           ` [A*] — The Signal Analogy *(L9649)*
+- `DEEP-20           ` [A*] — The Community Thread *(L9681)*
+- `DEEP-21           ` [A*] — The Expert Whisper *(L9712)*
+- `DEEP-22           ` [A*] — The Milestone Reframe *(L9740)*
+- `DEEP-24           ` [A*] — The Sensory Inventory *(L9803)*
+- `STORYDEEP-01      ` [A*] — The Split Screen *(L9870)*
+- `STORYDEEP-02      ` [A*] — The Timeline Spiral *(L9894)*
+- `STORYDEEP-04      ` [A*] — The Day In The Life *(L9939)*
+- `STORYDEEP-05      ` [A*] — The Conversation Thread *(L9965)*
+- `STORYDEEP-07      ` [A*] — The Season Metaphor *(L10011)*
+- `STORYDEEP-08      ` [A*] — The Recipe Card *(L10036)*
+- `STORYDEEP-09      ` [A*] — The Map Journey *(L10064)*
+- `STORYDEEP-10      ` [A*] — The Playlist *(L10094)*
+- `STORYDEEP-11      ` [A*] — The Weather Report *(L10120)*
+- `STORYDEEP-12      ` [A*] — The Book Chapter *(L10150)*
+- `STORYDEEP-13      ` [A*] — The Movie Scene *(L10170)*
+- `STORYDEEP-14      ` [A*] — The Dictionary Entry *(L10193)*
+- `STORYDEEP-15      ` [A*] — The Museum Plaque *(L10215)*
+- `STORYDEEP-16      ` [A*] — The News Article *(L10236)*
+- `STORYDEEP-17      ` [A*] — The Comic Strip *(L10257)*
+- `STORYDEEP-18      ` [A*] — The Mixtape *(L10290)*
+- `STORYDEEP-19      ` [A*] — The Time Lapse *(L10321)*
+- `STORYDEEP-20      ` [A*] — The Field Notes *(L10350)*
+- `4.2               ` [A] — Quote Card (Yellow) ⚠️ RETIRED *(L485)*
+- `4.3               ` [A] — Pull Quote *(L503)*
+- `4.4               ` [A] — Insight / Mint Block *(L520)*
+- `4.5               ` [A] — Cream Callout *(L547)*
+- `9.1               ` [A] — Expert Quote Card *(L849)*
+- `9.2               ` [A] — Sticker Reasons *(L867)*
+- `23.3              ` [A] — Editorial Pull Quote (Thick Borders) *(L2148)*
+- `31.1              ` [A] — Green Status Pill *(L2641)*
+- `31.2              ` [A] — Tracking Info Table *(L2656)*
+- `M3                ` [A] — Testimonial Card (Mobile) *(L2997)*
+- `M7                ` [A] — Recognition Block (Mobile) *(L3093)*
+- `EJ1               ` [A] — Before/After Transformation *(L3405)*
+- `OBJ-13.4          ` [A] — OBJ-13.4 — Trust Card Footer (Brand Authority Build) *(L20365)*
+- `OBJ-14.2          ` [A] — OBJ-14.2 — Timeline Week 1-2 (Adjustment Phase) *(L20394)*
+- `OBJ-14.4          ` [A] — OBJ-14.4 — Remember Callout (Timeline Disclaimer) *(L20429)*
+- `OBJ-15.2          ` [A] — OBJ-15.2 — Three Guarantees Stack (Money-Back Trio) *(L20459)*
+- `OBJ-15.4          ` [A] — OBJ-15.4 — Lena Voice (Lena Closes Objection) *(L20494)*
+- `REV-01.2          ` [A] — REV-01.2 — Bridge Statement (Ready-To-Try Closer) *(L20521)*
+- `REV-02.2          ` [A] — REV-02.2 — Social Proof Momentum (Family Count Header) *(L20555)*
+- `REV-02.4          ` [A] — REV-02.4 — CTA Block (After-Social-Proof Conversion) *(L20594)*
+- `REV-03.2          ` [A] — REV-03.2 — Logic Block (Worst-Case Reassurance) *(L20622)*
+- `REV-04.2          ` [A] — REV-04.2 — Savings Highlight Header (Spending Anchor) *(L20651)*
+- `REV-04.4          ` [A] — REV-04.4 — Bundle CTA (Get-the-Bundle Button) *(L20684)*
+- `REV-05.2          ` [A] — REV-05.2 — Emotion Block (Story-Outcome Highlight) *(L20718)*
+- `REV-06.2          ` [A] — REV-06.2 — Science Bridge (Science-to-Action Link) *(L20750)*
+- `REV-06.4          ` [A] — REV-06.4 — Reassurance Strip (60-Day + Free Returns) *(L20782)*
+- `REV-07.2          ` [A] — REV-07.2 — Permission Statement (Solve-This Closer) *(L20814)*
+- `REV-08.2          ` [A] — REV-08.2 — CTA Block (Smart-Choice Button) *(L20846)*
+- `REV-08.4          ` [A] — REV-08.4 — Bundle Value Recap (73% Stat) *(L20879)*
+- `REV-09.2          ` [A] — REV-09.2 — Discount Highlight (Best-Price Header) *(L20911)*
+- `REV-09.4          ` [A] — REV-09.4 — Lock-In CTA (Final Discount Conversion) *(L20954)*
+- `REV-10.2          ` [A] — REV-10.2 — Lena Final (Lena's Last Word) *(L20994)*
+
+## BODY — MECHANISM & EDUCATION (177)
+
+- `19.2              ` [G+] — Chat Header (uses Header) *(L1837)*
+- `30.2              ` [G+] — Letter-Embedded Quote (uses Letter) *(L2620)*
+- `EDU-1             ` [A*] — Definition Block *(L5203)*
+- `EDU-2             ` [A*] — Step Cards *(L5226)*
+- `EDU-3             ` [A*] — Checklist *(L5259)*
+- `EDU-4             ` [A*] — Myth vs Fact *(L5292)*
+- `EDU-5             ` [A*] — Infographic *(L5324)*
+- `EDU-6             ` [A*] — FAQ Blocks *(L5354)*
+- `EDU-7             ` [A*] — Did You Know *(L5389)*
+- `EDU-8             ` [A*] — Mechanism Diagram *(L5414)*
+- `EDU-9             ` [A*] — Tip Cards *(L5453)*
+- `EDU-10            ` [A*] — How It Works *(L5487)*
+- `EDU-11            ` [A*] — Science Citation *(L5520)*
+- `EDU-12            ` [A*] — Comparison Matrix *(L5552)*
+- `EDU-13            ` [A*] — Vocabulary Builder *(L5589)*
+- `EDU-14            ` [A*] — Quick Reference Card *(L5619)*
+- `EDU-15            ` [A*] — Interactive Quiz *(L5649)*
+- `PSYCH-01          ` [A*] — Anchoring *(L8443)*
+- `PSYCH-02          ` [A*] — Loss Aversion *(L8472)*
+- `PSYCH-03          ` [A*] — Social Proof Cascade *(L8513)*
+- `PSYCH-04          ` [A*] — Commitment Escalation *(L8546)*
+- `PSYCH-06          ` [A*] — Permission Messaging *(L8611)*
+- `PSYCH-07          ` [A*] — Micro-Win Streak *(L8645)*
+- `PSYCH-08          ` [A*] — Endowment Effect *(L8669)*
+- `PSYCH-09          ` [A*] — Reciprocity *(L8695)*
+- `PSYCH-10          ` [A*] — Scarcity (Honest) *(L8727)*
+- `PSYCH-11          ` [A*] — Default Effect *(L8758)*
+- `PSYCH-12          ` [A*] — Choice Architecture *(L8788)*
+- `BONUS-01          ` [A*] — Scratch-to-Reveal *(L8820)*
+- `BONUS-02          ` [A*] — Card Stack *(L8850)*
+- `BONUS-03          ` [A*] — Pull Tab *(L8879)*
+- `BONUS-04          ` [A*] — Wax Seal *(L8909)*
+- `BONUS-05          ` [A*] — Tape Strip *(L8938)*
+- `BONUS-06          ` [A*] — Paper Tear *(L8973)*
+- `BONUS-07          ` [A*] — Stamp Collection *(L9002)*
+- `BONUS-08          ` [A*] — Handwritten Arrow *(L9035)*
+- `BONUS-09          ` [A*] — Sticky Note *(L9070)*
+- `BONUS-10          ` [A*] — Envelope Flap *(L9101)*
+- `DEEP-10           ` [A*] — The Science Made Simple *(L9387)*
+- `PRODEEP-1         ` [A*] — The Material Story *(L10375)*
+- `PRODEEP-2         ` [A*] — The Comparison Matrix *(L10407)*
+- `PRODEEP-3         ` [A*] — The Size Finder *(L10437)*
+- `PRODEEP-5         ` [A*] — The Product Chemistry *(L10494)*
+- `PRODEEP-6         ` [A*] — The Wear Test *(L10524)*
+- `PRODEEP-7         ` [A*] — The Color Personality *(L10553)*
+- `PRODEEP-8         ` [A*] — The Bundle Builder *(L10584)*
+- `EDUDEEP-1         ` [A*] — The Research Digest *(L10646)*
+- `EDUDEEP-2         ` [A*] — The Signal Pathway *(L10676)*
+- `EDUDEEP-3         ` [A*] — The Myth Factory *(L10711)*
+- `EDUDEEP-4         ` [A*] — The Interoception Test *(L10745)*
+- `EDUDEEP-5         ` [A*] — The Brain Map *(L10773)*
+- `EDUDEEP-6         ` [A*] — The Developmental Timeline *(L10805)*
+- `EDUDEEP-7         ` [A*] — The Method Comparison *(L10836)*
+- `EDUDEEP-8         ` [A*] — The Sensory Profile *(L10866)*
+- `EDUDEEP-9         ` [A*] — The Progress Metrics *(L10898)*
+- `EMODEEP-12        ` [A*] — The Micro-Win Celebration *(L12308)*
+- `EMODEEP-14        ` [A*] — The Identity Reframe *(L12367)*
+- `PSYDEEP-1         ` [A*] — The Endowment Effect *(L12789)*
+- `PSYDEEP-2         ` [A*] — The IKEA Effect *(L12806)*
+- `PSYDEEP-3         ` [A*] — The Bandwagon Cascade *(L12823)*
+- `PSYDEEP-4         ` [A*] — The Scarcity Story *(L12847)*
+- `PSYDEEP-5         ` [A*] — The Anchoring Reset *(L12865)*
+- `PSYDEEP-6         ` [A*] — The Loss Frame *(L12883)*
+- `PSYDEEP-7         ` [A*] — The Commitment Bridge *(L12900)*
+- `PSYDEEP-8         ` [A*] — The Reciprocity Stack *(L12922)*
+- `PSYDEEP-9         ` [A*] — The Authority Layer *(L12944)*
+- `PSYDEEP-10        ` [A*] — The Consistency Trigger *(L12966)*
+- `PSYDEEP-11        ` [A*] — The Social Proof Ladder *(L12983)*
+- `PSYDEEP-12        ` [A*] — The Default Advantage *(L13011)*
+- `PSYDEEP-13        ` [A*] — The Choice Reducer *(L13031)*
+- `PSYDEEP-14        ` [A*] — The Frame Shift *(L13057)*
+- `PSYDEEP-15        ` [A*] — The Hyperbolic Discounting *(L13074)*
+- `PSYDEEP-16        ` [A*] — The Optimism Bias *(L13092)*
+- `PSYDEEP-17        ` [A*] — The Default Effect *(L13109)*
+- `PSYDEEP-18        ` [A*] — The Peak-End Rule *(L13130)*
+- `DESDEEP-1         ` [A*] — The Gradient Hero *(L13147)*
+- `DESDEEP-2         ` [A*] — The Split Personality *(L13164)*
+- `DESDEEP-3         ` [A*] — The Card Cascade *(L13186)*
+- `DESDEEP-4         ` [A*] — The Minimalist Statement *(L13212)*
+- `DESDEEP-5         ` [A*] — The Border Play *(L13227)*
+- `DESDEEP-6         ` [A*] — The Color Block *(L13244)*
+- `DESDEEP-7         ` [A*] — The Typography Hero *(L13262)*
+- `DESDEEP-8         ` [A*] — The Icon Story *(L13276)*
+- `DESDEEP-9         ` [A*] — The Negative Space *(L13305)*
+- `DESDEEP-10        ` [A*] — The Layered Depth *(L13324)*
+- `DESDEEP-11        ` [A*] — The Rotated Elements *(L13343)*
+- `DESDEEP-13        ` [A*] — The Badge System *(L13374)*
+- `DESDEEP-14        ` [A*] — The Handwritten Touch *(L13393)*
+- `DESDEEP-15        ` [A*] — The Dark Mode *(L13408)*
+- `DESDEEP-16        ` [A*] — The Paper Texture *(L13425)*
+- `DESDEEP-17        ` [A*] — The Stamp Collection *(L13448)*
+- `DESDEEP-18        ` [A*] — The Wax Seal *(L13471)*
+- `DESDEEP-19        ` [A*] — The Tape & Pin *(L13490)*
+- `DESDEEP-20        ` [A*] — The Envelope Reveal *(L13509)*
+- `1.2               ` [A] — Typography *(L322)*
+- `3.1               ` [A] — Part Badge *(L433)*
+- `7.1               ` [A] — 3-Step Path *(L699)*
+- `7.2               ` [A] — Numbered Method Card *(L726)*
+- `8.1               ` [A] — Comparison Cards *(L757)*
+- `8.2               ` [A] — Checkmark List *(L788)*
+- `13.5              ` [A] — Product Pants *(L1224)*
+- `13.8              ` [A] — Sensory *(L1317)*
+- `13.10             ` [A] — Quote Badge *(L1370)*
+- `14.1              ` [A] — Flow Overview Grid (25 Flows) *(L1393)*
+- `16.1              ` [A] — Tape (Scrapbook Tape Strip) *(L1538)*
+- `16.2              ` [A] — Tilted Sticker Creeds *(L1561)*
+- `16.3              ` [A] — Reframe Points as Stickers (2×2 Grid) *(L1578)*
+- `17.2              ` [A] — Definition Block *(L1616)*
+- `17.4              ` [A] — Objections Q&A *(L1651)*
+- `17.5              ` [A] — Feel Points / For You Points *(L1673)*
+- `17.6              ` [A] — Chapter Card (Storytelling) *(L1699)*
+- `18.2              ` [A] — Free Guide / Lead Magnet Section *(L1759)*
+- `18.3              ` [A] — 3-Benefit Grid *(L1780)*
+- `19.1              ` [A] — Chat Bubble (iMessage Style) *(L1811)*
+- `22.1              ` [A] — Highlighted Quote (Yellow Border) *(L2030)*
+- `22.2              ` [A] — Three-Family Bridge *(L2045)*
+- `22.4              ` [A] — Dark Mode Treatment *(L2084)*
+- `22.5              ` [A] — Dot-Grid Background (Scrapbook) *(L2099)*
+- `25.1              ` [A] — Neon Border Cards on Dark *(L2208)*
+- `25.2              ` [A] — Dark CTA with Yellow Button *(L2225)*
+- `25.3              ` [A] — Yellow Quote Card (Green Shadow) *(L2239)*
+- `26.1              ` [A] — White Bubble Overlap *(L2271)*
+- `26.2              ` [A] — Full-Width Color Block Sections *(L2289)*
+- `26.3              ` [A] — Steps with Illustrations *(L2313)*
+- `26.4              ` [A] — Magazine Step with Inline Number *(L2335)*
+- `27.1              ` [A] — Order Details Table *(L2394)*
+- `27.2              ` [A] — Order Status Timeline *(L2421)*
+- `27.3              ` [A] — Shipping Address Card *(L2445)*
+- `28.1              ` [A] — Selection/Survey Buttons *(L2463)*
+- `28.2              ` [A] — Numbered Recognition Anchors *(L2486)*
+- `30.1              ` [A] — FAQ Card (Dashed Border) *(L2600)*
+- `31.3              ` [A] — Sensory Prep Tip Callout *(L2682)*
+- `32.1              ` [A] — Mechanism Card (Gradient Top Bar) *(L2700)*
+- `32.2              ` [A] — Numbered Circle Step List *(L2719)*
+- `32.3              ` [A] — Highlight Box (Bordered Insight) *(L2746)*
+- `34.1              ` [A] — Lavender Section (#F0EDF8) *(L2809)*
+- `34.2              ` [A] — Warm Beige Section (#F5F1EA) *(L2823)*
+- `34.3              ` [A] — Multi-Section Journey Layout (6+ Colors) *(L2837)*
+- `35.1              ` [A] — Three Pillars Content Cards *(L2862)*
+- `35.2              ` [A] — Individual Checkmark Progress Cards *(L2887)*
+- `35.3              ` [A] — Numbered Teal Circle Tips *(L2913)*
+- `M2                ` [A] — Mechanism Diagram (Mobile) *(L2971)*
+- `M4                ` [A] — Product Showcase (Mobile) *(L3015)*
+- `M6                ` [A] — Mini-Win Card (Mobile) *(L3069)*
+- `M8                ` [A] — CTA Stack (Mobile) *(L3121)*
+- `M9                ` [A] — Journey Timeline (Mobile) *(L3139)*
+- `M10               ` [A] — Stat Block (Mobile) *(L3167)*
+- `ED1               ` [A] — 3-Layer Product Diagram *(L3296)*
+- `ED2               ` [A] — Comparison Table *(L3323)*
+- `ED3               ` [A] — Interoception Explainer *(L3353)*
+- `ED4               ` [A] — Why It Works (3 Reasons) *(L3373)*
+- `OBJ-01            ` [A] — Tried Everything Reframe *(L17169)*
+- `OBJ-02            ` [A] — My Child Is Different *(L17208)*
+- `OBJ-03            ` [A] — Too Expensive Calculator *(L17245)*
+- `OBJ-04            ` [A] — Does It Work Evidence *(L17279)*
+- `OBJ-05            ` [A] — What If It Fails *(L17313)*
+- `OBJ-06            ` [A] — Not For Us Validation *(L17352)*
+- `OBJ-07            ` [A] — Too Late Reassurance *(L17388)*
+- `OBJ-08            ` [A] — School Solution *(L17422)*
+- `OBJ-09            ` [A] — Partner Disagrees Bridge *(L17459)*
+- `OBJ-10            ` [A] — Sensory Issues Answer *(L17496)*
+- `OBJ-11            ` [A] — GI Issues Connection *(L17534)*
+- `OBJ-12            ` [A] — Insurance Reality *(L17569)*
+- `OBJ-13            ` [A] — Brand Trust Builder *(L17606)*
+- `OBJ-14            ` [A] — Results Timeline *(L17642)*
+- `OBJ-15            ` [A] — What If I Regret Promise *(L17680)*
+- `REV-01            ` [A] — After Objection Reversal *(L17716)*
+- `REV-02            ` [A] — After Social Proof Reversal *(L17751)*
+- `REV-04            ` [A] — After Cost Comparison Reversal *(L17824)*
+- `REV-05            ` [A] — After Story Reversal *(L17858)*
+- `REV-06            ` [A] — After Science Reversal *(L17897)*
+- `REV-07            ` [A] — After Permission Reversal *(L17933)*
+- `REV-08            ` [A] — After Bundle Reversal *(L17974)*
+- `REV-09            ` [A] — After Discount Reversal *(L18010)*
+- `REV-10            ` [A] — Final Close *(L18045)*
+- `DEEPCAMP-22       ` [A] — DEEPCAMP-22 — Milestone Counter (Reviews-Sold Counter) *(L23208)*
+- `DEEPCAMP-25       ` [A] — DEEPCAMP-25 — Brand Story Timeline (2021→2026 Journey) *(L27052)*
+
+## BODY — SOCIAL PROOF & TESTIMONIALS (15)
+
+- `SP-01             ` [A*] — Yellow Quote Block *(L4780)*
+- `SP-02             ` [A*] — Expert Endorsement *(L4805)*
+- `SP-03             ` [A*] — Stat Row *(L4829)*
+- `SP-06             ` [A*] — Before/After Testimonial *(L4907)*
+- `SP-07             ` [A*] — Counter-Testimonial *(L4940)*
+- `SP-08             ` [A*] — Stacked Mini-Reviews *(L4966)*
+- `SP-10             ` [A*] — Influencer Mention *(L5022)*
+- `SP-11             ` [A*] — Star Cascade *(L5053)*
+- `SP-12             ` [A*] — Community Counter *(L5086)*
+- `SP-13             ` [A*] — Review of the Week *(L5111)*
+- `SP1               ` [A] — Star Rating Row *(L3187)*
+- `SP2               ` [A] — Review Quote Card *(L3208)*
+- `SP5               ` [A] — Counter Testimonial *(L3277)*
+- `VSOCIAL-5         ` [A] — Star Rating Hero *(L19878)*
+- `VSOCIAL-8         ` [A] — Community Counter *(L19974)*
+
+## BODY — IMAGES & PHOTOS (140)
+
+- `LETTER-04         ` [G+] — Letter + Image Break (uses Letter) *(L7855)*
+- `STORY-06          ` [A*] — Photo Essay — Image-placeholder narrative cards *(L4454)*
+- `SP-04             ` [A*] — Review Screenshot *(L4859)*
+- `SP-09             ` [A*] — UGC Photo Grid *(L4994)*
+- `SP-15             ` [A*] — Social Media Embed *(L5171)*
+- `STORYDEEP-06      ` [A*] — The Photo Memory *(L9987)*
+- `PRODEEP-4         ` [A*] — The Unboxing Video *(L10464)*
+- `17.1              ` [A] — Hero Image with Stacked Shadow *(L1598)*
+- `24.1              ` [A] — Polaroid / Photo Card *(L2166)*
+- `SP3               ` [A] — UGC Photo Grid *(L3230)*
+- `IMG-01            ` [A] — Product Hero Image *(L18086)*
+- `IMG-02            ` [A] — Product On-Body *(L18119)*
+- `IMG-03            ` [A] — Product Flat Lay *(L18146)*
+- `IMG-04            ` [A] — Product Detail Close-Up *(L18176)*
+- `IMG-05            ` [A] — 3-Layer Cross-Section Diagram *(L18207)*
+- `IMG-06            ` [A] — Before/After Split *(L18238)*
+- `IMG-07            ` [A] — UGC Photo Grid *(L18274)*
+- `IMG-08            ` [A] — UGC Hero *(L18310)*
+- `IMG-09            ` [A] — Lifestyle Grid (4-Panel) *(L18343)*
+- `IMG-10            ` [A] — Unboxing Sequence *(L18380)*
+- `IMG-11            ` [A] — Founder Portrait *(L18416)*
+- `IMG-12            ` [A] — Customer Testimonial Photo *(L18447)*
+- `IMG-13            ` [A] — Video Thumbnail *(L18484)*
+- `IMG-14            ` [A] — Instagram Embed *(L18512)*
+- `IMG-15            ` [A] — Product Comparison Visual *(L18547)*
+- `IMG-16            ` [A] — Size Guide Visual *(L18582)*
+- `IMG-17            ` [A] — Colourway Showcase *(L18612)*
+- `IMG-18            ` [A] — Process How-It-Works *(L18647)*
+- `IMG-19            ` [A] — Product in Context *(L18680)*
+- `IMG-20            ` [A] — Hero with Photo Background *(L18718)*
+- `IMG-21            ` [A] — Testimonial Wall *(L18745)*
+- `IMG-22            ` [A] — Product GIF Placeholder *(L18780)*
+- `IMG-23            ` [A] — Seasonal Product Shot *(L18809)*
+- `IMG-24            ` [A] — Bundle Visual Display *(L18839)*
+- `FLOWIMG-001       ` [A] — Welcome Hero *(L19482)*
+- `FLOWIMG-002       ` [A] — Mechanism Visual *(L19495)*
+- `FLOWIMG-003       ` [A] — Product Reveal *(L19509)*
+- `FLOWIMG-004       ` [A] — Parent Story Photo *(L19523)*
+- `FLOWIMG-006       ` [A] — Checkout Product *(L19550)*
+- `FLOWIMG-007       ` [A] — Browse Nudge *(L19564)*
+- `FLOWIMG-009       ` [A] — Shipping Update *(L19592)*
+- `FLOWIMG-010       ` [A] — Unboxing Joy *(L19606)*
+- `FLOWIMG-011       ` [A] — First Week Tips *(L19620)*
+- `FLOWIMG-012       ` [A] — Review Request *(L19634)*
+- `FLOWIMG-013       ` [A] — Winback Product *(L19648)*
+- `FLOWIMG-014       ` [A] — Replenishment *(L19662)*
+- `FLOWIMG-015       ` [A] — Referral Gift *(L19676)*
+- `FLOWIMG-016       ` [A] — Cross-Sell *(L19690)*
+- `FLOWIMG-017       ` [A] — Bundle Upgrade *(L19704)*
+- `FLOWIMG-020       ` [A] — Community Photo *(L19746)*
+- `VSOCIAL-1         ` [A] — Customer Photo + Quote *(L19762)*
+- `VSOCIAL-2         ` [A] — Before/After Journey *(L19789)*
+- `VSOCIAL-3         ` [A] — UGC Mosaic *(L19823)*
+- `VSOCIAL-4         ` [A] — Expert Photo Card *(L19850)*
+- `VSOCIAL-6         ` [A] — Review Screenshot *(L19912)*
+- `VSOCIAL-7         ` [A] — Instagram Post Embed *(L19941)*
+- `VSOCIAL-9         ` [A] — Photo Testimonial Carousel *(L19999)*
+- `VSOCIAL-11        ` [A] — Video Testimonial *(L20064)*
+- `VSOCIAL-12        ` [A] — Before/After Product *(L20095)*
+- `VSOCIAL-13        ` [A] — Unboxing Photos *(L20127)*
+- `VSOCIAL-14        ` [A] — Product in Use *(L20156)*
+- `VSOCIAL-15        ` [A] — Mom + Child Photo *(L20192)*
+- `VSOCIAL-17        ` [A] — Data Dashboard *(L20255)*
+- `VSOCIAL-18        ` [A] — Review of the Week *(L20284)*
+- `VSOCIAL-19        ` [A] — Social Media Screenshots *(L20314)*
+- `VSOCIAL-20        ` [A] — Community Wall *(L20338)*
+- `DEEPIMG-1         ` [A] — Product Hero Parallax *(L21028)*
+- `DEEPIMG-2         ` [A] — Split Image Comparison *(L21056)*
+- `DEEPIMG-3         ` [A] — Image Hotspot *(L21086)*
+- `DEEPIMG-4         ` [A] — Carousel Placeholder *(L21117)*
+- `DEEPIMG-5         ` [A] — Zoom Lens Effect *(L21152)*
+- `DEEPIMG-6         ` [A] — Image Grid Masonry *(L21181)*
+- `DEEPIMG-7         ` [A] — Full-Bleed Lifestyle *(L21212)*
+- `DEEPIMG-8         ` [A] — Photo Strip *(L21237)*
+- `DEEPIMG-9         ` [A] — Duotone Image Treatment *(L21270)*
+- `DEEPIMG-10        ` [A] — Image Collage *(L21301)*
+- `DEEPIMG-11        ` [A] — Panoramic Banner *(L21330)*
+- `DEEPIMG-12        ` [A] — Floating Image Cards *(L21360)*
+- `DEEPIMG-13        ` [A] — Image with Gradient Overlay *(L21394)*
+- `DEEPIMG-14        ` [A] — Polaroid Collection *(L21422)*
+- `DEEPIMG-15        ` [A] — Before/After Timeline *(L21453)*
+- `DEEPIMG-16        ` [A] — Product in Hands *(L21485)*
+- `DEEPIMG-17        ` [A] — Detail Callout Circle *(L21514)*
+- `DEEPIMG-18        ` [A] — Image Stack *(L21543)*
+- `DEEPIMG-19        ` [A] — Lifestyle Mosaic *(L21571)*
+- `DEEPIMG-20        ` [A] — Product Rotation *(L21603)*
+- `DEEPIMG-21        ` [A] — Emotional Moment *(L21638)*
+- `DEEPIMG-22        ` [A] — Photo Grid with Stats *(L21670)*
+- `DEEPIMG-23        ` [A] — Image Timeline *(L21703)*
+- `DEEPIMG-24        ` [A] — Product Flat Lay Grid *(L21734)*
+- `DEEPIMG-25        ` [A] — Cinematic Wide *(L21763)*
+- `DEEPUGC-1         ` [A] — UGC Hero Spotlight *(L21796)*
+- `DEEPUGC-2         ` [A] — UGC Carousel *(L21823)*
+- `DEEPUGC-3         ` [A] — UGC Grid 4x4 *(L21848)*
+- `DEEPUGC-4         ` [A] — UGC Before/After Pair *(L21873)*
+- `DEEPUGC-5         ` [A] — UGC Video Thumbnail *(L21903)*
+- `DEEPUGC-6         ` [A] — UGC Story Highlight *(L21930)*
+- `DEEPUGC-7         ` [A] — UGC Product Match *(L21959)*
+- `DEEPUGC-8         ` [A] — UGC Seasonal *(L21984)*
+- `DEEPUGC-9         ` [A] — UGC Family Grid *(L22012)*
+- `DEEPUGC-10        ` [A] — UGC Milestone *(L22044)*
+- `DEEPUGC-11        ` [A] — Customer Photo Review *(L22074)*
+- `DEEPUGC-12        ` [A] — Review with Product *(L22102)*
+- `DEEPUGC-13        ` [A] — Before/After Journey *(L22129)*
+- `DEEPUGC-14        ` [A] — Community Mosaic *(L22162)*
+- `DEEPUGC-15        ` [A] — Expert Endorsement Photo *(L22187)*
+- `DEEPUGC-16        ` [A] — Doctor Photo Card *(L22216)*
+- `DEEPUGC-17        ` [A] — Team Photo *(L22247)*
+- `DEEPUGC-18        ` [A] — Founder Story Photo *(L22270)*
+- `DEEPUGC-19        ` [A] — Manufacturing Photo *(L22298)*
+- `DEEPUGC-20        ` [A] — Material Source Photo *(L22326)*
+- `DEEPUGC-21        ` [A] — Lab Testing Photo *(L22352)*
+- `DEEPUGC-23        ` [A] — Press Feature Photo *(L22406)*
+- `DEEPUGC-24        ` [A] — Event Photo *(L22436)*
+- `DEEPUGC-25        ` [A] — Social Media Montage *(L22465)*
+- `DEEPPROD-1        ` [A] — Product Hero 360 *(L23358)*
+- `DEEPPROD-2        ` [A] — Product Color Wheel *(L23384)*
+- `DEEPPROD-3        ` [A] — Product Scale Comparison *(L23409)*
+- `DEEPPROD-4        ` [A] — Product Texture Study *(L23443)*
+- `DEEPPROD-5        ` [A] — Product Cross-Section *(L23471)*
+- `DEEPPROD-6        ` [A] — Product Animation Frame *(L23502)*
+- `DEEPPROD-7        ` [A] — Product Packaging *(L23527)*
+- `DEEPPROD-8        ` [A] — Product Stack *(L23555)*
+- `DEEPPROD-9        ` [A] — Product Flat Lay Artistic *(L23581)*
+- `DEEPPROD-10       ` [A] — Product Lifestyle Hero *(L23604)*
+- `DEEPPROD-11       ` [A] — Product Detail Mosaic *(L23628)*
+- `DEEPPROD-12       ` [A] — Product Size Range *(L23655)*
+- `DEEPPROD-13       ` [A] — Product Comparison Side-by-Side *(L23683)*
+- `DEEPPROD-14       ` [A] — Product Technology Diagram *(L23718)*
+- `DEEPPROD-15       ` [A] — Product Material Journey *(L23755)*
+- `DEEPPROD-16       ` [A] — Product Quality Test *(L23787)*
+- `DEEPPROD-17       ` [A] — Product Comfort Visual *(L23817)*
+- `DEEPPROD-18       ` [A] — Product Absorption Test *(L23852)*
+- `DEEPPROD-19       ` [A] — Product Waterproof Demo *(L23884)*
+- `DEEPPROD-20       ` [A] — Product Wash Test *(L23912)*
+- `DEEPPROD-21       ` [A] — Product Gift Presentation *(L23946)*
+- `DEEPPROD-22       ` [A] — Product Bundle Visual *(L23970)*
+- `DEEPPROD-23       ` [A] — Product Accessory Grid *(L23997)*
+- `DEEPPROD-24       ` [A] — Product Color Story *(L24026)*
+- `DEEPPROD-25       ` [A] — Product Heritage *(L24055)*
+
+## PRODUCT SHOWCASE (81)
+
+- `6.1               ` [G] — ProductShowcaseFull (Giuliano source) *(L613)*
+- `6.2               ` [G] — ProductShowcaseMedium (Giuliano source) *(L641)*
+- `6.3               ` [G] — ProductShowcaseSoft (Giuliano source) *(L670)*
+- `PROD-1            ` [A*] — Full Showcase *(L5682)*
+- `PROD-2            ` [A*] — Side-by-Side *(L5710)*
+- `PROD-3            ` [A*] — Layer Breakdown *(L5744)*
+- `PROD-4            ` [A*] — Cross-Section *(L5777)*
+- `PROD-5            ` [A*] — Feature Grid *(L5807)*
+- `PROD-6            ` [A*] — Size Guide *(L5833)*
+- `PROD-7            ` [A*] — Comparison Table *(L5863)*
+- `PROD-8            ` [A*] — Lifestyle Collage *(L5894)*
+- `PROD-9            ` [A*] — Unboxing Experience *(L5925)*
+- `PROD-10           ` [A*] — Product Family *(L5953)*
+- `PROD-11           ` [A*] — Zoom Detail *(L5987)*
+- `PROD-12           ` [A*] — What's Inside *(L6019)*
+- `CTADEEP-01        ` [A*] — The Value Stack *(L11516)*
+- `TRUSTDEEP-9.1     ` [A] — TRUSTDEEP-9.1 — Certification Item (UKCA + B-Corp Mark) *(L13531)*
+- `TRUSTDEEP-10.1    ` [A] — TRUSTDEEP-10.1 — Bundle Hero (Multi-Pack Showcase) *(L13558)*
+- `TRUSTDEEP-10.2    ` [A] — TRUSTDEEP-10.2 — Starter Pack (3-Pair Intro Offer) *(L13586)*
+- `TRUSTDEEP-11.1    ` [A] — TRUSTDEEP-11.1 — Cost Comparison (Pull-Up vs BSL) *(L13613)*
+- `TRUSTDEEP-11.2    ` [A] — TRUSTDEEP-11.2 — Product Benefits Grid (3-Column Features) *(L13646)*
+- `TRUSTDEEP-12.1    ` [A] — TRUSTDEEP-12.1 — 3-Layer Explainer (Cross-Section Visual) *(L13680)*
+- `TRUSTDEEP-12.2    ` [A] — TRUSTDEEP-12.2 — Size Guide (Measurement Chart) *(L13712)*
+- `TRUSTDEEP-13.1    ` [A] — TRUSTDEEP-13.1 — Product Review Card (Single Review Block) *(L13744)*
+- `TRUSTDEEP-13.2    ` [A] — TRUSTDEEP-13.2 — Review Mosaic (Multi-Review Grid) *(L13773)*
+- `TRUSTDEEP-14.1    ` [A] — TRUSTDEEP-14.1 — Before/After Product (Side-by-Side Visual) *(L13807)*
+- `TRUSTDEEP-15.1    ` [A] — TRUSTDEEP-15.1 — Trustpilot Widget (Embedded Rating Block) *(L13837)*
+- `TRUSTDEEP-16.1    ` [A] — TRUSTDEEP-16.1 — Guarantee Hero (Risk-Reversal Centerpiece) *(L13874)*
+- `TRUSTDEEP-17.1    ` [A] — TRUSTDEEP-17.1 — Cart Items List (Abandoned Items Recap) *(L13908)*
+- `TRUSTDEEP-17.2    ` [A] — TRUSTDEEP-17.2 — Checkout Trust Bar (Pre-Purchase Trust Strip) *(L13942)*
+- `TRUSTDEEP-18.1    ` [A] — TRUSTDEEP-18.1 — Upsell Card (Single Upsell Pitch) *(L13975)*
+- `TRUSTDEEP-18.2    ` [A] — TRUSTDEEP-18.2 — Cross-Sell Grid (Multi-Product Grid) *(L14010)*
+- `TRUSTDEEP-18.3    ` [A] — TRUSTDEEP-18.3 — Complete Your Set (Bundle Closer) *(L14038)*
+- `CTADEEP-01.1      ` [A] — CTADEEP-01.1 — Product Feature Callout (Single-Benefit Highlight) *(L14068)*
+- `CTADEEP-02.1      ` [A] — CTADEEP-02.1 — Price Anchor (Was/Now Comparison) *(L14099)*
+- `CTADEEP-03.1      ` [A] — CTADEEP-03.1 — Subscription Option (Recurring-Plan Card) *(L14132)*
+- `CTADEEP-05.1      ` [A] — CTADEEP-05.1 — Free Shipping Progress (Threshold Bar) *(L14166)*
+- `CTADEEP-06.1      ` [A] — CTADEEP-06.1 — Product Comparison Table (Feature Matrix) *(L14199)*
+- `CTADEEP-07.1      ` [A] — CTADEEP-07.1 — Quick Add Button (Inline Add-to-Cart) *(L14235)*
+- `CTADEEP-08.1      ` [A] — CTADEEP-08.1 — Product Badge (Inline Highlight Tag) *(L14259)*
+- `CTADEEP-09.1      ` [A] — CTADEEP-09.1 — Exit Intent Offer (Last-Chance Discount) *(L14285)*
+- `PDISP-1           ` [A] — Product Hero Image *(L15477)*
+- `PDISP-2           ` [A] — Product Info Card *(L15505)*
+- `PDISP-3           ` [A] — 3-Layer System Diagram *(L15538)*
+- `PDISP-4           ` [A] — Material Story *(L15567)*
+- `PDISP-5           ` [A] — Colourway Picker *(L15597)*
+- `PDISP-6           ` [A] — Size Chart *(L15628)*
+- `PDISP-7           ` [A] — What's In The Box *(L15662)*
+- `PDISP-8           ` [A] — Product Care *(L15694)*
+- `PDISP-9           ` [A] — Feature Benefit Grid *(L15723)*
+- `PDISP-10          ` [A] — Product Comparison Card *(L15755)*
+- `PDISP-11          ` [A] — Product Lifestyle Row *(L15789)*
+- `PDISP-12          ` [A] — Product Detail Close-Up *(L15819)*
+- `PDISP-13          ` [A] — Bundle Visual *(L15849)*
+- `PDISP-14          ` [A] — Product Video Placeholder *(L15882)*
+- `PDISP-15          ` [A] — Product Spec Sheet *(L15910)*
+- `PDISP-16          ` [A] — Product Timeline *(L15942)*
+- `PDISP-17          ` [A] — Product FAQ *(L15973)*
+- `PDISP-18          ` [A] — Product Social Proof *(L16006)*
+- `PDISP-19          ` [A] — Product Guarantee *(L16041)*
+- `PDISP-20          ` [A] — Product Comparison Matrix *(L16071)*
+- `PRICE-1           ` [A] — Price Hero *(L16108)*
+- `PRICE-2           ` [A] — Bundle Price *(L16132)*
+- `PRICE-3           ` [A] — Cost Per Use *(L16156)*
+- `PRICE-4           ` [A] — Savings Calculator *(L16184)*
+- `PRICE-5           ` [A] — Price Comparison Table *(L16217)*
+- `PRICE-6           ` [A] — Discount Code Display *(L16251)*
+- `PRICE-7           ` [A] — Free Shipping Threshold *(L16275)*
+- `PRICE-8           ` [A] — Payment Options *(L16307)*
+- `PRICE-9           ` [A] — Value Stack *(L16341)*
+- `PRICE-10          ` [A] — Price Anchor *(L16367)*
+- `PRICE-11          ` [A] — Starter vs Bundle *(L16394)*
+- `PRICE-12          ` [A] — Subscription Price *(L16422)*
+- `PRICE-13          ` [A] — First Order Offer *(L16455)*
+- `PRICE-14          ` [A] — Price Transparency *(L16481)*
+- `PRICE-15          ` [A] — Price Confidence *(L16515)*
+- `PRICE-16          ` [A] — Bundle Builder *(L16545)*
+- `PRICE-17          ` [A] — Price Match *(L16573)*
+- `PRICE-18          ` [A] — Volume Discount *(L16602)*
+- `PRICE-19          ` [A] — Gift Price *(L16632)*
+- `PRICE-20          ` [A] — Price Reassurance *(L16659)*
+
+## GUARANTEE & TRUST (84)
+
+- `10.1              ` [G+] — 60-Day Seal (alias for PartBadge/Letter) *(L887)*
+- `SP-05             ` [A*] — Trust Pill Strip *(L4886)*
+- `SP-14             ` [A*] — Trust Badges Row *(L5139)*
+- `CMP-1             ` [A*] — Three-Column Method Cards *(L6052)*
+- `CMP-2             ` [A*] — Tilted Sticker Reasons *(L6087)*
+- `CMP-3             ` [A*] — Promise vs Reality *(L6113)*
+- `CMP-4             ` [A*] — Feature Comparison Table *(L6146)*
+- `CMP-5             ` [A*] — Method Spectrum Bar *(L6179)*
+- `CMP-6             ` [A*] — Tried vs Works *(L6217)*
+- `CMP-7             ` [A*] — Scorecard Showdown *(L6246)*
+- `CMP-8             ` [A*] — VS Badge Head-to-Head *(L6277)*
+- `CMP-9             ` [A*] — Decision Tree *(L6313)*
+- `CMP-10            ` [A*] — 6-Month Cost Analysis *(L6347)*
+- `TRUST-1           ` [A*] — 60-Day Seal *(L6385)*
+- `TRUST-2           ` [A*] — Guarantee Detail Cards *(L6414)*
+- `TRUST-3           ` [A*] — Covered Checklist Badges *(L6446)*
+- `TRUST-4           ` [A*] — Dashed Policy Quote *(L6476)*
+- `TRUST-5           ` [A*] — Promise Badges Strip *(L6505)*
+- `TRUST-6           ` [A*] — Covered vs Not Covered *(L6537)*
+- `TRUST-7           ` [A*] — Refund Story *(L6573)*
+- `TRUST-8           ` [A*] — Trust Icons Row *(L6603)*
+- `PRODEEP-9         ` [A*] — The Return Story *(L10616)*
+- `TRUSTDEEP-1       ` [A*] — The Evidence Cascade *(L10930)*
+- `TRUSTDEEP-2       ` [A*] — The Before/After Gallery *(L10962)*
+- `TRUSTDEEP-3       ` [A*] — The Expert Panel *(L10996)*
+- `TRUSTDEEP-4       ` [A*] — The Review Mosaic *(L11028)*
+- `TRUSTDEEP-5       ` [A*] — The Trust Ladder *(L11059)*
+- `TRUSTDEEP-6       ` [A*] — The Counter-Argument *(L11092)*
+- `TRUSTDEEP-7       ` [A*] — The Community Map *(L11120)*
+- `TRUSTDEEP-8       ` [A*] — The Milestone Counter *(L11150)*
+- `TRUSTDEEP-9       ` [A*] — The Certification Wall *(L11184)*
+- `TRUSTDEEP-10      ` [A*] — The Side-by-Side Review *(L11214)*
+- `TRUSTDEEP-11      ` [A*] — The Research Bar *(L11248)*
+- `TRUSTDEEP-12      ` [A*] — The Trust Timeline *(L11282)*
+- `TRUSTDEEP-13      ` [A*] — The Guarantee Breakdown *(L11320)*
+- `TRUSTDEEP-14      ` [A*] — The Social Proof Pyramid *(L11350)*
+- `TRUSTDEEP-15      ` [A*] — The Honest Negative *(L11384)*
+- `TRUSTDEEP-16      ` [A*] — The Professional Endorsement *(L11414)*
+- `TRUSTDEEP-17      ` [A*] — The Data Dashboard *(L11448)*
+- `TRUSTDEEP-18      ` [A*] — The Trust Chain *(L11481)*
+- `8.3               ` [A] — Covered / Not Covered *(L818)*
+- `10.2              ` [A] — Guarantee Points *(L916)*
+- `10.3              ` [A] — Trustpilot Bar *(L943)*
+- `21.1              ` [A] — Large Number Callout *(L1908)*
+- `21.2              ` [A] — Social Proof Bar *(L1923)*
+- `21.3              ` [A] — Urgency Banner *(L1949)*
+- `21.4              ` [A] — Countdown Timer *(L1968)*
+- `21.5              ` [A] — Progress Bar *(L1986)*
+- `21.6              ` [A] — Before/After Comparison *(L2005)*
+- `29.1              ` [A] — 60-Day Guarantee Inline Badge *(L2506)*
+- `29.2              ` [A] — Dual Trust Badge Row *(L2522)*
+- `29.3              ` [A] — Guarantee Card (Centered Explainer) *(L2538)*
+- `29.4              ` [A] — Multi-Quote Recognition Card *(L2555)*
+- `29.5              ` [A] — Mini-Wins Checklist Card *(L2579)*
+- `M5                ` [A] — Guarantee Seal (Mobile) *(L3042)*
+- `SP4               ` [A] — Trust Pills Row *(L3251)*
+- `TG1               ` [A] — Guarantee Breakdown *(L3597)*
+- `TG2               ` [A] — Shipping Timeline *(L3632)*
+- `TG3               ` [A] — Return Policy *(L3657)*
+- `TRUST-N           ` [A] — Micro Trust Line *(L14907)*
+- `TRUST-N           ` [A] — Star Rating Bar *(L14928)*
+- `TRUST-N           ` [A] — Guarantee Badge *(L14961)*
+- `TRUST-N           ` [A] — Trust Icons Row *(L14981)*
+- `TRUST-N           ` [A] — Review Quote Near CTA *(L15016)*
+- `TRUST-N           ` [A] — Social Proof Counter *(L15044)*
+- `TRUST-N           ` [A] — Expert Endorsement *(L15073)*
+- `TRUST-N           ` [A] — Before/After Testimonial *(L15099)*
+- `TRUST-N           ` [A] — Cost Savings Callout *(L15127)*
+- `TRUST-N           ` [A] — Risk Reversal Stack *(L15156)*
+- `TRUST-N           ` [A] — Community Proof *(L15186)*
+- `TRUST-N           ` [A] — Data Proof *(L15209)*
+- `TRUST-N           ` [A] — Comparison CTA *(L15239)*
+- `TRUST-N           ` [A] — Return Story *(L15271)*
+- `TRUST-N           ` [A] — Trust Timeline *(L15298)*
+- `TRUST-N           ` [A] — Certification Badges *(L15327)*
+- `TRUST-N           ` [A] — Personalized Trust *(L15357)*
+- `TRUST-N           ` [A] — Urgency Alternative *(L15386)*
+- `TRUST-N           ` [A] — Money-Back Promise *(L15413)*
+- `TRUST-N           ` [A] — Trust Cascade *(L15444)*
+- `REV-03            ` [A] — After Guarantee Reversal *(L17787)*
+- `IMG-25            ` [A] — Trust Badge with Photo *(L18874)*
+- `VSOCIAL-10        ` [A] — Trustpilot Visual *(L20031)*
+- `VSOCIAL-16        ` [A] — Certification Visual *(L20225)*
+- `DEEPUGC-22        ` [A] — Certification Photo *(L22379)*
+
+## CTA — THE CLOSE (53)
+
+- `5.1               ` [G+] — Dark CTA (CTAClose) (uses CTAClose) *(L564)*
+- `6                 ` [A*] — Avatar Recognition Block ("Which one sounds like your child?") *(L158)*
+- `CTA-1             ` [A*] — Dark Block *(L6640)*
+- `CTA-2             ` [A*] — Soft Link *(L6658)*
+- `CTA-3             ` [A*] — Curiosity Code *(L6675)*
+- `CTA-4             ` [A*] — Gentle Invite *(L6692)*
+- `CTA-5             ` [A*] — Product CTA *(L6708)*
+- `CTA-6             ` [A*] — Social CTA *(L6733)*
+- `CTA-7             ` [A*] — Next Teaser *(L6751)*
+- `CTA-8             ` [A*] — Dual CTA *(L6769)*
+- `CTA-9             ` [A*] — Floating CTA *(L6789)*
+- `CTA-10            ` [A*] — Countdown Honest *(L6809)*
+- `CTA-12            ` [A*] — Exit Close *(L6848)*
+- `CTADEEP-02        ` [A*] — The Risk Reversal *(L11542)*
+- `CTADEEP-03        ` [A*] — The Social Proof Bridge *(L11574)*
+- `CTADEEP-04        ` [A*] — The Curiosity Closer *(L11600)*
+- `CTADEEP-06        ` [A*] — The Dual Path *(L11652)*
+- `CTADEEP-07        ` [A*] — The Commitment Ladder *(L11677)*
+- `CTADEEP-08        ` [A*] — The Story Closer *(L11703)*
+- `CTADEEP-09        ` [A*] — The Data-Driven *(L11724)*
+- `CTADEEP-10        ` [A*] — The Community CTA *(L11756)*
+- `CTADEEP-11        ` [A*] — The Expert CTA *(L11786)*
+- `CTADEEP-12        ` [A*] — The Anti-CTA *(L11811)*
+- `CTADEEP-13        ` [A*] — The Countdown Honest *(L11837)*
+- `CTADEEP-14        ` [A*] — The Question CTA *(L11864)*
+- `CTADEEP-15        ` [A*] — The Promise CTA *(L11887)*
+- `CTADEEP-16        ` [A*] — The Guarantee CTA *(L11914)*
+- `CTADEEP-17        ` [A*] — The Next Step CTA *(L11940)*
+- `CTADEEP-18        ` [A*] — The Exit CTA *(L11965)*
+- `5.2               ` [A] — Gradient CTA Button *(L581)*
+- `5.3               ` [A] — Dual CTA *(L594)*
+- `CC1               ` [A] — CTA Variations *(L3675)*
+- `CC2               ` [A] — CTA with Trust Line *(L3699)*
+- `CC4               ` [A] — Soft Close CTA *(L3733)*
+- `CTAMAX-01         ` [A] — Primary CTA *(L16692)*
+- `CTAMAX-02         ` [A] — Secondary CTA *(L16713)*
+- `CTAMAX-03         ` [A] — Text Link CTA *(L16734)*
+- `CTAMAX-04         ` [A] — Soft CTA *(L16752)*
+- `CTAMAX-05         ` [A] — Guarantee CTA *(L16775)*
+- `CTAMAX-06         ` [A] — Bundle CTA *(L16799)*
+- `CTAMAX-07         ` [A] — Discount CTA *(L16824)*
+- `CTAMAX-08         ` [A] — Social CTA *(L16848)*
+- `CTAMAX-09         ` [A] — Curiosity CTA *(L16873)*
+- `CTAMAX-10         ` [A] — Exit CTA *(L16894)*
+- `CTAMAX-11         ` [A] — Return CTA *(L16923)*
+- `CTAMAX-12         ` [A] — Subscribe CTA *(L16942)*
+- `CTAMAX-13         ` [A] — Referral CTA *(L16966)*
+- `CTAMAX-14         ` [A] — Review CTA *(L16989)*
+- `CTAMAX-15         ` [A] — Upsell CTA *(L17011)*
+- `CTAMAX-16         ` [A] — Cross-Sell CTA *(L17033)*
+- `CTAMAX-17         ` [A] — Level-Specific CTA *(L17064)*
+- `CTAMAX-19         ` [A] — Story Closer CTA *(L17115)*
+- `CTAMAX-20         ` [A] — Trust CTA *(L17136)*
+
+## EMOTIONAL SUPPORT (37)
+
+- `EMODEEP-03        ` [G+] — The Permission Letter (uses Letter) *(L12044)*
+- `EMODEEP-18        ` [G+] — The Letter From Lena (uses Letter) *(L12491)*
+- `CTA-11            ` [A*] — Permission CTA *(L6828)*
+- `EMO-1             ` [A*] — Permission Slip *(L6867)*
+- `EMO-2             ` [A*] — Micro-Win Card *(L6884)*
+- `EMO-3             ` [A*] — Guilt Reduction *(L6907)*
+- `EMO-4             ` [A*] — Empathy Block *(L6924)*
+- `EMO-5             ` [A*] — Realistic Timeline *(L6941)*
+- `EMO-6             ` [A*] — Parent Quote *(L6962)*
+- `EMO-7             ` [A*] — You're Not Alone *(L6987)*
+- `EMO-8             ` [A*] — Grief Acknowledgment *(L7008)*
+- `EMO-9             ` [A*] — Strength Reframe *(L7025)*
+- `EMO-10            ` [A*] — Patience Meter *(L7056)*
+- `EMO-11            ` [A*] — Break Permission *(L7084)*
+- `EMO-12            ` [A*] — Hope Gradient *(L7103)*
+- `DEEP-23           ` [A*] — The Permission Slip *(L9772)*
+- `DEEP-25           ` [A*] — The Hope Gradient *(L9833)*
+- `CTADEEP-05        ` [A*] — The Permission CTA *(L11623)*
+- `EMODEEP-01        ` [A*] — The Guilt Reframe *(L11996)*
+- `EMODEEP-02        ` [A*] — The Quiet Victory *(L12020)*
+- `EMODEEP-04        ` [A*] — The Empathy Mirror *(L12072)*
+- `EMODEEP-05        ` [A*] — The Hope Spectrum *(L12102)*
+- `EMODEEP-06        ` [A*] — The Community Embrace *(L12130)*
+- `EMODEEP-07        ` [A*] — The Strength Inventory *(L12158)*
+- `EMODEEP-08        ` [A*] — The Patience Meter *(L12189)*
+- `EMODEEP-09        ` [A*] — The Grief Validation *(L12221)*
+- `EMODEEP-10        ` [A*] — The Break Permission *(L12248)*
+- `EMODEEP-11        ` [A*] — The Future Vision *(L12280)*
+- `EMODEEP-13        ` [A*] — The Self-Compassion Prompt *(L12343)*
+- `EMODEEP-15        ` [A*] — The Emotional Weather *(L12395)*
+- `EMODEEP-16        ` [A*] — The Courage Acknowledgment *(L12429)*
+- `EMODEEP-17        ` [A*] — The Safe Space *(L12459)*
+- `17.3              ` [A] — Parent Quote Card (Yellow Tilted) *(L1634)*
+- `EJ2               ` [A] — You're Not Alone *(L3428)*
+- `EJ3               ` [A] — Permission Slip *(L3450)*
+- `EJ4               ` [A] — Realistic Timeline *(L3467)*
+- `CTAMAX-18         ` [A] — Permission CTA *(L17096)*
+
+## FLOW-SPECIFIC PATTERNS (103)
+
+- `FLOW-1            ` [A*] — Welcome Hook *(L7121)*
+- `FLOW-2            ` [A*] — Discovery Moment *(L7145)*
+- `FLOW-3            ` [A*] — Decision Helper *(L7166)*
+- `FLOW-4            ` [A*] — Cart Reminder *(L7192)*
+- `FLOW-5            ` [A*] — Cart Closer *(L7219)*
+- `FLOW-6            ` [A*] — Winback Opener *(L7239)*
+- `FLOW-7            ` [A*] — Winback Closer *(L7261)*
+- `FLOW-8            ` [A*] — Post-Purchase Education *(L7281)*
+- `FLOW-9            ` [A*] — Shipping Tracker *(L7309)*
+- `FLOW-10           ` [A*] — Review Request *(L7339)*
+- `FLOW-11           ` [A*] — Browse Abandon *(L7365)*
+- `FLOW-12           ` [A*] — Level Detection *(L7388)*
+- `FLOW-13           ` [A*] — Replenishment Reminder *(L7415)*
+- `FLOW-14           ` [A*] — Sunset Warning *(L7443)*
+- `FLOW-15           ` [A*] — Referral Ask *(L7463)*
+- `PERS-02           ` [A*] — Behavioral Trigger *(L8164)*
+- `PERS-03           ` [A*] — Product Recommendation *(L8191)*
+- `PERS-06           ` [A*] — Name Personalization *(L8281)*
+- `PERS-07           ` [A*] — Purchase History *(L8312)*
+- `PERS-08           ` [A*] — Engagement Score *(L8342)*
+- `PERS-09           ` [A*] — Location Awareness *(L8374)*
+- `PERS-10           ` [A*] — Time-Based *(L8408)*
+- `FLOWDEEP-1        ` [A*] — Welcome E1 Hook *(L12513)*
+- `FLOWDEEP-2        ` [A*] — Welcome E2 Discovery *(L12526)*
+- `FLOWDEEP-3        ` [A*] — Welcome E3 Decision *(L12540)*
+- `FLOWDEEP-4        ` [A*] — Welcome E4 Wisdom *(L12554)*
+- `FLOWDEEP-5        ` [A*] — Welcome E5 Science *(L12568)*
+- `FLOWDEEP-6        ` [A*] — Cart E1 Gentle Reminder *(L12582)*
+- `FLOWDEEP-7        ` [A*] — Cart E2 Founder Touch *(L12595)*
+- `FLOWDEEP-8        ` [A*] — Cart E3 Closer *(L12608)*
+- `FLOWDEEP-9        ` [A*] — Browse Abandon Nudge *(L12622)*
+- `FLOWDEEP-10       ` [A*] — Checkout Abandon Reassurance *(L12636)*
+- `FLOWDEEP-11       ` [A*] — Post-Purchase E1 Welcome *(L12650)*
+- `FLOWDEEP-12       ` [A*] — Post-Purchase E2 Setup *(L12663)*
+- `FLOWDEEP-13       ` [A*] — Post-Purchase E3 Check-in *(L12677)*
+- `FLOWDEEP-14       ` [A*] — Winback E1 Reconnection *(L12691)*
+- `FLOWDEEP-15       ` [A*] — Winback E2 Update *(L12704)*
+- `FLOWDEEP-16       ` [A*] — Winback E3 Closer *(L12718)*
+- `FLOWDEEP-17       ` [A*] — Shipping Tracker *(L12731)*
+- `FLOWDEEP-18       ` [A*] — Review Request *(L12745)*
+- `FLOWDEEP-19       ` [A*] — Referral Share *(L12759)*
+- `FLOWDEEP-20       ` [A*] — Sunset Goodbye *(L12773)*
+- `FS1               ` [A] — Cart Recovery (Soft Urgency) *(L3500)*
+- `FS2               ` [A] — Winback Re-engagement *(L3519)*
+- `FS3               ` [A] — Post-Purchase Welcome *(L3536)*
+- `FS4               ` [A] — Level Detection Survey *(L3554)*
+- `FS5               ` [A] — Referral Invite *(L3577)*
+- `PC1               ` [A] — Level-Specific Greeting *(L3752)*
+- `PC2               ` [A] — Behavioral Trigger *(L3769)*
+- `PC3               ` [A] — Product Recommendation *(L3786)*
+- `CFLOW-1           ` [A] — Cart Abandon E1: Gentle Reminder (30 min) *(L14320)*
+- `CFLOW-2           ` [A] — Cart Abandon E2: Social Proof (24 hr) *(L14347)*
+- `CFLOW-3           ` [A] — Cart Abandon E3: Bundle Nudge (48 hr) *(L14374)*
+- `CFLOW-4           ` [A] — Checkout Abandon E1: Help Offer (1 hr) *(L14403)*
+- `CFLOW-5           ` [A] — Checkout Abandon E2: Trust Stack (24 hr) *(L14429)*
+- `CFLOW-6           ` [A] — Browse Abandon E1: Recommendation (2 hr) *(L14461)*
+- `CFLOW-7           ` [A] — Browse Abandon E2: Educational (48 hr) *(L14493)*
+- `CFLOW-8           ` [A] — Post-Purchase E1: Order Confirmed (Immediate) *(L14525)*
+- `CFLOW-9           ` [A] — Post-Purchase E2: Shipping Update (Day 2-3) *(L14553)*
+- `CFLOW-10          ` [A] — Post-Purchase E3: How-To Guide (Day 5-7) *(L14584)*
+- `CFLOW-11          ` [A] — Post-Purchase E4: Review Ask (Day 14) *(L14616)*
+- `CFLOW-12          ` [A] — Cross-Sell E1: Complementary Product (Day 10) *(L14643)*
+- `CFLOW-13          ` [A] — Cross-Sell E2: Subscription Offer (Day 21) *(L14672)*
+- `CFLOW-14          ` [A] — Winback E1: We Miss You (Day 45) *(L14702)*
+- `CFLOW-15          ` [A] — Winback E2: What's New (Day 75) *(L14729)*
+- `CFLOW-16          ` [A] — Winback E3: Last Chance (Day 90) *(L14762)*
+- `CFLOW-17          ` [A] — Replenishment: Time to Restock (Day 25) *(L14790)*
+- `CFLOW-18          ` [A] — Referral Ask: Share the Love (Day 20) *(L14821)*
+- `CFLOW-19          ` [A] — Level Detection: Customer Segment ID *(L14850)*
+- `CFLOW-20          ` [A] — Bundle Upgrade: Single to Bundle (Day 7) *(L14877)*
+- `FLOWIMG-005       ` [A] — Cart Reminder *(L19536)*
+- `FLOWIMG-008       ` [A] — Post-Purchase Welcome *(L19578)*
+- `FLOWIMG-018       ` [A] — Level Detection *(L19718)*
+- `FLOWIMG-019       ` [A] — Sunset Farewell *(L19732)*
+- `FSHOP-N           ` [A] — Welcome E1: Soft Product Mention *(L24087)*
+- `FSHOP-N           ` [A] — Welcome E3: First Product Reveal *(L24137)*
+- `FSHOP-N           ` [A] — Welcome E4: Product Deep Dive *(L24175)*
+- `FSHOP-N           ` [A] — Welcome E5: Social Proof Product *(L24204)*
+- `FSHOP-N           ` [A] — Welcome E6: Decision Close *(L24235)*
+- `FSHOP-N           ` [A] — Cart E1: Gentle Reminder *(L24270)*
+- `FSHOP-N           ` [A] — Cart E1: Bundle Nudge *(L24299)*
+- `FSHOP-N           ` [A] — Cart E2: Founder Touch *(L24330)*
+- `FSHOP-N           ` [A] — Cart E3: Final Close *(L24362)*
+- `FSHOP-N           ` [A] — Checkout E1: Order Summary *(L24395)*
+- `FSHOP-N           ` [A] — Checkout E1: Discount Offer *(L24426)*
+- `FSHOP-N           ` [A] — Checkout E2: Trust Stack *(L24459)*
+- `FSHOP-N           ` [A] — Browse E1: Product Recall *(L24489)*
+- `FSHOP-N           ` [A] — Browse E1: Related Products *(L24516)*
+- `FSHOP-N           ` [A] — Browse E2: Social Proof *(L24544)*
+- `FSHOP-N           ` [A] — PP E1: Order Confirmation *(L24577)*
+- `FSHOP-N           ` [A] — PP E2: Setup Guide *(L24608)*
+- `FSHOP-N           ` [A] — PP E3: Check-in *(L24638)*
+- `FSHOP-N           ` [A] — PP E4: Review Request *(L24670)*
+- `FSHOP-N           ` [A] — Cross-Sell E1: Complementary *(L24700)*
+- `FSHOP-N           ` [A] — Cross-Sell E2: Bundle Offer *(L24731)*
+- `FSHOP-N           ` [A] — Cross-Sell E3: Subscription *(L24762)*
+- `FSHOP-N           ` [A] — Winback E1: Reconnection *(L24795)*
+- `FSHOP-N           ` [A] — Winback E2: What's New *(L24825)*
+- `FSHOP-N           ` [A] — Winback E3: Final *(L24854)*
+- `FSHOP-N           ` [A] — Replenish E1: Restock *(L24885)*
+- `FSHOP-N           ` [A] — Replenish E2: Subscription Push *(L24919)*
+- `FSHOP-N           ` [A] — Referral: Gift Product *(L24951)*
+- `FSHOP-N           ` [A] — Referral: Thank You *(L24981)*
+
+## SEASONAL & CAMPAIGN (76)
+
+- `CAMIMG-17         ` [G+] — Email Header Image (uses Header) *(L19358)*
+- `CAMIMG-1          ` [A] — Flash Sale Hero *(L18910)*
+- `CAMIMG-2          ` [A] — Bestseller Grid *(L18937)*
+- `CAMIMG-3          ` [A] — New Arrival Hero *(L18968)*
+- `CAMIMG-4          ` [A] — Back in Stock *(L18996)*
+- `CAMIMG-5          ` [A] — Gift Guide Section *(L19023)*
+- `CAMIMG-6          ` [A] — Seasonal Hero *(L19054)*
+- `CAMIMG-7          ` [A] — Bundle Display *(L19080)*
+- `CAMIMG-8          ` [A] — Sale Banner *(L19112)*
+- `CAMIMG-9          ` [A] — Product Spotlight *(L19138)*
+- `CAMIMG-10         ` [A] — UGC Campaign Grid *(L19168)*
+- `CAMIMG-11         ` [A] — Giveaway Hero *(L19194)*
+- `CAMIMG-12         ` [A] — Referral Visual *(L19221)*
+- `CAMIMG-13         ` [A] — VIP Exclusive *(L19252)*
+- `CAMIMG-14         ` [A] — Restock Alert *(L19277)*
+- `CAMIMG-15         ` [A] — Holiday Gift Set *(L19304)*
+- `CAMIMG-16         ` [A] — Blog Featured Image *(L19333)*
+- `CAMIMG-18         ` [A] — Collection Grid *(L19387)*
+- `CAMIMG-19         ` [A] — Lookbook Page *(L19420)*
+- `CAMIMG-20         ` [A] — Social Proof Mosaic *(L19451)*
+- `DEEPCAMP-01       ` [A] — DEEPCAMP-01 — Seasonal Hero: Back to School *(L22495)*
+- `DEEPCAMP-02       ` [A] — DEEPCAMP-02 — Summer Collection (Sun-Fade + Quick-Dry) *(L22525)*
+- `DEEPCAMP-03       ` [A] — DEEPCAMP-03 — Holiday Gift Guide (Gift-Wrapped BSL Pants) *(L22554)*
+- `DEEPCAMP-04       ` [A] — DEEPCAMP-04 — Valentine's Day (Care-Themed Hero) *(L22592)*
+- `DEEPCAMP-05       ` [A] — DEEPCAMP-05 — Mother's Day (Mom-Self-Care Frame) *(L22621)*
+- `DEEPCAMP-06       ` [A] — DEEPCAMP-06 — Father's Day (Dad-Helper Frame) *(L22659)*
+- `DEEPCAMP-07       ` [A] — DEEPCAMP-07 — Easter Basket (Spring Collection) *(L22689)*
+- `DEEPCAMP-08       ` [A] — DEEPCAMP-08 — Halloween Fun (Costume-Ready Frame) *(L22724)*
+- `DEEPCAMP-09       ` [A] — DEEPCAMP-09 — Thanksgiving (Gratitude + Family) *(L22762)*
+- `DEEPCAMP-10       ` [A] — DEEPCAMP-10 — Christmas Morning (Gift-Unwrap Hero) *(L22791)*
+- `DEEPCAMP-11       ` [A] — DEEPCAMP-11 — New Year Fresh Start (Reset Frame) *(L22824)*
+- `DEEPCAMP-12       ` [A] — DEEPCAMP-12 — Spring Refresh (New-Season Drop) *(L22867)*
+- `DEEPCAMP-13       ` [A] — DEEPCAMP-13 — Fall Cozy (Warm-Tones Collection) *(L22897)*
+- `DEEPCAMP-14       ` [A] — DEEPCAMP-14 — Winter Warm (Cold-Weather Frame) *(L22937)*
+- `DEEPCAMP-15       ` [A] — DEEPCAMP-15 — Flash Sale Banner (Time-Limited Offer) *(L22970)*
+- `DEEPCAMP-16       ` [A] — DEEPCAMP-16 — BOGO Offer (Buy-One-Get-One) *(L23004)*
+- `DEEPCAMP-17       ` [A] — DEEPCAMP-17 — Limited Edition (Rare-Colorway Drop) *(L23039)*
+- `DEEPCAMP-18       ` [A] — DEEPCAMP-18 — Color Drop (New-Colorway Reveal) *(L23070)*
+- `DEEPCAMP-19       ` [A] — DEEPCAMP-19 — Collaboration (Co-Brand Campaign) *(L23099)*
+- `DEEPCAMP-20       ` [A] — DEEPCAMP-20 — Anniversary Celebration (Milestone Year) *(L23132)*
+- `DEEPCAMP-21       ` [A] — DEEPCAMP-21 — Customer Appreciation (Thank-You Frame) *(L23169)*
+- `DEEPCAMP-23       ` [A] — DEEPCAMP-23 — Year in Review (Annual Recap) *(L23242)*
+- `DEEPCAMP-24       ` [A] — DEEPCAMP-24 — Product Evolution (Version-History Frame) *(L23280)*
+- `CSHOP-1           ` [A] — Bestseller Hero *(L25015)*
+- `CSHOP-2           ` [A] — Bestseller Grid *(L25046)*
+- `CSHOP-3           ` [A] — Bestseller Social Proof *(L25080)*
+- `CSHOP-4           ` [A] — Bestseller A/B *(L25113)*
+- `CSHOP-5           ` [A] — Bestseller Carousel *(L25141)*
+- `CSHOP-6           ` [A] — Launch Teaser *(L25173)*
+- `CSHOP-7           ` [A] — Launch Reveal *(L25202)*
+- `CSHOP-8           ` [A] — Launch Deep Dive *(L25232)*
+- `CSHOP-9           ` [A] — Launch Social *(L25260)*
+- `CSHOP-10          ` [A] — Flash Hero *(L25291)*
+- `CSHOP-11          ` [A] — Flash Grid *(L25323)*
+- `CSHOP-12          ` [A] — Flash Last Chance *(L25353)*
+- `CSHOP-13          ` [A] — New Arrival Hero *(L25384)*
+- `CSHOP-14          ` [A] — New Colourway *(L25414)*
+- `CSHOP-15          ` [A] — New Collection *(L25442)*
+- `CSHOP-16          ` [A] — Restock Hero *(L25472)*
+- `CSHOP-17          ` [A] — Restock Urgency *(L25505)*
+- `CSHOP-18          ` [A] — Gift Hero *(L25539)*
+- `CSHOP-19          ` [A] — Gift Bundle *(L25566)*
+- `CSHOP-20          ` [A] — Gift Card *(L25591)*
+- `CSHOP-21          ` [A] — VIP Early Access *(L25621)*
+- `CSHOP-22          ` [A] — VIP Reward *(L25652)*
+- `CSHOP-23          ` [A] — VIP Birthday *(L25681)*
+- `CSHOP-24          ` [A] — Back-to-School *(L25709)*
+- `CSHOP-25          ` [A] — Holiday Gift *(L25740)*
+- `CSHOP-26          ` [A] — Summer Essential *(L25770)*
+- `CSHOP-27          ` [A] — New Year *(L25803)*
+- `CSHOP-28          ` [A] — Giveaway *(L25830)*
+- `CSHOP-29          ` [A] — Refer-a-Friend *(L25860)*
+- `CSHOP-30          ` [A] — Customer Appreciation *(L25891)*
+- `LSHOP-001         ` [A] — L1 Sarah Welcome *(L25919)*
+- `LSHOP-002         ` [A] — L1 Sarah Cart *(L25947)*
+- `LSHOP-003         ` [A] — L1 Sarah Bundle *(L25979)*
+
+## SIGNOFF & FOOTER (7)
+
+- `12.2              ` [G] — Footer (Giuliano source) *(L1059)*
+- `UTIL-04           ` [G] — Footer (Giuliano source) *(L7571)*
+- `12.1              ` [G+] — Lena Signoff (uses Signoff) *(L1026)*
+- `UTIL-09           ` [A*] — Social Strip *(L7712)*
+- `UTIL-10           ` [A*] — Legal Text *(L7739)*
+- `33.1              ` [A] — Smiley Face SVG *(L2764)*
+- `33.2              ` [A] — Progress Arrow SVG *(L2786)*
+
+---
+
+## TOTALS
+
+| Position | Count |
+|---|---|
+| SHELL & HEADER | 30 |
+| HERO | 30 |
+| BODY — RECOGNITION & STORY | 117 |
+| BODY — MECHANISM & EDUCATION | 177 |
+| BODY — SOCIAL PROOF & TESTIMONIALS | 15 |
+| BODY — IMAGES & PHOTOS | 140 |
+| PRODUCT SHOWCASE | 81 |
+| GUARANTEE & TRUST | 84 |
+| CTA — THE CLOSE | 53 |
+| EMOTIONAL SUPPORT | 37 |
+| FLOW-SPECIFIC PATTERNS | 103 |
+| SEASONAL & CAMPAIGN | 76 |
+| SIGNOFF & FOOTER | 7 |
+| **TOTAL** | **950** |
+
+| Source | Count | Meaning |
+|---|---|---|
+| `[G]` | 5 | Literal Giuliano source (primitives.jsx / product-showcase.jsx / illustrations.jsx) |
+| `[G+]` | 22 | Giuliano-derived (wraps or aliases a `[G]` component) |
+| `[A*]` | 363 | Quality-approved (✦ star marker) |
+| `[A]` | 560 | Agent/standard |
