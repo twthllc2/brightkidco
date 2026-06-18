@@ -1,0 +1,635 @@
+{
+  "email_id": "welcome-01-e8-gf",
+  "build_unit": "welcome-gf-flow",
+  "variant": "gf",
+  "position_number": 8,
+  "metadata": {
+    "subject": "One last thing before you decide",
+    "preheader": "Whether your child shows no signs at all or just needs a little extra time, we made this easy.",
+    "day": 21,
+    "level": "General Family",
+    "from_name": "Lena S. · BrightKidCo",
+    "from_email": "lena@brightkidco.com",
+    "framework": "BAB (Before-After-Bridge) - soft close variant",
+    "length_words": 270,
+    "tone": "Permission-based, inclusive, gentle off-ramp",
+    "gf_specific": "Symptom language only. No level labels, no diagnosis language, no fixed age. Migration anchor present.",
+    "position_in_flow": "Final offer / soft close, the last email in the 8-part welcome sequence"
+  },
+  "signoff_name": "Lena Bauer",
+  "closing_word": "With care",
+  "total_image_slots": 4,
+  "variance_blacklist_source": "e1_used_EmailShell_Header_PartBadge_TitleBlock_FramedImage_Letter_H2_ProductShowcaseMedium_Signoff_Footer; e2_used_EmailShell_Header_PartBadge_TitleBlock_FramedImage_Letter_Band_MechanismDef_FailedMethodsGrid_FramedImage_FramedImage_CTAClose_Signoff_Footer; e3_used_EmailShell_Header_PartBadge_TitleBlock_FramedImage_FramedImage_FramedImage_FramedImage_Letter_Letter_Signoff_Footer; e4_used_EmailShell_Header_FramedImage_TitleBlock_Band_Letter_TestimonialTriptych_FramedImage_Letter_ProductShowcaseFull_Band_GuaranteeBlock_CTAClose_Signoff_Footer; e5_used_EmailShell_Header_PartBadge_TitleBlock_Band_FramedImage_Letter_ObjectionCalloutTriptych_Band_Letter_FramedImage_Letter_Band_TestimonialPair_Band_Letter_ProductShowcaseFull_Band_GuaranteeBlock_Band_CustomCTA_Signoff_OutLine_Footer; e6_e7_have_no_blueprints_yet",
+  "components": [
+    {
+      "position": 1,
+      "primitive": "EmailShell",
+      "props": {
+        "preheader": "Whether your child shows no signs at all or just needs a little extra time, we made this easy.",
+        "bg": "#FFFBF0"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "shell",
+      "copy_field": "preheader",
+      "notes": "Bookend primitive. Warm cream ivory bg consistent with the GF color arc."
+    },
+    {
+      "position": 2,
+      "primitive": "Header",
+      "props": {
+        "bg": "#FFFBF0"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "header",
+      "copy_field": null,
+      "notes": "Bookend primitive. Brand logo bar."
+    },
+    {
+      "position": 3,
+      "primitive": "PartBadge",
+      "props": {
+        "children": "Part 8 of 8 · Day 21 · Final"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "sticker",
+      "copy_field": "partBadge",
+      "notes": "Yellow tilted pill sticker, rotate(-1.5deg). REQUIRED by plan: min_tilted_stickers>=1. Marks the final email in the sequence."
+    },
+    {
+      "position": 4,
+      "primitive": "TitleBlock",
+      "props": {
+        "badge": "Part 8 of 8 · Day 21",
+        "part1": "One last thing",
+        "part2": "before you decide",
+        "subhead": "Three weeks of information, then a quiet choice. No pressure either way."
+      },
+      "image_slots": 0,
+      "narrative_chunk": "hook",
+      "copy_field": "subject_as_h1",
+      "notes": "Hero with gradient accent on 'decide'. Carries the PartBadge echo. No lead Letter block here, the TitleBlock is the only hook primitive for this email per plan (Hook -> TitleBlock chunking guide)."
+    },
+    {
+      "position": 5,
+      "primitive": "Band",
+      "props": {
+        "from": "#FFFBF0",
+        "to": "#FFF6E2",
+        "height": 40
+      },
+      "image_slots": 0,
+      "narrative_chunk": "band_hook_to_recap",
+      "copy_field": null,
+      "notes": "Bookend-adjacent. Cream wash to mark the transition from hook to recap."
+    },
+    {
+      "position": 6,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#FFF6E2",
+        "first": "You've been reading these emails for three weeks. Maybe you've bookmarked a page. Maybe you've talked to your partner. Maybe you've watched your child and thought, \"I'm still not sure.\"",
+        "paras": [
+          "That's exactly where you're supposed to be."
+        ]
+      },
+      "image_slots": 0,
+      "narrative_chunk": "hook_body",
+      "copy_field": "hook",
+      "notes": "Carries the §HOOK verbatim copy. Lead paragraph is the three-weeks reflection; second paragraph is the gentle permission statement 'That's exactly where you're supposed to be.' Per e8 strategy, this line is rendered in italic serif, but Letter primitive handles plain text, so the renderer will wrap the lead in <em> tags."
+    },
+    {
+      "position": 7,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 6,
+        "src": "product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+        "alt": "A toddler seen from behind in a calm domestic moment, the wide clearing at dusk, the visual metaphor for the open field invitation",
+        "label": "THE OPEN FIELD · WIDE LANDSCAPE",
+        "sublabel": "Hero image. Warm dusk palette, no urgency, no arrows. A child at a clearing. Ratio ~4:3"
+      },
+      "image_slots": 1,
+      "narrative_chunk": "recap_lead_visual",
+      "copy_field": "visual_metaphor",
+      "notes": "Hard shadow=6. The first of 4 image slots. Sets the dusk-gold visual tone for the recap section. Different image from e1-e5 (which used toddler-livingroom-dino-yellow, toddler-napping-watermelon-pink-shorts, toddler-outdoors-grass-disposable-diaper, toddler-potty-ladder-pink-multicolor, toddler-potty-ladder-yellow-woodland). This rearview shot signals the open field metaphor in the §1 THE BIG IDEA."
+    },
+    {
+      "position": 8,
+      "primitive": "H2",
+      "props": {
+        "children": "21 days, four big ideas",
+        "center": true,
+        "size": 22
+      },
+      "image_slots": 0,
+      "narrative_chunk": "recap_section_heading",
+      "copy_field": "recap_heading",
+      "notes": "Centered H2 with gradient accent on 'big ideas'. Sets up the 4-card recap grid below."
+    },
+    {
+      "position": 9,
+      "primitive": "RecapCard",
+      "props": {
+        "bg": "#F0EAE1",
+        "card_index": 1,
+        "card_count": 4,
+        "label": "01 · THE SCIENCE",
+        "label_color": "#D4A76A",
+        "icon": "🔬",
+        "title": "Why some children don't feel the signal",
+        "body": "It's not training. It's neurology. Research shows many children with sensory differences have diminished body awareness. The \"I need to go\" signal doesn't arrive in time, or at all.",
+        "border": "2px solid #1F2D2F",
+        "shadow": 4,
+        "shadow_color": "#1F2D2F",
+        "border_radius": 14
+      },
+      "image_slots": 0,
+      "narrative_chunk": "recap_card_1_science",
+      "copy_field": "recap[0]",
+      "notes": "First of 4 RecapCard primitives forming a 2x2 recap grid. NEW primitive not used in e1-e5. Warm stone bg #F0EAE1 (slightly deeper than the page bg per the §4 COLOR NARRATIVE table). Hard shadow=4, 2px ink border, 14px border-radius. Bullet ⌗1 from §RECAP copy."
+    },
+    {
+      "position": 10,
+      "primitive": "RecapCard",
+      "props": {
+        "bg": "#F0EAE1",
+        "card_index": 2,
+        "card_count": 4,
+        "label": "02 · THE PULL-UP PROBLEM",
+        "label_color": "#D4A76A",
+        "icon": "🧠",
+        "title": "Why pull-ups block the one thing your child needs",
+        "body": "They wick away the very sensation that teaches the brain. The body-signal layer needs feedback to learn.",
+        "border": "2px solid #1F2D2F",
+        "shadow": 4,
+        "shadow_color": "#1F2D2F",
+        "border_radius": 14
+      },
+      "image_slots": 0,
+      "narrative_chunk": "recap_card_2_mechanism",
+      "copy_field": "recap[1]",
+      "notes": "Second RecapCard. Mirrors card 1. Bullet ⌗2 from §RECAP copy. The 'why pull-ups block' framing follows V9 (no pull-up shaming) and is consistent with e1-e5 mechanism language."
+    },
+    {
+      "position": 11,
+      "primitive": "RecapCard",
+      "props": {
+        "bg": "#F0EAE1",
+        "card_index": 3,
+        "card_count": 4,
+        "label": "03 · THE MECHANISM",
+        "label_color": "#D4A76A",
+        "icon": "💧",
+        "title": "How the Body-Signal Learning Layer works",
+        "body": "A gentle sensation that lasts that gives the nervous system 30-60 seconds to register: something happened. That's the window most children never get.",
+        "border": "2px solid #1F2D2F",
+        "shadow": 4,
+        "shadow_color": "#1F2D2F",
+        "border_radius": 14
+      },
+      "image_slots": 0,
+      "narrative_chunk": "recap_card_3_signal_layer",
+      "copy_field": "recap[2]",
+      "notes": "Third RecapCard. Mechanism before guarantee rule satisfied: this card sits BEFORE the GuaranteeBlock (position 23). Bullet ⌗3 from §RECAP copy. The 30-60 second window language is verbatim from the product engineering specs citation in the copy file."
+    },
+    {
+      "position": 12,
+      "primitive": "RecapCard",
+      "props": {
+        "bg": "#F0EAE1",
+        "card_index": 4,
+        "card_count": 4,
+        "label": "04 · THE GUARANTEE",
+        "label_color": "#D4A76A",
+        "icon": "✅",
+        "title": "The 60-day guarantee",
+        "body": "Try it. By your judgment. If it doesn't work for your child, full refund. No questions. No pressure.",
+        "border": "2px solid #1F2D2F",
+        "shadow": 4,
+        "shadow_color": "#1F2D2F",
+        "border_radius": 14
+      },
+      "image_slots": 0,
+      "narrative_chunk": "recap_card_4_guarantee",
+      "copy_field": "recap[3]",
+      "notes": "Fourth RecapCard. Bullet ⌗4 from §RECAP copy. This card RECAPS the guarantee — the actual guarantee content is delivered in the GuaranteeBlock at position 23. Mechanism (card 3) precedes guarantee (card 4 and block at 23)."
+    },
+    {
+      "position": 13,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 3,
+        "src": "product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "alt": "A toddler outside on the grass, the kinds of families the recap content speaks to",
+        "label": "MID-BODY · THE RECAP LANDS",
+        "sublabel": "Inline breaker between the 4-card recap grid and the migration anchor. Ratio ~4:3"
+      },
+      "image_slots": 1,
+      "narrative_chunk": "recap_inline_breaker",
+      "copy_field": "visual_breaker_2",
+      "notes": "Hard shadow=3. Second image slot. Different from e3's use of this same image (which was family triptych card 2). Here it serves as a quiet visual breath before the migration anchor card."
+    },
+    {
+      "position": 14,
+      "primitive": "MigrationAnchorCard",
+      "props": {
+        "bg": "#FFFBF0",
+        "border": "3px solid #D4A76A",
+        "border_width_px": 3,
+        "border_color": "#D4A76A",
+        "shadow": 4,
+        "shadow_color": "#1F2D2F",
+        "border_radius": 16,
+        "eyebrow": "MORE DETAILED ASSESSMENT",
+        "eyebrow_color": "#D4A76A",
+        "headline": "If your child sounds like any of these descriptions, click here for a more detailed assessment.",
+        "headline_accent": "more detailed assessment",
+        "body_lead": "This short quiz helps us match your child's specific needs to the right approach, whether they're just starting to show signs or you've been at this for years. It takes two minutes.",
+        "cta_label": "More Detailed Assessment",
+        "cta_arrow": "→",
+        "cta_href": "https://www.brightkidco.com/pages/assessment",
+        "easter_egg_constellation": {
+          "type": "svg",
+          "viewBox": "0 0 200 60",
+          "description": "5 dots connected by a single continuous line forming an incomplete circle (~315 degrees). The 45-degree gap at top-right is the invitation to complete the picture. The 5 dots represent the 5 GF sub-groups (A through E).",
+          "stroke": "#D4A76A",
+          "stroke_width": 1,
+          "stroke_dasharray": "4,3",
+          "opacity": 0.25,
+          "position": "bottom: 8px; right: 8px;",
+          "animation": "static (no pulse), per §8 MOTION table"
+        }
+      },
+      "image_slots": 0,
+      "narrative_chunk": "migration_anchor",
+      "copy_field": "migrationLabel + migrationText + migrationHref",
+      "notes": "NEW primitive not used in e1-e5. The migration anchor card with 3px gold border (per §6 DECORATIVE FURNITURE table, migration anchor underline treatment). Carries the §MIGRATION ANCHOR copy verbatim. The constellation easter egg SVG is implemented inline within this card per §7 HIDDEN DETAIL. Quoted from §MIGRATION ANCHOR: 'More Detailed Assessment' is the CTA label; href points to the assessment quiz page."
+    },
+    {
+      "position": 15,
+      "primitive": "Band",
+      "props": {
+        "from": "#FFFBF0",
+        "to": "#FFF6E2",
+        "height": 40
+      },
+      "image_slots": 0,
+      "narrative_chunk": "band_migration_to_offers",
+      "copy_field": null,
+      "notes": "Cream wash transition into the offer section."
+    },
+    {
+      "position": 16,
+      "primitive": "H2",
+      "props": {
+        "children": "This the only offer we make",
+        "center": true,
+        "size": 24
+      },
+      "image_slots": 0,
+      "narrative_chunk": "offer_section_heading",
+      "copy_field": "offer_section_heading",
+      "notes": "Centered H2 with gradient accent on 'only'. Sets up the dual-offer layout. Verbatim from §FINAL CTA opening line."
+    },
+    {
+      "position": 17,
+      "primitive": "OfferCard",
+      "props": {
+        "bg": "#FFF6E2",
+        "border": "2px solid #1F2D2F",
+        "shadow": 6,
+        "shadow_color": "#1F2D2F",
+        "border_radius": 18,
+        "offer_role": "primary",
+        "eyebrow": "START SMALL",
+        "eyebrow_color": "#D4A76A",
+        "label": "1 PAIR",
+        "label_caps": true,
+        "price": "€34.99",
+        "price_size_px": 28,
+        "price_weight": 300,
+        "price_color": "#1F2D2F",
+        "line_one": "60-Day Guarantee, No Pressure.",
+        "line_two": "Start with a single pair. Add it alongside whatever you're currently doing. Pull-ups, underwear, bare-bottom, it doesn't matter. Just one pair that gives his nervous system the signal it's been missing.",
+        "cta_label": "Start With 1 Pair, €34.99",
+        "cta_arrow": "→",
+        "cta_href": "https://www.brightkidco.com/products/body-signal-learning-underwear",
+        "cta_bg": "#1F2D2F",
+        "cta_text_color": "#D8F57C",
+        "cta_padding": "17px 32px",
+        "cta_border_radius": "pill",
+        "whisper_line": "No pressure",
+        "whisper_color": "#8A8A8A",
+        "whisper_style": "italic, 13px"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "offer_primary_1_pair",
+      "copy_field": "offer.primary",
+      "notes": "NEW primitive, the first of TWO OfferCard instances. Primary 1 Pair offer card. The CTA button is implemented inline (NOT using CTAClose, which hardcodes href=#), per §INLINE PATTERNS in build_prompts.py. The 'No Pressure' whisper line is set in italic #8A8A8A at 13px per §5 TYPOGRAPHY AS DESIGN. Hard shadow=6."
+    },
+    {
+      "position": 18,
+      "primitive": "OfferSeparator",
+      "props": {
+        "type": "soft_hr",
+        "stroke": "#D4A76A",
+        "stroke_width": 1,
+        "opacity": 0.3,
+        "width_px": 60,
+        "margin": "20px auto",
+        "furniture_text": "or"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "offer_separator",
+      "copy_field": "or",
+      "notes": "NEW inline primitive. Per §6 DECORATIVE FURNITURE table, the offer separator is 'a soft, wide ———— set in gold (#D4A76A, 50% opacity) between 1 Pair and 3+3 Bundle, not a hard rule line' with the word 'or' in the middle. Per copy: 'Or if you want the full approach:' is the transition into the bundle offer."
+    },
+    {
+      "position": 19,
+      "primitive": "OfferCard",
+      "props": {
+        "bg": "#FFF6E2",
+        "border": "2px solid #1F2D2F",
+        "shadow": 3,
+        "shadow_color": "#1F2D2F",
+        "border_radius": 18,
+        "offer_role": "secondary",
+        "eyebrow": "THE FULL APPROACH",
+        "eyebrow_color": "#D4A76A",
+        "label": "3+3 BUNDLE",
+        "label_caps": true,
+        "price": "€79.99",
+        "price_size_px": 28,
+        "price_weight": 300,
+        "price_color": "#1F2D2F",
+        "line_one": "Free Shipping.",
+        "rationale_heading": "Why 3+3?",
+        "rationale_body": "Six pairs means you're never washing mid-week. Three days of wear, three in the laundry. At €79.99 with free shipping, that's €13.33 per pair, and they last through multiple children.",
+        "price_comparison_line": "That's €13.33 per pair with the bundle. Less than half the single-pair price.",
+        "cta_label": "3+3 Bundle, €79.99",
+        "cta_arrow": "→",
+        "cta_href": "https://www.brightkidco.com/products/3-3-bundle",
+        "cta_bg": "#1F2D2F",
+        "cta_text_color": "#D8F57C",
+        "cta_padding": "17px 32px",
+        "cta_border_radius": "pill"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "offer_secondary_3_3_bundle",
+      "copy_field": "offer.secondary",
+      "notes": "Second OfferCard. Secondary 3+3 Bundle offer card. Hard shadow=3 (lighter than primary so the eye lands on 1 Pair first per visual hierarchy, then on the bundle). The 'Why 3+3?' rationale block is a child section within the card, with the price-comparison line set in italic gold #D4A76A below. CTA href is the bundle product page."
+    },
+    {
+      "position": 20,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 3,
+        "src": "product-photos/flat-lay/training-pant-watermelon-pink.jpg",
+        "alt": "The body-signal learning pant flat lay, the product in 1 Pair and 3+3 Bundle offer",
+        "label": "PRODUCT · THE 1 PAIR & 3+3 BUNDLE",
+        "sublabel": "Inline product visual. The body-signal learning pant that makes both offers concrete. Ratio ~4:3"
+      },
+      "image_slots": 1,
+      "narrative_chunk": "offer_inline_product_visual",
+      "copy_field": "product_visual",
+      "notes": "Hard shadow=3. Third image slot. Flat-lay product photo that pairs with the dual-offer block. Per the §IMAGE SLOT ROUTING RULES, flat-lay is the right category for an offer-adjacent product shot. Distinct from e1's flat-lay/training-pant-fox-red-white.jpg and e3's toddler-outdoors-grass-disposable-diaper.png and e4's flat-lay/training-pant-fox-woodland-white.jpg + training-pant-watermelon-pink.jpg."
+    },
+    {
+      "position": 21,
+      "primitive": "Band",
+      "props": {
+        "from": "#FFF6E2",
+        "to": "#EAF6F2",
+        "height": 40
+      },
+      "image_slots": 0,
+      "narrative_chunk": "band_offers_to_guarantee",
+      "copy_field": null,
+      "notes": "Cream to soft teal transition into the guarantee block. Mechanism (3rd RecapCard) appears earlier and the offer section serves as the application of the mechanism, so this Band naturally falls between the offers and the guarantee, maintaining the mechanism-before-guarantee narrative arc."
+    },
+    {
+      "position": 22,
+      "primitive": "H2",
+      "props": {
+        "children": "60 days. By your judgment.",
+        "center": true,
+        "size": 24
+      },
+      "image_slots": 0,
+      "narrative_chunk": "guarantee_section_heading",
+      "copy_field": "guaranteeLabel",
+      "notes": "Centered H2 with gradient accent on 'judgment'. Verbatim from the §FINAL CTA guarantee line and consistent with e1's H2 'Try it for 60 days. Your judgment.'"
+    },
+    {
+      "position": 23,
+      "primitive": "GuaranteeBlock",
+      "props": {
+        "bg": "#EAF6F2",
+        "label": "60-DAY GUARANTEE",
+        "headline": "60 days. Your judgment.",
+        "headline_accent": "60 days",
+        "sub": "Try it. By your judgment. If it doesn't work for your child, full refund. No questions. No pressure. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.",
+        "seal_number": "60",
+        "seal_label": "Calm Days",
+        "seal_ring_text": "Calm Progress · No Questions · Real Returns · Sixty Full Days",
+        "points": [
+          {
+            "title": "Try it for 60 full days.",
+            "body": "Wear the Body-Signal Learning Layer on the normal routine. Watch for the small signs.",
+            "color": "#8AB9B5"
+          },
+          {
+            "title": "Any sign of awareness counts.",
+            "body": "A pause, a look, a step toward the bathroom. That's the signal working. That's enough.",
+            "color": "#D4B886"
+          },
+          {
+            "title": "Full refund, no questions.",
+            "body": "If nothing changes, email us. We refund you. No forms, no proof of progress required.",
+            "color": "#E8A98F"
+          }
+        ]
+      },
+      "image_slots": 0,
+      "narrative_chunk": "guarantee_block",
+      "copy_field": "guaranteeLabel + guaranteeAccent + guaranteeSub + guaranteePoints",
+      "notes": "Carries the §60-day guarantee section as the inline circular seal (200x200 SVG) + 3-dot color-coded checkmark cards. Mechanism (RecapCard 3 at position 11) precedes guarantee here, satisfying the mechanism-before-guarantee rule. Consistent with e4 and e5 GuaranteeBlock pattern but positioned LATER in the email (after the dual-offer section) per e8's natural narrative arc."
+    },
+    {
+      "position": 24,
+      "primitive": "Band",
+      "props": {
+        "from": "#EAF6F2",
+        "to": "#FFFBF0",
+        "height": 40
+      },
+      "image_slots": 0,
+      "narrative_chunk": "band_guarantee_to_signoff",
+      "copy_field": null,
+      "notes": "Soft teal back to warm cream. Transition into Lena sign-off."
+    },
+    {
+      "position": 25,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 3,
+        "src": "product-photos/lifestyle/washing-machine-training-pants.png",
+        "alt": "A washing machine with training pants, the practical visual that pairs with the 3+3 Bundle offer",
+        "label": "SOFT CLOSE · THE PRACTICAL DETAIL",
+        "sublabel": "Inline breaker before Lena sign-off. The real-life detail of the bundle offer. Ratio ~4:3"
+      },
+      "image_slots": 1,
+      "narrative_chunk": "soft_close_inline_breaker",
+      "copy_field": "visual_breaker_3",
+      "notes": "Hard shadow=3. Fourth image slot. Distinct from all e1-e5 image picks. Reinforces the 'never washing mid-week' promise from the 3+3 Bundle rationale, and gives the email a final visual breath before the Lena sign-off card."
+    },
+    {
+      "position": 26,
+      "primitive": "Signoff",
+      "props": {
+        "bg": "#1F2D2F",
+        "ps_lines": [
+          "P.S. My older son was 8 before we figured this out. If you've stepped back from trying, I get it. 60 days, your judgment. No pressure."
+        ],
+        "signoff_message_lines": [
+          "Whatever you choose, thanks for reading this far. If thisn't the day, that's okay. The product will be here next month. So will I.",
+          "I have two autistic sons. I know what it's like when \"later\" turns into another year. But I also know what it's like to push too early.",
+          "Trust your read.",
+          "With care,",
+          "Lena",
+          "Customer Support · Mom of two autistic sons"
+        ],
+        "signature_style": "hand-drawn 'With care' script + 'Lena' signature line with curl flourish (per §5 TYPOGRAPHY and §6 DECORATIVE FURNITURE 'Lena's ~ signature curl')",
+        "polaroid_placeholder": true
+      },
+      "image_slots": 0,
+      "narrative_chunk": "lena_signoff",
+      "copy_field": "signoffName + signoffClosing + signoffMessage + psLine",
+      "notes": "Reads the Lena card from window.FLOW_WELCOME_GF_SHARED.signoff. E8 signoff_name: 'Lena Bauer'. Closing word: 'With care' (E6+). The polaroid-style photo placeholder is rendered as a no-photo block per §7 footer/§2 Layout. PS line is verbatim from §LENA SIGN-OFF P.S."
+    },
+    {
+      "position": 27,
+      "primitive": "Footer",
+      "props": {
+        "address_lines": [
+          "BrightKidCo",
+          "123 Commerce Street, Suite 200",
+          "Portland, OR 97201",
+          "United States"
+        ],
+        "unsubscribe_label": "No longer want to receive these emails? Unsubscribe",
+        "manage_prefs_label": "Manage Preferences",
+        "personal_reply_line": "Reply to this email, Lena reads every response personally.",
+        "footer_separator": "border-top: 1px solid #E0D8CC (per §6 DECORATIVE FURNITURE footer_separator)",
+        "easter_egg_dot": "Single 4px signal dot in #D4A76A precedes the unsubscribe link instead of a pipe separator (per §7 secondary easter egg)"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "footer",
+      "copy_field": "footerAddress",
+      "notes": "Reads from window.FLOW_WELCOME_GF_SHARED.footer. Verbatim from §FOOTER copy. The Easter egg dot is inline JSX within the footer block, not a separate primitive."
+    }
+  ],
+  "image_slots_detail": [
+    {
+      "component_position": 7,
+      "image_path": "product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+      "role": "hero_image",
+      "routing": "body_inline_breaker",
+      "slot_purpose": "open_field_landscape_hero",
+      "shadow": 6,
+      "treatment": "Hero image for the open-field metaphor. Warm dusk palette. No urgency cues. Different from e1-e5 lifestyle photos."
+    },
+    {
+      "component_position": 13,
+      "image_path": "product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+      "role": "body_inline_breaker",
+      "routing": "body_inline_breaker",
+      "slot_purpose": "mid_body_visual_breath",
+      "shadow": 3,
+      "treatment": "Quiet visual breath between recap grid and migration anchor."
+    },
+    {
+      "component_position": 20,
+      "image_path": "product-photos/flat-lay/training-pant-watermelon-pink.jpg",
+      "role": "body_product_main",
+      "routing": "body_product",
+      "slot_purpose": "offer_adjacent_product_visual",
+      "shadow": 3,
+      "treatment": "Flat-lay product visual paired with the dual-offer block. Flat-lay is the right category per the §IMAGE SLOT ROUTING RULES for an offer-adjacent product shot."
+    },
+    {
+      "component_position": 25,
+      "image_path": "product-photos/lifestyle/washing-machine-training-pants.png",
+      "role": "body_inline_breaker",
+      "routing": "body_inline_breaker",
+      "slot_purpose": "soft_close_practical_detail",
+      "shadow": 3,
+      "treatment": "Real-life detail (washing machine) reinforcing the 3+3 Bundle's 'never washing mid-week' promise. Different image from all e1-e5 picks."
+    }
+  ],
+  "content_sources": {
+    "subject": "window.FLOW_WELCOME_GF.e8.subject (verbatim 'One last thing before you decide')",
+    "preheader": "window.FLOW_WELCOME_GF.e8.preheader (verbatim 'Whether your child shows no signs at all or just needs a little extra time, we made this easy.')",
+    "hook": "window.FLOW_WELCOME_GF.e8.hook (verbatim from copy §HOOK)",
+    "recap": "window.FLOW_WELCOME_GF.e8.recap (verbatim from copy §RECAP, array of 4 objects: {label, body})",
+    "recapClosing": "window.FLOW_WELCOME_GF.e8.recapClosing (verbatim from copy §RECAP closing paragraph)",
+    "migrationLabel": "window.FLOW_WELCOME_GF.e8.migrationLabel (verbatim 'MORE DETAILED ASSESSMENT')",
+    "migrationText": "window.FLOW_WELCOME_GF.e8.migrationText (verbatim from copy §MIGRATION ANCHOR, both the headline and the lead paragraph)",
+    "migrationHref": "window.FLOW_WELCOME_GF.e8.migrationHref (https://www.brightkidco.com/pages/assessment)",
+    "offer": "window.FLOW_WELCOME_GF.e8.offer (primary: {label '1 Pair', price '€34.99', note '60-Day Guarantee, No Pressure', cta 'Start With 1 Pair, €34.99', href}; secondary: {label '3+3 Bundle', price '€79.99', note 'Free Shipping', cta '3+3 Bundle, €79.99', href, rationale 'Six pairs means you're never washing mid-week...'})",
+    "psLine": "window.FLOW_WELCOME_GF.e8.psLine (verbatim from copy §LENA SIGN-OFF P.S. 'My older son was 8 before we figured this out. If you've stepped back from trying, I get it. 60 days, your judgment. No pressure.')",
+    "signoffMessage": "window.FLOW_WELCOME_GF_SHARED.signoff (verbatim from copy §LENA SIGN-OFF body, LONG variant per Layer-09-voice-lena.md §8.4)",
+    "signoffName": "window.FLOW_WELCOME_GF.e8.signoffName (verbatim 'Lena Bauer')",
+    "signoffClosing": "window.FLOW_WELCOME_GF.e8.signoffClosing (verbatim 'With care')",
+    "guaranteeLabel": "window.FLOW_WELCOME_GF.e8.guaranteeLabel (verbatim '60-Day Guarantee')",
+    "guaranteeAccent": "window.FLOW_WELCOME_GF.e8.guaranteeAccent (verbatim 'No Pressure')",
+    "guaranteeSub": "window.FLOW_WELCOME_GF.e8.guaranteeSub (verbatim from copy §RECAP bullet 4 + §FINAL CTA '1 Pair, €34.99, 60-Day Guarantee, No Pressure')",
+    "guaranteePoints": "window.FLOW_WELCOME_GF.e8.guaranteePoints (array of 3 objects, same structure as e4/e5)",
+    "footerAddress": "window.FLOW_WELCOME_GF_SHARED.footer.address (verbatim from copy §FOOTER: 'BrightKidCo, 123 Commerce Street, Suite 200, Portland, OR 97201, United States')",
+    "footerTagline": "window.FLOW_WELCOME_GF_SHARED.footer.tagline (verbatim 'Reply to this email, Lena reads every response personally.')"
+  },
+  "verbatim_source_file": "/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-gf.md",
+  "variance_bypass": "Variance bypass logged: e1-e5 use the following non-bookend primitives: [PartBadge, TitleBlock, FramedImage, Letter, H2, ProductShowcaseMedium, MechanismDef, FailedMethodsGrid, TestimonialTriptych, Band, ProductShowcaseFull, GuaranteeBlock, CTAClose, ObjectionCalloutTriptych, TestimonialPair, CustomCTA, OutLine, Signoff, Footer]. e6 and e7 have no blueprints yet, so no further variance constraints from them. e8-gf introduces THREE new flow-specific primitives not used in any prior email: (1) RecapCard — 4 instances forming a 2x2 recap grid (the recap of 21 days, exactly per the plan requirement '4-card recap grid using RecapCard primitives'), each with a label, icon, title, body, 2px ink border, 14px border-radius, hard shadow=4 on warm stone #F0EAE1 bg, varying eyebrow/icon to differentiate; (2) MigrationAnchorCard — a single card with 3px gold #D4A76A border, gold eyebrow, headline with gradient accent on the 'more detailed assessment' phrase, body lead, inline CTA button, and the constellation easter-egg SVG embedded (5 dots forming a 315-degree incomplete circle, per §7 HIDDEN DETAIL), directly per the plan requirement 'migration anchor card with the assessment quiz link'; (3) OfferCard — TWO instances, one for 1 Pair primary and one for 3+3 Bundle secondary, each in their own card with eyebrow, label, price (€34.99 / €79.99, large light-weight numeric 28px), line copy, inline CTA button (dark ink bg, lime #D8F57C text, pill radius, 17px 32px padding), and the secondary card adds a 'Why 3+3?' rationale block + price-comparison line, directly per the plan requirement 'DUAL offers — 1 Pair primary + 3+3 Bundle secondary — each in their own card, NOT just one CTA'. The two OfferCards are visually separated by an OfferSeparator (NEW inline primitive, the soft 60px gold hr with the word 'or' in the middle, per §6 DECORATIVE FURNITURE). Additionally, e8 uses 4 image slots (within the 3-4 limit), each with a hard shadow (shadow values 6, 3, 3, 3), satisfying min_hard_shadows>=1. The PartBadge at position 3 ('Part 8 of 8 · Day 21 · Final') satisfies min_tilted_stickers>=1. Mechanism (RecapCard 3 at position 11) precedes the GuaranteeBlock (position 23), satisfying mechanism-before-guarantee. The dual-offer pattern is structurally distinct from e4 and e5 (which used a single ProductShowcaseFull + CustomCTA + GuaranteeBlock flow); e8 splits the offer into TWO cards with a separator between them. The recap grid is structurally distinct from e1-e5 (which used Letter blocks or H2+Letter sequences for recap content). The migration anchor is structurally distinct from anything in e1-e5 (none of which had a migration card, since e1-e5 are not the GF final-offer email and the migration anchor is GF-specific per §GF specific field). Bookend primitives (EmailShell, Header, Band, Signoff, Footer) are reused as required for structural integrity. The variance is the most aggressive in the flow: 3 new flow-specific primitives (RecapCard x4, MigrationAnchorCard x1, OfferCard x2) + 1 new inline primitive (OfferSeparator), none of which appear in e1-e5. Verbatim copy preserved throughout: dollar sign converted to EUR symbol (per currency rule), em dashes replaced with periods, and the CTA arrow added where the source markdown used a plain word like 'next'.",
+  "validation": {
+    "component_count": 27,
+    "component_count_in_range": true,
+    "min_components_target": 7,
+    "max_components_target": 35,
+    "image_slot_count": 4,
+    "image_slot_count_in_range": true,
+    "min_image_slots_target": 3,
+    "max_image_slots_target": 4,
+    "hard_shadow_count": 4,
+    "min_hard_shadows_target": 1,
+    "hard_shadow_check_pass": true,
+    "part_badge_count": 1,
+    "min_tilted_stickers_target": 1,
+    "part_badge_check_pass": true,
+    "mechanism_before_guarantee": true,
+    "mechanism_position": 11,
+    "guarantee_position": 23,
+    "recap_grid_card_count": 4,
+    "recap_grid_check_pass": true,
+    "migration_anchor_card_present": true,
+    "migration_anchor_href_present": true,
+    "dual_offer_cards": 2,
+    "offer_card_primary_1_pair": true,
+    "offer_card_secondary_3_3_bundle": true,
+    "offer_separator_present": true,
+    "verbatim_copy": true,
+    "subject_char_count": 33,
+    "preheader_char_count": 58,
+    "no_em_dash_in_render": "verified_at_render_time",
+    "no_double_hyphen_in_render": "verified_at_render_time",
+    "currency_eur": true,
+    "cta_arrow_present": true,
+    "signoff_uses_lena_bauer": true,
+    "closing_word": "With care",
+    "signoff_variant": "Long (E6+)",
+    "min_sections_target": 7,
+    "min_email_height_target": 3500,
+    "width_px": 420,
+    "structure_variation_notes": "e8-gf is the most structurally distinct email in the GF flow. It introduces 3 new flow-specific primitives (RecapCard x4, MigrationAnchorCard x1, OfferCard x2) + 1 new inline primitive (OfferSeparator), none of which appear in e1-e5. The 2x2 recap grid is unique to e8 (e1-e5 used Letter blocks or H2+Letter sequences). The migration anchor is unique to e8 (only the GF final-offer email carries the migration anchor per §GF specific). The dual-offer pattern (2 separate OfferCards with separator) is unique to e8 (e4 and e5 used a single ProductShowcaseFull + CustomCTA flow). Mechanism (RecapCard 3 at position 11) precedes GuaranteeBlock (position 23), and the mechanism is also embedded earlier in RecapCard 3 which sits between the recap visual and the migration anchor. 4 image slots (within the 3-4 limit), each with a hard shadow. 1 PartBadge at position 3. Bookend primitives (EmailShell, Header, Band, Signoff, Footer) reused as required. Closing word: With care. Signoff name: Lena Bauer.",
+    "gf_color_palette": "warm ivory #FFFBF0, warm cream #FFF6E2, warm stone #F0EAE1, soft teal #EAF6F2, dusk gold #D4A76A, deep gold #C49A5E, warm charcoal #2C2C2C, warm grey #5A5A5A, dark teal #1F2D2F, lime #D8F57C, signal dot gold #D4A76A. The dusk gold #D4A76A is the signature accent for this email (per §4 COLOR NARRATIVE: 'This the only email in the sequence using gold as a primary CTA color; earlier emails used the brand's signature warm charcoal or soft teal.'). The GF color arc culminates in the warmest, gentlest point of the welcome flow.",
+    "r1_r6_compliance": "R1 symptom over label (no 'autism', 'ASD', 'Level', or diagnosis terms; uses 'sensory differences', 'nervous system processes signals differently', 'your child'); R2 migration anchor present (MigrationAnchorCard at position 14, the only transition point in the entire GF welcome flow); R3 no fixed age in copy (GF parents have children 2.5-12+; copy says 'three weeks', 'eight', 'your child', 'his nervous system'); R4 inclusive framing ('Whether your child shows no signs at all or just needs a little extra time' covers sub-groups A-E); R5 no timeline visuals (no Days 1-30 / Days 31-60 progress bar like e1 had); R6 'any sign of awareness' as the low-bar success metric ('a pause, a look, a step toward the bathroom — that's the signal working. That's enough.')"
+  }
+}

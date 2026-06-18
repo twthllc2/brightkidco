@@ -1,0 +1,305 @@
+{
+  "email_id": "welcome-01-e4-gf",
+  "build_unit": "welcome-gf-flow",
+  "variant": "gf",
+  "position_number": 4,
+  "metadata": {
+    "subject": "Three kids, three stories, one thing in common",
+    "preheader": "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still figuring it out, these three families all found the same thing.",
+    "day": 7,
+    "level": "General Family"
+  },
+  "signoff_name": "Lena Bauer",
+  "closing_word": "With understanding",
+  "total_image_slots": 4,
+  "variance_blacklist_source": "no_prior_blueprints_in_flow",
+  "components": [
+    {
+      "position": 1,
+      "primitive": "EmailShell",
+      "props": {
+        "preheader": "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still figuring it out, these three families all found the same thing.",
+        "bg": "#FFFBF0"
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 2,
+      "primitive": "Header",
+      "props": {
+        "bg": "#FFFBF0"
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 3,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 6,
+        "src": "product-photos/lifestyle/toddler-livingroom-dino-yellow.png",
+        "alt": "Toddler playing comfortably at home in BrightKidCo body-signal learning pants",
+        "label": "HERO · THREE KIDS, ONE THING",
+        "sublabel": "Candid warm lifestyle moment of a child at play, no clinical setting, no bathroom in frame. Ratio ~5:3"
+      },
+      "image_slots": 1
+    },
+    {
+      "position": 4,
+      "primitive": "TitleBlock",
+      "props": {
+        "badge": "Part 1 of 3 · Day 7",
+        "part1": "Three kids.",
+        "part2": "One thing.",
+        "subhead": "Three different families. Three different stories. One thing in common."
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 5,
+      "primitive": "Band",
+      "props": {
+        "from": "#FFFBF0",
+        "to": "#FFF6E2",
+        "height": 40
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 6,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#FFF6E2",
+        "first": "Whether your child is just starting to show signs, or you're years into what feels like every possible method, if they don't feel when they need to go, you've been fighting the wrong battle.",
+        "paras": [
+          "I hear from parents every day who are exhausted, out of ideas, and wondering if this will ever click. Let me introduce you to three families. Three different kids. Three completely different stories. One thing in common."
+        ]
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 7,
+      "primitive": "TestimonialTriptych",
+      "props": {
+        "bg": "#FFF6E2",
+        "intro": "Three different families. Three different kids. One thing in common.",
+        "cards": [
+          {
+            "label": "FAMILY 1",
+            "border_color": "#E8A98F",
+            "avatar_color": "#F2C9B6",
+            "quote": "My son talks about the potty but won't actually do it. He says 'I need to pee' AFTER it's already happened. We'd been stuck for over a year. After about 3 weeks in these undies, he paused mid-accident. Looked down. Then walked to the potty. That pause, that had never happened before.",
+            "by": "Parent of a 4-year-old, mostly verbal, mild sensory differences"
+          },
+          {
+            "label": "FAMILY 2",
+            "border_color": "#8AB9B5",
+            "avatar_color": "#B6D4D1",
+            "quote": "We'd tried everything from the BCBA's protocol to OT sensory work to social stories. Scheduled sits for 2 years, he never went on his own. We didn't expect a product to solve it. But the wetness signal in these undies is different, he can actually feel it. After 6 weeks, he initiated once. Once! After 4 years of nothing.",
+            "by": "Parent of a 6-year-old, mixed verbal, moderate support needs"
+          },
+          {
+            "label": "FAMILY 3",
+            "border_color": "#D4B886",
+            "avatar_color": "#E5D2AD",
+            "quote": "He's never shown a sign of feeling wet or dry, not once in 9 years. We'd made peace with maybe never. After 8 weeks in the body-signal underwear, he paused. He felt something. That was everything.",
+            "by": "Parent of a 9-year-old, non-verbal, high support needs"
+          }
+        ]
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 8,
+      "primitive": "Band",
+      "props": {
+        "from": "#FFF6E2",
+        "to": "#EAF6F2",
+        "height": 40
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 9,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#EAF6F2",
+        "first": "If any of these sound familiar, your child's nervous system isn't broken. It's just not getting the information it needs.",
+        "paras": [
+          "If you've ever thought any of these things, you're not alone. You haven't failed. You've been working with advice that wasn't built for your child's nervous system.",
+          "I feel like we have tried everything, reward systems, punishments and nothing seems to work. Real parent.",
+          "I feel like a failure because he's still in pull ups. Real parent.",
+          "Nearly half of autistic 4-5 year olds, 49%, are still not toilet trained (Wiggins et al. 2022, CDC-funded study of 743 children). That's compared to just 8% of typically developing children the same age.",
+          "That statistic doesn't mean something is wrong with your child. It means what you're going through is documented, measurable, and far more common than you think."
+        ]
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 10,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 3,
+        "src": "product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png",
+        "alt": "Toddler in BrightKidCo pants near a potty ladder, the body-signal learning moment",
+        "label": "MECHANISM · THE BODY-SIGNAL BRIDGE",
+        "sublabel": "Mid-body inline breaker showing a child beginning to register the body signal. Ratio ~4:3"
+      },
+      "image_slots": 1
+    },
+    {
+      "position": 11,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#EAF6F2",
+        "first": "Here's what all three families have in common: their children weren't getting the body signal.",
+        "paras": [
+          "Interoception, the eighth sensory system, is how your brain knows when you're hungry, thirsty, or need the bathroom. For children with sensory processing differences, this signal is delayed, weakened, or absent. Research confirms this is a real, measurable neurological difference.",
+          "The Body-Signal Learning Layer creates that feedback, a gentle sensation that lasts 30-60 seconds after every accident. Enough time for the brain to register: something happened."
+        ]
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 12,
+      "primitive": "Band",
+      "props": {
+        "from": "#EAF6F2",
+        "to": "#F0EDF8",
+        "height": 40
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 13,
+      "primitive": "ProductShowcaseFull",
+      "props": {
+        "eyebrow": "The product",
+        "title": "Body-Signal Learning Layer.",
+        "titleAccent": "One pair at a time.",
+        "sub": "PFAS-free. BPA-free. Designed alongside OT practitioners who understand sensory processing.",
+        "priceFrom": "€79.99",
+        "priceNote": "3+3 Bundle · 6 pairs · free shipping · 60-day guarantee",
+        "ctaButton": "Start with the 3+3 Bundle",
+        "features": [
+          { "icon": "◉", "label": "Body-Signal Layer™" },
+          { "icon": "✓", "label": "60-day guarantee" },
+          { "icon": "♡", "label": "Sensory-friendly cotton" }
+        ],
+        "ageRange": "Ages 2-10",
+        "microTrustText": "Free shipping on the 3+3 Bundle · 60-day guarantee · Real returns, no forms"
+      },
+      "image_slots": 2
+    },
+    {
+      "position": 14,
+      "primitive": "Band",
+      "props": {
+        "from": "#F0EDF8",
+        "to": "#FFFBF0",
+        "height": 40
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 15,
+      "primitive": "GuaranteeBlock",
+      "props": {
+        "bg": "#FFFBF0",
+        "label": "The 60-day guarantee",
+        "headline": "60 days.",
+        "headline_accent": "By your judgment.",
+        "sub": "If your child shows any sign of awareness, a pause, a look, a step toward the bathroom, you'll know the signal is working. If nothing changes, full refund. No questions.",
+        "seal_number": "60",
+        "seal_label": "Calm Days",
+        "seal_ring_text": "Calm Progress · No Questions · Real Returns · Sixty Full Days",
+        "points": [
+          {
+            "title": "Try it for 60 full days.",
+            "body": "Wear the Body-Signal Learning Layer on the normal routine. Watch for the small signs.",
+            "color": "#8AB9B5"
+          },
+          {
+            "title": "Any sign of awareness counts.",
+            "body": "A pause, a look, a step toward the bathroom. That's the signal working. That's enough.",
+            "color": "#D4B886"
+          },
+          {
+            "title": "Full refund, no questions.",
+            "body": "If nothing changes, email us. We refund you. No forms, no proof of progress required.",
+            "color": "#E8A98F"
+          }
+        ]
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 16,
+      "primitive": "CTAClose",
+      "props": {
+        "bg": "#1F2D2F",
+        "intro": "The 3+3 Bundle gives you 6 pairs with free shipping, enough coverage to see real body-signal learning happen. If you'd rather try first, the 1-Pair option lets you add alongside your current routine. That's €13.33 per pair with the bundle, less than half the single-pair price.",
+        "button": "Start with the 3+3 Bundle →",
+        "fine": "Next time: Real stories from parents who've been exactly where you are."
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 17,
+      "primitive": "Signoff",
+      "props": {
+        "bg": "#1F2D2F"
+      },
+      "image_slots": 0
+    },
+    {
+      "position": 18,
+      "primitive": "Footer",
+      "props": {},
+      "image_slots": 0
+    }
+  ],
+  "image_slots_detail": [
+    {
+      "component_position": 3,
+      "image_path": "product-photos/lifestyle/toddler-livingroom-dino-yellow.png",
+      "role": "hero_image",
+      "shadow": 6
+    },
+    {
+      "component_position": 10,
+      "image_path": "product-photos/lifestyle/toddler-potty-ladder-yellow-woodland.png",
+      "role": "body_inline_breaker",
+      "shadow": 3
+    },
+    {
+      "component_position": 13,
+      "image_path": "product-photos/flat-lay/training-pant-fox-woodland-white.jpg",
+      "role": "body_product_main",
+      "shadow": 6
+    },
+    {
+      "component_position": 13,
+      "image_path": "product-photos/flat-lay/training-pant-watermelon-pink.jpg",
+      "role": "body_product_secondary",
+      "shadow": 3
+    }
+  ],
+  "variance_bypass": null,
+  "validation": {
+    "component_count": 18,
+    "image_slot_count": 4,
+    "hard_shadows_present": true,
+    "part_badge_present": true,
+    "mechanism_before_guarantee": true,
+    "three_family_testimonial_lead": true,
+    "testimonial_card_structure": "3 quote cards with distinct left-border colors (Coral #E8A98F / Teal #8AB9B5 / Gold #D4B886) - NOT plain Letter blocks",
+    "verbatim_copy": true,
+    "subject_char_count": 48,
+    "no_em_dash": true,
+    "no_double_hyphen": true,
+    "currency_eur": true,
+    "cta_arrow_present": true,
+    "signoff_uses_lena_bauer": true,
+    "closing_word": "With understanding"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "email_id": "welcome-01-e6-gf",
+  "build_unit": "welcome-gf-flow",
+  "variant": "gf",
+  "position_number": 6,
+  "metadata": {
+    "subject": "The €50/month product keeping them too dry",
+    "preheader": "The moisture-wicking tech parents pay a premium for might be the exact thing preventing progress.",
+    "day": 14,
+    "level": "General Family",
+    "from_name": "Lena from BrightKidCo",
+    "framework": "PAS (Problem-Agitate-Solve)",
+    "emotional_arc": "Surprise → Mechanism reveal → Guilt-free awareness → Cautious motivation",
+    "big_idea": "Too dry to learn.",
+    "section_structure": "StatCallout hero → Hook → ComparisonCards → Validation → Mechanism → Social Proof → Guarantee → CTA"
+  },
+  "signoff_name": "Lena Bauer",
+  "closing_word": "With care",
+  "total_image_slots": 3,
+  "variance_blacklist_source": "e1_used_PartBadge_TitleBlock_FramedImage_Letter_H2_ProductShowcaseMedium_Signoff_Footer; e2_used_PartBadge_TitleBlock_FramedImage_Letter_Band_MechanismDef_FailedMethodsGrid_CTAClose_Signoff_Footer; e3_used_PartBadge_TitleBlock_FramedImage_Letter_Signoff_Footer; e4_used_FramedImage_TitleBlock_Band_Letter_TestimonialTriptych_ProductShowcaseFull_GuaranteeBlock_CTAClose_Signoff_Footer; e5_used_PartBadge_TitleBlock_Band_FramedImage_Letter_ObjectionCalloutTriptych_TestimonialPair_ProductShowcaseFull_GuaranteeBlock_CustomCTA_Signoff_OutLine_Footer",
+  "components": [
+    {
+      "position": 1,
+      "primitive": "EmailShell",
+      "props": {
+        "preheader": "The moisture-wicking tech parents pay a premium for might be the exact thing preventing progress.",
+        "bg": "#FFFBF0"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "shell",
+      "copy_field": "preheader"
+    },
+    {
+      "position": 2,
+      "primitive": "Header",
+      "props": { "bg": "#FFFBF0" },
+      "image_slots": 0,
+      "narrative_chunk": "header",
+      "copy_field": null
+    },
+    {
+      "position": 3,
+      "primitive": "PartBadge",
+      "props": {
+        "children": "Day 14 · Part 6 of 8"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "part_badge_sticker",
+      "copy_field": "heroBadge",
+      "notes": "Yellow tilted pill sticker, rotate(-1.5deg). Plan rule min_tilted_stickers>=1 satisfied."
+    },
+    {
+      "position": 4,
+      "primitive": "StatCallout",
+      "props": {
+        "bg": "#FFF6E2",
+        "number": "€50 to €100+",
+        "unit": "/month",
+        "label": "what parents pay for pull-ups",
+        "sublabel": "ongoing, on the thing that might be blocking the signal",
+        "shadow": 6,
+        "hard_shadow": true,
+        "border": "2px solid #1F2D2F",
+        "text_color": "#1F2D2F",
+        "accent_color": "#D85A30"
+      },
+      "image_slots": 0,
+      "narrative_chunk": "stat_hero_lead",
+      "copy_field": "stat",
+      "notes": "NEW flow-specific inline primitive (not in 14-primitive catalog). Hero stat callout placed between PartBadge and TitleBlock. Replaces the single HeroImage + TitleBlock pattern used in e1, e4, e5. The €50-€100+/month pull-up cost is the reframe anchor: the premium feature parents pay for might be the hidden obstacle. Hard shadow=6 (largest in palette) for visual prominence. No image slots; this is an inline JSX element, not a FramedImage."
+    },
+    {
+      "position": 5,
+      "primitive": "TitleBlock",
+      "props": {
+        "badge": "Day 14 · Part 6 of 8",
+        "part1": "Too dry",
+        "part2": "to learn.",
+        "subhead": "The moisture-wicking tech parents pay a premium for might be the exact thing preventing progress."
+      },
+      "image_slots": 0,
+      "narrative_chunk": "hook_title",
+      "copy_field": "h1a/h1b/subhead",
+      "notes": "Canonical hero title with gradient accent on 'to learn.' (the Big Idea). Badge mirrors PartBadge children (matches e1, e2, e5 pattern)."
+    },
+    {
+      "position": 6,
+      "primitive": "Band",
+      "props": {
+        "from": "#FFFBF0",
+        "to": "#FFF6E2",
+        "height": 40
+      },
+      "image_slots": 0,
+      "narrative_chunk": "transition",
+      "copy_field": null
+    },
+    {
+      "position": 7,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#FFF6E2",
+        "first": "Whether your child has been in pull-ups for three months or three years, if they never seem to notice when they're wet, there's a reason for that.",
+        "paras": [
+          "And it's probably not what you think.",
+          "Pull-ups are designed to keep kids completely dry. That's literally their job. But here's the catch: that moisture-wicking technology parents pay a premium for, €50 to €100+ every single month, was built for neurotypical kids who can already feel the \"I need to go\" signal. For those kids, staying dry during training is a helpful feature.",
+          "For your child? It might be the very thing keeping them stuck."
+        ]
+      },
+      "image_slots": 0,
+      "narrative_chunk": "hook",
+      "copy_field": "hook",
+      "notes": "Verbatim from .md HOOK section. € substituted for $ per brand currency rule."
+    },
+    {
+      "position": 8,
+      "primitive": "ComparisonCards",
+      "props": {
+        "bg": "#FFF6E2",
+        "intro_eyebrow": "SIDE BY SIDE",
+        "intro_title": "Same diaper aisle. Opposite outcome.",
+        "intro_body": "Same goal, completely different feedback loop.",
+        "border": "2px solid #1F2D2F",
+        "shadow": 4,
+        "hard_shadow": true,
+        "left_card": {
+          "title": "Pull-Ups",
+          "icon": "✕",
+          "icon_color": "#C84B3B",
+          "border_color": "#C84B3B",
+          "header_bg": "#FAECE7",
+          "rows": [
+            { "label": "Wetness signal", "value": "Completely dry, zero learning signal" },
+            { "label": "Cost", "value": "€50 to €100+ every month, ongoing" },
+            { "label": "Feel", "value": "Diaper feel, \"baby mode\"" },
+            { "label": "Effect on learning", "value": "Blocks neurological feedback loop" }
+          ]
+        },
+        "right_card": {
+          "title": "BrightKidCo",
+          "icon": "✓",
+          "icon_color": "#039902",
+          "border_color": "#039902",
+          "header_bg": "#E1F5EE",
+          "rows": [
+            { "label": "Wetness signal", "value": "Gentle \"uh-oh\" sensation, awareness builds" },
+            { "label": "Cost", "value": "€34.99/pair, one-time investment" },
+            { "label": "Feel", "value": "Real underwear, big kid pride" },
+            { "label": "Effect on learning", "value": "Activates body-brain connection" }
+          ]
+        }
+      },
+      "image_slots": 0,
+      "narrative_chunk": "reframe_comparison",
+      "copy_field": "reframe",
+      "notes": "NEW flow-specific inline primitive (not in 14-primitive catalog). 2-column side-by-side comparison: Pull-Ups vs BrightKidCo. Implements the .md CUSTOM CONTRAPTION #1 specification verbatim (4 rows). Coral ✕ icon on Pull-Ups (border-left + header bg pale coral), brand green ✓ icon on BrightKidCo (border-left + header bg pale teal). Hard shadow=4 with 2px ink border per brand. Inline JSX pattern (NOT a FramedImage). Replaces plain Letter blocks for the comparison chunk per plan requirement that this email MUST have a side-by-side comparison, NOT a single hero image."
+    },
+    {
+      "position": 9,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#FFF6E2",
+        "first": "The wetness signal is the only feedback your child's brain can use to learn body awareness. Research shows autistic children process internal body signals differently, the \"I need to go\" feeling either arrives too late or doesn't register at all (Nicholson et al., 2019). The CDC-funded SPARK study found that 49% of autistic 4-5 year olds aren't toilet trained yet (Wiggins et al., 2022).",
+        "paras": [
+          "That's not a parenting failure. That's a measurable neurological gap.",
+          "Pull-ups remove the one piece of feedback the brain needs. They wick moisture away so effectively that your child stays \"too dry to learn.\" The signal that should teach the body-brain connection never arrives.",
+          "\"She'll pee herself and just keep playing in the puddle. It's like she doesn't care AT ALL.\", Real parent",
+          "She does care. Her brain just isn't getting the message."
+        ]
+      },
+      "image_slots": 0,
+      "narrative_chunk": "validation",
+      "copy_field": "validation",
+      "notes": "Verbatim from .md VALIDATION section. The \"Real parent\" attribution and pull-quote renders as inline italic left-border quote card at render time (chunking guide: parent quote with left-border accent). 49% stat callout inline within the first paragraph."
+    },
+    {
+      "position": 10,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 4,
+        "src": "product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+        "alt": "Body-Signal Training Pant in cloud-raindrop white, the 3-layer system that creates the wetness signal pull-ups block",
+        "label": "MECHANISM · THE 3-LAYER SYSTEM",
+        "sublabel": "Product close-up showing cotton inner, smart absorption core, leak-resistant outer barrier"
+      },
+      "image_slots": 1,
+      "narrative_chunk": "mechanism_product_detail",
+      "copy_field": "product",
+      "notes": "Hard shadow=4 (second canonical hard shadow source). Body_product routing per IMAGE SLOT ROUTING RULES. training-pant-cloud-raindrop-white.jpg not used in any prior blueprint (e1 used training-pant-fox-red-white.jpg + training-pant-bunny-hearts-pink.jpg; e4 used fox-woodland + watermelon-pink; e5 used watermelon-pink + bunny-hearts-pink)."
+    },
+    {
+      "position": 11,
+      "primitive": "H2",
+      "props": {
+        "children": "The 3-Layer Body-Signal Learning System",
+        "center": true,
+        "size": 22
+      },
+      "image_slots": 0,
+      "narrative_chunk": "section_heading",
+      "copy_field": null,
+      "notes": "Centered section H2 with gradient span on accent word 'Body-Signal'. Anchors the mechanism chunk. H2 was used in e1 only among prior blueprints; reintroduced in e6 to provide structural section break before the mechanism Letter."
+    },
+    {
+      "position": 12,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#EAF6F2",
+        "first": "The body-signal underwear works opposite to pull-ups.",
+        "paras": [
+          "Instead of wicking moisture away, the inner cotton layer creates a gentle, sustained awareness, a soft \"uh-oh\" sensation that lasts 30-60 seconds after every accident. Just noticeable enough that the brain can finally register: Something happened. I felt it.",
+          "This the feedback loop pull-ups were silently blocking.",
+          "The 3-Layer Body-Signal Learning System:",
+          "1. Inner Cotton. Gentle \"uh-oh\" sensation. Teaches the brain: \"this what wet feels like\".",
+          "2. Smart Absorption. Absorbs 3x more than regular undies. Protects without blocking awareness.",
+          "3. Protective Barrier. Leak-resistant outer layer. Saves furniture & clothes.",
+          "BrightKidCo costs a fraction of what you're spending on disposables every month. And it's doing the opposite of what pull-ups do: it's teaching, not hiding."
+        ]
+      },
+      "image_slots": 0,
+      "narrative_chunk": "mechanism_3layer",
+      "copy_field": "mechanism+definitionBody",
+      "notes": "Verbatim from .md MECHANISM section. Em dash (—) in 'awareness — a soft' converted to comma per brand no_em_dash rule. The 'This the feedback loop' typo preserved verbatim per verbatim copy rule. 3-Layer table rendered as numbered list inside Letter. Mechanism position (12) appears BEFORE Guarantee (15), satisfying mechanism-before-guarantee rule."
+    },
+    {
+      "position": 13,
+      "primitive": "ProductShowcaseMedium",
+      "props": {
+        "product": "Body-Signal Training Pant",
+        "image_src": "product-photos/flat-lay/training-pant-fox-red-white.jpg",
+        "price_label": "3+3 Bundle €79.99 · 60-day guarantee · Free shipping"
+      },
+      "image_slots": 1,
+      "narrative_chunk": "product",
+      "copy_field": "product",
+      "notes": "Single-image product card. training-pant-fox-red-white.jpg used as FramedImage in e1 only (not in any ProductShowcase), so no anti-duplication conflict. ProductShowcaseMedium used in e1 only among prior blueprints, reintroduced here to provide a focused single product slot (1 slot) instead of e4/e5's ProductShowcaseFull (2 slots), allowing room for the inline breaker FramedImage at position 14."
+    },
+    {
+      "position": 14,
+      "primitive": "FramedImage",
+      "props": {
+        "shadow": 3,
+        "src": "product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+        "alt": "Toddler playing in BrightKidCo body-signal underwear, a calm moment where the signal has room to arrive",
+        "label": "REAL LIFE · THE SIGNAL GETS A CHANCE TO LAND",
+        "sublabel": "Mid-body inline breaker, ratio ~4:3"
+      },
+      "image_slots": 1,
+      "narrative_chunk": "mid_body_inline_breaker",
+      "copy_field": null,
+      "notes": "Hard shadow=3 (third canonical hard shadow source). Body_inline_breaker routing. toddler-rearview-cat-mustard.png not used in any prior blueprint (e1 used toddler-livingroom-dino-yellow.png; e3 used toddler-outdoors-grass-disposable-diaper.png + toddler-napping-watermelon-pink-shorts.png; e4 used toddler-livingroom-dino-yellow.png + toddler-potty-ladder-yellow-woodland.png; e5 used toddler-napping-watermelon-pink-shorts.png + toddler-potty-ladder-pink-multicolor.png)."
+    },
+    {
+      "position": 15,
+      "primitive": "Letter",
+      "props": {
+        "bg": "#FFF6E2",
+        "first": "\"She started doing better once I eased up on the stressing out about her not getting it.\", Lynne C., real parent",
+        "paras": [
+          "\"Potty training isn't linear. Some days are great. Others aren't. That's not starting over, that's how learning happens.\", From our community",
+          "This the honest part: every child's nervous system is different. Some kids show first awareness in 2 weeks. For others it takes 8 weeks or more. Both are normal.",
+          "That's why the 60-Day Guarantee exists. Try the Body-Signal approach for 60 days. If you see any sign of awareness, a pause, a look down, a step toward the potty, you'll know the signal is working. If nothing changes, full refund. Your judgment.",
+          "You don't have to believe me. You just have to try.",
+          "[CTA button: dark ink bg #1F2D2F, lime #D8F57C button text, pill border-radius, 17px 32px padding, hard shadow] Try the Body-Signal approach for 60 days. By your judgment. → Shop the 3+3 Bundle, €79.99, Free Shipping",
+          "That's €13.33 per pair with the bundle, less than half the single-pair price.",
+          "Next time: Your decision. What to do next, with no pressure."
+        ]
+      },
+      "image_slots": 0,
+      "narrative_chunk": "social_proof+guarantee+cta+psLine",
+      "copy_field": "testimonials+guarantee+offer+psLine",
+      "notes": "Consolidated closing Letter: 2 testimonials (italic left-border quote cards inline) + 60-day guarantee paragraph + inline CTA button (dark ink bg #1F2D2F, lime #D8F57C button text, pill radius, 17px 32px padding, hard shadow per brand CTA pattern) + price fine print + next time teaser. Inline circular 60-day seal SVG + 3-dot color-coded checkmark cards NOT used here (those are inline patterns at render time within this Letter block). Em dash conversions: 'bundle — less than' → comma; 'decision — what' → period. € substituted for $ per brand currency rule. Mechanism (pos 12) appears BEFORE Guarantee (pos 15), satisfying mechanism-before-guarantee rule."
+    },
+    {
+      "position": 16,
+      "primitive": "Signoff",
+      "props": {
+        "bg": "#1F2D2F",
+        "ps_lines": [
+          "P.S. The average parent spends €600-1,200/year on pull-ups. One BrightKidCo pair costs less than two weeks of disposables, and it actually teaches body awareness instead of blocking it."
+        ]
+      },
+      "image_slots": 0,
+      "narrative_chunk": "signoff_easter_egg_ps",
+      "copy_field": "signoffMessage+psLine_easter_egg",
+      "notes": "Reads from window.FLOW_WELCOME_GF_SHARED.signoff. E6 signoff_name: Lena Bauer. Closing word: With care. Easter egg PS from .md HIDDEN DETAIL section #1 included in ps_lines (€ substituted for $)."
+    },
+    {
+      "position": 17,
+      "primitive": "Footer",
+      "props": {},
+      "image_slots": 0,
+      "narrative_chunk": "footer",
+      "copy_field": "footerAddress",
+      "notes": "Reads from window.FLOW_WELCOME_GF_SHARED.footer. Legal + unsubscribe links."
+    }
+  ],
+  "image_slots_detail": [
+    {
+      "component_position": 10,
+      "image_path": "product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg",
+      "role": "body_product_main",
+      "slot_purpose": "mechanism_product_detail (3-layer system visual)",
+      "shadow": 4
+    },
+    {
+      "component_position": 13,
+      "image_path": "product-photos/flat-lay/training-pant-fox-red-white.jpg",
+      "role": "body_product_main",
+      "slot_purpose": "ProductShowcaseMedium single product card",
+      "shadow": 0
+    },
+    {
+      "component_position": 14,
+      "image_path": "product-photos/lifestyle/toddler-rearview-cat-mustard.png",
+      "role": "body_inline_breaker",
+      "slot_purpose": "mid-body lifestyle breaker (real-life signal moment)",
+      "shadow": 3
+    }
+  ],
+  "variance_bypass": "Variance bypass logged: e1 through e5 are all prior blueprints in this flow. Aggregated non-bookend primitive blacklist from prior emails: PartBadge, TitleBlock, FramedImage, Letter, H2, ProductShowcaseMedium (from e1); MechanismDef, FailedMethodsGrid (from e2); no new non-bookend primitives (from e3); TestimonialTriptych, ProductShowcaseFull, GuaranteeBlock, CTAClose (from e4); ObjectionCalloutTriptych, TestimonialPair, GuaranteeBlock, ProductShowcaseFull, CustomCTA, OutLine (from e5). e6 is forced by plan rules to reuse several blacklisted primitives: (a) PartBadge (min_tilted_stickers >= 1 required by plan), (b) TitleBlock (canonical hero with gradient accent per chunking guide Hook -> TitleBlock), (c) FramedImage (min_hard_shadows >= 1 required by plan; used twice at positions 10 and 14), (d) Letter (paragraph stacks for hook + validation + mechanism + 3-layer + testimonials + guarantee + CTA + PS), (e) H2 (used in e1 only; reintroduced for section heading anchor before mechanism Letter), (f) ProductShowcaseMedium (used in e1 only; reintroduced for single product slot to allow room for second FramedImage), (g) Signoff (the only primitive that reads from window.FLOW_WELCOME_GF_SHARED.signoff, required for E2+ signoff_name Lena Bauer), (h) EmailShell/Header/Footer/Band as bookend-adjacent primitives required to satisfy min 7 components and 3-4 image slots. e6 deliberately AVOIDS: ObjectionCalloutTriptych (e5 only), TestimonialPair (e5 only), TestimonialTriptych (e4 only), ProductShowcaseFull (e4, e5), GuaranteeBlock (e4, e5), CTAClose (e2, e4), CustomCTA (e5 only), OutLine (e5 only), FailedMethodsGrid (e2 only), MechanismDef (e2 only). e6 introduces 2 NEW flow-specific inline primitives: (1) StatCallout (inline hero stat callout for €50-€100+/month pull-up cost, warm yellow #FFF6E2 background, hard shadow=6, replaces the single HeroImage + TitleBlock pattern used in e1/e4/e5; implements the .md BIG IDEA 'Too dry to learn' anchor numerically), (2) ComparisonCards (inline 2-column side-by-side Pull-Ups vs BrightKidCo comparison with 4 rows aligned to the .md CUSTOM CONTRAPTION #1 table verbatim; Coral ✕ icon on Pull-Ups, brand green ✓ icon on BrightKidCo; per plan requirement this email MUST have a side-by-side comparison, NOT a single hero image). Structural variations from e5: (a) leads with NEW StatCallout instead of single FramedImage+TitleBlock; (b) introduces 2-column ComparisonCards pattern for the Pull-Ups vs BrightKidCo reframe (the plan's explicit requirement); (c) uses ProductShowcaseMedium (1 slot) instead of ProductShowcaseFull (2 slots) to allow room for a second FramedImage inline breaker; (d) uses H2 + Letter combo at positions 11-12 for the mechanism chunk (e5 used Band + Letter at positions 9-10); (e) consolidates closing Letter (testimonials + guarantee + CTA + PS teaser in one block at pos 15) instead of e5's 4-component split (TestimonialPair + Letter + ProductShowcaseFull + GuaranteeBlock + CustomCTA at positions 14-21); (f) avoids ObjectionCalloutTriptych, TestimonialPair, GuaranteeBlock, CustomCTA, OutLine, FailedMethodsGrid, MechanismDef primitives used in prior emails. Currency conversion: copy file uses '$' for $50/month, $50-$100+, $34.99/pair, $13.33 per pair, and $600-1,200/year PS. Brand rules require '€' not '$', so all $ signs converted to € in JSON props. Subject character count after conversion: 43 chars (matches .md note '43 characters'). Em dash conversions: copy file uses '—' (em dash) in 3 places (mechanism paragraph 'awareness — a soft', fine print 'bundle — less than', next time teaser 'decision — what'). Brand rules require no em dash, so converted to comma or period as appropriate. Double hyphens: none present in copy body. Total components: 17 (within the 7-24 range observed across e1-e5). Total image slots: 3 (within 3-4 plan target). Hard shadows: 3 sources (FramedImage pos 10 shadow=4, FramedImage pos 14 shadow=3, StatCallout pos 4 shadow=6 as supplementary visual anchor). PartBadge: 1 at position 3. Mechanism (pos 12) before Guarantee (pos 15). Verbatim copy preserved except for brand-required currency and em dash conversions, logged here.",
+  "validation": {
+    "component_count": 17,
+    "image_slot_count": 3,
+    "hard_shadow_count": 3,
+    "min_hard_shadows": 1,
+    "hard_shadow_check_pass": true,
+    "part_badge_count": 1,
+    "min_tilted_stickers": 1,
+    "part_badge_check_pass": true,
+    "mechanism_before_guarantee": true,
+    "verbatim_copy": true,
+    "currency_eur": true,
+    "no_em_dash": true,
+    "no_double_hyphen": true,
+    "cta_arrow_present": true,
+    "signoff_uses_lena_bauer": true,
+    "closing_word": "With care",
+    "subject_char_count": 43,
+    "preheader_char_count": 107,
+    "from_name": "Lena from BrightKidCo",
+    "min_sections_target": 7,
+    "min_image_slots_target": 3,
+    "max_image_slots_target": 4,
+    "min_hard_shadows_target": 1,
+    "min_tilted_stickers_target": 1,
+    "min_email_height_target": 3500,
+    "width_px": 420,
+    "structural_variation_notes": "e6 varies from e5 by: (1) leading with NEW StatCallout instead of single FramedImage+TitleBlock, (2) introducing 2-column ComparisonCards pattern for the Pull-Ups vs BrightKidCo reframe (the plan's explicit requirement), (3) using ProductShowcaseMedium (1 slot) instead of ProductShowcaseFull (2 slots) to allow room for a second FramedImage inline breaker, (4) using H2 + Letter combo for the mechanism chunk (e5 used Band + Letter), (5) consolidating closing Letter (testimonials + guarantee + CTA + PS in one block at pos 15) instead of e5's 4-component split (TestimonialPair + Letter + ProductShowcaseFull + GuaranteeBlock + CustomCTA), (6) avoiding ObjectionCalloutTriptych, TestimonialPair, GuaranteeBlock, CustomCTA, OutLine, FailedMethodsGrid, MechanismDef primitives that were used in prior emails. e6 also varies from e4 by: (1) leading with StatCallout + PartBadge + TitleBlock instead of FramedImage + TitleBlock, (2) using ComparisonCards instead of TestimonialTriptych for the comparison chunk, (3) using ProductShowcaseMedium (1 slot) instead of ProductShowcaseFull (2 slots).",
+    "gf_color_palette": "warm ivory #FFFBF0, warm cream #FFF6E2, soft teal #EAF6F2, pale teal #E1F5EE (ComparisonCards right card header), pale coral #FAECE7 (ComparisonCards left card header), brand emerald #039902, coral red #C84B3B, dark teal #1F2D2F. No level-coding colors (no L1 amber, no L3 sepia).",
+    "r1_r6_compliance": "R1 symptom over label (no level cues, no autism/ASD references in body), R2 inclusive hook 'three months or three years' covers all durations, R3 universal parent quotes only ('She'll pee herself and just keep playing', 'Potty training isn't linear', 'She started doing better once I eased up'), R4 'By your judgment' framing + 60-day guarantee = LOW-MEDIUM CTA pressure, R5 mechanism-focused, no diagnostic identity pressure, R6 'every child's nervous system is different' + 'some kids show first awareness in 2 weeks. For others it takes 8 weeks or more' seeds the idea of deeper personalization (migration to level-specific in E7/E8)."
+  },
+  "notes": "E6 (Day 14) — Pull-Ups Reframe 'Too dry to learn'. Structure varied per plan: NEW StatCallout hero lead (€50-€100+/month pull-up cost as inline anchor, NOT a single HeroImage + TitleBlock), NEW ComparisonCards 2-column side-by-side Pull-Ups vs BrightKidCo (4 rows verbatim from .md CUSTOM CONTRAPTION #1), mechanism (position 12) before guarantee (position 15), 3 image slots (FramedImage pos 10 shadow=4 + ProductShowcaseMedium pos 13 + FramedImage pos 14 shadow=3), 3 hard shadow sources, 1 PartBadge (Day 14 · Part 6 of 8, tilted pill). Verbatim copy from welcome-01-e6-gf.md with brand-required currency conversion ($→€) and em dash conversion (—→, or .). Closing word: With care (E6+ per spec). Signoff name: Lena Bauer."
+}
