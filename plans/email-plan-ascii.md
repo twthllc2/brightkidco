@@ -368,21 +368,85 @@ The LLM outputs one JSON object per email. No prose, no markdown fences.
 }
 ```
 
-**Validation script (run after LLM emits, before saving):**
-- [ ] Valid JSON, parses
-- [ ] `email_id` matches the active file handle
-- [ ] 7 ≤ `len(components)` ≤ 12
-- [ ] 3 ≤ `total_image_slots` ≤ 4
-- [ ] Sum of `image_slots` == `total_image_slots`
-- [ ] At least one `FramedImage` with `props.shadow >= 3`
-- [ ] At least one `PartBadge` (typically inside `TitleBlock`)
-- [ ] No em dash (`—`) in any `props.*` string
-- [ ] No `--` in any `props.*` string
-- [ ] No `$` in any `props.*` string
-- [ ] Every `props.bg` is in the approved palette or `transparent`
-- [ ] Signoff/closing-word rules satisfied
+**Validation script (run after LLM emits, before saving) — STRICT CAPS, ALL MUST PASS:**
 
-If any check fails: regenerate once with the error message. If second attempt fails, mark `failed` in `progress.json` and continue to next email.
+```yaml
+# Hard structural caps (HARD FAIL on any violation)
+component_count: 9 <= N <= 12              # was 7-12, too loose. Real email = 9-12 primitives.
+image_slot_count: 3 <= N <= 4
+hard_shadow_count: >= 1                    # FramedImage with shadow in {3, 4, 6}
+part_badge_count: exactly 1                # was >= 1, allowing 2-3 dupes. Exactly 1.
+
+# Per-role caps (one primitive per role, no duplicates)
+per_role_caps:
+  EmailShell: exactly 1
+  Header: exactly 1
+  Footer: exactly 1                        # MANDATORY — every email ends with Footer
+  OutLine: exactly 0 or 1
+  Signoff: exactly 1
+  TitleBlock: exactly 0 or 1
+  PartBadge: exactly 0 or 1                # (PartBadge is INSIDE TitleBlock; count = 1)
+  Band: any                                # gradient transitions are fine in quantity
+  FramedImage: <= 2                        # one hero, one inline breaker max
+  ImgFrame: exactly 0 or 1
+  Eyebrow: exactly 1
+  H2: exactly 1
+  Letter: <= 2                             # was unbounded, now capped
+  ProductShowcaseFull: exactly 0 or 1
+  ProductShowcaseMedium: exactly 0 or 1
+  ProductShowcaseSoft: exactly 0 or 1
+  CTAClose: 0                              # BANNED — hardcodes href="#". Use inline CTA.
+  inline_cta: exactly 1                    # the CTA must be a built inline button with real href
+
+# Custom inline components (counted as "extended primitives")
+inline_components:
+  GuaranteeSeal: exactly 0 or 1            # 200x200 circular SVG
+  TestimonialCard: <= 4                    # for the testimonial section
+  RecapCard: exactly 0 or 4                # only in E8 (4-card recap grid)
+  ObjectionCallout: exactly 0 or 3          # only in E5 (3 objection callouts)
+  ComparisonCards: exactly 0 or 1          # only in E6 (pull-ups vs BKC)
+  LayerRow: exactly 0 or 3                 # only in E7 (3-layer mechanism)
+  StatCallout: exactly 0 or 1              # only in E3 (49% SPARK stat)
+  MigrationAnchorCard: exactly 0 or 1      # only in E8 (quiz link)
+
+# Word count caps (rendered text only, not markup)
+rendered_word_count: 200 <= N <= 500
+
+# Required structural sequence
+# Every email MUST end with this exact 3-element sequence:
+end_sequence:
+  - Signoff
+  - OutLine  (optional but recommended)
+  - Footer   (MANDATORY — every email)
+
+# Image quality
+image_paths: all unique, all exist on disk
+real_image_ratio: >= 50%  # at least 2 of 3-4 slots must be real <img> (not ImgFrame placeholder)
+
+# Copy rules
+no_em_dash_in_strings: true
+no_double_hyphen_in_strings: true
+no_dollar_in_strings: true
+euro_in_all_prices: true
+cta_ends_with_arrow: true
+
+# Signoff rules (derived from position)
+signoff:
+  E1: "BKC team"
+  E2-E8: "Lena Bauer"
+closing_word:
+  E1-E2: "Talk soon"
+  E3-E5: "With understanding"
+  E6-E8: "With care"
+
+# Variance blacklist (no duplicate primitive roles from previous email in same build_unit)
+variance_blacklist: true
+
+# Inline CTA must have real href (not "#")
+cta_href_starts_with_http: true
+```
+
+If ANY check fails: regenerate once with the error message. If second attempt fails, mark `failed` in `progress.json` and continue to next email.
 
 **Save location:** `outputs/email-design/blueprints/<build_unit>/<email_id>_blueprint.json`
 
@@ -594,15 +658,34 @@ ReactDOM.createRoot(document.getElementById("root")).render(<App />);
 
 **Save location:** `raw/BKCO - EMAIL MARKETING/welcome-gf-flow/app.jsx`
 
-### 4.5 — Cross-File Sanity Check
+### 4.5 — Cross-File + Structural Sanity Check (HARD FAIL on violation)
 
+**Cross-file checks:**
 - [ ] Every `c.something` reference in `emails.jsx` corresponds to a field in `content.js`
 - [ ] Every `image_path` in `emails.jsx` matches a path filled in the blueprint
 - [ ] Number of `Email<N>` consts == number of `<DCArtboard>` tags
 - [ ] No `TODO`, `FIXME`, or placeholder strings
 - [ ] No references to components that don't exist
 
-If any check fails: regenerate once. If still failing, mark `failed`, continue.
+**Structural checks (NEW — derived from v2 issues):**
+- [ ] **EXACTLY 1 `<Footer />` per email** — every email MUST end with `<Signoff /><OutLine /><Footer />` in that order
+- [ ] **EXACTLY 1 `<Signoff />` per email**
+- [ ] **EXACTLY 0 `<CTAClose />` per email** — banned because it hardcodes `href="#"`
+- [ ] **EXACTLY 1 inline CTA** per email — must include `href="https://www.brightkidco.com/...` (real link, not `#`)
+- [ ] **EXACTLY 1 PartBadge** per email (typically inside TitleBlock, count once)
+- [ ] **EXACTLY 0-1 TitleBlock** per email
+- [ ] **<= 2 FramedImage** per email (one hero + one inline breaker max)
+- [ ] **<= 2 Letter** per email (was unbounded, LLM was dumping 5-6 Letters = 5+ paragraphs of copy)
+- [ ] **EXACTLY 0-1 H2** per email (was up to 3 dupes)
+- [ ] **EXACTLY 1 Eyebrow** per email (was up to 3 dupes)
+- [ ] **Total components: 9 ≤ N ≤ 12** (was 7-12, too loose)
+- [ ] **Total rendered words: 200 ≤ N ≤ 500** (was unbounded; emails were 600-1100 words)
+- [ ] **At least 2 of 3-4 image slots are real `<img>` (not ImgFrame placeholder)** — 50% real-image ratio
+- [ ] **No em dash, no `--`, no `$` in any string literal in `emails.jsx` or `content.js`**
+- [ ] **No duplicate `<PartBadge>` instances**
+- [ ] **No `import` statements, no `export default`, no `<></> Fragments**
+
+If any check fails: regenerate once. If still failing, mark `failed`, continue. **Do NOT bundle or ship an email that fails any of these checks.**
 
 ### 4.6 — Build the `Local.html` Loader
 
