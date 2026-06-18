@@ -1,298 +1,238 @@
 #!/usr/bin/env python3
 """
-BKCO Standalone Bundler v2
-Takes a BKCO environment HTML file and produces a self-contained standalone HTML.
+bundle_standalone.py — Inline all external scripts and images from a Local.html
+loader into a single self-contained HTML file.
 
 Usage:
-    python3 bundle_standalone.py <input.html> [output.html]
+    python3 bundle_standalone.py <input.html> <output.html>
 
-Key fix from v1: replaces ALL asset paths (including images in script content)
-with UUIDs BEFORE encoding, so the bootstrap's UUID->blobURL replacement works.
+What it does:
+1. Reads the input Local.html
+2. Finds every <script src="..."> tag and inlines the file content
+3. Finds every <img src="..."> tag and inlines the image as a data: URI base64
+4. Writes the result to the output path
+5. Logs the file size and the number of inlined assets
+
+CDN scripts (https://unpkg.com, etc.) are NOT inlined — they stay as
+external <script src="https://..."> references in the output, so the
+bundled HTML can use cached CDN content.
 """
 
 import sys
 import os
-import json
-import base64
-import gzip
-import uuid
 import re
+import base64
+import mimetypes
 from pathlib import Path
-
-MIME_MAP = {
-    '.js': 'application/javascript',
-    '.jsx': 'text/jsx',
-    '.css': 'text/css',
-    '.png': 'image/png',
-    '.jpg': 'image/jpeg',
-    '.jpeg': 'image/jpeg',
-    '.gif': 'image/gif',
-    '.svg': 'image/svg+xml',
-    '.woff': 'font/woff',
-    '.woff2': 'font/woff2',
-    '.ttf': 'font/ttf',
-    '.html': 'text/html',
-}
-TEXT_EXTENSIONS = {'.js', '.jsx', '.css', '.html', '.svg', '.json'}
+from urllib.parse import urlparse
 
 
-def get_mime(filepath):
-    ext = Path(filepath).suffix.lower()
-    return MIME_MAP.get(ext, 'application/octet-stream')
+def resolve_path(base_dir: Path, src: str) -> Path:
+    """Resolve a relative src against the base directory of the HTML file."""
+    if src.startswith(("http://", "https://", "data:")):
+        return None  # external or already inlined
+    # Strip any leading slash (treat as relative to base)
+    return (base_dir / src).resolve()
 
 
-def is_text_asset(filepath):
-    return Path(filepath).suffix.lower() in TEXT_EXTENSIONS
-
-
-def read_existing_standalone_bootstrap():
-    standalone_path = Path(__file__).parent.parent / 'raw' / 'Welcome Flows - 10 Emails _standalone_.html'
-    if not standalone_path.exists():
+def read_file_safely(path: Path) -> str | None:
+    """Read a file as text. Return None if it doesn't exist or can't be read."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return f.read()
+    except (FileNotFoundError, UnicodeDecodeError, PermissionError) as e:
+        print(f"  WARN: could not read {path}: {e}")
         return None
-    content = standalone_path.read_text(encoding='utf-8')
-    match = re.search(
-        r"(document\.addEventListener\('DOMContentLoaded'.*?</script>)",
-        content, re.DOTALL
-    )
-    return match.group(1) if match else None
 
 
-def find_asset_path(src_path, html_dir):
-    if src_path.startswith('http://') or src_path.startswith('https://'):
+def encode_image_as_data_uri(path: Path) -> str | None:
+    """Read an image file and return a data: URI string."""
+    try:
+        with open(path, "rb") as f:
+            data = f.read()
+    except (FileNotFoundError, PermissionError) as e:
+        print(f"  WARN: could not read image {path}: {e}")
         return None
-    resolved = (html_dir / src_path).resolve()
-    if resolved.exists():
-        return resolved
-    resolved = (html_dir / '..' / src_path).resolve()
-    if resolved.exists():
-        return resolved
-    return None
+
+    mime, _ = mimetypes.guess_type(str(path))
+    if mime is None:
+        # Default to png if we can't guess
+        ext = path.suffix.lower().lstrip(".")
+        mime = {"png": "image/png", "jpg": "image/jpeg", "jpeg": "image/jpeg",
+                "gif": "image/gif", "svg": "image/svg+xml", "webp": "image/webp"}.get(ext, "application/octet-stream")
+
+    b64 = base64.b64encode(data).decode("ascii")
+    return f"data:{mime};base64,{b64}"
 
 
-def build_bundle(html_path):
-    html_path = Path(html_path).resolve()
-    html_dir = html_path.parent
-    html_content = html_path.read_text(encoding='utf-8')
+def bundle(input_path: str, output_path: str) -> dict:
+    """Bundle the input HTML into a self-contained output HTML.
 
-    assets = {}        # uuid -> {content_bytes, mime}
-    path_to_uuid = {}  # relative_path -> uuid
+    Returns a stats dict with: inlined_scripts, inlined_images, output_size, etc.
 
-    # ── Step 1: Find ALL references ──────────────────────────
-    # From HTML
-    script_srcs = re.findall(r'<script[^>]*\ssrc=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
-    link_hrefs = re.findall(r'<link[^>]*\shref=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
-    css_urls = re.findall(r'url\(["\']?([^"\')\s]+)["\']?\)', html_content, re.IGNORECASE)
-    img_srcs = re.findall(r'<img[^>]*\ssrc=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
+    Path rewriting:
+    When a script from path X is inlined, any relative path inside that
+    script (like '../assets/logo.png') is relative to X. After inlining,
+    the script lives in output_path, so relative paths break. We rewrite
+    known patterns (../assets/) to point to the original location of the
+    source script.
+    """
+    input_p = Path(input_path).resolve()
+    output_p = Path(output_path).resolve()
+    base_dir = input_p.parent
 
-    # Collect all non-CDN, non-data references
-    all_refs = set()
-    for ref in script_srcs + link_hrefs + img_srcs:
-        if not ref.startswith('http') and not ref.startswith('data:'):
-            all_refs.add(ref)
-    for ref in css_urls:
-        if not ref.startswith('http') and not ref.startswith('data:'):
-            all_refs.add(ref)
+    if not input_p.exists():
+        raise FileNotFoundError(f"Input HTML not found: {input_p}")
 
-    # ── Step 2: Resolve and read all referenced files ────────
-    # Read script content as text (for later path replacement)
-    script_texts = {}  # src -> text content
-    for src in script_srcs:
-        if src.startswith('http'):
-            continue
-        resolved = find_asset_path(src, html_dir)
-        if resolved:
-            try:
-                script_texts[src] = resolved.read_text(encoding='utf-8')
-                all_refs.add(src)
-            except:
-                pass
+    print(f"Reading:  {input_p}")
+    html = input_p.read_text(encoding="utf-8")
+    print(f"  size:   {len(html):,} bytes")
 
-    # ── Step 3: Scan script content for MORE references ──────
-    # Image paths, other file references inside JSX/JS
-    for src, text in script_texts.items():
-        # Find image file references
-        img_refs = re.findall(r'["\']([^"\']*\.(?:jpg|jpeg|png|gif|svg))["\']', text, re.IGNORECASE)
-        for ref in img_refs:
-            if not ref.startswith('http') and not ref.startswith('data:'):
-                all_refs.add(ref)
-        # Find other script references
-        js_refs = re.findall(r'["\']([^"\']*\.(?:js|jsx|css))["\']', text, re.IGNORECASE)
-        for ref in js_refs:
-            if not ref.startswith('http') and not ref.startswith('data:'):
-                all_refs.add(ref)
-
-    # ── Step 4: Assign UUIDs to all references ───────────────
-    for ref in all_refs:
-        if ref in path_to_uuid:
-            continue
-        resolved = find_asset_path(ref, html_dir)
-        if resolved:
-            path_to_uuid[ref] = str(uuid.uuid4())
-
-    # ── Step 5: Replace paths in script content with UUIDs ───
-    # This MUST happen before encoding
-    for src, text in script_texts.items():
-        for path, uid in path_to_uuid.items():
-            text = text.replace(f'"{path}"', f'"{uid}"')
-            text = text.replace(f"'{path}'", f"'{uid}'")
-        script_texts[src] = text
-
-    # ── Step 6: Replace paths in HTML template with UUIDs ────
-    template = html_content
-    for path, uid in path_to_uuid.items():
-        template = template.replace(f'"{path}"', f'"{uid}"')
-        template = template.replace(f"'{path}'", f"'{uid}'")
-
-    # Strip Google Fonts link tags
-    template = re.sub(r'<link[^>]*fonts\.googleapis\.com[^>]*/?\s*>', '', template)
-    template = re.sub(r'<link[^>]*fonts\.gstatic\.com[^>]*/?\s*>', '', template)
-    # Strip integrity/crossorigin
-    template = re.sub(r'\s+integrity="[^"]*"', '', template)
-    template = re.sub(r'\s+crossorigin="[^"]*"', '', template)
-
-    # ── Step 7: Encode all assets ────────────────────────────
-    for path, uid in path_to_uuid.items():
-        resolved = find_asset_path(path, html_dir)
-        if not resolved:
-            continue
-        mime = get_mime(resolved)
-
-        # For scripts that we already read as text (with paths replaced)
-        if path in script_texts:
-            raw = script_texts[path].encode('utf-8')
-            compressed = gzip.compress(raw)
-            assets[uid] = {
-                'mime': mime,
-                'compressed': True,
-                'data': base64.b64encode(compressed).decode('ascii'),
-            }
-            print(f"  Script: {path} -> {uid[:8]}... ({mime})")
-        elif is_text_asset(resolved):
-            raw = resolved.read_bytes()
-            compressed = gzip.compress(raw)
-            assets[uid] = {
-                'mime': mime,
-                'compressed': True,
-                'data': base64.b64encode(compressed).decode('ascii'),
-            }
-            print(f"  Text: {path} -> {uid[:8]}... ({mime})")
-        else:
-            raw = resolved.read_bytes()
-            assets[uid] = {
-                'mime': mime,
-                'compressed': False,
-                'data': base64.b64encode(raw).decode('ascii'),
-            }
-            print(f"  Binary: {path} -> {uid[:8]}... ({mime})")
-
-    # ── Step 8: Build ext_resources (logo + product photos) ──
-    ext_resources = []
-    # Photo name mapping for __resources (flat-lay JPGs + lifestyle PNGs)
-    photo_names = {
-        # Flat-lay JPGs (11)
-        'training-pant-fox-red-white.jpg': 'photo-fox-red',
-        'training-pant-cloud-raindrop-white.jpg': 'photo-cloud-white',
-        'training-pant-penguin-multicolor.jpg': 'photo-penguin',
-        'training-pant-bunny-hearts-pink.jpg': 'photo-bunny-pink',
-        'training-pant-watermelon-pink.jpg': 'photo-watermelon',
-        'training-pant-fox-woodland-white.jpg': 'photo-fox-woodland',
-        'swim-diaper-whale-ocean-blue.jpg': 'photo-whale',
-        'swim-diaper-giraffe-yellow.jpg': 'photo-giraffe',
-        'swim-diaper-unicorn-pink.jpg': 'photo-unicorn',
-        'pocket-diaper-moon-cloud-blue.jpg': 'photo-moon-cloud',
-        'diaper-woodland-creature-yellow.jpg': 'photo-woodland',
-        # Logo
-        'brightkidco-logo-v2.png': 'logoV2',
-        # Lifestyle PNGs (8 working, 3 excluded per plan)
-        'toddler-livingroom-dino-yellow.png': 'photo-toddler-livingroom',
-        'toddler-napping-watermelon-pink-shorts.png': 'photo-toddler-napping',
-        'toddler-backpack-moon-cloud-blue.png': 'photo-toddler-backpack',
-        'toddler-potty-ladder-yellow-woodland.png': 'photo-toddler-potty-woodland',
-        'toddler-rearview-cat-mustard.png': 'photo-toddler-rearview',
-        'founders-holding-pants-yellow-watermelon.png': 'photo-founders',
-        'toddler-playing-train-moon-cloud-blue.png': 'photo-toddler-playing',
-        'toddler-potty-ladder-pink-multicolor.png': 'photo-toddler-potty-pink',
-        'washing-machine-training-pants.png': 'photo-washing',
+    stats = {
+        "inlined_scripts": 0,
+        "inlined_images": 0,
+        "external_scripts": 0,
+        "external_images": 0,
+        "path_rewrites": 0,
+        "failed_assets": [],
     }
-    for path, uid in path_to_uuid.items():
-        basename = os.path.basename(path)
-        if basename in photo_names:
-            ext_resources.append({'id': photo_names[basename], 'uuid': uid})
 
-    # ── Step 9: Build output ─────────────────────────────────
-    manifest_json = json.dumps(assets, separators=(',', ':'))
-    ext_resources_json = json.dumps(ext_resources, separators=(',', ':'))
-    template_json = json.dumps(template, ensure_ascii=False)
-    # Escape </script> in template JSON
-    template_json = template_json.replace('</', r'<\/')
+    def rewrite_relative_paths(content: str, source_file: Path) -> str:
+        """Rewrite ../assets/ paths in the inlined script to be relative to
+        the OUTPUT HTML file (since after inlining, the script lives there).
 
-    bootstrap = read_existing_standalone_bootstrap()
-    if not bootstrap:
-        bootstrap = "// Bootstrap script not found"
+        The original script is at source_file. It uses paths like
+        '../assets/foo.png' which were relative to its own dir. After we
+        move it to output_p, those paths need to point to where the assets
+        actually live.
 
-    output = f'''<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>BrightKidCo Email Design — Standalone</title>
-  <style>
-    * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-    body {{ background: #EEE8DC; display: flex; align-items: center; justify-content: center; min-height: 100vh; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }}
-    #__bundler_loading {{ position: fixed; bottom: 20px; right: 20px; font: 13px/1.4 -apple-system, BlinkMacSystemFont, sans-serif; color: #666; background: #fff; padding: 8px 14px; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.12); z-index: 10000; }}
-  </style>
-  <noscript>
-    <style>#__bundler_loading {{ display: none; }}</style>
-  </noscript>
-</head>
-<body>
-  <div id="__bundler_loading">Unpacking...</div>
+        We compute: output_p_dir -> source_file_dir = N levels up
+        Then: 'assets/foo.png' (from source_file_dir) becomes:
+              '..' * N + 'assets/foo.png' (from output_p_dir)
+        But we also need to know WHERE the assets folder is. The simplest
+        is to preserve the source_file's location by computing a path from
+        output_p back to the assets folder.
+        """
+        nonlocal stats
+        # Find the assets dir relative to source_file
+        # source_file is like raw/BKCO - EMAIL MARKETING/welcome-flow/primitives.jsx
+        # Assets is at raw/BKCO - EMAIL MARKETING/assets/
+        # The pattern '../assets/' in source means: go up from source's dir
+        # (welcome-flow/) to BKCO - EMAIL MARKETING/, then into assets/
+        # So: source.parent / "../assets/" resolves to source.parent.parent / "assets"
 
-  <script>
-{bootstrap}
-  </script>
+        source_dir = source_file.parent
+        # The asset location, as a real path on disk
+        asset_real = (source_dir / "../assets").resolve()
 
-  <script type="__bundler/manifest">
-{manifest_json}
-  </script>
+        # Now compute the relative path from output_p's dir to asset_real
+        try:
+            assets_rel_to_output = os.path.relpath(asset_real, output_p.parent)
+        except ValueError:
+            return content  # different drive on Windows, give up
 
-  <script type="__bundler/ext_resources">
-{ext_resources_json}
-  </script>
+        # Replace '../assets/' with the computed relative path
+        new_content, n = re.subn(
+            r'\.\./assets/',
+            assets_rel_to_output.replace("\\", "/") + "/",
+            content
+        )
+        if n > 0:
+            stats["path_rewrites"] += n
+        return new_content
 
-  <script type="__bundler/template">
-{template_json}
-  </script>
-</body>
-</html>'''
+    def replace_script_tag(match):
+        full_tag = match.group(0)
+        attrs = match.group(1)
+        src_match = re.search(r'src=["\']([^"\']+)["\']', attrs)
+        if not src_match:
+            return full_tag
+        src = src_match.group(1)
+        if src.startswith(("http://", "https://")):
+            stats["external_scripts"] += 1
+            return full_tag
+        local_path = resolve_path(base_dir, src)
+        if local_path is None:
+            return full_tag
+        content = read_file_safely(local_path)
+        if content is None:
+            stats["failed_assets"].append(str(local_path))
+            return full_tag
+        type_match = re.search(r'type=["\']([^"\']+)["\']', attrs)
+        type_attr = f' type="{type_match.group(1)}"' if type_match else ""
 
-    return output
+        # Rewrite relative paths in the inlined script
+        content = rewrite_relative_paths(content, local_path)
+
+        stats["inlined_scripts"] += 1
+        print(f"  script: {src}  →  {local_path.name} ({len(content):,} bytes)")
+        return f"<script{type_attr}>\n// === {local_path.name} ===\n{content}\n</script>"
+
+    html = re.sub(r'<script\b([^>]*?)></script>', replace_script_tag, html)
+
+    def replace_img_tag(match):
+        full_tag = match.group(0)
+        attrs = match.group(1)
+        src_match = re.search(r'src=["\']([^"\']+)["\']', attrs)
+        if not src_match:
+            return full_tag
+        src = src_match.group(1)
+        if src.startswith(("http://", "https://", "data:")):
+            if not src.startswith("data:"):
+                stats["external_images"] += 1
+            return full_tag
+        local_path = resolve_path(base_dir, src)
+        if local_path is None:
+            return full_tag
+        data_uri = encode_image_as_data_uri(local_path)
+        if data_uri is None:
+            stats["failed_assets"].append(str(local_path))
+            return full_tag
+        stats["inlined_images"] += 1
+        new_attrs = re.sub(r'src=["\'][^"\']+["\']', f'src="{data_uri}"', attrs)
+        print(f"  image:  {src}  →  {local_path.name} (inlined, {len(data_uri):,} chars)")
+        return f"<img{new_attrs} />"
+
+    html = re.sub(r'<img\b([^>]*?)/?>', replace_img_tag, html)
+
+    output_p.parent.mkdir(parents=True, exist_ok=True)
+    output_p.write_text(html, encoding="utf-8")
+
+    stats["output_size"] = len(html)
+    stats["output_path"] = str(output_p)
+
+    print(f"\nOutput:  {output_p}")
+    print(f"  size:   {len(html):,} bytes ({len(html) / 1024 / 1024:.1f} MB)")
+    print(f"  scripts inlined:    {stats['inlined_scripts']}")
+    print(f"  external scripts:   {stats['external_scripts']}")
+    print(f"  images inlined:     {stats['inlined_images']}")
+    print(f"  external images:    {stats['external_images']}")
+    print(f"  path rewrites:      {stats['path_rewrites']}")
+    if stats["failed_assets"]:
+        print(f"  failed assets:      {len(stats['failed_assets'])}")
+        for f in stats["failed_assets"]:
+            print(f"    - {f}")
+
+    return stats
 
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python3 bundle_standalone.py <input.html> [output.html]")
+    if len(sys.argv) != 3:
+        print("Usage: python3 bundle_standalone.py <input.html> <output.html>")
         sys.exit(1)
 
-    input_path = Path(sys.argv[1]).resolve()
-    if not input_path.exists():
-        print(f"Error: {input_path} does not exist")
+    input_path = sys.argv[1]
+    output_path = sys.argv[2]
+
+    try:
+        stats = bundle(input_path, output_path)
+        sys.exit(0)
+    except Exception as e:
+        print(f"ERROR: {e}")
+        import traceback
+        traceback.print_exc()
         sys.exit(1)
 
-    if len(sys.argv) >= 3:
-        output_path = Path(sys.argv[2]).resolve()
-    else:
-        output_path = input_path.parent / f"{input_path.stem} _standalone_.html"
 
-    print(f"Bundling: {input_path}")
-    print(f"Output:   {output_path}")
-    print()
-
-    result = build_bundle(input_path)
-    output_path.write_text(result, encoding='utf-8')
-
-    size_kb = output_path.stat().st_size / 1024
-    print(f"\nDone: {output_path} ({size_kb:.0f} KB)")
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

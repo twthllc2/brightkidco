@@ -1,0 +1,870 @@
+{
+  "build_units": {
+    "pp-leveldetect-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "01",
+      "flow_key": "PP_LEVELDETECT",
+      "email_count": 1,
+      "copy_files": [
+        "pp-leveldetect-01-e1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "welcome-gf-flow": {
+      "status": "completed",
+      "variant": "gf",
+      "flow_id": "01",
+      "flow_key": "WELCOME_GF",
+      "email_count": 8,
+      "copy_files": [
+        "welcome-01-e1-gf.md",
+        "welcome-01-e2-gf.md",
+        "welcome-01-e3-gf.md",
+        "welcome-01-e4-gf.md",
+        "welcome-01-e5-gf.md",
+        "welcome-01-e6-gf.md",
+        "welcome-01-e7-gf.md",
+        "welcome-01-e8-gf.md"
+      ],
+      "history": [
+        {
+          "email_id": "welcome-01-e1-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "FramedImage",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "Letter",
+            "Letter",
+            "Letter",
+            "Letter",
+            "Band",
+            "GuaranteeSeal",
+            "GuaranteePoints",
+            "Band",
+            "ProductShowcaseFull",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        },
+        {
+          "email_id": "welcome-01-e2-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "FramedImage",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "Letter",
+            "Letter",
+            "Band",
+            "H2",
+            "Letter",
+            "Band",
+            "H2",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        },
+        {
+          "email_id": "welcome-01-e3-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "StatCallout",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "H2",
+            "Band",
+            "ProductShowcaseFull",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        },
+        {
+          "email_id": "welcome-01-e4-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "H2",
+            "Band",
+            "ProductShowcaseFull",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        },
+        {
+          "email_id": "welcome-01-e5-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "H2",
+            "Band",
+            "ProductShowcaseFull",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        },
+        {
+          "email_id": "welcome-01-e6-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "H2",
+            "Band",
+            "ProductShowcaseFull",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        },
+        {
+          "email_id": "welcome-01-e7-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "LayerRow",
+            "Band",
+            "Letter",
+            "Band",
+            "Letter",
+            "Band",
+            "ProductShowcaseFull",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        },
+        {
+          "email_id": "welcome-01-e8-gf",
+          "components": [
+            "EmailShell",
+            "Header",
+            "TitleBlock",
+            "Band",
+            "Letter",
+            "Band",
+            "RecapCard",
+            "Band",
+            "Band",
+            "CustomCTA",
+            "Signoff",
+            "OutLine",
+            "Footer"
+          ]
+        }
+      ],
+      "started_at": "2026-06-18T01:30:51.996888Z",
+      "completed_at": "2026-06-18T01:45:01.226182Z",
+      "shipped_to": "ayoub@100.76.121.113:/home/ayoub/Documents/Welcome GF _standalone_.html",
+      "error": null
+    },
+    "welcome-l1-flow": {
+      "status": "pending",
+      "variant": "l1",
+      "flow_id": "01",
+      "flow_key": "WELCOME_L1",
+      "email_count": 8,
+      "copy_files": [
+        "welcome-01-e1-l1.md",
+        "welcome-01-e2-l1.md",
+        "welcome-01-e3-l1.md",
+        "welcome-01-e4-l1.md",
+        "welcome-01-e5-l1.md",
+        "welcome-01-e6-l1.md",
+        "welcome-01-e7-l1.md",
+        "welcome-01-e8-l1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "welcome-l2-flow": {
+      "status": "pending",
+      "variant": "l2",
+      "flow_id": "01",
+      "flow_key": "WELCOME_L2",
+      "email_count": 8,
+      "copy_files": [
+        "welcome-01-e1-l2.md",
+        "welcome-01-e2-l2.md",
+        "welcome-01-e3-l2.md",
+        "welcome-01-e4-l2.md",
+        "welcome-01-e5-l2.md",
+        "welcome-01-e6-l2.md",
+        "welcome-01-e7-l2.md",
+        "welcome-01-e8-l2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "welcome-l3-flow": {
+      "status": "pending",
+      "variant": "l3",
+      "flow_id": "01",
+      "flow_key": "WELCOME_L3",
+      "email_count": 8,
+      "copy_files": [
+        "welcome-01-e1-l3.md",
+        "welcome-01-e2-l3.md",
+        "welcome-01-e3-l3.md",
+        "welcome-01-e4-l3.md",
+        "welcome-01-e5-l3.md",
+        "welcome-01-e6-l3.md",
+        "welcome-01-e7-l3.md",
+        "welcome-01-e8-l3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "cart-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "02",
+      "flow_key": "CART",
+      "email_count": 3,
+      "copy_files": [
+        "cart-02-e1.md",
+        "cart-02-e2.md",
+        "cart-02-e3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "checkout-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "03",
+      "flow_key": "CHECKOUT",
+      "email_count": 2,
+      "copy_files": [
+        "checkout-03-e1.md",
+        "checkout-03-e2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "browse-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "04",
+      "flow_key": "BROWSE",
+      "email_count": 3,
+      "copy_files": [
+        "browse-04-e1.md",
+        "browse-04-e2.md",
+        "browse-04-e3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "order-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "05",
+      "flow_key": "ORDER",
+      "email_count": 1,
+      "copy_files": [
+        "order-05-e1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "shipping-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "06",
+      "flow_key": "SHIPPING",
+      "email_count": 1,
+      "copy_files": [
+        "shipping-06.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "ofd-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "07",
+      "flow_key": "OFD",
+      "email_count": 1,
+      "copy_files": [
+        "ofd-07-e1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "arrived-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "08",
+      "flow_key": "ARRIVED",
+      "email_count": 1,
+      "copy_files": [
+        "arrived-08.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "upsell-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "09",
+      "flow_key": "UPSELL",
+      "email_count": 2,
+      "copy_files": [
+        "upsell-09-e1.md",
+        "upsell-09-e2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "detection-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "10",
+      "flow_key": "DETECTION",
+      "email_count": 1,
+      "copy_files": [
+        "detection-10.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "pped-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "11",
+      "flow_key": "PPED",
+      "email_count": 4,
+      "copy_files": [
+        "pped-11-d0.md",
+        "pped-11-d14.md",
+        "pped-11-d21.md",
+        "pped-11-d7.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "ppupsell-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "12",
+      "flow_key": "PPUPSELL",
+      "email_count": 3,
+      "copy_files": [
+        "ppupsell-12-e1.md",
+        "ppupsell-12-e2.md",
+        "ppupsell-12-e3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "mid-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "13",
+      "flow_key": "MID",
+      "email_count": 3,
+      "copy_files": [
+        "mid-13-d30.md",
+        "mid-13-d45.md",
+        "mid-13-d60.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "mary-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "14",
+      "flow_key": "MARY",
+      "email_count": 1,
+      "copy_files": [
+        "mary-14-e1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "repa-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "15",
+      "flow_key": "REPA",
+      "email_count": 3,
+      "copy_files": [
+        "repa-15-e1.md",
+        "repa-15-e2.md",
+        "repa-15-e3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "repb-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "16",
+      "flow_key": "REPB",
+      "email_count": 2,
+      "copy_files": [
+        "repb-16-e1.md",
+        "repb-16-e2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "repc-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "17",
+      "flow_key": "REPC",
+      "email_count": 2,
+      "copy_files": [
+        "repc-17-e1.md",
+        "repc-17-e2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "review-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "18",
+      "flow_key": "REVIEW",
+      "email_count": 2,
+      "copy_files": [
+        "review-18-e1.md",
+        "review-18-e2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-a-gf-flow": {
+      "status": "pending",
+      "variant": "gf",
+      "flow_id": "19",
+      "flow_key": "WINBACK_A_GF",
+      "email_count": 3,
+      "copy_files": [
+        "winback-a-19-e1-gf.md",
+        "winback-a-19-e2-gf.md",
+        "winback-a-19-e3-gf.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-a-l1-flow": {
+      "status": "pending",
+      "variant": "l1",
+      "flow_id": "19",
+      "flow_key": "WINBACK_A_L1",
+      "email_count": 3,
+      "copy_files": [
+        "winback-a-19-e1-l1.md",
+        "winback-a-19-e2-l1.md",
+        "winback-a-19-e3-l1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-a-l2-flow": {
+      "status": "pending",
+      "variant": "l2",
+      "flow_id": "19",
+      "flow_key": "WINBACK_A_L2",
+      "email_count": 3,
+      "copy_files": [
+        "winback-a-19-e1-l2.md",
+        "winback-a-19-e2-l2.md",
+        "winback-a-19-e3-l2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-a-l3-flow": {
+      "status": "pending",
+      "variant": "l3",
+      "flow_id": "19",
+      "flow_key": "WINBACK_A_L3",
+      "email_count": 3,
+      "copy_files": [
+        "winback-a-19-e1-l3.md",
+        "winback-a-19-e2-l3.md",
+        "winback-a-19-e3-l3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "site-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "20",
+      "flow_key": "SITE",
+      "email_count": 1,
+      "copy_files": [
+        "site-20-e1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "faq-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "21",
+      "flow_key": "FAQ",
+      "email_count": 6,
+      "copy_files": [
+        "faq-21-e1.md",
+        "faq-21-e2.md",
+        "faq-21-e3.md",
+        "faq-21-e4.md",
+        "faq-21-e5.md",
+        "faq-21-e6.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "pped-gf-flow": {
+      "status": "pending",
+      "variant": "gf",
+      "flow_id": "22",
+      "flow_key": "PPED_GF",
+      "email_count": 5,
+      "copy_files": [
+        "pped-22-e1-gf.md",
+        "pped-22-e2-gf.md",
+        "pped-22-e3-gf.md",
+        "pped-22-e4-gf.md",
+        "pped-22-e5-gf.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "pped-l1-flow": {
+      "status": "pending",
+      "variant": "l1",
+      "flow_id": "22",
+      "flow_key": "PPED_L1",
+      "email_count": 5,
+      "copy_files": [
+        "pped-22-e1-l1.md",
+        "pped-22-e2-l1.md",
+        "pped-22-e3-l1.md",
+        "pped-22-e4-l1.md",
+        "pped-22-e5-l1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "pped-l2-flow": {
+      "status": "pending",
+      "variant": "l2",
+      "flow_id": "22",
+      "flow_key": "PPED_L2",
+      "email_count": 5,
+      "copy_files": [
+        "pped-22-e1-l2.md",
+        "pped-22-e2-l2.md",
+        "pped-22-e3-l2.md",
+        "pped-22-e4-l2.md",
+        "pped-22-e5-l2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "pped-l3-flow": {
+      "status": "pending",
+      "variant": "l3",
+      "flow_id": "22",
+      "flow_key": "PPED_L3",
+      "email_count": 5,
+      "copy_files": [
+        "pped-22-e1-l3.md",
+        "pped-22-e2-l3.md",
+        "pped-22-e3-l3.md",
+        "pped-22-e4-l3.md",
+        "pped-22-e5-l3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "atrisk-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "23",
+      "flow_key": "ATRISK",
+      "email_count": 4,
+      "copy_files": [
+        "atrisk-23-e1.md",
+        "atrisk-23-e2.md",
+        "atrisk-23-e3.md",
+        "atrisk-23-e4.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-b-gf-flow": {
+      "status": "pending",
+      "variant": "gf",
+      "flow_id": "24",
+      "flow_key": "WINBACK_B_GF",
+      "email_count": 3,
+      "copy_files": [
+        "winback-b-24-e1-gf.md",
+        "winback-b-24-e2-gf.md",
+        "winback-b-24-e3-gf.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-b-l1-flow": {
+      "status": "pending",
+      "variant": "l1",
+      "flow_id": "24",
+      "flow_key": "WINBACK_B_L1",
+      "email_count": 3,
+      "copy_files": [
+        "winback-b-24-e1-l1.md",
+        "winback-b-24-e2-l1.md",
+        "winback-b-24-e3-l1.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-b-l2-flow": {
+      "status": "pending",
+      "variant": "l2",
+      "flow_id": "24",
+      "flow_key": "WINBACK_B_L2",
+      "email_count": 3,
+      "copy_files": [
+        "winback-b-24-e1-l2.md",
+        "winback-b-24-e2-l2.md",
+        "winback-b-24-e3-l2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "winback-b-l3-flow": {
+      "status": "pending",
+      "variant": "l3",
+      "flow_id": "24",
+      "flow_key": "WINBACK_B_L3",
+      "email_count": 3,
+      "copy_files": [
+        "winback-b-24-e1-l3.md",
+        "winback-b-24-e2-l3.md",
+        "winback-b-24-e3-l3.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    },
+    "sunset-flow": {
+      "status": "pending",
+      "variant": null,
+      "flow_id": "25",
+      "flow_key": "SUNSET",
+      "email_count": 2,
+      "copy_files": [
+        "sunset-25-e1.md",
+        "sunset-25-e2.md"
+      ],
+      "history": [],
+      "started_at": null,
+      "completed_at": null,
+      "shipped_to": null,
+      "error": null
+    }
+  },
+  "summary": {
+    "total": 38,
+    "completed": 1,
+    "failed": 0,
+    "in_progress": 0,
+    "pending": 37,
+    "current_unit": null,
+    "last_updated": "2026-06-18T01:45:01.226210Z"
+  },
+  "history": []
+}
