@@ -204,6 +204,62 @@ The first flow to build = **welcome-gf-flow** (8 emails, the highest-value, anch
 
 ## Phase 2 — The Architect: Component Selection (per email, per build unit)
 
+### 2.0 — The Ecommerce Email Structure (HARD RULE)
+
+Every email MUST follow this skeleton. **Header, Hero, and Footer are FIXED — same position in every email, same primitive.** The middle is a CHOICE from the menu below.
+
+```
+┌─────────────────────────────────────┐
+│  HEADER            ← FIXED (always)  │  one primitive: <Header bg="..." />
+├─────────────────────────────────────┤
+│  HERO              ← FIXED (always)  │  one of: TitleBlock | FramedImage | Letter | 3-card triptych
+├─────────────────────────────────────┤
+│  MIDDLE BODY       ← CHOICE (2-5 blocks from the menu below)
+│   - Bridge (validation, story)       │
+│   - Copy chunk (mechanism, education)│
+│   - Testimonial card                 │
+│   - Guarantee seal + points          │
+│   - ProductShowcase (Full/Med/Soft)   │
+│   - Inline image breaker             │
+│   - LayerRow explainer (E7 only)     │
+│   - ComparisonCards (E6 only)        │
+│   - ObjectionCalloutTriptych (E5)    │
+│   - RecapCard (E8 only)              │
+│   - MigrationAnchorCard (E8 only)    │
+│   - StatCallout (E3 only)            │
+├─────────────────────────────────────┤
+│  INLINE CTA        ← exactly 1       │  built inline, real href, ends with →
+├─────────────────────────────────────┤
+│  FOOTER            ← FIXED (always)  │  one primitive: <Footer /> (always the last element)
+└─────────────────────────────────────┘
+```
+
+**HARD RULES (validator hard-fails on any violation):**
+- HEADER and FOOTER appear in every email, in the same position (first and last).
+- HERO is the first content section after the header. It can be a TitleBlock, a FramedImage hero, a 3-card triptych, or a Letter. Pick ONE.
+- INLINE CTA is exactly 1, sits BEFORE the signoff, and uses a real href (not `#`).
+- The MIDDLE BODY has 2-5 sections chosen from the menu above. NOT 8. NOT 12. **2-5.**
+- Total components: 9-12 (8 fixed + 2-5 chosen + CTA + Signoff + OutLine + Footer = 9-12)
+- Signoff + OutLine + Footer = the closing 3 (in that order, every email).
+- Variance across the flow: each email's MIDDLE BODY should pick a DIFFERENT combination. E1 might lead with Bridge → Testimonial → Guarantee → Product. E3 might lead with StatCallout → 3-card triptych → Mechanism → CTA. **No two emails in the same build_unit should have identical middle-body selection.**
+
+**Choices in the middle (LLM picks 2-5 from this menu):**
+
+| Choice | When to use | Component |
+|---|---|---|
+| Bridge | Empathy, validation, story | `<Letter bg="..." first="..." paras={...} />` |
+| Copy chunk | Mechanism, education, science | `<Letter bg="..." paras={...} />` |
+| Inline image | Visual break, product hero, lifestyle moment | `<FramedImage src="..." alt="..." shadow={4} />` |
+| Testimonial | Parent voice, social proof | inline `<TestimonialCard>` (1-3 cards) |
+| Guarantee | Risk reversal, 60-day promise | inline `<GuaranteeSeal>` + `<GuaranteePoints>` |
+| Product showcase | The buy moment | `<ProductShowcaseFull>` or `<Medium>` |
+| StatCallout | Single hard number as anchor | inline `<StatCallout number="..." label="..." />` (E3 only) |
+| ComparisonCards | Side-by-side pull-ups vs BKC | inline `<ComparisonCards>` (E6 only) |
+| ObjectionCallout | 3 Q&A objection handling | inline `<ObjectionCalloutTriptych>` (E5 only) |
+| LayerRow | 3-layer mechanism explainer | inline 3× `<LayerRow>` (E7 only) |
+| RecapCard | 4-card recap of journey | inline 4× `<RecapCard>` (E8 only) |
+| MigrationAnchor | Quiz link to deeper level | inline `<MigrationAnchorCard>` (E8 only) |
+
 **For each of the 8 emails in welcome-gf-flow, run one LLM call. So 8 calls per build unit.**
 
 ### 2.1 — Context Ingestion (per email)
@@ -422,6 +478,15 @@ end_sequence:
 # Image quality
 image_paths: all unique, all exist on disk
 real_image_ratio: >= 50%  # at least 2 of 3-4 slots must be real <img> (not ImgFrame placeholder)
+
+# Ecommerce email structure (Section 2.0 — hard rule)
+ecomm_structure:
+  header_first: true                    # <Header /> is the first primitive inside <EmailShell>
+  footer_last: true                     # <Footer /> is the LAST primitive
+  exactly_one_inline_cta: true          # not <CTAClose />, not zero
+  middle_body_count: 2 <= N <= 5       # not 8, not 12 — pick 2-5 from the menu
+  signoff_outline_footer_order: true   # Signoff, OutLine, Footer in that order
+  closing_count: 3                      # exactly 3 (Signoff + OutLine + Footer)
 
 # Copy rules
 no_em_dash_in_strings: true
