@@ -1,7 +1,74 @@
 # BKC Email Build Plan — 125 Emails across 35 Flows
 
-> **Status:** Active. Replaces the over-engineered `email-design-plan.md` (kept as historical reference).
+> **Status:** Active. Replaces the over-engineered `email-design-plan.md` (kept as historical reference, archived as `email-design-plan-archive.md`).
 > **Scope:** Produce standalone `.html` files for BrightKidCo, scp to cachy. One flow at a time. No batching.
+
+---
+
+## SESSION BOOTSTRAP — Read This First in a New Session
+
+If you are a new session with no conversation context, do this in order:
+
+1. **Read `/root/projects/brightkidco/plans/email-plan-ascii.md` end-to-end.** This is the canonical plan. Do NOT re-derive anything. Do NOT make changes without checking this file first.
+2. **Read `/root/projects/brightkidco/outputs/email-design/progress.json`.** This is the live state of all 35 build units. It tells you what's done, what's pending, and what failed.
+3. **Read `/root/projects/brightkidco/outputs/email-design/build_manifest.json`.** This is the queue — 38 build units ordered by `flow_id`, each pointing to its copy files.
+4. **Read `/root/projects/brightkidco/outputs/email-design/build_prompts.py`.** This is the canonical prompt template for sub-agents. Use this exact prompt when dispatching new sub-agents.
+5. **Check the git log** of `/root/projects/brightkidco` for the latest commits — the commit messages describe the most recent state of the build.
+
+### Current State (as of last session)
+
+- **Phase 0 DONE**: 5 shared files frozen, `build_manifest.json` built (38 build units, 125 copy files), `bundle_standalone.py` built, `progress.json` initialized, smoke test PASSED.
+- **Phase 1 in progress**: `welcome-gf-flow` built TWICE. v1 (manually built, monolithic Letter blocks) was rejected for component-reuse. v2 (sub-agent-built from blueprints) shipped but has issues: 3 emails with no real `<img>` photos, all CTAs use broken `CTAClose` primitive (hardcodes `href="#"`), some emails exceed 500-word cap, some duplicate H2/Eyebrow/PartBadge instances. **v2 is still on cachy for review but will need a v3 rebuild with the new hard rules.**
+- **Phase 2-5**: Not started for the other 37 build units.
+
+### The Plan in 60 Seconds
+
+For each of the 35 build units (1 per `.md` copy file cluster):
+
+1. **Manifest**: `build_manifest.json` lists the build unit ID, the variant (`gf`, `l1`, `l2`, `l3`, or `null`), the source copy dir, the list of copy files, the email count, and the `flow_key` (used as the `window.FLOW_<KEY>` namespace).
+2. **Variant rule** (CRITICAL): `gf` / `l1` / `l2` / `l3` suffixes on filenames mean DIFFERENT FLOWS, not variants of the same email. Each variant is its own build unit with its own folder, content.js, emails.jsx, app.jsx, and standalone HTML.
+3. **One flow at a time**: pick the next pending build unit from the manifest, mark it `in_progress` in `progress.json`, build it, bundle, render-check, scp, **STOP and wait for Ayoub's review**. After approval, mark `completed` and pick the next.
+4. **Each build_unit produces 4 files in `raw/BKCO - EMAIL MARKETING/<unit>-flow/`**: `content.js` (copy data), `emails.jsx` (React components), `app.jsx` (canvas entry), `<Flow> Local.html` (loader). Plus a bundled `raw/<Flow> _standalone_.html`.
+5. **Sub-agents for parallelism**: dispatch up to 5 sub-agents in parallel, one per email, using `build_prompts.py` as the prompt template. Each sub-agent produces a JSON blueprint. Then dispatch up to 5 more sub-agents to transform blueprints into content.js + emails.jsx pairs. Then assemble the final 4 files, bundle, render-check, ship.
+
+### Build Cadence (per build unit)
+
+- Read 1+ copy files
+- Sub-agents produce 1 JSON blueprint per email (Phase 2)
+- Sub-agents produce 1 content.js + 1 emails.jsx per email (Phase 4)
+- Assemble the 4 final files (content.js = concat of all eN-content.js, emails.jsx = concat of all eN-emails.jsx + Object.assign at end, app.jsx = standard 8 artboards, Local.html = standard loader)
+- Bundle with `tools/bundle_standalone.py`
+- Render-check with `tools/render_check.py` (headless chromium, expects `expected_artboards` artboards)
+- scp to `ayoub@100.76.121.113:/home/ayoub/Documents/`
+- Telegram: ONE message at start, ONE at end, no mid-execution check-ins
+- WAIT for Ayoub's review before starting the next build unit
+
+### What to Do on Resume
+
+When Ayoub says "build the next flow" or "continue":
+
+1. Read `progress.json` → find first `status: "pending"` build unit in `build_manifest.json` order
+2. Mark it `in_progress`
+3. Run the build cadence above
+4. **DO NOT** ask Ayoub clarifying questions. The plan, manifest, and progress.json are the source of truth. Make decisions based on the plan.
+5. If the build fails, see the "Failure Modes" section in Phase 5 below.
+
+### What to Do If Ayoub Reports an Issue
+
+1. Read Ayoub's feedback
+2. Map the feedback to a specific rule in this plan
+3. Diagnose which layer is at fault: prompt (build_prompts.py), validator (Phase 4.5 sanity check), primitive (welcome-flow/primitives.jsx), bundler (tools/bundle_standalone.py), or content (copy files)
+4. Fix the right layer — don't patch the symptom
+5. Rebuild the affected build unit only
+6. Re-ship, re-review
+
+### What NOT to Do
+
+- Do NOT modify `welcome-flow/primitives.jsx`, `welcome-flow/product-showcase.jsx`, `welcome-flow/design-canvas.jsx`, `autistic-welcome/variants/tokens.js`, `autistic-welcome/variants/illustrations.jsx` (the 5 frozen shared files). If a primitive needs a new prop, build a wrapper inline in `emails.jsx` instead.
+- Do NOT batch multiple build units into one scp. One flow at a time.
+- Do NOT rewrite the copy. The .md files are the source of truth for copy. Read them, chunk them, but never paraphrase.
+- Do NOT skip the render check. Every build unit gets a chromium render check before scp.
+- Do NOT add the CTAClose primitive (it hardcodes `href="#"`). Build the CTA inline with a real `href`.
 
 ---
 

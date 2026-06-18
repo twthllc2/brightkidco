@@ -1,7 +1,9 @@
 # BKC Email Build Plan — 125 Emails across 35 Flows
 
-> **Status:** Active. Replaces the over-engineered `email-design-plan.md` (kept as historical reference).
+> **Status:** Active. Replaces the over-engineered `email-design-plan.md` (kept as historical reference, archived as `email-design-plan-archive.md`).
 > **Scope:** Produce standalone `.html` files for BrightKidCo, scp to cachy. One flow at a time. No batching.
+>
+> **⚠️ NEW SESSION?** Read `/root/projects/brightkidco/plans/email-plan-ascii.md` first. It has the **SESSION BOOTSTRAP** section at the top (current state, build cadence, what to do on resume) plus the full plan with the ecom email structure (Section 2.0), hard validation rules (Phase 4.5), and the brand compliance breakdown. This file (`email-build-plan.md`) is the shorter structured version without the ASCII breakdown.
 
 ---
 
