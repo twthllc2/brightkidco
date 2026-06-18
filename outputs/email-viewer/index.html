@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BKC Email Viewer</title>
+    <script>
+      // Catch ANY error during page load and show it inline, not in console
+      window.__bootErrors = [];
+      window.addEventListener('error', (e) => {
+        const msg = `ERROR: ${e.message} at ${e.filename}:${e.lineno}:${e.colno}\n${e.error?.stack || ''}`;
+        window.__bootErrors.push(msg);
+        const el = document.getElementById('boot-errors');
+        if (el) {
+          el.textContent = window.__bootErrors.join('\n\n---\n\n');
+          el.style.display = 'block';
+        }
+      });
+      window.addEventListener('unhandledrejection', (e) => {
+        const msg = `PROMISE REJECTION: ${e.reason?.message || e.reason}\n${e.reason?.stack || ''}`;
+        window.__bootErrors.push(msg);
+        const el = document.getElementById('boot-errors');
+        if (el) {
+          el.textContent = window.__bootErrors.join('\n\n---\n\n');
+          el.style.display = 'block';
+        }
+      });
+    </script>
+    <style>
+      #boot-errors {
+        display: none;
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: #1a0000;
+        color: #ff8888;
+        font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+        font-size: 12px;
+        padding: 20px;
+        overflow: auto;
+        white-space: pre-wrap;
+        z-index: 99999;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <pre id="boot-errors"></pre>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
