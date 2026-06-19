@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test2</title></head>
+<body>
+<div id="root"></div>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script>
+var B = { teal: "#2BAEB4", ink: "#1F2D2F", soft: "#4A6568", gradient: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)" };
+var CartE1 = function() {
+  return React.createElement("div", { style: { width: 420, background: "#FBF7F1" } },
+    React.createElement("h1", null, "Cart E1 Test"),
+    React.createElement("p", null, "This is a test of the CartE1 component structure.")
+  );
+};
+ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(CartE1));
+</script>
+</body>
+</html>

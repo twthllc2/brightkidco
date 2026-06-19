@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test3</title></head>
+<body>
+<div id="root"></div>
+<div id="err" style="color:red;padding:20px"></div>
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script>
+window.onerror = function(msg, url, line, col, error) {
+  document.getElementById("err").textContent = "Error: " + msg + " at line " + line;
+};
+</script>
+<script src="http://localhost:8888/cart-e1.transpiled.js"></script>
+<script>
+try {
+  var root = document.getElementById("root");
+  var el = React.createElement(CartE1);
+  ReactDOM.createRoot(root).render(el);
+  document.getElementById("err").textContent = "Rendered OK, root length: " + root.innerHTML.length;
+} catch(e) {
+  document.getElementById("err").textContent = "Render error: " + e.message;
+}
+</script>
+</body>
+</html>

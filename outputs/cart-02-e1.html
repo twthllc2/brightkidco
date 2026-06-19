@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="x-apple-disable-message-reformatting">
+<meta name="color-scheme" content="light">
+<meta name="supported-color-schemes" content="light">
+<title>BrightKidCo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Questrial&display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; padding: 0; width: 100% !important; height: 100% !important; min-width: 100%; background-color: #FBF7F1; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+  table { border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; }
+  td { font-family: 'Questrial', system-ui, sans-serif; color: #1F2D2F; }
+  img { display: block; border: 0; outline: none; line-height: 0; max-width: 100%; height: auto; }
+  a img { border: 0; outline: none; }
+  .preheader { display: none !important; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0; max-height: 0; max-width: 0; overflow: hidden; mso-hide: all; font-size: 1px; line-height: 1px; }
+  @media screen and (max-width: 420px) {
+    .bk-email { width: 100% !important; max-width: 100% !important; }
+    .bk-section { padding-left: 18px !important; padding-right: 18px !important; }
+    .bk-cta-btn { display: block !important; width: 100% !important; text-align: center !important; }
+  }
+  @media screen and (min-width: 601px) {
+    .bk-email { width: 420px !important; }
+  }
+</style>
+</head>
+<body style="margin:0;padding:0;width:100% !important;height:100% !important;min-width:100%;background-color:#FBF7F1;">
+
+<!--[if (gte mso 9)|(IE)]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#FBF7F1;"><tr><td align="center" style="padding:0;">
+<table role="presentation" width="420" align="center" style="width:420px;" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding:0;">
+<![endif]-->
+
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#FBF7F1;">
+  <tr>
+    <td align="center" style="padding:0;background-color:#FBF7F1;">
+      <div class="bk-email" style="max-width:420px;width:100%;margin:0 auto;background-color:#FBF7F1;font-family:'Questrial',system-ui,sans-serif;color:#1F2D2F;">
+        <div class="preheader" style="display:none !important;visibility:hidden;opacity:0;color:transparent;height:0;width:0;max-height:0;max-width:0;overflow:hidden;mso-hide:all;font-size:1px;line-height:1px;">Your cart’s still here. So is the 60-day guarantee. Whenever you’re ready.</div>
+        <div id="root"></div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!--[if (gte mso 9)|(IE)]>
+</td></tr></table>
+</td></tr></table>
+<![endif]-->
+
+<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script>
+
+(() => {
+  window.BRAND = {
+    teal: "#2BAEB4",
+    tealDeep: "#1E8A8F",
+    green: "#5DD07A",
+    greenDeep: "#3BB35E",
+    ink: "#1F2D2F",
+    soft: "#4A6568",
+    muted: "#8A9B9D",
+    cream: "#FBF7F1",
+    paper: "#FFFFFF",
+    gradient: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+    gradientText: {
+      background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      WebkitBackgroundClip: "text",
+      WebkitTextFillColor: "transparent",
+      backgroundClip: "text",
+      color: "transparent"
+    }
+  };
+  window.FONT = {
+    main: "'Questrial', system-ui, sans-serif",
+    display: "'Fraunces', Georgia, serif"
+  };
+  window.FLOW1_SHARED = {
+    signoff: {
+      line1: "Talk soon,",
+      name: "Lena Bauer",
+      ps: "P.S. If you want to see how the body-signal approach works, check our method page. No pressure."
+    },
+    out: "Reply to this email. Lena reads every response.",
+    footer: {
+      tagline: "Calm progress, one day at a time.",
+      links: ["Our Method", "Shop the Pants", "Parent Stories"],
+      address: "BrightKidCo Ltd / Berlin, Germany / hello@brightkidco.com"
+    }
+  };
+  var MW = 420;
+  var B = window.BRAND;
+  var F = window.FONT;
+  var Band = function(props) {
+    var height = props.height || 40;
+    return React.createElement("div", {
+      style: { height, background: "linear-gradient(180deg, " + props.from + " 0%, " + props.to + " 100%)" }
+    });
+  };
+  var Header = function(props) {
+    return React.createElement(
+      "div",
+      {
+        style: { background: props.bg, padding: "24px 20px 0", textAlign: "center" }
+      },
+      React.createElement("img", { src: "data:image/svg+xml," + encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="140" height="34"><text x="70" y="24" text-anchor="middle" font-family="Questrial,sans-serif" font-size="18" font-weight="700" fill="#1F2D2F">BrightKidCo</text></svg>'), alt: "BrightKidCo", style: { height: 34 } })
+    );
+  };
+  var PartBadge = function(props) {
+    return React.createElement("div", {
+      style: {
+        display: "inline-block",
+        background: "#FFD866",
+        padding: "7px 14px",
+        borderRadius: 999,
+        fontSize: 10.5,
+        fontWeight: 700,
+        letterSpacing: 1.5,
+        textTransform: "uppercase",
+        marginBottom: 16,
+        border: "2px solid " + B.ink,
+        transform: "rotate(-1.5deg)",
+        whiteSpace: "nowrap",
+        lineHeight: 1.4
+      }
+    }, props.children);
+  };
+  var TitleBlock = function(props) {
+    return React.createElement(
+      "div",
+      { style: { padding: "34px 22px 0", textAlign: "center" } },
+      React.createElement(PartBadge, null, props.badge),
+      React.createElement(
+        "h1",
+        { style: { fontSize: 40, lineHeight: 1, fontWeight: 700, margin: 0, letterSpacing: -0.8 } },
+        props.part1,
+        React.createElement("br"),
+        props.accent2 !== false ? React.createElement("span", { style: { background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text", color: "transparent", fontWeight: 700 } }, props.part2) : props.part2
+      ),
+      props.subhead ? React.createElement("p", { style: { fontSize: 17, color: B.soft, marginTop: 14, lineHeight: 1.4, fontWeight: 500 } }, props.subhead) : null
+    );
+  };
+  var Letter = function(props) {
+    var paras = props.paras || [];
+    return React.createElement(
+      "div",
+      { style: { background: props.bg, padding: "4px 24px 28px", fontSize: 15, lineHeight: 1.7, color: B.soft } },
+      props.first ? React.createElement("p", { style: { margin: "0 0 14px", fontSize: 17, color: B.ink, fontWeight: 600 } }, props.first) : null,
+      paras.map(function(p, i) {
+        return React.createElement("p", { key: i, style: { margin: i === paras.length - 1 ? 0 : "0 0 14px" } }, p);
+      })
+    );
+  };
+  var Eyebrow = function(props) {
+    return React.createElement("div", { style: { fontSize: 10.5, letterSpacing: 2, textTransform: "uppercase", color: props.color || B.tealDeep, fontWeight: 700, marginBottom: 10 } }, props.children);
+  };
+  var H2 = function(props) {
+    return React.createElement("h2", { style: { fontSize: props.size || 28, lineHeight: 1.15, fontWeight: 700, margin: "0 0 16px", letterSpacing: -0.4, textAlign: props.center ? "center" : "left" } }, props.children);
+  };
+  var CTAClose = function(props) {
+    var bg = props.bg || B.ink;
+    return React.createElement(
+      "div",
+      { style: { background: bg, padding: "20px 22px 44px", textAlign: "center", color: "#FFF" } },
+      React.createElement("p", { style: { fontSize: 14, lineHeight: 1.6, color: "#B8CACD", margin: "0 0 24px" } }, props.intro),
+      React.createElement("a", { href: "#", style: { display: "inline-block", padding: "17px 32px", background: "#D8F57C", color: B.ink, fontSize: 15.5, fontWeight: 700, textDecoration: "none", borderRadius: 999, letterSpacing: 0.3 } }, props.button + " \u2192"),
+      props.fine ? React.createElement("div", { style: { marginTop: 16, fontSize: 11.5, color: "#8A9B9D" } }, props.fine) : null
+    );
+  };
+  var Signoff = function(props) {
+    var s = window.FLOW1_SHARED.signoff;
+    return React.createElement(
+      "div",
+      { style: { background: props.bg || B.ink, padding: "0 22px 36px" } },
+      React.createElement(
+        "div",
+        { style: { position: "relative", background: "#1F2A2C", border: "1.5px solid #2F3D40", borderRadius: 22, padding: "26px 24px 24px", overflow: "hidden" } },
+        React.createElement("div", { style: { position: "absolute", top: 0, left: 0, right: 0, height: 4, background: B.gradient, opacity: 0.9 } }),
+        React.createElement(
+          "div",
+          { style: { display: "flex", alignItems: "center", gap: 14, marginBottom: 18 } },
+          React.createElement(
+            "div",
+            { style: { width: 58, height: 58, flexShrink: 0, borderRadius: "50%", background: "linear-gradient(135deg, #FFD866 0%, " + B.teal + " 100%)", padding: 2.5 } },
+            React.createElement(
+              "div",
+              { style: { width: "100%", height: "100%", borderRadius: "50%", background: "#FFFDF6", display: "flex", alignItems: "center", justifyContent: "center", overflow: "hidden", border: "1.5px solid " + B.ink } },
+              React.createElement(
+                "svg",
+                { width: 58, height: 58, viewBox: "0 0 58 58" },
+                React.createElement("rect", { width: 58, height: 58, fill: "#F5E8D0" }),
+                React.createElement("circle", { cx: 29, cy: 22, r: 10, fill: "#D4A574" }),
+                React.createElement("path", { d: "M10,58 C10,42 18,34 29,34 C40,34 48,42 48,58 Z", fill: "#C98C6B" })
+              )
+            )
+          ),
+          React.createElement(
+            "div",
+            { style: { flex: 1, minWidth: 0 } },
+            React.createElement("div", { style: { fontSize: 10.5, letterSpacing: 1.6, textTransform: "uppercase", color: "#8FAFB2", fontWeight: 700, marginBottom: 2 } }, "A note from"),
+            React.createElement("div", { style: { fontSize: 17, fontWeight: 700, color: "#FFFFFF", lineHeight: 1.2 } }, s.name),
+            React.createElement("div", { style: { fontSize: 12, color: "#8FAFB2", marginTop: 2, fontStyle: "italic" } }, "Customer Support / Mom of two autistic sons")
+          )
+        ),
+        React.createElement(
+          "div",
+          { style: { display: "flex", alignItems: "center", gap: 14, paddingTop: 16, paddingBottom: 16, borderTop: "1.5px dashed #3A4547", borderBottom: "1.5px dashed #3A4547", marginBottom: 16 } },
+          React.createElement(
+            "div",
+            { style: { flex: 1 } },
+            React.createElement("div", { style: { fontSize: 12.5, color: "#B8CACD", marginBottom: 2 } }, s.line1),
+            React.createElement("div", { style: { fontFamily: "'Caveat', cursive", fontSize: 42, lineHeight: 0.95, fontWeight: 500, color: "#D8F57C", letterSpacing: -0.5, marginTop: 2 } }, "Lena")
+          ),
+          React.createElement(
+            "svg",
+            { width: 54, height: 40, viewBox: "0 0 54 40", style: { flexShrink: 0, opacity: 0.55 } },
+            React.createElement("path", { d: "M2,20 C8,10 16,28 24,18 C30,10 38,26 48,14 L52,10", stroke: "#D8F57C", strokeWidth: 1.5, fill: "none", strokeLinecap: "round" }),
+            React.createElement("path", { d: "M48,12 L52,10 L50,14", stroke: "#D8F57C", strokeWidth: 1.5, fill: "none", strokeLinecap: "round", strokeLinejoin: "round" })
+          )
+        ),
+        React.createElement(
+          "div",
+          { style: { fontSize: 13, lineHeight: 1.65, color: "#B8CACD", fontStyle: "italic" } },
+          React.createElement("span", { style: { color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 } }, "P.S."),
+          s.ps.replace(/^P\.S\.\s*/, "")
+        )
+      )
+    );
+  };
+  var OutLine = function(props) {
+    return React.createElement(
+      "div",
+      { style: { background: props.bg || "#FFFFFF", padding: "18px 24px 0", textAlign: "center", fontSize: 12.5, color: B.muted, fontStyle: "italic" } },
+      window.FLOW1_SHARED.out
+    );
+  };
+  var Footer = function() {
+    var f = window.FLOW1_SHARED.footer;
+    return React.createElement(
+      "div",
+      { style: { background: "#FFFFFF", padding: "30px 24px 30px", textAlign: "center" } },
+      React.createElement("div", { style: { fontFamily: F.display, fontSize: 20, fontStyle: "italic", fontWeight: 500, color: B.ink, marginBottom: 30, letterSpacing: -0.2 } }, f.tagline),
+      f.links.map(function(l, i) {
+        return React.createElement(
+          "div",
+          { key: i, style: { fontSize: 14, color: B.ink, fontWeight: 500, marginBottom: 14 } },
+          React.createElement("a", { href: "#", style: { color: B.ink, textDecoration: "none" } }, l)
+        );
+      }),
+      React.createElement(
+        "div",
+        { style: { fontSize: 11.5, color: B.muted, lineHeight: 1.65, margin: "0 auto", maxWidth: 340 } },
+        "No longer want to receive these emails? ",
+        React.createElement("a", { href: "#", style: { color: B.ink, textDecoration: "underline" } }, "Unsubscribe"),
+        ". ",
+        React.createElement("br"),
+        React.createElement("span", { style: { fontSize: 11 } }, f.address)
+      ),
+      React.createElement("div", { style: { margin: "28px auto 0", width: 60, height: 3, background: B.gradient, borderRadius: 3 } })
+    );
+  };
+  var EmailShell = function(props) {
+    return React.createElement(
+      "div",
+      { style: { width: MW, background: props.bg, fontFamily: F.main, color: B.ink } },
+      React.createElement("div", { style: { padding: "6px 20px", fontSize: 11, color: B.muted, background: "#F6F2EA", textAlign: "center", fontStyle: "italic" } }, props.preheader),
+      props.children
+    );
+  };
+  var IMG_HERO = "email-assets/product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png";
+  var IMG_PROD1 = "email-assets/product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg";
+  var IMG_PROD2 = "email-assets/product-photos/flat-lay/training-pant-fox-woodland-white.jpg";
+  var IMG_PROD3 = "email-assets/product-photos/flat-lay/training-pant-penguin-multicolor.jpg";
+  var emailData = {
+    preheader: "Your cart\u2019s still here. So is the 60-day guarantee. Whenever you\u2019re ready.",
+    heroBadge: "Your cart\u2019s still here",
+    h1a: "You left something,",
+    h1b: "no rush.",
+    hook: "Whether you had one foot on the checkout button or you were still reading, if your child doesn\u2019t seem to feel when they need to go, you were looking in the right place. Your cart\u2019s still saved, no rush. The more useful thing in this email might be the explanation for why nothing\u2019s quite worked yet.",
+    validation: 'You\u2019ve probably seen some version of this: your child sits on the toilet for 20 minutes, nothing happens, and then they\u2019re wet 30 seconds after standing up. Or they play right through a wet diaper without reacting. Or they\u2019ve been "almost trained" three times now. Or they don\u2019t initiate, ever. If even one of those sounds like your morning, you\u2019re not alone. And that pattern isn\u2019t about effort. It\u2019s about a signal your child\u2019s nervous system may not be receiving in time.',
+    mechanism: 'Here\u2019s what most parents never get told: the "I need to go" message travels from the bladder to the brain along a neurological pathway called interoception, the body\u2019s ability to sense internal signals. Research consistently shows this pathway works differently in children with sensory differences (Barmpagiannis & Baldimtsi 2025, 49-study review). The signal either arrives too late, or it doesn\u2019t arrive at all. That\u2019s not stubbornness. It\u2019s not defiance. It\u2019s signal-timing. And no method built on the assumption that the signal already exists can address that.',
+    testimonialClosing: "Three different kids. Three different timelines. One common piece: the body-signal connection had never been given a chance to form.",
+    productIntro: 'The product in your cart, the Body-Signal Learning Layer underwear, is designed around exactly that missing connection. The cotton inner layer creates a gentle, sustained "uh-oh" sensation that lasts 30-60 seconds. Long enough for a brain that processes signals differently to register: something happened. Without a prompt. Without a timer. Without a sticker chart. Just the body doing the teaching.',
+    guarantee: "60 days to try it. By your judgment. If it doesn\u2019t work for your child, if you see no pause, no look, no step toward the bathroom, full refund. The guarantee isn\u2019t a sales tactic. It\u2019s the only honest thing to offer when the outcome depends on your child\u2019s nervous system.",
+    ctaIntro: "Your original offer is saved.",
+    ctaButton: "Check out when you\u2019re ready",
+    ctaFinePrint: "60-day guarantee / No questions / Real returns"
+  };
+  var CartE1 = function() {
+    var c = emailData;
+    var BG_HERO = "#FFFBF0";
+    var BG_LETTER = "#FFF6E2";
+    var BG_MECHANISM = "#EAF6F2";
+    var BG_SOCIAL = "#FFF6E2";
+    var BG_PRODUCT = "#F0EDF8";
+    var BG_GUARANTEE = "#FFFBF0";
+    var BG_CTA = B.ink;
+    var testimonials = [
+      { text: "He talked about the potty but wouldn\u2019t actually go. After two weeks in Body-Signal underwear, he paused mid-play and looked down. That pause had never happened in three years.", name: "Sarah", desc: "mom of a verbal 4-year-old" },
+      { text: "My BCBA built the behavioral foundation. But nothing changed until my son\u2019s nervous system started receiving the wetness signal. That\u2019s what the underwear did, not training, just information his brain was missing.", name: "Lisa", desc: "mom of a 6-year-old with sensory differences" },
+      { text: "He\u2019d never shown any awareness in 9 years. Not one sign. After 6 weeks, he pulled at his pants. That was the first signal his nervous system had ever sent him. Not trained. But feeling something for the first time, that was enough.", name: "Maria", desc: "mom of a non-verbal 8-year-old" }
+    ];
+    var accents = [B.teal, B.green, "#E8A23D"];
+    return React.createElement(
+      EmailShell,
+      { preheader: c.preheader, bg: BG_HERO },
+      React.createElement(Header, { bg: BG_HERO }),
+      React.createElement(TitleBlock, { badge: c.heroBadge, part1: c.h1a, part2: c.h1b }),
+      React.createElement(Band, { from: BG_HERO, to: BG_LETTER }),
+      /* Hero image */
+      React.createElement(
+        "div",
+        { style: { margin: "16px 14px 20px", borderRadius: 20, overflow: "hidden", border: "2px solid " + B.ink, boxShadow: "6px 6px 0 " + B.ink } },
+        React.createElement("img", { src: IMG_HERO, alt: "BrightKidCo Training Pant", style: { width: "100%", display: "block" } })
+      ),
+      /* Hook + Validation */
+      React.createElement(Letter, { bg: BG_LETTER, first: "Hi there.", paras: [c.hook, c.validation] }),
+      React.createElement(Band, { from: BG_LETTER, to: BG_MECHANISM }),
+      /* Mechanism */
+      React.createElement(
+        "div",
+        { style: { background: BG_MECHANISM, padding: "28px 22px 16px" } },
+        React.createElement(Eyebrow, null, "Why nothing\u2019s worked"),
+        React.createElement(
+          H2,
+          { size: 24 },
+          "The signal ",
+          React.createElement("span", { style: { background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text", color: "transparent", fontWeight: 700 } }, "timing"),
+          " problem."
+        ),
+        React.createElement("p", { style: { fontSize: 15, lineHeight: 1.7, color: B.soft, margin: 0 } }, c.mechanism)
+      ),
+      React.createElement(Band, { from: BG_MECHANISM, to: BG_SOCIAL }),
+      /* Testimonials */
+      React.createElement(
+        "div",
+        { style: { background: BG_SOCIAL, padding: "24px 14px 8px" } },
+        React.createElement(
+          "div",
+          { style: { padding: "0 8px", marginBottom: 18 } },
+          React.createElement(Eyebrow, null, "Real stories from real parents"),
+          React.createElement(H2, { size: 22 }, "You\u2019re not alone in this.")
+        ),
+        React.createElement(
+          "div",
+          { style: { display: "flex", flexDirection: "column", gap: 14 } },
+          testimonials.map(function(t, i) {
+            return React.createElement(
+              "div",
+              { key: i, style: { background: "#FFFFFF", border: "2px solid " + B.ink, borderLeft: "4px solid " + accents[i], borderRadius: 16, overflow: "hidden", boxShadow: "3px 3px 0 " + B.ink } },
+              React.createElement(
+                "div",
+                { style: { padding: "20px 18px" } },
+                React.createElement("div", { style: { fontSize: 36, lineHeight: 0.8, color: accents[i], fontWeight: 700, marginBottom: 8 } }, "\u201C"),
+                React.createElement("p", { style: { fontSize: 14, lineHeight: 1.6, color: B.soft, margin: "0 0 12px", fontStyle: "italic" } }, t.text),
+                React.createElement(
+                  "div",
+                  { style: { fontSize: 12, color: B.ink, fontWeight: 700 } },
+                  "\u2014 " + t.name + ", ",
+                  React.createElement("span", { style: { fontWeight: 400, color: B.muted } }, t.desc)
+                )
+              )
+            );
+          })
+        ),
+        React.createElement("p", { style: { fontSize: 14, lineHeight: 1.6, color: B.soft, margin: "18px 8px 0" } }, c.testimonialClosing)
+      ),
+      React.createElement(Band, { from: BG_SOCIAL, to: BG_PRODUCT }),
+      /* Product + Photos */
+      React.createElement(
+        "div",
+        { style: { background: BG_PRODUCT, padding: "28px 22px 16px" } },
+        React.createElement(Eyebrow, null, "The product in your cart"),
+        React.createElement(
+          H2,
+          { size: 24 },
+          "Body-Signal Learning ",
+          React.createElement("span", { style: { background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text", color: "transparent", fontWeight: 700 } }, "Layer\u2122"),
+          React.createElement("br"),
+          "Underwear"
+        ),
+        React.createElement("p", { style: { fontSize: 15, lineHeight: 1.7, color: B.soft, margin: "0 0 16px" } }, c.productIntro)
+      ),
+      /* 3 product photos */
+      React.createElement(
+        "div",
+        { style: { background: BG_PRODUCT, padding: "0 14px 20px", display: "flex", gap: 8 } },
+        [
+          { src: IMG_PROD1, label: "Cloud Raindrop" },
+          { src: IMG_PROD2, label: "Fox Woodland" },
+          { src: IMG_PROD3, label: "Penguin Party" }
+        ].map(function(img, i) {
+          return React.createElement(
+            "div",
+            { key: i, style: { flex: 1, borderRadius: 14, overflow: "hidden", border: "2px solid " + B.ink, boxShadow: "3px 3px 0 " + B.ink } },
+            React.createElement("img", { src: img.src, alt: img.label, style: { width: "100%", display: "block", height: 140, objectFit: "cover" } }),
+            React.createElement("div", { style: { padding: "8px 10px", fontSize: 11, fontWeight: 700, color: B.ink, textAlign: "center", borderTop: "2px solid " + B.ink, background: "#FFFDF6" } }, img.label)
+          );
+        })
+      ),
+      React.createElement(Band, { from: BG_PRODUCT, to: BG_GUARANTEE }),
+      /* Guarantee */
+      React.createElement(
+        "div",
+        { style: { background: BG_GUARANTEE, padding: "28px 22px 32px", textAlign: "center" } },
+        React.createElement(Eyebrow, null, "Our promise"),
+        React.createElement(
+          H2,
+          { size: 26, center: true },
+          "The ",
+          React.createElement("span", { style: { background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text", color: "transparent", fontWeight: 700 } }, "60-Day"),
+          " Calm Progress Guarantee."
+        ),
+        React.createElement("p", { style: { fontSize: 15, lineHeight: 1.65, color: B.soft, margin: "0 0 20px", fontStyle: "italic" } }, c.guarantee),
+        React.createElement(
+          "div",
+          { style: { display: "inline-flex", flexDirection: "column", alignItems: "center", width: 160, height: 160, background: "#FFFFFF", borderRadius: "50%", border: "3px solid " + B.ink, boxShadow: "6px 6px 0 " + B.ink, justifyContent: "center" } },
+          React.createElement("div", { style: { fontSize: 11, letterSpacing: 2, textTransform: "uppercase", color: B.muted, fontWeight: 700, marginBottom: 4 } }, "Protected by"),
+          React.createElement("div", { style: { fontSize: 48, fontWeight: 700, lineHeight: 1, background: "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", backgroundClip: "text", color: "transparent" } }, "60"),
+          React.createElement("div", { style: { fontSize: 12, fontWeight: 700, color: B.ink, marginTop: 2 } }, "Calm Days"),
+          React.createElement("div", { style: { fontSize: 10, color: B.soft, marginTop: 4 } }, "Full refund / No questions")
+        )
+      ),
+      React.createElement(Band, { from: BG_GUARANTEE, to: BG_CTA, height: 50 }),
+      React.createElement(CTAClose, { intro: c.ctaIntro, button: c.ctaButton, fine: c.ctaFinePrint }),
+      React.createElement(Signoff, null),
+      React.createElement(OutLine, null),
+      React.createElement(Footer, null)
+    );
+  };
+  window.CartE1 = CartE1;
+})();
+
+ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(CartE1));
+</script>
+</body>
+</html>
