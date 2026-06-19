@@ -1,59 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="x-apple-disable-message-reformatting">
-<meta name="color-scheme" content="light">
-<meta name="supported-color-schemes" content="light">
-<title>BrightKidCo</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Questrial&display=swap" rel="stylesheet">
-<style>
-  body { margin: 0; padding: 0; width: 100% !important; height: 100% !important; min-width: 100%; background-color: #FBF7F1; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-  table { border-collapse: collapse; mso-table-lspace: 0; mso-table-rspace: 0; }
-  td { font-family: 'Questrial', system-ui, sans-serif; color: #1F2D2F; }
-  img { display: block; border: 0; outline: none; line-height: 0; max-width: 100%; height: auto; }
-  a img { border: 0; outline: none; }
-  .preheader { display: none !important; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0; max-height: 0; max-width: 0; overflow: hidden; mso-hide: all; font-size: 1px; line-height: 1px; }
-  @media screen and (max-width: 420px) {
-    .bk-email { width: 100% !important; max-width: 100% !important; }
-    .bk-section { padding-left: 18px !important; padding-right: 18px !important; }
-    .bk-cta-btn { display: block !important; width: 100% !important; text-align: center !important; }
-  }
-  @media screen and (min-width: 601px) {
-    .bk-email { width: 420px !important; }
-  }
-</style>
-</head>
-<body style="margin:0;padding:0;width:100% !important;height:100% !important;min-width:100%;background-color:#FBF7F1;">
-
-<!--[if (gte mso 9)|(IE)]>
-<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#FBF7F1;"><tr><td align="center" style="padding:0;">
-<table role="presentation" width="420" align="center" style="width:420px;" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding:0;">
-<![endif]-->
-
-<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#FBF7F1;">
-  <tr>
-    <td align="center" style="padding:0;background-color:#FBF7F1;">
-      <div class="bk-email" style="max-width:420px;width:100%;margin:0 auto;background-color:#FBF7F1;font-family:'Questrial',system-ui,sans-serif;color:#1F2D2F;">
-        <div class="preheader" style="display:none !important;visibility:hidden;opacity:0;color:transparent;height:0;width:0;max-height:0;max-width:0;overflow:hidden;mso-hide:all;font-size:1px;line-height:1px;">Whether they\u2019re 3 or 10, verbal or non-verbal, if they don\u2019t feel when they need to go, here\u2019s why.</div>
-        <div id="root"></div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<!--[if (gte mso 9)|(IE)]>
-</td></tr></table>
-</td></tr></table>
-<![endif]-->
-
-<script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-<script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-<script>
 (() => {
   var MW = 420;
   var B = {
@@ -317,10 +261,3 @@
   };
   window.WelcomeE1 = WelcomeE1;
 })();
-
-</script>
-<script>
-  ReactDOM.createRoot(document.getElementById('root')).render(React.createElement(window.WelcomeE1));
-</script>
-</body>
-</html>

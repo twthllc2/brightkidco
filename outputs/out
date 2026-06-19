@@ -1,0 +1,4 @@
+(() => {
+  var msg = "Price: \u20AC34.99";
+  window.test = msg;
+})();
