@@ -1,0 +1,337 @@
+{
+  "email_id": "pped-11-d21",
+  "source_file": "outputs/copy/pp-education/pped-11-d21.md",
+  "copy": {
+    "file": "pped-11-d21.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "2.1 Email Positioning",
+        "content": "| Element | Specification |\n|---------|---------------|\n| Flow | PP-Education D0-21 (Flow 11) |\n| Email # | E4 (Day 21) |\n| Type | Cross-Level (R1-R6) |\n| Phase | Wave 5 \u2014 Post-Purchase Education |\n| Timing | Day 21 post-purchase (three-week milestone) |\n| Primary Goal | Check-in + reinforce habit formation + set up for extended upsell |\n| Secondary Goal | Prevent disengagement at the 3-week plateau |\n| Emotional Arc | Open recognition \u2192 Validation of position \u2192 Low-bar win celebration \u2192 Permission-based next step |",
+        "type": "body"
+      },
+      {
+        "name": "2.2 R1-R6 Calibration Check",
+        "content": "| Rule | Application in This Email |\n|------|--------------------------|\n| R1 \u2014 Symptom Over Label | Never uses \"Level 1/2/3\" or \"ASD.\" Uses symptom descriptions: \"verbal and can say wet,\" \"non-verbal and show you with a gesture,\" \"pulled at their pants.\" |\n| R2 \u2014 3-5 Recognition Anchors | Six anchors in the recognition block covering the full spectrum: pause-after (L1/L2), nothing (L3/deep hypo), step-toward (L2-L3), pants-pull (L2), pre-event register (L1-L2), same-as-week-1 (any). Every reader finds 1-2 that match. |\n| R3 \u2014 Age Ranges | Opens with \"Whether your child is 3 or 10.\" Never pins to a single age. Testimonials span ages 4, 6, 8. |\n| R4 \u2014 Verbal/Non-Verbal Inclusivity | \"Verbal and can say 'wet' OR non-verbal and show you with a gesture.\" Every option paired. Three-Family testimonial covers verbal (Sarah), mixed (Lisa), non-verbal (Maria). |\n| R5 \u2014 Timeline Flexibility | \"Some kids process the sensation in 2 weeks. Some need 8. Both normal.\" Never promises a fixed outcome. Week 4-6 as \"when signals strengthen\" \u2014 never \"will happen by.\" |\n| R6 \u2014 Low-Bar Success Metrics | 11 distinct mini-wins listed. Includes a pause, a look, a hand touch, a step, 2 hours dry, a signal or word, less resistance. Success is defined as any observable awareness \u2014 not \"fully trained.\" |",
+        "type": "body"
+      },
+      {
+        "name": "2.3 \"Whether...Or...If...\" Pattern Application",
+        "content": "The opening paragraph uses the three-part inclusive bridge:\n\n> \"Whether your child is 3 or 10. Whether they're verbal and can say 'wet' or non-verbal and show you with a gesture. Whether you've seen one pause or zero. If your child wears underwear that gives their nervous system feedback it's been missing, here's where you might be right now.\"\n\nThis structure simultaneously:\n1. Acknowledges age diversity (R3)\n2. Covers verbal and non-verbal modes (R4)\n3. Covers full outcome spectrum from first signs to nothing (R5, R6)\n4. Uses \"Whether\" + \"Whether\" + \"If...\" pattern consistently",
+        "type": "recognition"
+      },
+      {
+        "name": "2.4 Three-Family Testimonial Pattern (GF Inclusion)",
+        "content": "The testimonial block features three named families, Sarah, Lisa, Maria, each with a distinct child profile:\n\n| Family | Child Profile | Email Position | Function |\n|--------|---------------|----------------|----------|\n| Sarah | Verbal 4yo, \"almost trained\" | L1 anchor | L1 mom finds her story, sees Week 3 validated |\n| Lisa | Mixed 6yo, BCBA context | L2 anchor | L2 mom sees mechanism-specific language, BCBA co-sign |\n| Maria | Non-verbal 8yo, high support | L3 anchor | L3 mom gets dignity-first framing, \"enough for now\" |\n\nThe pattern ends with: *\"Three different kids. Three different timelines. One common experience: the body-signal connection is building.\"*, This creates a unifying frame that all 3 levels and GF sub-groups share.",
+        "type": "social_proof"
+      },
+      {
+        "name": "2.5 GF Sub-Group Compatibility",
+        "content": "| Sub-Group | How This Email Serves Them |\n|-----------|---------------------------|\n| A \u2014 Diagnostic Entrants | No diagnosis assumed. Symptom-only language. \"Whether...Or...If...\" frame does not require level knowledge. |\n| B \u2014 Diagnosis-Rejecters | No level labels anywhere. Uses \"nervous system\" framing. Never \"autism\" or \"ASD.\" \"Your child\" not \"your autistic child.\" |\n| C \u2014 Sensory-Difference (SPD/ADHD) | Mechanism language works cross-diagnosis. \"Nervous system feedback\" is label-agnostic. Science framing compatible with OT concepts. |\n| D \u2014 Overwhelmed Non-Selectors | Recognition anchors across all levels let her find herself. Three-Family pattern gives her a story to self-identify with. Migration anchors built in naturally. |\n| E \u2014 Cart/Browse No Opt-In | Low-context friendly. Mechanism reminder is self-contained. Timeline flexibility reduces anxiety. Guarantee present via Lena P.S. |",
+        "type": "body"
+      },
+      {
+        "name": "2.6 Sign-Off Rationale",
+        "content": "Closing: \"With understanding,\", This the standard sign-off for emails 3-5 in a flow (per brand voice rules). PP-Edu E4 is the 4th email in the PP-Education flow.\n\nP.S. Variant: Long, includes Lena's personal story (son trained at 8), normalizes Week 3 plateau, reinforces 60-day guarantee with permission frame. This appropriate for late-flow emails where trust depth > brevity.",
+        "type": "body"
+      },
+      {
+        "name": "2.7 Extended Upsell Setup",
+        "content": "The email concludes with an \"exit options\" triage that includes a soft bridge to the next stage:\n\n> \"If you want to continue with more structured support as your child moves into weeks 4-8, we have resources designed for the next stage of body-signal learning.\"\n\nThis prepares for:\n- PP-Extended Upsell (Flow 12), 1-Pair \u2192 3+3, 3+3 \u2192 5+5 upgrades starting Day 30\n- PP-Mid Check-In (Flow 13), Day 30, Day 45, Day 60 educational touchpoints\n- PP-Extended Education (Flow 22), Level-specific deeper education (tags permitting)\n\nThe framing is educational, not promotional: \"resources designed for the next stage\" rather than \"buy more.\"",
+        "type": "body"
+      },
+      {
+        "name": "2.8 Forbidden Language Check",
+        "content": "| Forbidden Item | Status |\n|----------------|--------|\n| Level labels (Level 1/2/3, ASD, autism) | \u2705 Absent |\n| \"Easy,\" \"simple,\" \"quick\" | \u2705 Absent |\n| Fixed ages | \u2705 Age ranges throughout |\n| Outcome promises (\"will train,\" \"guaranteed\") | \u2705 Absent |\n| NT comparison (\"like other kids\") | \u2705 Absent |\n| Cheerleader language (\"don't give up!\") | \u2705 Absent |\n| Grief as sales tool | \u2705 Absent |\n| \"Fix,\" \"cure,\" \"solve\" | \u2705 Absent |\n| Pre-K urgency (L2-L3 forbidden) | \u2705 Absent |\n| Exclamation mark proliferation | \u2705 Minimal, natural use |\n| \"Miracle,\" \"breakthrough,\" \"amazing\" | \u2705 Absent |",
+        "type": "body"
+      },
+      {
+        "name": "2.9 Tone & Energy Calibration",
+        "content": "| Dimension | Setting |\n|-----------|---------|\n| Hope/Realism | 50/50 (cross-level standard) |\n| Energy | Measured, reflective \u2014 a check-in, not a push |\n| Peer Voice | Lena as fellow mom who's been at this stage |\n| Science Density | Low-Medium \u2014 mechanism reminder, not deep dive |\n| Urgency | Zero \u2014 permission-based exit options |\n| CTA Force | Minimal \u2014 informational, not promotional |\n| Pacing | Spacious \u2014 the 3-week mark deserves reflection space |",
+        "type": "body"
+      },
+      {
+        "name": "2.10 Subject Line Rationale",
+        "content": "Primary: \"3 weeks in, what are you seeing?\"\n\n- Question hook type (Type 5 per the 6 subject line formulas)\n- Creates curiosity to open and self-assess\n- Cross-level appropriate, \"what are you seeing\" works whether the answer is \"a lot\" or \"nothing\"\n- No urgency, no promise, no label\n- Fits the check-in emotional arc",
+        "type": "body"
+      },
+      {
+        "name": "2.11 Section Map",
+        "content": "```\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 PP-EDU E4, SECTION MAP \u2502\n\u2502 Day 21, Three-Week Check-In \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502 \u2502\n\u2502 Subject Line: Question hook, \"3 weeks in, what are you seeing?\" \u2502\n\u2502 Preheader: Inclusive permission frame \u2502\n\u2502 \u2502\n\u2502 \u2460 OBSERVATION (R3) \u2502\n\u2502 Whether...Or...If... pattern, age, verbal/non-verbal, outcome \u2502\n\u2502 \u2193 \u2502\n\u2502 \u2461 RECOGNITION ANCHORS (R2, R4, R6) \u2502\n\u2502 6 specific symptom situations spanning all levels \u2502\n\u2502 \u2193 \u2502\n\u2502 \u2462 VALIDATION (R5) \u2502\n\u2502 \"Nothing in week 3 is not failure, neurology on its timeline\" \u2502\n\u2502 \u2193 \u2502\n\u2502 \u2463 THREE-FAMILY TESTIMONIAL PATTERN \u2502\n\u2502 Sarah (L1) \u2192 Lisa (L2) \u2192 Maria (L3) \u2192 unified conclusion \u2502\n\u2502 \u2193 \u2502\n\u2502 \u2464 MECHANISM REMINDER \u2502\n\u2502 Body-Signal Learning Layer repetition \u2192 neural pathway building \u2502\n\u2502 \u2193 \u2502\n\u2502 \u2465 LOW-BAR WINS (R6) \u2502\n\u2502 11 mini-wins to document, neural pathways becoming visible \u2502\n\u2502 \u2193 \u2502\n\u2502 \u2466 EXIT OPTIONS / EXTENDED UPSELL SETUP \u2502\n\u2502 Three triage paths: signs \u2192 next stage / nothing \u2192 within range \u2502\n\u2502 / unsure \u2192 deeper guidance available \u2502\n\u2502 \u2193 \u2502\n\u2502 \u2467 LENA SIGN-OFF (With understanding,) + P.S. (60-day guarantee) \u2502\n\u2502 \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n```",
+        "type": "body"
+      },
+      {
+        "name": "2.12 Success Metrics",
+        "content": "| Metric | Target | Notes |\n|--------|--------|-------|\n| Open rate | >50% | Strong subject line for engaged recipients |\n| Click rate (any) | 8-12% | Recognition anchors drive identification clicks |\n| Click on extended upsell link | 3-5% | Educational framing, not hard upsell |\n| Reply rate | 1-3% | \"What are you seeing?\" invites response |\n| Unsubscribe rate | <0.5% | Low-bar framing + permission reduces opt-outs |\n| Migration clicks (GF \u2192 level story) | 2-4% | Embedded in Three-Family testimonials |",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "2.1 Email Positioning",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Element | Specification |\n|---------|---------------|\n| Flow | PP-Education D0-21 (Flow 11) |\n| Email # | E4 (Day 21) |\n| Type | Cross-Level (R1-R6) |\n| Phase | Wave 5 \u2014 Post-Purchase Education |\n| ..."
+    },
+    {
+      "section_name": "2.2 R1-R6 Calibration Check",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Rule | Application in This Email |\n|------|--------------------------|\n| R1 \u2014 Symptom Over Label | Never uses \"Level 1/2/3\" or \"ASD.\" Uses symptom descriptions: \"verbal and can say wet,\" \"non-verbal..."
+    },
+    {
+      "section_name": "2.3 \"Whether...Or...If...\" Pattern Application",
+      "section_type": "recognition",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition"
+      ],
+      "content_preview": "The opening paragraph uses the three-part inclusive bridge:\n\n> \"Whether your child is 3 or 10. Whether they're verbal and can say 'wet' or non-verbal and show you with a gesture. Whether you've seen o..."
+    },
+    {
+      "section_name": "2.4 Three-Family Testimonial Pattern (GF Inclusion)",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "The testimonial block features three named families, Sarah, Lisa, Maria, each with a distinct child profile:\n\n| Family | Child Profile | Email Position | Function |\n|--------|---------------|---------..."
+    },
+    {
+      "section_name": "2.5 GF Sub-Group Compatibility",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Sub-Group | How This Email Serves Them |\n|-----------|---------------------------|\n| A \u2014 Diagnostic Entrants | No diagnosis assumed. Symptom-only language. \"Whether...Or...If...\" frame does not requ..."
+    },
+    {
+      "section_name": "2.6 Sign-Off Rationale",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Closing: \"With understanding,\", This the standard sign-off for emails 3-5 in a flow (per brand voice rules). PP-Edu E4 is the 4th email in the PP-Education flow.\n\nP.S. Variant: Long, includes Lena's p..."
+    },
+    {
+      "section_name": "2.7 Extended Upsell Setup",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "The email concludes with an \"exit options\" triage that includes a soft bridge to the next stage:\n\n> \"If you want to continue with more structured support as your child moves into weeks 4-8, we have re..."
+    },
+    {
+      "section_name": "2.8 Forbidden Language Check",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Forbidden Item | Status |\n|----------------|--------|\n| Level labels (Level 1/2/3, ASD, autism) | \u2705 Absent |\n| \"Easy,\" \"simple,\" \"quick\" | \u2705 Absent |\n| Fixed ages | \u2705 Age ranges throughout |\n| Outco..."
+    },
+    {
+      "section_name": "2.9 Tone & Energy Calibration",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Dimension | Setting |\n|-----------|---------|\n| Hope/Realism | 50/50 (cross-level standard) |\n| Energy | Measured, reflective \u2014 a check-in, not a push |\n| Peer Voice | Lena as fellow mom who's been ..."
+    },
+    {
+      "section_name": "2.10 Subject Line Rationale",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Primary: \"3 weeks in, what are you seeing?\"\n\n- Question hook type (Type 5 per the 6 subject line formulas)\n- Creates curiosity to open and self-assess\n- Cross-level appropriate, \"what are you seeing\" ..."
+    },
+    {
+      "section_name": "2.11 Section Map",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "```\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 PP-EDU E4, SECTION MAP \u2502\n\u2502 Day 21, Three-Week Check-In \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500..."
+    },
+    {
+      "section_name": "2.12 Success Metrics",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Metric | Target | Notes |\n|--------|--------|-------|\n| Open rate | >50% | Strong subject line for engaged recipients |\n| Click rate (any) | 8-12% | Recognition anchors drive identification clicks |..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

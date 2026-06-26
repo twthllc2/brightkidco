@@ -1,0 +1,76 @@
+{
+  "email_id": "welcome-01-e7-l2",
+  "flow": "unknown",
+  "position": "",
+  "audience": "UNKNOWN",
+  "messaging_type": "unknown",
+  "picks": {
+    "hook": {
+      "section_type": "hook",
+      "component_id": "HERO-4",
+      "component_name": "Story Fragment *(L3882)*",
+      "component_position": "hero",
+      "component_messaging": "story",
+      "component_giuliano": "quality_approved",
+      "image": "toddler-potty-ladder-pink-multicolor.png",
+      "image_type": "lifestyle_hero",
+      "needs_image": true
+    },
+    "validation": {
+      "section_type": "validation",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter) *(L468)*",
+      "component_position": "body_recognition",
+      "component_messaging": "story",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddler-livingroom-dino-yellow.png",
+      "image_type": null,
+      "needs_image": true
+    },
+    "product": {
+      "section_type": "product",
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source) *(L613)*",
+      "component_position": "product_showcase",
+      "component_messaging": "product",
+      "component_giuliano": "giuliano_source",
+      "image": "toddler-potty-ladder-yellow-woodland.png",
+      "image_type": "product_flatlay",
+      "needs_image": true
+    },
+    "guarantee": {
+      "section_type": "guarantee",
+      "component_id": "CMP-1",
+      "component_name": "Three-Column Method Cards *(L6052)*",
+      "component_position": "guarantee_trust",
+      "component_messaging": "guarantee",
+      "component_giuliano": "quality_approved",
+      "image": "toddler-napping-watermelon-pink-shorts.png",
+      "image_type": "badge_seal",
+      "needs_image": true
+    },
+    "cta": {
+      "section_type": "cta",
+      "component_id": "5.1",
+      "component_name": "Dark CTA (CTAClose) (uses CTAClose) *(L564)*",
+      "component_position": "cta",
+      "component_messaging": "conversion",
+      "component_giuliano": "giuliano_derived",
+      "image": null,
+      "image_type": null,
+      "needs_image": false
+    }
+  },
+  "stats": {
+    "image_count": 4,
+    "component_count": 5,
+    "images_min": 4,
+    "images_max": 6,
+    "components_min": 3,
+    "components_max": 6
+  },
+  "validation": {
+    "issues": [],
+    "valid": true
+  }
+}

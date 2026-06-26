@@ -1,0 +1,56 @@
+{
+  "email_id": "winback-b-24-e2-gf",
+  "flow": "unknown",
+  "position": "",
+  "audience": "UNKNOWN",
+  "messaging_type": "unknown",
+  "picks": {
+    "hook": {
+      "section_type": "hook",
+      "component_id": "HERO-4",
+      "component_name": "Story Fragment *(L3882)*",
+      "component_position": "hero",
+      "component_messaging": "story",
+      "component_giuliano": "quality_approved",
+      "image": "washing-machine.jpg",
+      "image_type": "lifestyle_hero",
+      "needs_image": true
+    },
+    "social_proof": {
+      "section_type": "social_proof",
+      "component_id": "SP-01",
+      "component_name": "Yellow Quote Block *(L4780)*",
+      "component_position": "body_social_proof",
+      "component_messaging": "proof",
+      "component_giuliano": "quality_approved",
+      "image": "founders-holding-pants-yellow-watermelon.png",
+      "image_type": "lifestyle",
+      "needs_image": true
+    },
+    "guarantee": {
+      "section_type": "guarantee",
+      "component_id": "CMP-1",
+      "component_name": "Three-Column Method Cards *(L6052)*",
+      "component_position": "guarantee_trust",
+      "component_messaging": "guarantee",
+      "component_giuliano": "quality_approved",
+      "image": "cloth-pads-watermelon-astronaut-cat.png",
+      "image_type": "accessories",
+      "needs_image": true
+    }
+  },
+  "stats": {
+    "image_count": 3,
+    "component_count": 3,
+    "images_min": 4,
+    "images_max": 6,
+    "components_min": 3,
+    "components_max": 6
+  },
+  "validation": {
+    "issues": [
+      "Images under minimum: 3/4"
+    ],
+    "valid": false
+  }
+}

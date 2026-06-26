@@ -1,0 +1,250 @@
+{
+  "email_id": "welcome-01-e7-gf",
+  "source_file": "outputs/copy/welcome/welcome-01-e7-gf.md",
+  "copy": {
+    "file": "welcome-01-e7-gf.md",
+    "metadata": {
+      "email_id": "welcome-e7-gf",
+      "flow": "Welcome Flow",
+      "day": "Day 17",
+      "level": "GF (General Family)",
+      "from_name": "Lena S. \u2014 BrightKidCo",
+      "subject_line": "How the body-signal learning actually works",
+      "preview_text": "The 'uh-oh' sensation explained \u2014 and why it bridges the gap other methods can't reach",
+      "preheader_strategy": "Complement \u2014 expands on mechanism tease without repeating SL",
+      "send_timing": "Day 17 (48-72h after E6)",
+      "suppression": "Superseded by cart/checkout abandonment during active recovery; winback pauses entirely",
+      "klaviyo_tag_required": "`flow:welcome`, `email:e7`, `level:general`, `type:education-deep`"
+    },
+    "subject": "",
+    "preview": "The 'uh-oh' sensation explained, and why it bridges the gap other methods can't reach\n- Length: 86 characters \u2705\n- Strategy: Expands on mechanism tease \u2705\n- Does NOT repeat subject line \u2705\n- Front-loads key concept (\"uh-oh\" sensation) in first 40 characters \u2705",
+    "from_name": "**Lena S., BrightKidCo**",
+    "sections": [
+      {
+        "name": "HOOK",
+        "content": "Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or you're still figuring it out, if they don't seem to feel when they need to go, you've probably wondered: *why?*\n\nAnd more importantly: *what actually helps?*\n\nYou've seen the terms, interoception, body signals, sensory processing. Maybe you've read about the \"eighth sensory system\" from Kelly Mahler. Maybe a friend mentioned something about wetness-signal learning. Maybe you just heard a mom in a Facebook group say, \"We tried these underwear and something clicked.\"\n\nBut let's be honest: all of that can feel like noise when you're on day 973 of washing pee-soaked pants.\n\nSo let me explain, simply, directly, no jargon, how body-signal learning actually works. So you can decide if it's real, or if it's just another product with big claims.\n\n---",
+        "type": "hook"
+      },
+      {
+        "name": "VALIDATION",
+        "content": "First: you're not wrong about what's happening.\n\nIf your child doesn't react to being wet, or reacts too late, that's not stubbornness. It's not defiance. And it's definitely not your parenting.\n\nResearch shows that over 90% of autistic children have sensory processing differences (Leekam et al. 2007; Ben-Sasson et al. 2009). One of the most impactful is interoception, the sense that tells your body \"I need to go to the bathroom,\" \"I'm hungry,\" \"I'm thirsty.\"\n\nFor many autistic children, that signal either arrives too late or doesn't arrive at all.\n\nOne mom put it like this: *\"He'll start to pee and THeeeen run (while peeing).\"* \n\nAnother: *\"He's been 'almost trained' for months.\"*\n\nThat timing gap, the signal arriving milliseconds after the event, is the real problem. Not motivation. Not understanding. The signal itself.\n\n---\n\n### DEEP MECHANISM\n\nHere's how body-signal learning underwear actually works, and why it's different from every other method you've tried.\n\nThe core insight: Traditional potty training assumes your child can feel the \"I need to go\" signal. But for autistic children with body signal differences, that signal doesn't arrive reliably. Research shows the deficit is in accuracy, not absence \u2014 the signal is there, it's just not registering at the right time.\n\nThis why timed methods fail. You can't build awareness with a clock when the brain isn't receiving the data.\n\nThe Body-Signal Learning Layer (BSL):\n\nLayer 1, Signal Creation: A gentle, sustained \"uh-oh\" sensation that lasts 30-60 seconds. Unlike pull-ups that wick moisture away instantly, the BSL layer lets the sensation linger \u2014 long enough for the brain to register: *something happened.*\n\nLayer 2, Smart Absorption: Protects furniture and clothing without blocking the learning signal.\n\nLayer 3, Leak-Resistant Barrier: Contains accidents without feeling like a diaper.\n\nThink of it like training wheels for the body signal system. The underwear doesn't teach your child to feel \u2014 it gives their brain the information it needs, consistently, until the neural pathways start to form on their own.\n\n---\n\n### MINI-WIN TESTIMONIALS\n\nHere's what that looks like in real life, across different kids, different levels, different timelines:\n\n> \"He stayed dry for 2 hours. That never happened before.\"\n>, L1 parent \n\n> \"She told me BEFORE for the first time.\"\n>, L1 parent \n\n> \"He initiated. Once. After 4 years, that was everything.\"\n>, L2 parent \n\n> \"He paused. He looked down. Then he walked to the potty. Small, but that never happened before.\"\n>, Cross-level testimonial \n\n> \"I've made peace with maybe never. But after 8 weeks, he felt something. And that's more than we had in 9 years.\"\n>, L3 parent \n\nCommon thread across every one of these stories: The first sign isn't \"fully trained.\" It's a *pause.* A *look.* A *step toward the bathroom.* A moment of awareness where before there was nothing.\n\nFor some kids, that first sign comes in 2 weeks. For others, it takes 8 weeks or more. Both are normal. The research confirms interoception can be trained (Hample, Mahler & Amspacher 2020), but it happens on your child's timeline, not a calendar.\n\n---",
+        "type": "validation"
+      },
+      {
+        "name": "PRODUCT INTRO",
+        "content": "The 3+3 Bundle gives you 6 pairs of body-signal learning underwear, enough for a proper rotation so you're not doing laundry every single day while your child's nervous system learns to recognize the signal.\n\nWhat you get:\n- 6 pairs (3 cotton inner + 3 smart absorption layers)\n- Free shipping ($79.99 total)\n- 60-day risk-free trial\n- Sizes for children ages 3-10+\n\nOr start with 1 pair ($34.99), try it alongside your current routine. No replacement. Just an addition to see if the \"uh-oh\" sensation makes a difference for your child.\n\n---",
+        "type": "product"
+      },
+      {
+        "name": "GUARANTEE",
+        "content": "60 days to try it. By your judgment.\n\nIf your child shows no sign of body awareness, no pause, no look, no step toward the potty, no change in their awareness pattern, full refund. No questions. No returns needed for the first pair.\n\nThe guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system. Some kids respond in weeks. Some need longer. The 60-day window gives you enough time to know.\n\n---",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "Ready to see if the body-signal approach works for your child?\n\n[Button: Try the 3+3 Bundle, $79.99]\n\n*Free shipping \u00b7 60-day guarantee \u00b7 Your judgment*\n\n*Not ready for 6 pairs? Start with [1 Pair ($34.99) \u2192]*\n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n---\n\nNext time: One last thought before you decide.\n\n### LENA SIGN-OFF\n\n\"With care, Lena\", LONG variant\n\nIf you have a question, about the mechanism, the timing, whether this right for your child, hit reply. You'll get me, not a bot. I have two autistic sons. One trained at 6, the other at almost 8. I've been where you are, and I know the difference between \"I'm interested\" and \"I've been burned before.\"\n\nWhatever you decide, this email won't be the last you hear from me. The product will be here next month. So will I.\n\nWith care,\nLena S.\nCustomer Support \u00b7 Mom of two autistic sons\nBrightKidCo\n\n---",
+        "type": "cta"
+      },
+      {
+        "name": "FOOTER",
+        "content": "BrightKidCo\n[Physical Address, 123 Commerce Street, Suite 200, Nashville, TN 37201]\n\nNo longer want these emails? [Unsubscribe] or [Manage Preferences]\n\nQuestions? Reply to this email, Lena reads every response.\n\n*Join 10,000+ parents navigating potty training the BrightKidCo way.*\n\n---\n\n### SOURCE CITATIONS\n\n| Reference | Citation | Usage |\n|-----------|----------|-------|\n| Nicholson et al. (2019) | *Diminished body awareness in children with ASD* \u2014 J Autism Dev Disord | Core mechanism foundation \u2014 signal timing deficit |\n| Leekam et al. (2007); Ben-Sasson et al. (2009) | *Sensory processing differences in >90% of autistic individuals* | Sensory difference prevalence statistic |\n| Hample, Mahler & Amspacher (2020) | *Interoception intervention produces measurable improvement \u2014 8-week pilot* | Interoception can be trained |\n| Wiggins et al. (2022) | *49% of autistic 4-5 year olds not toilet trained* \u2014 CDC-funded (N=743) | Background prevalence context |\n| Iqbal (2022) | *59% of autistic children can't communicate urination needs* | Communication gap statistic |\n| Barmpagiannis & Baldimtsi (2025) | *Systematic review \u2014 body signal differences in autism (49 studies)* | Settled science confirmation |\n| GIULIANO-DEMANDS.md | \u00a73 Welcome Flow Section Map; \u00a74 R1-R6 Cross-Level Calibration; \u00a76 Conversion Levers | Structural compliance |\n| 1-full-email-strategy.md | \u00a711.6 Welcome E7 Purpose & Section Structure; \u00a713 Offer Architecture | Strategic compliance |\n| 2-full-email-copy-strategy.md | \u00a71.1 Welcome E7 GF Universal Deep Mechanism + Cross-Level Testimonials | Copy strategy compliance |\n| 05-customer-language-bank.md | \u00a7A1-A6 Verbatim Parent Phrases; #98, #101, #109 Mini-Win Quotes | Authentic parent language |\n| 11-brand-voice-reference.md | \u00a71 Lena's Identity; \u00a79 Sign-Off Variants; \u00a73 Voice Formula | Voice compliance |\n| 04-mechanism-positioning.md | \u00a74.1-4.2 Body-Signal Learning Layer | Mechanism accuracy |\n| 03-science-library.md | PP-A01, PP-A05, PP-A06, PP-B01 | Science proof points |\n| MASTER-INGESTION-COMPENDIUM.md | \u00a71.1 Autistic Parent Core Profile; Behavioral Patterns | Parent persona authenticity |\n| MASTER-RESEARCH-COMPENDIUM.md | \u00a72.1-2.2 Interoception Research & Key Statistics | Research foundation |\n| consolidated-design-skills-trimmed.md | high-end-visual-design SKILL.md, impeccable SKILL.md, email-design-master | Design reference & creative strategy |\n\n---\n\n---\n\n# PART 2, CREATIVE STRATEGY",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "",
+    "audience": "GF",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "HOOK",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or you're still figuring it out, if they don't seem to feel when they need to go, you've probably wondered: *why?*\n\nAnd more import..."
+    },
+    {
+      "section_name": "VALIDATION",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "First: you're not wrong about what's happening.\n\nIf your child doesn't react to being wet, or reacts too late, that's not stubbornness. It's not defiance. And it's definitely not your parenting.\n\nRese..."
+    },
+    {
+      "section_name": "PRODUCT INTRO",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The 3+3 Bundle gives you 6 pairs of body-signal learning underwear, enough for a proper rotation so you're not doing laundry every single day while your child's nervous system learns to recognize the ..."
+    },
+    {
+      "section_name": "GUARANTEE",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days to try it. By your judgment.\n\nIf your child shows no sign of body awareness, no pause, no look, no step toward the potty, no change in their awareness pattern, full refund. No questions. No re..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "Ready to see if the body-signal approach works for your child?\n\n[Button: Try the 3+3 Bundle, $79.99]\n\n*Free shipping \u00b7 60-day guarantee \u00b7 Your judgment*\n\n*Not ready for 6 pairs? Start with [1 Pair ($3..."
+    },
+    {
+      "section_name": "FOOTER",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "BrightKidCo\n[Physical Address, 123 Commerce Street, Suite 200, Nashville, TN 37201]\n\nNo longer want these emails? [Unsubscribe] or [Manage Preferences]\n\nQuestions? Reply to this email, Lena reads ever..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "email_id": "faq-21-e3",
+  "source_file": "outputs/copy/faq-library/faq-21-e3.md",
+  "copy": {
+    "file": "faq-21-e3.md",
+    "metadata": {},
+    "subject": "Answering your top question: \"Why won't my child just use the potty?\"",
+    "preview": "- **Preview:** Whether they scream, hold, or run, the answer isn't more pressure. It's a different approach entirely.",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "Whether your child holds their pee for hours rather than sit on the toilet, screaming, arching, fighting every attempt, or they rip off whatever you put on them before you can finish fastening it, or the bathroom itself is so terrifying that just walking past it triggers a meltdown, I want you to know something important:\n\nThisn't defiance. And thisn't a potty training problem that needs a tougher approach.\n\nThese three situations, power struggle, refusal, bathroom fear, all share one thing. Your child's nervous system has learned that the bathroom, the potty, and the pressure to perform are overwhelming. And when a nervous system goes into protective mode, no amount of gentle encouragement, sticker charts, or consequences can override it.",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "Let me say that again because I think it matters: your child is not being stubborn. They're not winning a battle of wills. They're not manipulating you.\n\nWhen a child screams at the sight of the potty, when they hold their pee all day rather than sit down, when they rip off every pair of underwear you try, that's a sensory feedback loop that has gone into alarm mode. The bathroom has become associated with overwhelm. The pressure to \"perform\" has created a threat response. And a child in threat mode cannot learn, cannot cooperate, and cannot feel the subtle signal their body is trying to send.\n\nI've been there. Both my sons went through phases where any mention of the potty triggered a full shutdown. I was told it was defiance. I was told to \"be firmer.\" I tried being firmer. It made everything worse.",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism Reframe",
+        "content": "Here's what I learned, and what changed everything: the Body-Signal Learning Layer doesn't require your child to sit on the potty. It doesn't require compliance. It doesn't even require them to try.\n\nIt just needs to be worn.\n\nThe learning happens through sensation, not instruction. When your child wears the underwear, a gentle, sustained \"uh-oh\" sensation lasts 30-60 seconds after an accident. Long enough for even the most overwhelmed nervous system to register: something happened. Not uncomfortable, not like a wet pull-up that wicks everything away, but a predictable, localized signal that teaches the brain, over time, what that feeling means.\n\nFor the child who fights the potty: you don't mention the potty. You put the underwear on during play, in their favorite corner of the living room, anywhere that doesn't trigger the bathroom fear. The sensation does the teaching without the pressure.\n\nFor the child who rips everything off: the underwear is tagless, flat-seamed, 100% cotton inner layer, designed to feel less intrusive than a pull-up, not more. Many kids who fight everything else tolerate this one because the sensation is predictable, not surprising.\n\nFor the child terrified of the bathroom: you start in the safest space in your home. The bathroom can come later, days, weeks, or months later. The signal doesn't need the toilet to work.",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof / Testimonial",
+        "content": "\"He fought every single thing, the potty, the underwear, the whole concept. I put the Body-Signal undies on during his favorite TV show. Didn't say a word. Three days later, I found him standing in front of the bathroom door, pants around his ankles, looking confused. He didn't make it to the toilet. But he never did that before.\"\n\n, Mom of a 6-year-old who had been in pull-ups for 4 years\n\nNot every child responds the same way. But that pause, that moment when the brain finally registers the signal, that's the first step, and it doesn't require the bathroom OR your child's cooperation. Just the sensation, repeated over time, building a pathway their nervous system has never had before.",
+        "type": "social_proof"
+      },
+      {
+        "name": "Guarantee / Risk Reversal",
+        "content": "60 days to try it. By your judgment. If your child shows no sign of awareness, no pause, no look down, no moment where you wonder \"did they feel something?\", full refund. No questions. The guarantee is there because the outcome depends on your child's nervous system. Not every child responds the same way. And you should know that without risking anything.",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "- Button text: Learn how the Body-Signal Layer works with any child\n- Secondary link text: Still have questions? Hit reply, I read every response\n- Placement: Below guarantee section",
+        "type": "cta"
+      }
+    ],
+    "cta": {},
+    "signoff": {
+      "text": "Every child's nervous system is different. What works for one might not work for another, and that's okay. The 60-day guarantee exists so you can find out without pressure. If your child fights everything right now, I see you. That's normal here. Start with one pair during the calmest 30 minutes of your day. Nothing else needs to change.\n\n, Lena\nCustomer Support \u00b7 Mom of two autistic sons"
+    },
+    "footer": {
+      "text": "BrightKidCo\n[Physical Address]\n[Unsubscribe Link]\nReply to this email, Lena reads every response.\n\n## Source Citations\n- S2 section: 1.18 Flow 21, FAQ E3 (Power Struggle + Refusal + Bathroom Fear)\n- Subject Line Pattern: \"Answering your top question: [objection]\" per S2 \u00a71.18\n- Objection source: 30-customer-support-playbook.md O7 (Power Struggle), O8 (Refusal), O14 (Bathroom Fear)\n- Cross-level rules: layer-18-cross-level-calibration.md R1-R6\n- Voice: 11-brand-voice-reference.md \u00a7\u00a71-8, Lena's honest, direct, empathetic peer voice\n- Testimonial: Adapted from 30-customer-support-playbook.md O7 parent language patterns\n- Mechanism: 04-mechanism-positioning.md \u00a74.1, BSL 30-60 second gentle sensation that lasts\n- Guarantee: 1-full-email-strategy.md \u00a75.2, 60-day risk reversal"
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Whether your child holds their pee for hours rather than sit on the toilet, screaming, arching, fighting every attempt, or they rip off whatever you put on them before you can finish fastening it, or ..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "Let me say that again because I think it matters: your child is not being stubborn. They're not winning a battle of wills. They're not manipulating you.\n\nWhen a child screams at the sight of the potty..."
+    },
+    {
+      "section_name": "Mechanism Reframe",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Here's what I learned, and what changed everything: the Body-Signal Learning Layer doesn't require your child to sit on the potty. It doesn't require compliance. It doesn't even require them to try.\n\n..."
+    },
+    {
+      "section_name": "Social Proof / Testimonial",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "\"He fought every single thing, the potty, the underwear, the whole concept. I put the Body-Signal undies on during his favorite TV show. Didn't say a word. Three days later, I found him standing in fr..."
+    },
+    {
+      "section_name": "Guarantee / Risk Reversal",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days to try it. By your judgment. If your child shows no sign of awareness, no pause, no look down, no moment where you wonder \"did they feel something?\", full refund. No questions. The guarantee i..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "- Button text: Learn how the Body-Signal Layer works with any child\n- Secondary link text: Still have questions? Hit reply, I read every response\n- Placement: Below guarantee section"
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

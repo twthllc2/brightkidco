@@ -1,0 +1,270 @@
+{
+  "email_id": "welcome-01-e2-l2",
+  "source_file": "outputs/copy/welcome/welcome-01-e2-l2.md",
+  "copy": {
+    "file": "welcome-01-e2-l2.md",
+    "metadata": {
+      "flow": "Welcome (01)",
+      "position": "E2 \u2014 Day 1",
+      "level": "Level 2 \u2014 Lisa (~40% of audience, largest segment)",
+      "phase": "Phase 1 \u2014 Launch",
+      "purpose_(from_s2)": "Deepen the reframe from \"behavioral problem\" to \"neurological gap.\" Name the failed methods and explain why they couldn't work.",
+      "emotional_arc": "Naming failed methods \u2192 Absolving guilt \u2192 Offering mechanism \u2192 Hope through understanding",
+      "send_timing": "Day 1 after signup (1 day after E1)",
+      "lena_sign-off_variant": "SHORT \u2014 \"Talk soon,\"",
+      "section_structure": "Hook \u2192 Failed Methods Recognition \u2192 Validation \u2192 Mechanism Deep \u2192 Social Proof \u2192 Product Intro \u2192 Guarantee \u2192 CTA",
+      "6-element_check": "\u2705 Real Symptom Recognition \u2705 Mechanism Specificity \u2705 BCBA/OT Acknowledgment \u2705 Realistic Timelines \u2705 60-Day Guarantee \u2705 Permission-Not-to-Buy"
+    },
+    "subject": "",
+    "preview": "**The signal comes too late for prompt systems to work. Here's what's actually happening neurologically.**\n\n*Character count: 82 characters (first 40 characters carry the hook: \"The signal comes too late for prompt\"), distinct from subject line; adds context instead of repeating.*",
+    "from_name": "**Lena S., BrightKidCo**",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "\"We've been doing scheduled sits for two years. He never goes on his own.\"\n\nI hear this from Level 2 parents almost daily. You set the timer. He sits. Nothing happens. You put the pull-up back on. Five minutes later, it's wet.\n\nThe sitself became the signal. Not the body.\n\n---\n\n### Failed Methods Recognition\n\nYou've tried the BCBA protocol, scheduled sits with reinforcement. You've tried OT sensory work, brushes, weighted lap pads, social stories about using the potty. You've tried sticker charts, timer watches, the three-day method, and \"just wait until he's ready.\" You've read the books. You've spent the money.\n\nAnd here you are. Sticker charts that collected dust. Timer sits that became a fight. A child who performs perfectly at ABA when the prompt says \"time to go\", and then pees on the living room floor thirty seconds after the pull-up goes back on.\n\nYou've tried 40+ methods. Every single one assumed your child CAN feel when they need to go.\n\n---",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "Prompt-dependency is not training.\n\nYour child didn't fail. Your BCBA didn't fail. Your OT didn't fail. The protocol was sound, for a brain that receives the \"I need to go\" signal on time.\n\nBut here's what the research says: autistic children show significantly diminished body awareness, the ability to sense internal body states like bladder fullness (Nicholson et al., 2019, Journal of Autism and Developmental Disorders). The signal is either delayed, weakened, or absent entirely.\n\nYour BCBA protocol built compliance. It taught your child to sit on command, to wait for the adult cue, to follow the routine. That's real progress. But compliance is not awareness. You can prompt a child to sit on a toilet. You cannot prompt a child to feel a full bladder.\n\nThat feeling, the \"uh-oh, I need to go\", has to come from inside. And if the internal signal isn't registering, no amount of prompting will build it.\n\n---",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism Deep",
+        "content": "This where the real shift happens. Interoception is the eighth sensory system \u2014 the sense that tells you when you're hungry, thirsty, or need the bathroom.\n\nResearch confirms only 59% of autistic children can reliably communicate when they need to urinate. That's not defiance \u2014 it's a nervous system that isn't receiving the message.\n\nThe body-signal underwear creates one:\n- Layer 1: Cotton inner generates a gentle, sustained \"uh-oh\" sensation for 30-60 seconds\n- Layer 2: Smart absorption protects without blocking awareness\n- Layer 3: Leak-resistant barrier protects furniture while keeping the signal intact\n\nPull-ups actively prevent this feedback loop. They keep children \"too dry to learn.\"\n\n---",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof",
+        "content": "\"He sits on the toilet for 45 minutes and then pees the second he stands up.\"\n\nI hear this exact story from L2 parents over and over. Not because their kids are stubborn. Because the body doesn't signal until it's too late, and at that point, the child is already off the toilet.\n\nOne of our L2 parents wrote us after four weeks: \"He initiated. Once. After four years. He walked to the bathroom on his own, not because I told him to, not because his BCBA prompted him, because he FELT it.\"\n\nThat's the difference. Prompt-dependency teaches a child to respond to an external cue. Body-signal learning teaches the brain to recognize an internal cue. One is compliance. The other is awareness.\n\n---",
+        "type": "social_proof"
+      },
+      {
+        "name": "Product Intro",
+        "content": "The body-signal underwear isn't another training method. It's not a book, a chart, or a protocol. It's a piece of clothing that does one thing: gives your child's brain a signal it's not receiving on its own.\n\nDesigned with input from occupational therapists and autism parents. Made from 100% cotton, recommended by the American Academy of Dermatology and consistently preferred by autistic individuals for tactile comfort (Kyriacou et al., 2023). PFAS-free. BPA-free. Built for multiple washes.\n\nThe 3+3 Bundle, $79.99 with free shipping:\n- 6 pairs for rotation (wash 3, wear 3)\n- Worn under existing pull-ups during the transition period\n- No schedules to follow. No books to read. Just wear, wash, repeat.\n\n---",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee",
+        "content": "60 days. Your judgment.\n\nIf, after 60 days, your child shows no sign of increased body awareness, no pause, no look down, no step toward the bathroom, send them back for a full refund. No questions. No hoops.\n\nThis guarantee exists because the outcome depends on your child's nervous system, not on sales hype. Some kids respond in 2 weeks. Others take 8-12 weeks. Some need longer. All of those timelines are normal, and the 60-day guarantee covers the full learning window.\n\nIf your BCBA or OT has questions about the mechanism, have them reach out. We'll explain the sensory science. We want your whole team on the same page.\n\n---",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "Let your BCBA's work pay off, add the sensory layer.\n\nYour child has the behavioral foundation. They know the routine. They know what the toilet is for. What they've been missing is the body signal, the internal \"I need to go\" that every other method assumed was already there.\n\nThis adds the missing piece to everything they've already learned.\n\n[CTA BUTTON: Add the Sensory Layer, Get the 3+3 Bundle]\n\n*Secondary text link: Start with 1 Pair ($34.99), see if the signal works first*\n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n---\n\nNext time: The research behind the body-signal approach \u2014 and why 49% of children face this gap.",
+        "type": "cta"
+      }
+    ],
+    "cta": {
+      "button_text": "ve been missing is the body signal, the internal"
+    },
+    "signoff": {
+      "text": "Thanks for being here. If you have a question, about the mechanism, your child's specific situation, or whether this fits alongside your BCBA's current protocol, hit reply. You'll get me. Not a template. Not a bot. I read everything.\n\n\nLena \u2014\u2014"
+    },
+    "footer": {
+      "text": "BrightKidCo\n123 Parent Lane, Suite 100\nAustin, TX 78701\nUnited States\n\n[Unsubscribe]({{unsubscribe_url}}) | [Manage Preferences]({{manage_preferences_url}})\n\nReply to this email, Lena reads every response. If BrightKidCo isn't right for your child right now, that's okay. The product will be here when you're ready."
+    }
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "E2 \u2014 Day 1",
+    "audience": "L2",
+    "messaging_type": "awareness",
+    "emotional_arc": "Naming failed methods \u2192 Absolving guilt \u2192 Offering mechanism \u2192 Hope through understanding",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "education",
+    "cta_force": "very_low",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "\"We've been doing scheduled sits for two years. He never goes on his own.\"\n\nI hear this from Level 2 parents almost daily. You set the timer. He sits. Nothing happens. You put the pull-up back on. Fiv..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "Prompt-dependency is not training.\n\nYour child didn't fail. Your BCBA didn't fail. Your OT didn't fail. The protocol was sound, for a brain that receives the \"I need to go\" signal on time.\n\nBut here's..."
+    },
+    {
+      "section_name": "Mechanism Deep",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "This where the real shift happens. Interoception is the eighth sensory system \u2014 the sense that tells you when you're hungry, thirsty, or need the bathroom.\n\nResearch confirms only 59% of autistic chil..."
+    },
+    {
+      "section_name": "Social Proof",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "\"He sits on the toilet for 45 minutes and then pees the second he stands up.\"\n\nI hear this exact story from L2 parents over and over. Not because their kids are stubborn. Because the body doesn't sign..."
+    },
+    {
+      "section_name": "Product Intro",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The body-signal underwear isn't another training method. It's not a book, a chart, or a protocol. It's a piece of clothing that does one thing: gives your child's brain a signal it's not receiving on ..."
+    },
+    {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days. Your judgment.\n\nIf, after 60 days, your child shows no sign of increased body awareness, no pause, no look down, no step toward the bathroom, send them back for a full refund. No questions. N..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "Let your BCBA's work pay off, add the sensory layer.\n\nYour child has the behavioral foundation. They know the routine. They know what the toilet is for. What they've been missing is the body signal, t..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

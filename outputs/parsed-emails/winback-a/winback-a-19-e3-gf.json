@@ -1,0 +1,162 @@
+{
+  "email_id": "winback-a-19-e3-gf",
+  "source_file": "outputs/copy/winback-a/winback-a-19-e3-gf.md",
+  "copy": {
+    "file": "winback-a-19-e3-gf.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "Email Body",
+        "content": "Subject line (options):\n1. \"Still figuring it out? Door's open.\" (Permission frame, aligns with button 4 language)\n2. \"No rush, just leaving this here\" (Permission frame)\n3. \"When you're ready, it's here\" (Validation hook)\nPreheader (options):\n1. No pressure. No deadline. Just a note from Lena.\n2. Whether you stopped using them or never really started, this a no-judgment check-in.\n3. 60-day guarantee still stands. Always has.\nBody Copy:\nWhether you used them for a week or a month, whether your child showed a flicker of awareness or nothing at all, whether you're still deciding or you'd already decided: this email isn't trying to change your mind.\nIt's just a check-in. From one parent to another.\nThe thing about body-signal learning is that it doesn't follow a timeline.\nSome kids show their first sign, a pause, a look down, a pull at their pants, in 2 weeks. Others need 8 weeks. Some take longer. And some take a break, then come back, and suddenly something clicks that wasn't clicking before.\nThat's not failure. That's a nervous system learning at its own pace.\nIf you stopped because nothing seemed to change, here's what that might mean:\nYour child's brain was still receiving the information. Every time they wore the underwear and felt that gentle sensation, even if you didn't see an outward sign, their body signal system was logging data. Building a connection that wasn't there before.\nThe awareness often shows up after the break. Not during.\nHere's what \"something\" can look like:\n, A pause during play. Just one. That wasn't there before.\n, A look at the wet spot. For the first time.\n, A step toward the bathroom. Even after the accident.\n, Staying dry 2 hours instead of 30 minutes.\n, Saying \"wet\" or showing you with a gesture. Once.\nNone of these are \"trained.\" All of them are progress. And they all happened for real families, some after weeks of nothing, some after a months-long break.\nYou already own the underwear. So there's nothing to decide today.\nIf you want to try again, tomorrow, next week, next month, they're in the drawer. The Body-Signal Learning Layer doesn't expire. The mechanism still works the same way it did the first day.\nAnd the 60-day guarantee? Still stands. If nothing has changed and you're ready to move on, full refund. Your judgment. Always has been.\nNo pressure. No deadline. No guilt.\nThe door is open. Whenever you walk through it, or don't, that's your call.\nWith care,\nLena \u2014\u2014\n*Customer Support \u00b7 Mom of two autistic sons*\n*P.S. If you have a question about why you didn't see the results you hoped for, hit reply. I read every message. No templates, no bots, just me. If I don't have the answer, I'll find someone who does.*",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Email Body",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Subject line (options):\n1. \"Still figuring it out? Door's open.\" (Permission frame, aligns with button 4 language)\n2. \"No rush, just leaving this here\" (Permission frame)\n3. \"When you're ready, it's h..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

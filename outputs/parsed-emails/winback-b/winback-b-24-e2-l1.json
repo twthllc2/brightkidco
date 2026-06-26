@@ -1,0 +1,180 @@
+{
+  "email_id": "winback-b-24-e2-l1",
+  "source_file": "outputs/copy/winback-b/winback-b-24-e2-l1.md",
+  "copy": {
+    "file": "winback-b-24-e2-l1.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "A different angle on the signal question that's been on your mind.\n\n> **Distinct from subject line:** \u2713",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "From Name",
+        "content": "Lena from BrightKidCo\n\n### Subject Line\nTwo months of thinking, here's something new\n\n> Character count: 46 \u2713 (under 50)\n> Type: Validation hook (6 Subject Line Formulas, Level 1-appropriate)\n\n### Preview Text\nA different angle on the signal question that's been on your mind.\n\n> Distinct from subject line: \u2713\n\n---\n\n### Email Body\n\nSection 1, Hook (New Angle)\n\nYou signed up 67 days ago. In that time, you've read the mechanism, you understand the interoception gap, and you're still asking the same question: \"Will this actually work for my kid?\"\n\nThat's not skepticism. That's being a good parent.\n\nHere's something we haven't told you yet: a 2025 review of 49 scientific studies confirmed that body signal difficulties, the inability to sense internal body signals like bladder fullness, are a well-established feature of the autistic nervous system (Barmpagiannis & Baldimtsi 2025). Not a theory. Not a guess. Forty-nine studies, all pointing in the same direction.\n\n> Confidence: HIGH (systematic review of 49 studies)\n> Objections countered: D1 (\"I've tried everything\"), C2 (\"Need to see it works\")\n> Rationale: New science citation for E2 per strategy. PP-A01 (Nicholson 2019) was already cited in Welcome E1, this a broader meta-review that strengthens the case.\n\n---\n\nSection 2, The Roadblock (Validation + Mechanism Depth)\n\nThe real reason you haven't bought yet isn't the price. It's not the shipping. It's the hope-fear: \"What if I get my hopes up and it doesn't work?\"\n\nI get that. Both my sons went through multiple failed methods before we found what worked. One trained at 6. The other was almost 8. I know what it feels like to want something to work so badly that you're almost afraid to try.\n\nHere's what the new research reinforces: the problem isn't that you haven't tried hard enough or that your child is being stubborn. The problem is that standard potty training methods assume the child can feel the \"I need to go\" signal. BrightKidCo's Body-Signal Learning Layer doesn't train behavior, it gives the brainformation it's been missing. A gentle sensation that lasts that lasts 30-60 seconds, long enough for a nervous system that processes internal signals differently to register: \"Something happened.\"\n\n> Objection countered: D3 (\"What if I get my hopes up?\"), using peer empathy + mechanism clarity rather than empty optimism\n\n---\n\nSection 3, The Updated Offer (Low-Barrier Entry)\n\nYou don't need to commit to a bundle to find out if the signal works for your child.\n\nOne pair, $34.99. Put it alongside your current routine. Not as a replacement for pull-ups, not as a method you have to follow perfectly. Just add it. See if your child pauses. See if they look down. See if that never-before-seen moment of awareness shows up.\n\nOne pair tells you everything you need to know. If you see any signal change, even a pause, even a glance down, you'll know the mechanism is real. If you don't? Full refund, 60 days, your judgment, no questions asked.\n\nAnd if you're ready for the full approach? The 3+3 Bundle ($79.99, free shipping, 6 pairs, 62% savings) is still the bestseller for a reason. Same guarantee. Same zero-risk.\n\n> Rationale: Low-barrier entry (1 pair) addresses the hope-fear objection. 3+3 Bundle upsell maintains the core offer. 60-day guarantee removes all risk.\n\n---\n\nSection 4, The CTA\n\nSee if the signal works for your child \u2192 [Shop 1 Pair $34.99]\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n> CTA type: Medium aggression (L1-appropriate), \"See if\" rather than \"Buy now\"\n\n---\n\nSection 5, Lena Sign-Off (LONG Variant, Winback Position)\n\nWith care,\n\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. My older son was 8 before we figured this out. If you've stepped back from trying, I get it. When you're ready, the science will still be here. 60 days, your judgment. [link]\n\n> Sign-off rule: \"With care,\" closing, per Sign-Off Selector Matrix, winback/Phase 4 = dignity-first, \"With care,\"\n> Rationale: E2 in winback = late flow position. LONG variant matches task spec: \"E2, Long variant\"\n\n---",
+        "type": "body"
+      },
+      {
+        "name": "Footer",
+        "content": "You're receiving this email because you signed up at brightkidco.com. If you'd like to update your preferences or unsubscribe, click here.\n\nBrightKidCo LLC\n123 Innovation Drive, Suite 200\nSan Francisco, CA 94105\nUnited States\n\n> Includes: unsubscribe link + physical address",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {
+      "text": "You're receiving this email because you signed up at brightkidco.com. If you'd like to update your preferences or unsubscribe, click here.\n\nBrightKidCo LLC\n123 Innovation Drive, Suite 200\nSan Francisco, CA 94105\nUnited States\n\n> Includes: unsubscribe link + physical address"
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "From Name",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Lena from BrightKidCo\n\n### Subject Line\nTwo months of thinking, here's something new\n\n> Character count: 46 \u2713 (under 50)\n> Type: Validation hook (6 Subject Line Formulas, Level 1-appropriate)\n\n### Pre..."
+    },
+    {
+      "section_name": "Footer",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "You're receiving this email because you signed up at brightkidco.com. If you'd like to update your preferences or unsubscribe, click here.\n\nBrightKidCo LLC\n123 Innovation Drive, Suite 200\nSan Francisc..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

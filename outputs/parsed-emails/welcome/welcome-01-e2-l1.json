@@ -1,0 +1,275 @@
+{
+  "email_id": "welcome-01-e2-l1",
+  "source_file": "outputs/copy/welcome/welcome-01-e2-l1.md",
+  "copy": {
+    "file": "welcome-01-e2-l1.md",
+    "metadata": {
+      "flow": "Welcome Flow (Flow 01)",
+      "position": "E2 \u2014 Day 1",
+      "level": "Level 1 \u2014 Sarah (~35%, Avatar Tag: `avatar_level1`)",
+      "phase": "Phase 1 \u2014 Launch (Months 1-2)",
+      "purpose": "Deepen the reframe from \"behavioral problem\" to \"neurological gap.\" Name the failed methods and explain why they couldn't work.",
+      "emotional_arc": "Naming failed methods \u2192 Absolving guilt \u2192 Offering mechanism \u2192 Hope through understanding",
+      "s2_section_structure": "Hook \u2192 Failed Methods Recognition \u2192 Mechanism Deep \u2192 CTA",
+      "hope/realism_ratio": "70/30 \u2014 Hope-intact, urgency OK",
+      "decision_window": "2-7 days",
+      "child_profile": "Verbal, 3-5 years, low support needs, mainstream Pre-K or Kindergarten",
+      "primary_driver": "Pre-K deadline pressure, \"gets it but doesn't get it\" confusion",
+      "lena_sign-off_variant": "SHORT (E1-E2 variant)",
+      "offer": "3+3 Bundle \u2014 USD $79.99 \u2014 Free Shipping \u2014 60-Day Guarantee"
+    },
+    "subject": "The real reason Oh Crap didn't work",
+    "preview": "You didn't fail. The method assumes your child feels the 'I need to go' signal, here's what's really happening.",
+    "from_name": "Lena S., BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "Oh Crap stressed you both out. Sticker charts didn't stick. Timer sits became a battle.\n\n*\n---\n\n### Failed Methods Recognition\n\nYou did everything the books and the internet told you. You set timers. You offered M&Ms. You did the naked weekend, and held it for eight hours then peed on the rug.\n\nYou've tried 1-3 methods so far, and every single one assumed the same thing: that your child can feel when he needs to go.\n\nHe can't.\n\nNot because he's stubborn. Not because you're doing it wrong. Because the \"I need to pee\" signal, that internal body sensation most of us take for granted, doesn't arrive in time for many autistic children.\n\n*\n---",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "Here's the thing that changes everything: you didn't fail. The methods did.\n\nOh Crap, sticker charts, timer sits, they all share a hidden assumption. They assume your child's nervous system sends the \"I need to go\" feeling loud and clear, and the only problem is getting him to the potty in time.\n\nBut for many autistic children, that signal is delayed or absent entirely. By the time his brain registers the message, it's already happening.\n\nThat's not defiance. That's neurology.\n\n*\n---",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism Deep",
+        "content": "This called the interoception gap \u2014 the space between your child's body sending a signal and his brain receiving it.\n\nThe signal arrives, but milliseconds or minutes too late. That's why timed methods don't work: you can't build awareness with a clock. You need a signal \u2014 a real, physical cue that his nervous system can recognize before the event.\n\nThe body-signal underwear creates a gentle sensation that lasts, 30 to 60 seconds of feedback, that bridges that gap.\n\n*\n---",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof",
+        "content": "Real parents describe it exactly like this:\n\n> \"He says 'I need to pee' AFTER it's already happened.\"\n>, L1 parent, source: DOC2-LEVEL1.txt\n\n> \"Some days he's great, other days zero.\"\n>, L1 parent, source: 05-customer-language-bank.md #97\n\n> \"Is this interoception or stubbornness? That's the question I kept asking.\"\n>, L1 parent, source: 05-customer-language-bank.md #145\n\nEvery mom who's been where you are now will tell you the same thing: once you understand the gap, everything changes. Not because the methods get better, because you finally stop fighting the wrong problem.\n\n*\n---",
+        "type": "social_proof"
+      },
+      {
+        "name": "Product Introduction",
+        "content": "BrightKidCo underwear is built around one job: teach the brain to feel the signal before it's too late.\n\nThree layers, each with a purpose:\n\n- Layer 1 (Cotton Inner): Gentle, sensory-friendly fabric that creates a soft \"uh-oh\" sensation, not the instant absorbency of a pull-up that wicks everything away\n- Layer 2 (Smart Absorption): Protects furniture and floors without blocking the learning signal. Enough absorbency for accidents, never enough to let the brain ignore what happened\n- Layer 3 (Leak-Resistant Barrier): Outer protection for confident wear, at home, at daycare, in the Pre-K classroom\n\nThe 3+3 Bundle gives you 6 pairs, enough for a full rotation of body-signal learning underwear. No more pull-ups that keep your child \"too dry to learn.\" No more soggy cotton training pants that teach nothing.\n\n*\n---",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee",
+        "content": "You don't have to believe the science. You just have to try it.\n\n60 days. By your judgment. If your child shows no sign of body awareness, no pause, no look, no step toward the potty, full refund. No questions. No forms. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.\n\nAnd Pre-K is coming. Every week of body-signal learning is a week closer to closing that gap.\n\n*\n---",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "Primary CTA:\n> Shop the 3+3 Bundle, $79.99, Free Shipping\n\nCTA Formula: Action Verb + Benefit \nButton Copy: See the Body-Signal System in Action\nSecondary Text Link: Learn how 6 pairs build the learning rotation\n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\nPlacement Strategy:\n- CTA 1 (Hero): Positioned above the fold, immediately after mechanism deep, captures the \"aha\" moment when the interoception reframe clicks\n- CTA 2 (Bottom): Positioned after Guarantee, captures readers who needed the risk removal before committing\n\nRationale: For L1, fast decision-makers (2-7 day window) need a clear, benefit-stated CTA. The 3+3 Bundle at $79.99 is the default offer per S1 pricing rules. Pre-K urgency is implicit in the body but not forced in the CTA. \n\n---\n\nNext time: The research behind the body-signal approach \u2014 and why 49% of children face this gap.",
+        "type": "cta"
+      }
+    ],
+    "cta": {
+      "button_text": "aha",
+      "formula": "Action Verb + Benefit"
+    },
+    "signoff": {
+      "variant": "SHORT (E1-E2 variant,",
+      "text": "Thanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.\n\nLena \u2014\u2014\n\n SHORT (E1-E2 variant, \n E1-E2 uses SHORT sign-off to keep momentum. The reply invitation is the most important element, it drives deliverability (positive engagement signal) and builds the peer relationship."
+    },
+    "footer": {
+      "text": "BrightKidCo LLC\n[Physical Address, TBD per CAN-SPAM compliance]\n\nNo longer want these emails? Unsubscribe or Manage Preferences\n\nQuestions? Reply to this email, we read every response."
+    }
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "E2 \u2014 Day 1",
+    "audience": "L1",
+    "messaging_type": "awareness",
+    "emotional_arc": "Naming failed methods \u2192 Absolving guilt \u2192 Offering mechanism \u2192 Hope through understanding",
+    "hope_ratio": "70/30 \u2014 Hope-intact, urgency OK",
+    "urgency": "allowed",
+    "purpose": "education",
+    "cta_force": "very_low",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Oh Crap stressed you both out. Sticker charts didn't stick. Timer sits became a battle.\n\n*\n---\n\n### Failed Methods Recognition\n\nYou did everything the books and the internet told you. You set timers. ..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "Here's the thing that changes everything: you didn't fail. The methods did.\n\nOh Crap, sticker charts, timer sits, they all share a hidden assumption. They assume your child's nervous system sends the ..."
+    },
+    {
+      "section_name": "Mechanism Deep",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "This called the interoception gap \u2014 the space between your child's body sending a signal and his brain receiving it.\n\nThe signal arrives, but milliseconds or minutes too late. That's why timed methods..."
+    },
+    {
+      "section_name": "Social Proof",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "Real parents describe it exactly like this:\n\n> \"He says 'I need to pee' AFTER it's already happened.\"\n>, L1 parent, source: DOC2-LEVEL1.txt\n\n> \"Some days he's great, other days zero.\"\n>, L1 parent, so..."
+    },
+    {
+      "section_name": "Product Introduction",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "BrightKidCo underwear is built around one job: teach the brain to feel the signal before it's too late.\n\nThree layers, each with a purpose:\n\n- Layer 1 (Cotton Inner): Gentle, sensory-friendly fabric t..."
+    },
+    {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "You don't have to believe the science. You just have to try it.\n\n60 days. By your judgment. If your child shows no sign of body awareness, no pause, no look, no step toward the potty, full refund. No ..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "Primary CTA:\n> Shop the 3+3 Bundle, $79.99, Free Shipping\n\nCTA Formula: Action Verb + Benefit \nButton Copy: See the Body-Signal System in Action\nSecondary Text Link: Learn how 6 pairs build the learni..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

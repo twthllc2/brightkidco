@@ -1,0 +1,87 @@
+{
+  "email_id": "pped-22-e2-l1",
+  "flow": "unknown",
+  "position": "",
+  "audience": "UNKNOWN",
+  "messaging_type": "unknown",
+  "picks": {
+    "body": {
+      "section_type": "body",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter) *(L468)*",
+      "component_position": "body_recognition",
+      "component_messaging": "story",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddler-backpack-moon-cloud-blue.png",
+      "image_type": null,
+      "needs_image": true
+    },
+    "body_2": {
+      "section_type": "body",
+      "component_id": "17.7",
+      "component_name": "Closing Letter (Before CTA) (uses Letter) *(L1716)*",
+      "component_position": "body_recognition",
+      "component_messaging": "conversion",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddler-playing.jpg",
+      "image_type": null,
+      "needs_image": true
+    },
+    "offer": {
+      "section_type": "offer",
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source) *(L613)*",
+      "component_position": "product_showcase",
+      "component_messaging": "product",
+      "component_giuliano": "giuliano_source",
+      "image": "toddler-playing-train-moon-cloud-blue.png",
+      "image_type": "product_bundle",
+      "needs_image": true
+    },
+    "body_3": {
+      "section_type": "body",
+      "component_id": "23.2",
+      "component_name": "Drop Cap Initial Letter (uses Letter) *(L2133)*",
+      "component_position": "body_recognition",
+      "component_messaging": "story",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddlers-backview-disposable-diapers.png",
+      "image_type": null,
+      "needs_image": true
+    },
+    "body_4": {
+      "section_type": "body",
+      "component_id": "UTIL-01",
+      "component_name": "Gradient Band (uses Band) *(L7487)*",
+      "component_position": "body_recognition",
+      "component_messaging": "design",
+      "component_giuliano": "giuliano_derived",
+      "image": null,
+      "image_type": null,
+      "needs_image": false
+    },
+    "body_5": {
+      "section_type": "body",
+      "component_id": "UTIL-05",
+      "component_name": "Signoff Card (uses Signoff) *(L7600)*",
+      "component_position": "body_recognition",
+      "component_messaging": "story",
+      "component_giuliano": "giuliano_derived",
+      "image": null,
+      "image_type": null,
+      "needs_image": false
+    }
+  },
+  "stats": {
+    "image_count": 4,
+    "component_count": 6,
+    "images_min": 4,
+    "images_max": 6,
+    "components_min": 3,
+    "components_max": 6
+  },
+  "validation": {
+    "issues": [],
+    "valid": true
+  }
+}

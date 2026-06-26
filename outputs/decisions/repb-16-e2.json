@@ -1,0 +1,76 @@
+{
+  "email_id": "repb-16-e2",
+  "flow": "replenish",
+  "position": "",
+  "audience": "UNKNOWN",
+  "messaging_type": "winback",
+  "picks": {
+    "recognition": {
+      "section_type": "recognition",
+      "component_id": "17.7",
+      "component_name": "Closing Letter (Before CTA) (uses Letter) *(L1716)*",
+      "component_position": "body_recognition",
+      "component_messaging": "conversion",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddler-playing-train-moon-cloud-blue.png",
+      "image_type": null,
+      "needs_image": true
+    },
+    "recognition_2": {
+      "section_type": "recognition",
+      "component_id": "8",
+      "component_name": "CTA Varieties (Permission-Based) *(L211)*",
+      "component_position": "body_recognition",
+      "component_messaging": "conversion",
+      "component_giuliano": "quality_approved",
+      "image": "toddler-playing.jpg",
+      "image_type": null,
+      "needs_image": true
+    },
+    "mechanism": {
+      "section_type": "mechanism",
+      "component_id": "PSYDEEP-15",
+      "component_name": "The Hyperbolic Discounting *(L13074)*",
+      "component_position": "body_mechanism",
+      "component_messaging": "conversion",
+      "component_giuliano": "quality_approved",
+      "image": "toddler-backpack-moon-cloud-blue.png",
+      "image_type": "educational",
+      "needs_image": true
+    },
+    "guarantee": {
+      "section_type": "guarantee",
+      "component_id": "21.3",
+      "component_name": "Urgency Banner *(L1949)*",
+      "component_position": "guarantee_trust",
+      "component_messaging": "conversion",
+      "component_giuliano": "agent_standard",
+      "image": "toddler-outdoors-grass-disposable-diaper.png",
+      "image_type": "badge_seal",
+      "needs_image": true
+    },
+    "body": {
+      "section_type": "body",
+      "component_id": "REV-02.4",
+      "component_name": "REV-02.4 \u2014 CTA Block (After-Social-Proof Conversion) *(L20594)*",
+      "component_position": "body_recognition",
+      "component_messaging": "conversion",
+      "component_giuliano": "agent_standard",
+      "image": null,
+      "image_type": null,
+      "needs_image": false
+    }
+  },
+  "stats": {
+    "image_count": 4,
+    "component_count": 5,
+    "images_min": 4,
+    "images_max": 6,
+    "components_min": 3,
+    "components_max": 6
+  },
+  "validation": {
+    "issues": [],
+    "valid": true
+  }
+}

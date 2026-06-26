@@ -1,0 +1,285 @@
+{
+  "email_id": "welcome-01-e1-l2",
+  "source_file": "outputs/copy/welcome/welcome-01-e1-l2.md",
+  "copy": {
+    "file": "welcome-01-e1-l2.md",
+    "metadata": {
+      "flow": "Welcome Flow",
+      "position": "E1 (Email 1 of 8)",
+      "level": "L2 \u2014 Lisa",
+      "phase": "1 \u2014 Slow Realization",
+      "purpose": "Immediate validation + mechanism teaser. Convert confusion into curiosity.",
+      "emotional_arc_position": "Mirror confusion \u2192 Validate \u2192 Offer mechanism as explanation \u2192 Curiosity to continue",
+      "send_timing": "Day 0 (immediately after pop-up opt-in)",
+      "tag": "avatar_level2",
+      "6-element_compliance": "\u2705 Real Symptom Recognition \u2014 \u2705 Mechanism Specificity \u2014 \u2705 BCBA Acknowledgment \u2014 \u2705 Realistic Timelines \u2014 \u2705 60-Day Guarantee \u2014 \u2705 Permission-Not-to-Buy"
+    },
+    "subject": "Why every method failed, neurology, not effort",
+    "preview": "**Preview Text:** The signal from bladder to brain doesn't arrive the way traditional methods assume. It's not training. It's neurology.\n\n| Component | Detail |\n|-----------|--------|\n| **Length** | 115 characters |\n| **Strategy** | Complement \u2014 expands on mechanism tease without repeating subject line |\n| **Mobile Lead** | First 40 chars: \"The signal from bladder to brain doesn't arrive\" |\n| **Relationship to Subject** | Subject names the problem (method failure). Preview names the real cause (signal problem). Together they create a complete hook. |",
+    "from_name": "**From:** Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "You've tried the BCBA protocol, OT sensory work, social stories, sticker charts, timer sits, the special seat, the potty watch, the reward system with the preferred toy. You've read the books. You've read the blogs. You've asked in the Facebook groups. You've asked the BCBA. You've asked the pediatrician.\n\nNothing changed.\n\nI know that sentence lands heavy. I want you to sit with it for a second, not because nothing changed, but because of what that actually means.\n\n---\n\n#",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "It's not that you didn't try hard enough.\n\nI need you to hear that clearly, because I know what's running through your head right now. You're thinking: *If I had just been more consistent. If I had started earlier. If I had found the right method.*\n\nThat's the story every parent in your position tells themselves. And every single time, it's wrong.\n\nThe real problem isn't your effort. It's not his compliance. It's not your consistency or your patience or your timing.\n\nIt's that every method you tried, every single one, assumed your child can feel when they need to go. That's what I need you to understand.\n\n---\n\n#",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism",
+        "content": "The \"I need to go\" signal is a body signal \u2014 a neurological message from bladder to brain. For many autistic children, that message doesn't arrive in time, or at all.\n\nResearch confirms this is neurology, not training. A landmark 49-study review confirmed body signal differences are a well-established feature of autism. Your child's brain and bladder are sending messages on different frequencies. Every method you tried assumed the signal was there. It wasn't. You weren't failing \u2014 you were working with the wrong map.\n\n---\n\n#",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof",
+        "content": "Here's what one L2 parent told us after finding this explanation:\n\n> \"He communicates fine about everything ELSE but cannot tell me he needs to pee. If I could just get him the signal, I know the rest would follow.\"\n\nThat's not a parenting failure. That's a parent who has been fighting the wrong war with the right tools.\n\nAnother parent, after 2.5 years of trying everything:\n\n> \"We tried on and off for probably three years. Nothing worked until we understood it was a body signal problem, not a behavior problem.\"\n\nThese aren't isolated stories. They're the pattern every L2 family experiences. The common thread is not the child's willingness, it's the missing signal.\n\n---\n\n#",
+        "type": "social_proof"
+      },
+      {
+        "name": "Product Intro (Teaser)",
+        "content": "BrightKidCo exists because every method started from the wrong assumption: that your child can feel the body signal. We designed a system that starts from what's actually true.\n\nThe body-signal underwear, a three-layer training underwear system, doesn't teach your child to sit on a potty. It teaches their brain to feel the signal. Layer 1 uses a gentle sensation that lasts, not a shock, not an alarm, that gives the brain time to register: *something happened.* For a nervous system that picks up signals slowly, 30-60 seconds of feedback is the difference between \"I didn't notice\" and \"I felt something.\"\n\nThis not an overnight solution. We don't promise quick. But it is a different approach, built on a different understanding of what's actually happening in your child's body.\n\n---\n\n#### Realistic Timeline\n\nWhat this looks like in real life:\n\nFor Level 2 children, where sensory processing differences are more pronounced and the interoception gap is wider, parents typically see the first signs of body awareness within 2-4 weeks of consistent use. That might be a pause. A look down. A single step toward the bathroom after an accident. That's not training. That's the brain receiving a signal it never got before.\n\nFull awareness development usually takes 8-12 weeks. Some children take longer. That's not failure, that's the range of normal for children whose nervous systems process signals differently.\n\nWe're not selling overnight success. We're selling a signal your child's brain can actually receive.\n\n---\n\n#",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee",
+        "content": "Try it for 60 days. By your judgment.\n\nNot by some arbitrary timeline. Not by a checklist. Your judgment about whether this approach fits your child, that's the only metric that matters.\n\nIf it doesn't work for your family, full refund. No forms. No hoops. No \"did you try hard enough?\" guilt. You decide.\n\n---\n\n#",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "Primary CTA Button:\nTry Our 60-Day Approach, Start with the 3+3 Bundle\n\n| Component | Detail |\n|-----------|--------|\n| Formula | Action Verb + Benefit + Context |\n| Action Verb | \"Try\" |\n| Benefit | \"60-Day Approach\" (risk-reduced, judgment-based) |\n| Offer | 3+3 Bundle (6 pairs) |\n| Character Count | 48 characters |\n| Tone | Low-pressure, permission-based \u2014 no urgency, no scarcity |\n| CTA Type | Benefit-Driven Command |\n| Placement | Above the fold + bottom repeat |\n\nSecondary Text Link:\nOr browse our sizing guide to see if BKC fits your child\n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n---\n\n#### Permission-Not-to-Buy\n\nThis email might not be for you right now. Maybe you're not ready to try something new. Maybe you need to sit with this information for a few days. Maybe thisn't where your child is yet.\n\nThat's okay.\n\nThis approach isn't going anywhere. It's not a limited-time offer. It's a different way of understanding what your child is experiencing, and that understanding doesn't expire.\n\nIf today isn't the day, save this email. Come back when you're ready.\n\n---\n\nNext time: Why the methods you tried couldn't work \u2014 and what actually can.\n\n### Lena Sign-Off (SHORT \u2014 E1 Variant)\n\nThanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.\n\nLena \u2014\u2014\n\n---",
+        "type": "cta"
+      },
+      {
+        "name": "Footer",
+        "content": "BrightKidCo LLC\n1234 Commerce Street, Suite 200\nPortland, OR 97201\nUnited States\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nQuestions about your order? Reply to this email, we respond within 24 hours.\n\n*BrightKidCo does not provide medical advice. Our products are designed to support body signal awareness and are not a substitute for professional medical care, therapy, or behavioral intervention. Always consult your child's healthcare provider, BCBA, or occupational therapist for personalized guidance.*\n\n---\n\n### Source Citations\n\n| Claim | Source |\n|-------|--------|\n| L2 Hook \u2014 method recognition (BCBA, OT, social stories, sticker charts, timer sits) | S2 Full Email Copy Strategy \u00a71.1 L2; autistic-level2-quotes.md \u00a71 Quote 1-2 |\n| \"Every method assumed your child can feel when they need to go\" | MASTER-INGESTION-COMPENDIUM.md \u00a71 \u2014 core insight line 99-101 |\n| Nicholson et al. 2019 \u2014 body awareness in ASD | MASTER-RESEARCH-COMPENDIUM.md \u00a72.1; SCIENCE-PROOF-POINTS.md PP-A01 |\n| Barmpagiannis & Baldimtsi 2025 \u2014 49-study systematic review | MASTER-RESEARCH-COMPENDIUM.md \u00a72.1; SCIENCE-PROOF-POINTS.md PP-A06 |\n| \"Brain and bladder sending messages on different frequencies\" | MASTER-DIAGNOSIS-COMPENDIUM.md \u00a71.8 \u2014 reframe language |\n| \"He communicates fine about everything ELSE\" \u2014 L2 verbatim quote | autistic-level2-quotes.md \u00a71 Quote 5; 01-customer-avatar.md \u00a73.3 |\n| \"We tried on and off for probably three years\" | autistic-level2-quotes.md \u00a71 Quote 8 |\n| body-signal underwear \u2014 3-layer system | 04-mechanism-positioning.md \u00a74.2 |\n| 2-4 weeks / 8-12 weeks timeline | 01-customer-avatar.md \u00a73.3; GIULIANO-DEMANDS.md \u00a723 |\n| 60-day guarantee framing | S2 \u00a71.1; 1-full-email-strategy.md \u00a713 |\n| 3+3 Bundle (6 pairs) offer | 1-full-email-strategy.md \u00a713 \u2014 L2 pricing rules |\n| Permission-not-to-buy language | GIULIANO-DEMANDS.md \u00a723 Element 6; 01-customer-avatar.md \u00a73.3 |\n| Lena sign-off SHORT variant | S2 \u00a71.1; 11-brand-voice-reference.md \u00a79 |\n| 6-Element L2 Formula | MASTER-DIAGNOSIS-COMPENDIUM.md \u00a76.1; 01-customer-avatar.md \u00a73.3; 3-segmentation-blueprint.md \u00a71.2 |",
+        "type": "body"
+      }
+    ],
+    "cta": {
+      "button_text": "Try"
+    },
+    "signoff": {
+      "text": "Thanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.\n\nLena \u2014\u2014"
+    },
+    "footer": {
+      "text": "BrightKidCo LLC\n1234 Commerce Street, Suite 200\nPortland, OR 97201\nUnited States\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nQuestions about your order? Reply to this email, we respond within 24 hours.\n\n*BrightKidCo does not provide medical advice. Our products are designed to support body signal awareness and are not a substitute for professional medical care, therapy, or behavioral intervention. Always consult your child's healthcare provider, BCBA, or occupational therapist for personalized guidance.*"
+    }
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "E1 (Email 1 of 8)",
+    "audience": "L2",
+    "messaging_type": "awareness",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "education",
+    "cta_force": "very_low",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "You've tried the BCBA protocol, OT sensory work, social stories, sticker charts, timer sits, the special seat, the potty watch, the reward system with the preferred toy. You've read the books. You've ..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "It's not that you didn't try hard enough.\n\nI need you to hear that clearly, because I know what's running through your head right now. You're thinking: *If I had just been more consistent. If I had st..."
+    },
+    {
+      "section_name": "Mechanism",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "The \"I need to go\" signal is a body signal \u2014 a neurological message from bladder to brain. For many autistic children, that message doesn't arrive in time, or at all.\n\nResearch confirms this is neurol..."
+    },
+    {
+      "section_name": "Social Proof",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "Here's what one L2 parent told us after finding this explanation:\n\n> \"He communicates fine about everything ELSE but cannot tell me he needs to pee. If I could just get him the signal, I know the rest..."
+    },
+    {
+      "section_name": "Product Intro (Teaser)",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "BrightKidCo exists because every method started from the wrong assumption: that your child can feel the body signal. We designed a system that starts from what's actually true.\n\nThe body-signal underw..."
+    },
+    {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "Try it for 60 days. By your judgment.\n\nNot by some arbitrary timeline. Not by a checklist. Your judgment about whether this approach fits your child, that's the only metric that matters.\n\nIf it doesn'..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "Primary CTA Button:\nTry Our 60-Day Approach, Start with the 3+3 Bundle\n\n| Component | Detail |\n|-----------|--------|\n| Formula | Action Verb + Benefit + Context |\n| Action Verb | \"Try\" |\n| Benefit | ..."
+    },
+    {
+      "section_name": "Footer",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "BrightKidCo LLC\n1234 Commerce Street, Suite 200\nPortland, OR 97201\nUnited States\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nQ..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

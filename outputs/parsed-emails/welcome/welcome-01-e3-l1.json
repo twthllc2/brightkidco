@@ -1,0 +1,257 @@
+{
+  "email_id": "welcome-01-e3-l1",
+  "source_file": "outputs/copy/welcome/welcome-01-e3-l1.md",
+  "copy": {
+    "file": "welcome-01-e3-l1.md",
+    "metadata": {},
+    "subject": "The science behind the \"uh-oh\" sensation",
+    "preview": "- **Preview:** 49% of autistic 4-5 year olds aren't trained. Not a parenting failure, a documented difference.",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "Pre-K starts in a few months. He needs to be trained. You've tried sticker charts. You've tried timers. You've probably read Oh Crap, tried the naked weekend, and wondered why nothing stuck. Here's what nobody told you, and it changes everything about how you think about this.",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "Forty-nine percent of autistic 4-5 year olds aren't toilet trained. That's a CDC-funded study of 743 children (Wiggins et al. 2022). Compare that to just 8% of typically developing kids at the same age. That is 6 times more likely to still not be trained. This not a failure of parenting. It's not a failure of your child. It's a documented, measurable neurological gap, and naming it is the first step to closing it.",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism",
+        "content": "Here's what's actually happening. Your child's brain isn't receiving the body's signal early enough. Research shows autistic children process internal body signals differently \u2014 the feeling of \"I need to go\" arrives AFTER it's already happened.\n\nThis why everything you've tried felt like it almost worked. Sticker charts assume he can feel the signal. Timers assume the body runs on a predictable clock. For kids whose brains don't receive the signal on time, they create frustration.\n\nThe Body-Signal Learning Layer gives the nervous system the feedback it's been missing. When an accident happens, the cotton inner layer preserves a gentle \"uh-oh\" sensation for 30-60 seconds, sustained long enough for the brain to register: something happened.",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof / Testimonial",
+        "content": "\"He says 'I need to pee' AFTER it's already happened.\" That's what one L1 mom told us before she started using BSL. Two weeks in, something shifted. Her son paused mid-accident. Then he looked down. Then he walked to the potty. Not a full success. Not yet. But that pause had never happened before in three years of trying.\n\nThat's what a 30-second sustained signal does. It doesn't train your child. It gives his brain the information it's been missing.",
+        "type": "social_proof"
+      },
+      {
+        "name": "Product Introduction",
+        "content": "The BSL system has three layers, each designed for a specific purpose, not as a pull-up replacement. Layer 1 (cotton inner) creates the sustained signal. Layer 2 (smart absorption core) protects clothes and furniture without blocking the learning sensation. Layer 3 (protective outer barrier) resists leaks so you can stay calm while your child's brain does the work.\n\nIt's built for the brain that learns differently.",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee / Risk Reversal",
+        "content": "60 days to try it. By your judgment. If it doesn't work for your child, full refund.",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "- Button text: See if the 3+3 bundle works for your child\n- Secondary link text: Learn how body signals work\n- Placement: After Guarantee section (above fold if shortened, also repeated as bottom CTA before Lena sign-off)\n\nPricing box (3+3 Bestseller):\n\n3 + 3 FREE Bundle, 6 pairs\n$79.99 + FREE Shipping\nBest for L1: enough pairs for consistent signal-building\nSave 62% vs. buying singles\n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n---\n\nNext time: How the Body-Signal Learning Layer works \u2014 and why it's different from everything you've tried.",
+        "type": "cta"
+      }
+    ],
+    "cta": {},
+    "signoff": {
+      "text": "With understanding,\n\nLena \u2014,\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8. If your kid is anywhere on this curve, that's normal here. Lena \u2014,"
+    },
+    "footer": {
+      "text": "Built for the brain that learns differently.\n\nShop \u00b7 Parent Stories \u00b7 Contact us \u00b7 FAQ\n\n[Social Icons: Instagram \u00b7 TikTok]\n\n16,511 reviews \u00b7 4.9 \u2605, 100,000+ parents trust BrightKidCo\n\nBrightKidCo \u00b7 [Physical Address]\n\n{% unsubscribe %} \u00b7 Manage preferences\n\n*Reply to this email, Lena reads every response.*"
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Pre-K starts in a few months. He needs to be trained. You've tried sticker charts. You've tried timers. You've probably read Oh Crap, tried the naked weekend, and wondered why nothing stuck. Here's wh..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "Forty-nine percent of autistic 4-5 year olds aren't toilet trained. That's a CDC-funded study of 743 children (Wiggins et al. 2022). Compare that to just 8% of typically developing kids at the same ag..."
+    },
+    {
+      "section_name": "Mechanism",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Here's what's actually happening. Your child's brain isn't receiving the body's signal early enough. Research shows autistic children process internal body signals differently \u2014 the feeling of \"I need..."
+    },
+    {
+      "section_name": "Social Proof / Testimonial",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "\"He says 'I need to pee' AFTER it's already happened.\" That's what one L1 mom told us before she started using BSL. Two weeks in, something shifted. Her son paused mid-accident. Then he looked down. T..."
+    },
+    {
+      "section_name": "Product Introduction",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The BSL system has three layers, each designed for a specific purpose, not as a pull-up replacement. Layer 1 (cotton inner) creates the sustained signal. Layer 2 (smart absorption core) protects cloth..."
+    },
+    {
+      "section_name": "Guarantee / Risk Reversal",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days to try it. By your judgment. If it doesn't work for your child, full refund."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "- Button text: See if the 3+3 bundle works for your child\n- Secondary link text: Learn how body signals work\n- Placement: After Guarantee section (above fold if shortened, also repeated as bottom CTA ..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

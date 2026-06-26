@@ -1,0 +1,193 @@
+{
+  "email_id": "pped-22-e3-l1",
+  "source_file": "outputs/copy/pp-extended-ed/pped-22-e3-l1.md",
+  "copy": {
+    "file": "pped-22-e3-l1.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "Three small signs that mean the signal is finally getting through.",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "Subject Line",
+        "content": "Pre-K readiness is building, here's what to look for this month\n\n---\n\n## Preview Text\n\nThree small signs that mean the signal is finally getting through.\n\n---",
+        "type": "body"
+      },
+      {
+        "name": "Body",
+        "content": "Hey,\n\nYou're coming up on a month of using the Body-Signal Learning Layer.\n\nIf you're thinking \"I'm not sure anything's changing\", I hear you. Some shifts happen fast. Others move at a pace so slow you almost miss them.\n\nBut here's what I want you to watch for in weeks 5 through 8. These are the first signs that your child's nervous system is shifting from *reactive*, only noticing after the accident, to *proactive*, starting to catch the signal before it's too late.\n\nSign #1: The Pause.\n\nHe's mid-play, running trucks across the rug. Then he stops. Looks down. Resumes.\n\nThat pause didn't mean nothing. That pause means his brain registered *something*. It's the interoception pathway starting to fire, the signal-timing gap narrowing by milliseconds he can't describe but his body is beginning to feel.\n\nWhen you see the pause, don't prompt. Don't ask \"do you need to go?\" Just notice. He'll make the connection.\n\nSign #2: The Hand-to-Waist.\n\nHe touches his waistband. Pulls at the front. Shifts his weight.\n\nThese aren't random movements. They're his body's way of saying \"something's different down there.\" Three weeks ago he felt nothing until it was too late. Now there's a window, even if he doesn't yet know what to do with it.\n\nSign #3: The Late-Arriving Announcement.\n\nHe says \"I need to pee\", but he's already wet.\n\nI know this one feels like failure. It's not. It's progress. On D22 he couldn't feel anything. Now he's feeling it, just a few seconds too late. That's the gap closing. The signal is reaching his brain. The only thing missing is a few more seconds.\n\nMost of the L1 parents I talk to hit this phase between weeks 5 and 7. The mechanism works by gently training the sensory pathway: the cotton inner layer creates a sustained signal, 30\u201360 seconds of feedback, that gives the brain time to register: *something happened.* Over weeks, the brain learns to anticipate that signal before it arrives.\n\nPre-K is still [X months] away. You're building something that can't be rushed: an internal awareness that will serve him long after the underwear comes off.\n\nKeep the BKC undies in the daily rotation. 3+ hours a day, every day. Consistency builds the pathway. And when you see any of these three signs, pause, touch, late announcement, know that the system is working.\n\nIt's not linear. But it's real.\n\nOne L1 mom told me: \"He paused. Stood up. Walked halfway to the bathroom. Then had an accident in the hallway. But he WALKED. That never happened before.\" That's the signal finding its way.\n\n---",
+        "type": "body"
+      },
+      {
+        "name": "CTA Line",
+        "content": "You're in the phase that looks like nothing, and everything is shifting. Trust the pause.\n\n---\n\n## Sign-Off\n\nWith understanding,\n\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. One L1 mom told me last week: \"He paused. Stood up. Walked halfway to the bathroom. Then had an accident in the hallway. But he WALKED. That never happened before.\" The late-walk counts. It's the signal finding its way.\n\n---\n\n## Recommended Offer Placement\n\nSoft upsell (if on 1 Pair):\n> \"If you're starting to see these signs, a second pair can help extend the signal window. Four hours of wear time gives the nervous system what it needs to learn. The 3+3 Bundle adds rotation without pressure.\"\n\nReassurance (for all):\n> \"Your 60-day guarantee is still active. If this doesn't feel right, everything you spent is refundable. By your judgment.\"\n\n---",
+        "type": "cta"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Subject Line",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Pre-K readiness is building, here's what to look for this month\n\n---\n\n## Preview Text\n\nThree small signs that mean the signal is finally getting through.\n\n---"
+    },
+    {
+      "section_name": "Body",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Hey,\n\nYou're coming up on a month of using the Body-Signal Learning Layer.\n\nIf you're thinking \"I'm not sure anything's changing\", I hear you. Some shifts happen fast. Others move at a pace so slow yo..."
+    },
+    {
+      "section_name": "CTA Line",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "You're in the phase that looks like nothing, and everything is shifting. Trust the pause.\n\n---\n\n## Sign-Off\n\nWith understanding,\n\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. One L1 mom t..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "email_id": "review-18-e1",
+  "source_file": "outputs/copy/review-request/review-18-e1.md",
+  "copy": {
+    "file": "review-18-e1.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "METADATA",
+        "content": "| Property | Value |\n|----------|-------|\n| Flow | Flow 18 \u2014 Review Request |\n| Position | E1 (Email 1 of 2) |\n| Segment | Cross-level (all 4 levels simultaneously) |\n| Trigger | Day 30-45 post-purchase, no review submitted |\n| Exit | Review submitted, Unsubscribed |\n| Section Structure | Hook \u2192 Recognition Anchors \u2192 Three-Family Testimonial \u2192 Leading Questions \u2192 CTA \u2192 Lena Sign-Off |\n| Emotional Arc | Gratitude \u2192 Recognition \u2192 Peer connection \u2192 Permission |\n 2-full-email-copy-strategy.md \u00a7Subject Line Matrix (line 1893, 1921), S02-A-framework.md \u00a74.17 (line 400-407), Layer-18-Cross-Level-Calibration.md \u00a7Part 7-8, Layer-17-Tonality-Calibration.md \u00a77 (line 442-445) |\n\n---\n\n### SUBJECT LINE\n\n```\nWould you recommend us?\n```\n\n| Property | Specification |\n|----------|--------------|\n| Type | Question hook (formula type 5) |\n| Character Count | 23 (under 50 \u2713) |\n 2-full-email-copy-strategy.md \u00a76.2 Subject Line Matrix (line 1893) |\n\n---\n\n### PREVIEW TEXT\n\n```\nYour experience, whatever it looks like, helps another parent decide. 2 minutes can change everything for someone.\n```\n\n| Property | Specification |\n|----------|--------------|\n| Character Count | 108 (under 150 \u2713) |\n| Function | Lowers the barrier \u2014 \"your experience\" not \"your success.\" |\n Layer-18-Cross-Level-Calibration.md \u00a7Part 8, Universal Closers |\n\n---",
+        "type": "body"
+      },
+      {
+        "name": "BODY",
+        "content": "Section 1, Hook (Universal Recognition, R1, R3, R4, R5)\n\nWhether your child showed their first awareness after 2 weeks, or you're still watching after 8, whether they said \"wet\" one day, showed you with a gesture, or you noticed a pause you've never seen before, if something shifted, even a little, it matters more than you might think.\n\nNot because it proves the product works. Because another parent needs to know what \"working\" actually looks like.\n\n---\n\nSection 2, Recognition Anchors (R2, R6)\n\nMaybe you've seen one of these:\n\n, A pause before the accident. Just one. But it happened.\n, A look down at wetness for the first time.\n, Pulling at their pants, or showing you with their body.\n, Staying dry 2 hours instead of 30 minutes.\n, Nothing noticeable yet, and you're still watching, still hoping.\n\nAny one of these is real. And the parent reading this next week doesn't need a success story. They need an honest one.\n\n---\n\nSection 3, Three-Family Testimonial Pattern (GF Inclusion)\n\nThree different kids. Three different timelines. One common thread:\n\n> *\"He went from 'almost' to 'mostly' in about 6 weeks. I'd stopped believing that one missing piece, the signal, could make that much difference. It did.\"*\n>, Sarah, mom of a verbal 4-year-old\n\n> *\"She finally paused when she felt wetness. That was Week 4. We still have pull-up days. But she's feeling something for the first time.\"*\n>, Lisa, mom of a sensory-sensitive 6-year-old\n\n> *\"He's not trained. But he felt something for the first time in 8 years. He looked down. He paused. That's enough for now.\"*\n>, Maria, mom of a non-verbal 9-year-old\n\nIf your child fits any of these, your story is the one another parent needs to read.\n\n---\n\nSection 4, Review Ask with Leading Questions\n\nHere's what I'd love to know about your experience, and it doesn't have to be polished:\n\n\u2192 What was your child doing before BrightKidCo?\n\u2192 What changed, even a small thing?\n\u2192 What would you tell another parent who's considering this?\n\nA short review, 3 sentences, 2 sentences, bullet points, helps another parent recognize their own child in your story.\n\n---\n\nSection 5, Primary CTA\n\n```\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 Share your experience \u2192 \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n```\n\n| Property | Specification |\n|----------|--------------|\n| Type | Primary CTA (button) |\n| Color | Brand-Green #039902 |\n| Text | Permission frame \u2014 \"Share your experience\" |\n| Link | [Review page URL \u2014 product review form with photo upload option] |\n 2-full-email-copy-strategy.md \u00a77.1 CTA Framework |\n\n---\n\nSection 6, Secondary CTA (text link)\n\nOr hit reply and tell me in your own words. I read everything, and I'll take care of the rest.\n\n---\n\nNext time: A gentle follow-up \u2014 in case you wanted to share but ran out of time.\n\nSection 7, Lena Sign-Off (Medium variant)\n\n```\nTalk soon,\n\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. Your story, the honest one, the one with ups and downs, is exactly\nwhat another mom needs to read this week.\n```\n\n| Property | Specification |\n|----------|--------------|\n| Variant | Medium (first email in Review Request flow) |\n| Closing | \"Talk soon,\" |\n| Body | 2 sentences \u2713 |\n| P.S. | 1 line \u2713 |\n 11-brand-voice-reference.md \u00a79.2-9.4 (Sign-Off Selector Matrix) |\n\n---\n\nSection 8, Footer\n\n```\n*Standard unsubscribe and preference links apply.*\nBrightKidCo, Built for the brain that learns differently.\n[Unsubscribe] | [Update Preferences]\n```\n\n---\n\n### SOURCE CITATIONS\n\n| Element | Source |\n|---------|--------|\n| Subject line (\"Would you recommend us?\") | 2-full-email-copy-strategy.md \u00a76.2 \u2014 Subject Line Matrix, line 1893 |\n| Subject line type (Question hook) | 2-full-email-copy-strategy.md \u00a76.3, line 1921 |\n| Flow architecture (D30-45, 2 emails) | S02-A-framework.md \u00a74.17, line 400-407 |\n| Review strategy (\"Share your experience\") | S02-A-framework.md \u00a74.17, line 404 |\n| Leading questions for review | S02-A-framework.md \u00a74.17, line 404 |\n| Three-Family Testimonial Pattern | MASTER-DIAGNOSIS-COMPENDIUM.md \u00a74.6, Layer-18-Cross-Level-Calibration.md \u00a7Part 2 R6 |\n| Recognition anchors (R2) | Layer-18-Cross-Level-Calibration.md \u00a7Part 2 \u2014 Rule 2 |\n| Low-bar success metrics (R6) | Layer-18-Cross-Level-Calibration.md \u00a7Part 2 \u2014 Rule 6 |\n| Whether...Or...If... pattern | Layer-18-Cross-Level-Calibration.md \u00a7Part 3 |\n| Cross-level bridge language | Layer-18-Cross-Level-Calibration.md \u00a7Part 8 |\n| Stage 6 lifecycle tonality | Layer-17-Tonality-Calibration.md \u00a77 (line 402-445) |\n| Lena sign-off matrix | 11-brand-voice-reference.md \u00a79.2-9.4 |\n| CTA framework | 2-full-email-copy-strategy.md \u00a77.1 |\n| Reply-based migration | Layer-18-Cross-Level-Calibration.md \u00a7Part 4 \u2014 Path 2 |\n\n---\n\n## PART 2: FULL CREATIVE STRATEGY\n\n---\n\n### BIG IDEA\n\n\"Your story IS the proof another parent needs.\"\n\nThe most honest review is not the 5-star rating, it's the parent who says \"He's not trained, but he felt something for the first time.\" This email reframes the review ask from \"help our brand\" to \"help another mom see her own child in your experience.\" The product isn't thero of this email, the community is. The ask feels like a favor between peers, not a transaction.\n\nCreative territory: Peer-to-peer gratitude \u2192 Recognition \u2192 Service to others.\n\n---\n\n### LAYOUT\n\n```text\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502 EMAIL LAYOUT MAP \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502 \u2502\n\u2502 [HEADER, BrightKidCo logo + \"Customer Support \u00b7 \u2502\n\u2502 Mom of two autistic sons\" subline] \u2502\n\u2502 \u2502\n\u2502 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2502\n\u2502 \u2502\n\u2502 SECTION 1: HOOK (2-3 short paragraphs) \u2502\n\u2502 \u2192 Whether...Or...If... opening \u2502\n\u2502 \u2192 \"If something shifted, it matters\" \u2502\n\u2502 \u2192 Transition: \"Because another parent needs...\" \u2502\n\u2502 \u2502\n\u2502 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2502\n\u2502 \u2502\n\u2502 SECTION 2: RECOGNITION ANCHORS (bullet list) \u2502\n\u2502 \u2192 5 symptom-based mini-wins (R2 + R6) \u2502\n\u2502 \u2192 Em dash bullets, left-aligned \u2502\n\u2502 \u2192 Single column, no image \u2502\n\u2502 \u2502\n\u2502 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2502\n\u2502 \u2502\n\u2502 SECTION 3: THREE-FAMILY TESTIMONIALS (blockquote) \u2502\n\u2502 \u2192 3 testimonial blocks separated by spacing \u2502\n\u2502 \u2192 Italic body, small attribution line \u2502\n\u2502 \u2192 No photos, text only (faster load + privacy) \u2502\n\u2502 \u2192 \"If your child fits any of these\" transition \u2502\n\u2502 \u2502\n\u2502 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2502\n\u2502 \u2502\n\u2502 SECTION 4: LEADING QUESTIONS (short list) \u2502\n\u2502 \u2192 3 open-ended questions (\u2192 bullet style) \u2502\n\u2502 \u2192 Low-bar framing (\"2 sentences, bullet points\") \u2502\n\u2502 \u2502\n\u2502 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2502\n\u2502 \u2502\n\u2502 SECTION 5: PRIMARY CTA (button) \u2502\n\u2502 \u2192 Green button (#039902), white text \u2502\n\u2502 \u2192 \"Share your experience \u2192\" \u2502\n\u2502 \u2502\n\u2502 SECTION 6: SECONDARY CTA (text link) \u2502\n\u2502 \u2192 \"Reply to this email\" \u2502\n\u2502 \u2502\n\u2502 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2502\n\u2502 \u2502\n\u2502 SECTION 7: LENA SIGN-OFF \u2502\n\u2502 \u2192 \"Talk soon,\" \u2502\n\u2502 \u2192 2-sentence Lena body \u2502\n\u2502 \u2192 1-line P.S. \u2502\n\u2502 \u2502\n\u2502 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2500 \u2502\n\u2502 \u2502\n\u2502 [FOOTER, Unsubscribe, Preferences, Brand tagline] \u2502\n\u2502 \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n```\n\nSection order rationale:\n1. Hook opens with deference, the ask comes LAST, not first\n2. Recognition anchors let mom see herself before being asked\n3. Testimonials show peer examples across all levels\n4. Leading questions lower the effort barrier\n5. CTA is the natural next step after recognition + proof\n\n---\n\n### CONTRAPTION (Interactive Element)\n\n| Element | Specification |\n|---------|--------------|\n| Type | One-click rating widget (optional) |\n| Placement | Below testimonial section, above leading questions |\n| Behavior | Star rating (1-5) with text: \"Tap to rate \u2014 we'll handle the words.\" |\n| Fallback | If embedding fails, a text link: \"Quick rating \u2192\" leads to inline form |\n Pattern from 2-full-email-copy-strategy.md \u00a77, CTA framework allows secondary resource links |\n| Note | Only include if technical platform supports it (Klaviyo). Otherwise, remove entirely \u2014 button CTA alone is sufficient. |\n\n---\n\n### COLOR\n\n| Element | Color | Hex | Rationale |\n|---------|-------|-----|-----------|\n| Primary CTA Button | Brand Green | #039902 | Standard for cross-level CTAs per 2-full-email-copy-strategy.md \u00a77.1 |\n| Button Text | White | #FFFFFF | High contrast on green |\n| Testimonial Background | Light gray tint | #F7F7F7 | Soft visual break for the Three-Family block |\n| Testimonial Text | Dark gray | #333333 | Softer than pure black \u2014 reads as \"story\" not \"copy\" |\n| Body Text | Near-black | #1A1A1A | Standard readability |\n| Secondary CTA link | Brand Green | #039902 | Consistent with primary but underlined text style |\n| Header/Logo area | White bg | #FFFFFF | Clean separation |\n| Accent (bullets) | Muted green | #7BC77B | Soft recognition anchors \u2014 feels gentle, not urgent |\n\nColor rationale (cross-level): Green is neutral across all levels, no red (danger/urgency, forbidden for L2-L3), no blue (cold/clinical). Brand Green at #039902 has been validated across all 4 levels per the CTA framework.\n\n---\n\n### TYPOGRAPHY\n\n| Element | Family | Weight | Size (Desktop) | Size (Mobile) | Line Height |\n|---------|--------|--------|----------------|---------------|-------------|\n| Body | Georgia / serif | Regular | 18px | 16px | 1.6 |\n| Testimonial body | Georgia / italic | Regular | 17px | 15px | 1.5 |\n| Testimonial attribution | Arial / sans-serif | Regular | 14px | 13px | 1.4 |\n| CTA Button | Arial / sans-serif | Bold | 16px | 15px | 1.2 |\n| Hooks / key sentences | Georgia / serif | Regular | 18px | 16px | 1.6 |\n| Bullet anchors | Georgia / serif | Regular | 17px | 15px | 1.5 |\n| Lena sign-off | Georgia / serif | Regular | 16px | 15px | 1.5 |\n| Footer | Arial / sans-serif | Regular | 12px | 11px | 1.3 |\n\nFont rationale (cross-level): Serif body (Georgia) reads as personal, story-like, a letter from Lena, not a marketing email. Sans-serif (Arial) for CTA and footer signals functional elements. No decorative fonts, all levels are tired of \"cute\" email design.\n\n---\n\n### FURNITURE (Visual Elements)\n\n| Element | Specification | Purpose |\n|---------|---------------|---------|\n| Header | BrightKidCo logo (SVG, max 200px wide) + \"Customer Support \u00b7 Mom of two autistic sons\" subline | Brand anchor + Lena identity \u2014 every email |\n| Testimonial separator | Thin horizontal rule (1px, #E0E0E0, 60% width, centered) | Visual breath between testimonial blocks without adding clutter |\n| CTA Button | Rounded rectangle (8px border radius), full-width on mobile, centered on desktop | Tap-friendly minimum 48px height |\n| Section spacing | 32px padding between sections (20px mobile) | Readability \u2014 prevents visual fatigue |\n| Bullet markers | Em dash (\u2014) not standard bullet \u2022 | Softer, more narrative feel than aggressive bullet points |\n| P.S. indicator | Bold \"P.S.\" preceding sign-off postscript | Standard letter convention \u2014 reinforces peer voice |\n| Icons | None \u2014 text-only layout | Faster load, no accessibility issues, cleaner mobile render |\n\nFurniture rationale (cross-level): No photos, no icons, no decorative elements. The Three-Family section is text-only, avoids the \"stock photo problem\" where a generic parent image alienates any level. Text-only also loads faster on mobile and maintains privacy.\n\n---\n\n### EASTER EGG (Hidden Element)\n\n| Element | Description |\n|---------|-------------|\n| Type | Reply-based personal connection |\n| Mechanism | \"Or hit reply and tell me in your own words. I read everything.\" |\n| Why it works | Layer-18 \u00a7Part 4 identifies reply-based migration as Path 2 \u2014 mom's reply reveals level indicators. Even if she doesn't leave a public review, her reply feeds customer research and potentially her level tag. |\n| Hidden bonus | Moms who reply get a personal response from Lena (or support team as Lena) within 24 hours \u2014 building trust that converts future purchases. |\n| Cross-level value | Works for all levels: L1 parents often reply with excitement, L2 with detailed questions, L3 with cautious hope. No level feels excluded. |\n Layer-18-Cross-Level-Calibration.md \u00a7Part 4, Migration Path 2: Reply-Based Migration |\n\n---\n\n### MOTION (Animation Strategy)\n\n| Element | Animation | Duration | Trigger |\n|---------|-----------|----------|---------|\n| CTA Button | Subtle pulse (scale 1\u21921.02\u21921) on hover | 1.5s loop | Hover state only |\n| Testimonial block | None \u2014 static text | \u2014 | \u2014 |\n| Header | None | \u2014 | \u2014 |\n| General email | No entrance animations, no GIFs, no video | \u2014 | \u2014 |\n\nMotion rationale: Zero motion in the email body. This a review request, motion/animation would feel like marketing pressure, contradicting the peer-to-peer ask. The only hover animation is the standard CTA button state change (trust signal, not attention-grab).\n\nForbidden motions: \n- \u274c Countdown timers (conversion stage forbidden per Layer-17 \u00a73)\n- \u274c Confetti / celebration animations (over-promise energy)\n- \u274c Auto-playing video (deliverability risk + accessibility)\n- \u274c Parallax or scroll-triggered effects (email client incompatibility)\n\n---\n\n### LEVEL CALIBRATION (R1-R6 Verification)\n\n| Rule | Requirement | How This Email Satisfies It | Evidence |\n|------|-------------|----------------------------|----------|\n| R1 \u2014 Symptom Over Label | No level labels, describe observable behaviors | Uses \"verbal 4-year-old,\" \"sensory-sensitive 6-year-old,\" \"non-verbal 9-year-old\" \u2014 descriptive, not diagnostic. Never says \"Level 1,\" \"Level 2,\" \"Level 3.\" | Hook: \"showed you with a gesture\" / \"said 'wet' one day\" \u2014 symptom descriptions only. |\n| R2 \u2014 3-5 Recognition Anchors | Min 3 specific situations spanning all levels | 5 anchors: pause before accident (R6 universal / L1-L2), look down at wetness (L2-L3), pulling at pants (L2), staying dry longer (L1-L2), nothing noticeable yet (L3/early). | Section 2 contains exactly 5 bullet-point recognition anchors spanning all three levels. |\n| R3 \u2014 Age Ranges Over Fixed Ages | Never pin to a single age | Three-Family pattern uses \"verbal 4-year-old,\" \"sensory-sensitive 6-year-old,\" \"non-verbal 9-year-old\" \u2014 specific ages within testimonials (truthful), but hook uses age-neutral: \"your child.\" No \"for 5-year-olds\" language. | Hook paragraph avoids any single-age pinning. Testimonials show range 4-9 implicitly. |\n| R4 \u2014 Verbal/Non-Verbal Inclusivity | Cover both communication modes | Explicitly pairs verbal + non-verbal in hook: \"said 'wet' one day\" (verbal) paired with \"showed you with a gesture\" (non-verbal). Three-Family includes verbal (Sarah), mixed (Lisa), non-verbal (Maria). | Hook line 2: \"whether they said 'wet' one day, showed you with a gesture\" \u2014 exact verbal/non-verbal pairing per Layer-18 Rule 4. |\n| R5 \u2014 Timeline Flexibility | Present ranges, never fixed timelines | Hook opens with \"2 weeks or 8 weeks.\" Three-Family spans 4 weeks, 6 weeks, 8 years. Review ask doesn't promise any outcome timeline. Leading questions are retrospective (what happened), not forward-looking. | Hook line 1: \"Whether your child showed their first awareness after 2 weeks, or you're still watching after 8.\" |\n| R6 \u2014 Low-Bar Success Metrics | Define success as mini-wins, not \"fully trained\" | Every recognition anchor is a mini-win. Maria's testimonial explicitly says \"He's not trained. But he felt something for the first time.\" CTA asks for \"honest\" experience, not success story. | Section 5: \"A short review \u2014 3 sentences, 2 sentences, bullet points \u2014 helps another parent recognize their own child in your story.\" |\n\nAdditional Cross-Level Verification:\n\n| Check | Status | Note |\n|-------|--------|------|\n| No level labels in copy | \u2705 | \"Level 1/2/3\" never appears |\n| No diagnosis prerequisites | \u2705 | No \"for autistic kids\" \u2014 uses symptom language |\n| No fixed ages | \u2705 | Hook: age-neutral. Testimonials: specific ages in attributions (authentic quotes) |\n| No verbal-only language | \u2705 | Explicit verbal + non-verbal pairing |\n| No fixed timeline promises | \u2705 | \"2 weeks or 8 weeks\" \u2014 range, not promise |\n| No \"fully trained\" as metric | \u2705 | See R6 verification |\n| No Pre-K / school urgency | \u2705 | Not a purchase email \u2014 peer review request |\n| No \"just like other kids\" | \u2705 | No neurotypical comparison |\n| No \"easy / simple / quickly\" | \u2705 | None present |\n| No aggressive math reframes | \u2705 | None |\n| 50/50 hope/realism balance | \u2705 | Testimonials include both progress and \"still figuring it out\" |\n| Mechanism before product | \u2705 | Thisn't a mechanism email \u2014 it's a review request. Mechanism is implied through testimonials (results), not explained. |\n| Validation before proposal | \u2705 | Sections 1-3 validate before Section 4-5 ask |\n| Permission-not-to-buy energy | \u2705 | \"If your child fits any of these\" \u2014 no-pressure conditional; \"hit reply\" alternative |\n| Peer-to-peer voice | \u2705 | Lena sign-off, \"tell me in your own words\" |\n| \"Whether...Or...If...\" pattern | \u2705 | Hook paragraph uses the exact pattern per Layer-18 \u00a7Part 3 |\n| Three-Family Testimonial Pattern | \u2705 | Sections 3: three testimonials spanning L1, L2, L3 |\n\n---\n\n*End of Review Request Flow, Email 1*\n*Cross-Level (L1 \u00b7 L2 \u00b7 L3 \u00b7 GF)*\n*Phase 2 \u00b7 Flow 18 \u00b7 Position E1*",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "METADATA",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Property | Value |\n|----------|-------|\n| Flow | Flow 18 \u2014 Review Request |\n| Position | E1 (Email 1 of 2) |\n| Segment | Cross-level (all 4 levels simultaneously) |\n| Trigger | Day 30-45 post-purcha..."
+    },
+    {
+      "section_name": "BODY",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Section 1, Hook (Universal Recognition, R1, R3, R4, R5)\n\nWhether your child showed their first awareness after 2 weeks, or you're still watching after 8, whether they said \"wet\" one day, showed you wi..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

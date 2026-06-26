@@ -1,0 +1,228 @@
+{
+  "email_id": "detection-10",
+  "source_file": "outputs/copy/pp-level-detection/detection-10.md",
+  "copy": {
+    "file": "detection-10.md",
+    "metadata": {},
+    "subject": "A question about your kid",
+    "preview": "- **Preview:** 10 seconds, helps us send you better tips. No wrong answer.",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "It's been two weeks since your order arrived. How's it going so far?\n\nMaybe your kid is starting to pause when they feel the wetness. Maybe they haven't noticed at all yet. Maybe you're somewhere in between, a look here, a tug at the pants there, nothing consistent. All of that is completely normal for this stage. \n\nEvery kid's nervous system works on its own timeline. Some start showing awareness after two weeks. Others need eight. Both are normal. The only thing that matters is that the signal is getting a chance to arrive, and now we know it is, because the underwear is creating the feedback loop the brain needs.",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "We've been doing this long enough to know: every family's situation is different. Your child might be 3 or 10. Verbal or non-verbal. Diagnosed or still figuring it out. You might have tried one method or twelve. You might be feeling hopeful or you might be protecting yourself from disappointment. \n\nWherever you are on that spectrum, you're not alone in it. Two weeks into the Body-Signal approach, the most common experience is \"nothing dramatic happened yet.\" That's not failure. That's the nervous system doing exactly what it needs to do, adjusting to receiving a signal it's never had before.",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism",
+        "content": "Here's what we know happens next. The 30-60 seconds of gentle \"uh-oh\" sensation after every accident gives the brainformation it's been missing. Each time that sensation arrives, a tiny neural connection strengthens. One day, sometimes two weeks in, sometimes eight, the brain connects the dots: \"This feeling means I peed. I should use the potty.\" \n\nThe first sign is almost never \"I need to go.\" It's smaller. A pause. A look down. A hand touching the underwear. A step toward the bathroom, even after it's already happened. That small moment is the entire mechanism working. \n\n### Section 4: Help Us Help You (The Detection Moment)\nTo make sure the emails you get from here match your child's experience, could you answer one question? It takes ten seconds. There's no wrong answer.\n\nWhich of these sounds most like your child right now?\n\n\u2b1c Talks about the potty but won't actually do it\n\n\u2b1c Sensory issues, tried many methods, still stuck\n\n\u2b1c Non-verbal or high support needs, progress looks different here\n\n\u2b1c Still figuring out what's going on, keep it general",
+        "type": "mechanism"
+      },
+      {
+        "name": "Guarantee / Risk Reversal",
+        "content": "Pick whichever one fits. There's no wrong choice, and whatever you tell us, the 60-day guarantee still stands. You decide if this approach is working for your family.",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "- Button text: (The selected button text, linked to the appropriate action)\n- Placement: Section 4, the detection moment IS the CTA. No additional CTA needed after the buttons.",
+        "type": "cta"
+      }
+    ],
+    "cta": {
+      "button_text": ""
+    },
+    "signoff": {
+      "text": "With understanding,\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. Both my sons went through this. One took 6, the other almost 8. However long it takes, we're here."
+    },
+    "footer": {
+      "text": "BrightKidCo\n[Physical Address]\n[Unsubscribe link]\n\nReply to this email, Lena reads every response.\n\n## Source Citations\n- S2 section: \u00a71.9, Flow 10: PP-Level Detection, 4 symptom-based buttons, subject line, strategy\n- Cross-level calibration: Layer-18-Cross-Level-Calibration.md, R1 (symptom over label), R2 (3-5 recognition anchors), R3 (age ranges), R4 (verbal/non-verbal), R5 (timeline flexibility), R6 (low-bar success)\n- Tonality calibration: Layer-17-Tonality-Calibration.md \u00a74 (Stage 4, Post-Purchase Early)\n- Avatar levels: GIULIANO-DEMANDS.md \u00a71, Level marker phrases for all 4 levels\n- Sub-groups: Layer-21-Sub-Groups.md, Sub-Groups A-E identity states, \"Still figuring it out\" language\n- Mechanism: Synthesis 04-Mechanism-Positioning.md \u00a74.1, Body-Signal Learning Layer, 30-60 second feedback window\n- Brand voice: Synthesis 11-Brand-Voice-Reference.md \u00a79.4, MEDIUM sign-off\n- Button mapping: S2 \u00a71.9, 4 buttons cleanly map to avatar_level1/2/3/general tags\n- Product context: GIULIANO-DEMANDS.md \u00a72.2, PP-Level Detection fires Day 14 for GF purchasers only"
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "It's been two weeks since your order arrived. How's it going so far?\n\nMaybe your kid is starting to pause when they feel the wetness. Maybe they haven't noticed at all yet. Maybe you're somewhere in b..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "We've been doing this long enough to know: every family's situation is different. Your child might be 3 or 10. Verbal or non-verbal. Diagnosed or still figuring it out. You might have tried one method..."
+    },
+    {
+      "section_name": "Mechanism",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Here's what we know happens next. The 30-60 seconds of gentle \"uh-oh\" sensation after every accident gives the brainformation it's been missing. Each time that sensation arrives, a tiny neural connect..."
+    },
+    {
+      "section_name": "Guarantee / Risk Reversal",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "Pick whichever one fits. There's no wrong choice, and whatever you tell us, the 60-day guarantee still stands. You decide if this approach is working for your family."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "- Button text: (The selected button text, linked to the appropriate action)\n- Placement: Section 4, the detection moment IS the CTA. No additional CTA needed after the buttons."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

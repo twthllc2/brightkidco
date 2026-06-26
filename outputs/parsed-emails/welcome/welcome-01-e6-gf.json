@@ -1,0 +1,178 @@
+{
+  "email_id": "welcome-01-e6-gf",
+  "source_file": "outputs/copy/welcome/welcome-01-e6-gf.md",
+  "copy": {
+    "file": "welcome-01-e6-gf.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "LENA SIGN-OFF",
+        "content": "I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8. I know what it's like to look at a pull-up package and wonder if you're making the right call, or to buy something new and feel the same disappointment when nothing changes.\n\nI'm not here to sell you hope. I'm here to explain how the signal works, and let you decide if it's right for your child.\n\nIf you have questions, just hit reply. You'll get me, not a bot.\n\nWith care,\nLena,\n,\n\n---",
+        "type": "body"
+      },
+      {
+        "name": "FOOTER",
+        "content": "BrightKidCo\n1234 Commerce Street, Suite 200, Los Angeles, CA 90017\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nQuestions? Reply to this email, we read every response.\n\n---\n\n### SOURCE CITATIONS\n\n| # | Citation | Source File |\n|---|----------|-------------|\n| 1 | Wiggins et al. (2022), CDC-funded SPARK study, 49% of autistic 4-5 year olds not toilet trained (N=743) | MASTER-RESEARCH-COMPENDIUM.md \u00a72.2 |\n| 2 | Nicholson et al. (2019), Children with ASD show diminished body awareness; landmark study | MASTER-RESEARCH-COMPENDIUM.md \u00a72.1 |\n| 3 | Iqbal (2022), 59% of autistic children can't reliably signal urination needs | MASTER-RESEARCH-COMPENDIUM.md \u00a72.2 |\n| 4 | Pull-ups cost comparison: $50-100+/month ongoing vs BrightKidCo one-time | MASTER-RESEARCH-COMPENDIUM.md \u00a71.1 |\n| 5 | body-signal underwear mechanism description, 3-Layer System | 04-mechanism-positioning.md \u00a74.1 |\n| 6 | Parent quote: \"She'll pee herself and just keep playing in the puddle\" | MASTER-INGESTION-COMPENDIUM.md \u00a72.1 (Universal quotes) |\n| 7 | Parent quote: \"She started doing better once I eased up on the stressing\" | MASTER-INGESTION-COMPENDIUM.md \u00a75.1 (Facebook mining) |\n| 8 | Parent quote: \"Potty training isn't linear\", community voice | MASTER-INGESTION-COMPENDIUM.md \u00a72.1 |\n| 9 | GF-level calibration rules: symptom language, R1-R6 cross-level rules | GIULIANO-DEMANDS.md \u00a71.2, \u00a74 |\n| 10 | Pull-ups comparison table: wetness signal, cost, training duration | MASTER-INGESTION-COMPENDIUM.md \u00a74.3 |",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "LENA SIGN-OFF",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8. I know what it's like to look at a pull-up package and wonder if you're making the right call, or..."
+    },
+    {
+      "section_name": "FOOTER",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "BrightKidCo\n1234 Commerce Street, Suite 200, Los Angeles, CA 90017\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nQuestions? Repl..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

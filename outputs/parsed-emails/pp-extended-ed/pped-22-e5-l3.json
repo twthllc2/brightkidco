@@ -1,0 +1,182 @@
+{
+  "email_id": "pped-22-e5-l3",
+  "source_file": "outputs/copy/pp-extended-ed/pped-22-e5-l3.md",
+  "copy": {
+    "file": "pped-22-e5-l3.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "Lena Sign-Off (Medium-Long variant)",
+        "content": "With care,\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. One of my sons was 8 before we figured anything out. I spent years thinking were the only ones. We weren't. Neither are you. The community link is at the bottom of this email, bookmark it for whenever you're ready.\n\n---",
+        "type": "body"
+      },
+      {
+        "name": "Footer",
+        "content": "---\n\nYou're receiving this email because you're part of the BrightKidCo community.\n\nBrightKidCo\n123 Main Street, Suite 200\nPortland, OR 97201\nUnited States\n\n[Unsubscribe]({{unsubscribe}}) | [Manage Preferences]({{manage_preferences}})\n\n\u00a9 2026 BrightKidCo LLC. All rights reserved.\n\n---\n\n### Copy Notes & Source Citations\n\n| Element | Source |\n|---------|--------|\n| \"he's never given me a signal in 8 years\" | 05-customer-language-bank.md \u00a7B3: Cat 1 (#148) |\n| \"He paused. He looked down at the wet spot.\" | 05-customer-language-bank.md \u00a7A7 (#104, #102) |\n| \"He's not trained. But he's feeling something.\" | Level Messaging Matrix \u00a74.7 Tier 2 (Peer L3 Testimonial) |\n| 60-day guarantee (implied via \"no obligation\") | V8 (60-day guarantee); S2 \u00a71.12 L3 |\n| \"My son was 8 before we figured anything out\" | Layer-09-voice-lena.md \u00a71.3 (Phase 3 fragment) |\n| Dignity-first framing throughout | Level Messaging Matrix \u00a74.2 (Dignity Test) |\n| \"Late is not never\" implicit theme | Brand Voice Reference \u00a77.1 Approved Phrases |\n| L3 Emotional Arc: quiet acceptance \u2192 redefined success | S2 \u00a72.5 (PP-Extended Education Emotional Arc) |\n| No urgency, no pressure, no promises | Level Messaging Matrix \u00a74.5 (Tonality Calibration) |",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {
+      "text": "With care,\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. One of my sons was 8 before we figured anything out. I spent years thinking were the only ones. We weren't. Neither are you. The community link is at the bottom of this email, bookmark it for whenever you're ready."
+    },
+    "footer": {
+      "text": "---\n\nYou're receiving this email because you're part of the BrightKidCo community.\n\n**BrightKidCo**\n123 Main Street, Suite 200\nPortland, OR 97201\nUnited States\n\n[Unsubscribe]({{unsubscribe}}) | [Manage Preferences]({{manage_preferences}})\n\n\u00a9 2026 BrightKidCo LLC. All rights reserved."
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Lena Sign-Off (Medium-Long variant)",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "With care,\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. One of my sons was 8 before we figured anything out. I spent years thinking were the only ones. We weren't. Neither are you. The co..."
+    },
+    {
+      "section_name": "Footer",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "---\n\nYou're receiving this email because you're part of the BrightKidCo community.\n\nBrightKidCo\n123 Main Street, Suite 200\nPortland, OR 97201\nUnited States\n\n[Unsubscribe]({{unsubscribe}}) | [Manage Pr..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

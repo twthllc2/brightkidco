@@ -1,0 +1,286 @@
+{
+  "email_id": "welcome-01-e1-l3",
+  "source_file": "outputs/copy/welcome/welcome-01-e1-l3.md",
+  "copy": {
+    "file": "welcome-01-e1-l3.md",
+    "metadata": {
+      "flow": "Welcome Flow",
+      "position": "E1 (Email 1 of 8)",
+      "level": "L3 \u2014 Maria (~25% of known audience)",
+      "phase": "1 \u2014 Launch",
+      "purpose": "Immediate validation + mechanism teaser. Convert resignation into calm curiosity.",
+      "emotional_arc": "Mirror exhaustion \u2192 Validate dignity \u2192 Offer mechanism as neurological explanation \u2192 Quiet curiosity to continue",
+      "send_timing": "Day 0 (immediately after pop-up signup)",
+      "cadence_variant": "SLOWEST \u2014 E1\u2192E2 gap 2 days (not 1). Zero urgency in any email.",
+      "tag": "`avatar_level3`",
+      "source_justification": "S2 Copy Strategy \u00a7Welcome E1 L3; GIULIANO-DEMANDS.md \u00a73, \u00a75; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a71.3"
+    },
+    "subject": "After years of trying, here's what we know",
+    "preview": "He's never shown a sign of feeling wet. That's not failure, it's neurology.\n\n| Element | Detail |\n|---------|--------|\n| **Character Count** | 70 characters |\n| **Relationship to Subject** | Complementary \u2014 does NOT repeat subject line \u2713 |\n 2-full-email-copy-strategy.md \u00a7Welcome E1 L3 Hook |\n| **Rationale** | First 40 chars (\"He's never shown a sign of feeling wet\") carry the core recognition anchor. The second half reframes from blame to neurology. No truncation of key message on mobile. |",
+    "from_name": "**Lena S., BrightKidCo**",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "He's never shown a sign of feeling wet or dirty in all these years. You've stopped counting the attempts.\n\nYou've watched him sit in a wet diaper, comfortable, unaware, for hours on end. You've changed pull-ups in silence because saying anything felt pointless. You've searched at 2am, bookmarked pages, bought products, tried methods, and nothing changed the one thing that matters: whether he feels it when it happens.\n\nHe's been in pull-ups for 9 years and never reacted to a single wet diaper.\n\n| Element | Detail |\n|---------|--------|\n| Framework | PAS \u2014 Problem. First-person mirror from Maria's reality. |\n MASTER-INGESTION-COMPENDIUM.md \u00a72.4, L3 Quote Cat 1 #1, #2: \"He's never shown a single sign of feeling wet or dirty\" // \"He's been in pull-ups for 9 years and never reacted to a single wet diaper.\" |\n| Rationale | This THE Level 3 marker phrase. Maria's signature pain is the complete absence of body awareness. We lead with her reality \u2014 not a problem we hypothesize, but one she lives every day. \"Stopped counting the attempts\" honors the length of the journey (6-10+ years). The sentence \"He's been in pull-ups for 9 years and never reacted to a single wet diaper\" is verbatim from a real L3 parent (MASTER-INGESTION-COMPENDIUM.md \u00a72.4 Cat 1 #2). |\n\n---\n\n#",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "That's not failure. That's his nervous system processing body signals differently. He's doing the best his body allows.\n\nEvery product, every method, every gentle suggestion from a well-meaning relative, they all assumed one thing: that he can feel the signal from his body when he needs to go. That he experiences that familiar \"uh-oh, I need to get to a toilet\" feeling that training methods are built around.\n\nIf his nervous system receives that signal differently, or doesn't receive it at all, then no sticker chart, no timer sit, no three-day method could ever work. Not because you didn't try hard enough. Because the method was solving a problem your child doesn't have.\n\nI live each day between hopelessness, and holding on to any drop of hope.\n\n| Element | Detail |\n|---------|--------|\n| Framework | PAS \u2014 Agitation-to-Validation pivot. Reframe from \"behavior problem\" to \"neurological difference.\" |\n MASTER-INGESTION-COMPENDIUM.md \u00a72.4, L3 Quote Cat 4 #2: \"I don't 'hope' anymore. I just keep him clean and safe.\" Cat 5 #6: \"I live each day between hopelessness, and holding on to any drop of hope.\" Cat 1 #10: \"He's doing the best his body allows\" (adapted from dignity-first language rules). |\n| Rationale | Validation for L3 must be absolute. Not \"don't give up\" (forbidden \u2014 patronizing). Not \"you can do this\" (forbidden \u2014 cheerleading). Just naming the neurological reality: the method was built for a body that works differently than her child's. The verbatim quote \"I live each day between hopelessness, and holding on to any drop of hope\" lands in the exact emotional register Maria lives in. GIULIANO-DEMANDS.md \u00a75 Forbidden for Phase 4: No cheerleading. |\n\n---\n\n#",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism",
+        "content": "Body signal differences in autism are real and measurable. A 2025 systematic review of 49 studies confirmed that autistic children process internal body signals differently \u2014 this is settled science, not a theory.\n\nThe signal from bladder to brain doesn't arrive the way traditional methods assume. For many children with high support needs, the body signal is so faint or delayed that the brain doesn't register it until well after the event. Over 90% of autistic children have sensory processing differences. This is how his nervous system works.\n\n| Element | Detail |\n|---------|--------|\n| Framework | PAS \u2014 Solve through science reframe. |\n 2-full-email-copy-strategy.md \u00a7Welcome E1 L3 Mechanism. MASTER-RESEARCH-COMPENDIUM.md \u00a72.1, Barmpagiannis & Baldimtsi (2025) 49-study systematic review. Leekam et al. (2007), >90% have sensory processing differences. Nicholson et al. (2019), body signal gap in ASD children. MASTER-INGESTION-COMPENDIUM.md \u00a72.1, Quote: \"He doesn't have full bladder awareness yet.\" |\n| Rationale | Mechanism is positioned BEFORE any product mention \u2014 this critical for L3. Product never comes before mechanism explanation (GIULIANO-DEMANDS.md \u00a71 L3 rules). We lead with the 49-study review (highest level of evidence) and the >90% sensory processing stat to normalize Maria's experience. The word \"training\" is avoided \u2014 replaced with \"sensory translation.\" GIULIANO-DEMANDS.md \u00a78.6: Don't say \"training,\" say \"body-signal learning.\" |\n\n---\n\n#",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof",
+        "content": "Here's what the science says about children like yours:\n\n, 49% of autistic 4-5 year olds are not yet toilet trained (Wiggins et al., 2022, CDC-funded study of 743 children). That is 6 times the rate of typically developing children.\n\n, Autistic children take an average of 3.3 years to complete toilet training, compared to 2.3 years for typical children (Williams et al., 2003).\n\n, 59% of autistic children cannot reliably communicate the need to urinate. 71% cannot communicate the need to defecate (Iqbal, 2022).\n\nI wish I had read something like this years ago.\n\n| Element | Detail |\n|---------|--------|\n| Framework | Social Proof through normalized statistics. |\n MASTER-RESEARCH-COMPENDIUM.md \u00a72.2, Stats #1 (Wiggins 2022), #3 (Williams 2003), #8 (Iqbal 2022). MASTER-INGESTION-COMPENDIUM.md \u00a72.4, L3 Quote Cat 9 #8: \"I wish I had read something like this\" (adapted). |\n| Rationale | For L3, social proof is NOT \"10,000 happy customers\" (too salesy, triggers skepticism). Instead, we cite real science that proves: (1) this common, (2) this documented, (3) this NOT her fault. The verbatim quote at the end captures the isolation Maria has felt. GIULIANO-DEMANDS.md \u00a74 R2: 3-5 recognition anchors per mail \u2014 this section provides three statistics that serve as recognition anchors for L3. |\n\n---\n\n#",
+        "type": "social_proof"
+      },
+      {
+        "name": "Product Intro",
+        "content": "The Body-Signal Learning Layer is a three-layer training underwear system designed for exactly this gap.\n\nLayer 1, Inner Body-Signal Layer: Soft 100% cotton that creates a gentle \"uh-oh\" sensation when wet. Not soaked, not uncomfortable, just enough sensation for the nervous system to register: something happened.\n\nLayer 2, Smart Absorption Core: Absorbs wetness to protect furniture and floors, but does NOT wick moisture away from the skin. The signal stays present for 30-60 seconds, long enough for a deeply nervous system that picks up signals slowly to process it.\n\nLayer 3, Protective Outer Barrier: Leak-resistant. Not leak-proof. The small leak is intentional, it adds another layer of feedback.\n\nThink of it like training wheels for the body signal system. It doesn't change who your child is. It gives his brainformation it's been missing.\n\nThe mechanism logic is straightforward: Child pees \u2192 Child feels gentle \"uh-oh\" sensation \u2192 Brain connects \"I peed\" \u2192 \"I feel it\" \u2192 \"I should use the potty\" \u2192 Over time, awareness builds BEFORE the signal happens.\n\n| Element | Detail |\n|---------|--------|\n| Framework | BAB \u2014 Before/After/Bridge via the mechanism logic chain. |\n MASTER-DIAGNOSIS-COMPENDIUM.md \u00a72.1, 3-Layer Body-Signal Learning Layer description. MASTER-RESEARCH-COMPENDIUM.md \u00a72.5, Azrin & Foxx (1971): body-signal feedback validated behavioral science. MASTER-INGESTION-COMPENDIUM.md \u00a72.4, Dignity-first rules: \"Whatever progress means for your family is enough.\" |\n| Rationale | Product is introduced ONLY after full mechanism explanation (GIULIANO-DEMANDS.md \u00a71 L3: product NEVER before mechanism). The description is neurological, not promotional. \"Training wheels for the body signal system\" is a permission-frame metaphor that lowers expectation. No promised outcomes. No \"your child WILL train\" (forbidden). The 30-60 second feedback window is the critical mechanism detail for L3's slow to pick up signals profile. |\n\n---\n\n#",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee",
+        "content": "60 days. Your judgment.\n\nHere's what that means: you try the Body-Signal Learning Layer alongside whatever you're already doing. You don't replace anything. You don't change your routine. You just add one element: underwear that provides the body signal your child's nervous system may be missing.\n\nIf after 60 days you see no change, no pause, no look down, no step toward the bathroom, you get every dollar back. No forms to fill. No return shipping to pay. Just a refund.\n\nThe guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on something as individual as your child's nervous system.\n\n| Element | Detail |\n|---------|--------|\n| Framework | Risk reversal \u2014 Trust Pyramid Tier 5. |\n MASTER-DIAGNOSIS-COMPENDIUM.md \u00a73.6, Trust Pyramid Tier 5: 60-Day Guarantee. GIULIANO-DEMANDS.md \u00a75, Never say 30-day (website currently shows 30-day, P0 conflict). |\n| Rationale | For L3, the guarantee is positioned as an honest container, not a conversion lever. \"No forms, no return shipping\" matters when the person is exhausted. \"Alongside whatever you're already doing\" honors that Maria likely has an established care routine and the suggestion to abandon it would feel disrespectful. The wording \"no pause, no look down, no step toward the bathroom\" mirrors the low-bar success metrics from GIULIANO-DEMANDS.md \u00a74 R6. |\n\n---\n\n#",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "1 Pair, $34.99, 60-Day Guarantee\n\nYou decide what's right for your child. No pressure.\n\n| Element | Detail |\n|---------|--------|\n| Formula | Action Verb + Benefit: \"1 Pair \u2014 $34.99 \u2014 60-Day Guarantee\" (direct benefit + risk reversal combined) |\n| Hero CTA | \"Explore the Body-Signal Learning Layer\" |\n| Secondary CTA | Text link: \"Learn more about how it works \u2192\" |\n 2-full-email-copy-strategy.md \u00a7Welcome E1 L3 CTA. GIULIANO-DEMANDS.md \u00a71, L3 offer rules: 1pr USD 34.99 only. GIULIANO-DEMANDS.md \u00a75, ZERO urgency, maximum breathing room. |\n| Rationale | L3 offer is 1 Pair ($34.99) \u2014 NEVER the 3+3 Bundle in E1. Medicaid sensitivity: $34.99 is the lowest entry point. \"You decide what's right for your child. No pressure\" is the exact CTA from S2 strategy. No math reframes (\"less than a coffee a day\") \u2014 forbidden for L3 (GIULIANO-DEMANDS.md \u00a725). No exclamation points. No shipping mention. The CTA gives permission to not buy \u2014 this the 6th element of the formula for L3. |\n\n---\n\nNext time: Why the methods you tried couldn't work \u2014 and what actually can.\n\n### Lena Sign-Off\n\nSHORT variant (E1-E2)\n\nThanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.\n\nTalk soon,\n\nLena S., BrightKidCo\n\n| Element | Detail |\n|---------|--------|\n| Variant | SHORT (for E1-E2 per GIULIANO-DEMANDS.md \u00a73) |\n| Closing Phrase | \"Talk soon,\" (per GIULIANO-DEMANDS.md \u00a73: Emails 1-2: \"Talk soon,\") |\n 2-full-email-copy-strategy.md \u00a7Welcome E1 Lena Sign-Off; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a73.1 |\n| Rationale | Lena sign-off is SHORT for E1-E2. \"Talk soon\" is the prescribed closing for emails 1-2. \"Reply to this email\" invitation is critical for deliverability (engagement signal) and relationship building. Lena's identity as a peer parent is established in the From Name and reinforced here. |\n\n---",
+        "type": "cta"
+      },
+      {
+        "name": "Footer",
+        "content": "BrightKidCo\n123 Parent Support Lane\nAustin, TX 78701\nUnited States\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nReply to this email, Lena reads every response.\n\n| Element | Detail |\n|---------|--------|\n| Physical Address | \u2713 (CAN-SPAM compliance) |\n| Unsubscribe Link | \u2713 (Required by law) |\n| Manage Preferences | \u2713 (Gives subscribers options beyond unsubscribing) |\n| Reply to This Email | \u2713 (Deliverability boost \u2014 positive engagement signal for Gmail/Outlook/Apple Mail) |\n GIULIANO-DEMANDS.md \u00a79.4; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a73.1 |\n| Rationale | \"Reply to this email\" is especially important for L3 \u2014 Maria is unlikely to reply immediately, but knowing Lena is real and reachable builds the slow trust this segment requires. |\n\n---\n\n### Source Citations\n\n| Claim / Line | Source | Verbatim Quote Used |\n|-------------|--------|-------------------|\n| \"He's never shown a sign of feeling wet or dirty in all these years\" | MASTER-INGESTION-COMPENDIUM.md \u00a72.4 Cat 1 #1 | L3 parent verbatim: \"He's never shown a single sign of feeling wet or dirty.\" |\n| \"He's been in pull-ups for 9 years and never reacted to a single wet diaper\" | MASTER-INGESTION-COMPENDIUM.md \u00a72.4 Cat 1 #2 | L3 parent verbatim |\n| \"I live each day between hopelessness, and holding on to any drop of hope\" | MASTER-INGESTION-COMPENDIUM.md \u00a72.4 Cat 5 #6 | L3 parent verbatim |\n| \"He doesn't have full bladder awareness yet\" | MASTER-INGESTION-COMPENDIUM.md \u00a72.1 | Universal parent verbatim |\n| \"I wish I had read something like this years ago\" | MASTER-INGESTION-COMPENDIUM.md \u00a72.4 Cat 9 #8 | L3 parent verbatim (adapted) |\n| \"He's doing the best his body allows\" | MASTER-INGESTION-COMPENDIUM.md \u00a72.4 \u2014 Dignity-first rules | Adapted from dignity-first language guidelines |\n| 49% of autistic 4-5 year olds not toilet trained | MASTER-RESEARCH-COMPENDIUM.md \u00a72.2 Stat #1 | Wiggins et al. 2022, CDC-funded, N=743 |\n| Autistic children average 3.3 years for training | MASTER-RESEARCH-COMPENDIUM.md \u00a72.2 Stat #3 | Williams et al. 2003 |\n| 59% can't signal urination, 71% can't signal defecation | MASTER-RESEARCH-COMPENDIUM.md \u00a72.2 Stats #8-9 | Iqbal 2022 |\n| 49-study review confirms body signal differences | MASTER-RESEARCH-COMPENDIUM.md \u00a72.1 | Barmpagiannis & Baldimtsi 2025 |\n| >90% have sensory processing differences | MASTER-RESEARCH-COMPENDIUM.md \u00a72.3 | Leekam et al. 2007; Ben-Sasson et al. 2009 |\n| Body-signal feedback mechanism | MASTER-RESEARCH-COMPENDIUM.md \u00a72.6 | Azrin & Foxx 1971; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a72.1 |\n| L3: 20/80 Hope/Realism, ZERO urgency, 1pr $34.99 | GIULIANO-DEMANDS.md \u00a71, \u00a75, \u00a725 | Avatar level specifications |\n| Welcome Flow E1 structure: Hook\u2192Validation\u2192Mechanism\u2192CTA | GIULIANO-DEMANDS.md \u00a73 | Section Map for E1-E2 |\n| Lena sign-off SHORT for E1-E2 | GIULIANO-DEMANDS.md \u00a73 | \"Talk soon,\" closing |\n| Forbidden: cheerleading, \"your child WILL train\", grief as sales | GIULIANO-DEMANDS.md \u00a75, \u00a78.5, \u00a725 | Phase 4 / L3 forbidden language |",
+        "type": "body"
+      }
+    ],
+    "cta": {
+      "button_text": "1 Pair \u2014 $34.99 \u2014 60-Day Guarantee"
+    },
+    "signoff": {
+      "text": "SHORT variant (E1-E2)\n\nThanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.\n\nTalk soon,\n\nLena S., BrightKidCo\n\n\n\n\n\n 2-full-email-copy-strategy.md \u00a7Welcome E1 Lena Sign-Off; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a73.1 |"
+    },
+    "footer": {
+      "text": "BrightKidCo\n123 Parent Support Lane\nAustin, TX 78701\nUnited States\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nReply to this email, Lena reads every response.\n\n| Element | Detail |\n|---------|--------|\n| **Physical Address** | \u2713 (CAN-SPAM compliance) |\n| **Unsubscribe Link** | \u2713 (Required by law) |\n| **Manage Preferences** | \u2713 (Gives subscribers options beyond unsubscribing) |\n| **Reply to This Email** | \u2713 (Deliverability boost \u2014 positive engagement signal for Gmail/Outlook/Apple Mail) |\n GIULIANO-DEMANDS.md \u00a79.4; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a73.1 |\n| **Rationale** | \"Reply to this email\" is especially important for L3 \u2014 Maria is unlikely to reply immediately, but knowing Lena is real and reachable builds the slow trust this segment requires. |"
+    }
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "E1 (Email 1 of 8)",
+    "audience": "L3",
+    "messaging_type": "awareness",
+    "emotional_arc": "Mirror exhaustion \u2192 Validate dignity \u2192 Offer mechanism as neurological explanation \u2192 Quiet curiosity to continue",
+    "hope_ratio": "",
+    "urgency": "none",
+    "purpose": "education",
+    "cta_force": "very_low",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "He's never shown a sign of feeling wet or dirty in all these years. You've stopped counting the attempts.\n\nYou've watched him sit in a wet diaper, comfortable, unaware, for hours on end. You've change..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": true,
+      "image_type": "quote_card",
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "That's not failure. That's his nervous system processing body signals differently. He's doing the best his body allows.\n\nEvery product, every method, every gentle suggestion from a well-meaning relati..."
+    },
+    {
+      "section_name": "Mechanism",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Body signal differences in autism are real and measurable. A 2025 systematic review of 49 studies confirmed that autistic children process internal body signals differently \u2014 this is settled science, ..."
+    },
+    {
+      "section_name": "Social Proof",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "Here's what the science says about children like yours:\n\n, 49% of autistic 4-5 year olds are not yet toilet trained (Wiggins et al., 2022, CDC-funded study of 743 children). That is 6 times the rate o..."
+    },
+    {
+      "section_name": "Product Intro",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The Body-Signal Learning Layer is a three-layer training underwear system designed for exactly this gap.\n\nLayer 1, Inner Body-Signal Layer: Soft 100% cotton that creates a gentle \"uh-oh\" sensation whe..."
+    },
+    {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days. Your judgment.\n\nHere's what that means: you try the Body-Signal Learning Layer alongside whatever you're already doing. You don't replace anything. You don't change your routine. You just add..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "1 Pair, $34.99, 60-Day Guarantee\n\nYou decide what's right for your child. No pressure.\n\n| Element | Detail |\n|---------|--------|\n| Formula | Action Verb + Benefit: \"1 Pair \u2014 $34.99 \u2014 60-Day Guarantee..."
+    },
+    {
+      "section_name": "Footer",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "BrightKidCo\n123 Parent Support Lane\nAustin, TX 78701\nUnited States\n\nNo longer want these emails? [Unsubscribe]({{unsubscribe_url}}) or [Manage Preferences]({{manage_preferences_url}})\n\nReply to this e..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

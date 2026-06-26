@@ -1,0 +1,233 @@
+{
+  "email_id": "welcome-01-e6-l3",
+  "source_file": "outputs/copy/welcome/welcome-01-e6-l3.md",
+  "copy": {
+    "file": "welcome-01-e6-l3.md",
+    "metadata": {
+      "flow": "Welcome Flow, E6 (Day 14)",
+      "level": "L3 (Maria), Dignity-First",
+      "email_purpose": "Introduce the pull-up signal gap + reinforce 60-day guarantee as risk eliminator, L3 gentle version",
+      "section_structure": "Hook \u2192 Gentle Pull-Up Reframe \u2192 Mechanism \u2192 Guarantee \u2192 CTA",
+      "framework": "PAS (Problem-Agitate-Solve), attenuated for L3: soft Problem, validation-only Agitation, gentle Solve",
+      "emotional_stage": "Phase 4: resigned grief \u2192 seen/heard \u2192 dignified gentle hope \u2192 maybe",
+      "lena_voice_%": "40% Lena / 35% Mechanism / 25% Brand (per S2 E5-E6 calibration)",
+      "archetype": "4-Step: Observation 20% / Validation 30% / Mechanism 30% / Permission 20%"
+    },
+    "subject": "",
+    "preview": "```\nYou've relied on pull-ups for years. Here's what no one told you about the signal they block, and why that changes nothing about your child's timeline.\n```",
+    "from_name": "```",
+    "sections": [
+      {
+        "name": "HOOK",
+        "content": "Maria,\n\nYou've been buying pull-ups for years. Not because you didn't try something else, because nothing else gave you a reason to switch.\n\nAnd pull-ups work. They keep him dry. They contain the mess. They let you get through the day without another load of laundry, another change of sheets, another moment where you wonder if this will ever be different.\n\nI know because I've been there. Both my sons were in pull-ups longer than I ever expected. And every month, I'd buy another box, not because I thought it was helping, but because the alternative felt like giving up on dignity.\n\nBut here's something I wish someone had told me earlier.\n\n---\n\n#### GENTLE PULL-UP REFRAME (L3 Gentle Version)\n\nPull-ups are designed to do one thing very well: keep your child completely dry.\n\nThat moisture-wicking technology, the thing you pay a premium for, was engineered for neurotypical kids who can already feel the signal. For a child whose nervous system is still learning to register \"I need to go,\" that dryness isn't helpful. It's the one piece of feedback his brain has been waiting for, blocked by design.\n\nNot because pull-ups are bad. Because they were built for a different child.\n\nFor your child, who's never shown a single sign of feeling wet or dirty, whose body signals travel a different path, the wetness sensation is the only external cue his brain can use to start building the connection. Pull-ups remove that cue entirely.\n\nHe stays too dry to learn.\n\n---\n\n#",
+        "type": "hook"
+      },
+      {
+        "name": "MECHANISM",
+        "content": "The body-signal underwear works differently. It's not about training your child to feel something he doesn't feel. It's about giving his brain the information it's been missing.\n\nWhen he has an accident in BrightKidCo underwear:\n1. The soft cotton inner layer lets him feel a gentle sensation \u2014 just enough to register: something happened.\n2. The smart absorption core protects his clothes without blocking that signal.\n3. Over time, that 30\u201360 seconds of gentle feedback starts building a neural pathway. His brain begins to connect: \"I feel this\" \u2192 \"This means I went.\"\n\nResearch confirms this is a real, measurable neurological difference. The Body-Signal Layer doesn't change that. It just gives the brain the feedback loop it's been missing.\n\nThink of it like this: you can't teach a child to recognize a sound they can't hear. But you can turn up the volume.\n\n---\n\n#### MICRO-WIN TESTIMONIAL (L3 Proof)\n\n\"I have 2 ASD kiddos, my youngest is level 3, non-verbal. We finally just got him potty trained a few months before his 9th birthday. We tried and tried before. I gave up several times! I felt as though our son would be in diapers forever. Success came two days later. Marc used the toilet without any prompts from us.\"\n\n, Real parent, BrightKidCo community \n\n---\n\n#",
+        "type": "mechanism"
+      },
+      {
+        "name": "GUARANTEE",
+        "content": "I can't promise your child will train. Every nervous system is different. What I can promise is this: 60 days to try the Body-Signal approach alongside your current routine. If nothing changes, no pause, no look, no step toward the potty, full refund. Not because it didn't sell. Because your judgment matters more than any product claim.\n\nThe guarantee isn't a sales tactic. When the outcome depends on your child's nervous system, the only honest thing to offer is a real off-ramp.\n\n---\n\n#",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA (Text Link, L3 No-Button Rule per S2 \u00a77.2)",
+        "content": "[Add alongside for 60 days, no questions asked]\n\n*You decide when. You decide if. No pressure.*\n\n---\n\nNext time: Your decision \u2014 what to do next, with no pressure.\n\n### Lena Sign-Off\n\nSign-Off Medium \u2192 Long variant (per S2 E6 calibration: \"MEDIUM transitioning to LONG\")\n\n---\n\nI have two autistic sons. One trained at 6. The other took us until he was almost 8.\n\nIf your child is anywhere on that curve, if you're still waiting, still hoping, still buying another box of pull-ups because you don't know what else to do, I want you to know this email isn't asking you to stop using them. It's not asking you to try anything today.\n\nIt's just information. Your child, your timeline, your decision.\n\nReply to this email anytime. I read every response. It might take me a day, but I will write back.\n\nWith care,\nLena,\n,\nCustomer Support \u00b7 Mom of two autistic sons\n\n---\n\n### PS Line\n\nPS, Maureen Bennie's son trained at 9.5 years old. Another family in our community: 8 years. Late is not never. Your child's timeline is the only timeline that matters.\n\n---",
+        "type": "cta"
+      },
+      {
+        "name": "Footer",
+        "content": "---\n\nBrightKidCo by KING MG LLC\n3833 Powerline Rd, Suite 201, Fort Lauderdale, Florida 33309\n\n[Unsubscribe]({{unsubscribe}}) | [Manage Preferences]({{manage_preferences}})\n\nQuestions? Reply to this email, Lena reads every response.\n\n---\n\n### Source Citations\n\n| Element | Source |\n|---------|--------|\n| Nicholson et al. 2019, body signal gap in ASD children | 03-science-library.md PP-A01; MASTER-RESEARCH-COMPENDIUM.md \u00a74.2 |\n| body-signal underwear mechanism (3-layer system) | product-mechanism-notes.md \u00a71-2 |\n| Body-Signal Layer creates 30-60 second gentle sensation that lasts | 04-mechanism-positioning.md \u00a74.1; S2 E3 L3 strategy |\n| Pull-ups designed for neurotypical kids who can already feel the signal | MASTER-RESEARCH-COMPENDIUM.md \u00a71.1; product-mechanism-notes.md \u00a74 |\n| \"He's never shown a single sign of feeling wet or dirty\" | autistic-level3-quotes.md #1 (verbatim) |\n| \"He doesn't realize he needs to go. He doesn't realize he's gone.\" | autistic-level3-quotes.md #7 (adapted) |\n| Marc story, trained at 9th birthday | autistic-level3-quotes.md #86-87 (verbatim) |\n| Maureen Bennie, son trained at 9.5 | 30-customer-support-playbook.md \u00a7O4; S2 Welcome E4 L3 |\n| 60-Day Guarantee, \"by your judgment\" | GIULIANO-DEMANDS.md \u00a711.6; S2 \u00a77.1 |\n| \"Too dry to learn\" framing (L3 gentle) | S2 E6 L3 strategy; GIULIANO-DEMANDS.md \u00a76 L3 rules |\n| \"Late is not never\" | S2 Welcome E4 L3 |\n| Pull-ups wick moisture, designed for comfort not learning | product-mechanism-notes.md \u00a74 |\n| Permission-not-to-buy CTA philosophy | GIULIANO-DEMANDS.md \u00a77.1 V12 |\n| Lena sign-off MEDIUM\u2192LONG variant | S2 \u00a75.1, Welcome E5-E6 calibration; 11-brand-voice-reference.md \u00a79 |",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {
+      "text": "---\n\nBrightKidCo by KING MG LLC\n3833 Powerline Rd, Suite 201, Fort Lauderdale, Florida 33309\n\n[Unsubscribe]({{unsubscribe}}) | [Manage Preferences]({{manage_preferences}})\n\nQuestions? Reply to this email, Lena reads every response."
+    }
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "",
+    "audience": "L3",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "HOOK",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Maria,\n\nYou've been buying pull-ups for years. Not because you didn't try something else, because nothing else gave you a reason to switch.\n\nAnd pull-ups work. They keep him dry. They contain the mess..."
+    },
+    {
+      "section_name": "MECHANISM",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "The body-signal underwear works differently. It's not about training your child to feel something he doesn't feel. It's about giving his brain the information it's been missing.\n\nWhen he has an accide..."
+    },
+    {
+      "section_name": "GUARANTEE",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "I can't promise your child will train. Every nervous system is different. What I can promise is this: 60 days to try the Body-Signal approach alongside your current routine. If nothing changes, no pau..."
+    },
+    {
+      "section_name": "CTA (Text Link, L3 No-Button Rule per S2 \u00a77.2)",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "[Add alongside for 60 days, no questions asked]\n\n*You decide when. You decide if. No pressure.*\n\n---\n\nNext time: Your decision \u2014 what to do next, with no pressure.\n\n### Lena Sign-Off\n\nSign-Off Medium ..."
+    },
+    {
+      "section_name": "Footer",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "---\n\nBrightKidCo by KING MG LLC\n3833 Powerline Rd, Suite 201, Fort Lauderdale, Florida 33309\n\n[Unsubscribe]({{unsubscribe}}) | [Manage Preferences]({{manage_preferences}})\n\nQuestions? Reply to this em..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

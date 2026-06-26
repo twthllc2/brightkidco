@@ -1,0 +1,162 @@
+{
+  "email_id": "pped-11-d7",
+  "source_file": "outputs/copy/pp-education/pped-11-d7.md",
+  "copy": {
+    "file": "pped-11-d7.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "Email Body",
+        "content": "OBSERVATION, THE OPEN\nWhether your child is 3 or 10, verbal or not, diagnosed or wondering, if they've been wearing the Body-Signal underwear for a week and you're sitting here thinking, \"Is anything happening?\", I want you to hear this:\nThat's exactly where you're supposed to be.\nVALIDATION, WHY NOTHING IS NOTHING\nWeek 1 isn't about signals. It isn't about progress. It's about something quieter, desensitization.\nYour child's nervous system has spent years (months, weeks, however long) feeling one way in their underwear. Dry. Comfortable. Familiar. Now there's a new sensation, a gentle feedback layer that creates awareness by being present. And the brain's first job isn't to act on it. It's to stop ignoring it.\nThat takes time.\nIf you're seeing any of these, you're on track:\n- Your child doesn't seem to notice the underwear at all\n- They take it off after a few minutes\n- They're going about their day like nothing changed\n- You haven't seen a single pause, look, or signal\nAll of that is normal. Expected. Right on schedule.\nMECHANISM, WHY THE BRAIN NEEDS REPETITION, NOT RESULTS\nThe Body-Signal Learning Layer creates a gentle sensation lasting 30-60 seconds after every accident. But the brain doesn't know what to do with it yet \u2014 it's a new input. Week 1 is the \"reception\" phase, the brain learning to receive the signal before it can act on it.\nThink of it like a radio finding a station. First you hear static. Then a crackle. Then a voice through the noise. Week 1 is the static phase. Week 2-3 is when words start forming.\nThe underwear is doing the teaching. Your job right now is simply to let it, consistently, daily, without pressure.\nPRACTICAL TIPS, THREE WAYS TO SUPPORT WEEK 1-2 TRANSITION\nTry these if you want to help the process along:\n- Wear for 2 hours after school or therapy, when the bladder is naturally fuller, the signal has more to work with\n- Try before bath time, the bathroom context helps the brain connect sensation to location\n- Wear during a calm activity like reading a favorite book, a quiet nervous system receives new signals more easily\n- Start with short intervals (30-60 minutes) if your child resists, build up tolerance gradually\nTHREE-FAMILY TESTIMONIAL ANCHORS\nThree parents. Three different kids. One shared week 1:\n*L1 mom (verbal, 4, \"almost trained\"):*\n\"He's been wearing them all week and I haven't seen any change. But I'm not giving up yet. I keep reminding myself, the strategy doc said week 1 is just the warm-up.\"\n*L2 mom (sensory, 6, BCBA involved):*\n\"She takes the underwear off within 10 minutes. We're starting with 5-minute intervals and working up. Her OT says building tolerance is the first real skill, so that's what we're doing.\"\n*L3 mom (non-verbal, 8, high support):*\n\"He doesn't seem to notice the underwear at all, same as everything else. But I noticed he's keeping them on longer than day 1. Day 1 it was instant-off. Today he wore them for almost 45 minutes before I had to change him. That's something.\"\nIf any of these sound familiar, you're exactly where you should be. The timeline isn't the same for every kid. But the mechanism is.\nPERMISSION, THE EXIT\nIf you're wondering whether this working, the honest answer is: you won't know in week 1. And that's not a flaw. That's the design.\nWeek 2-3 is when the first signals start for most kids. A pause. A look down. A step toward the bathroom after the fact. A pull at the pants. Those are the first words in a new language the brain is learning to speak.\nYour job this week: put the underwear on. Let the body-signal layer do the teaching. Don't prompt. Don't pressure. Don't expect.\nJust let it happen.\nNext time: The two-week mark \u2014 what to look for and what's totally normal.\nLENA SIGN-OFF (MEDIUM VARIANT)\nI have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8. I remember week 1 with both of them, wondering, waiting, hoping the first week would show something. It didn't. But week 3 did.\nYou're not behind. You're not doing it wrong. The underwear is working, even when it doesn't look like it.\nWith understanding,\nLena \u2014\u2014\n# PART 2: CREATIVE STRATEGY",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Email Body",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "OBSERVATION, THE OPEN\nWhether your child is 3 or 10, verbal or not, diagnosed or wondering, if they've been wearing the Body-Signal underwear for a week and you're sitting here thinking, \"Is anything ..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

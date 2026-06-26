@@ -1,0 +1,250 @@
+{
+  "email_id": "welcome-01-e4-gf",
+  "source_file": "outputs/copy/welcome/welcome-01-e4-gf.md",
+  "copy": {
+    "file": "welcome-01-e4-gf.md",
+    "metadata": {
+      "flow": "Welcome Flow",
+      "position": "E4 (Day 7)",
+      "level": "General Fallback",
+      "phase": "1 \u2014 Launch",
+      "purpose": "Show proof it works for others. Set realistic expectations. \"Weeks, not days.\"",
+      "emotional_arc": "Cautious hope \u2192 Realistic acceptance \u2192 Proof through testimonials \u2192 Incremental hope",
+      "day_in_flow": "Day 7",
+      "section_structure": "Hook \u2192 Validation \u2192 Mechanism \u2192 Testimonial (Three-Family Pattern) \u2192 Product \u2192 Guarantee \u2192 CTA"
+    },
+    "subject": "",
+    "preview": "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still figuring it out, these three families all found the same thing.\n\n*Different from subject line \u2713*",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "Whether your child is just starting to show signs, or you're years into what feels like every possible method, if they don't feel when they need to go, you've been fighting the wrong battle.\n\nI hear from parents every day who are exhausted, out of ideas, and wondering if this will ever click. Let me introduce you to three families. Three different kids. Three completely different stories. One thing in common.\n\n---",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "If you've ever thought any of these things, you're not alone. You haven't failed. You've been working with advice that wasn't built for your child's nervous system.\n\n> \"I feel like we have tried everything, reward systems, punishments and nothing seems to work.\"\n>, Real parent, Autistic-LanguageBank-full.txt (line 90-91)\n\n> \"I feel like a failure because he's still in pull ups.\"\n>, Real parent, Autistic-1-full.txt (line 2222-2223)\n\nNearly half of autistic 4-5 year olds, 49%, are still not toilet trained (Wiggins et al. 2022, CDC-funded study of 743 children). That's compared to just 8% of typically developing children the same age.\n\nThat statistic doesn't mean something is wrong with your child. It means what you're going through is documented, measurable, and far more common than you think. \n\n---",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism",
+        "content": "Here's what all three families have in common: their children weren't getting the body signal.\n\nInteroception \u2014 the eighth sensory system \u2014 is how your brain knows when you're hungry, thirsty, or need the bathroom. For children with sensory processing differences, this signal is delayed, weakened, or absent. Research confirms this is a real, measurable neurological difference.\n\nThe Body-Signal Learning Layer creates that feedback \u2014 a gentle sensation that lasts 30-60 seconds after every accident. Enough time for the brain to register: *something happened*.\n\n---\n\n### Testimonial, Three-Family Pattern\n\nThree different families. Three different kids. One thing in common.\n\nFamily 1:\n\n> \"My son talks about the potty but won't actually do it. He says 'I need to pee' AFTER it's already happened. We'd been stuck for over a year. After about 3 weeks in these undies, he paused mid-accident. Looked down. Then walked to the potty. That pause, that had never happened before.\"\n>, Parent of a 4-year-old, mostly verbal, mild sensory differences\n\nFamily 2:\n\n> \"We'd tried everything from the BCBA's protocol to OT sensory work to social stories. Scheduled sits for 2 years, he never went on his own. We didn't expect a product to solve it. But the wetness signal in these undies is different, he can actually feel it. After 6 weeks, he initiated once. Once! After 4 years of nothing.\"\n>, Parent of a 6-year-old, mixed verbal, moderate support needs\n\nFamily 3:\n\n> \"He's never shown a sign of feeling wet or dry, not once in 9 years. We'd made peace with maybe never. After 8 weeks in the body-signal underwear, he paused. He felt something. That was everything.\"\n>, Parent of a 9-year-old, non-verbal, high support needs\n\nIf any of these sound familiar, your child's nervous system isn't broken. It's just not getting the information it needs. \n\n---",
+        "type": "mechanism"
+      },
+      {
+        "name": "Product Introduction",
+        "content": "The BrightKidCo Body-Signal Learning Layer is a 3-layer system built for sensory-sensitive children:\n\n- Layer 1 (Cotton Inner): 100% cotton, the fabric research consistently shows autistic individuals prefer (Kyriacou et al. 2023). Creates a gentle, noticeable \"uh-oh\" sensation that lasts 30-60 seconds, sustained enough for a slow to pick up signals brain to register. \n- Layer 2 (Smart Absorption): Protects furniture and floors without wicking the signal away completely. Unlike pull-ups that keep kids \"too dry to learn,\" this layer gives the brain feedback. \n- Layer 3 (Outer Barrier): Leak-resistant outer layer so parents can actually leave the house while the body-signal learning happens. \n\nPFAS-free. BPA-free. Designed alongside OT practitioners who understand sensory processing. \n\nFor reference: some kids show first signs in 2 weeks. Others need 8 weeks. Both normal. The key is repetition, 30-60 seconds of sensation after every accident, building neural pathways over time. \n\n---",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee",
+        "content": "60 days to try it. By your judgment.\n\nIf your child shows any sign of awareness, a pause, a look, a step toward the bathroom, you'll know the signal is working. If nothing changes, full refund. No questions. \n\nThisn't a promise that every child will train. It's a promise that you get to decide whether it works for your family.\n\n---",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "| Element | Value |\n|---------|-------|\n| Primary CTA | Start with the 3+3 Bundle \u2014 Free Shipping |\n| CTA Formula | Action Verb + Benefit |\n| Offer | 3+3 Bundle ($79.99) \u2014 6 pairs, free shipping, 60-day guarantee |\n| Secondary Option | 1 Pair ($34.99) \u2014 try alongside your current routine |\n| Link Destination | https://www.brightkidco.com/collections/all-products |\n\nButton copy: Start with the 3+3 Bundle\n\nThe 3+3 Bundle ($79.99) gives you 6 pairs with free shipping, enough coverage to see real body-signal learning happen. If you'd rather try first, the 1-Pair option ($34.99) lets you add alongside your current routine. \n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n---\n\nNext time: Real stories from parents who've been exactly where you are.",
+        "type": "cta"
+      }
+    ],
+    "cta": {},
+    "signoff": {
+      "text": "With understanding,\n\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8. If your kid is anywhere on this curve, that's normal here. Reply if anything resonated. I read every one."
+    },
+    "footer": {
+      "text": "| Element | Value |\n|---------|-------|\n| **From** | Lena from BrightKidCo |\n| **Address** | BrightKidCo, 123 Main Street, Suite 100, San Francisco, CA 94102 |\n| **Unsubscribe** | [Unsubscribe]({{unsubscribe_url}}) \u2014 one click |\n| **Manage Preferences** | [Update your preferences]({{manage_preferences_url}}) |\n| **Reply** | Reply to this email \u2014 Lena reads every response personally |\n\nQuestions? Hit reply, you'll get me, not a bot. I read everything."
+    }
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "E4 (Day 7)",
+    "audience": "GF",
+    "messaging_type": "consideration",
+    "emotional_arc": "Cautious hope \u2192 Realistic acceptance \u2192 Proof through testimonials \u2192 Incremental hope",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "product_education",
+    "cta_force": "low",
+    "product_push": true
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Whether your child is just starting to show signs, or you're years into what feels like every possible method, if they don't feel when they need to go, you've been fighting the wrong battle.\n\nI hear f..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "If you've ever thought any of these things, you're not alone. You haven't failed. You've been working with advice that wasn't built for your child's nervous system.\n\n> \"I feel like we have tried every..."
+    },
+    {
+      "section_name": "Mechanism",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Here's what all three families have in common: their children weren't getting the body signal.\n\nInteroception \u2014 the eighth sensory system \u2014 is how your brain knows when you're hungry, thirsty, or need..."
+    },
+    {
+      "section_name": "Product Introduction",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The BrightKidCo Body-Signal Learning Layer is a 3-layer system built for sensory-sensitive children:\n\n- Layer 1 (Cotton Inner): 100% cotton, the fabric research consistently shows autistic individuals..."
+    },
+    {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days to try it. By your judgment.\n\nIf your child shows any sign of awareness, a pause, a look, a step toward the bathroom, you'll know the signal is working. If nothing changes, full refund. No que..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "| Element | Value |\n|---------|-------|\n| Primary CTA | Start with the 3+3 Bundle \u2014 Free Shipping |\n| CTA Formula | Action Verb + Benefit |\n| Offer | 3+3 Bundle ($79.99) \u2014 6 pairs, free shipping, 60-d..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

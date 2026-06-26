@@ -1,0 +1,164 @@
+{
+  "email_id": "pped-22-e1-gf",
+  "source_file": "outputs/copy/pp-extended-ed/pped-22-e1-gf.md",
+  "copy": {
+    "file": "pped-22-e1-gf.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "Email Body",
+        "content": "*Note: Line breaks and spacing below represent structural sections for a mobile-first email layout. Each section maps to a design block in the template (see Part 2).*\n[SECTION: HOOK / OBSERVATION]\nHi there,\nLet me describe something I hear from parents every day:\nYour child is interested in the potty. They'll sit when you ask. They might even tell you *after* they've gone. But the actual \"I need to go now\" signal, that moment of connection between body and brain, it doesn't arrive in time. Or it doesn't arrive at all.\nYou've watched them pause mid-play, go still for a second, and then it's already happened. And you think: *Did they even feel it?*\nThe honest answer is: probably not. Not the way we assume they should.\nI've been there with my own two sons. One trained at 6, the other at almost 8. The thing I learned, the thing that changed everything, is that thisn't about motivation. It's not about defiance. It's not about you doing something wrong.\nIt's about the signal.\n[SECTION: VALIDATION]\nHere's what I want you to hear clearly: You didn't fail. The method didn't fail. The methods you've tried, sticker charts, timers, potty schedules, they all assume something that may not be true for your child's nervous system. They assume the body signal arrives in time to act on it.\nFor many children with sensory differences, that signal is delayed. Or muffled. Or it arrives so late that by the time they register \"I need to go,\" it's already too late.\nA study of 63 children found that 59% couldn't reliably tell when they needed to urinate, and 71% couldn't signal when they needed a bowel movement. For most kids with body-signal processing differences, the \"I need to go\" feeling simply doesn't arrive in a useful time frame.\nThat's not stubbornness. That's neurology.\n[SECTION: MECHANISM]\nThe scientific term for this is interoception \u2014 your brain's ability to sense what's happening inside your body. For children with sensory processing differences, that signal pathway works differently: the signal arrives faintly, too late, or not until the body has already released.\nStandard potty training methods assume a strong, timely signal exists. But what if the signal never comes?\nThat's where body-signal learning is different. The underwear itself becomes a gentle sensation that lasts \u2014 a signal the nervous system has time to notice and process. It's not about training faster. It's about building awareness, at the pace your child's nervous system can actually learn.\n[SECTION: CTA, PERMISSION]\nThis email is the first in a series about how body-signal learning works, the science behind why children with sensory differences struggle with potty training, and what a different approach looks like.\nIf any of this resonates, you might want to look at how our body-signal learning underwear works. It's designed to do what pull-ups can't: preserve and amplify the body's natural awareness signals, rather than wicking them away.\nIf your child doesn't seem to feel when they need to go, you're not alone, and it's not a training problem.\n[Learn how body signals work \u2192](https://brightkidco.com/pages/how-it-works)\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\nNo pressure. The 60-day guarantee means you can try it by your own judgment. If it's not the right time, that's okay too.\n[SECTION: LENA SIGN-OFF]\nWith understanding,\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\nP.S., One thing I wish someone had told me years earlier: a child who sits on the potty without going isn't being resistant. Their body genuinely hasn't sent the signal yet. When you understand that, the whole picture shifts.",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {
+      "text": "*If you no longer wish to receive these emails, you can [unsubscribe here]({{unsubscribe}}).*\nBrightKidCo LLC \u00b7 548 Market St, PMB 72296, San Francisco, CA 94104"
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Email Body",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "*Note: Line breaks and spacing below represent structural sections for a mobile-first email layout. Each section maps to a design block in the template (see Part 2).*\n[SECTION: HOOK / OBSERVATION]\nHi ..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "email_id": "pped-22-e5-l2",
+  "source_file": "outputs/copy/pp-extended-ed/pped-22-e5-l2.md",
+  "copy": {
+    "file": "pped-22-e5-l2.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "The Three Most Common L2 Plateaus \u2014 And How to Navigate Each",
+        "content": "Plateau 1: Prompt-Dependency Persists\n\nHe still won't initiate. You prompt, he sits, he gets up, nothing happens.\n\n*Why:* Prompt-dependency is the natural result of years of scheduled sits where the adult cue was the trigger, not the internal signal. The BCBA protocol built compliance; now we need to transfer that to self-awareness.\n\n*What to try:*\n- Fade the prompt. Instead of \"Time to sit,\" try a non-verbal cue, touch his shoulder, set a timer that beeps, or leave the bathroom door ajar with the light on. Let the environment cue him, not your voice.\n- Extend the window between prompt and sit by 30 seconds. Give his nervous system time to register the BSL signal before you give the instruction.\n- Celebrate the pause. If he stops mid-play, even for a second, that's the internal signal arriving. Name it: \"You felt something.\" The word builds the cognitive bridge.\n\n**\nPlateau 2: Sensory Habituation\n\n*What it looks like:* The first few weeks, he seemed to notice the wetness signal. Now he doesn't react at all. It's like the underwear is background noise.\n\n*Why this happens:* This actually a good sign in disguise. Initial signal sensitivity is high because the sensation is new. After several weeks, his nervous system starts to calibrate, distinguishing between \"this wet\" (sensory detection) and \"I need to act on this\" (motor response). The habituation means his brain is processing the signal faster, but the output pathway isn't built yet.\n\n*What to try:*\n- Increase wear time. If he's wearing BSL for 3-4 hour stretches, try 5-6 hours. The sustained signal over longer windows gives the brain more data points.\n- Layering check: make sure nothing between the BSL layer and his skin (no cotton liner, no other underwear). The signal needs direct skin contact.\n- Add a post-accident ritual. When an accident happens (and it will), don't rush to clean. Instead: pause for 5 seconds, say \"Your body let you know something,\" then clean together. This 5-second window is where the neural connection forms. \n\nPlateau 3: Environment-Specific Regression\n\n*What it looks like:* He does well at home but has accidents everywhere else, school, grandma's, the store. You feel like you're starting over every time you leave the house.\n\n*Why this happens:* Environment sensitivity is real and well-documented. The bathroom at school smells different, has different lighting, and echoes. The adult cue doesn't exist there. The schedule is different. His nervous system has to learn the same body-signal awareness in a new context, it's not regression, it's generalization. \n\n*What to try:*\n- Send a familiar BSL pair to school with a note for the teacher: \"These help my child feel when he needs to go. If he pauses or touches his pants, please offer the bathroom.\" \n- Practice one new environment per week. Same routine, different room. Living room \u2192 kitchen \u2192 backyard \u2192 playground. Each context is a separate learning curve.\n- Lower expectations for outings. The goal outside the home is not dry, it's awareness. If he pauses once during a 2-hour trip, that's a win.\n\n---\n\nYour BCBA built the structure. The Body-Signal approach built the bridge. This plateau is where those two systems learn to talk to each other. It's not a wall. It's a transfer station.\n\nThe 60-day guarantee covers this exact scenario. You've been using the product for 7-8 weeks. If you're sitting on Day 50 wondering whether it's working, take an honest look at whether you've seen *any* of these signs:\n\n- A pause (even one) where there was none before\n- A look down at wet clothing\n- A touch to the underwear\n- A hesitation before an accident\n\nIf you've seen one of these, the mechanism is working. The awareness is building. The plateau is temporary.\n\nIf you haven't seen any, reply to this email. I read every response. We'll troubleshoot together. And if after 60 days it truly hasn't shifted anything for your child, you get every dollar back. No forms. No hoops.\n\n**\n---\n\nWith understanding,\n\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. My son was 8 before he trained. Somewhere around week 8, I nearly quit. Then he paused. Just once. But that never happened before. What you're feeling right now, the \"it's not working\" doubt, I felt it too. The BSL layer is still doing its job. Give his nervous system two more weeks. Then judge. \n\nP.P.S. If you want to dig deeper into the Nicholson study or the Barmpagiannis & Baldimtsi 2025 meta-analysis that confirms body signal differences across 49 studies, [link]. No pressure, just the science. \n\n---",
+        "type": "body"
+      },
+      {
+        "name": "FOOTER",
+        "content": "No longer want these emails? [Unsubscribe]({{unsubscribe}})\n\nBrightKidCo LLC\n123 Commerce Street, Suite 200\nAustin, TX 78701\n\n---\n\n# PART 2 \u2014 FULL CREATIVE STRATEGY",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "The Three Most Common L2 Plateaus \u2014 And How to Navigate Each",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Plateau 1: Prompt-Dependency Persists\n\nHe still won't initiate. You prompt, he sits, he gets up, nothing happens.\n\n*Why:* Prompt-dependency is the natural result of years of scheduled sits where the a..."
+    },
+    {
+      "section_name": "FOOTER",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "No longer want these emails? [Unsubscribe]({{unsubscribe}})\n\nBrightKidCo LLC\n123 Commerce Street, Suite 200\nAustin, TX 78701\n\n---\n\n# PART 2 \u2014 FULL CREATIVE STRATEGY"
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

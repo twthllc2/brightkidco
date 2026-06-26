@@ -1,0 +1,56 @@
+{
+  "email_id": "winback-b-24-e3-l2",
+  "flow": "unknown",
+  "position": "",
+  "audience": "UNKNOWN",
+  "messaging_type": "unknown",
+  "picks": {
+    "body": {
+      "section_type": "body",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter) *(L468)*",
+      "component_position": "body_recognition",
+      "component_messaging": "story",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddler-potty-ladder-yellow-woodland.png",
+      "image_type": null,
+      "needs_image": true
+    },
+    "body_2": {
+      "section_type": "body",
+      "component_id": "17.7",
+      "component_name": "Closing Letter (Before CTA) (uses Letter) *(L1716)*",
+      "component_position": "body_recognition",
+      "component_messaging": "conversion",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddler-backpack-moon-cloud-blue.png",
+      "image_type": null,
+      "needs_image": true
+    },
+    "body_3": {
+      "section_type": "body",
+      "component_id": "23.2",
+      "component_name": "Drop Cap Initial Letter (uses Letter) *(L2133)*",
+      "component_position": "body_recognition",
+      "component_messaging": "story",
+      "component_giuliano": "giuliano_derived",
+      "image": "toddler-potty-ladder-pink-multicolor.png",
+      "image_type": null,
+      "needs_image": true
+    }
+  },
+  "stats": {
+    "image_count": 3,
+    "component_count": 3,
+    "images_min": 4,
+    "images_max": 6,
+    "components_min": 3,
+    "components_max": 6
+  },
+  "validation": {
+    "issues": [
+      "Images under minimum: 3/4"
+    ],
+    "valid": false
+  }
+}

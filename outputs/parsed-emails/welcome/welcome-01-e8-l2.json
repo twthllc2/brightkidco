@@ -1,0 +1,241 @@
+{
+  "email_id": "welcome-01-e8-l2",
+  "source_file": "outputs/copy/welcome/welcome-01-e8-l2.md",
+  "copy": {
+    "file": "welcome-01-e8-l2.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "HOOK (Attention)",
+        "content": "I have two autistic sons. One trained at 6. The other took us until he was almost 8.\n\nI know what you're going through. Not because I read about it in a research paper. Because I've lived it, the morning carpet cleanups, the \"I don't know, I didn't feel it,\" the quiet dread of another year in pull-ups.\n\n---",
+        "type": "hook"
+      },
+      {
+        "name": "VALIDATION (Interest)",
+        "content": "Over the last three weeks, I've walked through every element I know matters for L2 parents like you:\n\nReal symptom recognition, You've named the failed methods: BCBA protocols, OT sensory work, social stories, scheduled sits, sticker charts, timer prompts. You didn't fail at those. They were built for a different nervous system. \u2713\n\nMechanism specificity, The interoception gap is real. Nicholson et al. (2019) proved it: autistic children show diminished body awareness, the ability to sense internal body states like bladder fullness. It's not training. It's neurology. \u2713\n\nBCBA context, Your BCBA built a behavioral foundation. That work matters. Prompt-dependent doesn't mean \"not learning.\" It means your child learned to wait for the adult cue instead of feeling the internal signal. The behavioral layer is solid. What's missing is the sensory layer. \u2713\n\nRealistic timelines, 4-8 weeks for first consistent signals. Some longer. Some shorter. The 60-day guarantee covers the full learning window, not because we're generous, but because that's how neurology works. \u2713\n\n60-day guarantee, Not a sales tactic. The only honest thing to offer when the outcome depends on your child's nervous system. Try it. By your judgment. If nothing shifts, full refund. \u2713\n\nPermission-not-to-buy, If thisn't the day, that's okay. The product will be here next month. So will I. \u2713\n\n---\n\n### DESIRE \u2014 The body-signal underwear\n\nPull-ups keep kids completely dry \u2014 the exact mechanism blocking progress. For a child whose brain doesn't register bladder fullness in time, the wetness signal is the ONLY feedback the nervous system can use. Pull-ups wick that feedback away entirely.\n\nBrightKidCo's body-signal underwear works differently:\n- Layer 1, Soft cotton inner creates a gentle \"uh-oh\" sensation after every accident. Just enough signal for the brain to register: something happened.\n- Layer 2, Smart absorption core protects without blocking awareness.\n- Layer 3, Leak-resistant outer barrier.\n\nThe mechanism chain: Child pees \u2192 feels the gentle sensation \u2192 brain connects \"I peed\" \u2192 \"I feel it\" \u2192 \"I should use the potty.\" Over time, awareness builds.\n\n---",
+        "type": "validation"
+      },
+      {
+        "name": "SOCIAL PROOF \u2014 L2 Parents",
+        "content": "Here's what L2 parents say after trying it:\n\n> \"He initiated. Once. After 4 years.\", L2 parent\n\n> \"If I could just get him the signal, I know the rest would follow.\", L2 parent\n\n> 92% of parents report clearer body awareness within 2 weeks.\n> 87% reduced pull-up use within 1 month.\n> 97.6% would recommend BrightKidCo to another parent.\n\n16,511 reviews \u00b7 4.9\u2605, from parents who've been where you are.\n\n---",
+        "type": "social_proof"
+      },
+      {
+        "name": "GUARANTEE",
+        "content": "60 days. Your judgment.\n\nIf your child shows no sign of body awareness, no pause, no look, no step toward the potty, full refund. No forms. No hoops. No \"you didn't try hard enough.\"\n\nThe guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system.\n\n---",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "Primary CTA (button):\n\n> [ When you're ready, the 3+3 Bundle is here ]\n\n- Copy: \"When you're ready, the 3+3 Bundle is here\"\n- Length: 42 characters, fits button guidelines\n- Formula: Permission-based + Product + Benefit\n- Placement: Bottom of email (above Lena sign-off)\n\nSecondary CTA (text link):\n\n> Or start with 1 Pair, $34.99\n\n- L3-style entry point available for L2 parents who want lower commitment\n- Placed as text link below primary button\n\n---\n\n### LENA SIGN-OFF (E8 LONG Variant)\n\nWhatever you choose, thanks for reading this far. If thisn't the day, that's okay. The product will be here next month. So will I.\n\nI have two autistic sons. I know what it's like when \"later\" turns into another year. But I also know what it's like to push too early.\n\nTrust your read.\n\nWith care,\nLena \u2014\u2014\n\n---",
+        "type": "cta"
+      },
+      {
+        "name": "FOOTER",
+        "content": "Lena from BrightKidCo\nsupport@brightkidco.com\n[Physical Address, 1234 Commerce Blvd, Suite 100, Los Angeles, CA 90001]\n\nNo longer want these emails? [Unsubscribe] or [Manage Preferences]\n\nQuestions? Reply to this email, I read every response.\n\n---\n\n### SOURCE CITATIONS\n\n| # | Claim | Source |\n|---|-------|--------|\n| 1 | Hook & personal frame | S2 Copy Strategy \u00a7E8 L2; Lena's lived experience per Ingestion Compendium \u00a76.2 |\n| 2 | 6-Element L2 Formula | Segmentation Blueprint \u00a71.2; GIULIANO-DEMANDS.md \u00a723; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a76.1 |\n| 3 | Interoception deficit in ASD children | Nicholson et al. 2019 \u2014 Research Compendium \u00a72.1 |\n| 4 | Interoception as settled science for ASD | Barmpagiannis & Baldimtsi 2025 (49-study review) \u2014 Research Compendium \u00a72.1 |\n| 5 | BCBA prompt-dependency reframe | S2 Copy Strategy \u00a7E2 L2; Ingestion Compendium \u00a72.3 L2 quotes |\n| 6 | Pull-ups wick feedback away | S2 Copy Strategy \u00a7E6 L2; MASTER-RESEARCH-COMPENDIUM.md \u00a71.1 |\n| 7 | Body-Signal Learning Layer 3-layer system | Ingestion Compendium \u00a74.1-4.3 |\n| 8 | \"He initiated. Once. After 4 years.\" | Ingestion Compendium \u00a72.3 \u2014 L2 Key Quotes #109 |\n| 9 | \"If I could just get him the signal...\" | Ingestion Compendium \u00a72.3 \u2014 L2 Key Quotes |\n| 10 | 92% clearer body awareness, 87% reduced pull-ups, 97.6% recommend | Internal data \u2014 Ingestion Compendium \u00a74.4 |\n| 11 | 16,511 reviews \u00b7 4.9\u2605 | Brand Constants \u00a76.2 \u2014 Ingestion Compendium |\n| 12 | 60-day guarantee wording | Brand Constants \u00a76.2 \u2014 Ingestion Compendium |\n| 13 | \"When you're ready, the 3+3 Bundle is here\" CTA | S2 Copy Strategy \u00a7E8 L2 |\n| 14 | Lena Sign-Off LONG variant | S2 Copy Strategy \u00a7E8; Brand Voice \u00a76.2 |\n| 15 | From Name \"Lena from BrightKidCo\" | Brand Constants \u00a76.2 \u2014 Ingestion Compendium |\n\n---\n\n# PART 2 \u2014 CREATIVE STRATEGY",
+        "type": "body"
+      }
+    ],
+    "cta": {
+      "button_text": "When you"
+    },
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "HOOK (Attention)",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "I have two autistic sons. One trained at 6. The other took us until he was almost 8.\n\nI know what you're going through. Not because I read about it in a research paper. Because I've lived it, the morn..."
+    },
+    {
+      "section_name": "VALIDATION (Interest)",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "Over the last three weeks, I've walked through every element I know matters for L2 parents like you:\n\nReal symptom recognition, You've named the failed methods: BCBA protocols, OT sensory work, social..."
+    },
+    {
+      "section_name": "SOCIAL PROOF \u2014 L2 Parents",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "Here's what L2 parents say after trying it:\n\n> \"He initiated. Once. After 4 years.\", L2 parent\n\n> \"If I could just get him the signal, I know the rest would follow.\", L2 parent\n\n> 92% of parents repor..."
+    },
+    {
+      "section_name": "GUARANTEE",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days. Your judgment.\n\nIf your child shows no sign of body awareness, no pause, no look, no step toward the potty, full refund. No forms. No hoops. No \"you didn't try hard enough.\"\n\nThe guarantee is..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "Primary CTA (button):\n\n> [ When you're ready, the 3+3 Bundle is here ]\n\n- Copy: \"When you're ready, the 3+3 Bundle is here\"\n- Length: 42 characters, fits button guidelines\n- Formula: Permission-based ..."
+    },
+    {
+      "section_name": "FOOTER",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Lena from BrightKidCo\nsupport@brightkidco.com\n[Physical Address, 1234 Commerce Blvd, Suite 100, Los Angeles, CA 90001]\n\nNo longer want these emails? [Unsubscribe] or [Manage Preferences]\n\nQuestions? R..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "email_id": "faq-21-e1",
+  "source_file": "outputs/copy/faq-library/faq-21-e1.md",
+  "copy": {
+    "file": "faq-21-e1.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "Email Body",
+        "content": "Lena from BrightKidCo\nCustomer Support \u00b7 Mom of two autistic sons\nWhether you've tried 2 things or 12.\nWhether you're 3 weeks into wondering or 3 years into trying.\nIf your child doesn't feel when they need to go, sits on the toilet and nothing happens, plays in a wet pull-up without noticing, never initiates, or \"almost trained\" multiple times, then here's the one thing most methods assume exists. That doesn't yet.\nThe piece that's missing isn't another method.\nIt's the signal.\nHere's what every parent who's \"tried everything\" has in common:\nYou didn't fail. You solved the wrong problem.\nStandard potty training methods, Oh Crap, sticker charts, timer sits, social stories, BCBA protocols, ABA schedules, they all depend on one thing your child may not have yet: the ability to feel the \"I need to go\" message from their body.\nResearch from Nicholson et al. (2019) shows many autistic children have something called diminished body awareness. The brain-body connection for internal signals, bladder fullness, thirst, the need to go, doesn't arrive the way traditional methods assume it does.\n- He sits 20 minutes, nothing happens. Then pees 30 seconds after standing up.\n- She doesn't react to wetness at all, keeps playing, doesn't flinch.\n- He says \"I need to go\" after it's already happening, or can't tell you at all.\n- She's \"almost trained\" for months. Multiple times.\nIf even one of these sounds like your morning, keep reading.\nThe 49% reality check.\nThe CDC-funded SPARK study of 743 autistic children found that 49% of 4-5 year olds aren't toilet trained yet (Wiggins et al. 2022). That's not a parenting failure. That's a measurable, documented gap.\nA 2025 review of 49 scientific studies confirms: body signal differences in autism are settled science (Barmpagiannis & Baldimtsi 2025). Thisn't theory. Thisn't guesswork.\nIf your child's nervous system processes body signals differently, every method that assumes a working signal was built on the wrong foundation.\nSo what's different about this approach?\nThe Body-Signal Learning Layer doesn't rely on a signal your child hasn't developed yet. It creates one.\nA gentle sensation that lasts sensation, 30 to 60 seconds of awareness time, that gives the brain the input it's been missing. Pull-ups and regular underwear both fail here: one wicks everything away, the other overwhelms with a brief intense sensation that passes before the brain can register it.\nThisn't training. It's signal-building.\nWhat this doesn't promise:\n- Thisn't a guarantee your child will be \"fully trained\" in X weeks.\n- Thisn't another schedule to follow or chart to fill.\n- Thisn't asking you to hope again, just to understand what's been missing.\nWhat this does offer:\n- A 60-day chance to see if your child starts to notice something new.\n- A full refund if it doesn't work, by your judgment, not ours.\n- A peer who's been where you are.\nLena's story, because you deserve to know who's writing to you:\nBoth my autistic sons went through this exact loop. We tried the books. We tried the charts. We tried the \"bootcamp weekend\" that left us both in tears. Nothing worked not because we didn't try, but because every method assumed a signal that wasn't there yet.\nMy older son was 8 before he trained. Not 3. Not 4. Eight.\nI know what it feels like to be told \"you've tried everything.\" You probably have. But if everything you tried assumed a body signal your child can't feel yet, then what you haven't tried is building that signal first.\nThat's the missing piece.\nIf this makes sense for your child, even a little, the 3+3 Bundle is $79.99 with free shipping and a 60-Day Guarantee.\nTry it for 60 days. By your judgment. If it doesn't work, full refund.\n[See if the body-signal approach fits your child, button: Brand-Green #039902]\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n*60-Day Guarantee: Try the underwear for 60 days. If you don't see the first signals, a pause, a look down, a pull at the pants, return for a full refund. Your call.*\nOn the other hand, if today isn't the right day, that's a real answer. The product will be here when you are. So will I.\nReply to this email and tell me about your child. I read everything.\nWith understanding,\nLena \u2014\u2014\n*Customer Support \u00b7 Mom of two autistic sons*\nP.S. 16,511 parents left a review. 4.9\u2605 average. Not because every child trained, but because parents finally had an answer to \"why nothing worked.\" Read a few if you're not sure yet.",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Email Body",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Lena from BrightKidCo\nCustomer Support \u00b7 Mom of two autistic sons\nWhether you've tried 2 things or 12.\nWhether you're 3 weeks into wondering or 3 years into trying.\nIf your child doesn't feel when the..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

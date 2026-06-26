@@ -1,0 +1,227 @@
+{
+  "email_id": "welcome-01-e1-l1",
+  "source_file": "outputs/copy/welcome/welcome-01-e1-l1.md",
+  "copy": {
+    "file": "welcome-01-e1-l1.md",
+    "metadata": {
+      "flow": "Welcome Flow",
+      "position": "E1 (Day 0)",
+      "level": "L1, Sarah",
+      "phase": "Phase 1 (Launch)",
+      "purpose": "Immediate validation + mechanism teaser. Convert confusion into curiosity.",
+      "emotional_arc_position": "Mirror confusion \u2192 Validate \u2192 Offer mechanism as explanation \u2192 Curiosity to continue",
+      "section_structure": "Hook \u2192 Validation \u2192 Mechanism \u2192 CTA",
+      "framework_used": "PAS (Problem-Agitate-Solve)",
+      "cadence": "Day 0 (immediate after signup)",
+      "hope/realism_ratio": "70/30",
+      "science_density": "Medium-Low",
+      "urgency": "Allowed (Pre-K driven, light touch in E1)",
+      "decision_speed": "2-7 days"
+    },
+    "subject": "He talks about it but won't do it",
+    "preview": "His brain and bladder are sending messages on different frequencies. Here's what that means.\n\n| Field | Value |\n|-------|-------|\n| **Character Count** | 81 characters |\n| **Relation to Subject** | Complements, does not repeat |\n| **Mobile Safe** | Yes, key info in first 40 chars (\"His brain and bladder are sending...\") |",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "He talks about the potty, \"I need to go,\" he says, looking right at you. Then he pees on the floor 30 seconds later. Not because he's being difficult. Not because he doesn't understand. Because the signal arrives too late.\n\n\"He says 'I need to pee' AFTER it's already happened.\"\n\nThat sentence, if it sounds familiar, is the entire problem in seven words. Your child knows what the potty is. He wants to use it. He tells you he's going. But his body doesn't give him the message until the toilet is irrelevant.\n\nYou know he's smart. You've seen him figure things out. So why won't his body cooperate with what his brain clearly wants?\n\n---",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "Thisn't your fault. And it's not his.\n\nFor months, maybe longer, you've been asking the same questions. Is he being stubborn? Does he need more time? Did I do something wrong? You've read the articles. You've tried the methods. You've watched other kids his age figure it out while yours keeps having accidents.\n\nHere's what almost no one told you: his brain and bladder are sending messages on different frequencies. There's nothing wrong with either one. They just aren't connected the way traditional potty training assumes they are.\n\n\"He has a perfect week, then a month of accidents.\"\n\nThat inconsistency, the good days followed by the bad, isn't a behavioral choice. It's not regression. It's a neurological signal gap that doesn't care about yesterday's success. Your child can't \"try harder\" to feel something his body isn't telling him.\n\n---",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism",
+        "content": "This gap has a name: interoception \u2014 the body's ability to sense internal signals like hunger, thirst, and the need to use the bathroom.\n\nResearch shows autistic children show significantly diminished body awareness \u2014 a real, measurable neurological difference, not a behavioral issue. Over 90% of autistic children have sensory processing differences, which is why timed sits and sticker charts fail. You can't reward a child into feeling something their nervous system isn't delivering.\n\n---",
+        "type": "mechanism"
+      },
+      {
+        "name": "CTA",
+        "content": "Here's the good news: interoception can be trained.\n\nHample, Mahler & Amspacher (2020) showed that targeted interoception intervention produces measurable improvement in body awareness. The gap isn't permanent. But it needs a different approach, one that doesn't assume the signal is already there.\n\nThe next email in this series will show you what that approach looks like. Not another method. Not a reward system. A genuine mechanism designed for the way your child's nervous system actually works.\n\nLet's explore what's really happening with his body signals.\n\n| Field | Value |\n|-------|-------|\n| CTA Formula | Action Verb + Benefit (\"Let's explore what's really happening\") |\n| CTA Type | Soft, permission-framed, educational, opens curiosity |\nButton Text | \"See How Body-Signal Learning Works\" |\nButton Spec | Full-width, Brand-Green #039902, 48px+ height, white text, border-radius 6px |\nSecondary CTA | Text link: \"Read the science behind it \u2192\" |\n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*",
+        "type": "cta"
+      }
+    ],
+    "cta": {
+      "button_text": "t permanent. But it needs a different approach, one that doesn"
+    },
+    "signoff": {
+      "text": "Thanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.\n\nTalk soon,\nLena \u2014,"
+    },
+    "footer": {
+      "text": "BrightKidCo\n[Physical Address, to be added by client]\nBrooklyn, NY 11201\n\nNo longer want these emails? Unsubscribe\n\nQuestions? Reply to this email, we read every response.\n\n| Field | Value |\n|-------|-------|\n| **Physical Address** | Included (CAN-SPAM compliance) |\n| **Unsubscribe** | Included |\n| **Reply to This Email** | Included (deliverability signal) |\n| **Social Proof** | Not included in E1, awareness phase |"
+    }
+  },
+  "messaging": {
+    "flow_type": "welcome",
+    "position": "E1 (Day 0)",
+    "audience": "L1",
+    "messaging_type": "awareness",
+    "emotional_arc": "",
+    "hope_ratio": "70/30",
+    "urgency": "allowed",
+    "purpose": "education",
+    "cta_force": "very_low",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "He talks about the potty, \"I need to go,\" he says, looking right at you. Then he pees on the floor 30 seconds later. Not because he's being difficult. Not because he doesn't understand. Because the si..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "Thisn't your fault. And it's not his.\n\nFor months, maybe longer, you've been asking the same questions. Is he being stubborn? Does he need more time? Did I do something wrong? You've read the articles..."
+    },
+    {
+      "section_name": "Mechanism",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "This gap has a name: interoception \u2014 the body's ability to sense internal signals like hunger, thirst, and the need to use the bathroom.\n\nResearch shows autistic children show significantly diminished..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "Here's the good news: interoception can be trained.\n\nHample, Mahler & Amspacher (2020) showed that targeted interoception intervention produces measurable improvement in body awareness. The gap isn't ..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

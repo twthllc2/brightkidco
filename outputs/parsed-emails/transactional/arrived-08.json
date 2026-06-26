@@ -1,0 +1,244 @@
+{
+  "email_id": "arrived-08",
+  "source_file": "outputs/copy/transactional/arrived-08.md",
+  "copy": {
+    "file": "arrived-08.md",
+    "metadata": {},
+    "subject": "Your Body-Signal underwear arrived!",
+    "preview": "- **Preview:** It's here. Now what? Week 1 is about exploring, here's what to expect (and what not to worry about).",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "Your package is here. The Body-Signal underwear, the cotton, the layers, the whole thing. If you're feeling a mix of excitement and hesitation, that's the right combination. Every parent who opens that first box has the same question: \"Now what?\"\n\nAnd the answer might surprise you: for the first few days, you just let your child wear them. That's it. No timer. No prompts. No pressure. Because the underwear is the teacher, not you.\n\nWhether your child is 3 or 10, verbal or non-verbal, newly diagnosed or you're still figuring it out, if they don't feel when they need to go, the Body-Signal Learning Layer starts doing its work from the first wear. Each 'uh-oh' sensation, 30 to 60 seconds of gentle feedback, builds a neural pathway that no sticker chart, no scheduled sit, and no pull-up has ever been able to create.",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "I know the skepticism you're carrying. You've read the product pages. You've watched the videos. But after years of trying, whether it's been a few months or a few years, that voice in your head says, \"What if this another thing that doesn't work?\"\n\nThat voice isn't cynicism. It's experience. And it's valid.\n\nSome kids show their first signal, a pause, a look down, a step toward the bathroom, in week 2 or 3. Some take 8 weeks. Both are normal. Your child's nervous system isn't behind schedule; it's learning a new language, the language of body signals, and that takes repetition, not rushing.",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism (Product Introduction within narrative)",
+        "content": "Here's what happens physically: the 3-layer system, cotton inner for gentle first-contact awareness, a smart absorption layer that protects without wicking the signal away, and an outer barrier for leak resistance, creates gentle sensation that lasts about 30 to 60 seconds long. Unlike pull-ups, which wick moisture away to keep your child \"too dry to learn,\" the Body-Signal Learning Layer gives the brain the information it's been missing.\n\nNicholson et al. (2019) documented what many parents already sense: autistic children process internal body signals, like bladder fullness, differently. The signal arrives; it just arrives differently. This underwear is designed around that neurological fact, not despite it.",
+        "type": "mechanism"
+      },
+      {
+        "name": "What to Expect in Week 1",
+        "content": "Week 1 is exploration. Your child may notice the underwear. They may ignore it completely. Both are fine. Let them wear it for 1-2 hours at home. No timer. No \"did you feel anything?\" Just wear, go about the day, change when wet, repeat.\n\nIf nothing happens in the first week, good. That's not failure. That's your child's nervous system registering a new sensation for the first time. The real magic starts when the brain recognizes that sensation consistently, usually in weeks 2-4 for some kids, 6-8 for others.\n\nAs one parent of a 5-year-old who'd been \"almost trained\" for a year told us: \"He paused. He felt something. That never happened before.\"",
+        "type": "body"
+      },
+      {
+        "name": "Guarantee / Risk Reversal",
+        "content": "60 days to try it. By your judgment. If you don't see a shift, no pause, no awareness, no change, full refund. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system, not on your effort.",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "- Button text: See what fits your routine \u2192 (link to recommended bundle upsell based on purchase)\n- Secondary link text: \"Learn more about how the body signal works\"\n- Placement: After guarantee section, below the fold",
+        "type": "cta"
+      }
+    ],
+    "cta": {
+      "button_text": "See what fits your routine \u2192"
+    },
+    "signoff": {
+      "text": "With understanding,\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8. If your child is anywhere on this curve, that's normal here.\nP.S. 60 days to try it. By your judgment."
+    },
+    "footer": {
+      "text": "BrightKidCo\n123 Commerce Street, Suite 200\nSan Francisco, CA 94111\nUnited States\n\nIf you'd rather not hear from us, you can unsubscribe here.\n\nReply to this email, Lena reads every response."
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Your package is here. The Body-Signal underwear, the cotton, the layers, the whole thing. If you're feeling a mix of excitement and hesitation, that's the right combination. Every parent who opens tha..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "I know the skepticism you're carrying. You've read the product pages. You've watched the videos. But after years of trying, whether it's been a few months or a few years, that voice in your head says,..."
+    },
+    {
+      "section_name": "Mechanism (Product Introduction within narrative)",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Here's what happens physically: the 3-layer system, cotton inner for gentle first-contact awareness, a smart absorption layer that protects without wicking the signal away, and an outer barrier for le..."
+    },
+    {
+      "section_name": "What to Expect in Week 1",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "Week 1 is exploration. Your child may notice the underwear. They may ignore it completely. Both are fine. Let them wear it for 1-2 hours at home. No timer. No \"did you feel anything?\" Just wear, go ab..."
+    },
+    {
+      "section_name": "Guarantee / Risk Reversal",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days to try it. By your judgment. If you don't see a shift, no pause, no awareness, no change, full refund. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome ..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "- Button text: See what fits your routine \u2192 (link to recommended bundle upsell based on purchase)\n- Secondary link text: \"Learn more about how the body signal works\"\n- Placement: After guarantee secti..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

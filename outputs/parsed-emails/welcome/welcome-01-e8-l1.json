@@ -1,0 +1,239 @@
+{
+  "email_id": "welcome-01-e8-l1",
+  "source_file": "outputs/copy/welcome/welcome-01-e8-l1.md",
+  "copy": {
+    "file": "welcome-01-e8-l1.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "HOOK SECTION",
+        "content": "Subject line context: Last email, here's the offer\n\nPreview text: September is coming. Here's what you need to know.\n\n---\n\nHook (opening paragraph):\n\nPre-K doesn't wait. You know that better than anyone. But the right approach can close the gap before September gets here.\n\n---",
+        "type": "hook"
+      },
+      {
+        "name": "VALIDATION SECTION",
+        "content": "You've read the science over these past three weeks. You've seen how the numbers stack up, 49% of autistic 4-5 year olds aren't toilet trained yet (Wiggins et al. 2022, N=743, CDC-funded). Not because their parents didn't try. Because traditional methods assume a body signal that hasn't arrived yet.\n\nI know that hit close to home when you first read it. It did for me too.\n\n---\n\n### RECAP SECTION\n\nHere's what 21 days of emails boiled down to:\n\n- The problem isn't behavior, it's neurology. His brain and bladder are sending signals on different frequencies. That gap is real and measurable.\n- The mechanism closes that gap. The Body-Signal Learning Layer creates a sustained 30-60 second \"uh-oh\" sensation \u2014 time his brain needs to register what's happening. Pull-ups wick that signal away completely.\n- The proof speaks for itself. Research confirms interoception can be trained. The children who start earlier close the gap faster.\n\n---",
+        "type": "validation"
+      },
+      {
+        "name": "SOCIAL PROOF SECTION",
+        "content": "Real parents, real words:\n\n> \"He says 'I need to pee' AFTER it's already happened. Some days he's great, other days zero.\", Sarah, L1 mom\n\n> \"He had a perfect week, then a month of accidents. I didn't know if it was refusal or inability. Turns out it was neither, he just couldn't feel it.\", L1 parent, 3 weeks into Body-Signal\n\n> \"He went today! Once! But he went!\", Real review, real moment\n\n---",
+        "type": "social_proof"
+      },
+      {
+        "name": "PRODUCT INTRO SECTION",
+        "content": "The 3+3 Bundle was designed for this exact situation. Six pairs mean you always have a clean set ready, no rushing laundry, no \"he's in pull-ups because everything else is dirty.\" Three-layer system:\n\n- Cotton inner, Gentle wetness signal that creates the \"uh-oh\" moment\n- Smart absorption layer, Protects furniture and floors without blocking the feedback loop\n- Outer leak-resistant barrier, Confidence for outings and Pre-K drop-offs\n\nAt $79.99 with free shipping, that's less than two months of disposable pull-ups. And unlike pull-ups, these actually *teach* something.\n\n---",
+        "type": "product"
+      },
+      {
+        "name": "GUARANTEE SECTION",
+        "content": "The 60-day guarantee isn't a sales tactic. It's the only honest offer when the outcome depends on your child's nervous system.\n\nTry the 3+3 Bundle for 60 days. If your child shows no sign of body awareness, no pause, no look down, no step toward the potty, send them back. Full refund. No hoops, no restocking fees, no \"but you need to try harder.\"\n\nYour judgment, your timeline, your call.\n\n---\n\n### CALL-TO-ACTION SECTION\n\nPrimary CTA Button:\n\n[ Get the 3+3 Bundle, $79.99 ]\n\n> CTA Copy Formula: Action Verb + Benefit = \"Get the 3+3 Bundle, $79.99\"\n> Button copy character count: 30 characters \u2713\n> Placement: Above the fold + Bottom (two positions)\n> Rationale: For L1 Sarah, the CTA needs to be clear and confident. She's deadline-driven and appreciates knowing exactly what she's getting and what it costs. The price in the CTA removes friction, no need to click to find out. \n> Framework: AIDA, Action stage. The hook got attention, the recap built interest, the social proof and product intro created desire, now the CTA drives action. \n\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n\u2713 Free shipping on all bundles\n\u2713 60-day money-back guarantee, no risk\n\u2713 24/7 parent support, real humans, real answers\n\nSecondary text link: or browse individual pairs starting at $34.99\n\n---\n\n### LENA SIGN-OFF\n\nWhatever you choose, thanks for reading this far. If thisn't the day, that's okay. The product will be here next month. So will I.\n\nI have two autistic sons. I know what it's like when \"later\" turns into another year. But I also know what it's like to push too early. Trust your read.\n\nWith care,\nLena \u2014,\n\n---\n\n### PS LINE\n\nPS: Not sure yet? Reply to this email and tell me about your child. I personally read every response, no bots, no templates. If BrightKidCo isn't right for your family, I'll tell you honestly.\n\n---",
+        "type": "guarantee"
+      },
+      {
+        "name": "FOOTER",
+        "content": "BrightKidCo LLC\n123 Commerce Street, Suite 200\nPortland, OR 97204\nUnited States\n\n[Unsubscribe]({{unsubscribe_url}}) | [Manage Preferences]({{manage_preferences_url}})\n\n*Questions? Hit reply, Lena reads every message.*\n\n\u00a9 2026 BrightKidCo. All rights reserved.\n\n> CAN-SPAM compliance: Physical address \u2713 | Unsubscribe link \u2713 | One-click unsubscribe \u2713\n> Engagement invitation: Reply-to-Lena included \u2713\n\n---\n\n### SOURCE CITATIONS\n\n| # | Source | Reference | Used In |\n|---|--------|-----------|---------|\n| 1 | Wiggins et al. (2022) | CDC-funded SPARK study, N=743, 49% of autistic 4-5 year olds not toilet trained | Validation section |\n| 2 | Barmpagiannis & Baldimtsi (2025) | 49-study systematic review, body signal differences in autism | Recap section |\n| 3 | Nicholson et al. (2019) | Diminished body awareness in autistic children (J Autism Dev Dis) | Recap section |\n| 4 | Hample, Mahler & Amspacher (2020) | Interoception intervention produces measurable improvement | Recap section |\n| 5 | Iqbal (2022) | 59% of autistic children can't communicate urination needs | Supporting |\n| 6 | 2-full-email-copy-strategy.md \u00a71.1 | Welcome E8 L1, Hook, Recap, CTA, Lena Sign-Off | Full email structure |\n| 7 | MASTER-INGESTION-COMPENDIUM.md \u00a72.2 | L1 parent quotes, \"He says AFTER\", \"Some days great other days zero\", \"He went today!\" | Social Proof section |\n| 8 | 05-customer-language-bank.md \u00a7A7 | Real parent reviews | Social Proof section |\n| 9 | 04-mechanism-positioning.md \u00a74.2 | 3-layer product system description | Product Intro section |\n| 10 | 30-customer-support-playbook.md \u00a7O7 | 60-day guarantee framework | Guarantee section |\n| 11 | email-cta-conversion-design skill \u00a75.2 | CTA copy frameworks | CTA section |\n| 12 | copywriting-subject-line-engineering skill \u00a73.2 | Preview text strategy | Preview Text section |\n\n---\n\n# PART 2, CREATIVE STRATEGY",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "HOOK SECTION",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Subject line context: Last email, here's the offer\n\nPreview text: September is coming. Here's what you need to know.\n\n---\n\nHook (opening paragraph):\n\nPre-K doesn't wait. You know that better than anyo..."
+    },
+    {
+      "section_name": "VALIDATION SECTION",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "You've read the science over these past three weeks. You've seen how the numbers stack up, 49% of autistic 4-5 year olds aren't toilet trained yet (Wiggins et al. 2022, N=743, CDC-funded). Not because..."
+    },
+    {
+      "section_name": "SOCIAL PROOF SECTION",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "Real parents, real words:\n\n> \"He says 'I need to pee' AFTER it's already happened. Some days he's great, other days zero.\", Sarah, L1 mom\n\n> \"He had a perfect week, then a month of accidents. I didn't..."
+    },
+    {
+      "section_name": "PRODUCT INTRO SECTION",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The 3+3 Bundle was designed for this exact situation. Six pairs mean you always have a clean set ready, no rushing laundry, no \"he's in pull-ups because everything else is dirty.\" Three-layer system:\n..."
+    },
+    {
+      "section_name": "GUARANTEE SECTION",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "The 60-day guarantee isn't a sales tactic. It's the only honest offer when the outcome depends on your child's nervous system.\n\nTry the 3+3 Bundle for 60 days. If your child shows no sign of body awar..."
+    },
+    {
+      "section_name": "FOOTER",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "BrightKidCo LLC\n123 Commerce Street, Suite 200\nPortland, OR 97204\nUnited States\n\n[Unsubscribe]({{unsubscribe_url}}) | [Manage Preferences]({{manage_preferences_url}})\n\n*Questions? Hit reply, Lena read..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

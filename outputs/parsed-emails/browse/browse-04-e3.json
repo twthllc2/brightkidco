@@ -1,0 +1,258 @@
+{
+  "email_id": "browse-04-e3",
+  "source_file": "outputs/copy/browse/browse-04-e3.md",
+  "copy": {
+    "file": "browse-04-e3.md",
+    "metadata": {},
+    "subject": "This might not be right for your child, and that's okay",
+    "preview": "- **Preview:** 60 days to try it. Your judgment. If it doesn't work, full refund.",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or you're still figuring it out, if they don't feel when they need to go, you've been working with one hand tied behind your back. You came and looked at our underwear a few days ago, and I want to respect whatever you're sitting with right now. Maybe you're still deciding. Maybe you've been burned by enough \"solutions\" that you've learned not to get your hopes up. Either way, that's reasonable.",
+        "type": "hook"
+      },
+      {
+        "name": "Recognition Anchors (R2 / R1 / R3 / R4)",
+        "content": "You've probably experienced some version of this:\n\n\u2022 He sits on the toilet for 20 minutes, nothing happens, and then pees 30 seconds after you put the pull-up back on.\n\u2022 She plays in a wet diaper like she doesn't even notice. No pause. No reaction. No signal.\n\u2022 He knows the routine but won't initiate on his own, ever.\n\u2022 She's been \"almost trained\" three times now, but it never sticks.\n\u2022 You've been at this for years and can't remember the last time anything changed.\n\nIf even one of these sounds familiar, keep reading. Not because I'm going to pitch you. Because I want you to know what's going on, so you can decide if it fits your child or not.",
+        "type": "recognition"
+      },
+      {
+        "name": "Mechanism Recap",
+        "content": "Here's what we know now that we didn't know five years ago: many autistic children can't feel the internal signal that says \"I need to go.\" It's called interoception, the sense that tells your body when you're hungry, thirsty, or need the bathroom, and research shows it works differently in autistic kids (Nicholson et al. 2019; Barmpagiannis & Baldimtsi 2025, 49-study review). Kelly Mahler, the leading researcher in this space, calls interoception the \"eighth sensory system.\" If that signal doesn't arrive, no method that depends on it, sticker charts, timed sits, social stories, Oh Crap, can work for that child. Not because you didn't try hard enough. Because the method was asking for a signal the nervous system couldn't deliver.\n\nThe Body-Signal Learning Layer doesn't train your child. It doesn't prompt, bribe, or time them. It creates a gentle, sustained \"uh-oh\" sensation, 30 to 60 seconds of feedback, that gives the brain the information it's been missing. Some kids start to register that sensation within two weeks. Some take eight weeks. Both are normal.",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof, Mini-Wins (R6)",
+        "content": "The parents who've tried it describe success in small, real moments:\n\n> \"He looked down at the wet spot for the first time in his life. That never happened before.\"\n>, Sarah, mom of a 4-year-old (verbal, \"almost trained\" for over a year)\n\n> \"She paused mid-play. Looked down at her pants. Then she walked to the bathroom. It was after the fact, but she PAUSED. That was week 4.\"\n>, Lisa, mom of a 6-year-old (sensory issues, BCBA context)\n\n> \"He's not trained. But he's tolerating the underwear for the first time. And last week, he pulled at his pants when he was wet. That's more awareness than we've seen in 7 years.\"\n>, Maria, mom of a 9-year-old (non-verbal, high support needs)\n\nThree different kids, three different starting points, three different timelines. The common thread: the body-signal layer started giving the brainformation it had been missing.",
+        "type": "social_proof"
+      },
+      {
+        "name": "Product Introduction",
+        "content": "The underwear itself is a three-layer system: a cotton inner that creates the signal, a smart absorption layer that protects without wicking the sensation away, and a leak-resistant outer barrier. It's designed to be worn during normal daily activity, one to two hours at a time, no prompting, no pressure. Let the sensation do the teaching.\n\nFor most families, the 3+3 Bundle (6 pairs, $79.99, free shipping) gives enough rotation for consistent daily wearing. If you want to start lighter, 1 Pair ($34.99) lets you test the approach alongside your current routine.",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee / Risk Reversal",
+        "content": "60 days. Your judgment. If your child shows no sign of body awareness, no pause, no look, no change at all, full refund. Not because I expect you to ask for one. Because you should never feel stuck with something that didn't work for your kid.",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "- Button text: See how the body-signal layer works\n- Price anchor: That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.\n- Secondary link text: Read reviews from 16,511 parents\n- Placement: After Section 6, above the fold on desktop, mid-scroll on mobile",
+        "type": "cta"
+      }
+    ],
+    "cta": {
+      "price_anchor": "That's $13.33 per pair with the bundle \u2014 less than half the single-pair price."
+    },
+    "signoff": {
+      "text": "With care,\n\nLena \u2014,\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. My older son was 8 before we figured this out. If you've stepped back from trying, I get it. When you're ready, the science will still be here. 60 days, your judgment."
+    },
+    "footer": {
+      "text": "BrightKidCo\n[Physical Address]\nYou're receiving this because you visited our website or opted in at checkout.\n\n[Unsubscribe]({{ unsubscribe_url }}) | [Manage preferences]({{ manage_preferences_url }})\n\nReply to this email. Lena reads every response."
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or you're still figuring it out, if they don't feel when they need to go, you've been working with one hand tied behind your back. ..."
+    },
+    {
+      "section_name": "Recognition Anchors (R2 / R1 / R3 / R4)",
+      "section_type": "recognition",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition"
+      ],
+      "content_preview": "You've probably experienced some version of this:\n\n\u2022 He sits on the toilet for 20 minutes, nothing happens, and then pees 30 seconds after you put the pull-up back on.\n\u2022 She plays in a wet diaper like..."
+    },
+    {
+      "section_name": "Mechanism Recap",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Here's what we know now that we didn't know five years ago: many autistic children can't feel the internal signal that says \"I need to go.\" It's called interoception, the sense that tells your body wh..."
+    },
+    {
+      "section_name": "Social Proof, Mini-Wins (R6)",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "The parents who've tried it describe success in small, real moments:\n\n> \"He looked down at the wet spot for the first time in his life. That never happened before.\"\n>, Sarah, mom of a 4-year-old (verb..."
+    },
+    {
+      "section_name": "Product Introduction",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The underwear itself is a three-layer system: a cotton inner that creates the signal, a smart absorption layer that protects without wicking the sensation away, and a leak-resistant outer barrier. It'..."
+    },
+    {
+      "section_name": "Guarantee / Risk Reversal",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "60 days. Your judgment. If your child shows no sign of body awareness, no pause, no look, no change at all, full refund. Not because I expect you to ask for one. Because you should never feel stuck wi..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "- Button text: See how the body-signal layer works\n- Price anchor: That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.\n- Secondary link text: Read reviews from 16,511 parent..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

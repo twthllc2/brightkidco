@@ -1,0 +1,257 @@
+{
+  "email_id": "upsell-09-e2",
+  "source_file": "outputs/copy/pp-direct-upsell/upsell-09-e2.md",
+  "copy": {
+    "file": "upsell-09-e2.md",
+    "metadata": {},
+    "subject": "One thing every parent wishes they'd bought sooner",
+    "preview": "- **Preview:** The mattress protector that doesn't feel like a mattress protector. Cotton-side up, no crinkles, no plastic feel.",
+    "from_name": "Lena from BrightKidCo",
+    "sections": [
+      {
+        "name": "Hook",
+        "content": "You've got the Body-Signal underwear. You're in the early days of the learning phase. Here's what no one tells you about that: accidents aren't a sign it isn't working. They're the whole point. The wetness signal is what teaches the nervous system. But while your child's brain is learning to read that signal, your furniture is doing the absorbing.\n\nThat's where the BrightKidCo Mattress Protector comes in. Not because we're trying to sell you another thing. Because I wish someone had told me about it before my older son went through his learning phase, and I had to replace a mattress.",
+        "type": "hook"
+      },
+      {
+        "name": "Validation",
+        "content": "The learning phase is messy. Intentionally. Your child needs to feel the wetness to build the neural pathway. That means some mornings you'll strip the bed. Some naps end with damp sheets. Some car rides require the seat cover. None of that means anything is wrong, it means your child's nervous system is getting the feedback it's been missing.\n\nBut what happens to the mattress underneath? If you're anything like me, you've been layering towels and hoping for the best. You shouldn't have to choose between letting the signal work and protecting your furniture.",
+        "type": "validation"
+      },
+      {
+        "name": "Mechanism Brief (Why This Item Is Different)",
+        "content": "Standard waterproof mattress protectors feel like what they are, plastic bags under a sheet. They crinkle. They trap heat. They turn the bed into an uncomfortable sensory experience, which is exactly the wrong thing for a child who's already navigating sensory differences.\n\nThe BrightKidCo Mattress Protector ($24.99) is built the same way the underwear is: cotton facing on top, breathable waterproof barrier in the middle, no crinkles, no plastic feel. Your child sleeps on cotton, the same cotton they're wearing in their Body-Signal underwear. There's nothing new to adjust to. The protection is invisible.",
+        "type": "mechanism"
+      },
+      {
+        "name": "Social Proof / Wrap-Around",
+        "content": "\"Wish I'd bought this with my first order instead of my third.\", That's what an L2 mom told me after her second mattress protector purchase from a different brand. She'd bought ours a month after the underwear. She said the difference was night and day.\n\nAnother parent, who has a 6-year-old still in the learning phase after years of trying, wrote to say she'd been through three mattress protectors from Amazon before trying ours. \"This one actually stays put. Doesn't slide off the corner. And my kid doesn't fight bedtime anymore because it doesn't feel different from his sheet.\"",
+        "type": "social_proof"
+      },
+      {
+        "name": "Product Introduction",
+        "content": "The Mattress Protector ($24.99) fits mattresses up to 12 inches deep. Same cotton top that your child is already wearing in their Body-Signal underwear. Breathable waterproof membrane, so the mattress stays dry without trapping heat. Machine washable. Tumble dry low. Add it to your next order, or pick it up now if the learning phase is actively happening in your home.\n\nThe Wash Bag ($14.99) from E1 pairs with it naturally: the Wash Bag preserves the Body-Signal Layer in your underwear, and the Mattress Protector protects your furniture while the signal does its work.",
+        "type": "product"
+      },
+      {
+        "name": "Guarantee / Risk Reversal",
+        "content": "Same guarantee as everything we make: 60 days. If the protector doesn't fit, doesn't hold up, or doesn't make your life easier, full refund. No questions. Your judgment.",
+        "type": "guarantee"
+      },
+      {
+        "name": "CTA",
+        "content": "- Button text: Protect your furniture during the learning phase\n- Secondary link text: Or add the Wash Bag too, $39.98 for both\n- Placement: After Product Introduction section (Section 5), below the fold but before sign-off",
+        "type": "cta"
+      }
+    ],
+    "cta": {},
+    "signoff": {
+      "text": "Thanks for being here. If you have a question about the learning phase, the mattress protector, anything, hit reply. You'll get me, not a template, not a bot. I read everything.\n\nLena \u2014\u2014"
+    },
+    "footer": {
+      "text": "BrightKidCo\n[Physical Address]\n[Unsubscribe Link]\n\n*Reply to this email, Lena reads every response.*"
+    }
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "Hook",
+      "section_type": "hook",
+      "needs_image": true,
+      "image_type": "lifestyle_hero",
+      "possible_component_categories": [
+        "hero"
+      ],
+      "content_preview": "You've got the Body-Signal underwear. You're in the early days of the learning phase. Here's what no one tells you about that: accidents aren't a sign it isn't working. They're the whole point. The we..."
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "validation",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "emotional_support"
+      ],
+      "content_preview": "The learning phase is messy. Intentionally. Your child needs to feel the wetness to build the neural pathway. That means some mornings you'll strip the bed. Some naps end with damp sheets. Some car ri..."
+    },
+    {
+      "section_name": "Mechanism Brief (Why This Item Is Different)",
+      "section_type": "mechanism",
+      "needs_image": true,
+      "image_type": "educational",
+      "possible_component_categories": [
+        "body_mechanism"
+      ],
+      "content_preview": "Standard waterproof mattress protectors feel like what they are, plastic bags under a sheet. They crinkle. They trap heat. They turn the bed into an uncomfortable sensory experience, which is exactly ..."
+    },
+    {
+      "section_name": "Social Proof / Wrap-Around",
+      "section_type": "social_proof",
+      "needs_image": true,
+      "image_type": "testimonial_card",
+      "possible_component_categories": [
+        "body_social_proof",
+        "body_recognition"
+      ],
+      "content_preview": "\"Wish I'd bought this with my first order instead of my third.\", That's what an L2 mom told me after her second mattress protector purchase from a different brand. She'd bought ours a month after the ..."
+    },
+    {
+      "section_name": "Product Introduction",
+      "section_type": "product",
+      "needs_image": true,
+      "image_type": "product_flatlay",
+      "possible_component_categories": [
+        "product_showcase"
+      ],
+      "content_preview": "The Mattress Protector ($24.99) fits mattresses up to 12 inches deep. Same cotton top that your child is already wearing in their Body-Signal underwear. Breathable waterproof membrane, so the mattress..."
+    },
+    {
+      "section_name": "Guarantee / Risk Reversal",
+      "section_type": "guarantee",
+      "needs_image": true,
+      "image_type": "badge_seal",
+      "possible_component_categories": [
+        "guarantee_trust"
+      ],
+      "content_preview": "Same guarantee as everything we make: 60 days. If the protector doesn't fit, doesn't hold up, or doesn't make your life easier, full refund. No questions. Your judgment."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "- Button text: Protect your furniture during the learning phase\n- Secondary link text: Or add the Wash Bag too, $39.98 for both\n- Placement: After Product Introduction section (Section 5), below the f..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}

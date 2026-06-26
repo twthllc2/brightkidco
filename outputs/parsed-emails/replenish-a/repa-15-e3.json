@@ -1,0 +1,209 @@
+{
+  "email_id": "repa-15-e3",
+  "source_file": "outputs/copy/replenish-a/repa-15-e3.md",
+  "copy": {
+    "file": "repa-15-e3.md",
+    "metadata": {},
+    "subject": "",
+    "preview": "",
+    "from_name": "",
+    "sections": [
+      {
+        "name": "METADATA",
+        "content": "| Field | Value |\n|-------|-------|\n| Flow | 15 \u2014 Replenishment Path A (1-Pair Buyers) |\n| Email Position | E3 (D30) |\n| Day Sent | Day 30 post-purchase |\n| Segment | buyer_1pair tag (has purchased exactly 1 pair) |\n| Cross-Level | Yes \u2014 R1-R6 enforced |\n| Offer | Upsell: 1 Pair \u2192 3+3 Bundle ($79.99, free shipping, 62% savings vs. 1-pair) |\n 1-full-email-strategy.md \u00a7Flow 15, \u00a713.1; 2-full-email-copy-strategy.md \u00a71.14 |\n\n---\n\n### SUBJECT LINE (12 chars)\n\nLast call: 3+3 pricing\n\n*Type: Permission frame (Formula 4)*\n*Rationale: Under 50 chars. Names the offer without urgency manipulation. The word \"last\" signals time sensitivity without using fake scarcity.*\n*\n---\n\n### PREVIEW TEXT\n\nYour 1 pair has been working for 30 days. If you've been thinking about more, here's the bundle pricing before it shifts.\n\n*Rationale: Sets context (30 days of use). Offers practical framing. Avoids FOMO language. Cross-level safe, L3 receives no urgency pressure from this phrasing.*\n*\n---",
+        "type": "body"
+      },
+      {
+        "name": "BODY",
+        "content": "---\n\nHook, Observation\n\nThirty days with the Body-Signal Learning Layer. However that's gone for your child, whether it's been a quiet 30 days of slow noticing, or 30 days with a couple of tiny moments that felt like the first real thing, you've had the chance to see what happens when a nervous system gets feedback it's been missing.\n\nWhether your child is 3 and just starting to show signs of awareness, or 8 and you've been at this long enough to know what \"trying\" really costs, if they're wearing that 1 pair, you've seen something.\n\nMaybe it was a pause. A look down. A pull at the waistband they've never done before. Or maybe nothing visible yet, and that's normal too.\n\n---\n\nValidation, The 1-Pair Reality\n\nHere's what I hear from parents at the 30-day mark, and I've said this one myself:\n\n*\"One pair isn't enough for consistent learning.\"*\n\nI bought 1 pair first too. Both my sons went through this. One pair feels safe, it's a test, a toe-dip. Smart move. But here's what happens: the pair gets worn, gets washed, goes in the drawer. By the time it's clean and dry again, the rhythm's broken.\n\nIf your child is starting to show signals, even small ones, consistency is what builds the pathway. The 3+3 Bundle gives you 6 pairs in rotation. Always a clean pair. Always the feedback loop running.\n\nIf your child hasn't shown signals yet, that's okay too. Every nervous system moves at its own pace. Some kids take 2 weeks. Others take 8. Both are normal. The 3+3 means you can keep the input steady without the laundry stress.\n\n---\n\nMechanism, Why Rotation Matters\n\nThe Body-Signal Learning Layer works through sustained, repeated feedback. Every time the underwear creates that gentle sensation, the brain gets another data point: *something happened. I felt it.*\n\nOne pair interrupts that data stream every time it's in the wash. The 3+3 rotation keeps the signal arriving daily, not every other day, not \"whenever the pair is dry.\"\n\nFor kids 3 to 10+, verbal or non-verbal, diagnosed or still figuring it out, the mechanism is the same. The brain learns by repetition. Disruption slows the learning curve.\n\n*\"He went from wondering to walking toward the bathroom. It took 5 weeks of consistent wear. If we only had 1 pair, we'd have lost half those wearing days to laundry.\"*, BrightKidCo parent, internal review \n\n---\n\nThe Three-Family Testimonial Pattern\n\nThree parents who each bought 1 pair first. Three different kids. One shared experience thirty days in:\n\nParent of a verbal 4-year-old:\n> \"He said 'wet' for the first time ever on Week 3. It was after wearing them every day. I don't think we'd have gotten there without daily use.\"\n\nParent of a 6-year-old with sensory differences:\n> \"We're not trained yet. But he paused. He looked down. That's never happened before in 4 years of tries. Week 4 with the underwear. One pair was in the wash half the time.\"\n\nParent of a non-verbal 9-year-old:\n> \"He doesn't notice wetness. He never has. But after a month of consistent wear, he walks differently when he has an accident. That's new. I'll take it.\"\n\nIf any of these sound like your child, maybe not fully there yet, maybe different progress, maybe just starting, you know what 30 more days of consistent wear could look like.\n\n---\n\nPermission, No Pressure, Just Information\n\nThe 3+3 Bundle is available at the introductory bundle pricing right now. After today, that pricing shifts to the standard 3+3 offer.\n\n$79.99, 6 pairs, free shipping, 62% savings per pair compared to buying 1 pair at a time.\n\nNo rush. No pressure. If 1 pair is working for your rhythm, keep going. If you want the consistency of a rotation, the pricing is here today.\n\nEither way, 60 days, your judgment. If it doesn't work for your child, full refund.\n\n---",
+        "type": "body"
+      },
+      {
+        "name": "CTA",
+        "content": "Primary Button:\n\n> Get the 3+3 Bundle, $79.99 with free shipping\n> *[Link to 3+3 product page]*\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\nSecondary (Soft) Option:\n\n> Keep using your 1 pair, the offer will be here when you're ready\n> *[Link to product page without upsell tracking]*\n\n*Rationale: Dual CTA respects all levels. L3 can choose the soft option without feeling pressured. L1 and L2 who are ready can take the primary CTA. GF sees both and self-selects.*\n*\n---\n\n### LENA SIGN-OFF (Medium variant \u2014 Email 3 of 3 in flow)\n\nWith understanding,\n\nLena \u2014\u2014\nCustomer Support \u00b7 Mom of two autistic sons\n\nP.S. I bought 1 pair first too. My older son was 8 before things clicked. The body-signal approach works on its own timeline, and so does your judgment. 60 days, your call. [link]\n\n---",
+        "type": "cta"
+      },
+      {
+        "name": "FOOTER",
+        "content": "No spam. No templates. Just a mom who lives this too.\n\nYou're receiving this because you purchased a BrightKidCo 1-pair bundle. If you'd like fewer emails or to update preferences, click here. [Unsubscribe link]\n\nBrightKidCo \u00b7 [Address] \u00b7 [Unsubscribe]\n\n---\n\n### SOURCE CITATIONS\n\n| Element | Source |\n|---------|--------|\n| Flow spec (Flow 15, D30, 1-pair \u2192 3+3 upsell) | 1-full-email-strategy.md \u00a7Flow 15 |\n| E3 strategy (\"Last call on 3+3 pricing\") | 2-full-email-copy-strategy.md \u00a71.14 |\n| Offer pricing (1 Pair $34.99, 3+3 $79.99, 62% savings) | 1-full-email-strategy.md \u00a713.1 |\n| R1 \u2014 Symptom Over Label | Layer-18-cross-level-calibration.md \u00a7R1 |\n| R2 \u2014 3-5 Recognition Anchors | Layer-18-cross-level-calibration.md \u00a7R2 |\n| R3 \u2014 Age Ranges | Layer-18-cross-level-calibration.md \u00a7R3 |\n| R4 \u2014 Verbal/Non-Verbal Inclusivity | Layer-18-cross-level-calibration.md \u00a7R4 |\n| R5 \u2014 Timeline Flexibility | Layer-18-cross-level-calibration.md \u00a7R5 |\n| R6 \u2014 Low-Bar Success Metrics | Layer-18-cross-level-calibration.md \u00a7R6 |\n| \"Whether...Or...If...\" framing pattern | Layer-18-cross-level-calibration.md \u00a7Part 3 |\n| Three-Family Testimonial Pattern | Layer-18-cross-level-calibration.md \u00a7R6 application; MASTER-DIAGNOSIS-COMPENDIUM.md \u00a74.6 |\n| Lena's voice & background (two sons, bought 1 pair first) | 11-brand-voice-reference.md \u00a71.2, \u00a71.4 |\n| Medium Sign-Off (\"With understanding,\") | 11-brand-voice-reference.md \u00a79.2-9.4 |\n| Permission-not-to-buy (dual CTA) | 11-brand-voice-reference.md \u00a77 |\n| 60-day guarantee framing | 1-full-email-strategy.md \u00a713.1 |\n| L1 avatar data (verbal 4yo, timing problems) | 01-customer-avatar.md \u00a73.2 |\n| L2 avatar data (sensory, method cycling) | 01-customer-avatar.md \u00a73.3 |\n| L3 avatar data (non-verbal 9yo, no wetness awareness) | 01-customer-avatar.md \u00a73.4 |\n| GF sub-groups (diagnostic, label-rejecters, sensory-difference) | Layer-21-sub-groups.md \u00a7Executive Summary |\n| Subject Line Formula 4 (Permission frame) | 1-full-email-strategy.md \u00a72.4 |\n| Tonality calibration for post-purchase mid | Layer-17-tonality-calibration.md \u00a75 |\n| Wave 6 context (PP Mid-Check-In + Replenish A/B/C) | Task body \u00a7Context |\n\n---\n\n## PART 2: FULL CREATIVE STRATEGY\n\n---\n\n### BIG IDEA\n\n\"Consistency is the missing variable, the 3+3 rotation closes the gap between wearing and learning.\"\n\nThe core insight: 1 pair works as a trial but creates a learning interruption every time it hits the laundry. The 3+3 isn't just \"more pairs\", it's an unbroken feedback loop. The creative approach frames the 3+3 as the mechanism partner to the Body-Signal Learning Layer, not as a bulk discount.\n\n---\n\n### LAYOUT\n\n| Element | Specification |\n|---------|--------------|\n| Email Width | 600px max-width, centered |\n| Structure | Single-column, stacked modular blocks: Subject/Preview \u2192 Hero Section \u2192 Observation/Recognition \u2192 Validation \u2192 Testimonial Block (Three-Family) \u2192 Mechanism \u2192 Offer Box \u2192 Dual CTA \u2192 Lena Sign-Off \u2192 Footer |\n| Hero Section | Soft visual: 3 pairs of underwear arranged in a rotation visual (circular arrow motif) OR a simple line-art icon showing 1 pair \u2192 6 pairs with arrow. No stock photos of children. |\n| Testimonial Block | Three stacked pull-quote cards with left-aligned accent bar (gentle color), separated by thin whitespace. Each card has the parent description in small caps + quote in body style. |\n| Offer Box | Lightly tinted background panel (not a hard border box) containing price, savings callout, free shipping badge, and dual CTA buttons stacked vertically. |\n| Mobile | All blocks collapse to full-width. CTA buttons become full-width tap targets (min 44px height). Font sizes scale down proportionally (body 16px \u2192 14px). |\n| Whitespace | Generous padding between blocks (32-48px). Body text line height 1.6. Offer box padding 24px internal. |\n Consolidated design skills \u00a7Layout; 11-brand-voice-reference.md \u00a7Visual Brand Standards |\n\n---\n\n### CONTRAPTION\n\n| Element | Specification |\n|---------|--------------|\n| Rotation Visual | Animated SVG or static GIF showing 3 pairs rotating: Pair 1 (worn), Pair 2 (in drawer), Pair 3 (in wash) \u2192 smooth cycle. Keeps the \"rotation\" concept tangible. |\n| Accordion or Toggle | Optional: \"Why 3+3?\" expandable section for curious readers who want the math. Reveals: \"6 pairs = $13.33/pair vs. $34.99/pair. Free shipping. Always a clean pair ready.\" |\n| Progress Indicator (Bonus) | Subtle indicator at top: \"Day 30 / Your 1-pair trial\" with a gentle progress bar. Not necessary if it reads as gamification \u2014 use only if A/B testing shows lift. |\n Consolidated design skills \u00a7Motion; 1-full-email-strategy.md \u00a713.3 (math reframe for non-L3) |\n\n---\n\n### COLOR\n\n| Role | Specification | Hex/OKLCH |\n|------|--------------|-----------|\n| Background | Off-white warm tone (tinted neutral) | `oklch(98% 0.006 80)` \u2014 equivalent to ~#F8F6F3 |\n| Body Text | Dark warm charcoal (not `#000`) | `oklch(22% 0.015 70)` \u2014 equivalent to ~#3A3532 |\n| Accent \u2014 Primary CTA | Brand teal/blue-green | `oklch(55% 0.12 200)` \u2014 warm teal |\n| Accent \u2014 Secondary CTA | Muted neutral | `oklch(45% 0.01 80)` \u2014 warm gray |\n| Offer Box Tint | Very soft warm highlight | `oklch(96% 0.008 80)` \u2014 barely-tinted cream |\n| Testimonial Accent Bar | Muted coral/rose | `oklch(65% 0.1 30)` \u2014 gentle, not aggressive |\n| Savings Badge | Soft green | `oklch(58% 0.1 150)` \u2014 muted, not promotional |\n| Links | Same as Primary CTA accent, underlined on hover | |\n Consolidated design skills \u00a7Color (OKLCH, no #000/#fff); 11-brand-voice-reference.md \u00a714 Visual Brand Standards |\n\n---\n\n### TYPOGRAPHY\n\n| Role | Specification | Fallback Stack |\n|------|--------------|----------------|\n| Subject Line / Preheader | System default (rendered by email client) | \u2014 |\n| Headings / Section Titles | Sans-serif, 18-20px, semi-bold (600-700 weight), 1.3 line height | `Arial, Helvetica, sans-serif` |\n| Body Text | Serif or high-readability sans, 16px (desktop) / 14px (mobile), regular weight (400), 1.6 line height, 65-75ch max line length | `Georgia, 'Times New Roman', serif` for warmth, OR `'Helvetica Neue', Arial, sans-serif` for clean reading |\n| Testimonial Quote Text | Body font, italic or regular, 15px, with 10-15% letter-spacing reduction | Same as body |\n| Testimonial Attribution | Small caps or uppercase, 11-12px, 0.05em letter-spacing, muted color | Same as body |\n| CTA Button Text | Sans-serif, 15-16px, bold (700), all caps or sentence case | `Arial, Helvetica, sans-serif` |\n| Footer | 11px, muted color, 1.4 line height | System default |\n| Hierarchy | Scale ratio \u2265 1.25 between body and heading. No flat scales. | |\n Consolidated design skills \u00a7Typography; 11-brand-voice-reference.md \u00a714 |\n\n---\n\n### FURNITURE (UI Elements & Decorations)\n\n| Element | Specification |\n|---------|--------------|\n| Dividers | Thin horizontal rule (1px, 20% opacity of body text color) between major sections. Not between testimonials \u2014 use whitespace instead. |\n| Testimonial Accent | 3px left-aligned vertical bar on each testimonial card in coral/rose accent color. Creates visual rhythm without side-stripe clich\u00e9. |\n| Offer Box Background | Subtle tint panel \u2014 no border, no shadow, no gradient. Minimal warmth. |\n| Savings Callout | Inline text badge: \"62% savings vs. 1-pair purchases\" in soft green, no icon. |\n| Free Shipping Badge | Simple text badge: \"\u2713 Free shipping on 3+3\" \u2014 no star/burst shape. |\n| CTA Buttons | Pill shape (24px border-radius), solid fill primary, outlined secondary. Min 44px height for mobile. Primary teal, secondary warm gray outline. |\n| Icons | Minimal. If rotation visual is used (Contraption), no additional icons needed. Otherwise, a single small laundry/rotation icon near the mechanism section. No emojis in body (per V11 rules from brand voice). |\n| Lena Signature | Plain text sign-off block with consistent spacing. No avatar photo. No decorative underline. |\n| P.S. Block | Italic or regular, same size as body, preceded by \"P.S.\" in small caps. Max 2 lines. |\n 11-brand-voice-reference.md \u00a78 Word Choice (no emojis); \u00a79.4 Sign-Off; Consolidated design skills \u00a7Absolute Bans (no side-stripe borders as decorative, accent bar on testimonials is functional, not decorative) |\n\n---\n\n### EASTER EGG\n\n| Element | Detail |\n|---------|--------|\n| Hidden Note | In the P.S., the mention \"60 days, your call\" echoes the very first Welcome E1 permission frame \u2014 a subtle callback that creates continuity for attentive readers who've been in the ecosystem since Day 0. |\n| Expandable Math | If the accordion/Contraption is used: the \"Why 3+3?\" section reveals the exact per-pair math ($13.33/pair), free shipping savings, and the line \"That's 6 learning days instead of 3.\" |\n| Quiet Detail | The Three-Family testimonial order (L1 \u2192 L2 \u2192 L3) is intentional \u2014 mirrors the migration path and the emotional ladder from hope to acceptance. Readers who re-read the email sequence feel the progression subconsciously. |\n Layer-18-cross-level-calibration.md \u00a7Part 4 (migration path logic); Welcome E1 patterns from 2-full-email-copy-strategy.md \u00a71.1 |\n\n---\n\n### MOTION (Email Animation \u2014 Limited)\n\n| Element | Specification |\n|---------|--------------|\n| Rotation Visual GIF | If used: 3-frame looping GIF (~2 second cycle). First frame: all 3 pairs visible. Second: Pair 1 fades slightly (being worn). Third: Pair 2 moves into active spot. Smooth transitions, no flash/strobe. Max 150KB file size. |\n| Hover Effects (Desktop only) | CTA buttons: subtle darkening of fill color on hover (5% deeper). No scale, no bounce, no glow. Secondary button: fill transition from outline to 10% tint. |\n| Scrolling (N/A) | Fixed-width email \u2014 no parallax, no scroll-triggered animation. Not applicable to email medium. |\n| Loading | GIF should load progressively (not blocking text render). Text content renders above GIF. |\n Consolidated design skills \u00a7Motion (ease-out curves only, no bounce/elastic); email client best practices for GIF animation |\n\n---\n\n### LEVEL CALIBRATION (R1-R6 Compliance Check)\n\n| Rule | Implementation in This Email | Status |\n|------|------------------------------|--------|\n| R1 \u2014 Symptom Over Label | No level labels used. Descriptions: \"verbal 4-year-old,\" \"6-year-old with sensory differences,\" \"non-verbal 9-year-old,\" \"3 and just starting,\" \"8 and you've been at this long enough.\" | \u2705 |\n| R2 \u2014 3-5 Recognition Anchors | Three anchors in the Hook (pause, look down, pull at waistband / nothing visible). Three explicit testimonials covering L1, L2, L3 experiences. Parent quotes mention specific child types without level labels. | \u2705 |\n| R3 \u2014 Age Ranges Instead of Fixed Ages | \"3 and just starting\" / \"8 and you've been at this\" (Hook). Testimonials: \"verbal 4-year-old,\" \"6-year-old with sensory differences,\" \"non-verbal 9-year-old.\" Offer and mechanism: \"For kids 3 to 10+.\" No \"toddler\" or \"preschooler.\" | \u2705 |\n| R4 \u2014 Verbal/Non-Verbal Inclusivity | Hook: \"saying 'wet' or showing you with a gesture.\" Testimonials: verbal 4yo (\"said 'wet'\") AND non-verbal 9yo (\"walks differently\"). Mechanism: \"verbal or non-verbal.\" Recognition anchors: \"pause, look down, pull at the waistband, saying 'wet' or showing you.\" | \u2705 |\n| R5 \u2014 Timeline Flexibility | \"Some kids take 2 weeks. Others take 8. Both are normal.\" No fixed promises. \"30 more days of consistent wear\" framed as possibility, not guarantee. Testimonials show Week 3, Week 4, 1 month \u2014 no uniform timeline. | \u2705 |\n| R6 \u2014 Low-Bar Success Metrics | Success metrics: \"pause,\" \"look down,\" \"pull at waistband,\" \"walking differently,\" \"said 'wet' for the first time.\" Never: \"fully trained,\" \"accident-free,\" \"just like other kids.\" P.S. reinforces: \"works on its own timeline.\" | \u2705 |\n| Forbidden Language | No \"easy / quick / simple.\" No \"just like other kids.\" No comparison to neurotypical development. No \"Level 1/2/3\" labels. No \"adult diapers\" or \"forever in pull-ups.\" No BCBA-specific jargon (L1 would not relate). No urgency manipulation for L3 (soft dual CTA). | \u2705 |\n\nCross-Level Hope/Realism Balance:\n\n| Level | Required Ratio | Delivered | Notes |\n|-------|---------------|-----------|-------|\n| L1 | 70/30 | \u2705 | Pre-K context implied (30 days, consistency), urgency on pricing is gentle but present. |\n| L2 | 40/60 | \u2705 | Mechanism depth (rotation = data stream), testimonial L2-specific (\"4 years of tries\"), practical framing. |\n| L3 | 20/80 | \u2705 | Zero urgency on CTA. Soft secondary option. Testimony from Level 3 parent (\"not trained yet. But he paused.\"). |\n| GF | 50/50 | \u2705 | \"Whether...Or...If...\" opener covers all sub-groups (diagnostic entrants, label-rejecters, sensory-difference, overwhelmed). Three-Family pattern lets each sub-group self-identify. |\n\n---\n\n### DESIGN NOTES & EDGE CASES\n\n| Consideration | Handling |\n|---------------|----------|\n| Email client dark mode | Use `#F8F6F3` background in light mode. For dark mode, colors should invert gracefully. Background becomes `#1C1A18` (not pure black), text becomes `#E8E4DF` (not pure white). Test all accent colors against dark backgrounds. |\n| Image off by default | The rotation visual GIF must be supplementary \u2014 all key information (testimonials, offer, CTA) renders as text. Use `alt` text: \"3-pair rotation cycle \u2014 always a clean pair ready.\" |\n| Accessibility | Minimum 4.5:1 contrast ratio on all text. CTA buttons have visible focus states. No information conveyed through color alone. Testimonial accent bar is decorative (aria-hidden). |\n| Spam score mitigation | No all-caps subject. No exclamation marks. No \"FREE!!!\" or \"ACT NOW.\" Single image (if any). Plain text-to-link ratio healthy (>60% text). |\n| Replenish B/C consistency | This E3 tone (practical, rotation-focused, permission-based) maintains consistency with the broader Replenishment A voice established in E1-E2 while escalating the \"last call\" signal naturally. |\n Consolidated design skills \u00a7Color (dark mode); 11-brand-voice-reference.md \u00a76 Forbidden Phrases; email deliverability best practices per Layer-20-Deliverability.md |",
+        "type": "body"
+      }
+    ],
+    "cta": {},
+    "signoff": {},
+    "footer": {}
+  },
+  "messaging": {
+    "flow_type": "unknown",
+    "position": "",
+    "audience": "UNKNOWN",
+    "messaging_type": "unknown",
+    "emotional_arc": "",
+    "hope_ratio": "",
+    "urgency": "unknown",
+    "purpose": "unknown",
+    "cta_force": "unknown",
+    "product_push": false
+  },
+  "brand_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    }
+  },
+  "jsx_tokens": {
+    "colors": {
+      "teal": "#2BAEB4",
+      "tealDeep": "#1E8A8F",
+      "green": "#5DD07A",
+      "greenDeep": "#3BB35E",
+      "ink": "#1F2D2F",
+      "soft": "#4A6568",
+      "muted": "#8A9B9D",
+      "cream": "#FBF7F1",
+      "paper": "#FFFFFF",
+      "yellow": "#FFD866",
+      "lilac": "#EEE8F6",
+      "mint": "#E8F5EC",
+      "lavender": "#F0EDF8"
+    },
+    "gradients": {
+      "primary": "linear-gradient(135deg, #2BAEB4 0%, #5DD07A 100%)",
+      "warm": "linear-gradient(180deg, #FFFBF0 0%, #FFF6E2 100%)"
+    },
+    "fonts": {
+      "main": "'Questrial', system-ui, sans-serif",
+      "display": "'Fraunces', Georgia, serif",
+      "handwritten": "'Caveat', cursive",
+      "body": "'Inter', system-ui, sans-serif"
+    },
+    "width": 600,
+    "mobile_width": 420,
+    "border_radius": {
+      "small": 8,
+      "medium": 16,
+      "large": 24,
+      "pill": 999
+    },
+    "spacing": {
+      "section_gap": 40,
+      "cta_above": 24,
+      "cta_below": 20
+    },
+    "flows": {
+      "e2": {
+        "raw": "\n    meta: { part: \"Part 2 of 6\", timing: \"+24 hours\", theme: \"The Mechanism\" "
+      },
+      "e3": {
+        "raw": "\n    meta: { part: \"Part 3 of 6\", timing: \"+2 days\", theme: \"Absolution\" "
+      },
+      "e4": {
+        "raw": "\n    meta: { part: \"Part 4 of 6\", timing: \"+4 days\", theme: \"The Product\" "
+      },
+      "e5": {
+        "raw": "\n    meta: { part: \"Part 5 of 6\", timing: \"+6 days\", theme: \"One Story\" "
+      },
+      "why": {
+        "raw": "\n      label: \"Why we chose this story\",\n      body: \"Sarah isn't our best case. She's our most common one. Her situation is close to what many families find \u2014 a child on the spectrum, a couple of years of tried methods, a low point that felt like an ending, and then a method that finally matched the map.\",\n    "
+      },
+      "e6": {
+        "raw": "\n    meta: { part: \"Part 6 of 6\", timing: \"+8 days\", theme: \"The Invitation\" "
+      },
+      "covered": {
+        "raw": "\n      label: \"What's covered\",\n      items: [\n        \"Your child refusing to wear them \u2014 full refund.\",\n        \"No visible progress in 60 days \u2014 full refund.\",\n        \"A regression during the trial period \u2014 full refund.\",\n        \"Any reason at all you decide it's not the right fit \u2014 full refund.\",\n      ],\n    "
+      },
+      "signoff": {
+        "raw": "\n    line1: \"With you,\",\n    name: \"Lena Bauer\",\n    ps: \"P.S. If you ever want to reply and tell me about your child \u2014 I read every one. Really.\",\n  "
+      },
+      "footer": {
+        "raw": "\n    tagline: \"Calm progress, one day at a time.\",\n    links: [\"Our Method\", \"Shop the Pants\", \"Parent Stories\"],\n    address: \"BrightKidCo Ltd \u00b7 Berlin, Germany \u00b7 hello@brightkidco.com\",\n  "
+      }
+    }
+  },
+  "section_mappings": [
+    {
+      "section_name": "METADATA",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "| Field | Value |\n|-------|-------|\n| Flow | 15 \u2014 Replenishment Path A (1-Pair Buyers) |\n| Email Position | E3 (D30) |\n| Day Sent | Day 30 post-purchase |\n| Segment | buyer_1pair tag (has purchased ex..."
+    },
+    {
+      "section_name": "BODY",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "---\n\nHook, Observation\n\nThirty days with the Body-Signal Learning Layer. However that's gone for your child, whether it's been a quiet 30 days of slow noticing, or 30 days with a couple of tiny moment..."
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "cta"
+      ],
+      "content_preview": "Primary Button:\n\n> Get the 3+3 Bundle, $79.99 with free shipping\n> *[Link to 3+3 product page]*\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\nSecondary (Soft) Optio..."
+    },
+    {
+      "section_name": "FOOTER",
+      "section_type": "body",
+      "needs_image": false,
+      "image_type": null,
+      "possible_component_categories": [
+        "body_recognition",
+        "body_mechanism"
+      ],
+      "content_preview": "No spam. No templates. Just a mom who lives this too.\n\nYou're receiving this because you purchased a BrightKidCo 1-pair bundle. If you'd like fewer emails or to update preferences, click here. [Unsubs..."
+    }
+  ],
+  "constraints": {
+    "min_images": 4,
+    "max_images": 6,
+    "min_components": 3,
+    "max_components": 6,
+    "unique_components": true
+  }
+}
