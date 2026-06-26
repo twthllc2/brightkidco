@@ -1,41 +1,25 @@
 {
   "email_id": "winback-b-24-e1-gf",
-  "flow_type": "winback-b",
+  "purpose": "reengagement",
+  "template": "RE-04",
   "sections": [
     {
       "index": 0,
-      "name": "BODY",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "#"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Observation, The Symptom Block (5 Recognition Anchors)",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "Maybe your child sits on the toilet and nothing happens, then pees thirty seconds after standing up. You wait, you watch, you feel hopeful, and then you're changing clothes again.\n\nMaybe they play th"
-    },
-    {
-      "index": 2,
-      "name": "Mechanism, What's Actually Happening (7 sentences)",
-      "type": "definition",
-      "color": "#FFFFFF",
-      "content_preview": "Interoception researcher Kelly Mahler calls it the \"eighth sensory system\", the sense that tells you when you're hungry, thirsty, or need the bathroom. For many children with sensory differences, thi"
-    },
-    {
-      "index": 3,
-      "name": "Verification Checklist",
-      "type": "feel",
-      "color": "#EAF6F2",
-      "content_preview": "| Criterion | Status | Notes |\n|-----------|--------|-------|\n| File exists at output path | \u2705 | /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e1-gf.md |\n| File size minimum 30KB | \u2705"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "**[ See how body-signal learning works \u2192 ]**\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n*Style: Medium-low aggression (balanced, inclusive), \"See how...\" framin"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     }
   ]
 }

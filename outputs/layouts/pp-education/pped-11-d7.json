@@ -1,41 +1,43 @@
 {
   "email_id": "pped-11-d7",
-  "flow_type": "pp-education",
+  "purpose": "education",
+  "template": "ED-04",
   "sections": [
     {
       "index": 0,
-      "name": "OBSERVATION, THE OPEN",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "Whether your child is 3 or 10, verbal or not, diagnosed or wondering, if they've been wearing the Body-Signal underwear for a week and you're sitting here thinking, \"Is anything happening?\", I want yo"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "VALIDATION, WHY NOTHING IS NOTHING",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "Week 1 isn't about signals. It isn't about progress. It's about something quieter, desensitization.\n\nYour child's nervous system has spent years (months, weeks, however long) feeling one way in their"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "MECHANISM, WHY THE BRAIN NEEDS REPETITION, NOT RESULTS",
-      "type": "definition",
-      "color": "#FFFBF0",
-      "content_preview": "The Body-Signal Learning Layer creates a gentle sensation lasting 30-60 seconds after every accident. But the brain doesn't know what to do with it yet \u2014 it's a new input. Week 1 is the \"reception\" ph"
+      "type": "objections",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "THREE-FAMILY TESTIMONIAL ANCHORS",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Three parents. Three different kids. One shared week 1:\n\n*L1 mom (verbal, 4, \"almost trained\"):*\n\"He's been wearing them all week and I haven't seen any change. But I'm not giving up yet. I keep remin"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

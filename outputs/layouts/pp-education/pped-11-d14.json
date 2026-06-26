@@ -1,41 +1,43 @@
 {
   "email_id": "pped-11-d14",
-  "flow_type": "pp-education",
+  "purpose": "education",
+  "template": "ED-03",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "**Opener, Universal Recognition (Whether...Or...If...)**"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 2",
-      "type": "testimonial",
-      "color": "#FFFBF0",
-      "content_preview": "Whether you've seen a pause this week, or you're still waiting for the first sign, if your child has been wearing the Body-Signal underwear for two weeks now, you're right in the window where most par"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Section 6",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "- A pause, even just one second, before an accident, like your child is processing something\n- Looking down at the wet spot afterward, instead of continuing to play\n- Pulling at their pants or underwe"
+      "type": "steps",
+      "color": "#FFF6E2",
+      "column_layout": "3-grid",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

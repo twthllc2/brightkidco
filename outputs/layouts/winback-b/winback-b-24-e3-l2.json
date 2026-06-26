@@ -1,55 +1,25 @@
 {
   "email_id": "winback-b-24-e3-l2",
-  "flow_type": "winback-b",
+  "purpose": "reengagement",
+  "template": "RE-04",
   "sections": [
     {
       "index": 0,
-      "name": "From Name",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "**\"Lena from BrightKidCo\"** \n*Email: support@brightkidco.com* \n\n---"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "SECTION 1, HOOK (2-4 sentences)",
-      "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "Two months ago you signed up. You read the science. Maybe you showed it to your BCBA. Maybe you saved it for later.\n\nI don't know where you landed. Whether you decided to wait, found something else,"
-    },
-    {
-      "index": 2,
-      "name": "SECTION 2, VALIDATION + FAILED-METHOD NAMING (2-5 sentences)",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "You've been through protocols your BCBA designed specifically for your child. You've sat on the bathroom floor for hours. You've watched your child hold and withhold and struggle with a sensation no"
-    },
-    {
-      "index": 3,
-      "name": "SECTION 3, MECHANISM REFRESHER + SCIENCE (3-8 sentences)",
-      "type": "definition",
-      "color": "#FFFFFF",
-      "content_preview": "Here's the piece I want you to sit with one more time:\n\nInteroception researcher Kelly Mahler calls it the eighth sensory system, the internal sense that tells us when we're hungry, thirsty, or need"
-    },
-    {
-      "index": 4,
-      "name": "SECTION 4, BCBA ACKNOWLEDGMENT + NEW TESTIMONIAL (5-10 sente",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Your BCBA has been working with your child for years. They've built routines, compliance, sitting tolerance, desensitization. That work isn't wasted. It's the foundation.\n\nWhat we hear from BCBAs who"
-    },
-    {
-      "index": 5,
-      "name": "SECTION 5, REALISTIC TIMELINES + GUARANTEE (2-4 sentences)",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "If you ever decide to try, here's what honest timelines look like for kids like yours:\n\nL2 kids typically show first signals in 4-8 weeks. Some need 12+. Progress isn't linear. Regression cycles are"
-    },
-    {
-      "index": 6,
-      "name": "SECTION 6, PERMISSION-NOT-TO-BUY + FINAL CTA (1-3 sentences)",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "If today isn't the day, that's a real answer. The product will be here next month. So will I.\n\nBut if you're still wondering whether this could be the missing piece for your child, the 60-day guarant"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,41 +1,43 @@
 {
   "email_id": "checkout-03-e1",
-  "flow_type": "checkout",
+  "purpose": "conversion",
+  "template": "CV-01",
   "sections": [
     {
       "index": 0,
-      "name": "Email Body",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": ""
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "type": "product",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "The Science",
-      "type": "definition",
-      "color": "#FFFBF0",
-      "content_preview": "Mechanism explanation"
+      "type": "guarantee",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

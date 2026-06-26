@@ -1,41 +1,52 @@
 {
   "email_id": "pped-22-e4-l2",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-05",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "**Subject:** 3 weeks in, here's what your child's brain is doing"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 6",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "**What the research says about this specific window**"
+      "type": "reframe",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Section 16",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Some parents at week 3 report: a pause mid-play, a glance at the wet spot, a step toward the bathroom. These are not coincidences. The body signal pathway is forming. The 49 studies review (Barmpagian"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
+      "type": "expert",
       "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

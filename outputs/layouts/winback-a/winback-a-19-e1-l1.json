@@ -1,62 +1,25 @@
 {
   "email_id": "winback-a-19-e1-l1",
-  "flow_type": "winback-a",
+  "purpose": "reengagement",
+  "template": "RE-04",
   "sections": [
     {
       "index": 0,
-      "name": "FROM",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "**From Name:** Lena from BrightKidCo\n**From Email:** support@brightkidco.com\n**Profile Subtitle:** Customer Support \u00b7 Mom of two autistic sons\n\n---"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "HOOK",
-      "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "> It's been 90 days since you first tried the Body-Signal underwear.\n>\n> Maybe your child wore them for a week, then pushed them away. Maybe you put them in a drawer after a few accidents, thinking \""
-    },
-    {
-      "index": 2,
-      "name": "VALIDATION",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "> Here's what we know from watching thousands of families: the interoception pathway is not a light switch. It's a slow bridge. Some kids cross it in two weeks. Some take months. Many need breaks, th"
-    },
-    {
-      "index": 3,
-      "name": "MECHANISM (Body-Signal Refresher)",
-      "type": "definition",
-      "color": "#FFFFFF",
-      "content_preview": "> The Body-Signal Learning Layer works by creating a gentle, sustained wetness sensation, 30 to 60 seconds of feedback that gives a nervous system that picks up signals slowly time to register: *some"
-    },
-    {
-      "index": 4,
-      "name": "SOCIAL PROOF",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "> *\"We bought the 3+3 bundle and the first two weeks were rough. He'd wear them for an hour then ask to take them off. I almost gave up. Then at week three, he paused mid-play, looked down, and walke"
-    },
-    {
-      "index": 5,
-      "name": "PRODUCT INTRO",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "> The **3+3 Bundle** is still the best place to restart:\n>\n> \u2022 **6 pairs**, enough for daily rotation plus laundry buffer\n> \u2022 **3-layer design**, cotton inner (gentle signal), smart absorption (prote"
-    },
-    {
-      "index": 6,
-      "name": "GUARANTEE",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "> **60-Day Guarantee.** Try the underwear again at your own pace. If your child hasn't shown progress, or if you decide it's not the right time, full refund. No questions. No returns hassle. Your jud"
-    },
-    {
-      "index": 7,
-      "name": "CALL TO ACTION",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "**Primary CTA (Button):**\n```\n[Restart with the 3+3 Bundle \u2192]\n```\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n**Secondary CTA (Text link):**\n```\nor try 1 Pair fo"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     }
   ]
 }

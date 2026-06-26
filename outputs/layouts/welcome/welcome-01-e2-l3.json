@@ -1,48 +1,43 @@
 {
   "email_id": "welcome-01-e2-l3",
-  "flow_type": "welcome",
+  "purpose": "education",
+  "template": "ED-07",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
       "color": "#EEE8F6",
-      "content_preview": "You've done 40 hours of ABA a week for two years. You spent $2,500 on a private potty consultant. You've tried pull-ups, social stories, naked weekends, and every schedule a BCBA could write. And sti"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Validation \u2014 Failed Methods Recognition",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "Your child isn't broken. The methods weren't built for his nervous system. Every single approach you tried, every social story, every sticker chart, every scheduled sit, assumed one thing: that he ca"
+      "type": "steps",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Mechanism Deep",
-      "type": "definition",
+      "type": "testimonial",
       "color": "#FFFBF0",
-      "content_preview": "The Body-Signal Learning Layer works with the nervous system as it is. It creates a gentle, sustained \"uh-oh\" sensation \u2014 30 to 60 seconds of feedback that gives the brain time to register that somet"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Introduction",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "(No product introduction in this email, per S2 section structure for E2 L3, the email ends at mechanism deep with a pure information CTA. Product is introduced in E3 after full mechanism + permission"
-    },
-    {
-      "index": 4,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60 days to see if the signal arrives. By your timeline. Not every nervous system responds the same way, and that's not a failure. If nothing changes, full refund. No questions. No pressure."
-    },
-    {
-      "index": 5,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "- **Button text:** No pressure. Just information.\n- **Secondary link text:** (none, single, zero-pressure CTA)\n- **Placement:** Below Mechanism Deep section, no product, no urgency, just an open door"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

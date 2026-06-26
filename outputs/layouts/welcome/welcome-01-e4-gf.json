@@ -1,41 +1,43 @@
 {
   "email_id": "welcome-01-e4-gf",
-  "flow_type": "welcome",
+  "purpose": "consideration",
+  "template": "CO-07",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
-      "color": "#EEE8F6",
-      "content_preview": "Whether your child is just starting to show signs, or you're years into what feels like every possible method, if they don't feel when they need to go, you've been fighting the wrong battle.\n\nI hear"
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "type": "product",
+      "color": "#F5F1EA",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,41 +1,43 @@
 {
   "email_id": "pped-22-e1-gf",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-04",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "*Note: Line breaks and spacing below represent structural sections for a mobile-first email layout. Each section maps to a design block in the template (see Part 2).*"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 9",
       "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "A study of 63 children found that 59% couldn't reliably tell when they needed to urinate, and 71% couldn't signal when they needed a bowel movement. For most kids with body-signal processing differenc"
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Social Proof",
-      "type": "testimonial",
+      "type": "objections",
       "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

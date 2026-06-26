@@ -1,41 +1,43 @@
 {
   "email_id": "welcome-01-e5-gf",
-  "flow_type": "welcome",
+  "purpose": "consideration",
+  "template": "CO-02",
   "sections": [
     {
       "index": 0,
-      "name": "HOOK",
       "type": "hero",
       "color": "#FFFBF0",
-      "content_preview": "You've tried. Maybe one method. Maybe 40. Sticker charts, timer sits, rewards, naked weekends, the book everyone swears by, the OT's recommendations, the BCBA's protocol. Nothing changed.\n\nYou're not"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "type": "story",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Product Showcase",
       "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "color": "#F5F1EA",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

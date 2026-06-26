@@ -1,41 +1,43 @@
 {
   "email_id": "winback-b-24-e1-l1",
-  "flow_type": "winback-b",
+  "purpose": "reengagement",
+  "template": "RE-05",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
       "color": "#EEE8F6",
-      "content_preview": "It's been two months since you signed up, and I wanted to check in, not to pressure you, but to remind you of something you already know. Pre-K starts in [X months]. And your child needs to be trained"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Validation",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "You haven't failed by waiting. In fact, taking your time was probably the smartest thing you could have done. The methods you tried, Oh Crap, sticker charts, timer sits, those aren't built for a child"
+      "type": "product",
+      "color": "#F5F1EA",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Offer \u2014 The 3+3 Bundle",
-      "type": "code",
-      "color": "#FAF7F0",
-      "content_preview": "The 3+3 Bundle is still here. Same price, same science, same 60-day guarantee, nothing has changed except the calendar. Six pairs of Body-Signal Learning underwear, three to wear, three free. Each pai"
+      "type": "guarantee",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee / Risk Reversal",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60 days to try it. By your judgment. If it doesn't work for your child, full refund. No forms to fill out. No \"prove you tried.\" Your call, your timeline."
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "- **Button text:** Explore the 3+3 Bundle\n- **Price anchor:** That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.\n- **Secondary link text:** Learn how body-signal learning w"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

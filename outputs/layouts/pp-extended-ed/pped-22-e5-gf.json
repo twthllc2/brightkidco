@@ -1,41 +1,52 @@
 {
   "email_id": "pped-22-e5-gf",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-05",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "**Subject:** Wherever you are on this journey, you're not alone"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "The Science",
-      "type": "definition",
+      "type": "reframe",
       "color": "#EAF6F2",
-      "content_preview": "Mechanism explanation"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#FFFBF0",
-      "content_preview": "60-day guarantee"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
+      "type": "expert",
       "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

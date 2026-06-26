@@ -1,41 +1,43 @@
 {
   "email_id": "welcome-01-e1-l1",
-  "flow_type": "welcome",
+  "purpose": "awareness",
+  "template": "AW-04",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
       "color": "#EEE8F6",
-      "content_preview": "He talks about the potty, \"I need to go,\" he says, looking right at you. Then he pees on the floor 30 seconds later. Not because he's being difficult. Not because he doesn't understand. Because the s"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "type": "letter",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "The Science",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "Mechanism explanation"
+      "type": "steps",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

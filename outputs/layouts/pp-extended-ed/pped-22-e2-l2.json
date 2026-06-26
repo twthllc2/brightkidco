@@ -1,41 +1,43 @@
 {
   "email_id": "pped-22-e2-l2",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-02",
   "sections": [
     {
       "index": 0,
-      "name": "What Nicholson et al. 2019 Actually Found",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "The study compared body awareness, the ability to sense internal body states, between autistic children and typically developing children."
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "What This Means for Your Child's Learning Timeline",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": ""
+      "type": "definition",
+      "color": "#EAF6F2",
+      "column_layout": "2-col",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "The 60-Day Guarantee Still Stands",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "You haven't made a final decision yet. You're 29 days into a 60-day trial. If at day 55 you look at your tracking data and see zero change, not one micro-pause, not one look down, nothing, then this"
+      "type": "stat",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

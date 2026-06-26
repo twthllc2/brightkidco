@@ -1,41 +1,43 @@
 {
   "email_id": "atrisk-23-e2",
-  "flow_type": "pp-at-risk",
+  "purpose": "education",
+  "template": "ED-02",
   "sections": [
     {
       "index": 0,
-      "name": "Copy Notes",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "| Element | Decision | Source |\n|---------|----------|--------|\n| Subject line | Practical hook naming roadblocks directly \u2014 no guilt, no pressure | S2 \u00a71.20, Subject line matrix: \"Gentle, curious, n"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Quality Gate Checklist",
-      "type": "feel",
-      "color": "#FFFFFF",
-      "content_preview": "| Criterion | Status | Notes |\n|-----------|--------|-------|\n| File exists at output path | \u2705 | `/root/projects/brightkidco/outputs/copy/pp-at-risk/atrisk-23-e2.md` |\n| File size > 5KB | \u2705 | |\n| S2"
+      "type": "definition",
+      "color": "#EAF6F2",
+      "column_layout": "2-col",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "type": "stat",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,41 +1,43 @@
 {
   "email_id": "ppupsell-12-e2",
-  "flow_type": "pp-extended-upsell",
+  "purpose": "conversion",
+  "template": "CV-07",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "**Subject:** If the 3+3 is working \u2192 more pairs add rotation"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 7",
-      "type": "testimonial",
+      "type": "guarantee",
       "color": "#FFFBF0",
-      "content_preview": "> *\"We saw the first pause in week 3. By week 5, she was initiating once a week. The BCBA said the consistency from having enough pairs in rotation made the difference.\"* \n>, L2 mom, sensory 6-year-ol"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Product Showcase",
       "type": "product",
       "color": "#F5F1EA",
-      "content_preview": "Product features"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

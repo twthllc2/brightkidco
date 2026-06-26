@@ -1,48 +1,43 @@
 {
   "email_id": "pped-22-e2-l3",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-06",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1 \u2014 Hook",
       "type": "hero",
-      "color": "#EEE8F6",
-      "content_preview": "He sat in the same wet diaper for three hours.\n\nNot because you didn't check. You did. Because he didn't react. Not a shift in position. Not a pause. Not a whimper. Nothing.\n\nYou changed him and he l"
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 2 \u2014 Validation",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "You've spent years watching for signs. Every shift in his body language. Every change in his breathing. Any flicker of recognition that something is happening down there.\n\nAnd year after year, nothin"
+      "type": "comparison",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Section 3 \u2014 Mechanism",
       "type": "definition",
-      "color": "#FFFFFF",
-      "content_preview": "The Body-Signal Learning Layer was designed for exactly this gap.\n\nWhen a child wears a standard pull-up, the moisture-wicking layer pulls wetness away instantly. The brain receives zero feedback. Ze"
+      "color": "#EAF6F2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "2.7 Risk Mitigation",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "| Risk | Mitigation |\n|------|-----------|\n| Parent feels called out (\"three hours...\") | Pre-empted by validation section \u2014 normalizes, does not shame |\n| Mechanism feels too vague | Barmpagiannis 2"
-    },
-    {
-      "index": 4,
-      "name": "2.8 Success Metrics (L3-Specific)",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "| Metric | Target | Notes |\n|--------|:-----:|-------|\n| Open rate | 18-25% | Lower than L1 but acceptable for L3 |\n| Click rate | 1-3% | L3 clicks are rare \u2014 any click is high intent |\n| Unsubscribe"
-    },
-    {
-      "index": 5,
-      "name": "Section 6 \u2014 CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "No pressure. No timeline. If thisn't the day, that's okay.\n\nWhen you're ready, it's here.\n\n[link: Add 1 Pair, $34.99, 60-Day Guarantee]\n\n---"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

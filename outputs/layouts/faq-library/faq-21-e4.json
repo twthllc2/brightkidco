@@ -1,41 +1,43 @@
 {
   "email_id": "faq-21-e4",
-  "flow_type": "faq-library",
+  "purpose": "education",
+  "template": "ED-04",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "**Hook: The Three Questions I Get Every Single Day**"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 4",
-      "type": "testimonial",
-      "color": "#FFFBF0",
-      "content_preview": "You're caught between wanting to try something new and not wanting to create conflict at home. I hear this from parents every week. Your partner is skeptical. They think it's another thing that won't"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "type": "objections",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

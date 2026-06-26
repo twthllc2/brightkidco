@@ -1,41 +1,43 @@
 {
   "email_id": "repa-15-e3",
-  "flow_type": "replenish-a",
+  "purpose": "retention",
+  "template": "RT-05",
   "sections": [
     {
       "index": 0,
-      "name": "BODY",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "---\n\n**Hook, Observation**\n\nThirty days with the Body-Signal Learning Layer. However that's gone for your child, whether it's been a quiet 30 days of slow noticing, or 30 days with a couple of tiny m"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Product Showcase",
       "type": "product",
       "color": "#F5F1EA",
-      "content_preview": "Product features"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Social Proof",
-      "type": "testimonial",
+      "type": "story",
       "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "**Primary Button:**\n\n> **Get the 3+3 Bundle, $79.99 with free shipping**\n> *[Link to 3+3 product page]*\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n**Secondary ("
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

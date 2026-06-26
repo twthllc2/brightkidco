@@ -1,41 +1,43 @@
 {
   "email_id": "arrived-08",
-  "flow_type": "transactional",
+  "purpose": "transactional",
+  "template": "TX-03",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
       "color": "#FFFBF0",
-      "content_preview": "Your package is here. The Body-Signal underwear, the cotton, the layers, the whole thing. If you're feeling a mix of excitement and hesitation, that's the right combination. Every parent who opens tha"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Validation",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "I know the skepticism you're carrying. You've read the product pages. You've watched the videos. But after years of trying, whether it's been a few months or a few years, that voice in your head says,"
+      "type": "product",
+      "color": "#F5F1EA",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Mechanism (Product Introduction within narrative)",
-      "type": "definition",
-      "color": "#FFFFFF",
-      "content_preview": "Here's what happens physically: the 3-layer system, cotton inner for gentle first-contact awareness, a smart absorption layer that protects without wicking the signal away, and an outer barrier for le"
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee / Risk Reversal",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60 days to try it. By your judgment. If you don't see a shift, no pause, no awareness, no change, full refund. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "- **Button text:** See what fits your routine \u2192 (link to recommended bundle upsell based on purchase)\n- **Secondary link text:** \"Learn more about how the body signal works\"\n- **Placement:** After gua"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

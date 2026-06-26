@@ -1,41 +1,52 @@
 {
   "email_id": "pped-22-e4-l1",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-05",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "You're still prompting him every hour. Maybe every 90 minutes. You've got the timer on your phone, and when it goes off, you say it again: \"Hey, let's try the potty.\""
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 13",
-      "type": "testimonial",
-      "color": "#FFFBF0",
-      "content_preview": "You've been at this for about six weeks. The school year is approaching. You're moving from \"almost trained\" to \"mostly trained\", and this gradual prompt-fading is the step that gets you there. The ki"
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "The Science",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "Mechanism explanation"
+      "type": "expert",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

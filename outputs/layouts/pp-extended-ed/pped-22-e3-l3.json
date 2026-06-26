@@ -1,41 +1,43 @@
 {
   "email_id": "pped-22-e3-l3",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-07",
   "sections": [
     {
       "index": 0,
-      "name": "PREHEADER (Invisible)",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "You've been watching for signs. Here's what progress actually looks like for your child.\n\n---\n\n#"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "BODY COPY",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "You've been looking for the wrong signs.\n\nThe ones that matter for your child are not the ones the books describe. Not the ones therapists measure. Not the ones other parents post about.\n\nThe signs t"
+      "type": "steps",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Verification Checklist",
-      "type": "feel",
-      "color": "#FFFFFF",
-      "content_preview": "- [x] File size > 5KB\n- [x] L3 rules followed: ZERO urgency, dignity-first, 1pr $34.99 only\n- [x] S2 strategy (\u00a71.19) used: L3 Extended Education E3, micro-wins tracking\n- [x] Both parts present: Par"
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

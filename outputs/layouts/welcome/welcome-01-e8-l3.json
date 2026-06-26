@@ -1,41 +1,43 @@
 {
   "email_id": "welcome-01-e8-l3",
-  "flow_type": "welcome",
+  "purpose": "conversion",
+  "template": "CV-02",
   "sections": [
     {
       "index": 0,
-      "name": "HOOK",
       "type": "hero",
-      "color": "#EEE8F6",
-      "content_preview": "This my last email. And it's not about selling you anything.\n\nIf you've read this far, you already know what BrightKidCo is. You know about the Body-Signal Learning Layer. You know the science, 49 st"
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
+      "type": "offer",
+      "color": "#FAF7F0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "type": "product",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

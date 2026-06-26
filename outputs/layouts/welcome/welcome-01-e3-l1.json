@@ -1,55 +1,43 @@
 {
   "email_id": "welcome-01-e3-l1",
-  "flow_type": "welcome",
+  "purpose": "education",
+  "template": "ED-06",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
-      "color": "#EEE8F6",
-      "content_preview": "Pre-K starts in a few months. He needs to be trained. You've tried sticker charts. You've tried timers. You've probably read Oh Crap, tried the naked weekend, and wondered why nothing stuck. Here's w"
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Validation",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "Forty-nine percent of autistic 4-5 year olds aren't toilet trained. That's a CDC-funded study of 743 children (Wiggins et al. 2022). Compare that to just 8% of typically developing kids at the same a"
+      "type": "comparison",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Mechanism",
       "type": "definition",
       "color": "#FFFFFF",
-      "content_preview": "Here's what's actually happening. Your child's brain isn't receiving the body's signal early enough. Research shows autistic children process internal body signals differently \u2014 the feeling of \"I nee"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Social Proof / Testimonial",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "\"He says 'I need to pee' AFTER it's already happened.\" That's what one L1 mom told us before she started using BSL. Two weeks in, something shifted. Her son paused mid-accident. Then he looked down."
-    },
-    {
-      "index": 4,
-      "name": "Product Introduction",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "The BSL system has three layers, each designed for a specific purpose, not as a pull-up replacement. Layer 1 (cotton inner) creates the sustained signal. Layer 2 (smart absorption core) protects clot"
-    },
-    {
-      "index": 5,
-      "name": "Guarantee / Risk Reversal",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60 days to try it. By your judgment. If it doesn't work for your child, full refund."
-    },
-    {
-      "index": 6,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "- **Button text:** See if the 3+3 bundle works for your child\n- **Secondary link text:** Learn how body signals work\n- **Placement:** After Guarantee section (above fold if shortened, also repeated as"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

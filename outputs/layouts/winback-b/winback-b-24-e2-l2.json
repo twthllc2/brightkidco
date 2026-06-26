@@ -1,41 +1,43 @@
 {
   "email_id": "winback-b-24-e2-l2",
-  "flow_type": "winback-b",
+  "purpose": "reengagement",
+  "template": "RE-03",
   "sections": [
     {
       "index": 0,
-      "name": "SECTION 1, HOOK: 60 Days Later, Same Problem?",
       "type": "hero",
       "color": "#EEE8F6",
-      "content_preview": "It's been 67 days since you joined our list. You've read the science, you've seen the mechanism, you've probably weighed the decision a dozen times. And you're still where you started, not because yo"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "The Science",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "Mechanism explanation"
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "type": "offer",
+      "color": "#FAF7F0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,55 +1,43 @@
 {
   "email_id": "cart-02-e1",
-  "flow_type": "cart",
+  "purpose": "conversion",
+  "template": "CV-04",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "Whether you had one foot on the checkout button or you were still reading, if your child doesn't seem to feel when they need to go, you were looking in the right place. Your cart's still saved, no rus"
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Validation \u2014 Recognition Anchors (R2)",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "You've probably seen some version of this: your child sits on the toilet for 20 minutes, nothing happens, and then they're wet 30 seconds after standing up. Or they play right through a wet diaper wit"
+      "type": "comparison",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Mechanism (R1, R4, R5)",
-      "type": "definition",
-      "color": "#FFFFFF",
-      "content_preview": "Here's what most parents never get told: the \"I need to go\" message travels from the bladder to the brain along a neurological pathway called interoception, the body's ability to sense internal signal"
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Social Proof \u2014 Three-Family Testimonial Pattern (R6)",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "A few real stories from parents who had the same question you're sitting with:\n\n> \"He talked about the potty but wouldn't actually go. After two weeks in Body-Signal underwear, he paused mid-play and"
-    },
-    {
-      "index": 4,
-      "name": "Product Introduction (Gentle, No Push per S2)",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "The product in your cart, the Body-Signal Learning Layer underwear, is designed around exactly that missing connection. The cotton inner layer creates a gentle, sustained \"uh-oh\" sensation that lasts"
-    },
-    {
-      "index": 5,
-      "name": "Guarantee / Risk Reversal",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60 days to try it. By your judgment. If it doesn't work for your child, if you see no pause, no look, no step toward the bathroom, full refund. The guarantee isn't a sales tactic. It's the only honest"
-    },
-    {
-      "index": 6,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "- **Button text:** Check out when you're ready\n- **Supporting link text:** Your original offer is saved\n- **Placement:** Below guarantee, above-the-fold reachable\n\n---\n\n**Next time:** What other paren"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

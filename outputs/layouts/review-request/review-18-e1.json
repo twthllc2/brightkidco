@@ -1,41 +1,43 @@
 {
   "email_id": "review-18-e1",
-  "flow_type": "review-request",
+  "purpose": "retention",
+  "template": "RT-05",
   "sections": [
     {
       "index": 0,
-      "name": "BODY",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "**Section 1, Hook (Universal Recognition, R1, R3, R4, R5)**\n\nWhether your child showed their first awareness after 2 weeks, or you're still watching after 8, whether they said \"wet\" one day, showed y"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "type": "product",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFFBF0",
-      "content_preview": "Parent testimonials"
+      "type": "story",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

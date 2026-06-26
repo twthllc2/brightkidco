@@ -1,41 +1,34 @@
 {
   "email_id": "mid-13-d30",
-  "flow_type": "pp-mid-checkin",
+  "purpose": "consideration",
+  "template": "CO-01",
   "sections": [
     {
       "index": 0,
-      "name": "SECTION 1, HOOK (Observation + Universal Recognition)",
       "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "**Header:** One month. Here's what that means.\n\n30 days ago, you opened the box.\n\nSince then, your child has been wearing Body-Signal underwear, some days consistently, other days less. Maybe you've"
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "type": "product",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFFBF0",
-      "content_preview": "Parent testimonials"
-    },
-    {
-      "index": 3,
-      "name": "The Science",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "Mechanism explanation"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

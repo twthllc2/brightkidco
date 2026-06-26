@@ -1,41 +1,43 @@
 {
   "email_id": "browse-04-e1",
-  "flow_type": "browse",
+  "purpose": "awareness",
+  "template": "AW-05",
   "sections": [
     {
       "index": 0,
-      "name": "Email Body",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": ""
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFFBF0",
-      "content_preview": "Real parent story"
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Guarantee",
       "type": "guarantee",
       "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

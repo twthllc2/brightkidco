@@ -1,41 +1,43 @@
 {
   "email_id": "welcome-01-e8-gf",
-  "flow_type": "welcome",
+  "purpose": "conversion",
+  "template": "CV-06",
   "sections": [
     {
       "index": 0,
-      "name": "HOOK",
       "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "You've been reading these emails for three weeks. Maybe you've bookmarked a page. Maybe you've talked to your partner. Maybe you've watched your child and thought, \"I'm still not sure.\"\n\nThat's exact"
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "The Science",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "Mechanism explanation"
+      "type": "product",
+      "color": "#F5F1EA",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Social Proof",
       "type": "testimonial",
       "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

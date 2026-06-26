@@ -1,41 +1,52 @@
 {
   "email_id": "atrisk-23-e3",
-  "flow_type": "pp-at-risk",
+  "purpose": "education",
+  "template": "ED-01",
   "sections": [
     {
       "index": 0,
-      "name": "1.4 EMAIL BODY \u2014 FULL COPY",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "---\n\n**Hook Block (Observation)**\n\nHey,\n\nIt's been a little quiet. Noticed you haven't opened our last couple of emails, and that's totally okay.\n\nMaybe the underwear is sitting in a drawer. Maybe yo"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#FFFFFF",
-      "content_preview": "60-day guarantee"
+      "type": "definition",
+      "color": "#EAF6F2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "type": "comparison",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "type": "steps",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": false,
+      "image_count": 0,
+      "image_type": null
     }
   ]
 }

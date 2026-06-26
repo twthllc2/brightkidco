@@ -1,41 +1,25 @@
 {
   "email_id": "winback-a-19-e3-l3",
-  "flow_type": "winback-a",
+  "purpose": "reengagement",
+  "template": "RE-04",
   "sections": [
     {
       "index": 0,
-      "name": "Email Body",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": ""
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 2,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
-    },
-    {
-      "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,41 +1,25 @@
 {
   "email_id": "winback-b-24-e3-gf",
-  "flow_type": "winback-b",
+  "purpose": "reengagement",
+  "template": "RE-04",
   "sections": [
     {
       "index": 0,
-      "name": "From Name",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "Lena from BrightKidCo"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Body",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "**Section 1, Hook: Universal Recognition (The \"Whether...Or...If...\" Opener)**\n\nWhether your child is 3 and just starting to show signs of resistance, or 10 and you've stopped counting the attempts,"
-    },
-    {
-      "index": 2,
-      "name": "Verification Checklist",
-      "type": "feel",
-      "color": "#FFFFFF",
-      "content_preview": "| Criteria | Status | Evidence |\n|----------|--------|----------|\n| File exists at output path | \u2705 | /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e3-gf.md |\n| File size minimum 30KB"
-    },
-    {
-      "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA Button",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "**Try it for 60 days, your judgment** \u2192 [brightkidco.com/products/3-3-bundle]\n\n*\n---"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     }
   ]
 }

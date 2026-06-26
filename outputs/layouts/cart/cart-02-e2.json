@@ -1,55 +1,43 @@
 {
   "email_id": "cart-02-e2",
-  "flow_type": "cart",
+  "purpose": "conversion",
+  "template": "CV-06",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
       "color": "#EEE8F6",
-      "content_preview": "\"The moment he stands up he pees.\"\n\nThat's a real parent, describing their child before trying Body-Signal underwear. If that sentence lands a little too close to your morning, whether your child is"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Validation",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "You're not alone in this. And more importantly, your child is not broken. Their nervous system processes body signals differently. The \"I need to go\" message isn't arriving the way traditional method"
+      "type": "product",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Mechanism",
-      "type": "definition",
-      "color": "#FFFBF0",
-      "content_preview": "What we've learned, from Kelly Mahler's work on interoception, from the Nicholson et al. (2019) study on body awareness in autistic children, from 49 studies confirming these differences are real and"
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Testimonial / Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "\"Three parents, three different kids, one common experience:\"\n\n**L1 Story:** He was \"almost trained\" for months. Sometimes he'd go, sometimes he wouldn't. After 2 weeks in Body-Signal underwear, he p"
-    },
-    {
-      "index": 4,
-      "name": "Offer / Product Introduction",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "If you had 1 pair in your cart, most parents find that one pair alone isn't enough for real rotation. The underwear needs to be worn consistently every day so the brain gets repeated feedback signals"
-    },
-    {
-      "index": 5,
-      "name": "Guarantee / Risk Reversal",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60 days to try it. By your judgment. If it doesn't work for your child, no pause, no look, no step toward the potty, full refund. No questions. No pressure. Just your timeline."
-    },
-    {
-      "index": 6,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "- **Button text:** \"Upgrade to the 3+3 Bundle, $79.99\" (if 1-Pair in cart) / \"Complete your purchase\" (if 3+3 in cart)\n- **Price anchor:** That's $13.33 per pair with the bundle \u2014 less than half the s"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

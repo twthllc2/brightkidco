@@ -1,41 +1,52 @@
 {
   "email_id": "welcome-01-e2-l2",
-  "flow_type": "welcome",
+  "purpose": "education",
+  "template": "ED-05",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "\"We've been doing scheduled sits for two years. He never goes on his own.\"\n\nI hear this from Level 2 parents almost daily. You set the timer. He sits. Nothing happens. You put the pull-up back on. Fi"
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Social Proof",
-      "type": "testimonial",
+      "type": "reframe",
       "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "The Science",
       "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "Mechanism explanation"
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "type": "expert",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

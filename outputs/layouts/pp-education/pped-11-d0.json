@@ -1,41 +1,52 @@
 {
   "email_id": "pped-11-d0",
-  "flow_type": "pp-education",
+  "purpose": "education",
+  "template": "ED-01",
   "sections": [
     {
       "index": 0,
-      "name": "SECTION 1 \u2014 HOOK + VALIDATION (Universal \"Whether...Or...If.",
       "type": "hero",
-      "color": "#EEE8F6",
-      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, newly navigating this or years into the journey, if the \"I need to go\" signal hasn't been arriving the way traditional methods assume it should, y"
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "type": "definition",
+      "color": "#EAF6F2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Parent Story",
-      "type": "story",
+      "type": "comparison",
       "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "type": "steps",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

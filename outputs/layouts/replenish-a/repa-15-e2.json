@@ -1,41 +1,43 @@
 {
   "email_id": "repa-15-e2",
-  "flow_type": "replenish-a",
+  "purpose": "retention",
+  "template": "RT-04",
   "sections": [
     {
       "index": 0,
-      "name": "BODY",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "---\n\n**Observation + Recognition Anchors (R2: 3-5 anchors)**\n\nIt's been about 3 weeks since the first pair arrived.\n\nIn that time, maybe you've noticed some of these:\n, Your child wears the underwear"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Social Proof",
-      "type": "testimonial",
+      "type": "story",
       "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

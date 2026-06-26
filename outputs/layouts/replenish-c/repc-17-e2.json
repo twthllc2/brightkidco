@@ -1,55 +1,34 @@
 {
   "email_id": "repc-17-e2",
-  "flow_type": "replenish-c",
+  "purpose": "retention",
+  "template": "RT-01",
   "sections": [
     {
       "index": 0,
-      "name": "BODY",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": ""
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Hook \u2014 Observation + Recognition Anchors (R2)",
-      "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "Whether you've been at this for 150 days and seeing real change, or you're still waiting for that first pause, you've been at this long enough to know what your child needs next.\n\nIf your child has b"
+      "type": "steps",
+      "color": "#FFF6E2",
+      "column_layout": "2-grid",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Validation + Progress Acknowledgment",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "Five months is a long time to stay consistent with anything, especially when the results don't follow a straight line.\n\nSome kids in the BrightKidCo community started showing awareness in 2 weeks. Ot"
-    },
-    {
-      "index": 3,
-      "name": "Three-Family Testimonial Pattern (GF Inclusion)",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Three parents, three different kids, one thing in common, they bought the 5+5 bundle 5 months ago:\n\n**L1 story:**\n> \"Sarah's 4-year-old went from having accidents every day to telling her BEFORE it h"
-    },
-    {
-      "index": 4,
-      "name": "What's Next \u2014 Reorder + Options",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "After 5+ months of daily wear, here's what most families consider next:\n\n**1. Refresh the rotation.** If your child has been wearing the same 10 pairs for 150+ days, the fabric has been through a lot"
-    },
-    {
-      "index": 5,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#FFFBF0",
-      "content_preview": "Same 60-day guarantee that brought you here. If the next set doesn't work for your child at this stage, full refund. Your judgment, always.\n\n*(Scope: V8, 60-day guarantee, never 30. \n---"
-    },
-    {
-      "index": 6,
-      "name": "CTA (Secondary, Gift Angle)",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "**\"Know another parent who needs this? Send the 3+3 Bundle \u2192\"**\n\n- \n---"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,41 +1,52 @@
 {
   "email_id": "welcome-01-e4-l2",
-  "flow_type": "welcome",
+  "purpose": "consideration",
+  "template": "CO-05",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "\"We had 3 weeks of success then total regression.\" I hear this from L2 parents constantly. The words change but the feeling is the same, you thought you were finally getting somewhere, and now it's g"
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Social Proof",
-      "type": "testimonial",
+      "type": "comparison",
       "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "type": "product",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,48 +1,43 @@
 {
   "email_id": "review-18-e2",
-  "flow_type": "review-request",
+  "purpose": "retention",
+  "template": "RT-04",
   "sections": [
     {
       "index": 0,
-      "name": "BODY",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "---\n\n#"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "OPENING \u2014 Validation Hook + Universal Recognition",
-      "type": "hero",
-      "color": "#FFFBF0",
-      "content_preview": "Hey [first_name],\n\nYou got an email from me a couple weeks ago asking if you'd leave a review. If you've been meaning to and haven't gotten to it, I get it. Life with a kid who doesn't feel when they"
+      "type": "story",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "RECOGNITION ANCHORS \u2014 R2 (3-5 Anchors)",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "There's a mom somewhere in the middle of her 2am search who's reading reviews right now. She might be sitting in the dark with her phone, trying to figure out if this yet another thing that won't wor"
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "THREE-FAMILY TESTIMONIAL PATTERN \u2014 R6 (Low Bar Success) + GF",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "I'll show you what I mean. Three parents, three different kids, all writing about the same product, but their wins look completely different:\n\n> **\"He went from 'almost trained' to staying dry for ho"
-    },
-    {
-      "index": 4,
-      "name": "HOPE/REALISM RATIO",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "| Element | Hope | Realism | Notes |\n|---------|------|---------|-------|\n| Opening \u2014 Validation + \"I get it\" | 70% | 30% | Acknowledges busyness without pressure |\n| Recognition Anchors | 50% | 50%"
-    },
-    {
-      "index": 5,
-      "name": "CTA PERFORMANCE NOTES",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "Primary CTA: **\"Share your experience\"**, 22 characters, action-oriented, neutral tone (not \"Leave a Review\" which feels transactional).\n- Button opens review platform (Yotpo / Judge.me / Shopify nat"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

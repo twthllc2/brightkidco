@@ -1,41 +1,43 @@
 {
   "email_id": "pped-22-e5-l2",
-  "flow_type": "pp-extended-ed",
+  "purpose": "education",
+  "template": "ED-08",
   "sections": [
     {
       "index": 0,
-      "name": "The Three Most Common L2 Plateaus \u2014 And How to Navigate Each",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "**Plateau 1: Prompt-Dependency Persists**\n\nHe still won't initiate. You prompt, he sits, he gets up, nothing happens.\n\n*Why:* Prompt-dependency is the natural result of years of scheduled sits where"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Parent Story",
       "type": "story",
-      "color": "#FFFBF0",
-      "content_preview": "Real parent story"
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,41 +1,52 @@
 {
   "email_id": "welcome-01-e4-l3",
-  "flow_type": "welcome",
+  "purpose": "consideration",
+  "template": "CO-04",
   "sections": [
     {
       "index": 0,
-      "name": "L3, Maria",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "---\n\n**Hook**\n\n\"I've made peace with maybe never.\"\n\nI hear that sentence more than any other from Level 3 parents. It arrives quiet, without drama. After years of scheduled sits and social stories an"
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Product Showcase",
       "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "Product features"
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "Parent testimonials"
+      "type": "feel",
+      "color": "#EAF6F2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFFBF0",
-      "content_preview": "Real parent story"
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,41 +1,52 @@
 {
   "email_id": "mid-13-d60",
-  "flow_type": "pp-mid-checkin",
+  "purpose": "consideration",
+  "template": "CO-04",
   "sections": [
     {
       "index": 0,
-      "name": "Section 1",
-      "type": "letter",
-      "color": "#FFF6E2",
-      "content_preview": "60 days. That's two months of consistent wear, consistent signals, consistent learning."
+      "type": "hero",
+      "color": "#EEE8F6",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Section 10",
-      "type": "testimonial",
-      "color": "#FFFBF0",
-      "content_preview": ", He paused mid-play. Looked down at his pants. Then kept playing. But that pause, that never happened before.\n, She felt wet and pulled at her pants. Then signed or said \"wet\", a first.\n, He stayed d"
+      "type": "product",
+      "color": "#F0EDF8",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Guarantee",
-      "type": "guarantee",
+      "type": "feel",
       "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

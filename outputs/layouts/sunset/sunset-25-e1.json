@@ -1,41 +1,34 @@
 {
   "email_id": "sunset-25-e1",
-  "flow_type": "sunset",
+  "purpose": "reengagement",
+  "template": "RE-02",
   "sections": [
     {
       "index": 0,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Product Showcase",
       "type": "product",
       "color": "#F0EDF8",
-      "content_preview": "Product features"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
-    },
-    {
-      "index": 3,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFFBF0",
-      "content_preview": "Parent testimonials"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "**[ Yes, keep me updated ]**\n\n**Footer Close, The Door is Always Open**\n\nIf your situation changes down the road, if a new challenge comes up, if you hear something from a therapist that makes you cur"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

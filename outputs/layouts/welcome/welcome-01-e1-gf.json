@@ -1,55 +1,52 @@
 {
   "email_id": "welcome-01-e1-gf",
-  "flow_type": "welcome",
+  "purpose": "awareness",
+  "template": "AW-03",
   "sections": [
     {
       "index": 0,
-      "name": "Hook",
       "type": "hero",
       "color": "#FFFBF0",
-      "content_preview": "Whether your child is just starting to show signs, or you've been at this for years with every method you can find online, if they don't feel when they need to go, **this why.**\n\nYou've tried what th"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Validation",
-      "type": "reframe",
-      "color": "#EAF6F2",
-      "content_preview": "If your child's nervous system processes body signals differently, and for many children it does, those methods couldn't work. Not because you weren't consistent enough. Not because your child isn't"
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Mechanism",
-      "type": "definition",
-      "color": "#FFFFFF",
-      "content_preview": "Research shows that **49% of autistic 4-5 year olds aren't toilet trained yet** \u2014 a 6-to-1 gap compared to typically developing kids. That's not a parenting gap. It's a **measurable neurological diff"
+      "type": "story",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 3,
-      "name": "Social Proof",
-      "type": "testimonial",
-      "color": "#FFF6E2",
-      "content_preview": "> \"These past three years have been hell. We tried literally everything. I was ready to give up.\"\n> *, GF parent, early 30s, child 5*\n\n> \"I absolutely lost it. I yelled at him and smacked his butt. T"
+      "type": "definition",
+      "color": "#FFFFFF",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 4,
-      "name": "Product Intro",
-      "type": "product",
-      "color": "#F5F1EA",
-      "content_preview": "At BrightKidCo, we designed something different. Not a training method that asks your child to feel something they can't. Not another book or system that assumes the signal is already there.\n\nWe desi"
-    },
-    {
-      "index": 5,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "You don't have to believe me. Try it for 60 days. If your child shows any sign of awareness, a pause, a look, a step toward the potty, you'll know the signal is working. If nothing changes, full refu"
-    },
-    {
-      "index": 6,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": "**If this sounds familiar, keep reading.** We'll send you more over the next few days, what the science says, what other parents found, and how you can try the Body-Signal approach.\n\n**Primary CTA:**"
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }

@@ -1,316 +1,263 @@
 #!/usr/bin/env python3
-"""Generate layout blueprints for all 125 emails based on copy file sections + color sequences."""
-import re, json, os
+"""Generate 125 unique layout blueprints with structural variety — template-based approach."""
+import json, os, re, random
 from pathlib import Path
 from collections import defaultdict
 
-# Section type → background color mapping (from actual emails)
 SECTION_COLORS = {
     "hero": ["#FFFBF0", "#EEE8F6"],
-    "letter": ["#FFF6E2"],
-    "definition": ["#EAF6F2"],
-    "reframe": ["#EAF6F2"],
-    "comparison": ["#FFFBF0"],
-    "expert": ["#F0EDF8"],
-    "product": ["#F0EDF8", "#F5F1EA"],
-    "feel": ["#EAF6F2"],
-    "testimonial": ["#FFF6E2"],
-    "objections": ["#FFFFFF"],
-    "guarantee": ["#EAF6F2"],
+    "letter": ["#FFF6E2", "#FFFFFF"],
+    "definition": ["#EAF6F2", "#FFFFFF"],
+    "reframe": ["#EAF6F2", "#FFF6E2", "#FFFBF0"],
+    "comparison": ["#FFFBF0", "#FFF6E2"],
+    "testimonial": ["#FFF6E2", "#FFFBF0"],
+    "product": ["#F0EDF8", "#F5F1EA", "#FFFBF0"],
+    "guarantee": ["#EAF6F2", "#FFFFFF", "#FFFBF0"],
     "cta": ["#1F2D2F"],
-    "story": ["#FFF6E2"],
-    "steps": ["#FFFBF0"],
-    "code": ["#FAF7F0"],
-    "stat": ["#FFFBF0"],
+    "story": ["#FFF6E2", "#FFFBF0"],
+    "steps": ["#FFFBF0", "#FFF6E2"],
+    "code": ["#FAF7F0", "#FFFFFF"],
+    "offer": ["#FAF7F0", "#FFFBF0"],
+    "stat": ["#FFFBF0", "#EAF6F2"],
+    "feel": ["#EAF6F2", "#FFFFFF"],
+    "objections": ["#FFFFFF", "#FFF6E2"],
+    "expert": ["#F0EDF8", "#FFFFFF"],
 }
 
-# CTA is always dark
-CTA_COLOR = "#1F2D2F"
+TEMPLATES = {
+    "awareness": [
+        {"id":"AW-01","sections":["hero","letter","testimonial","cta"],"images":4,"layout":"single"},
+        {"id":"AW-02","sections":["hero","definition","cta"],"images":5,"layout":"hybrid","columns":{"definition":"2-col","hero":"image-top"}},
+        {"id":"AW-03","sections":["hero","testimonial","story","definition","cta"],"images":4,"layout":"single"},
+        {"id":"AW-04","sections":["hero","letter","steps","cta"],"images":4,"layout":"single"},
+        {"id":"AW-05","sections":["hero","testimonial","guarantee","cta"],"images":5,"layout":"single"},
+        {"id":"AW-06","sections":["hero","story","testimonial","cta"],"images":5,"layout":"single"},
+        {"id":"AW-07","sections":["hero","reframe","testimonial","cta"],"images":4,"layout":"single"},
+    ],
+    "education": [
+        {"id":"ED-01","sections":["hero","definition","comparison","steps","cta"],"images":5,"layout":"single"},
+        {"id":"ED-02","sections":["hero","definition","stat","cta"],"images":4,"layout":"hybrid","columns":{"definition":"2-col"}},
+        {"id":"ED-03","sections":["hero","definition","steps","cta"],"images":5,"layout":"hybrid","columns":{"steps":"3-grid"}},
+        {"id":"ED-04","sections":["hero","definition","objections","cta"],"images":4,"layout":"single"},
+        {"id":"ED-05","sections":["hero","reframe","definition","expert","cta"],"images":5,"layout":"single"},
+        {"id":"ED-06","sections":["hero","comparison","definition","cta"],"images":5,"layout":"single"},
+        {"id":"ED-07","sections":["hero","steps","testimonial","cta"],"images":5,"layout":"single"},
+        {"id":"ED-08","sections":["hero","definition","story","cta"],"images":4,"layout":"single"},
+    ],
+    "consideration": [
+        {"id":"CO-01","sections":["hero","product","cta"],"images":5,"layout":"image-heavy"},
+        {"id":"CO-02","sections":["hero","story","product","cta"],"images":5,"layout":"single"},
+        {"id":"CO-03","sections":["hero","product","testimonial","cta"],"images":6,"layout":"hybrid","columns":{"product":"2-grid"}},
+        {"id":"CO-04","sections":["hero","product","feel","testimonial","cta"],"images":5,"layout":"single"},
+        {"id":"CO-05","sections":["hero","comparison","product","guarantee","cta"],"images":5,"layout":"single"},
+        {"id":"CO-06","sections":["hero","product","guarantee","cta"],"images":5,"layout":"single"},
+        {"id":"CO-07","sections":["hero","testimonial","product","cta"],"images":5,"layout":"single"},
+    ],
+    "conversion": [
+        {"id":"CV-01","sections":["hero","product","guarantee","cta"],"images":5,"layout":"single"},
+        {"id":"CV-02","sections":["hero","offer","product","cta"],"images":5,"layout":"single"},
+        {"id":"CV-03","sections":["hero","cta"],"images":4,"layout":"image-heavy"},
+        {"id":"CV-04","sections":["hero","comparison","guarantee","cta"],"images":5,"layout":"single"},
+        {"id":"CV-05","sections":["hero","product","stat","cta"],"images":6,"layout":"hybrid","columns":{"product":"3-grid"}},
+        {"id":"CV-06","sections":["hero","product","testimonial","cta"],"images":5,"layout":"single"},
+        {"id":"CV-07","sections":["hero","guarantee","product","cta"],"images":5,"layout":"single"},
+    ],
+    "retention": [
+        {"id":"RT-01","sections":["hero","steps","cta"],"images":4,"layout":"hybrid","columns":{"steps":"2-grid"}},
+        {"id":"RT-02","sections":["hero","testimonial","product","cta"],"images":5,"layout":"single"},
+        {"id":"RT-03","sections":["hero","feel","cta"],"images":4,"layout":"hybrid","columns":{"feel":"3-grid"}},
+        {"id":"RT-04","sections":["hero","story","testimonial","cta"],"images":5,"layout":"single"},
+        {"id":"RT-05","sections":["hero","product","story","cta"],"images":5,"layout":"single"},
+    ],
+    "reengagement": [
+        {"id":"RE-01","sections":["hero","offer","cta"],"images":4,"layout":"single"},
+        {"id":"RE-02","sections":["hero","product","cta"],"images":5,"layout":"image-heavy"},
+        {"id":"RE-03","sections":["hero","testimonial","offer","cta"],"images":4,"layout":"single"},
+        {"id":"RE-04","sections":["hero","cta"],"images":4,"layout":"image-heavy"},
+        {"id":"RE-05","sections":["hero","product","guarantee","cta"],"images":5,"layout":"single"},
+        {"id":"RE-06","sections":["hero","story","cta"],"images":4,"layout":"single"},
+    ],
+    "transactional": [
+        {"id":"TX-01","sections":["hero","letter","product","cta"],"images":5,"layout":"single"},
+        {"id":"TX-02","sections":["hero","letter","cta"],"images":4,"layout":"single"},
+        {"id":"TX-03","sections":["hero","product","testimonial","cta"],"images":5,"layout":"single"},
+        {"id":"TX-04","sections":["hero","letter","product","story","cta"],"images":5,"layout":"single"},
+    ],
+}
 
-def classify_section(name, content):
-    """Classify a section based on its name and content hints."""
-    n = name.lower()
-    c = content.lower() if content else ""
-    
-    if any(k in n for k in ["hook", "hero", "headline", "opener"]):
-        return "hero"
-    if any(k in n for k in ["validation", "absolution", "guilt", "empathy", "recognition"]):
-        return "reframe"
-    if any(k in n for k in ["mechanism", "science", "education", "definition"]):
-        return "definition"
-    if any(k in n for k in ["social proof", "testimonial", "review", "story", "parent"]):
-        if "story" in n or "narrative" in n:
-            return "story"
-        return "testimonial"
-    if any(k in n for k in ["product", "showcase", "reveal", "feature"]):
-        return "product"
-    if any(k in n for k in ["guarantee", "trust", "risk", "refund", "60-day"]):
-        return "guarantee"
-    if any(k in n for k in ["cta", "button", "close", "action"]):
-        return "cta"
-    if any(k in n for k in ["comparison", "method", "failed", "alternative"]):
-        return "comparison"
-    if any(k in n for k in ["objection", "faq", "question", "wondering"]):
-        return "objections"
-    if any(k in n for k in ["stat", "number", "data", "proof"]):
-        return "stat"
-    if any(k in n for k in ["step", "path", "how it"]):
-        return "steps"
-    if any(k in n for k in ["code", "discount", "offer", "promo"]):
-        return "code"
-    if any(k in n for k in ["feel", "benefit", "checklist"]):
-        return "feel"
-    if any(k in n for k in ["expert", "quote", "endorsement"]):
-        return "expert"
-    
-    # Default based on content length and keywords
-    if len(c) > 500 or "research" in c or "study" in c:
-        return "definition"
-    if len(c) > 200 and ("said" in c or "parent" in c or "review" in c):
-        return "testimonial"
-    
-    return "letter"
+PURPOSE_RULES = {
+    "welcome": {"E1":"awareness","E2":"education","E3":"education","E4":"consideration","E5":"consideration","E6":"conversion","E7":"conversion","E8":"conversion"},
+    "cart": {"E1":"conversion","E2":"conversion","E3":"conversion"},
+    "browse": {"E1":"awareness","E2":"consideration","E3":"consideration"},
+    "checkout": {"E1":"conversion","E2":"conversion"},
+    "pp-education": {"default":"education"},
+    "pp-extended-ed": {"default":"education"},
+    "pp-at-risk": {"default":"education"},
+    "faq-library": {"default":"education"},
+    "pp-direct-upsell": {"default":"conversion"},
+    "pp-extended-upsell": {"default":"conversion"},
+    "pp-mid-checkin": {"default":"consideration"},
+    "pp-mary-story": {"default":"consideration"},
+    "pp-level-detection": {"default":"awareness"},
+    "winback-a": {"default":"reengagement"},
+    "winback-b": {"default":"reengagement"},
+    "replenish-a": {"default":"retention"},
+    "replenish-b": {"default":"retention"},
+    "replenish-c": {"default":"retention"},
+    "review-request": {"default":"retention"},
+    "site-abandonment": {"default":"awareness"},
+    "sunset": {"default":"reengagement"},
+    "transactional": {"default":"transactional"},
+}
 
-def pick_color(section_type, prev_color, used_in_email):
-    """Pick a background color ensuring no adjacent repeats. Randomize for variety."""
-    import random
+def extract_position(filename):
+    """Extract position from filename like welcome-01-e1-l1 → E1"""
+    parts = filename.split('-')
+    for p in parts:
+        if p.startswith('e') and len(p) >= 2:
+            return p[:2].upper()
+    return "default"
+
+def classify_purpose(flow, filename):
+    """Determine email purpose from flow type and position."""
+    pos = extract_position(filename)
+    if flow in PURPOSE_RULES:
+        rules = PURPOSE_RULES[flow]
+        if pos in rules:
+            return rules[pos]
+        if "default" in rules:
+            return rules["default"]
+    if flow in PURPOSE_RULES:
+        return PURPOSE_RULES[flow].get("default", "awareness")
+    return "awareness"
+
+def pick_color(section_type, prev_color, used_recent):
+    """Pick a color avoiding adjacent repeats."""
     options = SECTION_COLORS.get(section_type, ["#FFFFFF"])
-    
-    # If only one option and it matches previous, use a fallback
-    if len(options) == 1 and options[0] == prev_color:
-        fallbacks = {
-            "definition": ["#FFFFFF", "#FFFBF0"],
-            "guarantee": ["#FFFFFF", "#FFFBF0"],
-            "testimonial": ["#FFFBF0"],
-            "letter": ["#FFFFFF"],
-            "reframe": ["#FFF6E2", "#FFFBF0"],
-            "comparison": ["#FFF6E2"],
-            "story": ["#FFFBF0"],
-        }
-        options = fallbacks.get(section_type, ["#FFFFFF"])
-    
-    # Filter out previous color
     valid = [c for c in options if c != prev_color]
     if not valid:
         valid = options
-    
-    # Filter out colors used in recent positions
-    recent = used_in_email[-2:] if len(used_in_email) >= 2 else used_in_email
-    candidate = [c for c in valid if c not in recent]
+    candidate = [c for c in valid if c not in used_recent[-2:]]
     if not candidate:
         candidate = valid
-    
     return random.choice(candidate)
 
-def generate_layout(copy_file, email_id, flow_type):
-    """Generate a layout blueprint for one email."""
-    with open(copy_file, 'r') as f:
-        content = f.read()
+def generate_layout(copy_file, email_id, flow):
+    """Generate a layout blueprint for one email using templates."""
+    purpose = classify_purpose(flow, email_id)
+    available = TEMPLATES.get(purpose, TEMPLATES["awareness"])
     
-    # Extract sections from ## EMAIL BODY within # PART 1 (stop at # PART 2)
-    # First try: find ## EMAIL BODY in content
-    body_text = None
+    # Pick template (simple rotation)
+    tmpl = random.choice(available)
     
-    # Try ## EMAIL BODY directly
-    body_match = re.search(r'## (?:EMAIL BODY|Email Body)\s*\n(?:---\s*\n)?(.*?)(?=\n(?:## (?:Lena|Footer|SOURCE|CREATIVE|BIG IDEA)|\n# PART 2|\n---\s*\n##)|\Z)', content, re.DOTALL | re.IGNORECASE)
-    if body_match:
-        body_text = body_match.group(1)
-    
-    # Try within # PART 1 (some files use this format)
-    if not body_text:
-        part1_match = re.search(r'# PART 1.*?\n(.*?)(?=\n# PART 2|\Z)', content, re.DOTALL | re.IGNORECASE)
-        if part1_match:
-            part1_text = part1_match.group(1)
-            # Find ## EMAIL BODY within PART 1
-            body_match = re.search(r'## (?:EMAIL BODY|Email Body)\s*\n(?:---\s*\n)?(.*?)(?=\n(?:## (?:Lena|Footer|SOURCE|CREATIVE|BIG IDEA)|\n---\s*\n##)|\Z)', part1_text, re.DOTALL | re.IGNORECASE)
-            if body_match:
-                body_text = body_match.group(1)
-            else:
-                # No ## EMAIL BODY - extract everything after subject/preview lines
-                body_match = re.search(r'\*\*Subject Line:\*\*.*?\n\s*\n(.*)', part1_text, re.DOTALL)
-                if body_match:
-                    body_text = body_match.group(1).strip()
-                else:
-                    # Take everything after first --- separator
-                    body_match = re.search(r'---\s*\n(.*)', part1_text, re.DOTALL)
-                    if body_match:
-                        body_text = body_match.group(1).strip()
-    
-    # Fallback: take everything between ## EMAIL BODY and ## Footer
-    if not body_text:
-        body_match = re.search(r'## (?:EMAIL BODY|Email Body)\s*\n(?:---\s*\n)?(.*?)(?=\n## Footer|\Z)', content, re.DOTALL | re.IGNORECASE)
-        if body_match:
-            body_text = body_match.group(1)
-    
-    sections_data = []
-    
-    if body_text:
-        # Try splitting by ## or ### headers first
-        section_pattern = r'#{2,3} (.+?)\n(.*?)(?=#{2,3} |\Z)'
-        sections = re.findall(section_pattern, body_text, re.DOTALL | re.IGNORECASE)
-        
-        # If no headers found, try splitting by bold markers (**TITLE**)
-        if not sections:
-            bold_pattern = r'\*\*([A-Z][A-Z\s\-/,&]+)\*\*\s*\n(.*?)(?=\*\*[A-Z][A-Z\s\-/,&]+\*\*|\Z)'
-            sections = re.findall(bold_pattern, body_text, re.DOTALL)
-        
-        # If still no sections, split by double newlines and treat each block as a section
-        if not sections:
-            blocks = body_text.split('\n\n')
-            blocks = [b.strip() for b in blocks if len(b.strip()) > 50]
-            sections = [(f"Section {i+1}", b) for i, b in enumerate(blocks)]
-        
-        for name, section_content in sections:
-            name = name.strip()
-            # Remove "Section N:" prefix
-            name = re.sub(r'^Section \d+:\s*', '', name)
-            # Skip non-email sections and sign-off/footer
-            skip = ['The Big Idea', 'Layout', 'Color', 'Typography', 'Decorative', 'Hidden', 'Motion', 'Level Calibration', 'Creative', 'Visual', 'Design', 'Overview', 'Strategic', 'R1-R6', 'Cross-Level', 'Proof Point', 'How Each', 'How This', 'Footer', 'Lena Sign', 'Sign-Off', 'SOURCE CITATION', 'Source Citation', 'METADATA', 'SUBJECT', 'PREVIEW', 'BIG IDEA', 'CONTRAPTION', 'FURNITURE', 'EASTER EGG', 'MOTION', 'LEVEL CALIBRATION']
-            if any(s.lower() in name.lower() for s in skip):
-                continue
-            
-            section_type = classify_section(name, section_content)
-            sections_data.append({
-                "name": name[:60],
-                "type": section_type,
-                "content_preview": section_content[:200].strip(),
-            })
-    
-    # If no sections found, create a minimal layout
-    if not sections_data:
-        sections_data = [
-            {"name": "Email Body", "type": "letter", "content_preview": ""},
-            {"name": "CTA", "type": "cta", "content_preview": ""},
-        ]
-    
-    # Ensure CTA is last if present
-    has_cta = any(s["type"] == "cta" for s in sections_data)
-    if not has_cta:
-        sections_data.append({"name": "CTA", "type": "cta", "content_preview": ""})
-    
-    # Move CTA to end (remove duplicates first)
-    cta_indices = [i for i, s in enumerate(sections_data) if s["type"] == "cta"]
-    if len(cta_indices) > 1:
-        for idx in sorted(cta_indices[:-1], reverse=True):
-            sections_data.pop(idx)
-    if not cta_indices:
-        sections_data.append({"name": "CTA", "type": "cta", "content_preview": ""})
-    
-    # Move CTA to final position
-    cta_idx = [i for i, s in enumerate(sections_data) if s["type"] == "cta"]
-    if cta_idx and cta_idx[0] != len(sections_data) - 1:
-        cta_section = sections_data.pop(cta_idx[0])
-        sections_data.append(cta_section)
-    
-    # Deduplicate: remove duplicate section types (keep first), CTA always stays
-    seen = set()
-    deduped = []
-    for s in sections_data:
-        if s["type"] == "cta" or s["type"] not in seen:
-            deduped.append(s)
-            seen.add(s["type"])
-    
-    # Ensure CTA is at end
-    cta_in_deduped = [i for i, s in enumerate(deduped) if s["type"] == "cta"]
-    if cta_in_deduped and cta_in_deduped[-1] != len(deduped) - 1:
-        cta_section = deduped.pop(cta_in_deduped[-1])
-        deduped.append(cta_section)
-    
-    sections_data = deduped
-    
-    # ADD DEFAULT SECTIONS if too few (randomized order)
-    import random
-    default_sections = [
-        {"name": "Social Proof", "type": "testimonial", "content_preview": "Parent testimonials"},
-        {"name": "Product Showcase", "type": "product", "content_preview": "Product features"},
-        {"name": "Guarantee", "type": "guarantee", "content_preview": "60-day guarantee"},
-        {"name": "The Science", "type": "definition", "content_preview": "Mechanism explanation"},
-        {"name": "Parent Story", "type": "story", "content_preview": "Real parent story"},
-    ]
-    random.shuffle(default_sections)
-    
-    existing_types = {s["type"] for s in sections_data}
-    
-    for default in default_sections:
-        if len(sections_data) >= 5:
-            break
-        if default["type"] not in existing_types:
-            insert_pos = len(sections_data) - 1
-            sections_data.insert(insert_pos, default)
-            existing_types.add(default["type"])
-    
-    # CAP at 8 sections: keep first 7 + CTA
-    if len(sections_data) > 8:
-        cta_section = sections_data[-1]
-        sections_data = sections_data[:7]
-        sections_data.append(cta_section)
-    
-    # Generate color sequence
-    color_sequence = []
-    prev_color = None
+    # Build sections from template
+    sections = []
+    prev_color = "#FFFFFF"
     used_colors = []
+    image_slots = tmpl.get("images", 0)
+    # Target exactly 4-6 images per email. Use a random target in that range.
+    target_images = random.randint(4, 6)
+    image_eligible = ["hero","product","testimonial","story","definition","comparison","guarantee","offer","letter","feel","steps","reframe","expert","stat","code","objections"]
+    img_idx = 0
     
-    for section in sections_data:
-        color = pick_color(section["type"], prev_color, used_colors)
-        color_sequence.append(color)
-        prev_color = color
+    for i, stype in enumerate(tmpl["sections"]):
+        color = pick_color(stype, prev_color, used_colors)
         used_colors.append(color)
-    
-    # CTA is always dark
-    if sections_data[-1]["type"] == "cta":
-        color_sequence[-1] = CTA_COLOR
-    
-    # Make sure all CTAs are dark
-    for i, s in enumerate(sections_data):
-        if s["type"] == "cta":
-            color_sequence[i] = CTA_COLOR
-    
-    # Build layout blueprint
-    layout = {
-        "email_id": email_id,
-        "flow_type": flow_type,
-        "sections": [],
-    }
-    
-    for i, section in enumerate(sections_data):
-        layout["sections"].append({
+        prev_color = color
+        
+        has_img = (img_idx < target_images)
+        img_count = 1
+        if has_img:
+            img_idx += 1
+            # If we need more images than sections, give 2 images to early sections
+            remaining_sections = len(tmpl["sections"]) - i - 1
+            images_still_needed = target_images - img_idx
+            if images_still_needed > remaining_sections:
+                img_count = min(2, images_still_needed - remaining_sections + 1)
+                img_idx += img_count - 1
+        img_type = "lifestyle" if has_img else None
+        
+        # Determine column layout
+        columns = tmpl.get("columns", {})
+        col_layout = columns.get(stype, "single")
+        
+        sections.append({
             "index": i,
-            "name": section["name"],
-            "type": section["type"],
-            "color": color_sequence[i],
-            "content_preview": section["content_preview"],
+            "type": stype,
+            "color": color,
+            "column_layout": col_layout,
+            "has_image": has_img,
+            "image_count": img_count if has_img else 0,
+            "image_type": img_type,
         })
     
-    return layout
+    # CTA always dark
+    for s in sections:
+        if s["type"] == "cta":
+            s["color"] = "#1F2D2F"
+    
+    return {
+        "email_id": email_id,
+        "purpose": purpose,
+        "template": tmpl["id"],
+        "sections": sections,
+    }
 
 # Process all copy files
 copy_dir = Path("/root/projects/brightkidco/outputs/copy")
 output_dir = Path("/root/projects/brightkidco/outputs/layouts")
 
-layouts = []
-layout_map = defaultdict(list)
+# Delete old layouts
+import shutil
+if output_dir.exists():
+    shutil.rmtree(output_dir)
 
-for md_file in copy_dir.rglob("*.md"):
+layouts = []
+flow_template_used = defaultdict(set)
+
+for md_file in sorted(copy_dir.rglob("*.md")):
     if "analysis" in str(md_file) or "DEEP" in str(md_file) or "SKELETON" in str(md_file):
         continue
     
-    flow_type = md_file.parent.name
+    flow = md_file.parent.name
     email_id = md_file.stem
     
-    layout = generate_layout(str(md_file), email_id, flow_type)
-    layouts.append(layout)
-    layout_map[flow_type].append(layout)
+    # Generate layout
+    layout = generate_layout(str(md_file), email_id, flow)
     
-    # Save individual layout
-    os.makedirs(output_dir / flow_type, exist_ok=True)
-    with open(output_dir / flow_type / f"{email_id}.json", 'w') as f:
+    # Ensure template variety within same flow
+    retries = 0
+    while layout["template"] in flow_template_used[flow] and retries < 10:
+        layout = generate_layout(str(md_file), email_id, flow)
+        retries += 1
+    
+    flow_template_used[flow].add(layout["template"])
+    layouts.append(layout)
+    
+    # Save
+    os.makedirs(output_dir / flow, exist_ok=True)
+    with open(output_dir / flow / f"{email_id}.json", 'w') as f:
         json.dump(layout, f, indent=2)
 
-print(f"Generated {len(layouts)} layout blueprints")
+# Print summary
+from collections import Counter
+structure_counts = Counter()
+template_counts = Counter()
+purpose_counts = Counter()
 
-# Print sample
-print(f"\nSample layouts:")
-for layout in layouts[:3]:
-    print(f"\n{layout['email_id']} ({layout['flow_type']}):")
-    for s in layout["sections"]:
-        print(f"  [{s['type']:15s}] {s['color']} — {s['name'][:40]}")
+for l in layouts:
+    types = "→".join(s["type"] for s in l["sections"])
+    structure_counts[types] += 1
+    template_counts[l["template"]] += 1
+    purpose_counts[l["purpose"]] += 1
+
+print(f"Generated {len(layouts)} layout blueprints")
+print(f"\nPurpose distribution:")
+for p, n in purpose_counts.most_common():
+    print(f"  {p:20s}: {n} emails")
+print(f"\nTemplate usage (top 15):")
+for t, n in template_counts.most_common(15):
+    print(f"  {t}: {n}x")
+print(f"\nMost common structures:")
+for s, n in structure_counts.most_common(5):
+    print(f"  {n}x: {s}")

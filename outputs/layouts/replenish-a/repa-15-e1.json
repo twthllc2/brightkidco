@@ -1,41 +1,34 @@
 {
   "email_id": "repa-15-e1",
-  "flow_type": "replenish-a",
+  "purpose": "retention",
+  "template": "RT-03",
   "sections": [
     {
       "index": 0,
-      "name": "BODY",
-      "type": "definition",
-      "color": "#EAF6F2",
-      "content_preview": "**{Hook, Universal Recognition with \"Whether...Or...If...\" Pattern}**\n\nWhether you're 14 days into consistent daily wear, or your child has only touched the fabric so far, whether they can tell you t"
+      "type": "hero",
+      "color": "#FFFBF0",
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 2,
+      "image_type": "lifestyle"
     },
     {
       "index": 1,
-      "name": "Parent Story",
-      "type": "story",
-      "color": "#FFF6E2",
-      "content_preview": "Real parent story"
+      "type": "feel",
+      "color": "#EAF6F2",
+      "column_layout": "3-grid",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     },
     {
       "index": 2,
-      "name": "Product Showcase",
-      "type": "product",
-      "color": "#F0EDF8",
-      "content_preview": "Product features"
-    },
-    {
-      "index": 3,
-      "name": "Guarantee",
-      "type": "guarantee",
-      "color": "#EAF6F2",
-      "content_preview": "60-day guarantee"
-    },
-    {
-      "index": 4,
-      "name": "CTA",
       "type": "cta",
       "color": "#1F2D2F",
-      "content_preview": ""
+      "column_layout": "single",
+      "has_image": true,
+      "image_count": 1,
+      "image_type": "lifestyle"
     }
   ]
 }
