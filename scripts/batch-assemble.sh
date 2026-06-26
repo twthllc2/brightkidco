@@ -1,77 +1,96 @@
 #!/bin/bash
-# Batch assemble HTML for all non-welcome picks files
-set -euo pipefail
+# Batch assemble all 125 emails
+set -e
 
 PICKS_DIR="/root/projects/brightkidco/outputs/picks"
 LAYOUTS_DIR="/root/projects/brightkidco/outputs/layouts"
 HTML_DIR="/root/projects/brightkidco/outputs/html"
-ASSEMBLER="/root/projects/brightkidco/scripts/assemble-email.py"
+SCRIPT="/root/projects/brightkidco/scripts/assemble-email.py"
 
 mkdir -p "$HTML_DIR"
 
-success=0
-fail=0
-skipped=0
-missing_layout=0
+SUCCESS=0
+FAIL=0
+TOTAL=0
 
-# Build a lookup of all layout files by basename
-declare -A LAYOUT_MAP
-while IFS= read -r -d '' layout_file; do
-    basename=$(basename "$layout_file")
-    LAYOUT_MAP["$basename"]="$layout_file"
-done < <(find "$LAYOUTS_DIR" -name "*.json" -print0)
-
-echo "Found ${#LAYOUT_MAP[@]} layout files"
+echo "=== Starting batch assembly ==="
 echo ""
 
-# Process all picks files (non-welcome)
-while IFS= read -r -d '' picks_file; do
-    basename=$(basename "$picks_file")
-    email_id="${basename%.json}"
-
-    # Skip welcome files
-    if [[ "$email_id" == welcome-* ]]; then
-        echo "SKIP (welcome): $email_id"
-        ((skipped++)) || true
+for picks_file in "$PICKS_DIR"/*.json; do
+    filename=$(basename "$picks_file")
+    email_name="${filename%.json}"
+    
+    # Find layout file with same name
+    layout_file=$(find "$LAYOUTS_DIR" -name "$filename" -print -quit 2>/dev/null)
+    
+    if [ -z "$layout_file" ]; then
+        echo "SKIP: $filename — no matching layout found"
+        FAIL=$((FAIL + 1))
         continue
     fi
-
-    # Check if already built
-    if [ -f "$HTML_DIR/${email_id}.html" ]; then
-        echo "EXISTS: $email_id"
-        ((skipped++)) || true
-        continue
-    fi
-
-    # Find matching layout
-    layout_path="${LAYOUT_MAP[$basename]:-}"
-    if [ -z "$layout_path" ]; then
-        echo "NO-LAYOUT: $email_id (no matching layout found for $basename)"
-        ((missing_layout++)) || true
-        continue
-    fi
-
-    # Assemble
-    output_file="$HTML_DIR/${email_id}.html"
-    if python3 "$ASSEMBLER" "$layout_path" "$picks_file" --output "$output_file" 2>&1; then
-        # Verify output has basic structure
-        if [ -f "$output_file" ] && grep -q '<!DOCTYPE html>' "$output_file" && grep -q '</html>' "$output_file"; then
-            echo "OK: $email_id ($(wc -c < "$output_file") bytes)"
-            ((success++)) || true
-        else
-            echo "FAIL-VERIFY: $email_id (output missing DOCTYPE or closing html)"
-            ((fail++)) || true
-        fi
+    
+    output_file="$HTML_DIR/$email_name.html"
+    
+    echo -n "[$((TOTAL + 1))/125] $email_name ... "
+    
+    if python3 "$SCRIPT" "$layout_file" "$picks_file" --output "$output_file" 2>/dev/null; then
+        echo "OK"
+        SUCCESS=$((SUCCESS + 1))
     else
-        echo "FAIL: $email_id (assembler returned non-zero)"
-        ((fail++)) || true
+        echo "FAIL"
+        FAIL=$((FAIL + 1))
     fi
-done < <(find "$PICKS_DIR" -name "*.json" -print0)
+    
+    TOTAL=$((TOTAL + 1))
+done
 
 echo ""
-echo "============================================"
-echo "SUCCESS: $success"
-echo "FAILED:  $fail"
-echo "SKIPPED: $skipped (welcome + already built)"
-echo "NO-LAYOUT: $missing_layout"
-echo "============================================"
+echo "=== Done ==="
+echo "Total: $TOTAL"
+echo "Success: $SUCCESS"
+echo "Failed: $FAIL"
+
+# Quick verification
+echo ""
+echo "=== Quick verification of outputs ==="
+for html_file in "$HTML_DIR"/*.html; do
+    fn=$(basename "$html_file")
+    
+    issues=""
+    
+    # Check gradient bands
+    if ! grep -q "linear-gradient" "$html_file"; then
+        issues="$issues NO-GRADIENT"
+    fi
+    
+    # Check logo
+    if ! grep -q "brightkidco-logo" "$html_file"; then
+        issues="$issues NO-LOGO"
+    fi
+    
+    # Check footer
+    if ! grep -q "Calm progress" "$html_file"; then
+        issues="$issues NO-FOOTER"
+    fi
+    
+    # Check images
+    img_count=$(grep -c '<img ' "$html_file" 2>/dev/null || echo 0)
+    if [ "$img_count" -lt 2 ]; then
+        issues="$issues LOW-IMAGES($img_count)"
+    fi
+    
+    # Check for real copy text (not section names as main content)
+    # Section names are single words like "Guarantee", "Product Showcase" etc.
+    # Real copy text should have longer sentences
+    long_text_count=$(grep -oP '(?<=>)[A-Za-z][^<]{50,}(?=<)' "$html_file" 2>/dev/null | wc -l)
+    if [ "$long_text_count" -lt 2 ]; then
+        issues="$issues NO-REAL-COPY"
+    fi
+    
+    if [ -n "$issues" ]; then
+        echo "ISSUES: $fn ->$issues"
+    fi
+done
+
+echo ""
+echo "=== Quick verification done ==="
