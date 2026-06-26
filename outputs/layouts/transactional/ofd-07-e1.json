@@ -1,0 +1,41 @@
+{
+  "email_id": "ofd-07-e1",
+  "flow_type": "transactional",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Anticipation \u2014 It's Here",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "Your package is out for delivery today. That box on the truck? It's carrying more than underwear, it's carrying the piece that's been missing.\n\nWhether you've been trying for weeks or years, verbal o"
+    },
+    {
+      "index": 1,
+      "name": "What to Do When It Arrives",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Here's what to do when the box lands on your porch:\n\n1. **Wash before first wear.** The cotton inner layer is the signal-creator. Wash once on gentle cycle, no fabric softener, it coats the cotton an"
+    },
+    {
+      "index": 2,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#FFFFFF",
+      "content_preview": "60 days to try it. By your judgment. If it doesn't work for your child, full refund. No questions."
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** Track your delivery \u2192\n- **Secondary link text:** (none, NO cross-sells per S2)\n- **Placement:** After Section 1 (above fold, tracking link) and again after Section 4 (bottom)"
+    }
+  ]
+}

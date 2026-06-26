@@ -1,0 +1,45 @@
+{
+  "email_id": "winback-b-24-e1-l3",
+  "sections": [
+    {
+      "section_name": "Email Body",
+      "section_type": "letter",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter)",
+      "image_file": "",
+      "image_category": ""
+    },
+    {
+      "section_name": "Product Showcase",
+      "section_type": "product",
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source)",
+      "image_file": "training-pant-penguin-multicolor.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "The Science",
+      "section_type": "definition",
+      "component_id": "EDU-8",
+      "component_name": "Mechanism Diagram",
+      "image_file": "training-pant-cloud-raindrop-white.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "component_id": "TRUST-1",
+      "component_name": "60-Day Seal",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "CTADEEP-17",
+      "component_name": "The Next Step CTA",
+      "image_file": "toddler-rearview-cat-mustard.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

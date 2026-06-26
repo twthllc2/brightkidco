@@ -1,0 +1,41 @@
+{
+  "email_id": "faq-21-e2",
+  "flow_type": "faq-library",
+  "sections": [
+    {
+      "index": 0,
+      "name": "BODY COPY",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "I've tried everything. My child is too old. We had progress and lost it.\n\nI hear these three sentences every day. Sometimes all three from the same parent in the same message. And here's the thing, th"
+    },
+    {
+      "index": 1,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 2,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

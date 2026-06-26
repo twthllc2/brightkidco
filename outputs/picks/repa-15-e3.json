@@ -1,0 +1,44 @@
+{
+  "email_id": "repa-15-e3",
+  "sections": [
+    {
+      "index": 0,
+      "type": "definition",
+      "component_id": "HERO-16",
+      "component_name": "Mechanism Tease *(L4164)*",
+      "image_file": "accessories/potty-targets-stickers-chart.png"
+    },
+    {
+      "index": 1,
+      "type": "product",
+      "component_id": "6.3",
+      "component_name": "ProductShowcaseSoft (Giuliano source) *(L670)*",
+      "image_file": "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+    },
+    {
+      "index": 2,
+      "type": "testimonial",
+      "component_id": "PSYCH-03",
+      "component_name": "Social Proof Cascade *(L8513)*",
+      "image_file": "accessories/towel-set-llama-cactus.png"
+    },
+    {
+      "index": 3,
+      "type": "guarantee",
+      "component_id": "DESDEEP-13",
+      "component_name": "The Badge System *(L13374)*",
+      "image_file": "accessories/book-potty-training-guide.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-6",
+      "component_name": "Social CTA *(L6733)*",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+    }
+  ],
+  "stats": {
+    "image_count": 5,
+    "component_count": 5
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "email_id": "atrisk-23-e3",
+  "sections": [
+    {
+      "index": 0,
+      "type": "definition",
+      "component_id": "EDUDEEP-5",
+      "component_name": "The Brain Map",
+      "image_file": "accessories/potty-targets-stickers-chart.png"
+    },
+    {
+      "index": 1,
+      "type": "guarantee",
+      "component_id": "10.1",
+      "component_name": "60-Day Seal (alias for PartBadge/Letter)",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+    },
+    {
+      "index": 2,
+      "type": "product",
+      "component_id": "PRODEEP-3",
+      "component_name": "The Size Finder",
+      "image_file": "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+    },
+    {
+      "index": 3,
+      "type": "testimonial",
+      "component_id": "DEEP-04",
+      "component_name": "The Sensory Description",
+      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTADEEP-18",
+      "component_name": "The Exit CTA",
+      "image_file": "flat-lay/diaper-woodland-creature-yellow.jpg"
+    }
+  ]
+}

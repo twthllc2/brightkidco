@@ -1,0 +1,40 @@
+{
+  "email_id": "pped-22-e4-l1",
+  "sections": [
+    {
+      "index": 0,
+      "type": "letter",
+      "component_id": "23.2",
+      "component_name": "Drop Cap Initial Letter (uses Letter)",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+    },
+    {
+      "index": 1,
+      "type": "testimonial",
+      "component_id": "SP-09",
+      "component_name": "UGC Photo Grid",
+      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+    },
+    {
+      "index": 2,
+      "type": "story",
+      "component_id": "STORYDEEP-07",
+      "component_name": "The Season Metaphor",
+      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+    },
+    {
+      "index": 3,
+      "type": "definition",
+      "component_id": "EDUDEEP-5",
+      "component_name": "The Brain Map",
+      "image_file": "flat-lay/training-pant-cloud-raindrop-white.jpg"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTADEEP-17",
+      "component_name": "The Next Step CTA",
+      "image_file": "flat-lay/training-pant-watermelon-pink.jpg"
+    }
+  ]
+}

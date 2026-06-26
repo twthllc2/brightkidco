@@ -1,0 +1,41 @@
+{
+  "email_id": "browse-04-e2",
+  "flow_type": "browse",
+  "sections": [
+    {
+      "index": 0,
+      "name": "SECTION 1: Universal Recognition Opener (R1, R2, R3, R4)",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "Whether your child is 3 or 10, verbal or not, diagnosed or still figuring it out, if they don't feel when they need to go, you're in the right place.\n\nChances are you've seen some of these:\n\n\u2022 He sit"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 2,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

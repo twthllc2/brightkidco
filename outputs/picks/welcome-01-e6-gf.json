@@ -1,0 +1,50 @@
+{
+  "email_id": "welcome-01-e6-gf",
+  "sections": [
+    {
+      "section_type": "letter",
+      "section_name": "Email Body",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter)",
+      "component_source": "G+",
+      "image_file": "toddler-napping-watermelon-pink-shorts.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "definition",
+      "section_name": "The Science",
+      "component_id": "1",
+      "component_name": "The Body Signal Concept (Core Mechanism Visual)",
+      "component_source": "A*",
+      "image_file": "toddlers-backview-disposable-diapers.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "guarantee",
+      "section_name": "Guarantee",
+      "component_id": "DESDEEP-13",
+      "component_name": "The Badge System",
+      "component_source": "A*",
+      "image_file": "book-potty-training-guide.png",
+      "image_category": "accessories"
+    },
+    {
+      "section_type": "story",
+      "section_name": "Parent Story",
+      "component_id": "STORYDEEP-03",
+      "component_name": "The Letter From Future (uses Letter)",
+      "component_source": "G+",
+      "image_file": "toddler-livingroom-dino-yellow.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "cta",
+      "section_name": "CTA",
+      "component_id": "CTADEEP-17",
+      "component_name": "The Next Step CTA",
+      "component_source": "G+",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

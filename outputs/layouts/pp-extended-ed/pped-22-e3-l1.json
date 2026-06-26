@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e3-l1",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Body",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Hey,\n\nYou're coming up on a month of using the Body-Signal Learning Layer.\n\nIf you're thinking \"I'm not sure anything's changing\", I hear you. Some shifts happen fast. Others move at a pace so slow y"
+    },
+    {
+      "index": 1,
+      "name": "Recommended Offer Placement",
+      "type": "code",
+      "color": "#FAF7F0",
+      "content_preview": "**Soft upsell (if on 1 Pair):**\n> \"If you're starting to see these signs, a second pair can help extend the signal window. Four hours of wear time gives the nervous system what it needs to learn. The"
+    },
+    {
+      "index": 2,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA Line",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "**You're in the phase that looks like nothing, and everything is shifting. Trust the pause.**\n\n---"
+    }
+  ]
+}

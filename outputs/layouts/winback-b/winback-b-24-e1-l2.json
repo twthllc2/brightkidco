@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-b-24-e1-l2",
+  "flow_type": "winback-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Email Body",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": ""
+    },
+    {
+      "index": 1,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 2,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFFBF0",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

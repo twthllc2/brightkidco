@@ -1,0 +1,55 @@
+{
+  "email_id": "mid-13-d45",
+  "flow_type": "pp-mid-checkin",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HOOK / OBSERVATION",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Whether you're seeing the first tiny signs or nothing at all yet, 45 days in, I want to check in with something real.\n\nIf progress is slower than you hoped, here's what we know about this stage.\n\nSome"
+    },
+    {
+      "index": 1,
+      "name": "VALIDATION",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "If you're feeling discouraged, that's fair. You've been at this for weeks. You're washing underwear, watching for signs, and wondering if anything is changing.\n\nHere's what I want you to know: **the a"
+    },
+    {
+      "index": 2,
+      "name": "TROUBLESHOOTING, THREE THINGS TO CHECK",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Here are three common things to check if you're at Day 45 and wondering where the progress is:\n\n**1. Wear consistency.** Are they getting 2-3 hours of uninterrupted wear in the Body-Signal underwear d"
+    },
+    {
+      "index": 3,
+      "name": "THREE-FAMILY TESTIMONIAL PATTERN",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Every family's Day 45 looks different. Here are three real experiences:\n\n> **Sarah:** \"He went from 'sometimes' to 'most times' around week 6. Pre-K is in September, for the first time, I think we'll"
+    },
+    {
+      "index": 4,
+      "name": "PRODUCT / OFFER",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "If you started with 1 pair and you're wondering whether more consistent wear would help, most parents find that having 3-6 pairs in rotation makes the difference. More pairs mean more consistent daily"
+    },
+    {
+      "index": 5,
+      "name": "GUARANTEE",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "If you're at Day 45 and nothing has changed, the 60-day guarantee is here. If you decide this approach isn't right for your child, you get every dollar back. No questions. No hoops.\n\nBut before you ma"
+    },
+    {
+      "index": 6,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "**See if your child's signal is starting**\n\n[Button: \"Check in on your progress \u2192\"]\n*(Full-width mobile, pill-shaped, Brand-Green #039902, white text)*\n*That's $13.33 per pair with the bundle \u2014 less t"
+    }
+  ]
+}

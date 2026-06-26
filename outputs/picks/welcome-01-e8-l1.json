@@ -1,0 +1,49 @@
+{
+  "email_id": "welcome-01-e8-l1",
+  "section_0": {
+    "section_type": "hero",
+    "section_name": "HOOK SECTION",
+    "component_id": "DEEPCAMP-04",
+    "component_name": "DEEPCAMP-04 \u2014 Valentine's Day (Care-Themed Hero)",
+    "component_source": "A",
+    "image_file": "toddler-napping-watermelon-pink-shorts.png",
+    "image_category": "lifestyle"
+  },
+  "section_1": {
+    "section_type": "guarantee",
+    "section_name": "Guarantee",
+    "component_id": "SP-14",
+    "component_name": "Trust Badges Row",
+    "component_source": "A*",
+    "image_file": "washing-machine-training-pants.png",
+    "image_category": "lifestyle"
+  },
+  "section_2": {
+    "section_type": "product",
+    "section_name": "Product Showcase",
+    "component_id": "PERS-03",
+    "component_name": "Product Recommendation",
+    "component_source": "A*",
+    "image_file": "training-pant-bunny-hearts-pink.jpg",
+    "image_category": "flat-lay"
+  },
+  "section_3": {
+    "section_type": "definition",
+    "section_name": "The Science",
+    "component_id": "FLOWDEEP-5",
+    "component_name": "Welcome E5 Science",
+    "component_source": "A*",
+    "image_file": "book-potty-training-guide.png",
+    "image_category": "accessories"
+  },
+  "section_4": {
+    "section_type": "cta",
+    "section_name": "CTA",
+    "component_id": "CTADEEP-05",
+    "component_name": "The Permission CTA",
+    "component_source": "A*",
+    "image_file": null,
+    "image_category": null
+  },
+  "total_images": 4
+}

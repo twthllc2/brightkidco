@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-a-19-e2-l3",
+  "flow_type": "winback-a",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Section 1",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "**Preheader:** It took 9.5 years. Here's what finally changed."
+    },
+    {
+      "index": 1,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 2,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 3,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

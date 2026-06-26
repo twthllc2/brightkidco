@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e2-l1",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Preheader",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "Most parents miss the early signs. Here's what to watch for this week.\n\n---"
+    },
+    {
+      "index": 1,
+      "name": "Body",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Sarah,\n\nYou've been at this for about a month now. If you're wondering whether anything is actually changing, let me show you what to look for.\n\nBecause here's the thing most parents miss: **the firs"
+    },
+    {
+      "index": 2,
+      "name": "Offer Block",
+      "type": "code",
+      "color": "#FAF7F0",
+      "content_preview": "**The 3+3 Bundle, $79.99, Free Shipping, 60-Day Guarantee**\n\n[Button: Continue Building Body Awareness \u2192]\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n---"
+    },
+    {
+      "index": 3,
+      "name": "2.7 Objection Handling",
+      "type": "objections",
+      "color": "#FFFFFF",
+      "content_preview": "| Objection | How Addressed |\n|-----------|---------------|\n| D1 \"Tried everything\" | Mechanism reframe \u2014 thisn't another method, it's neural feedback. Documenting IS the new approach. |\n| D2 \"Maybe"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

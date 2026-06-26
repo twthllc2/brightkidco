@@ -1,0 +1,40 @@
+{
+  "email_id": "pped-22-e1-l2",
+  "sections": [
+    {
+      "index": 0,
+      "type": "definition",
+      "component_id": "DEEP-16",
+      "component_name": "The Brain-Body Bridge",
+      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
+    },
+    {
+      "index": 1,
+      "type": "objections",
+      "component_id": "OBJ-02",
+      "component_name": "My Child Is Different",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+    },
+    {
+      "index": 2,
+      "type": "letter",
+      "component_id": "UTIL-01",
+      "component_name": "Gradient Band (uses Band)",
+      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
+    },
+    {
+      "index": 3,
+      "type": "testimonial",
+      "component_id": "SP-11",
+      "component_name": "Star Cascade",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTADEEP-10",
+      "component_name": "The Community CTA",
+      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+    }
+  ]
+}

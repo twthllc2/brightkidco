@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-b-24-e2-l2",
+  "flow_type": "winback-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "SECTION 1, HOOK: 60 Days Later, Same Problem?",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "It's been 67 days since you joined our list. You've read the science, you've seen the mechanism, you've probably weighed the decision a dozen times. And you're still where you started, not because yo"
+    },
+    {
+      "index": 1,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 2,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

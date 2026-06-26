@@ -1,0 +1,55 @@
+{
+  "email_id": "welcome-01-e3-gf",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook, The Three Families",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "Three parents, three different kids, one common experience:\n\n> *\"He talks about the potty. He understands the concept. But when it's time to actually go, nothing.\"*\n\n> *\"We've done the OT sensory wor"
+    },
+    {
+      "index": 1,
+      "name": "Validation, The Gap Is Real, Not Your Fault",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "Here's what the research actually shows: **49% of autistic 4-5 year olds are not yet toilet trained.**\n\nThat's not a made-up number. That's from a CDC-funded study of 743 children (Wiggins et al. 202"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism, Why the Signal Doesn't Arrive",
+      "type": "definition",
+      "color": "#FFFBF0",
+      "content_preview": "Every sticker chart and timer sit assumes your child *feels* the sensation of a full bladder. But research consistently shows many autistic children have a measurable difference in **interoception**"
+    },
+    {
+      "index": 3,
+      "name": "Testimonial, What This Looks Like in Real Life",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "> *\"He said 'I need to pee' AFTER it's already happened for two years. After two weeks in BrightKidCo underwear, he paused. Then he looked down. Then he walked to the potty. It was small, maybe nothi"
+    },
+    {
+      "index": 4,
+      "name": "Product, The Body-Signal Learning System",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "BrightKidCo isn't training underwear in the traditional sense. It's a **Body-Signal Learning System** built around one principle: the brain needs feedback to learn.\n\n**The 3-Layer System:**\n\n1. **Cot"
+    },
+    {
+      "index": 5,
+      "name": "Guarantee, No Risk, Your Judgment",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "**60 days. By your judgment.**\n\nIf it doesn't help your child make progress, if you don't see a pause, a look down, a single step toward the bathroom, full refund. No forms. No \"did you try hard enou"
+    },
+    {
+      "index": 6,
+      "name": "CTA, Your Choice, Your Pace",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "**[CTA BUTTON: Start with the 3+3 Bundle, $79.99]**\n\n6 pairs of Body-Signal Learning underwear. Free shipping. 60-day guarantee.\n\nWhether you're just starting to explore or you've been at this for ye"
+    }
+  ]
+}

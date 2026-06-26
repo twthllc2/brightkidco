@@ -1,0 +1,40 @@
+{
+  "email_id": "arrived-08",
+  "sections": [
+    {
+      "index": 0,
+      "type": "hero",
+      "component_id": "HERO-17",
+      "component_name": "Social Proof Hero",
+      "image_file": "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+    },
+    {
+      "index": 1,
+      "type": "reframe",
+      "component_id": "STORY-09",
+      "component_name": "The Reframe \u2014 Challenge \u2192 New perspective *(L4559)*",
+      "image_file": "flat-lay/training-pant-fox-woodland-white.jpg"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "1",
+      "component_name": "The Body Signal Concept (Core Mechanism Visual) *(L34)*",
+      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+    },
+    {
+      "index": 3,
+      "type": "guarantee",
+      "component_id": "BONUS-04",
+      "component_name": "Wax Seal *(L8909)*",
+      "image_file": "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-8",
+      "component_name": "Dual CTA",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+    }
+  ]
+}

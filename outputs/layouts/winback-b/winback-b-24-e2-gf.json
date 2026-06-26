@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-b-24-e2-gf",
+  "flow_type": "winback-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Email Body",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": ""
+    },
+    {
+      "index": 1,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 2,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 3,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

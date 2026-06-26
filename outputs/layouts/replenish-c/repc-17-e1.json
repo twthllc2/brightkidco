@@ -1,0 +1,48 @@
+{
+  "email_id": "repc-17-e1",
+  "flow_type": "replenish-c",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Opener \u2014 Universal Recognition (R1, R3, R4)",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Whether you've seen your child pause, look down, and walk to the bathroom, or you're still waiting for that first signal, if the 5+5 bundle has been part of your routine for the last 5 months, this w"
+    },
+    {
+      "index": 1,
+      "name": "Section 2 \u2014 Recognition Anchors (R2: 3-5 anchors)",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "At 5 months in, you've probably seen one of these:\n\n, Your child pauses mid-play and looks down. That pause didn't happen before.\n, They pull at their pants or show you with a gesture when they notic"
+    },
+    {
+      "index": 2,
+      "name": "Section 3 \u2014 What Changes at 5 Months",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Here's something most parents don't think about until it matters: the Body-Signal Learning Layer isn't magic, it's physics + neurology working together. The cotton inner layer creates the signal. The"
+    },
+    {
+      "index": 3,
+      "name": "Section 4 \u2014 Product & Offer (No Urgency)",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "A fresh 5+5 bundle means:\n\n, Crisp elastic for a clean fit\n, Full-strength Body-Signal Learning Layer response\n, New designs, same signal\n, Enough rotation to keep laundry manageable (10 pairs minimu"
+    },
+    {
+      "index": 4,
+      "name": "Section 5 \u2014 Three-Family Testimonial Pattern (GF Inclusion)",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "**R6 applied, Mini-wins as success metrics:**\n\nThree different families. Three different kids. One common thread, the 150-day mark.\n\n> *L1 (Sarah-type):* \"He told me when he had to go for the first t"
+    },
+    {
+      "index": 5,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

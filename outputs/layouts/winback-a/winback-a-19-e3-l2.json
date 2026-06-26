@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-a-19-e3-l2",
+  "flow_type": "winback-a",
+  "sections": [
+    {
+      "index": 0,
+      "name": "[HOOK \u2014 Real Symptom Recognition (L2 Element \u2460)]",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "You bought the Body-Signal underwear 90 days ago. Maybe your child wore them a few times. Maybe you put them aside after a week. Maybe you're reading this thinking, \"Yeah, it didn't click.\"\n\nI hear t"
+    },
+    {
+      "index": 1,
+      "name": "[MECHANISM SPECIFICITY (L2 Element \u2461)]",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "The Body-Signal Learning Layer works by giving the nervous system a sustained, gentle sensation, 30-60 seconds of feedback when the body releases. For a child whose interoception is slow to pick up s"
+    },
+    {
+      "index": 2,
+      "name": "[60-DAY GUARANTEE (L2 Element \u2464)]",
+      "type": "guarantee",
+      "color": "#FFFBF0",
+      "content_preview": "You already bought once. You believed enough to try. If it didn't click, that's a real outcome.\n\nHere's what I want you to know: the 60-day guarantee applies to every order. If you want to try again,"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

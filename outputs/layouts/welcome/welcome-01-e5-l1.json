@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e5-l1",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HOOK",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "You've tried three methods. Maybe more. Oh Crap stressed you both out. Sticker charts didn't stick. The timer sits turned into a battle of wills.\n\nAnd here you are. Still searching. Still wondering w"
+    },
+    {
+      "index": 1,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 2,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 3,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#FFFBF0",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

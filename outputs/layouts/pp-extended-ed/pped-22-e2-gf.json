@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e2-gf",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "The Plateau Nobody Warns You About",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still figuring things out, if they don't feel when they need to go, the first few weeks of BSL underwear follow a predictable pattern"
+    },
+    {
+      "index": 1,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 2,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

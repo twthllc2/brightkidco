@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-a-19-e2-l1",
+  "flow_type": "winback-a",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 2,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 3,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "[ See how other Pre-K parents made it work \u2192 ]\n*That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.*\n\n---\n\n**Next time:** The final nudge \u2014 one last look at what's possible"
+    }
+  ]
+}

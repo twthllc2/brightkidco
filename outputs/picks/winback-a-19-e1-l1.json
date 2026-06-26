@@ -1,0 +1,69 @@
+{
+  "email_id": "winback-a-19-e1-l1",
+  "sections": [
+    {
+      "section_name": "FROM",
+      "section_type": "letter",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter)",
+      "image_file": "",
+      "image_category": ""
+    },
+    {
+      "section_name": "HOOK",
+      "section_type": "hero",
+      "component_id": "FLOW-6",
+      "component_name": "Winback Opener",
+      "image_file": "toddler-potty-ladder-yellow-woodland.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "VALIDATION",
+      "section_type": "reframe",
+      "component_id": "EMODEEP-01",
+      "component_name": "The Guilt Reframe",
+      "image_file": "",
+      "image_category": ""
+    },
+    {
+      "section_name": "MECHANISM (Body-Signal Refresher)",
+      "section_type": "definition",
+      "component_id": "EDU-8",
+      "component_name": "Mechanism Diagram",
+      "image_file": "training-pant-fox-red-white.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "SOCIAL PROOF",
+      "section_type": "testimonial",
+      "component_id": "SP-08",
+      "component_name": "Stacked Mini-Reviews",
+      "image_file": "toddler-livingroom-dino-yellow.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "PRODUCT INTRO",
+      "section_type": "product",
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source)",
+      "image_file": "laundry-bag-llama-cream.png",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "GUARANTEE",
+      "section_type": "guarantee",
+      "component_id": "TRUST-1",
+      "component_name": "60-Day Seal",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "CALL TO ACTION",
+      "section_type": "cta",
+      "component_id": "CTADEEP-18",
+      "component_name": "The Exit CTA",
+      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

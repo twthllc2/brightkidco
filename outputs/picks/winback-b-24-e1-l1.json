@@ -1,0 +1,45 @@
+{
+  "email_id": "winback-b-24-e1-l1",
+  "sections": [
+    {
+      "section_name": "Hook",
+      "section_type": "hero",
+      "component_id": "FLOW-6",
+      "component_name": "Winback Opener",
+      "image_file": "toddler-potty-ladder-yellow-woodland.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "Validation",
+      "section_type": "reframe",
+      "component_id": "EMODEEP-01",
+      "component_name": "The Guilt Reframe",
+      "image_file": "",
+      "image_category": ""
+    },
+    {
+      "section_name": "Offer \u2014 The 3+3 Bundle",
+      "section_type": "code",
+      "component_id": "UTIL-06",
+      "component_name": "Preheader Bar",
+      "image_file": "training-pant-watermelon-pink.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "Guarantee / Risk Reversal",
+      "section_type": "guarantee",
+      "component_id": "SP-05",
+      "component_name": "Trust Pill Strip",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

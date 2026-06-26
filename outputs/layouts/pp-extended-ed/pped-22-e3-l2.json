@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e3-l2",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Body Copy",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "**Preheader:** The difference between 'he goes' and 'he initiates' is a signal his brain hasn't learned to hear yet.\n\n---\n\n**Hook, Real Symptom Recognition (Element \u2460)**\n\nHe goes when you prompt. Aft"
+    },
+    {
+      "index": 1,
+      "name": "2.9 Success Metrics",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "| Metric | Target | Rationale |\n|--------|--------|-----------|\n| Open rate | \u226545% | Existing buyer, high engagement expected |\n| Click rate (any link) | \u22658% | Protocol engagement signals commitment"
+    },
+    {
+      "index": 2,
+      "name": "2.10 Fallback / Alternative Approach",
+      "type": "comparison",
+      "color": "#FFFBF0",
+      "content_preview": "If open rates for this email fall below 35% in the first send:\n\n- **Alternative Subject Line B:** \"Why prompting might be working against you\", higher curiosity hook but risks \"scolding\" tone\n- **Alt"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "2.7 CTA Strategy",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "| Position | CTA Text | Purpose |\n|----------|----------|---------|\n| Post-protocol | \"Try the 30-second delay this week\" | Low-barrier first action |\n| Pre-guarantee | \"Email me by Day 60 if you're"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e5-l3",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Section 1",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "You've been doing this for years. Years of appointments, therapies, schedules. Years of people who mean well but don't fully understand what your days look like."
+    },
+    {
+      "index": 1,
+      "name": "Section 2",
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "content_preview": "The parent who nods when you say \"he's never given me a signal in 8 years\", not because she read about it, but because she lived it. The mom who doesn't try to offer advice, just sits beside you in th"
+    },
+    {
+      "index": 2,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

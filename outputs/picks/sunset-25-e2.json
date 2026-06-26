@@ -1,0 +1,40 @@
+{
+  "email_id": "sunset-25-e2",
+  "sections": [
+    {
+      "index": 0,
+      "type": "letter",
+      "component_id": "UTIL-04",
+      "component_name": "Footer (Giuliano source) *(L7571)*",
+      "image_file": "flat-lay/training-pant-fox-red-white.jpg"
+    },
+    {
+      "index": 1,
+      "type": "hero",
+      "component_id": "HERO-13",
+      "component_name": "Scientific Hook",
+      "image_file": "accessories/potty-targets-stickers-chart.png"
+    },
+    {
+      "index": 2,
+      "type": "reframe",
+      "component_id": "STORY-09",
+      "component_name": "The Reframe \u2014 Challenge \u2192 New perspective *(L4559)*",
+      "image_file": "resized/toddler-playing.jpg"
+    },
+    {
+      "index": 3,
+      "type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-8",
+      "component_name": "Dual CTA",
+      "image_file": "accessories/book-potty-training-guide.png"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "email_id": "welcome-01-e2-l1",
+  "sections": [
+    {
+      "index": 0,
+      "type": "hero",
+      "component_id": "HERO-20",
+      "image_file": "product-photos/resized/toddler-playing.jpg"
+    },
+    {
+      "index": 1,
+      "type": "reframe",
+      "component_id": "OBJ-01",
+      "image_file": "product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "1",
+      "image_file": "product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg"
+    },
+    {
+      "index": 3,
+      "type": "testimonial",
+      "component_id": "SP-08",
+      "image_file": "product-photos/lifestyle/toddler-livingroom-dino-yellow.png"
+    },
+    {
+      "index": 4,
+      "type": "product",
+      "component_id": "ED1",
+      "image_file": "product-photos/flat-lay/training-pant-watermelon-pink.jpg"
+    },
+    {
+      "index": 5,
+      "type": "guarantee",
+      "component_id": "5",
+      "image_file": "product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png"
+    },
+    {
+      "index": 6,
+      "type": "cta",
+      "component_id": "5.1",
+      "image_file": ""
+    }
+  ],
+  "stats": {
+    "image_count": 6,
+    "component_count": 7
+  },
+  "total_images": 0
+}

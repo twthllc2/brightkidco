@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-b-24-e2-l3",
+  "flow_type": "winback-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Body",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "**Section 1, Hook / Observation**\n\nIt's been a few months since you first signed up.\n\nIf you're still reading, that matters. You haven't walked away. You've just been careful. And after years of prom"
+    },
+    {
+      "index": 1,
+      "name": "Production Notes",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "**HTML/CSS Rendering Requirements:**\n- Ensure email client compatibility: use inline styles for all critical spacing\n- Minimum 600px container width, centered with `margin: 0 auto`\n- For mobile: stac"
+    },
+    {
+      "index": 2,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

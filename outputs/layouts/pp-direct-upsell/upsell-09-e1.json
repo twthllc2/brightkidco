@@ -1,0 +1,41 @@
+{
+  "email_id": "upsell-09-e1",
+  "flow_type": "pp-direct-upsell",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Your order arrived a few days ago. You've got the Body-Signal underwear in hand, and your child is starting to explore the sensation. Whether they're already showing awareness, a pause, a look, a pull"
+    },
+    {
+      "index": 1,
+      "name": "Validation / Content",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "The Body-Signal Learning Layer is the key mechanism, that's the cotton inner layer that creates the gentle sustained \"uh-oh\" sensation after every accident. This what bridges the interoception gap, gi"
+    },
+    {
+      "index": 2,
+      "name": "Product Introduction",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "The BrightKidCo Wash Bag ($14.99) was designed for exactly this reason. It's a dedicated mesh laundry bag that protects the Body-Signal Learning Layer during machine washing. You toss the underwear in"
+    },
+    {
+      "index": 3,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60 days to try it alongside your current routine. If the Wash Bag doesn't make a difference in how the underwear performs for your child, full refund.\n\nOne parent told us: \"I didn't think a laundry ba"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** Add the Wash Bag to your routine\n- **Secondary link text:** Learn more about caring for your Body-Signal underwear\n- **Placement:** After Section 3 (Product Introduction), above the"
+    }
+  ]
+}

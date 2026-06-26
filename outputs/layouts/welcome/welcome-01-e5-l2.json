@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e5-l2",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook \u2014 Mirroring the Skepticism",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "You've tried everything.\n\nI know that's not hyperbole. When L2 parents say \"everything,\" they mean it: BCBA protocols, OT sensory work, social stories, sticker charts, timer sits, potty watches, the"
+    },
+    {
+      "index": 1,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 2,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 3,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

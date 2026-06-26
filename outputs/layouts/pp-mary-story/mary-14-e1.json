@@ -1,0 +1,48 @@
+{
+  "email_id": "mary-14-e1",
+  "flow_type": "pp-mary-story",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Preheader: It wasn't a business idea. It was a morning that ",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "---"
+    },
+    {
+      "index": 1,
+      "name": "OPENER \u2014 The Universal Symptom Hook",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or still figuring it out, if they don't feel when they need to go, you've probably seen some of these:\n\n, Sitting on the toilet fo"
+    },
+    {
+      "index": 2,
+      "name": "MARY'S STORY \u2014 The Beginning",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "I'm Mary S. I'm a mom. And I went through exactly this with my own child.\n\nMy son was 4 when I realized something wasn't working. Not with him, with the methods. We tried everything the books and int"
+    },
+    {
+      "index": 3,
+      "name": "THE MOMENT \u2014 The Realization That Changed Everything",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "One morning, after yet another accident, I sat on the bathroom floor and realized: my son wasn't ignoring his body. His body wasn't sending the signal. The \"I need to go\" message was leaving his blad"
+    },
+    {
+      "index": 4,
+      "name": "P.S.",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "P.S., The 60-day guarantee is real. If the product doesn't work for your child, full refund, no questions. But most parents find the real change happens between week 3 and week 8. If you're in week 1"
+    },
+    {
+      "index": 5,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

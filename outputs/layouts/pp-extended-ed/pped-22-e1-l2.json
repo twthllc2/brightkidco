@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e1-l2",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "2.1 Tone & Voice Calibration",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "| Dimension | L2 Setting |\n|---|---|\n| **Hope/Realism Ratio** | 40/60 \u2014 realism-dominant, cracked hope, science-anchored |\n| **Urgency** | LOW \u2014 no Pre-K framing, no deadlines, no \"act now\" |\n| **Emp"
+    },
+    {
+      "index": 1,
+      "name": "2.7 Objections Pre-Emptively Handled",
+      "type": "objections",
+      "color": "#FFFFFF",
+      "content_preview": "| Objection | Where Handled | How |\n|---|---|---|\n| D1: \"I've tried everything\" | \u00b62-3 \u2014 Lists 8+ specific failed methods, then reframes: \"You didn't fail. The problem was the assumption.\" |\n| B2: \"M"
+    },
+    {
+      "index": 2,
+      "name": "2.9 Forbidden Language Check (L2-Specific)",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "| Phrase | Check |\n|---|---|\n| \"Quick\" | \u274c Not present |\n| \"Easy\" | \u274c Not present |\n| \"Just like other kids\" | \u274c Not present |\n| Pre-K urgency | \u274c Not present |\n| Aggressive BCBA criticism | \u274c Not pr"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "2.4 CTA Architecture",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "| Section | CTA Type | Placement |\n|---|---|---|\n| After mechanism deep-dive | Text link \u2014 \"Read the Nicholson 2019 study summary\" | End of mechanism section |\n| After timeline | Text link \u2014 \"See wha"
+    }
+  ]
+}

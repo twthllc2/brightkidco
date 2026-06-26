@@ -1,0 +1,41 @@
+{
+  "email_id": "shipping-06",
+  "flow_type": "transactional",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Shipment Notification",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "Good news, your Body-Signal Learning Layer underwear shipped today. Your tracking number is below so you can follow the package as it makes its way to you.\n\nDepending on where you are, delivery usuall"
+    },
+    {
+      "index": 1,
+      "name": "When It Arrives \u2014 First Steps",
+      "type": "steps",
+      "color": "#FFFBF0",
+      "content_preview": "When the package arrives, here's what helps: Wash the underwear before first use, cold water, gentle cycle, no fabric softener. The Body-Signal Layer works best when the cotton is clean and absorbent."
+    },
+    {
+      "index": 2,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

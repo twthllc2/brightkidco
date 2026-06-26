@@ -1,0 +1,46 @@
+{
+  "email_id": "faq-21-e4",
+  "flow_type": "faq-library",
+  "selections": {
+    "section_0": {
+      "section_name": "Section 1",
+      "section_type": "letter",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter)",
+      "image_file": "",
+      "image_category": ""
+    },
+    "section_1": {
+      "section_name": "Section 4",
+      "section_type": "testimonial",
+      "component_id": "SP-08",
+      "component_name": "Stacked Mini-Reviews",
+      "image_file": "toddlers-backview-disposable-diapers.png",
+      "image_category": "lifestyle"
+    },
+    "section_2": {
+      "section_name": "Product Showcase",
+      "section_type": "product",
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source)",
+      "image_file": "training-pant-watermelon-pink.jpg",
+      "image_category": "flatlay"
+    },
+    "section_3": {
+      "section_name": "Parent Story",
+      "section_type": "story",
+      "component_id": "STORY-06",
+      "component_name": "Photo Essay — Image-placeholder narrative cards",
+      "image_file": "toddler-playing-train-moon-cloud-blue.png",
+      "image_category": "lifestyle"
+    },
+    "section_4": {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "5.1",
+      "component_name": "Dark CTA (CTAClose) (uses CTAClose)",
+      "image_file": "laundry-bag-llama-cream.png",
+      "image_category": "flatlay"
+    }
+  }
+}

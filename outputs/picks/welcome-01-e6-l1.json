@@ -1,0 +1,50 @@
+{
+  "email_id": "welcome-01-e6-l1",
+  "sections": [
+    {
+      "section_type": "hero",
+      "section_name": "HOOK",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "component_source": "G+",
+      "image_file": "toddler-potty-ladder-yellow-woodland.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "guarantee",
+      "section_name": "Guarantee",
+      "component_id": "5",
+      "component_name": "60-Day Calm Promise",
+      "component_source": "A*",
+      "image_file": "book-potty-training-guide.png",
+      "image_category": "accessories"
+    },
+    {
+      "section_type": "definition",
+      "section_name": "The Science",
+      "component_id": "EDU-7",
+      "component_name": "Did You Know",
+      "component_source": "A*",
+      "image_file": "toddler-playing-train-moon-cloud-blue.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "testimonial",
+      "section_name": "Social Proof",
+      "component_id": "PSYDEEP-11",
+      "component_name": "The Social Proof Ladder",
+      "component_source": "A*",
+      "image_file": "toddler-livingroom-dino-yellow.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "cta",
+      "section_name": "CTA",
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "component_source": "G+",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

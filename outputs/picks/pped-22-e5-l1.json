@@ -1,0 +1,40 @@
+{
+  "email_id": "pped-22-e5-l1",
+  "sections": [
+    {
+      "index": 0,
+      "type": "testimonial",
+      "component_id": "SP-09",
+      "component_name": "UGC Photo Grid",
+      "image_file": "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+    },
+    {
+      "index": 1,
+      "type": "definition",
+      "component_id": "EDU-3",
+      "component_name": "Science Block",
+      "image_file": "lifestyle/founders-holding-pants-yellow-watermelon.png"
+    },
+    {
+      "index": 2,
+      "type": "product",
+      "component_id": "PRODEEP-6",
+      "component_name": "The Wear Test",
+      "image_file": "flat-lay/training-pant-bunny-hearts-pink.jpg"
+    },
+    {
+      "index": 3,
+      "type": "guarantee",
+      "component_id": "DESDEEP-18",
+      "component_name": "The Wax Seal",
+      "image_file": "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-9",
+      "component_name": "Floating CTA",
+      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+    }
+  ]
+}

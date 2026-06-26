@@ -1,0 +1,51 @@
+{
+  "email_id": "review-18-e2",
+  "sections": [
+    {
+      "index": 0,
+      "type": "letter",
+      "component_id": "3.2",
+      "component_name": "Eyebrow Label (uses Eyebrow) *(L450)*",
+      "image_file": "lifestyle/toddler-backpack-moon-cloud-blue.png"
+    },
+    {
+      "index": 1,
+      "type": "hero",
+      "component_id": "HERO-13",
+      "component_name": "Scientific Hook *(L4089)*",
+      "image_file": "flat-lay/training-pant-penguin-multicolor.jpg"
+    },
+    {
+      "index": 2,
+      "type": "reframe",
+      "component_id": "STORY-09",
+      "component_name": "The Reframe \u2014 Challenge \u2192 New perspective *(L4559)*",
+      "image_file": "flat-lay/diaper-woodland-creature-yellow.jpg"
+    },
+    {
+      "index": 3,
+      "type": "testimonial",
+      "component_id": "PSYCH-03",
+      "component_name": "Social Proof Cascade *(L8513)*",
+      "image_file": "flat-lay/swim-diaper-giraffe-yellow.jpg"
+    },
+    {
+      "index": 4,
+      "type": "definition",
+      "component_id": "1",
+      "component_name": "The Body Signal Concept (Core Mechanism Visual) *(L34)*",
+      "image_file": "flat-lay/swim-diaper-unicorn-pink.jpg"
+    },
+    {
+      "index": 5,
+      "type": "cta",
+      "component_id": "8",
+      "component_name": "CTA Varieties (Permission-Based) *(L211)*",
+      "image_file": "lifestyle/washing-machine-training-pants.png"
+    }
+  ],
+  "stats": {
+    "image_count": 6,
+    "component_count": 6
+  }
+}

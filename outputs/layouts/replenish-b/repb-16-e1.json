@@ -1,0 +1,41 @@
+{
+  "email_id": "repb-16-e1",
+  "flow_type": "replenish-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "SECTION 1, The \"Whether...Or...If...\" Opener (Observation + ",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "Whether your child is showing first signals or still in the familiarization phase, whether you're seeing mini-wins each week or wondering if it's doing anything at all, if your 3+3 bundle has been in"
+    },
+    {
+      "index": 1,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 2,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#FFFBF0",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

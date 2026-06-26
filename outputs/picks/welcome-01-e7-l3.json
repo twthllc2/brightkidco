@@ -1,0 +1,50 @@
+{
+  "email_id": "welcome-01-e7-l3",
+  "sections": [
+    {
+      "section_type": "hero",
+      "section_name": "HOOK",
+      "component_id": "22.3",
+      "component_name": "Circle Crop Hero",
+      "component_source": "A",
+      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "guarantee",
+      "section_name": "Guarantee",
+      "component_id": "TRUSTDEEP-12",
+      "component_name": "The Trust Timeline",
+      "component_source": "A*",
+      "image_file": "toddlers-backview-disposable-diapers.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "story",
+      "section_name": "Parent Story",
+      "component_id": "STORY-08",
+      "component_name": "Origin Story \u2014 Brand founding narrative",
+      "component_source": "A*",
+      "image_file": "toddler-livingroom-dino-yellow.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "testimonial",
+      "section_name": "Social Proof",
+      "component_id": "DEEP-13",
+      "component_name": "The Reverse Testimonial",
+      "component_source": "A*",
+      "image_file": "washing-machine-training-pants.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "cta",
+      "section_name": "CTA",
+      "component_id": "CTADEEP-18",
+      "component_name": "The Exit CTA",
+      "component_source": "A*",
+      "image_file": null,
+      "image_category": null
+    }
+  ]
+}

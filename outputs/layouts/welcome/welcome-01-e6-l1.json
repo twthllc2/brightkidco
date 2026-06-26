@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e6-l1",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HOOK",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Pre-K starts in a few months. You've got the forms, the tour date, the supply list. And somewhere in the back of your mind: *What if he's still in pull-ups?*\n\nI hear this every single day. And here's"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 2,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

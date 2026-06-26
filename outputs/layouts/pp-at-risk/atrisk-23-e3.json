@@ -1,0 +1,41 @@
+{
+  "email_id": "atrisk-23-e3",
+  "flow_type": "pp-at-risk",
+  "sections": [
+    {
+      "index": 0,
+      "name": "1.4 EMAIL BODY \u2014 FULL COPY",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "---\n\n**Hook Block (Observation)**\n\nHey,\n\nIt's been a little quiet. Noticed you haven't opened our last couple of emails, and that's totally okay.\n\nMaybe the underwear is sitting in a drawer. Maybe yo"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#FFFFFF",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 2,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

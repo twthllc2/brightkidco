@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e8-l1",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HOOK SECTION",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "**Subject line context:** Last email, here's the offer\n\n**Preview text:** September is coming. Here's what you need to know.\n\n---\n\n**Hook (opening paragraph):**\n\nPre-K doesn't wait. You know that bet"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 2,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 3,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

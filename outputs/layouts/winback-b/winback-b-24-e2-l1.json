@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-b-24-e2-l1",
+  "flow_type": "winback-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Section 1",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "You signed up 67 days ago. In that time, you've read the mechanism, you understand the interoception gap, and you're still asking the same question: \"Will this actually work for my kid?\""
+    },
+    {
+      "index": 1,
+      "name": "Section 2",
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "content_preview": "Here's something we haven't told you yet: a 2025 review of 49 scientific studies confirmed that body signal difficulties, the inability to sense internal body signals like bladder fullness, are a well"
+    },
+    {
+      "index": 2,
+      "name": "Section 7",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Here's what the new research reinforces: the problem isn't that you haven't tried hard enough or that your child is being stubborn. The problem is that standard potty training methods assume the child"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

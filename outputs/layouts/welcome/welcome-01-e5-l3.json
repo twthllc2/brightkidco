@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e5-l3",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HOOK, Naming the Objection",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "You've been here before.\n\nA new product. A new method. A new email promising something different. And each time, a small part of you let itself believe, before it learned not to.\n\nSo when you see the"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 2,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

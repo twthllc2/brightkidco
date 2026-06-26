@@ -1,0 +1,55 @@
+{
+  "email_id": "welcome-01-e3-l2",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "You've heard the word \"interoception\" from your OT or BCBA. Maybe it came up in a sensory evaluation, or you stumbled across it during one of those 2am research sessions we both know you've had.\n\nHer"
+    },
+    {
+      "index": 1,
+      "name": "Validation",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "Interoception researcher Kelly Mahler calls it the \"eighth sensory system\", the internal sense that tells your body when you're hungry, thirsty, or need the bathroom. For most of us, these signals ar"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Let me give you a number that stopped me cold: **Only 19% of autistic children can recognize when they're thirsty.**\n\nThink about that. Thirst is one of the most basic internal signals \u2014 a survival c"
+    },
+    {
+      "index": 3,
+      "name": "Testimonial (Social Proof)",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "*\"We've been doing scheduled sits for 2 years. He never goes on his own. I tried bribery, rewards, sticker charts, ABA protocols, special seats. Nothing changes the fundamental issue.\"*\n\n, Real L2 pa"
+    },
+    {
+      "index": 4,
+      "name": "Product Intro",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "The Body-Signal Learning Underwear is a 3-layer system, and each layer has one job:\n\n**Layer 1, Signal Creation (cotton inner)**\nThe cotton inner allows a gentle \"uh-oh\" sensation to reach the skin,"
+    },
+    {
+      "index": 5,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "**60 days. Your judgment.**\n\nHere's the honest truth: I don't know if the Body-Signal Learning Layer will work for your child. Every nervous system is different. What I do know is that the 60-day win"
+    },
+    {
+      "index": 6,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "**Button:** See the 3+3 Bundle, $79.99\n\n**Formula:** Action Verb + Benefit + Offer clarity\n\n**Micro-copy below button:** Free shipping included + 60-day guarantee\n\n**Secondary text link:** Start with"
+    }
+  ]
+}

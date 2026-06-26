@@ -1,0 +1,44 @@
+{
+  "email_id": "repa-15-e2",
+  "sections": [
+    {
+      "index": 0,
+      "type": "definition",
+      "component_id": "1",
+      "component_name": "The Body Signal Concept (Core Mechanism Visual) *(L34)*",
+      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+    },
+    {
+      "index": 1,
+      "type": "testimonial",
+      "component_id": "DEEP-13",
+      "component_name": "The Reverse Testimonial *(L9478)*",
+      "image_file": "accessories/cloth-pads-watermelon-astronaut-cat.png"
+    },
+    {
+      "index": 2,
+      "type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source) *(L641)*",
+      "image_file": "lifestyle/washing-machine-training-pants.png"
+    },
+    {
+      "index": 3,
+      "type": "guarantee",
+      "component_id": "BONUS-04",
+      "component_name": "Wax Seal *(L8909)*",
+      "image_file": "lifestyle/founders-holding-pants-yellow-watermelon.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-6",
+      "component_name": "Social CTA *(L6733)*",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+    }
+  ],
+  "stats": {
+    "image_count": 5,
+    "component_count": 5
+  }
+}

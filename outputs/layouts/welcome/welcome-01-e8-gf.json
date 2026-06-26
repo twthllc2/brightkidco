@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e8-gf",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HOOK",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "You've been reading these emails for three weeks. Maybe you've bookmarked a page. Maybe you've talked to your partner. Maybe you've watched your child and thought, \"I'm still not sure.\"\n\nThat's exact"
+    },
+    {
+      "index": 1,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 2,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "email_id": "faq-21-e3",
+  "flow_type": "faq-library",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Whether your child holds their pee for hours rather than sit on the toilet, screaming, arching, fighting every attempt, or they rip off whatever you put on them before you can finish fastening it, or"
+    },
+    {
+      "index": 1,
+      "name": "Validation",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "Let me say that again because I think it matters: your child is not being stubborn. They're not winning a battle of wills. They're not manipulating you.\n\nWhen a child screams at the sight of the pott"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism Reframe",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Here's what I learned, and what changed everything: the Body-Signal Learning Layer doesn't require your child to sit on the potty. It doesn't require compliance. It doesn't even require them to try."
+    },
+    {
+      "index": 3,
+      "name": "Social Proof / Testimonial",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "\"He fought every single thing, the potty, the underwear, the whole concept. I put the Body-Signal undies on during his favorite TV show. Didn't say a word. Three days later, I found him standing in f"
+    },
+    {
+      "index": 4,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60 days to try it. By your judgment. If your child shows no sign of awareness, no pause, no look down, no moment where you wonder \"did they feel something?\", full refund. No questions. The guarantee"
+    },
+    {
+      "index": 5,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** Learn how the Body-Signal Layer works with any child\n- **Secondary link text:** Still have questions? Hit reply, I read every response\n- **Placement:** Below guarantee section"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "email_id": "mary-14-e1",
+  "sections": [
+    {
+      "index": 0,
+      "type": "letter",
+      "component_id": "STORYDEEP-03",
+      "component_name": "The Letter From Future (uses Letter)",
+      "image_file": "flat-lay/diaper-woodland-creature-yellow.jpg"
+    },
+    {
+      "index": 1,
+      "type": "hero",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
+    },
+    {
+      "index": 2,
+      "type": "story",
+      "component_id": "STORY-14",
+      "component_name": "Micro-Story \u2014 Single powerful moment",
+      "image_file": "lifestyle/washing-machine-training-pants.png"
+    },
+    {
+      "index": 3,
+      "type": "definition",
+      "component_id": "EDU-7",
+      "component_name": "Myth vs Fact",
+      "image_file": "accessories/potty-targets-stickers-chart.png"
+    },
+    {
+      "index": 4,
+      "type": "testimonial",
+      "component_id": "DEEP-20",
+      "component_name": "The Community Thread",
+      "image_file": "lifestyle/toddler-backpack-moon-cloud-blue.png"
+    },
+    {
+      "index": 5,
+      "type": "cta",
+      "component_id": "CTADEEP-12",
+      "component_name": "The Anti-CTA",
+      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+    }
+  ]
+}

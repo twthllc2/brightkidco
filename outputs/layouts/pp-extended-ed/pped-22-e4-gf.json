@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e4-gf",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Section 1",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "Whether your child has been wearing Body-Signal underwear for a few weeks or a few months, you've probably noticed something. He sits when you prompt. He responds to the schedule. But he doesn't go on"
+    },
+    {
+      "index": 1,
+      "name": "Section 8",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Research from Nicholson et al. (2019) showed autistic children have significantly reduced ability to sense internal body signals. The signal isn't missing \u2014 it's arriving too late or too faintly. The"
+    },
+    {
+      "index": 2,
+      "name": "Section 16",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "That one initiation, after 4 years of prompting, schedules, protocols, nothing, is not a small thing. It's the first time the brain sent the signal before the parent did. That's not compliance. That's"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "email_id": "atrisk-23-e1",
+  "flow_type": "pp-at-risk",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HOOK",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "Haven't heard from you in a bit. So I thought I'd check in, how's it going?"
+    },
+    {
+      "index": 1,
+      "name": "VALIDATION",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "If the underwear is sitting in a drawer, that's okay. Some kids need a break. Some moms need a break. That's real. I took breaks too. My older son was 8 before we figured this out, and there were mont"
+    },
+    {
+      "index": 2,
+      "name": "MECHANISM",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Body-signal learning doesn't work on a timeline. Some kids process interoception at a different pace, and that pace isn't a reflection of you or your child. 49% of autistic 4-5 year olds aren't traine"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "If you want to tell me what's happening, whether things are going well, whether you hit a wall, whether you just needed a breather, reply to this email. I read every response.\n\nNo judgment. Just curio"
+    }
+  ]
+}

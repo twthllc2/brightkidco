@@ -1,0 +1,45 @@
+{
+  "email_id": "winback-a-19-e2-l1",
+  "sections": [
+    {
+      "section_name": "Product Showcase",
+      "section_type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "image_file": "training-pant-watermelon-pink.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "component_id": "DESDEEP-13",
+      "component_name": "The Badge System",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "Social Proof",
+      "section_type": "testimonial",
+      "component_id": "PSYCH-03",
+      "component_name": "Social Proof Cascade",
+      "image_file": "toddler-rearview-cat-mustard.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "The Science",
+      "section_type": "definition",
+      "component_id": "HERO-16",
+      "component_name": "Mechanism Tease",
+      "image_file": "training-pant-cloud-raindrop-white.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "CTA-8",
+      "component_name": "Dual CTA",
+      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

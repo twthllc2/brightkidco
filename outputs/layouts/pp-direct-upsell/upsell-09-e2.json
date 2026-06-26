@@ -1,0 +1,55 @@
+{
+  "email_id": "upsell-09-e2",
+  "flow_type": "pp-direct-upsell",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "You've got the Body-Signal underwear. You're in the early days of the learning phase. Here's what no one tells you about that: accidents aren't a sign it isn't working. They're the whole point. The w"
+    },
+    {
+      "index": 1,
+      "name": "Validation",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "The learning phase is messy. Intentionally. Your child needs to feel the wetness to build the neural pathway. That means some mornings you'll strip the bed. Some naps end with damp sheets. Some car r"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism Brief (Why This Item Is Different)",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Standard waterproof mattress protectors feel like what they are, plastic bags under a sheet. They crinkle. They trap heat. They turn the bed into an uncomfortable sensory experience, which is exactly"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof / Wrap-Around",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "\"Wish I'd bought this with my first order instead of my third.\", That's what an L2 mom told me after her second mattress protector purchase from a different brand. She'd bought ours a month after the"
+    },
+    {
+      "index": 4,
+      "name": "Product Introduction",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "The Mattress Protector ($24.99) fits mattresses up to 12 inches deep. Same cotton top that your child is already wearing in their Body-Signal underwear. Breathable waterproof membrane, so the mattres"
+    },
+    {
+      "index": 5,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "Same guarantee as everything we make: 60 days. If the protector doesn't fit, doesn't hold up, or doesn't make your life easier, full refund. No questions. Your judgment."
+    },
+    {
+      "index": 6,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** Protect your furniture during the learning phase\n- **Secondary link text:** Or add the Wash Bag too, $39.98 for both\n- **Placement:** After Product Introduction section (Section 5),"
+    }
+  ]
+}

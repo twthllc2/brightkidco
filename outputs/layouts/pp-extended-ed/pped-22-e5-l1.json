@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e5-l1",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 1,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 2,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 3,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "The 3+3 Bundle is still the best place to start if you haven't tried it yet, 6 pairs, free shipping, and the 60-day guarantee. If you already have pairs, one extra set means more learning time between"
+    }
+  ]
+}

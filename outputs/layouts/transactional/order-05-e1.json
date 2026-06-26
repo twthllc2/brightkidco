@@ -1,0 +1,41 @@
+{
+  "email_id": "order-05-e1",
+  "flow_type": "transactional",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Warm Welcome (Secondary, Lena Voice)",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Welcome to the family, for real.\n\nThat moment when you hit \"place order\", I know what was on your mind. Whether your child says \"I need to go\" after it's already happened, or doesn't react to being w"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#FFFFFF",
+      "content_preview": "60 days to try it. By your judgment. If it doesn't work for your child, full refund. No forms. No hoops. Just email us and we handle it."
+    },
+    {
+      "index": 2,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** Track your order\n- **Secondary link text:** Add the Wash Bag ($14.99)\n- **Placement:** Below Transactional Confirmation (above the fold) and below Cross-Sell Block (below the fold)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-a-19-e2-l2",
+  "flow_type": "winback-a",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Section 1",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "**Subject:** If it didn't click, here's what one BCBA tells her families"
+    },
+    {
+      "index": 1,
+      "name": "Section 8",
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "content_preview": "Her BCBA said: _\"Give it 8 more weeks. His body needs time to register a signal it's never received. The underwear doesn't teach him to use the toilet, it teaches his brain to feel the signal. That's"
+    },
+    {
+      "index": 2,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

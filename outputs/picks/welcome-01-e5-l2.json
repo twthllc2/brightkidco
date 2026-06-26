@@ -1,0 +1,50 @@
+{
+  "email_id": "welcome-01-e5-l2",
+  "sections": [
+    {
+      "section_type": "hero",
+      "section_name": "Hook \u2014 Mirroring the Skepticism",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "component_source": "G+",
+      "image_file": "swim-diaper-unicorn-pink.jpg",
+      "image_category": "flat-lay"
+    },
+    {
+      "section_type": "definition",
+      "section_name": "The Science",
+      "component_id": "FLOWDEEP-5",
+      "component_name": "Welcome E5 Science",
+      "component_source": "A*",
+      "image_file": "toddler-rearview-cat-mustard.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "product",
+      "section_name": "Product Showcase",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "component_source": "G",
+      "image_file": "training-pant-bunny-hearts-pink.jpg",
+      "image_category": "flat-lay"
+    },
+    {
+      "section_type": "guarantee",
+      "section_name": "Guarantee",
+      "component_id": "SP-05",
+      "component_name": "Trust Pill Strip",
+      "component_source": "G+",
+      "image_file": null,
+      "image_category": null
+    },
+    {
+      "section_type": "cta",
+      "section_name": "CTA",
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "component_source": "G+",
+      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

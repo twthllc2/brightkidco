@@ -1,0 +1,60 @@
+{
+  "email_id": "welcome-01-e1-l2",
+  "sections": [
+    {
+      "section_name": "Hook",
+      "section_type": "hero",
+      "component_id": "FLOWDEEP-1",
+      "component_name": "Welcome E1 Hook",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": [
+        "toddler-outdoors-grass-disposable-diaper.png"
+      ]
+    },
+    {
+      "section_name": "Product Showcase",
+      "section_type": "product",
+      "component_id": "ED1",
+      "component_name": "3-Layer Product Diagram",
+      "component_source": "A",
+      "giuliano": "agent_standard",
+      "image_files": [
+        "laundry-bag-llama-cream.png"
+      ]
+    },
+    {
+      "section_name": "Parent Story",
+      "section_type": "story",
+      "component_id": "STORY-05",
+      "component_name": "Diary Entry \u2014 Handwritten-style journal",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": [
+        "toddlers-backview-disposable-diapers.png"
+      ]
+    },
+    {
+      "section_name": "The Science",
+      "section_type": "definition",
+      "component_id": "EDU-5",
+      "component_name": "Infographic",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": [
+        "toddler-potty-ladder-pink-multicolor.png"
+      ]
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "CTADEEP-04",
+      "component_name": "The Curiosity Closer",
+      "component_source": "G+",
+      "giuliano": "giuliano_derived",
+      "image_files": [
+        "founders-holding-pants-yellow-watermelon.png"
+      ]
+    }
+  ]
+}

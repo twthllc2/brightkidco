@@ -1,0 +1,50 @@
+{
+  "email_id": "welcome-01-e1-l3",
+  "sections": [
+    {
+      "section_type": "hero",
+      "section_name": "Hook",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "component_source": "G+",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "story",
+      "section_name": "Parent Story",
+      "component_id": "STORY-05",
+      "component_name": "Diary Entry \u2014 Handwritten-style journal",
+      "component_source": "A*",
+      "image_file": "toddler-napping-watermelon-pink-shorts.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "definition",
+      "section_name": "The Science",
+      "component_id": "EDUDEEP-1",
+      "component_name": "The Research Digest",
+      "component_source": "A*",
+      "image_file": "toddler-playing-train-moon-cloud-blue.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "guarantee",
+      "section_name": "Guarantee",
+      "component_id": "SP-05",
+      "component_name": "Trust Pill Strip",
+      "component_source": "A*",
+      "image_file": "book-potty-training-guide.png",
+      "image_category": "accessories"
+    },
+    {
+      "section_type": "cta",
+      "section_name": "CTA",
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "component_source": "G+",
+      "image_file": null,
+      "image_category": null
+    }
+  ]
+}

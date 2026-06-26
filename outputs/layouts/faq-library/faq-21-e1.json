@@ -1,0 +1,41 @@
+{
+  "email_id": "faq-21-e1",
+  "flow_type": "faq-library",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Section 1",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "Lena from BrightKidCo\nCustomer Support \u00b7 Mom of two autistic sons"
+    },
+    {
+      "index": 1,
+      "name": "Section 6",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Research from Nicholson et al. (2019) shows many autistic children have something called diminished body awareness. The brain-body connection for internal signals, bladder fullness, thirst, the need t"
+    },
+    {
+      "index": 2,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFFBF0",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "email_id": "pped-22-e2-gf",
+  "sections": [
+    {
+      "index": 0,
+      "type": "definition",
+      "component_id": "DEEP-01",
+      "component_name": "The Unfinished Study",
+      "image_file": "accessories/towel-set-llama-cactus.png"
+    },
+    {
+      "index": 1,
+      "type": "testimonial",
+      "component_id": "SP-11",
+      "component_name": "Star Cascade",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+    },
+    {
+      "index": 2,
+      "type": "guarantee",
+      "component_id": "5",
+      "component_name": "60-Day Calm Promise",
+      "image_file": "flat-lay/diaper-woodland-creature-yellow.jpg"
+    },
+    {
+      "index": 3,
+      "type": "story",
+      "component_id": "STORYDEEP-04",
+      "component_name": "The Day In The Life",
+      "image_file": "lifestyle/washing-machine-training-pants.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-6",
+      "component_name": "Social CTA",
+      "image_file": "flat-lay/training-pant-watermelon-pink.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "email_id": "winback-a-19-e1-l3",
+  "flow_type": "winback-a",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Preheader Options",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "**Primary:**\nWe're not asking you to try again. Just reminding you what's here.\n\n**Secondary:**\n60 days, your timeline, no questions.\n\n**Tertiary:**\nYou know where we are when you need us.\n\n---"
+    },
+    {
+      "index": 1,
+      "name": "HOOK \u2014 Gentle Re-engagement",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "The underwear your child wore was designed around one idea: the body learns best when it gets the right signal.\n\nFor some children, that signal arrives quickly. For others, it takes time. For some, i"
+    },
+    {
+      "index": 2,
+      "name": "VALIDATION \u2014 Honor Their Choice",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "You've been doing this for years. You've seen products come and go. You've heard promises that didn't deliver.\n\nIf you put the underwear aside, that decision was valid. The product will be here. The"
+    },
+    {
+      "index": 3,
+      "name": "MECHANISM REMINDER \u2014 The Signal, Gently Reframed",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "The body-signal underwear works by giving the brain a sensation it may never have received before, a gentle, sustained \"uh-oh\" feeling that lasts 30 to 60 seconds after the moment passes.\n\nPull-ups w"
+    },
+    {
+      "index": 4,
+      "name": "Pre-Send QA Checklist",
+      "type": "feel",
+      "color": "#EAF6F2",
+      "content_preview": "| Check | Status |\n|-------|--------|\n| ZERO urgency indicators | \u2705 |\n| Dignity-first throughout | \u2705 |\n| Product after mechanism | \u2705 (mechanism fully explained before mention) |\n| 1pr $34.99 only | \u2705"
+    },
+    {
+      "index": 5,
+      "name": "CTA \u2014 Permission-Framed",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "You decide. No timeline. No push. If it fits your child's journey, it's here. If today's not the day, that's a real answer.\n\n---\n\n**Next time:** What parents who tried again discovered \u2014 and why the"
+    }
+  ]
+}

@@ -1,0 +1,5850 @@
+{
+  "section_types": {
+    "hero": [
+      "hero",
+      "opener",
+      "headline",
+      "hook",
+      "masthead",
+      "gradient hero"
+    ],
+    "letter": [
+      "letter",
+      "paragraph",
+      "text block",
+      "body text",
+      "story letter"
+    ],
+    "definition": [
+      "definition",
+      "mechanism",
+      "science",
+      "did you know",
+      "info",
+      "tip card"
+    ],
+    "reframe": [
+      "reframe",
+      "insight",
+      "mint block",
+      "creed",
+      "validation"
+    ],
+    "comparison": [
+      "comparison",
+      "method card",
+      "vs",
+      "before/after",
+      "checklist"
+    ],
+    "expert": [
+      "expert",
+      "quote card",
+      "pull quote",
+      "endorsement"
+    ],
+    "product": [
+      "product",
+      "showcase",
+      "feature grid",
+      "layer",
+      "bundle",
+      "detail"
+    ],
+    "feel": [
+      "feel",
+      "benefit",
+      "checklist",
+      "feature",
+      "what it feels"
+    ],
+    "testimonial": [
+      "testimonial",
+      "review",
+      "social proof",
+      "parent story",
+      "rating"
+    ],
+    "objections": [
+      "objection",
+      "faq",
+      "question",
+      "answer",
+      "wondering"
+    ],
+    "guarantee": [
+      "guarantee",
+      "seal",
+      "trust",
+      "badge",
+      "certification",
+      "promise"
+    ],
+    "cta": [
+      "cta",
+      "button",
+      "close",
+      "action",
+      "conversion"
+    ],
+    "story": [
+      "story",
+      "narrative",
+      "chapter",
+      "timeline",
+      "journey",
+      "diary"
+    ],
+    "steps": [
+      "step",
+      "path",
+      "method",
+      "journey",
+      "how it works",
+      "process"
+    ],
+    "code": [
+      "code",
+      "discount",
+      "promo",
+      "offer",
+      "coupon"
+    ],
+    "stat": [
+      "stat",
+      "number",
+      "counter",
+      "data",
+      "proof point"
+    ]
+  },
+  "components_by_section": {
+    "hero": [
+      {
+        "id": "HERO-20",
+        "name": "Handwritten Letter Opener (uses Letter)",
+        "source": "G+",
+        "line": 4270
+      },
+      {
+        "id": "HERO-13",
+        "name": "Scientific Hook",
+        "source": "A*",
+        "line": 4089
+      },
+      {
+        "id": "HERO-17",
+        "name": "Social Proof Hero",
+        "source": "A*",
+        "line": 4192
+      },
+      {
+        "id": "2.1",
+        "name": "Lilac Gradient Hero",
+        "source": "A",
+        "line": 364
+      },
+      {
+        "id": "2.2",
+        "name": "Warm Hero",
+        "source": "A",
+        "line": 390
+      },
+      {
+        "id": "2.3",
+        "name": "Teal CTA Hero",
+        "source": "A",
+        "line": 410
+      },
+      {
+        "id": "18.1",
+        "name": "Hi-Fi Gradient Hero + Discount Block",
+        "source": "A",
+        "line": 1735
+      },
+      {
+        "id": "22.3",
+        "name": "Circle Crop Hero",
+        "source": "A",
+        "line": 2070
+      },
+      {
+        "id": "23.1",
+        "name": "Magazine Masthead",
+        "source": "A",
+        "line": 2117
+      },
+      {
+        "id": "M1",
+        "name": "Emotional Hero (Storytelling Open)",
+        "source": "A",
+        "line": 2945
+      },
+      {
+        "id": "LETTER-02",
+        "name": "Handwritten Opener",
+        "source": "A*",
+        "line": 7797
+      },
+      {
+        "id": "DESDEEP-1",
+        "name": "The Gradient Hero",
+        "source": "A*",
+        "line": 13147
+      },
+      {
+        "id": "DESDEEP-7",
+        "name": "The Typography Hero",
+        "source": "A*",
+        "line": 13262
+      },
+      {
+        "id": "VSOCIAL-5",
+        "name": "Star Rating Hero",
+        "source": "A",
+        "line": 19878
+      },
+      {
+        "id": "17.1",
+        "name": "Hero Image with Stacked Shadow",
+        "source": "A",
+        "line": 1598
+      },
+      {
+        "id": "IMG-01",
+        "name": "Product Hero Image",
+        "source": "A",
+        "line": 18086
+      },
+      {
+        "id": "IMG-08",
+        "name": "UGC Hero",
+        "source": "A",
+        "line": 18310
+      },
+      {
+        "id": "IMG-20",
+        "name": "Hero with Photo Background",
+        "source": "A",
+        "line": 18718
+      },
+      {
+        "id": "FLOWIMG-001",
+        "name": "Welcome Hero",
+        "source": "A",
+        "line": 19482
+      },
+      {
+        "id": "DEEPIMG-1",
+        "name": "Product Hero Parallax",
+        "source": "A",
+        "line": 21028
+      },
+      {
+        "id": "DEEPUGC-1",
+        "name": "UGC Hero Spotlight",
+        "source": "A",
+        "line": 21796
+      },
+      {
+        "id": "DEEPPROD-1",
+        "name": "Product Hero 360",
+        "source": "A",
+        "line": 23358
+      },
+      {
+        "id": "DEEPPROD-10",
+        "name": "Product Lifestyle Hero",
+        "source": "A",
+        "line": 23604
+      },
+      {
+        "id": "TRUSTDEEP-10.1",
+        "name": "TRUSTDEEP-10.1 \u2014 Bundle Hero (Multi-Pack Showcase)",
+        "source": "A",
+        "line": 13558
+      },
+      {
+        "id": "TRUSTDEEP-16.1",
+        "name": "TRUSTDEEP-16.1 \u2014 Guarantee Hero (Risk-Reversal Centerpiece)",
+        "source": "A",
+        "line": 13874
+      },
+      {
+        "id": "PDISP-1",
+        "name": "Product Hero Image",
+        "source": "A",
+        "line": 15477
+      },
+      {
+        "id": "PRICE-1",
+        "name": "Price Hero",
+        "source": "A",
+        "line": 16108
+      },
+      {
+        "id": "FLOW-1",
+        "name": "Welcome Hook",
+        "source": "A*",
+        "line": 7121
+      },
+      {
+        "id": "FLOW-6",
+        "name": "Winback Opener",
+        "source": "A*",
+        "line": 7239
+      },
+      {
+        "id": "FLOWDEEP-1",
+        "name": "Welcome E1 Hook",
+        "source": "A*",
+        "line": 12513
+      },
+      {
+        "id": "CAMIMG-1",
+        "name": "Flash Sale Hero",
+        "source": "A",
+        "line": 18910
+      },
+      {
+        "id": "CAMIMG-3",
+        "name": "New Arrival Hero",
+        "source": "A",
+        "line": 18968
+      },
+      {
+        "id": "CAMIMG-6",
+        "name": "Seasonal Hero",
+        "source": "A",
+        "line": 19054
+      },
+      {
+        "id": "CAMIMG-11",
+        "name": "Giveaway Hero",
+        "source": "A",
+        "line": 19194
+      },
+      {
+        "id": "DEEPCAMP-01",
+        "name": "DEEPCAMP-01 \u2014 Seasonal Hero: Back to School",
+        "source": "A",
+        "line": 22495
+      },
+      {
+        "id": "DEEPCAMP-04",
+        "name": "DEEPCAMP-04 \u2014 Valentine's Day (Care-Themed Hero)",
+        "source": "A",
+        "line": 22592
+      },
+      {
+        "id": "DEEPCAMP-10",
+        "name": "DEEPCAMP-10 \u2014 Christmas Morning (Gift-Unwrap Hero)",
+        "source": "A",
+        "line": 22791
+      },
+      {
+        "id": "CSHOP-1",
+        "name": "Bestseller Hero",
+        "source": "A",
+        "line": 25015
+      },
+      {
+        "id": "CSHOP-10",
+        "name": "Flash Hero",
+        "source": "A",
+        "line": 25291
+      },
+      {
+        "id": "CSHOP-13",
+        "name": "New Arrival Hero",
+        "source": "A",
+        "line": 25384
+      },
+      {
+        "id": "CSHOP-16",
+        "name": "Restock Hero",
+        "source": "A",
+        "line": 25472
+      },
+      {
+        "id": "CSHOP-18",
+        "name": "Gift Hero",
+        "source": "A",
+        "line": 25539
+      }
+    ],
+    "letter": [
+      {
+        "id": "3.2",
+        "name": "Eyebrow Label (uses Eyebrow)",
+        "source": "G+",
+        "line": 450
+      },
+      {
+        "id": "13.2",
+        "name": "Letter & Envelope (uses Letter)",
+        "source": "G+",
+        "line": 1127
+      },
+      {
+        "id": "20.3",
+        "name": "Gradient Band Variants (uses Band)",
+        "source": "G+",
+        "line": 1889
+      },
+      {
+        "id": "26.5",
+        "name": "Dark Footer Bar (uses Footer)",
+        "source": "G+",
+        "line": 2361
+      },
+      {
+        "id": "UTIL-07",
+        "name": "Section Header (uses Header)",
+        "source": "G+",
+        "line": 7652
+      },
+      {
+        "id": "UTIL-06",
+        "name": "Preheader Bar",
+        "source": "A*",
+        "line": 7624
+      },
+      {
+        "id": "UTIL-08",
+        "name": "Nav Bar",
+        "source": "A*",
+        "line": 7682
+      },
+      {
+        "id": "DESDEEP-12",
+        "name": "The Gradient Text",
+        "source": "A*",
+        "line": 13360
+      },
+      {
+        "id": "1.1",
+        "name": "Brand Color Palette",
+        "source": "A",
+        "line": 286
+      },
+      {
+        "id": "1.3",
+        "name": "Gradient Text",
+        "source": "A",
+        "line": 346
+      },
+      {
+        "id": "11.2",
+        "name": "Reminder Bar",
+        "source": "A",
+        "line": 981
+      },
+      {
+        "id": "13.1",
+        "name": "Gentle Morning",
+        "source": "A",
+        "line": 1086
+      },
+      {
+        "id": "13.3",
+        "name": "Quiet Bedroom",
+        "source": "A",
+        "line": 1161
+      },
+      {
+        "id": "13.4",
+        "name": "Hand Holding",
+        "source": "A",
+        "line": 1198
+      },
+      {
+        "id": "13.6",
+        "name": "Paper Airplane",
+        "source": "A",
+        "line": 1257
+      },
+      {
+        "id": "13.7",
+        "name": "Signal Waves",
+        "source": "A",
+        "line": 1287
+      },
+      {
+        "id": "13.9",
+        "name": "Calm Sun",
+        "source": "A",
+        "line": 1342
+      },
+      {
+        "id": "15.2",
+        "name": "WImg (Image Placeholder)",
+        "source": "A",
+        "line": 1446
+      },
+      {
+        "id": "15.4",
+        "name": "WText, WHand, WMono",
+        "source": "A",
+        "line": 1478
+      },
+      {
+        "id": "15.5",
+        "name": "WNote (Annotation Callout)",
+        "source": "A",
+        "line": 1497
+      },
+      {
+        "id": "20.1",
+        "name": "Wave Divider",
+        "source": "A",
+        "line": 1858
+      },
+      {
+        "id": "20.2",
+        "name": "Dot Pattern Divider",
+        "source": "A",
+        "line": 1876
+      },
+      {
+        "id": "24.2",
+        "name": "SVG Sun/Cloud Decoration",
+        "source": "A",
+        "line": 2182
+      },
+      {
+        "id": "25.4",
+        "name": "Gradient Text on Dark (Neon Glow)",
+        "source": "A",
+        "line": 2256
+      },
+      {
+        "id": "26.6",
+        "name": "Wavy Underline SVG",
+        "source": "A",
+        "line": 2376
+      },
+      {
+        "id": "HERO-1",
+        "name": "Curiosity Gap",
+        "source": "A*",
+        "line": 3811
+      },
+      {
+        "id": "HERO-3",
+        "name": "Permission Open",
+        "source": "A*",
+        "line": 3857
+      },
+      {
+        "id": "HERO-5",
+        "name": "Mirror Moment",
+        "source": "A*",
+        "line": 3904
+      },
+      {
+        "id": "HERO-8",
+        "name": "Visual Metaphor",
+        "source": "A*",
+        "line": 3971
+      },
+      {
+        "id": "HERO-9",
+        "name": "Whisper Tone",
+        "source": "A*",
+        "line": 3996
+      },
+      {
+        "id": "HERO-10",
+        "name": "Bold Declaration",
+        "source": "A*",
+        "line": 4016
+      },
+      {
+        "id": "HERO-12",
+        "name": "Before Snapshot",
+        "source": "A*",
+        "line": 4062
+      },
+      {
+        "id": "HERO-14",
+        "name": "Quote Bomb",
+        "source": "A*",
+        "line": 4114
+      },
+      {
+        "id": "HERO-15",
+        "name": "Level Callout",
+        "source": "A*",
+        "line": 4136
+      },
+      {
+        "id": "HERO-18",
+        "name": "Guilt Absolution",
+        "source": "A*",
+        "line": 4221
+      },
+      {
+        "id": "PSYCH-05",
+        "name": "Curiosity Gap",
+        "source": "A*",
+        "line": 8578
+      },
+      {
+        "id": "4.1",
+        "name": "Letter Section (uses Letter)",
+        "source": "G+",
+        "line": 468
+      },
+      {
+        "id": "17.7",
+        "name": "Closing Letter (Before CTA) (uses Letter)",
+        "source": "G+",
+        "line": 1716
+      },
+      {
+        "id": "23.2",
+        "name": "Drop Cap Initial Letter (uses Letter)",
+        "source": "G+",
+        "line": 2133
+      },
+      {
+        "id": "UTIL-01",
+        "name": "Gradient Band (uses Band)",
+        "source": "G+",
+        "line": 7487
+      },
+      {
+        "id": "UTIL-05",
+        "name": "Signoff Card (uses Signoff)",
+        "source": "G+",
+        "line": 7600
+      },
+      {
+        "id": "LETTER-03",
+        "name": "Letter + Pull-Quote (uses Letter)",
+        "source": "G+",
+        "line": 7826
+      },
+      {
+        "id": "STORYDEEP-03",
+        "name": "The Letter From Future (uses Letter)",
+        "source": "G+",
+        "line": 9918
+      },
+      {
+        "id": "3",
+        "name": "Micro-Win Celebration",
+        "source": "A*",
+        "line": 82
+      },
+      {
+        "id": "4",
+        "name": "The Pull-Up Villain Card",
+        "source": "A*",
+        "line": 101
+      },
+      {
+        "id": "7",
+        "name": "Parent Stories (Emotional Proof)",
+        "source": "A*",
+        "line": 187
+      },
+      {
+        "id": "10",
+        "name": "Mini-Win Streak (Progress Tracker)",
+        "source": "A*",
+        "line": 260
+      },
+      {
+        "id": "STORY-12",
+        "name": "Milestone Tracker \u2014 Visual progress tracker",
+        "source": "A*",
+        "line": 4650
+      },
+      {
+        "id": "UTIL-02",
+        "name": "Divider Bar",
+        "source": "A*",
+        "line": 7509
+      },
+      {
+        "id": "UTIL-03",
+        "name": "Out-Line",
+        "source": "A*",
+        "line": 7543
+      },
+      {
+        "id": "LETTER-01",
+        "name": "Paragraph Stack",
+        "source": "A*",
+        "line": 7767
+      },
+      {
+        "id": "LETTER-05",
+        "name": "Manifesto Line",
+        "source": "A*",
+        "line": 7884
+      },
+      {
+        "id": "LETTER-06",
+        "name": "PS Teaser",
+        "source": "A*",
+        "line": 7910
+      },
+      {
+        "id": "LETTER-07",
+        "name": "Greeting Card",
+        "source": "A*",
+        "line": 7937
+      },
+      {
+        "id": "LETTER-08",
+        "name": "Voice Note",
+        "source": "A*",
+        "line": 7967
+      },
+      {
+        "id": "LETTER-09",
+        "name": "Double Column",
+        "source": "A*",
+        "line": 8000
+      },
+      {
+        "id": "LETTER-10",
+        "name": "Highlighted Passage",
+        "source": "A*",
+        "line": 8036
+      },
+      {
+        "id": "LETTER-11",
+        "name": "Margin Notes",
+        "source": "A*",
+        "line": 8064
+      },
+      {
+        "id": "LETTER-12",
+        "name": "Fragmented Text",
+        "source": "A*",
+        "line": 8096
+      },
+      {
+        "id": "PERS-01",
+        "name": "Level Greeting",
+        "source": "A*",
+        "line": 8129
+      },
+      {
+        "id": "PERS-04",
+        "name": "Dynamic Progress",
+        "source": "A*",
+        "line": 8221
+      },
+      {
+        "id": "PERS-05",
+        "name": "Avatar Recognition",
+        "source": "A*",
+        "line": 8253
+      },
+      {
+        "id": "DEEP-01",
+        "name": "The Unfinished Study",
+        "source": "A*",
+        "line": 9134
+      },
+      {
+        "id": "DEEP-02",
+        "name": "The Mom Confessional",
+        "source": "A*",
+        "line": 9160
+      },
+      {
+        "id": "DEEP-03",
+        "name": "The Pattern Break",
+        "source": "A*",
+        "line": 9184
+      },
+      {
+        "id": "DEEP-04",
+        "name": "The Sensory Description",
+        "source": "A*",
+        "line": 9217
+      },
+      {
+        "id": "DEEP-05",
+        "name": "The Before-After-Moment",
+        "source": "A*",
+        "line": 9245
+      },
+      {
+        "id": "DEEP-06",
+        "name": "The Whisper Network",
+        "source": "A*",
+        "line": 9272
+      },
+      {
+        "id": "DEEP-07",
+        "name": "The Evidence Chain",
+        "source": "A*",
+        "line": 9302
+      },
+      {
+        "id": "DEEP-08",
+        "name": "The Permission Paradox",
+        "source": "A*",
+        "line": 9331
+      },
+      {
+        "id": "DEEP-09",
+        "name": "The Invisible Struggle",
+        "source": "A*",
+        "line": 9359
+      },
+      {
+        "id": "DEEP-11",
+        "name": "The Guilt Audit",
+        "source": "A*",
+        "line": 9416
+      },
+      {
+        "id": "DEEP-12",
+        "name": "The Time Capsule",
+        "source": "A*",
+        "line": 9447
+      },
+      {
+        "id": "DEEP-14",
+        "name": "The Sensory Map",
+        "source": "A*",
+        "line": 9507
+      },
+      {
+        "id": "DEEP-16",
+        "name": "The Brain-Body Bridge",
+        "source": "A*",
+        "line": 9565
+      },
+      {
+        "id": "DEEP-17",
+        "name": "The Language Shift",
+        "source": "A*",
+        "line": 9595
+      },
+      {
+        "id": "DEEP-18",
+        "name": "The Celebration Deficit",
+        "source": "A*",
+        "line": 9621
+      },
+      {
+        "id": "DEEP-19",
+        "name": "The Signal Analogy",
+        "source": "A*",
+        "line": 9649
+      },
+      {
+        "id": "DEEP-20",
+        "name": "The Community Thread",
+        "source": "A*",
+        "line": 9681
+      },
+      {
+        "id": "DEEP-24",
+        "name": "The Sensory Inventory",
+        "source": "A*",
+        "line": 9803
+      },
+      {
+        "id": "STORYDEEP-01",
+        "name": "The Split Screen",
+        "source": "A*",
+        "line": 9870
+      },
+      {
+        "id": "STORYDEEP-04",
+        "name": "The Day In The Life",
+        "source": "A*",
+        "line": 9939
+      },
+      {
+        "id": "STORYDEEP-05",
+        "name": "The Conversation Thread",
+        "source": "A*",
+        "line": 9965
+      },
+      {
+        "id": "STORYDEEP-07",
+        "name": "The Season Metaphor",
+        "source": "A*",
+        "line": 10011
+      },
+      {
+        "id": "STORYDEEP-08",
+        "name": "The Recipe Card",
+        "source": "A*",
+        "line": 10036
+      },
+      {
+        "id": "STORYDEEP-10",
+        "name": "The Playlist",
+        "source": "A*",
+        "line": 10094
+      },
+      {
+        "id": "STORYDEEP-11",
+        "name": "The Weather Report",
+        "source": "A*",
+        "line": 10120
+      },
+      {
+        "id": "STORYDEEP-13",
+        "name": "The Movie Scene",
+        "source": "A*",
+        "line": 10170
+      },
+      {
+        "id": "STORYDEEP-14",
+        "name": "The Dictionary Entry",
+        "source": "A*",
+        "line": 10193
+      },
+      {
+        "id": "STORYDEEP-15",
+        "name": "The Museum Plaque",
+        "source": "A*",
+        "line": 10215
+      },
+      {
+        "id": "STORYDEEP-16",
+        "name": "The News Article",
+        "source": "A*",
+        "line": 10236
+      },
+      {
+        "id": "STORYDEEP-17",
+        "name": "The Comic Strip",
+        "source": "A*",
+        "line": 10257
+      },
+      {
+        "id": "STORYDEEP-18",
+        "name": "The Mixtape",
+        "source": "A*",
+        "line": 10290
+      },
+      {
+        "id": "STORYDEEP-19",
+        "name": "The Time Lapse",
+        "source": "A*",
+        "line": 10321
+      },
+      {
+        "id": "STORYDEEP-20",
+        "name": "The Field Notes",
+        "source": "A*",
+        "line": 10350
+      },
+      {
+        "id": "4.5",
+        "name": "Cream Callout",
+        "source": "A",
+        "line": 547
+      },
+      {
+        "id": "9.2",
+        "name": "Sticker Reasons",
+        "source": "A",
+        "line": 867
+      },
+      {
+        "id": "M7",
+        "name": "Recognition Block (Mobile)",
+        "source": "A",
+        "line": 3093
+      },
+      {
+        "id": "REV-03.2",
+        "name": "REV-03.2 \u2014 Logic Block (Worst-Case Reassurance)",
+        "source": "A",
+        "line": 20622
+      },
+      {
+        "id": "REV-04.2",
+        "name": "REV-04.2 \u2014 Savings Highlight Header (Spending Anchor)",
+        "source": "A",
+        "line": 20651
+      },
+      {
+        "id": "REV-06.4",
+        "name": "REV-06.4 \u2014 Reassurance Strip (60-Day + Free Returns)",
+        "source": "A",
+        "line": 20782
+      },
+      {
+        "id": "REV-10.2",
+        "name": "REV-10.2 \u2014 Lena Final (Lena's Last Word)",
+        "source": "A",
+        "line": 20994
+      },
+      {
+        "id": "19.2",
+        "name": "Chat Header (uses Header)",
+        "source": "G+",
+        "line": 1837
+      },
+      {
+        "id": "30.2",
+        "name": "Letter-Embedded Quote (uses Letter)",
+        "source": "G+",
+        "line": 2620
+      },
+      {
+        "id": "EDU-13",
+        "name": "Vocabulary Builder",
+        "source": "A*",
+        "line": 5589
+      },
+      {
+        "id": "EDU-14",
+        "name": "Quick Reference Card",
+        "source": "A*",
+        "line": 5619
+      },
+      {
+        "id": "EDU-15",
+        "name": "Interactive Quiz",
+        "source": "A*",
+        "line": 5649
+      },
+      {
+        "id": "PSYCH-01",
+        "name": "Anchoring",
+        "source": "A*",
+        "line": 8443
+      },
+      {
+        "id": "PSYCH-02",
+        "name": "Loss Aversion",
+        "source": "A*",
+        "line": 8472
+      },
+      {
+        "id": "PSYCH-04",
+        "name": "Commitment Escalation",
+        "source": "A*",
+        "line": 8546
+      },
+      {
+        "id": "PSYCH-06",
+        "name": "Permission Messaging",
+        "source": "A*",
+        "line": 8611
+      },
+      {
+        "id": "PSYCH-07",
+        "name": "Micro-Win Streak",
+        "source": "A*",
+        "line": 8645
+      },
+      {
+        "id": "PSYCH-08",
+        "name": "Endowment Effect",
+        "source": "A*",
+        "line": 8669
+      },
+      {
+        "id": "PSYCH-09",
+        "name": "Reciprocity",
+        "source": "A*",
+        "line": 8695
+      },
+      {
+        "id": "PSYCH-10",
+        "name": "Scarcity (Honest)",
+        "source": "A*",
+        "line": 8727
+      },
+      {
+        "id": "PSYCH-11",
+        "name": "Default Effect",
+        "source": "A*",
+        "line": 8758
+      },
+      {
+        "id": "PSYCH-12",
+        "name": "Choice Architecture",
+        "source": "A*",
+        "line": 8788
+      },
+      {
+        "id": "BONUS-01",
+        "name": "Scratch-to-Reveal",
+        "source": "A*",
+        "line": 8820
+      },
+      {
+        "id": "BONUS-02",
+        "name": "Card Stack",
+        "source": "A*",
+        "line": 8850
+      },
+      {
+        "id": "BONUS-03",
+        "name": "Pull Tab",
+        "source": "A*",
+        "line": 8879
+      },
+      {
+        "id": "BONUS-05",
+        "name": "Tape Strip",
+        "source": "A*",
+        "line": 8938
+      },
+      {
+        "id": "BONUS-06",
+        "name": "Paper Tear",
+        "source": "A*",
+        "line": 8973
+      },
+      {
+        "id": "BONUS-07",
+        "name": "Stamp Collection",
+        "source": "A*",
+        "line": 9002
+      },
+      {
+        "id": "BONUS-08",
+        "name": "Handwritten Arrow",
+        "source": "A*",
+        "line": 9035
+      },
+      {
+        "id": "BONUS-09",
+        "name": "Sticky Note",
+        "source": "A*",
+        "line": 9070
+      },
+      {
+        "id": "BONUS-10",
+        "name": "Envelope Flap",
+        "source": "A*",
+        "line": 9101
+      },
+      {
+        "id": "PRODEEP-3",
+        "name": "The Size Finder",
+        "source": "A*",
+        "line": 10437
+      },
+      {
+        "id": "PRODEEP-6",
+        "name": "The Wear Test",
+        "source": "A*",
+        "line": 10524
+      },
+      {
+        "id": "PRODEEP-7",
+        "name": "The Color Personality",
+        "source": "A*",
+        "line": 10553
+      },
+      {
+        "id": "EDUDEEP-1",
+        "name": "The Research Digest",
+        "source": "A*",
+        "line": 10646
+      },
+      {
+        "id": "EDUDEEP-3",
+        "name": "The Myth Factory",
+        "source": "A*",
+        "line": 10711
+      },
+      {
+        "id": "EDUDEEP-4",
+        "name": "The Interoception Test",
+        "source": "A*",
+        "line": 10745
+      },
+      {
+        "id": "EDUDEEP-5",
+        "name": "The Brain Map",
+        "source": "A*",
+        "line": 10773
+      },
+      {
+        "id": "EDUDEEP-8",
+        "name": "The Sensory Profile",
+        "source": "A*",
+        "line": 10866
+      },
+      {
+        "id": "EDUDEEP-9",
+        "name": "The Progress Metrics",
+        "source": "A*",
+        "line": 10898
+      },
+      {
+        "id": "EMODEEP-12",
+        "name": "The Micro-Win Celebration",
+        "source": "A*",
+        "line": 12308
+      },
+      {
+        "id": "PSYDEEP-1",
+        "name": "The Endowment Effect",
+        "source": "A*",
+        "line": 12789
+      },
+      {
+        "id": "PSYDEEP-2",
+        "name": "The IKEA Effect",
+        "source": "A*",
+        "line": 12806
+      },
+      {
+        "id": "PSYDEEP-3",
+        "name": "The Bandwagon Cascade",
+        "source": "A*",
+        "line": 12823
+      },
+      {
+        "id": "PSYDEEP-5",
+        "name": "The Anchoring Reset",
+        "source": "A*",
+        "line": 12865
+      },
+      {
+        "id": "PSYDEEP-6",
+        "name": "The Loss Frame",
+        "source": "A*",
+        "line": 12883
+      },
+      {
+        "id": "PSYDEEP-7",
+        "name": "The Commitment Bridge",
+        "source": "A*",
+        "line": 12900
+      },
+      {
+        "id": "PSYDEEP-8",
+        "name": "The Reciprocity Stack",
+        "source": "A*",
+        "line": 12922
+      },
+      {
+        "id": "PSYDEEP-10",
+        "name": "The Consistency Trigger",
+        "source": "A*",
+        "line": 12966
+      },
+      {
+        "id": "PSYDEEP-12",
+        "name": "The Default Advantage",
+        "source": "A*",
+        "line": 13011
+      },
+      {
+        "id": "PSYDEEP-13",
+        "name": "The Choice Reducer",
+        "source": "A*",
+        "line": 13031
+      },
+      {
+        "id": "PSYDEEP-14",
+        "name": "The Frame Shift",
+        "source": "A*",
+        "line": 13057
+      },
+      {
+        "id": "PSYDEEP-16",
+        "name": "The Optimism Bias",
+        "source": "A*",
+        "line": 13092
+      },
+      {
+        "id": "PSYDEEP-17",
+        "name": "The Default Effect",
+        "source": "A*",
+        "line": 13109
+      },
+      {
+        "id": "PSYDEEP-18",
+        "name": "The Peak-End Rule",
+        "source": "A*",
+        "line": 13130
+      },
+      {
+        "id": "DESDEEP-2",
+        "name": "The Split Personality",
+        "source": "A*",
+        "line": 13164
+      },
+      {
+        "id": "DESDEEP-3",
+        "name": "The Card Cascade",
+        "source": "A*",
+        "line": 13186
+      },
+      {
+        "id": "DESDEEP-5",
+        "name": "The Border Play",
+        "source": "A*",
+        "line": 13227
+      },
+      {
+        "id": "DESDEEP-6",
+        "name": "The Color Block",
+        "source": "A*",
+        "line": 13244
+      },
+      {
+        "id": "DESDEEP-9",
+        "name": "The Negative Space",
+        "source": "A*",
+        "line": 13305
+      },
+      {
+        "id": "DESDEEP-11",
+        "name": "The Rotated Elements",
+        "source": "A*",
+        "line": 13343
+      },
+      {
+        "id": "DESDEEP-14",
+        "name": "The Handwritten Touch",
+        "source": "A*",
+        "line": 13393
+      },
+      {
+        "id": "DESDEEP-15",
+        "name": "The Dark Mode",
+        "source": "A*",
+        "line": 13408
+      },
+      {
+        "id": "DESDEEP-16",
+        "name": "The Paper Texture",
+        "source": "A*",
+        "line": 13425
+      },
+      {
+        "id": "DESDEEP-17",
+        "name": "The Stamp Collection",
+        "source": "A*",
+        "line": 13448
+      },
+      {
+        "id": "DESDEEP-19",
+        "name": "The Tape & Pin",
+        "source": "A*",
+        "line": 13490
+      },
+      {
+        "id": "DESDEEP-20",
+        "name": "The Envelope Reveal",
+        "source": "A*",
+        "line": 13509
+      },
+      {
+        "id": "1.2",
+        "name": "Typography",
+        "source": "A",
+        "line": 322
+      },
+      {
+        "id": "8.2",
+        "name": "Checkmark List",
+        "source": "A",
+        "line": 788
+      },
+      {
+        "id": "13.8",
+        "name": "Sensory",
+        "source": "A",
+        "line": 1317
+      },
+      {
+        "id": "14.1",
+        "name": "Flow Overview Grid (25 Flows)",
+        "source": "A",
+        "line": 1393
+      },
+      {
+        "id": "16.1",
+        "name": "Tape (Scrapbook Tape Strip)",
+        "source": "A",
+        "line": 1538
+      },
+      {
+        "id": "18.2",
+        "name": "Free Guide / Lead Magnet Section",
+        "source": "A",
+        "line": 1759
+      },
+      {
+        "id": "19.1",
+        "name": "Chat Bubble (iMessage Style)",
+        "source": "A",
+        "line": 1811
+      },
+      {
+        "id": "22.1",
+        "name": "Highlighted Quote (Yellow Border)",
+        "source": "A",
+        "line": 2030
+      },
+      {
+        "id": "22.2",
+        "name": "Three-Family Bridge",
+        "source": "A",
+        "line": 2045
+      },
+      {
+        "id": "22.4",
+        "name": "Dark Mode Treatment",
+        "source": "A",
+        "line": 2084
+      },
+      {
+        "id": "22.5",
+        "name": "Dot-Grid Background (Scrapbook)",
+        "source": "A",
+        "line": 2099
+      },
+      {
+        "id": "25.1",
+        "name": "Neon Border Cards on Dark",
+        "source": "A",
+        "line": 2208
+      },
+      {
+        "id": "26.1",
+        "name": "White Bubble Overlap",
+        "source": "A",
+        "line": 2271
+      },
+      {
+        "id": "26.2",
+        "name": "Full-Width Color Block Sections",
+        "source": "A",
+        "line": 2289
+      },
+      {
+        "id": "27.3",
+        "name": "Shipping Address Card",
+        "source": "A",
+        "line": 2445
+      },
+      {
+        "id": "31.3",
+        "name": "Sensory Prep Tip Callout",
+        "source": "A",
+        "line": 2682
+      },
+      {
+        "id": "34.1",
+        "name": "Lavender Section (#F0EDF8)",
+        "source": "A",
+        "line": 2809
+      },
+      {
+        "id": "34.2",
+        "name": "Warm Beige Section (#F5F1EA)",
+        "source": "A",
+        "line": 2823
+      },
+      {
+        "id": "35.1",
+        "name": "Three Pillars Content Cards",
+        "source": "A",
+        "line": 2862
+      },
+      {
+        "id": "35.2",
+        "name": "Individual Checkmark Progress Cards",
+        "source": "A",
+        "line": 2887
+      },
+      {
+        "id": "M6",
+        "name": "Mini-Win Card (Mobile)",
+        "source": "A",
+        "line": 3069
+      },
+      {
+        "id": "ED3",
+        "name": "Interoception Explainer",
+        "source": "A",
+        "line": 3353
+      },
+      {
+        "id": "ED4",
+        "name": "Why It Works (3 Reasons)",
+        "source": "A",
+        "line": 3373
+      },
+      {
+        "id": "OBJ-02",
+        "name": "My Child Is Different",
+        "source": "A",
+        "line": 17208
+      },
+      {
+        "id": "OBJ-03",
+        "name": "Too Expensive Calculator",
+        "source": "A",
+        "line": 17245
+      },
+      {
+        "id": "OBJ-04",
+        "name": "Does It Work Evidence",
+        "source": "A",
+        "line": 17279
+      },
+      {
+        "id": "OBJ-05",
+        "name": "What If It Fails",
+        "source": "A",
+        "line": 17313
+      },
+      {
+        "id": "OBJ-07",
+        "name": "Too Late Reassurance",
+        "source": "A",
+        "line": 17388
+      },
+      {
+        "id": "OBJ-08",
+        "name": "School Solution",
+        "source": "A",
+        "line": 17422
+      },
+      {
+        "id": "OBJ-09",
+        "name": "Partner Disagrees Bridge",
+        "source": "A",
+        "line": 17459
+      },
+      {
+        "id": "OBJ-11",
+        "name": "GI Issues Connection",
+        "source": "A",
+        "line": 17534
+      },
+      {
+        "id": "OBJ-12",
+        "name": "Insurance Reality",
+        "source": "A",
+        "line": 17569
+      },
+      {
+        "id": "REV-07",
+        "name": "After Permission Reversal",
+        "source": "A",
+        "line": 17933
+      },
+      {
+        "id": "SP-01",
+        "name": "Yellow Quote Block",
+        "source": "A*",
+        "line": 4780
+      },
+      {
+        "id": "SP-10",
+        "name": "Influencer Mention",
+        "source": "A*",
+        "line": 5022
+      },
+      {
+        "id": "SP-11",
+        "name": "Star Cascade",
+        "source": "A*",
+        "line": 5053
+      },
+      {
+        "id": "LETTER-04",
+        "name": "Letter + Image Break (uses Letter)",
+        "source": "G+",
+        "line": 7855
+      },
+      {
+        "id": "SP-09",
+        "name": "UGC Photo Grid",
+        "source": "A*",
+        "line": 4994
+      },
+      {
+        "id": "SP-15",
+        "name": "Social Media Embed",
+        "source": "A*",
+        "line": 5171
+      },
+      {
+        "id": "STORYDEEP-06",
+        "name": "The Photo Memory",
+        "source": "A*",
+        "line": 9987
+      },
+      {
+        "id": "PRODEEP-4",
+        "name": "The Unboxing Video",
+        "source": "A*",
+        "line": 10464
+      },
+      {
+        "id": "24.1",
+        "name": "Polaroid / Photo Card",
+        "source": "A",
+        "line": 2166
+      },
+      {
+        "id": "SP3",
+        "name": "UGC Photo Grid",
+        "source": "A",
+        "line": 3230
+      },
+      {
+        "id": "IMG-07",
+        "name": "UGC Photo Grid",
+        "source": "A",
+        "line": 18274
+      },
+      {
+        "id": "IMG-09",
+        "name": "Lifestyle Grid (4-Panel)",
+        "source": "A",
+        "line": 18343
+      },
+      {
+        "id": "IMG-10",
+        "name": "Unboxing Sequence",
+        "source": "A",
+        "line": 18380
+      },
+      {
+        "id": "IMG-11",
+        "name": "Founder Portrait",
+        "source": "A",
+        "line": 18416
+      },
+      {
+        "id": "IMG-13",
+        "name": "Video Thumbnail",
+        "source": "A",
+        "line": 18484
+      },
+      {
+        "id": "IMG-14",
+        "name": "Instagram Embed",
+        "source": "A",
+        "line": 18512
+      },
+      {
+        "id": "IMG-16",
+        "name": "Size Guide Visual",
+        "source": "A",
+        "line": 18582
+      },
+      {
+        "id": "FLOWIMG-007",
+        "name": "Browse Nudge",
+        "source": "A",
+        "line": 19564
+      },
+      {
+        "id": "FLOWIMG-009",
+        "name": "Shipping Update",
+        "source": "A",
+        "line": 19592
+      },
+      {
+        "id": "FLOWIMG-010",
+        "name": "Unboxing Joy",
+        "source": "A",
+        "line": 19606
+      },
+      {
+        "id": "FLOWIMG-011",
+        "name": "First Week Tips",
+        "source": "A",
+        "line": 19620
+      },
+      {
+        "id": "FLOWIMG-014",
+        "name": "Replenishment",
+        "source": "A",
+        "line": 19662
+      },
+      {
+        "id": "FLOWIMG-015",
+        "name": "Referral Gift",
+        "source": "A",
+        "line": 19676
+      },
+      {
+        "id": "FLOWIMG-016",
+        "name": "Cross-Sell",
+        "source": "A",
+        "line": 19690
+      },
+      {
+        "id": "FLOWIMG-020",
+        "name": "Community Photo",
+        "source": "A",
+        "line": 19746
+      },
+      {
+        "id": "VSOCIAL-1",
+        "name": "Customer Photo + Quote",
+        "source": "A",
+        "line": 19762
+      },
+      {
+        "id": "VSOCIAL-3",
+        "name": "UGC Mosaic",
+        "source": "A",
+        "line": 19823
+      },
+      {
+        "id": "VSOCIAL-7",
+        "name": "Instagram Post Embed",
+        "source": "A",
+        "line": 19941
+      },
+      {
+        "id": "VSOCIAL-13",
+        "name": "Unboxing Photos",
+        "source": "A",
+        "line": 20127
+      },
+      {
+        "id": "VSOCIAL-15",
+        "name": "Mom + Child Photo",
+        "source": "A",
+        "line": 20192
+      },
+      {
+        "id": "VSOCIAL-19",
+        "name": "Social Media Screenshots",
+        "source": "A",
+        "line": 20314
+      },
+      {
+        "id": "VSOCIAL-20",
+        "name": "Community Wall",
+        "source": "A",
+        "line": 20338
+      },
+      {
+        "id": "DEEPIMG-3",
+        "name": "Image Hotspot",
+        "source": "A",
+        "line": 21086
+      },
+      {
+        "id": "DEEPIMG-4",
+        "name": "Carousel Placeholder",
+        "source": "A",
+        "line": 21117
+      },
+      {
+        "id": "DEEPIMG-5",
+        "name": "Zoom Lens Effect",
+        "source": "A",
+        "line": 21152
+      },
+      {
+        "id": "DEEPIMG-6",
+        "name": "Image Grid Masonry",
+        "source": "A",
+        "line": 21181
+      },
+      {
+        "id": "DEEPIMG-7",
+        "name": "Full-Bleed Lifestyle",
+        "source": "A",
+        "line": 21212
+      },
+      {
+        "id": "DEEPIMG-8",
+        "name": "Photo Strip",
+        "source": "A",
+        "line": 21237
+      },
+      {
+        "id": "DEEPIMG-9",
+        "name": "Duotone Image Treatment",
+        "source": "A",
+        "line": 21270
+      },
+      {
+        "id": "DEEPIMG-10",
+        "name": "Image Collage",
+        "source": "A",
+        "line": 21301
+      },
+      {
+        "id": "DEEPIMG-11",
+        "name": "Panoramic Banner",
+        "source": "A",
+        "line": 21330
+      },
+      {
+        "id": "DEEPIMG-12",
+        "name": "Floating Image Cards",
+        "source": "A",
+        "line": 21360
+      },
+      {
+        "id": "DEEPIMG-13",
+        "name": "Image with Gradient Overlay",
+        "source": "A",
+        "line": 21394
+      },
+      {
+        "id": "DEEPIMG-14",
+        "name": "Polaroid Collection",
+        "source": "A",
+        "line": 21422
+      },
+      {
+        "id": "DEEPIMG-18",
+        "name": "Image Stack",
+        "source": "A",
+        "line": 21543
+      },
+      {
+        "id": "DEEPIMG-19",
+        "name": "Lifestyle Mosaic",
+        "source": "A",
+        "line": 21571
+      },
+      {
+        "id": "DEEPIMG-21",
+        "name": "Emotional Moment",
+        "source": "A",
+        "line": 21638
+      },
+      {
+        "id": "DEEPIMG-25",
+        "name": "Cinematic Wide",
+        "source": "A",
+        "line": 21763
+      },
+      {
+        "id": "DEEPUGC-2",
+        "name": "UGC Carousel",
+        "source": "A",
+        "line": 21823
+      },
+      {
+        "id": "DEEPUGC-3",
+        "name": "UGC Grid 4x4",
+        "source": "A",
+        "line": 21848
+      },
+      {
+        "id": "DEEPUGC-5",
+        "name": "UGC Video Thumbnail",
+        "source": "A",
+        "line": 21903
+      },
+      {
+        "id": "DEEPUGC-8",
+        "name": "UGC Seasonal",
+        "source": "A",
+        "line": 21984
+      },
+      {
+        "id": "DEEPUGC-9",
+        "name": "UGC Family Grid",
+        "source": "A",
+        "line": 22012
+      },
+      {
+        "id": "DEEPUGC-10",
+        "name": "UGC Milestone",
+        "source": "A",
+        "line": 22044
+      },
+      {
+        "id": "DEEPUGC-14",
+        "name": "Community Mosaic",
+        "source": "A",
+        "line": 22162
+      },
+      {
+        "id": "DEEPUGC-16",
+        "name": "Doctor Photo Card",
+        "source": "A",
+        "line": 22216
+      },
+      {
+        "id": "DEEPUGC-17",
+        "name": "Team Photo",
+        "source": "A",
+        "line": 22247
+      },
+      {
+        "id": "DEEPUGC-19",
+        "name": "Manufacturing Photo",
+        "source": "A",
+        "line": 22298
+      },
+      {
+        "id": "DEEPUGC-20",
+        "name": "Material Source Photo",
+        "source": "A",
+        "line": 22326
+      },
+      {
+        "id": "DEEPUGC-21",
+        "name": "Lab Testing Photo",
+        "source": "A",
+        "line": 22352
+      },
+      {
+        "id": "DEEPUGC-24",
+        "name": "Event Photo",
+        "source": "A",
+        "line": 22436
+      },
+      {
+        "id": "DEEPUGC-25",
+        "name": "Social Media Montage",
+        "source": "A",
+        "line": 22465
+      },
+      {
+        "id": "PROD-2",
+        "name": "Side-by-Side",
+        "source": "A*",
+        "line": 5710
+      },
+      {
+        "id": "PROD-4",
+        "name": "Cross-Section",
+        "source": "A*",
+        "line": 5777
+      },
+      {
+        "id": "PROD-6",
+        "name": "Size Guide",
+        "source": "A*",
+        "line": 5833
+      },
+      {
+        "id": "PROD-8",
+        "name": "Lifestyle Collage",
+        "source": "A*",
+        "line": 5894
+      },
+      {
+        "id": "PROD-9",
+        "name": "Unboxing Experience",
+        "source": "A*",
+        "line": 5925
+      },
+      {
+        "id": "PROD-12",
+        "name": "What's Inside",
+        "source": "A*",
+        "line": 6019
+      },
+      {
+        "id": "CTADEEP-01",
+        "name": "The Value Stack",
+        "source": "A*",
+        "line": 11516
+      },
+      {
+        "id": "PDISP-5",
+        "name": "Colourway Picker",
+        "source": "A",
+        "line": 15597
+      },
+      {
+        "id": "PDISP-6",
+        "name": "Size Chart",
+        "source": "A",
+        "line": 15628
+      },
+      {
+        "id": "PDISP-7",
+        "name": "What's In The Box",
+        "source": "A",
+        "line": 15662
+      },
+      {
+        "id": "PRICE-3",
+        "name": "Cost Per Use",
+        "source": "A",
+        "line": 16156
+      },
+      {
+        "id": "PRICE-4",
+        "name": "Savings Calculator",
+        "source": "A",
+        "line": 16184
+      },
+      {
+        "id": "PRICE-7",
+        "name": "Free Shipping Threshold",
+        "source": "A",
+        "line": 16275
+      },
+      {
+        "id": "PRICE-8",
+        "name": "Payment Options",
+        "source": "A",
+        "line": 16307
+      },
+      {
+        "id": "PRICE-9",
+        "name": "Value Stack",
+        "source": "A",
+        "line": 16341
+      },
+      {
+        "id": "PRICE-10",
+        "name": "Price Anchor",
+        "source": "A",
+        "line": 16367
+      },
+      {
+        "id": "PRICE-12",
+        "name": "Subscription Price",
+        "source": "A",
+        "line": 16422
+      },
+      {
+        "id": "PRICE-14",
+        "name": "Price Transparency",
+        "source": "A",
+        "line": 16481
+      },
+      {
+        "id": "PRICE-15",
+        "name": "Price Confidence",
+        "source": "A",
+        "line": 16515
+      },
+      {
+        "id": "PRICE-17",
+        "name": "Price Match",
+        "source": "A",
+        "line": 16573
+      },
+      {
+        "id": "PRICE-19",
+        "name": "Gift Price",
+        "source": "A",
+        "line": 16632
+      },
+      {
+        "id": "PRICE-20",
+        "name": "Price Reassurance",
+        "source": "A",
+        "line": 16659
+      },
+      {
+        "id": "10.1",
+        "name": "60-Day Seal (alias for PartBadge/Letter)",
+        "source": "G+",
+        "line": 887
+      },
+      {
+        "id": "CMP-2",
+        "name": "Tilted Sticker Reasons",
+        "source": "A*",
+        "line": 6087
+      },
+      {
+        "id": "CMP-7",
+        "name": "Scorecard Showdown",
+        "source": "A*",
+        "line": 6246
+      },
+      {
+        "id": "CMP-9",
+        "name": "Decision Tree",
+        "source": "A*",
+        "line": 6313
+      },
+      {
+        "id": "CMP-10",
+        "name": "6-Month Cost Analysis",
+        "source": "A*",
+        "line": 6347
+      },
+      {
+        "id": "TRUST-4",
+        "name": "Dashed Policy Quote",
+        "source": "A*",
+        "line": 6476
+      },
+      {
+        "id": "TRUSTDEEP-1",
+        "name": "The Evidence Cascade",
+        "source": "A*",
+        "line": 10930
+      },
+      {
+        "id": "TRUSTDEEP-7",
+        "name": "The Community Map",
+        "source": "A*",
+        "line": 11120
+      },
+      {
+        "id": "TRUSTDEEP-11",
+        "name": "The Research Bar",
+        "source": "A*",
+        "line": 11248
+      },
+      {
+        "id": "TRUSTDEEP-15",
+        "name": "The Honest Negative",
+        "source": "A*",
+        "line": 11384
+      },
+      {
+        "id": "8.3",
+        "name": "Covered / Not Covered",
+        "source": "A",
+        "line": 818
+      },
+      {
+        "id": "21.3",
+        "name": "Urgency Banner",
+        "source": "A",
+        "line": 1949
+      },
+      {
+        "id": "21.4",
+        "name": "Countdown Timer",
+        "source": "A",
+        "line": 1968
+      },
+      {
+        "id": "21.5",
+        "name": "Progress Bar",
+        "source": "A",
+        "line": 1986
+      },
+      {
+        "id": "29.4",
+        "name": "Multi-Quote Recognition Card",
+        "source": "A",
+        "line": 2555
+      },
+      {
+        "id": "TG3",
+        "name": "Return Policy",
+        "source": "A",
+        "line": 3657
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Cost Savings Callout",
+        "source": "A",
+        "line": 15127
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Risk Reversal Stack",
+        "source": "A",
+        "line": 15156
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Community Proof",
+        "source": "A",
+        "line": 15186
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Urgency Alternative",
+        "source": "A",
+        "line": 15386
+      },
+      {
+        "id": "6",
+        "name": "Avatar Recognition Block (\"Which one sounds like your child?\")",
+        "source": "A*",
+        "line": 158
+      },
+      {
+        "id": "CTA-1",
+        "name": "Dark Block",
+        "source": "A*",
+        "line": 6640
+      },
+      {
+        "id": "CTA-2",
+        "name": "Soft Link",
+        "source": "A*",
+        "line": 6658
+      },
+      {
+        "id": "CTA-4",
+        "name": "Gentle Invite",
+        "source": "A*",
+        "line": 6692
+      },
+      {
+        "id": "CTA-7",
+        "name": "Next Teaser",
+        "source": "A*",
+        "line": 6751
+      },
+      {
+        "id": "CTA-10",
+        "name": "Countdown Honest",
+        "source": "A*",
+        "line": 6809
+      },
+      {
+        "id": "CTADEEP-02",
+        "name": "The Risk Reversal",
+        "source": "A*",
+        "line": 11542
+      },
+      {
+        "id": "CTADEEP-07",
+        "name": "The Commitment Ladder",
+        "source": "A*",
+        "line": 11677
+      },
+      {
+        "id": "CTADEEP-13",
+        "name": "The Countdown Honest",
+        "source": "A*",
+        "line": 11837
+      },
+      {
+        "id": "EMODEEP-03",
+        "name": "The Permission Letter (uses Letter)",
+        "source": "G+",
+        "line": 12044
+      },
+      {
+        "id": "EMODEEP-18",
+        "name": "The Letter From Lena (uses Letter)",
+        "source": "G+",
+        "line": 12491
+      },
+      {
+        "id": "EMO-1",
+        "name": "Permission Slip",
+        "source": "A*",
+        "line": 6867
+      },
+      {
+        "id": "EMO-2",
+        "name": "Micro-Win Card",
+        "source": "A*",
+        "line": 6884
+      },
+      {
+        "id": "EMO-3",
+        "name": "Guilt Reduction",
+        "source": "A*",
+        "line": 6907
+      },
+      {
+        "id": "EMO-6",
+        "name": "Parent Quote",
+        "source": "A*",
+        "line": 6962
+      },
+      {
+        "id": "EMO-7",
+        "name": "You're Not Alone",
+        "source": "A*",
+        "line": 6987
+      },
+      {
+        "id": "EMO-8",
+        "name": "Grief Acknowledgment",
+        "source": "A*",
+        "line": 7008
+      },
+      {
+        "id": "EMO-10",
+        "name": "Patience Meter",
+        "source": "A*",
+        "line": 7056
+      },
+      {
+        "id": "EMO-11",
+        "name": "Break Permission",
+        "source": "A*",
+        "line": 7084
+      },
+      {
+        "id": "EMO-12",
+        "name": "Hope Gradient",
+        "source": "A*",
+        "line": 7103
+      },
+      {
+        "id": "DEEP-23",
+        "name": "The Permission Slip",
+        "source": "A*",
+        "line": 9772
+      },
+      {
+        "id": "DEEP-25",
+        "name": "The Hope Gradient",
+        "source": "A*",
+        "line": 9833
+      },
+      {
+        "id": "EMODEEP-02",
+        "name": "The Quiet Victory",
+        "source": "A*",
+        "line": 12020
+      },
+      {
+        "id": "EMODEEP-05",
+        "name": "The Hope Spectrum",
+        "source": "A*",
+        "line": 12102
+      },
+      {
+        "id": "EMODEEP-06",
+        "name": "The Community Embrace",
+        "source": "A*",
+        "line": 12130
+      },
+      {
+        "id": "EMODEEP-07",
+        "name": "The Strength Inventory",
+        "source": "A*",
+        "line": 12158
+      },
+      {
+        "id": "EMODEEP-08",
+        "name": "The Patience Meter",
+        "source": "A*",
+        "line": 12189
+      },
+      {
+        "id": "EMODEEP-10",
+        "name": "The Break Permission",
+        "source": "A*",
+        "line": 12248
+      },
+      {
+        "id": "EMODEEP-11",
+        "name": "The Future Vision",
+        "source": "A*",
+        "line": 12280
+      },
+      {
+        "id": "EMODEEP-13",
+        "name": "The Self-Compassion Prompt",
+        "source": "A*",
+        "line": 12343
+      },
+      {
+        "id": "EMODEEP-15",
+        "name": "The Emotional Weather",
+        "source": "A*",
+        "line": 12395
+      },
+      {
+        "id": "EMODEEP-16",
+        "name": "The Courage Acknowledgment",
+        "source": "A*",
+        "line": 12429
+      },
+      {
+        "id": "EMODEEP-17",
+        "name": "The Safe Space",
+        "source": "A*",
+        "line": 12459
+      },
+      {
+        "id": "EJ2",
+        "name": "You're Not Alone",
+        "source": "A",
+        "line": 3428
+      },
+      {
+        "id": "EJ3",
+        "name": "Permission Slip",
+        "source": "A",
+        "line": 3450
+      },
+      {
+        "id": "FLOW-2",
+        "name": "Discovery Moment",
+        "source": "A*",
+        "line": 7145
+      },
+      {
+        "id": "FLOW-3",
+        "name": "Decision Helper",
+        "source": "A*",
+        "line": 7166
+      },
+      {
+        "id": "FLOW-4",
+        "name": "Cart Reminder",
+        "source": "A*",
+        "line": 7192
+      },
+      {
+        "id": "FLOW-8",
+        "name": "Post-Purchase Education",
+        "source": "A*",
+        "line": 7281
+      },
+      {
+        "id": "FLOW-9",
+        "name": "Shipping Tracker",
+        "source": "A*",
+        "line": 7309
+      },
+      {
+        "id": "FLOW-11",
+        "name": "Browse Abandon",
+        "source": "A*",
+        "line": 7365
+      },
+      {
+        "id": "FLOW-12",
+        "name": "Level Detection",
+        "source": "A*",
+        "line": 7388
+      },
+      {
+        "id": "FLOW-13",
+        "name": "Replenishment Reminder",
+        "source": "A*",
+        "line": 7415
+      },
+      {
+        "id": "FLOW-14",
+        "name": "Sunset Warning",
+        "source": "A*",
+        "line": 7443
+      },
+      {
+        "id": "FLOW-15",
+        "name": "Referral Ask",
+        "source": "A*",
+        "line": 7463
+      },
+      {
+        "id": "PERS-02",
+        "name": "Behavioral Trigger",
+        "source": "A*",
+        "line": 8164
+      },
+      {
+        "id": "PERS-06",
+        "name": "Name Personalization",
+        "source": "A*",
+        "line": 8281
+      },
+      {
+        "id": "PERS-08",
+        "name": "Engagement Score",
+        "source": "A*",
+        "line": 8342
+      },
+      {
+        "id": "PERS-09",
+        "name": "Location Awareness",
+        "source": "A*",
+        "line": 8374
+      },
+      {
+        "id": "PERS-10",
+        "name": "Time-Based",
+        "source": "A*",
+        "line": 8408
+      },
+      {
+        "id": "FLOWDEEP-2",
+        "name": "Welcome E2 Discovery",
+        "source": "A*",
+        "line": 12526
+      },
+      {
+        "id": "FLOWDEEP-3",
+        "name": "Welcome E3 Decision",
+        "source": "A*",
+        "line": 12540
+      },
+      {
+        "id": "FLOWDEEP-4",
+        "name": "Welcome E4 Wisdom",
+        "source": "A*",
+        "line": 12554
+      },
+      {
+        "id": "FLOWDEEP-6",
+        "name": "Cart E1 Gentle Reminder",
+        "source": "A*",
+        "line": 12582
+      },
+      {
+        "id": "FLOWDEEP-7",
+        "name": "Cart E2 Founder Touch",
+        "source": "A*",
+        "line": 12595
+      },
+      {
+        "id": "FLOWDEEP-9",
+        "name": "Browse Abandon Nudge",
+        "source": "A*",
+        "line": 12622
+      },
+      {
+        "id": "FLOWDEEP-10",
+        "name": "Checkout Abandon Reassurance",
+        "source": "A*",
+        "line": 12636
+      },
+      {
+        "id": "FLOWDEEP-11",
+        "name": "Post-Purchase E1 Welcome",
+        "source": "A*",
+        "line": 12650
+      },
+      {
+        "id": "FLOWDEEP-12",
+        "name": "Post-Purchase E2 Setup",
+        "source": "A*",
+        "line": 12663
+      },
+      {
+        "id": "FLOWDEEP-13",
+        "name": "Post-Purchase E3 Check-in",
+        "source": "A*",
+        "line": 12677
+      },
+      {
+        "id": "FLOWDEEP-14",
+        "name": "Winback E1 Reconnection",
+        "source": "A*",
+        "line": 12691
+      },
+      {
+        "id": "FLOWDEEP-15",
+        "name": "Winback E2 Update",
+        "source": "A*",
+        "line": 12704
+      },
+      {
+        "id": "FLOWDEEP-17",
+        "name": "Shipping Tracker",
+        "source": "A*",
+        "line": 12731
+      },
+      {
+        "id": "FLOWDEEP-19",
+        "name": "Referral Share",
+        "source": "A*",
+        "line": 12759
+      },
+      {
+        "id": "FLOWDEEP-20",
+        "name": "Sunset Goodbye",
+        "source": "A*",
+        "line": 12773
+      },
+      {
+        "id": "FS1",
+        "name": "Cart Recovery (Soft Urgency)",
+        "source": "A",
+        "line": 3500
+      },
+      {
+        "id": "FS2",
+        "name": "Winback Re-engagement",
+        "source": "A",
+        "line": 3519
+      },
+      {
+        "id": "FS3",
+        "name": "Post-Purchase Welcome",
+        "source": "A",
+        "line": 3536
+      },
+      {
+        "id": "FS4",
+        "name": "Level Detection Survey",
+        "source": "A",
+        "line": 3554
+      },
+      {
+        "id": "FS5",
+        "name": "Referral Invite",
+        "source": "A",
+        "line": 3577
+      },
+      {
+        "id": "PC1",
+        "name": "Level-Specific Greeting",
+        "source": "A",
+        "line": 3752
+      },
+      {
+        "id": "PC2",
+        "name": "Behavioral Trigger",
+        "source": "A",
+        "line": 3769
+      },
+      {
+        "id": "CFLOW-1",
+        "name": "Cart Abandon E1: Gentle Reminder (30 min)",
+        "source": "A",
+        "line": 14320
+      },
+      {
+        "id": "CFLOW-6",
+        "name": "Browse Abandon E1: Recommendation (2 hr)",
+        "source": "A",
+        "line": 14461
+      },
+      {
+        "id": "CFLOW-7",
+        "name": "Browse Abandon E2: Educational (48 hr)",
+        "source": "A",
+        "line": 14493
+      },
+      {
+        "id": "CFLOW-8",
+        "name": "Post-Purchase E1: Order Confirmed (Immediate)",
+        "source": "A",
+        "line": 14525
+      },
+      {
+        "id": "CFLOW-9",
+        "name": "Post-Purchase E2: Shipping Update (Day 2-3)",
+        "source": "A",
+        "line": 14553
+      },
+      {
+        "id": "CFLOW-10",
+        "name": "Post-Purchase E3: How-To Guide (Day 5-7)",
+        "source": "A",
+        "line": 14584
+      },
+      {
+        "id": "CFLOW-14",
+        "name": "Winback E1: We Miss You (Day 45)",
+        "source": "A",
+        "line": 14702
+      },
+      {
+        "id": "CFLOW-15",
+        "name": "Winback E2: What's New (Day 75)",
+        "source": "A",
+        "line": 14729
+      },
+      {
+        "id": "CFLOW-16",
+        "name": "Winback E3: Last Chance (Day 90)",
+        "source": "A",
+        "line": 14762
+      },
+      {
+        "id": "CFLOW-17",
+        "name": "Replenishment: Time to Restock (Day 25)",
+        "source": "A",
+        "line": 14790
+      },
+      {
+        "id": "CFLOW-18",
+        "name": "Referral Ask: Share the Love (Day 20)",
+        "source": "A",
+        "line": 14821
+      },
+      {
+        "id": "CFLOW-19",
+        "name": "Level Detection: Customer Segment ID",
+        "source": "A",
+        "line": 14850
+      },
+      {
+        "id": "FLOWIMG-005",
+        "name": "Cart Reminder",
+        "source": "A",
+        "line": 19536
+      },
+      {
+        "id": "FLOWIMG-008",
+        "name": "Post-Purchase Welcome",
+        "source": "A",
+        "line": 19578
+      },
+      {
+        "id": "FLOWIMG-018",
+        "name": "Level Detection",
+        "source": "A",
+        "line": 19718
+      },
+      {
+        "id": "FLOWIMG-019",
+        "name": "Sunset Farewell",
+        "source": "A",
+        "line": 19732
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Cart E1: Gentle Reminder",
+        "source": "A",
+        "line": 24270
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Cart E2: Founder Touch",
+        "source": "A",
+        "line": 24330
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Checkout E1: Order Summary",
+        "source": "A",
+        "line": 24395
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "PP E1: Order Confirmation",
+        "source": "A",
+        "line": 24577
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "PP E2: Setup Guide",
+        "source": "A",
+        "line": 24608
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "PP E3: Check-in",
+        "source": "A",
+        "line": 24638
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Cross-Sell E1: Complementary",
+        "source": "A",
+        "line": 24700
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Cross-Sell E3: Subscription",
+        "source": "A",
+        "line": 24762
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Winback E1: Reconnection",
+        "source": "A",
+        "line": 24795
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Winback E2: What's New",
+        "source": "A",
+        "line": 24825
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Winback E3: Final",
+        "source": "A",
+        "line": 24854
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Replenish E1: Restock",
+        "source": "A",
+        "line": 24885
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Replenish E2: Subscription Push",
+        "source": "A",
+        "line": 24919
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Referral: Thank You",
+        "source": "A",
+        "line": 24981
+      },
+      {
+        "id": "CAMIMG-17",
+        "name": "Email Header Image (uses Header)",
+        "source": "G+",
+        "line": 19358
+      },
+      {
+        "id": "CAMIMG-2",
+        "name": "Bestseller Grid",
+        "source": "A",
+        "line": 18937
+      },
+      {
+        "id": "CAMIMG-4",
+        "name": "Back in Stock",
+        "source": "A",
+        "line": 18996
+      },
+      {
+        "id": "CAMIMG-5",
+        "name": "Gift Guide Section",
+        "source": "A",
+        "line": 19023
+      },
+      {
+        "id": "CAMIMG-8",
+        "name": "Sale Banner",
+        "source": "A",
+        "line": 19112
+      },
+      {
+        "id": "CAMIMG-10",
+        "name": "UGC Campaign Grid",
+        "source": "A",
+        "line": 19168
+      },
+      {
+        "id": "CAMIMG-12",
+        "name": "Referral Visual",
+        "source": "A",
+        "line": 19221
+      },
+      {
+        "id": "CAMIMG-13",
+        "name": "VIP Exclusive",
+        "source": "A",
+        "line": 19252
+      },
+      {
+        "id": "CAMIMG-14",
+        "name": "Restock Alert",
+        "source": "A",
+        "line": 19277
+      },
+      {
+        "id": "CAMIMG-15",
+        "name": "Holiday Gift Set",
+        "source": "A",
+        "line": 19304
+      },
+      {
+        "id": "CAMIMG-18",
+        "name": "Collection Grid",
+        "source": "A",
+        "line": 19387
+      },
+      {
+        "id": "CAMIMG-19",
+        "name": "Lookbook Page",
+        "source": "A",
+        "line": 19420
+      },
+      {
+        "id": "DEEPCAMP-02",
+        "name": "DEEPCAMP-02 \u2014 Summer Collection (Sun-Fade + Quick-Dry)",
+        "source": "A",
+        "line": 22525
+      },
+      {
+        "id": "DEEPCAMP-03",
+        "name": "DEEPCAMP-03 \u2014 Holiday Gift Guide (Gift-Wrapped BSL Pants)",
+        "source": "A",
+        "line": 22554
+      },
+      {
+        "id": "DEEPCAMP-05",
+        "name": "DEEPCAMP-05 \u2014 Mother's Day (Mom-Self-Care Frame)",
+        "source": "A",
+        "line": 22621
+      },
+      {
+        "id": "DEEPCAMP-06",
+        "name": "DEEPCAMP-06 \u2014 Father's Day (Dad-Helper Frame)",
+        "source": "A",
+        "line": 22659
+      },
+      {
+        "id": "DEEPCAMP-07",
+        "name": "DEEPCAMP-07 \u2014 Easter Basket (Spring Collection)",
+        "source": "A",
+        "line": 22689
+      },
+      {
+        "id": "DEEPCAMP-08",
+        "name": "DEEPCAMP-08 \u2014 Halloween Fun (Costume-Ready Frame)",
+        "source": "A",
+        "line": 22724
+      },
+      {
+        "id": "DEEPCAMP-09",
+        "name": "DEEPCAMP-09 \u2014 Thanksgiving (Gratitude + Family)",
+        "source": "A",
+        "line": 22762
+      },
+      {
+        "id": "DEEPCAMP-11",
+        "name": "DEEPCAMP-11 \u2014 New Year Fresh Start (Reset Frame)",
+        "source": "A",
+        "line": 22824
+      },
+      {
+        "id": "DEEPCAMP-12",
+        "name": "DEEPCAMP-12 \u2014 Spring Refresh (New-Season Drop)",
+        "source": "A",
+        "line": 22867
+      },
+      {
+        "id": "DEEPCAMP-13",
+        "name": "DEEPCAMP-13 \u2014 Fall Cozy (Warm-Tones Collection)",
+        "source": "A",
+        "line": 22897
+      },
+      {
+        "id": "DEEPCAMP-14",
+        "name": "DEEPCAMP-14 \u2014 Winter Warm (Cold-Weather Frame)",
+        "source": "A",
+        "line": 22937
+      },
+      {
+        "id": "DEEPCAMP-17",
+        "name": "DEEPCAMP-17 \u2014 Limited Edition (Rare-Colorway Drop)",
+        "source": "A",
+        "line": 23039
+      },
+      {
+        "id": "DEEPCAMP-18",
+        "name": "DEEPCAMP-18 \u2014 Color Drop (New-Colorway Reveal)",
+        "source": "A",
+        "line": 23070
+      },
+      {
+        "id": "DEEPCAMP-19",
+        "name": "DEEPCAMP-19 \u2014 Collaboration (Co-Brand Campaign)",
+        "source": "A",
+        "line": 23099
+      },
+      {
+        "id": "DEEPCAMP-20",
+        "name": "DEEPCAMP-20 \u2014 Anniversary Celebration (Milestone Year)",
+        "source": "A",
+        "line": 23132
+      },
+      {
+        "id": "DEEPCAMP-21",
+        "name": "DEEPCAMP-21 \u2014 Customer Appreciation (Thank-You Frame)",
+        "source": "A",
+        "line": 23169
+      },
+      {
+        "id": "CSHOP-2",
+        "name": "Bestseller Grid",
+        "source": "A",
+        "line": 25046
+      },
+      {
+        "id": "CSHOP-4",
+        "name": "Bestseller A/B",
+        "source": "A",
+        "line": 25113
+      },
+      {
+        "id": "CSHOP-5",
+        "name": "Bestseller Carousel",
+        "source": "A",
+        "line": 25141
+      },
+      {
+        "id": "CSHOP-6",
+        "name": "Launch Teaser",
+        "source": "A",
+        "line": 25173
+      },
+      {
+        "id": "CSHOP-7",
+        "name": "Launch Reveal",
+        "source": "A",
+        "line": 25202
+      },
+      {
+        "id": "CSHOP-8",
+        "name": "Launch Deep Dive",
+        "source": "A",
+        "line": 25232
+      },
+      {
+        "id": "CSHOP-9",
+        "name": "Launch Social",
+        "source": "A",
+        "line": 25260
+      },
+      {
+        "id": "CSHOP-11",
+        "name": "Flash Grid",
+        "source": "A",
+        "line": 25323
+      },
+      {
+        "id": "CSHOP-12",
+        "name": "Flash Last Chance",
+        "source": "A",
+        "line": 25353
+      },
+      {
+        "id": "CSHOP-14",
+        "name": "New Colourway",
+        "source": "A",
+        "line": 25414
+      },
+      {
+        "id": "CSHOP-15",
+        "name": "New Collection",
+        "source": "A",
+        "line": 25442
+      },
+      {
+        "id": "CSHOP-17",
+        "name": "Restock Urgency",
+        "source": "A",
+        "line": 25505
+      },
+      {
+        "id": "CSHOP-20",
+        "name": "Gift Card",
+        "source": "A",
+        "line": 25591
+      },
+      {
+        "id": "CSHOP-21",
+        "name": "VIP Early Access",
+        "source": "A",
+        "line": 25621
+      },
+      {
+        "id": "CSHOP-22",
+        "name": "VIP Reward",
+        "source": "A",
+        "line": 25652
+      },
+      {
+        "id": "CSHOP-23",
+        "name": "VIP Birthday",
+        "source": "A",
+        "line": 25681
+      },
+      {
+        "id": "CSHOP-24",
+        "name": "Back-to-School",
+        "source": "A",
+        "line": 25709
+      },
+      {
+        "id": "CSHOP-25",
+        "name": "Holiday Gift",
+        "source": "A",
+        "line": 25740
+      },
+      {
+        "id": "CSHOP-26",
+        "name": "Summer Essential",
+        "source": "A",
+        "line": 25770
+      },
+      {
+        "id": "CSHOP-27",
+        "name": "New Year",
+        "source": "A",
+        "line": 25803
+      },
+      {
+        "id": "CSHOP-28",
+        "name": "Giveaway",
+        "source": "A",
+        "line": 25830
+      },
+      {
+        "id": "CSHOP-29",
+        "name": "Refer-a-Friend",
+        "source": "A",
+        "line": 25860
+      },
+      {
+        "id": "CSHOP-30",
+        "name": "Customer Appreciation",
+        "source": "A",
+        "line": 25891
+      },
+      {
+        "id": "LSHOP-001",
+        "name": "L1 Sarah Welcome",
+        "source": "A",
+        "line": 25919
+      },
+      {
+        "id": "LSHOP-002",
+        "name": "L1 Sarah Cart",
+        "source": "A",
+        "line": 25947
+      },
+      {
+        "id": "12.2",
+        "name": "Footer (Giuliano source)",
+        "source": "G",
+        "line": 1059
+      },
+      {
+        "id": "UTIL-04",
+        "name": "Footer (Giuliano source)",
+        "source": "G",
+        "line": 7571
+      },
+      {
+        "id": "12.1",
+        "name": "Lena Signoff (uses Signoff)",
+        "source": "G+",
+        "line": 1026
+      },
+      {
+        "id": "UTIL-09",
+        "name": "Social Strip",
+        "source": "A*",
+        "line": 7712
+      },
+      {
+        "id": "UTIL-10",
+        "name": "Legal Text",
+        "source": "A*",
+        "line": 7739
+      },
+      {
+        "id": "33.1",
+        "name": "Smiley Face SVG",
+        "source": "A",
+        "line": 2764
+      },
+      {
+        "id": "33.2",
+        "name": "Progress Arrow SVG",
+        "source": "A",
+        "line": 2786
+      }
+    ],
+    "definition": [
+      {
+        "id": "HERO-16",
+        "name": "Mechanism Tease",
+        "source": "A*",
+        "line": 4164
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Welcome E2: Mechanism Tease",
+        "source": "A",
+        "line": 24112
+      },
+      {
+        "id": "1",
+        "name": "The Body Signal Concept (Core Mechanism Visual)",
+        "source": "A*",
+        "line": 34
+      },
+      {
+        "id": "31.2",
+        "name": "Tracking Info Table",
+        "source": "A",
+        "line": 2656
+      },
+      {
+        "id": "REV-06.2",
+        "name": "REV-06.2 \u2014 Science Bridge (Science-to-Action Link)",
+        "source": "A",
+        "line": 20750
+      },
+      {
+        "id": "EDU-1",
+        "name": "Definition Block",
+        "source": "A*",
+        "line": 5203
+      },
+      {
+        "id": "EDU-5",
+        "name": "Infographic",
+        "source": "A*",
+        "line": 5324
+      },
+      {
+        "id": "EDU-7",
+        "name": "Did You Know",
+        "source": "A*",
+        "line": 5389
+      },
+      {
+        "id": "EDU-8",
+        "name": "Mechanism Diagram",
+        "source": "A*",
+        "line": 5414
+      },
+      {
+        "id": "EDU-9",
+        "name": "Tip Cards",
+        "source": "A*",
+        "line": 5453
+      },
+      {
+        "id": "EDU-11",
+        "name": "Science Citation",
+        "source": "A*",
+        "line": 5520
+      },
+      {
+        "id": "DEEP-10",
+        "name": "The Science Made Simple",
+        "source": "A*",
+        "line": 9387
+      },
+      {
+        "id": "17.2",
+        "name": "Definition Block",
+        "source": "A",
+        "line": 1616
+      },
+      {
+        "id": "32.1",
+        "name": "Mechanism Card (Gradient Top Bar)",
+        "source": "A",
+        "line": 2700
+      },
+      {
+        "id": "M2",
+        "name": "Mechanism Diagram (Mobile)",
+        "source": "A",
+        "line": 2971
+      },
+      {
+        "id": "REV-06",
+        "name": "After Science Reversal",
+        "source": "A",
+        "line": 17897
+      },
+      {
+        "id": "FLOWIMG-002",
+        "name": "Mechanism Visual",
+        "source": "A",
+        "line": 19495
+      },
+      {
+        "id": "PDISP-2",
+        "name": "Product Info Card",
+        "source": "A",
+        "line": 15505
+      },
+      {
+        "id": "FLOWDEEP-5",
+        "name": "Welcome E5 Science",
+        "source": "A*",
+        "line": 12568
+      }
+    ],
+    "reframe": [
+      {
+        "id": "15.1",
+        "name": "WBox (Wireframe Box)",
+        "source": "A",
+        "line": 1427
+      },
+      {
+        "id": "15.3",
+        "name": "WBtn (Wireframe Button)",
+        "source": "A",
+        "line": 1462
+      },
+      {
+        "id": "15.6",
+        "name": "WireframeShell (Email Preview)",
+        "source": "A",
+        "line": 1510
+      },
+      {
+        "id": "2",
+        "name": "The Reframe Moment",
+        "source": "A*",
+        "line": 61
+      },
+      {
+        "id": "STORY-09",
+        "name": "The Reframe \u2014 Challenge \u2192 New perspective",
+        "source": "A*",
+        "line": 4559
+      },
+      {
+        "id": "DEEP-22",
+        "name": "The Milestone Reframe",
+        "source": "A*",
+        "line": 9740
+      },
+      {
+        "id": "4.4",
+        "name": "Insight / Mint Block",
+        "source": "A",
+        "line": 520
+      },
+      {
+        "id": "EMODEEP-14",
+        "name": "The Identity Reframe",
+        "source": "A*",
+        "line": 12367
+      },
+      {
+        "id": "16.2",
+        "name": "Tilted Sticker Creeds",
+        "source": "A",
+        "line": 1561
+      },
+      {
+        "id": "16.3",
+        "name": "Reframe Points as Stickers (2\u00d72 Grid)",
+        "source": "A",
+        "line": 1578
+      },
+      {
+        "id": "32.3",
+        "name": "Highlight Box (Bordered Insight)",
+        "source": "A",
+        "line": 2746
+      },
+      {
+        "id": "OBJ-01",
+        "name": "Tried Everything Reframe",
+        "source": "A",
+        "line": 17169
+      },
+      {
+        "id": "OBJ-06",
+        "name": "Not For Us Validation",
+        "source": "A",
+        "line": 17352
+      },
+      {
+        "id": "EMO-9",
+        "name": "Strength Reframe",
+        "source": "A*",
+        "line": 7025
+      },
+      {
+        "id": "EMODEEP-01",
+        "name": "The Guilt Reframe",
+        "source": "A*",
+        "line": 11996
+      },
+      {
+        "id": "EMODEEP-09",
+        "name": "The Grief Validation",
+        "source": "A*",
+        "line": 12221
+      }
+    ],
+    "comparison": [
+      {
+        "id": "STORY-03",
+        "name": "Split Before/After \u2014 Visual transformation",
+        "source": "A*",
+        "line": 4356
+      },
+      {
+        "id": "STORY-11",
+        "name": "Contrast Cards \u2014 Side-by-side \"What they said vs. what happened\"",
+        "source": "A*",
+        "line": 4617
+      },
+      {
+        "id": "EJ1",
+        "name": "Before/After Transformation",
+        "source": "A",
+        "line": 3405
+      },
+      {
+        "id": "EDU-3",
+        "name": "Checklist",
+        "source": "A*",
+        "line": 5259
+      },
+      {
+        "id": "EDU-4",
+        "name": "Myth vs Fact",
+        "source": "A*",
+        "line": 5292
+      },
+      {
+        "id": "EDU-12",
+        "name": "Comparison Matrix",
+        "source": "A*",
+        "line": 5552
+      },
+      {
+        "id": "PRODEEP-2",
+        "name": "The Comparison Matrix",
+        "source": "A*",
+        "line": 10407
+      },
+      {
+        "id": "EDUDEEP-7",
+        "name": "The Method Comparison",
+        "source": "A*",
+        "line": 10836
+      },
+      {
+        "id": "7.2",
+        "name": "Numbered Method Card",
+        "source": "A",
+        "line": 726
+      },
+      {
+        "id": "8.1",
+        "name": "Comparison Cards",
+        "source": "A",
+        "line": 757
+      },
+      {
+        "id": "ED2",
+        "name": "Comparison Table",
+        "source": "A",
+        "line": 3323
+      },
+      {
+        "id": "REV-04",
+        "name": "After Cost Comparison Reversal",
+        "source": "A",
+        "line": 17824
+      },
+      {
+        "id": "SP-06",
+        "name": "Before/After Testimonial",
+        "source": "A*",
+        "line": 4907
+      },
+      {
+        "id": "IMG-06",
+        "name": "Before/After Split",
+        "source": "A",
+        "line": 18238
+      },
+      {
+        "id": "IMG-15",
+        "name": "Product Comparison Visual",
+        "source": "A",
+        "line": 18547
+      },
+      {
+        "id": "VSOCIAL-2",
+        "name": "Before/After Journey",
+        "source": "A",
+        "line": 19789
+      },
+      {
+        "id": "VSOCIAL-12",
+        "name": "Before/After Product",
+        "source": "A",
+        "line": 20095
+      },
+      {
+        "id": "DEEPIMG-2",
+        "name": "Split Image Comparison",
+        "source": "A",
+        "line": 21056
+      },
+      {
+        "id": "DEEPIMG-15",
+        "name": "Before/After Timeline",
+        "source": "A",
+        "line": 21453
+      },
+      {
+        "id": "DEEPUGC-4",
+        "name": "UGC Before/After Pair",
+        "source": "A",
+        "line": 21873
+      },
+      {
+        "id": "DEEPUGC-13",
+        "name": "Before/After Journey",
+        "source": "A",
+        "line": 22129
+      },
+      {
+        "id": "DEEPPROD-3",
+        "name": "Product Scale Comparison",
+        "source": "A",
+        "line": 23409
+      },
+      {
+        "id": "DEEPPROD-13",
+        "name": "Product Comparison Side-by-Side",
+        "source": "A",
+        "line": 23683
+      },
+      {
+        "id": "PROD-7",
+        "name": "Comparison Table",
+        "source": "A*",
+        "line": 5863
+      },
+      {
+        "id": "TRUSTDEEP-11.1",
+        "name": "TRUSTDEEP-11.1 \u2014 Cost Comparison (Pull-Up vs BSL)",
+        "source": "A",
+        "line": 13613
+      },
+      {
+        "id": "TRUSTDEEP-14.1",
+        "name": "TRUSTDEEP-14.1 \u2014 Before/After Product (Side-by-Side Visual)",
+        "source": "A",
+        "line": 13807
+      },
+      {
+        "id": "CTADEEP-02.1",
+        "name": "CTADEEP-02.1 \u2014 Price Anchor (Was/Now Comparison)",
+        "source": "A",
+        "line": 14099
+      },
+      {
+        "id": "CTADEEP-06.1",
+        "name": "CTADEEP-06.1 \u2014 Product Comparison Table (Feature Matrix)",
+        "source": "A",
+        "line": 14199
+      },
+      {
+        "id": "PDISP-10",
+        "name": "Product Comparison Card",
+        "source": "A",
+        "line": 15755
+      },
+      {
+        "id": "PDISP-20",
+        "name": "Product Comparison Matrix",
+        "source": "A",
+        "line": 16071
+      },
+      {
+        "id": "PRICE-5",
+        "name": "Price Comparison Table",
+        "source": "A",
+        "line": 16217
+      },
+      {
+        "id": "PRICE-11",
+        "name": "Starter vs Bundle",
+        "source": "A",
+        "line": 16394
+      },
+      {
+        "id": "CMP-1",
+        "name": "Three-Column Method Cards",
+        "source": "A*",
+        "line": 6052
+      },
+      {
+        "id": "CMP-3",
+        "name": "Promise vs Reality",
+        "source": "A*",
+        "line": 6113
+      },
+      {
+        "id": "CMP-4",
+        "name": "Feature Comparison Table",
+        "source": "A*",
+        "line": 6146
+      },
+      {
+        "id": "CMP-6",
+        "name": "Tried vs Works",
+        "source": "A*",
+        "line": 6217
+      },
+      {
+        "id": "CMP-8",
+        "name": "VS Badge Head-to-Head",
+        "source": "A*",
+        "line": 6277
+      },
+      {
+        "id": "TRUST-3",
+        "name": "Covered Checklist Badges",
+        "source": "A*",
+        "line": 6446
+      },
+      {
+        "id": "TRUST-6",
+        "name": "Covered vs Not Covered",
+        "source": "A*",
+        "line": 6537
+      },
+      {
+        "id": "TRUSTDEEP-2",
+        "name": "The Before/After Gallery",
+        "source": "A*",
+        "line": 10962
+      },
+      {
+        "id": "21.6",
+        "name": "Before/After Comparison",
+        "source": "A",
+        "line": 2005
+      },
+      {
+        "id": "29.5",
+        "name": "Mini-Wins Checklist Card",
+        "source": "A",
+        "line": 2579
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Before/After Testimonial",
+        "source": "A",
+        "line": 15099
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Comparison CTA",
+        "source": "A",
+        "line": 15239
+      }
+    ],
+    "expert": [
+      {
+        "id": "DEEP-21",
+        "name": "The Expert Whisper",
+        "source": "A*",
+        "line": 9712
+      },
+      {
+        "id": "4.3",
+        "name": "Pull Quote",
+        "source": "A",
+        "line": 503
+      },
+      {
+        "id": "9.1",
+        "name": "Expert Quote Card",
+        "source": "A",
+        "line": 849
+      },
+      {
+        "id": "23.3",
+        "name": "Editorial Pull Quote (Thick Borders)",
+        "source": "A",
+        "line": 2148
+      },
+      {
+        "id": "25.3",
+        "name": "Yellow Quote Card (Green Shadow)",
+        "source": "A",
+        "line": 2239
+      },
+      {
+        "id": "SP-02",
+        "name": "Expert Endorsement",
+        "source": "A*",
+        "line": 4805
+      },
+      {
+        "id": "SP2",
+        "name": "Review Quote Card",
+        "source": "A",
+        "line": 3208
+      },
+      {
+        "id": "VSOCIAL-4",
+        "name": "Expert Photo Card",
+        "source": "A",
+        "line": 19850
+      },
+      {
+        "id": "DEEPUGC-15",
+        "name": "Expert Endorsement Photo",
+        "source": "A",
+        "line": 22187
+      },
+      {
+        "id": "TRUSTDEEP-3",
+        "name": "The Expert Panel",
+        "source": "A*",
+        "line": 10996
+      },
+      {
+        "id": "TRUSTDEEP-16",
+        "name": "The Professional Endorsement",
+        "source": "A*",
+        "line": 11414
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Expert Endorsement",
+        "source": "A",
+        "line": 15073
+      },
+      {
+        "id": "CTADEEP-11",
+        "name": "The Expert CTA",
+        "source": "A*",
+        "line": 11786
+      },
+      {
+        "id": "17.3",
+        "name": "Parent Quote Card (Yellow Tilted)",
+        "source": "A",
+        "line": 1634
+      }
+    ],
+    "product": [
+      {
+        "id": "REV-04.4",
+        "name": "REV-04.4 \u2014 Bundle CTA (Get-the-Bundle Button)",
+        "source": "A",
+        "line": 20684
+      },
+      {
+        "id": "REV-08.4",
+        "name": "REV-08.4 \u2014 Bundle Value Recap (73% Stat)",
+        "source": "A",
+        "line": 20879
+      },
+      {
+        "id": "PRODEEP-5",
+        "name": "The Product Chemistry",
+        "source": "A*",
+        "line": 10494
+      },
+      {
+        "id": "PRODEEP-8",
+        "name": "The Bundle Builder",
+        "source": "A*",
+        "line": 10584
+      },
+      {
+        "id": "PSYDEEP-9",
+        "name": "The Authority Layer",
+        "source": "A*",
+        "line": 12944
+      },
+      {
+        "id": "DESDEEP-10",
+        "name": "The Layered Depth",
+        "source": "A*",
+        "line": 13324
+      },
+      {
+        "id": "13.5",
+        "name": "Product Pants",
+        "source": "A",
+        "line": 1224
+      },
+      {
+        "id": "27.1",
+        "name": "Order Details Table",
+        "source": "A",
+        "line": 2394
+      },
+      {
+        "id": "M4",
+        "name": "Product Showcase (Mobile)",
+        "source": "A",
+        "line": 3015
+      },
+      {
+        "id": "ED1",
+        "name": "3-Layer Product Diagram",
+        "source": "A",
+        "line": 3296
+      },
+      {
+        "id": "REV-08",
+        "name": "After Bundle Reversal",
+        "source": "A",
+        "line": 17974
+      },
+      {
+        "id": "IMG-02",
+        "name": "Product On-Body",
+        "source": "A",
+        "line": 18119
+      },
+      {
+        "id": "IMG-03",
+        "name": "Product Flat Lay",
+        "source": "A",
+        "line": 18146
+      },
+      {
+        "id": "IMG-04",
+        "name": "Product Detail Close-Up",
+        "source": "A",
+        "line": 18176
+      },
+      {
+        "id": "IMG-05",
+        "name": "3-Layer Cross-Section Diagram",
+        "source": "A",
+        "line": 18207
+      },
+      {
+        "id": "IMG-17",
+        "name": "Colourway Showcase",
+        "source": "A",
+        "line": 18612
+      },
+      {
+        "id": "IMG-19",
+        "name": "Product in Context",
+        "source": "A",
+        "line": 18680
+      },
+      {
+        "id": "IMG-22",
+        "name": "Product GIF Placeholder",
+        "source": "A",
+        "line": 18780
+      },
+      {
+        "id": "IMG-23",
+        "name": "Seasonal Product Shot",
+        "source": "A",
+        "line": 18809
+      },
+      {
+        "id": "IMG-24",
+        "name": "Bundle Visual Display",
+        "source": "A",
+        "line": 18839
+      },
+      {
+        "id": "FLOWIMG-003",
+        "name": "Product Reveal",
+        "source": "A",
+        "line": 19509
+      },
+      {
+        "id": "FLOWIMG-006",
+        "name": "Checkout Product",
+        "source": "A",
+        "line": 19550
+      },
+      {
+        "id": "FLOWIMG-013",
+        "name": "Winback Product",
+        "source": "A",
+        "line": 19648
+      },
+      {
+        "id": "FLOWIMG-017",
+        "name": "Bundle Upgrade",
+        "source": "A",
+        "line": 19704
+      },
+      {
+        "id": "VSOCIAL-14",
+        "name": "Product in Use",
+        "source": "A",
+        "line": 20156
+      },
+      {
+        "id": "DEEPIMG-16",
+        "name": "Product in Hands",
+        "source": "A",
+        "line": 21485
+      },
+      {
+        "id": "DEEPIMG-17",
+        "name": "Detail Callout Circle",
+        "source": "A",
+        "line": 21514
+      },
+      {
+        "id": "DEEPIMG-20",
+        "name": "Product Rotation",
+        "source": "A",
+        "line": 21603
+      },
+      {
+        "id": "DEEPIMG-24",
+        "name": "Product Flat Lay Grid",
+        "source": "A",
+        "line": 21734
+      },
+      {
+        "id": "DEEPUGC-7",
+        "name": "UGC Product Match",
+        "source": "A",
+        "line": 21959
+      },
+      {
+        "id": "DEEPUGC-12",
+        "name": "Review with Product",
+        "source": "A",
+        "line": 22102
+      },
+      {
+        "id": "DEEPPROD-2",
+        "name": "Product Color Wheel",
+        "source": "A",
+        "line": 23384
+      },
+      {
+        "id": "DEEPPROD-4",
+        "name": "Product Texture Study",
+        "source": "A",
+        "line": 23443
+      },
+      {
+        "id": "DEEPPROD-5",
+        "name": "Product Cross-Section",
+        "source": "A",
+        "line": 23471
+      },
+      {
+        "id": "DEEPPROD-6",
+        "name": "Product Animation Frame",
+        "source": "A",
+        "line": 23502
+      },
+      {
+        "id": "DEEPPROD-7",
+        "name": "Product Packaging",
+        "source": "A",
+        "line": 23527
+      },
+      {
+        "id": "DEEPPROD-8",
+        "name": "Product Stack",
+        "source": "A",
+        "line": 23555
+      },
+      {
+        "id": "DEEPPROD-9",
+        "name": "Product Flat Lay Artistic",
+        "source": "A",
+        "line": 23581
+      },
+      {
+        "id": "DEEPPROD-11",
+        "name": "Product Detail Mosaic",
+        "source": "A",
+        "line": 23628
+      },
+      {
+        "id": "DEEPPROD-12",
+        "name": "Product Size Range",
+        "source": "A",
+        "line": 23655
+      },
+      {
+        "id": "DEEPPROD-14",
+        "name": "Product Technology Diagram",
+        "source": "A",
+        "line": 23718
+      },
+      {
+        "id": "DEEPPROD-15",
+        "name": "Product Material Journey",
+        "source": "A",
+        "line": 23755
+      },
+      {
+        "id": "DEEPPROD-16",
+        "name": "Product Quality Test",
+        "source": "A",
+        "line": 23787
+      },
+      {
+        "id": "DEEPPROD-17",
+        "name": "Product Comfort Visual",
+        "source": "A",
+        "line": 23817
+      },
+      {
+        "id": "DEEPPROD-18",
+        "name": "Product Absorption Test",
+        "source": "A",
+        "line": 23852
+      },
+      {
+        "id": "DEEPPROD-19",
+        "name": "Product Waterproof Demo",
+        "source": "A",
+        "line": 23884
+      },
+      {
+        "id": "DEEPPROD-20",
+        "name": "Product Wash Test",
+        "source": "A",
+        "line": 23912
+      },
+      {
+        "id": "DEEPPROD-21",
+        "name": "Product Gift Presentation",
+        "source": "A",
+        "line": 23946
+      },
+      {
+        "id": "DEEPPROD-22",
+        "name": "Product Bundle Visual",
+        "source": "A",
+        "line": 23970
+      },
+      {
+        "id": "DEEPPROD-23",
+        "name": "Product Accessory Grid",
+        "source": "A",
+        "line": 23997
+      },
+      {
+        "id": "DEEPPROD-24",
+        "name": "Product Color Story",
+        "source": "A",
+        "line": 24026
+      },
+      {
+        "id": "DEEPPROD-25",
+        "name": "Product Heritage",
+        "source": "A",
+        "line": 24055
+      },
+      {
+        "id": "6.1",
+        "name": "ProductShowcaseFull (Giuliano source)",
+        "source": "G",
+        "line": 613
+      },
+      {
+        "id": "6.2",
+        "name": "ProductShowcaseMedium (Giuliano source)",
+        "source": "G",
+        "line": 641
+      },
+      {
+        "id": "6.3",
+        "name": "ProductShowcaseSoft (Giuliano source)",
+        "source": "G",
+        "line": 670
+      },
+      {
+        "id": "PROD-1",
+        "name": "Full Showcase",
+        "source": "A*",
+        "line": 5682
+      },
+      {
+        "id": "PROD-3",
+        "name": "Layer Breakdown",
+        "source": "A*",
+        "line": 5744
+      },
+      {
+        "id": "PROD-5",
+        "name": "Feature Grid",
+        "source": "A*",
+        "line": 5807
+      },
+      {
+        "id": "PROD-10",
+        "name": "Product Family",
+        "source": "A*",
+        "line": 5953
+      },
+      {
+        "id": "PROD-11",
+        "name": "Zoom Detail",
+        "source": "A*",
+        "line": 5987
+      },
+      {
+        "id": "TRUSTDEEP-11.2",
+        "name": "TRUSTDEEP-11.2 \u2014 Product Benefits Grid (3-Column Features)",
+        "source": "A",
+        "line": 13646
+      },
+      {
+        "id": "TRUSTDEEP-12.1",
+        "name": "TRUSTDEEP-12.1 \u2014 3-Layer Explainer (Cross-Section Visual)",
+        "source": "A",
+        "line": 13680
+      },
+      {
+        "id": "TRUSTDEEP-13.1",
+        "name": "TRUSTDEEP-13.1 \u2014 Product Review Card (Single Review Block)",
+        "source": "A",
+        "line": 13744
+      },
+      {
+        "id": "TRUSTDEEP-18.2",
+        "name": "TRUSTDEEP-18.2 \u2014 Cross-Sell Grid (Multi-Product Grid)",
+        "source": "A",
+        "line": 14010
+      },
+      {
+        "id": "TRUSTDEEP-18.3",
+        "name": "TRUSTDEEP-18.3 \u2014 Complete Your Set (Bundle Closer)",
+        "source": "A",
+        "line": 14038
+      },
+      {
+        "id": "CTADEEP-01.1",
+        "name": "CTADEEP-01.1 \u2014 Product Feature Callout (Single-Benefit Highlight)",
+        "source": "A",
+        "line": 14068
+      },
+      {
+        "id": "CTADEEP-08.1",
+        "name": "CTADEEP-08.1 \u2014 Product Badge (Inline Highlight Tag)",
+        "source": "A",
+        "line": 14259
+      },
+      {
+        "id": "PDISP-3",
+        "name": "3-Layer System Diagram",
+        "source": "A",
+        "line": 15538
+      },
+      {
+        "id": "PDISP-8",
+        "name": "Product Care",
+        "source": "A",
+        "line": 15694
+      },
+      {
+        "id": "PDISP-11",
+        "name": "Product Lifestyle Row",
+        "source": "A",
+        "line": 15789
+      },
+      {
+        "id": "PDISP-12",
+        "name": "Product Detail Close-Up",
+        "source": "A",
+        "line": 15819
+      },
+      {
+        "id": "PDISP-13",
+        "name": "Bundle Visual",
+        "source": "A",
+        "line": 15849
+      },
+      {
+        "id": "PDISP-14",
+        "name": "Product Video Placeholder",
+        "source": "A",
+        "line": 15882
+      },
+      {
+        "id": "PDISP-15",
+        "name": "Product Spec Sheet",
+        "source": "A",
+        "line": 15910
+      },
+      {
+        "id": "PDISP-16",
+        "name": "Product Timeline",
+        "source": "A",
+        "line": 15942
+      },
+      {
+        "id": "PDISP-17",
+        "name": "Product FAQ",
+        "source": "A",
+        "line": 15973
+      },
+      {
+        "id": "PDISP-18",
+        "name": "Product Social Proof",
+        "source": "A",
+        "line": 16006
+      },
+      {
+        "id": "PDISP-19",
+        "name": "Product Guarantee",
+        "source": "A",
+        "line": 16041
+      },
+      {
+        "id": "PRICE-2",
+        "name": "Bundle Price",
+        "source": "A",
+        "line": 16132
+      },
+      {
+        "id": "PRICE-16",
+        "name": "Bundle Builder",
+        "source": "A",
+        "line": 16545
+      },
+      {
+        "id": "TRUST-2",
+        "name": "Guarantee Detail Cards",
+        "source": "A*",
+        "line": 6414
+      },
+      {
+        "id": "CTA-5",
+        "name": "Product CTA",
+        "source": "A*",
+        "line": 6708
+      },
+      {
+        "id": "CTAMAX-06",
+        "name": "Bundle CTA",
+        "source": "A",
+        "line": 16799
+      },
+      {
+        "id": "PERS-03",
+        "name": "Product Recommendation",
+        "source": "A*",
+        "line": 8191
+      },
+      {
+        "id": "PC3",
+        "name": "Product Recommendation",
+        "source": "A",
+        "line": 3786
+      },
+      {
+        "id": "CFLOW-3",
+        "name": "Cart Abandon E3: Bundle Nudge (48 hr)",
+        "source": "A",
+        "line": 14374
+      },
+      {
+        "id": "CFLOW-12",
+        "name": "Cross-Sell E1: Complementary Product (Day 10)",
+        "source": "A",
+        "line": 14643
+      },
+      {
+        "id": "CFLOW-20",
+        "name": "Bundle Upgrade: Single to Bundle (Day 7)",
+        "source": "A",
+        "line": 14877
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Welcome E1: Soft Product Mention",
+        "source": "A",
+        "line": 24087
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Welcome E3: First Product Reveal",
+        "source": "A",
+        "line": 24137
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Welcome E4: Product Deep Dive",
+        "source": "A",
+        "line": 24175
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Welcome E5: Social Proof Product",
+        "source": "A",
+        "line": 24204
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Cart E1: Bundle Nudge",
+        "source": "A",
+        "line": 24299
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Browse E1: Product Recall",
+        "source": "A",
+        "line": 24489
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Browse E1: Related Products",
+        "source": "A",
+        "line": 24516
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Cross-Sell E2: Bundle Offer",
+        "source": "A",
+        "line": 24731
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Referral: Gift Product",
+        "source": "A",
+        "line": 24951
+      },
+      {
+        "id": "CAMIMG-7",
+        "name": "Bundle Display",
+        "source": "A",
+        "line": 19080
+      },
+      {
+        "id": "CAMIMG-9",
+        "name": "Product Spotlight",
+        "source": "A",
+        "line": 19138
+      },
+      {
+        "id": "DEEPCAMP-24",
+        "name": "DEEPCAMP-24 \u2014 Product Evolution (Version-History Frame)",
+        "source": "A",
+        "line": 23280
+      },
+      {
+        "id": "CSHOP-19",
+        "name": "Gift Bundle",
+        "source": "A",
+        "line": 25566
+      },
+      {
+        "id": "LSHOP-003",
+        "name": "L1 Sarah Bundle",
+        "source": "A",
+        "line": 25979
+      }
+    ],
+    "feel": [
+      {
+        "id": "STORY-04",
+        "name": "Deep Quote \u2014 Pull-quote feature story",
+        "source": "A*",
+        "line": 4388
+      },
+      {
+        "id": "17.5",
+        "name": "Feel Points / For You Points",
+        "source": "A",
+        "line": 1673
+      },
+      {
+        "id": "18.3",
+        "name": "3-Benefit Grid",
+        "source": "A",
+        "line": 1780
+      },
+      {
+        "id": "DEEPUGC-23",
+        "name": "Press Feature Photo",
+        "source": "A",
+        "line": 22406
+      },
+      {
+        "id": "PDISP-9",
+        "name": "Feature Benefit Grid",
+        "source": "A",
+        "line": 15723
+      },
+      {
+        "id": "CAMIMG-16",
+        "name": "Blog Featured Image",
+        "source": "A",
+        "line": 19333
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "DEEP-13",
+        "name": "The Reverse Testimonial",
+        "source": "A*",
+        "line": 9478
+      },
+      {
+        "id": "M3",
+        "name": "Testimonial Card (Mobile)",
+        "source": "A",
+        "line": 2997
+      },
+      {
+        "id": "REV-02.2",
+        "name": "REV-02.2 \u2014 Social Proof Momentum (Family Count Header)",
+        "source": "A",
+        "line": 20555
+      },
+      {
+        "id": "PSYCH-03",
+        "name": "Social Proof Cascade",
+        "source": "A*",
+        "line": 8513
+      },
+      {
+        "id": "PSYDEEP-11",
+        "name": "The Social Proof Ladder",
+        "source": "A*",
+        "line": 12983
+      },
+      {
+        "id": "REV-02",
+        "name": "After Social Proof Reversal",
+        "source": "A",
+        "line": 17751
+      },
+      {
+        "id": "DEEPCAMP-22",
+        "name": "DEEPCAMP-22 \u2014 Milestone Counter (Reviews-Sold Counter)",
+        "source": "A",
+        "line": 23208
+      },
+      {
+        "id": "SP-07",
+        "name": "Counter-Testimonial",
+        "source": "A*",
+        "line": 4940
+      },
+      {
+        "id": "SP-08",
+        "name": "Stacked Mini-Reviews",
+        "source": "A*",
+        "line": 4966
+      },
+      {
+        "id": "SP-13",
+        "name": "Review of the Week",
+        "source": "A*",
+        "line": 5111
+      },
+      {
+        "id": "SP1",
+        "name": "Star Rating Row",
+        "source": "A",
+        "line": 3187
+      },
+      {
+        "id": "SP5",
+        "name": "Counter Testimonial",
+        "source": "A",
+        "line": 3277
+      },
+      {
+        "id": "SP-04",
+        "name": "Review Screenshot",
+        "source": "A*",
+        "line": 4859
+      },
+      {
+        "id": "IMG-12",
+        "name": "Customer Testimonial Photo",
+        "source": "A",
+        "line": 18447
+      },
+      {
+        "id": "IMG-21",
+        "name": "Testimonial Wall",
+        "source": "A",
+        "line": 18745
+      },
+      {
+        "id": "FLOWIMG-004",
+        "name": "Parent Story Photo",
+        "source": "A",
+        "line": 19523
+      },
+      {
+        "id": "FLOWIMG-012",
+        "name": "Review Request",
+        "source": "A",
+        "line": 19634
+      },
+      {
+        "id": "VSOCIAL-6",
+        "name": "Review Screenshot",
+        "source": "A",
+        "line": 19912
+      },
+      {
+        "id": "VSOCIAL-9",
+        "name": "Photo Testimonial Carousel",
+        "source": "A",
+        "line": 19999
+      },
+      {
+        "id": "VSOCIAL-11",
+        "name": "Video Testimonial",
+        "source": "A",
+        "line": 20064
+      },
+      {
+        "id": "VSOCIAL-18",
+        "name": "Review of the Week",
+        "source": "A",
+        "line": 20284
+      },
+      {
+        "id": "DEEPUGC-11",
+        "name": "Customer Photo Review",
+        "source": "A",
+        "line": 22074
+      },
+      {
+        "id": "TRUSTDEEP-13.2",
+        "name": "TRUSTDEEP-13.2 \u2014 Review Mosaic (Multi-Review Grid)",
+        "source": "A",
+        "line": 13773
+      },
+      {
+        "id": "TRUSTDEEP-15.1",
+        "name": "TRUSTDEEP-15.1 \u2014 Trustpilot Widget (Embedded Rating Block)",
+        "source": "A",
+        "line": 13837
+      },
+      {
+        "id": "TRUSTDEEP-4",
+        "name": "The Review Mosaic",
+        "source": "A*",
+        "line": 11028
+      },
+      {
+        "id": "TRUSTDEEP-10",
+        "name": "The Side-by-Side Review",
+        "source": "A*",
+        "line": 11214
+      },
+      {
+        "id": "TRUSTDEEP-14",
+        "name": "The Social Proof Pyramid",
+        "source": "A*",
+        "line": 11350
+      },
+      {
+        "id": "21.2",
+        "name": "Social Proof Bar",
+        "source": "A",
+        "line": 1923
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Star Rating Bar",
+        "source": "A",
+        "line": 14928
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Review Quote Near CTA",
+        "source": "A",
+        "line": 15016
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Social Proof Counter",
+        "source": "A",
+        "line": 15044
+      },
+      {
+        "id": "CTADEEP-03",
+        "name": "The Social Proof Bridge",
+        "source": "A*",
+        "line": 11574
+      },
+      {
+        "id": "CTAMAX-14",
+        "name": "Review CTA",
+        "source": "A",
+        "line": 16989
+      },
+      {
+        "id": "FLOW-10",
+        "name": "Review Request",
+        "source": "A*",
+        "line": 7339
+      },
+      {
+        "id": "FLOWDEEP-18",
+        "name": "Review Request",
+        "source": "A*",
+        "line": 12745
+      },
+      {
+        "id": "CFLOW-2",
+        "name": "Cart Abandon E2: Social Proof (24 hr)",
+        "source": "A",
+        "line": 14347
+      },
+      {
+        "id": "CFLOW-11",
+        "name": "Post-Purchase E4: Review Ask (Day 14)",
+        "source": "A",
+        "line": 14616
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Browse E2: Social Proof",
+        "source": "A",
+        "line": 24544
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "PP E4: Review Request",
+        "source": "A",
+        "line": 24670
+      },
+      {
+        "id": "CAMIMG-20",
+        "name": "Social Proof Mosaic",
+        "source": "A",
+        "line": 19451
+      },
+      {
+        "id": "DEEPCAMP-23",
+        "name": "DEEPCAMP-23 \u2014 Year in Review (Annual Recap)",
+        "source": "A",
+        "line": 23242
+      },
+      {
+        "id": "CSHOP-3",
+        "name": "Bestseller Social Proof",
+        "source": "A",
+        "line": 25080
+      }
+    ],
+    "objections": [
+      {
+        "id": "HERO-11",
+        "name": "Question Storm",
+        "source": "A*",
+        "line": 4036
+      },
+      {
+        "id": "OBJ-15.4",
+        "name": "OBJ-15.4 \u2014 Lena Voice (Lena Closes Objection)",
+        "source": "A",
+        "line": 20494
+      },
+      {
+        "id": "EDU-6",
+        "name": "FAQ Blocks",
+        "source": "A*",
+        "line": 5354
+      },
+      {
+        "id": "17.4",
+        "name": "Objections Q&A",
+        "source": "A",
+        "line": 1651
+      },
+      {
+        "id": "30.1",
+        "name": "FAQ Card (Dashed Border)",
+        "source": "A",
+        "line": 2600
+      },
+      {
+        "id": "OBJ-10",
+        "name": "Sensory Issues Answer",
+        "source": "A",
+        "line": 17496
+      },
+      {
+        "id": "REV-01",
+        "name": "After Objection Reversal",
+        "source": "A",
+        "line": 17716
+      },
+      {
+        "id": "CTADEEP-14",
+        "name": "The Question CTA",
+        "source": "A*",
+        "line": 11864
+      }
+    ],
+    "guarantee": [
+      {
+        "id": "5",
+        "name": "60-Day Calm Promise",
+        "source": "A*",
+        "line": 127
+      },
+      {
+        "id": "OBJ-13.4",
+        "name": "OBJ-13.4 \u2014 Trust Card Footer (Brand Authority Build)",
+        "source": "A",
+        "line": 20365
+      },
+      {
+        "id": "OBJ-15.2",
+        "name": "OBJ-15.2 \u2014 Three Guarantees Stack (Money-Back Trio)",
+        "source": "A",
+        "line": 20459
+      },
+      {
+        "id": "BONUS-04",
+        "name": "Wax Seal",
+        "source": "A*",
+        "line": 8909
+      },
+      {
+        "id": "DESDEEP-13",
+        "name": "The Badge System",
+        "source": "A*",
+        "line": 13374
+      },
+      {
+        "id": "DESDEEP-18",
+        "name": "The Wax Seal",
+        "source": "A*",
+        "line": 13471
+      },
+      {
+        "id": "3.1",
+        "name": "Part Badge",
+        "source": "A",
+        "line": 433
+      },
+      {
+        "id": "13.10",
+        "name": "Quote Badge",
+        "source": "A",
+        "line": 1370
+      },
+      {
+        "id": "OBJ-13",
+        "name": "Brand Trust Builder",
+        "source": "A",
+        "line": 17606
+      },
+      {
+        "id": "OBJ-15",
+        "name": "What If I Regret Promise",
+        "source": "A",
+        "line": 17680
+      },
+      {
+        "id": "TRUSTDEEP-9.1",
+        "name": "TRUSTDEEP-9.1 \u2014 Certification Item (UKCA + B-Corp Mark)",
+        "source": "A",
+        "line": 13531
+      },
+      {
+        "id": "TRUSTDEEP-10.2",
+        "name": "TRUSTDEEP-10.2 \u2014 Starter Pack (3-Pair Intro Offer)",
+        "source": "A",
+        "line": 13586
+      },
+      {
+        "id": "TRUSTDEEP-12.2",
+        "name": "TRUSTDEEP-12.2 \u2014 Size Guide (Measurement Chart)",
+        "source": "A",
+        "line": 13712
+      },
+      {
+        "id": "TRUSTDEEP-17.1",
+        "name": "TRUSTDEEP-17.1 \u2014 Cart Items List (Abandoned Items Recap)",
+        "source": "A",
+        "line": 13908
+      },
+      {
+        "id": "TRUSTDEEP-17.2",
+        "name": "TRUSTDEEP-17.2 \u2014 Checkout Trust Bar (Pre-Purchase Trust Strip)",
+        "source": "A",
+        "line": 13942
+      },
+      {
+        "id": "TRUSTDEEP-18.1",
+        "name": "TRUSTDEEP-18.1 \u2014 Upsell Card (Single Upsell Pitch)",
+        "source": "A",
+        "line": 13975
+      },
+      {
+        "id": "SP-05",
+        "name": "Trust Pill Strip",
+        "source": "A*",
+        "line": 4886
+      },
+      {
+        "id": "SP-14",
+        "name": "Trust Badges Row",
+        "source": "A*",
+        "line": 5139
+      },
+      {
+        "id": "TRUST-1",
+        "name": "60-Day Seal",
+        "source": "A*",
+        "line": 6385
+      },
+      {
+        "id": "TRUST-5",
+        "name": "Promise Badges Strip",
+        "source": "A*",
+        "line": 6505
+      },
+      {
+        "id": "TRUST-8",
+        "name": "Trust Icons Row",
+        "source": "A*",
+        "line": 6603
+      },
+      {
+        "id": "TRUSTDEEP-5",
+        "name": "The Trust Ladder",
+        "source": "A*",
+        "line": 11059
+      },
+      {
+        "id": "TRUSTDEEP-9",
+        "name": "The Certification Wall",
+        "source": "A*",
+        "line": 11184
+      },
+      {
+        "id": "TRUSTDEEP-12",
+        "name": "The Trust Timeline",
+        "source": "A*",
+        "line": 11282
+      },
+      {
+        "id": "TRUSTDEEP-13",
+        "name": "The Guarantee Breakdown",
+        "source": "A*",
+        "line": 11320
+      },
+      {
+        "id": "TRUSTDEEP-18",
+        "name": "The Trust Chain",
+        "source": "A*",
+        "line": 11481
+      },
+      {
+        "id": "10.2",
+        "name": "Guarantee Points",
+        "source": "A",
+        "line": 916
+      },
+      {
+        "id": "10.3",
+        "name": "Trustpilot Bar",
+        "source": "A",
+        "line": 943
+      },
+      {
+        "id": "29.1",
+        "name": "60-Day Guarantee Inline Badge",
+        "source": "A",
+        "line": 2506
+      },
+      {
+        "id": "29.2",
+        "name": "Dual Trust Badge Row",
+        "source": "A",
+        "line": 2522
+      },
+      {
+        "id": "29.3",
+        "name": "Guarantee Card (Centered Explainer)",
+        "source": "A",
+        "line": 2538
+      },
+      {
+        "id": "M5",
+        "name": "Guarantee Seal (Mobile)",
+        "source": "A",
+        "line": 3042
+      },
+      {
+        "id": "SP4",
+        "name": "Trust Pills Row",
+        "source": "A",
+        "line": 3251
+      },
+      {
+        "id": "TG1",
+        "name": "Guarantee Breakdown",
+        "source": "A",
+        "line": 3597
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Micro Trust Line",
+        "source": "A",
+        "line": 14907
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Guarantee Badge",
+        "source": "A",
+        "line": 14961
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Trust Icons Row",
+        "source": "A",
+        "line": 14981
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Trust Timeline",
+        "source": "A",
+        "line": 15298
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Certification Badges",
+        "source": "A",
+        "line": 15327
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Personalized Trust",
+        "source": "A",
+        "line": 15357
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Money-Back Promise",
+        "source": "A",
+        "line": 15413
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Trust Cascade",
+        "source": "A",
+        "line": 15444
+      },
+      {
+        "id": "REV-03",
+        "name": "After Guarantee Reversal",
+        "source": "A",
+        "line": 17787
+      },
+      {
+        "id": "IMG-25",
+        "name": "Trust Badge with Photo",
+        "source": "A",
+        "line": 18874
+      },
+      {
+        "id": "VSOCIAL-10",
+        "name": "Trustpilot Visual",
+        "source": "A",
+        "line": 20031
+      },
+      {
+        "id": "VSOCIAL-16",
+        "name": "Certification Visual",
+        "source": "A",
+        "line": 20225
+      },
+      {
+        "id": "DEEPUGC-22",
+        "name": "Certification Photo",
+        "source": "A",
+        "line": 22379
+      },
+      {
+        "id": "CTADEEP-15",
+        "name": "The Promise CTA",
+        "source": "A*",
+        "line": 11887
+      },
+      {
+        "id": "CTADEEP-16",
+        "name": "The Guarantee CTA",
+        "source": "A*",
+        "line": 11914
+      },
+      {
+        "id": "CC2",
+        "name": "CTA with Trust Line",
+        "source": "A",
+        "line": 3699
+      },
+      {
+        "id": "CTAMAX-05",
+        "name": "Guarantee CTA",
+        "source": "A",
+        "line": 16775
+      },
+      {
+        "id": "CTAMAX-20",
+        "name": "Trust CTA",
+        "source": "A",
+        "line": 17136
+      },
+      {
+        "id": "CFLOW-5",
+        "name": "Checkout Abandon E2: Trust Stack (24 hr)",
+        "source": "A",
+        "line": 14429
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Checkout E2: Trust Stack",
+        "source": "A",
+        "line": 24459
+      }
+    ],
+    "cta": [
+      {
+        "id": "CC3",
+        "name": "Curiosity Gap CTA",
+        "source": "A",
+        "line": 3716
+      },
+      {
+        "id": "8",
+        "name": "CTA Varieties (Permission-Based)",
+        "source": "A*",
+        "line": 211
+      },
+      {
+        "id": "REV-01.2",
+        "name": "REV-01.2 \u2014 Bridge Statement (Ready-To-Try Closer)",
+        "source": "A",
+        "line": 20521
+      },
+      {
+        "id": "REV-02.4",
+        "name": "REV-02.4 \u2014 CTA Block (After-Social-Proof Conversion)",
+        "source": "A",
+        "line": 20594
+      },
+      {
+        "id": "REV-07.2",
+        "name": "REV-07.2 \u2014 Permission Statement (Solve-This Closer)",
+        "source": "A",
+        "line": 20814
+      },
+      {
+        "id": "REV-08.2",
+        "name": "REV-08.2 \u2014 CTA Block (Smart-Choice Button)",
+        "source": "A",
+        "line": 20846
+      },
+      {
+        "id": "REV-09.4",
+        "name": "REV-09.4 \u2014 Lock-In CTA (Final Discount Conversion)",
+        "source": "A",
+        "line": 20954
+      },
+      {
+        "id": "25.2",
+        "name": "Dark CTA with Yellow Button",
+        "source": "A",
+        "line": 2225
+      },
+      {
+        "id": "28.1",
+        "name": "Selection/Survey Buttons",
+        "source": "A",
+        "line": 2463
+      },
+      {
+        "id": "M8",
+        "name": "CTA Stack (Mobile)",
+        "source": "A",
+        "line": 3121
+      },
+      {
+        "id": "REV-10",
+        "name": "Final Close",
+        "source": "A",
+        "line": 18045
+      },
+      {
+        "id": "CTADEEP-03.1",
+        "name": "CTADEEP-03.1 \u2014 Subscription Option (Recurring-Plan Card)",
+        "source": "A",
+        "line": 14132
+      },
+      {
+        "id": "CTADEEP-05.1",
+        "name": "CTADEEP-05.1 \u2014 Free Shipping Progress (Threshold Bar)",
+        "source": "A",
+        "line": 14166
+      },
+      {
+        "id": "CTADEEP-07.1",
+        "name": "CTADEEP-07.1 \u2014 Quick Add Button (Inline Add-to-Cart)",
+        "source": "A",
+        "line": 14235
+      },
+      {
+        "id": "CTADEEP-09.1",
+        "name": "CTADEEP-09.1 \u2014 Exit Intent Offer (Last-Chance Discount)",
+        "source": "A",
+        "line": 14285
+      },
+      {
+        "id": "5.1",
+        "name": "Dark CTA (CTAClose) (uses CTAClose)",
+        "source": "G+",
+        "line": 564
+      },
+      {
+        "id": "CTA-6",
+        "name": "Social CTA",
+        "source": "A*",
+        "line": 6733
+      },
+      {
+        "id": "CTA-8",
+        "name": "Dual CTA",
+        "source": "A*",
+        "line": 6769
+      },
+      {
+        "id": "CTA-9",
+        "name": "Floating CTA",
+        "source": "A*",
+        "line": 6789
+      },
+      {
+        "id": "CTA-12",
+        "name": "Exit Close",
+        "source": "A*",
+        "line": 6848
+      },
+      {
+        "id": "CTADEEP-04",
+        "name": "The Curiosity Closer",
+        "source": "A*",
+        "line": 11600
+      },
+      {
+        "id": "CTADEEP-08",
+        "name": "The Story Closer",
+        "source": "A*",
+        "line": 11703
+      },
+      {
+        "id": "CTADEEP-10",
+        "name": "The Community CTA",
+        "source": "A*",
+        "line": 11756
+      },
+      {
+        "id": "CTADEEP-12",
+        "name": "The Anti-CTA",
+        "source": "A*",
+        "line": 11811
+      },
+      {
+        "id": "CTADEEP-17",
+        "name": "The Next Step CTA",
+        "source": "A*",
+        "line": 11940
+      },
+      {
+        "id": "CTADEEP-18",
+        "name": "The Exit CTA",
+        "source": "A*",
+        "line": 11965
+      },
+      {
+        "id": "5.2",
+        "name": "Gradient CTA Button",
+        "source": "A",
+        "line": 581
+      },
+      {
+        "id": "5.3",
+        "name": "Dual CTA",
+        "source": "A",
+        "line": 594
+      },
+      {
+        "id": "CC1",
+        "name": "CTA Variations",
+        "source": "A",
+        "line": 3675
+      },
+      {
+        "id": "CC4",
+        "name": "Soft Close CTA",
+        "source": "A",
+        "line": 3733
+      },
+      {
+        "id": "CTAMAX-01",
+        "name": "Primary CTA",
+        "source": "A",
+        "line": 16692
+      },
+      {
+        "id": "CTAMAX-02",
+        "name": "Secondary CTA",
+        "source": "A",
+        "line": 16713
+      },
+      {
+        "id": "CTAMAX-03",
+        "name": "Text Link CTA",
+        "source": "A",
+        "line": 16734
+      },
+      {
+        "id": "CTAMAX-04",
+        "name": "Soft CTA",
+        "source": "A",
+        "line": 16752
+      },
+      {
+        "id": "CTAMAX-07",
+        "name": "Discount CTA",
+        "source": "A",
+        "line": 16824
+      },
+      {
+        "id": "CTAMAX-08",
+        "name": "Social CTA",
+        "source": "A",
+        "line": 16848
+      },
+      {
+        "id": "CTAMAX-09",
+        "name": "Curiosity CTA",
+        "source": "A",
+        "line": 16873
+      },
+      {
+        "id": "CTAMAX-10",
+        "name": "Exit CTA",
+        "source": "A",
+        "line": 16894
+      },
+      {
+        "id": "CTAMAX-11",
+        "name": "Return CTA",
+        "source": "A",
+        "line": 16923
+      },
+      {
+        "id": "CTAMAX-12",
+        "name": "Subscribe CTA",
+        "source": "A",
+        "line": 16942
+      },
+      {
+        "id": "CTAMAX-13",
+        "name": "Referral CTA",
+        "source": "A",
+        "line": 16966
+      },
+      {
+        "id": "CTAMAX-15",
+        "name": "Upsell CTA",
+        "source": "A",
+        "line": 17011
+      },
+      {
+        "id": "CTAMAX-16",
+        "name": "Cross-Sell CTA",
+        "source": "A",
+        "line": 17033
+      },
+      {
+        "id": "CTAMAX-17",
+        "name": "Level-Specific CTA",
+        "source": "A",
+        "line": 17064
+      },
+      {
+        "id": "CTAMAX-19",
+        "name": "Story Closer CTA",
+        "source": "A",
+        "line": 17115
+      },
+      {
+        "id": "CTA-11",
+        "name": "Permission CTA",
+        "source": "A*",
+        "line": 6828
+      },
+      {
+        "id": "CTADEEP-05",
+        "name": "The Permission CTA",
+        "source": "A*",
+        "line": 11623
+      },
+      {
+        "id": "CTAMAX-18",
+        "name": "Permission CTA",
+        "source": "A",
+        "line": 17096
+      },
+      {
+        "id": "FLOW-5",
+        "name": "Cart Closer",
+        "source": "A*",
+        "line": 7219
+      },
+      {
+        "id": "FLOW-7",
+        "name": "Winback Closer",
+        "source": "A*",
+        "line": 7261
+      },
+      {
+        "id": "FLOWDEEP-8",
+        "name": "Cart E3 Closer",
+        "source": "A*",
+        "line": 12608
+      },
+      {
+        "id": "FLOWDEEP-16",
+        "name": "Winback E3 Closer",
+        "source": "A*",
+        "line": 12718
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Welcome E6: Decision Close",
+        "source": "A",
+        "line": 24235
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Cart E3: Final Close",
+        "source": "A",
+        "line": 24362
+      }
+    ],
+    "story": [
+      {
+        "id": "11.3",
+        "name": "What's Next Timeline",
+        "source": "A",
+        "line": 1000
+      },
+      {
+        "id": "HERO-4",
+        "name": "Story Fragment",
+        "source": "A*",
+        "line": 3882
+      },
+      {
+        "id": "HERO-19",
+        "name": "Timeline Shock",
+        "source": "A*",
+        "line": 4246
+      },
+      {
+        "id": "9",
+        "name": "The Journey Map (Where You Are)",
+        "source": "A*",
+        "line": 234
+      },
+      {
+        "id": "STORY-01",
+        "name": "Chapter Cards \u2014 Book-like story progression",
+        "source": "A*",
+        "line": 4294
+      },
+      {
+        "id": "STORY-02",
+        "name": "Vertical Timeline \u2014 Chronological milestones",
+        "source": "A*",
+        "line": 4322
+      },
+      {
+        "id": "STORY-05",
+        "name": "Diary Entry \u2014 Handwritten-style journal",
+        "source": "A*",
+        "line": 4421
+      },
+      {
+        "id": "STORY-07",
+        "name": "Dialogue \u2014 Text-message conversation story",
+        "source": "A*",
+        "line": 4487
+      },
+      {
+        "id": "STORY-08",
+        "name": "Origin Story \u2014 Brand founding narrative",
+        "source": "A*",
+        "line": 4525
+      },
+      {
+        "id": "STORY-10",
+        "name": "Stacked Story \u2014 Vertical card stack narrative",
+        "source": "A*",
+        "line": 4587
+      },
+      {
+        "id": "STORY-14",
+        "name": "Micro-Story \u2014 Single powerful moment",
+        "source": "A*",
+        "line": 4715
+      },
+      {
+        "id": "STORY-15",
+        "name": "Story Carousel \u2014 Horizontal scrollable cards",
+        "source": "A*",
+        "line": 4748
+      },
+      {
+        "id": "STORYDEEP-02",
+        "name": "The Timeline Spiral",
+        "source": "A*",
+        "line": 9894
+      },
+      {
+        "id": "STORYDEEP-09",
+        "name": "The Map Journey",
+        "source": "A*",
+        "line": 10064
+      },
+      {
+        "id": "STORYDEEP-12",
+        "name": "The Book Chapter",
+        "source": "A*",
+        "line": 10150
+      },
+      {
+        "id": "OBJ-14.2",
+        "name": "OBJ-14.2 \u2014 Timeline Week 1-2 (Adjustment Phase)",
+        "source": "A",
+        "line": 20394
+      },
+      {
+        "id": "OBJ-14.4",
+        "name": "OBJ-14.4 \u2014 Remember Callout (Timeline Disclaimer)",
+        "source": "A",
+        "line": 20429
+      },
+      {
+        "id": "REV-05.2",
+        "name": "REV-05.2 \u2014 Emotion Block (Story-Outcome Highlight)",
+        "source": "A",
+        "line": 20718
+      },
+      {
+        "id": "PRODEEP-1",
+        "name": "The Material Story",
+        "source": "A*",
+        "line": 10375
+      },
+      {
+        "id": "EDUDEEP-6",
+        "name": "The Developmental Timeline",
+        "source": "A*",
+        "line": 10805
+      },
+      {
+        "id": "PSYDEEP-4",
+        "name": "The Scarcity Story",
+        "source": "A*",
+        "line": 12847
+      },
+      {
+        "id": "DESDEEP-8",
+        "name": "The Icon Story",
+        "source": "A*",
+        "line": 13276
+      },
+      {
+        "id": "17.6",
+        "name": "Chapter Card (Storytelling)",
+        "source": "A",
+        "line": 1699
+      },
+      {
+        "id": "27.2",
+        "name": "Order Status Timeline",
+        "source": "A",
+        "line": 2421
+      },
+      {
+        "id": "34.3",
+        "name": "Multi-Section Journey Layout (6+ Colors)",
+        "source": "A",
+        "line": 2837
+      },
+      {
+        "id": "M9",
+        "name": "Journey Timeline (Mobile)",
+        "source": "A",
+        "line": 3139
+      },
+      {
+        "id": "OBJ-14",
+        "name": "Results Timeline",
+        "source": "A",
+        "line": 17642
+      },
+      {
+        "id": "REV-05",
+        "name": "After Story Reversal",
+        "source": "A",
+        "line": 17858
+      },
+      {
+        "id": "DEEPCAMP-25",
+        "name": "DEEPCAMP-25 \u2014 Brand Story Timeline (2021\u21922026 Journey)",
+        "source": "A",
+        "line": 27052
+      },
+      {
+        "id": "STORY-06",
+        "name": "Photo Essay \u2014 Image-placeholder narrative cards",
+        "source": "A*",
+        "line": 4454
+      },
+      {
+        "id": "DEEPIMG-23",
+        "name": "Image Timeline",
+        "source": "A",
+        "line": 21703
+      },
+      {
+        "id": "DEEPUGC-6",
+        "name": "UGC Story Highlight",
+        "source": "A",
+        "line": 21930
+      },
+      {
+        "id": "DEEPUGC-18",
+        "name": "Founder Story Photo",
+        "source": "A",
+        "line": 22270
+      },
+      {
+        "id": "PDISP-4",
+        "name": "Material Story",
+        "source": "A",
+        "line": 15567
+      },
+      {
+        "id": "TRUST-7",
+        "name": "Refund Story",
+        "source": "A*",
+        "line": 6573
+      },
+      {
+        "id": "PRODEEP-9",
+        "name": "The Return Story",
+        "source": "A*",
+        "line": 10616
+      },
+      {
+        "id": "TG2",
+        "name": "Shipping Timeline",
+        "source": "A",
+        "line": 3632
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Return Story",
+        "source": "A",
+        "line": 15271
+      },
+      {
+        "id": "EMO-5",
+        "name": "Realistic Timeline",
+        "source": "A*",
+        "line": 6941
+      },
+      {
+        "id": "EJ4",
+        "name": "Realistic Timeline",
+        "source": "A",
+        "line": 3467
+      },
+      {
+        "id": "PERS-07",
+        "name": "Purchase History",
+        "source": "A*",
+        "line": 8312
+      }
+    ],
+    "steps": [
+      {
+        "id": "STORY-13",
+        "name": "Parallel Paths \u2014 Two families side by side",
+        "source": "A*",
+        "line": 4683
+      },
+      {
+        "id": "DEEP-15",
+        "name": "The Method Graveyard",
+        "source": "A*",
+        "line": 9534
+      },
+      {
+        "id": "EDU-2",
+        "name": "Step Cards",
+        "source": "A*",
+        "line": 5226
+      },
+      {
+        "id": "EDU-10",
+        "name": "How It Works",
+        "source": "A*",
+        "line": 5487
+      },
+      {
+        "id": "EDUDEEP-2",
+        "name": "The Signal Pathway",
+        "source": "A*",
+        "line": 10676
+      },
+      {
+        "id": "7.1",
+        "name": "3-Step Path",
+        "source": "A",
+        "line": 699
+      },
+      {
+        "id": "26.3",
+        "name": "Steps with Illustrations",
+        "source": "A",
+        "line": 2313
+      },
+      {
+        "id": "26.4",
+        "name": "Magazine Step with Inline Number",
+        "source": "A",
+        "line": 2335
+      },
+      {
+        "id": "32.2",
+        "name": "Numbered Circle Step List",
+        "source": "A",
+        "line": 2719
+      },
+      {
+        "id": "IMG-18",
+        "name": "Process How-It-Works",
+        "source": "A",
+        "line": 18647
+      },
+      {
+        "id": "CMP-5",
+        "name": "Method Spectrum Bar",
+        "source": "A*",
+        "line": 6179
+      },
+      {
+        "id": "CTADEEP-06",
+        "name": "The Dual Path",
+        "source": "A*",
+        "line": 11652
+      },
+      {
+        "id": "EMO-4",
+        "name": "Empathy Block",
+        "source": "A*",
+        "line": 6924
+      },
+      {
+        "id": "EMODEEP-04",
+        "name": "The Empathy Mirror",
+        "source": "A*",
+        "line": 12072
+      }
+    ],
+    "code": [
+      {
+        "id": "11.1",
+        "name": "Code Block",
+        "source": "A",
+        "line": 962
+      },
+      {
+        "id": "REV-09.2",
+        "name": "REV-09.2 \u2014 Discount Highlight (Best-Price Header)",
+        "source": "A",
+        "line": 20911
+      },
+      {
+        "id": "PSYDEEP-15",
+        "name": "The Hyperbolic Discounting",
+        "source": "A*",
+        "line": 13074
+      },
+      {
+        "id": "REV-09",
+        "name": "After Discount Reversal",
+        "source": "A",
+        "line": 18010
+      },
+      {
+        "id": "PRICE-6",
+        "name": "Discount Code Display",
+        "source": "A",
+        "line": 16251
+      },
+      {
+        "id": "PRICE-13",
+        "name": "First Order Offer",
+        "source": "A",
+        "line": 16455
+      },
+      {
+        "id": "PRICE-18",
+        "name": "Volume Discount",
+        "source": "A",
+        "line": 16602
+      },
+      {
+        "id": "CTA-3",
+        "name": "Curiosity Code",
+        "source": "A*",
+        "line": 6675
+      },
+      {
+        "id": "CFLOW-4",
+        "name": "Checkout Abandon E1: Help Offer (1 hr)",
+        "source": "A",
+        "line": 14403
+      },
+      {
+        "id": "CFLOW-13",
+        "name": "Cross-Sell E2: Subscription Offer (Day 21)",
+        "source": "A",
+        "line": 14672
+      },
+      {
+        "id": "FSHOP-N",
+        "name": "Checkout E1: Discount Offer",
+        "source": "A",
+        "line": 24426
+      },
+      {
+        "id": "DEEPCAMP-15",
+        "name": "DEEPCAMP-15 \u2014 Flash Sale Banner (Time-Limited Offer)",
+        "source": "A",
+        "line": 22970
+      },
+      {
+        "id": "DEEPCAMP-16",
+        "name": "DEEPCAMP-16 \u2014 BOGO Offer (Buy-One-Get-One)",
+        "source": "A",
+        "line": 23004
+      }
+    ],
+    "stat": [
+      {
+        "id": "HERO-2",
+        "name": "Data Shock",
+        "source": "A*",
+        "line": 3834
+      },
+      {
+        "id": "HERO-6",
+        "name": "Identity Statement",
+        "source": "A*",
+        "line": 3925
+      },
+      {
+        "id": "HERO-7",
+        "name": "Counter-Intuitive Truth",
+        "source": "A*",
+        "line": 3950
+      },
+      {
+        "id": "31.1",
+        "name": "Green Status Pill",
+        "source": "A",
+        "line": 2641
+      },
+      {
+        "id": "DESDEEP-4",
+        "name": "The Minimalist Statement",
+        "source": "A*",
+        "line": 13212
+      },
+      {
+        "id": "28.2",
+        "name": "Numbered Recognition Anchors",
+        "source": "A",
+        "line": 2486
+      },
+      {
+        "id": "35.3",
+        "name": "Numbered Teal Circle Tips",
+        "source": "A",
+        "line": 2913
+      },
+      {
+        "id": "M10",
+        "name": "Stat Block (Mobile)",
+        "source": "A",
+        "line": 3167
+      },
+      {
+        "id": "SP-03",
+        "name": "Stat Row",
+        "source": "A*",
+        "line": 4829
+      },
+      {
+        "id": "SP-12",
+        "name": "Community Counter",
+        "source": "A*",
+        "line": 5086
+      },
+      {
+        "id": "VSOCIAL-8",
+        "name": "Community Counter",
+        "source": "A",
+        "line": 19974
+      },
+      {
+        "id": "VSOCIAL-17",
+        "name": "Data Dashboard",
+        "source": "A",
+        "line": 20255
+      },
+      {
+        "id": "DEEPIMG-22",
+        "name": "Photo Grid with Stats",
+        "source": "A",
+        "line": 21670
+      },
+      {
+        "id": "TRUSTDEEP-6",
+        "name": "The Counter-Argument",
+        "source": "A*",
+        "line": 11092
+      },
+      {
+        "id": "TRUSTDEEP-8",
+        "name": "The Milestone Counter",
+        "source": "A*",
+        "line": 11150
+      },
+      {
+        "id": "TRUSTDEEP-17",
+        "name": "The Data Dashboard",
+        "source": "A*",
+        "line": 11448
+      },
+      {
+        "id": "21.1",
+        "name": "Large Number Callout",
+        "source": "A",
+        "line": 1908
+      },
+      {
+        "id": "TRUST-N",
+        "name": "Data Proof",
+        "source": "A",
+        "line": 15209
+      },
+      {
+        "id": "CTADEEP-09",
+        "name": "The Data-Driven",
+        "source": "A*",
+        "line": 11724
+      }
+    ]
+  },
+  "total_components": 949
+}

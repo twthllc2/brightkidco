@@ -1,0 +1,55 @@
+{
+  "email_id": "winback-a-19-e3-l1",
+  "flow_type": "winback-a",
+  "sections": [
+    {
+      "index": 0,
+      "name": "BODY",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": ""
+    },
+    {
+      "index": 1,
+      "name": "Section 1 \u2014 Hook: Acknowledgment + Observation (R1, R3, R5)",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "It's been a while since we last talked. I know that doesn't mean you've stopped trying, it probably means you've been living in that place between hope and exhaustion where most parents of verbal aut"
+    },
+    {
+      "index": 2,
+      "name": "Section 2 \u2014 Validation: Absolve the Guilt (R2, R6)",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "I want to name something that rarely gets said out loud:\n\n> *\"He gets it, but he doesn't get it.\"*\n\nThat sentence, the one that lives in your head and your search history, is not proof that something"
+    },
+    {
+      "index": 3,
+      "name": "Section 3 \u2014 The Pre-K Window (L1-Specific Urgency Anchor)",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Let me be direct with you, because you can hear this in a way other parents can't.\n\nPre-K enrollment is a deadline. Many schools require daytime training before the first day. If your child is 4 or t"
+    },
+    {
+      "index": 4,
+      "name": "Section 4 \u2014 Pre-K Success Story: Testimonial (R1, R6)",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "> *\"We started three months before Pre-K. The first two weeks, nothing. Week 3, he paused mid-play and looked down. That was the first time he'd ever noticed he was wet. By week 6, he was telling us"
+    },
+    {
+      "index": 5,
+      "name": "Section 5 \u2014 Offer: 3+3 Bundle with Urgency + Permission (R6)",
+      "type": "code",
+      "color": "#FAF7F0",
+      "content_preview": "If Pre-K is on your horizon, or even if it's still a few months out, the most important thing you can give your child right now is **consistent daily wear**. Not 3 hours a week. Not just on weekends."
+    },
+    {
+      "index": 6,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

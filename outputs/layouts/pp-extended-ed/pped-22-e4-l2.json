@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-22-e4-l2",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Section 1",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "**Subject:** 3 weeks in, here's what your child's brain is doing"
+    },
+    {
+      "index": 1,
+      "name": "Section 6",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "**What the research says about this specific window**"
+    },
+    {
+      "index": 2,
+      "name": "Section 16",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Some parents at week 3 report: a pause mid-play, a glance at the wet spot, a step toward the bathroom. These are not coincidences. The body signal pathway is forming. The 49 studies review (Barmpagian"
+    },
+    {
+      "index": 3,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

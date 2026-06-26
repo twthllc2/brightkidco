@@ -1,0 +1,41 @@
+{
+  "email_id": "winback-b-24-e3-l3",
+  "flow_type": "winback-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "FROM NAME",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "Lena from BrightKidCo"
+    },
+    {
+      "index": 1,
+      "name": "BODY",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "---\n\n**SECTION 1, The Recognition Hook (Dignity Acknowledgment)**\n\nYou've been at this longer than most of us can imagine.\n\nI don't know exactly where you are with potty training, whether you've step"
+    },
+    {
+      "index": 2,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFFBF0",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

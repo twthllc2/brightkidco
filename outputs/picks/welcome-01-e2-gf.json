@@ -1,0 +1,60 @@
+{
+  "email_id": "welcome-01-e2-gf",
+  "sections": [
+    {
+      "section_name": "Hook \u2014 The Universal Reframe",
+      "section_type": "hero",
+      "component_id": "HERO-20",
+      "component_name": "Handwritten Letter Opener (uses Letter)",
+      "component_source": "G+",
+      "giuliano": "giuliano_derived",
+      "image_files": [
+        "toddler-livingroom-dino-yellow.png"
+      ]
+    },
+    {
+      "section_name": "Failed Methods Recognition",
+      "section_type": "reframe",
+      "component_id": "EMODEEP-14",
+      "component_name": "The Identity Reframe",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": [
+        "toddlers-backview-disposable-diapers.png"
+      ]
+    },
+    {
+      "section_name": "Mechanism Deep",
+      "section_type": "definition",
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": [
+        "toddler-potty-ladder-pink-multicolor.png"
+      ]
+    },
+    {
+      "section_name": "Parent Story",
+      "section_type": "story",
+      "component_id": "STORY-05",
+      "component_name": "Diary Entry \u2014 Handwritten-style journal",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": [
+        "toddler-napping-watermelon-pink-shorts.png"
+      ]
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "CTADEEP-18",
+      "component_name": "The Exit CTA",
+      "component_source": "G+",
+      "giuliano": "giuliano_derived",
+      "image_files": [
+        "toddler-backpack-moon-cloud-blue.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "email_id": "pped-22-e2-l2",
+  "sections": [
+    {
+      "index": 0,
+      "type": "definition",
+      "component_id": "EDU-2",
+      "component_name": "Did You Know Card",
+      "image_file": "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+    },
+    {
+      "index": 1,
+      "type": "letter",
+      "component_id": "3.2",
+      "component_name": "Eyebrow Label (uses Eyebrow)",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+    },
+    {
+      "index": 2,
+      "type": "guarantee",
+      "component_id": "SP-05",
+      "component_name": "Trust Pill Strip",
+      "image_file": "flat-lay/swim-diaper-unicorn-pink.jpg"
+    },
+    {
+      "index": 3,
+      "type": "product",
+      "component_id": "PRODEEP-7",
+      "component_name": "The Color Personality",
+      "image_file": "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTADEEP-04",
+      "component_name": "The Curiosity Closer",
+      "image_file": "flat-lay/laundry-bag-llama-cream.png"
+    }
+  ]
+}

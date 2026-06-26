@@ -1,0 +1,40 @@
+{
+  "email_id": "pped-11-d7",
+  "sections": [
+    {
+      "index": 0,
+      "type": "letter",
+      "component_id": "23.2",
+      "component_name": "Drop Cap Initial Letter (uses Letter)",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+    },
+    {
+      "index": 1,
+      "type": "reframe",
+      "component_id": "DEEP-11",
+      "component_name": "The Guilt Audit",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "EDUDEEP-4",
+      "component_name": "The Interoception Test",
+      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
+    },
+    {
+      "index": 3,
+      "type": "testimonial",
+      "component_id": "SP-09",
+      "component_name": "UGC Photo Grid",
+      "image_file": "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-9",
+      "component_name": "Floating CTA",
+      "image_file": "flat-lay/laundry-bag-llama-cream.png"
+    }
+  ]
+}

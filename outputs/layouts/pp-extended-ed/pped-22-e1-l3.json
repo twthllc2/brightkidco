@@ -1,0 +1,55 @@
+{
+  "email_id": "pped-22-e1-l3",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "SECTION 1: HOOK / OBSERVATION",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "\"After all these years, you know your child better than anyone.\"\n\n\"That's not a line. That's the truth.\"\n\n\"You've watched him in ways no therapist, no consultant, no book author ever could. You know"
+    },
+    {
+      "index": 1,
+      "name": "SECTION 2: VALIDATION",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "\"You've been on this road for years. You've heard every pitch, every promise, every 'this time it will be different.' And every time, life went back to the way it was.\"\n\n\"That's not failure. That's h"
+    },
+    {
+      "index": 2,
+      "name": "SECTION 3: MECHANISM / EDUCATION",
+      "type": "definition",
+      "color": "#FFFBF0",
+      "content_preview": "\"The Body-Signal Learning Layer doesn't change who your child is.\"\n\n\"The BSL Layer is not a training program. It's not a schedule. It's not a reward system. It's a gentle sensation that lasts loop th"
+    },
+    {
+      "index": 3,
+      "name": "SECTION 4: TESTIMONIAL / SOCIAL PROOF",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "\"A mom wrote us recently. Her son is 9, non-verbal, Level 3. She'd stopped pushing years ago. She kept him clean, kept him safe, kept him loved. She'd stopped believing in progress.\"\n\n\"Someone sent h"
+    },
+    {
+      "index": 4,
+      "name": "SECTION 5: PRODUCT / OFFER (Gentle Reframe)",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "\"You already have a pair. You've had it for a few weeks now.\"\n\n\"Maybe it's sitting in a drawer. Maybe he's worn it a few times. Maybe the rhythm hasn't found itself yet. All of that is okay.\"\n\n\"The B"
+    },
+    {
+      "index": 5,
+      "name": "SECTION 6: GUARANTEE / RISK REMOVAL",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "\"The 60-day guarantee exists for one reason: so you can try without having to believe.\"\n\n\"If something shifts, it shifts. If not, you've been doing the right thing all along. Full refund. No question"
+    },
+    {
+      "index": 6,
+      "name": "SECTION 7: CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "\"You know your child. You know your timeline. Whatever that timeline looks like, it's the right one.\"\n\n\"If nothing has changed yet, that's not a sign that nothing will. Some pathways take longer to f"
+    }
+  ]
+}

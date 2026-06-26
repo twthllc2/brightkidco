@@ -1,0 +1,52 @@
+{
+  "email_id": "welcome-01-e3-l1",
+  "sections": [
+    {
+      "index": 0,
+      "type": "hero",
+      "component_id": "HERO-13",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png",
+      "component_name": "Scientific Hook"
+    },
+    {
+      "index": 1,
+      "type": "reframe",
+      "component_id": "2",
+      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "HERO-16",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png",
+      "component_name": "Mechanism Tease"
+    },
+    {
+      "index": 3,
+      "type": "testimonial",
+      "component_id": "SP-07",
+      "image_file": null
+    },
+    {
+      "index": 4,
+      "type": "product",
+      "component_id": "6.2",
+      "image_file": "flat-lay/training-pant-fox-woodland-white.jpg",
+      "component_name": "ProductShowcaseMedium (Giuliano source)"
+    },
+    {
+      "index": 5,
+      "type": "guarantee",
+      "component_id": "DESDEEP-13",
+      "image_file": "accessories/book-potty-training-guide.png",
+      "component_name": "The Badge System"
+    },
+    {
+      "index": 6,
+      "type": "cta",
+      "component_id": "CTA-8",
+      "image_file": null,
+      "component_name": "Dual CTA"
+    }
+  ]
+}

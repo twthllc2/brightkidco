@@ -1,0 +1,47 @@
+{
+  "email_id": "detection-10",
+  "sections": [
+    {
+      "index": 0,
+      "type": "hero",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
+    },
+    {
+      "index": 1,
+      "type": "reframe",
+      "component_id": "DEEP-02",
+      "component_name": "The Mom Confessional",
+      "image_file": "flat-lay/swim-diaper-unicorn-pink.jpg"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "DEEP-16",
+      "component_name": "The Brain-Body Bridge",
+      "image_file": "flat-lay/training-pant-cloud-raindrop-white.jpg"
+    },
+    {
+      "index": 3,
+      "type": "letter",
+      "component_id": "3.2",
+      "component_name": "Eyebrow Label (uses Eyebrow)",
+      "image_file": "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+    },
+    {
+      "index": 4,
+      "type": "guarantee",
+      "component_id": "10.1",
+      "component_name": "60-Day Seal (alias for PartBadge/Letter)",
+      "image_file": "flat-lay/training-pant-penguin-multicolor.jpg"
+    },
+    {
+      "index": 5,
+      "type": "cta",
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "image_file": "flat-lay/swim-diaper-giraffe-yellow.jpg"
+    }
+  ]
+}

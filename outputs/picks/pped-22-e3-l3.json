@@ -1,0 +1,40 @@
+{
+  "email_id": "pped-22-e3-l3",
+  "sections": [
+    {
+      "index": 0,
+      "type": "letter",
+      "component_id": "13.2",
+      "component_name": "Letter & Envelope (uses Letter)",
+      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+    },
+    {
+      "index": 1,
+      "type": "definition",
+      "component_id": "EDUDEEP-5",
+      "component_name": "The Brain Map",
+      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+    },
+    {
+      "index": 2,
+      "type": "feel",
+      "component_id": "DEEP-14",
+      "component_name": "The Sensory Map",
+      "image_file": "flat-lay/training-pant-penguin-multicolor.jpg"
+    },
+    {
+      "index": 3,
+      "type": "testimonial",
+      "component_id": "7",
+      "component_name": "Parent Stories (Emotional Proof)",
+      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTA-9",
+      "component_name": "Floating CTA",
+      "image_file": "lifestyle/washing-machine-training-pants.png"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e4-gf",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "Whether your child is just starting to show signs, or you're years into what feels like every possible method, if they don't feel when they need to go, you've been fighting the wrong battle.\n\nI hear"
+    },
+    {
+      "index": 1,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 2,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 3,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "email_id": "pp-leveldetect-01-e1",
+  "flow_type": "pp-level-detection",
+  "sections": [
+    {
+      "index": 0,
+      "name": "HERO / HEADLINE",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Which one sounds like your child?\n\nTwo weeks in. Help us send you the right content.\n\n---\n\n**LEVEL SELECTION (4 clickable buttons + 1 dashed variant)**\n\nEach card is a clickable button. NO CTA button."
+    },
+    {
+      "index": 1,
+      "name": "HELPER TEXT",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "Pick the one that sounds most like your child. We'll tailor what you see next.\n\n---\n\n**LENA SIGN-OFF (SHORT VARIANT)**\nThanks for being here. If you have a question, hit reply. You'll get me, not a te"
+    },
+    {
+      "index": 2,
+      "name": "Product Showcase",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "Product features"
+    },
+    {
+      "index": 3,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

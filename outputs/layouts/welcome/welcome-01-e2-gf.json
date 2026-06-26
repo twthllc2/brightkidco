@@ -1,0 +1,41 @@
+{
+  "email_id": "welcome-01-e2-gf",
+  "flow_type": "welcome",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook \u2014 The Universal Reframe",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or wondering, if they don't feel when they need to go, every method that assumes they do will fail.\n\nYou've tried what the books and the"
+    },
+    {
+      "index": 1,
+      "name": "Failed Methods Recognition",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "Sitting on the potty for 20 minutes and having nothing happen. The reward chart with a full row of stickers, and still no progress. \"He knows he has to go, he just won't.\" I hear versions of this stor"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism Deep",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "There's a word for this: **interoception** \u2014 the internal sense of what's happening inside your body. For children with sensory differences, the signal from bladder to brain can be delayed or absent."
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** See how body-signal learning works\n- **Secondary link text:** No rush, read when you're ready\n- **Placement:** Below the mechanism section, above the Lena sign-off\n\nThe difference b"
+    }
+  ]
+}

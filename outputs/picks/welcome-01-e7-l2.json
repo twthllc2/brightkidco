@@ -1,0 +1,49 @@
+{
+  "email_id": "welcome-01-e7-l2",
+  "section_0": {
+    "section_type": "hero",
+    "section_name": "HOOK",
+    "component_id": "CSHOP-1",
+    "component_name": "Bestseller Hero",
+    "component_source": "A",
+    "image_file": "founders-holding-pants-yellow-watermelon.png",
+    "image_category": "lifestyle"
+  },
+  "section_1": {
+    "section_type": "story",
+    "section_name": "Parent Story",
+    "component_id": "STORY-14",
+    "component_name": "Micro-Story \u2014 Single powerful moment",
+    "component_source": "A*",
+    "image_file": "toddler-potty-ladder-pink-multicolor.png",
+    "image_category": "lifestyle"
+  },
+  "section_2": {
+    "section_type": "testimonial",
+    "section_name": "Social Proof",
+    "component_id": "PSYCH-03",
+    "component_name": "Social Proof Cascade",
+    "component_source": "A*",
+    "image_file": "toddler-potty-ladder-yellow-woodland.png",
+    "image_category": "lifestyle"
+  },
+  "section_3": {
+    "section_type": "definition",
+    "section_name": "The Science",
+    "component_id": "EDU-9",
+    "component_name": "Tip Cards",
+    "component_source": "A*",
+    "image_file": "cloth-pads-watermelon-astronaut-cat.png",
+    "image_category": "accessories"
+  },
+  "section_4": {
+    "section_type": "cta",
+    "section_name": "CTA",
+    "component_id": "CTADEEP-04",
+    "component_name": "The Curiosity Closer",
+    "component_source": "A*",
+    "image_file": null,
+    "image_category": null
+  },
+  "total_images": 4
+}

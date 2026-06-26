@@ -1,0 +1,61 @@
+{
+  "email_id": "winback-a-19-e3-l1",
+  "sections": [
+    {
+      "section_name": "BODY",
+      "section_type": "letter",
+      "component_id": "13.2",
+      "component_name": "Letter & Envelope (uses Letter)",
+      "image_file": "",
+      "image_category": ""
+    },
+    {
+      "section_name": "Section 1 \u2014 Hook",
+      "section_type": "hero",
+      "component_id": "FLOW-6",
+      "component_name": "Winback Opener",
+      "image_file": "toddler-playing-train-moon-cloud-blue.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "Section 2 \u2014 Validation",
+      "section_type": "reframe",
+      "component_id": "EMODEEP-01",
+      "component_name": "The Guilt Reframe",
+      "image_file": "",
+      "image_category": ""
+    },
+    {
+      "section_name": "Section 3 \u2014 The Pre-K Window",
+      "section_type": "definition",
+      "component_id": "EDU-5",
+      "component_name": "Infographic",
+      "image_file": "training-pant-fox-red-white.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "Section 4 \u2014 Pre-K Success Story",
+      "section_type": "story",
+      "component_id": "HERO-4",
+      "component_name": "Story Fragment",
+      "image_file": "toddler-backpack-moon-cloud-blue.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "Section 5 \u2014 Offer: 3+3 Bundle",
+      "section_type": "code",
+      "component_id": "UTIL-06",
+      "component_name": "Preheader Bar",
+      "image_file": "training-pant-watermelon-pink.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "CTA-12",
+      "component_name": "Exit Close",
+      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

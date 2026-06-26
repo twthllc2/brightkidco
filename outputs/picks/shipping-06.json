@@ -1,0 +1,44 @@
+{
+  "email_id": "shipping-06",
+  "sections": [
+    {
+      "index": 0,
+      "type": "letter",
+      "component_id": "12.2",
+      "component_name": "Footer (Giuliano source) *(L1059)*",
+      "image_file": "flat-lay/training-pant-bunny-hearts-pink.jpg"
+    },
+    {
+      "index": 1,
+      "type": "steps",
+      "component_id": "EDU-2",
+      "component_name": "Step Cards *(L5226)*",
+      "image_file": "flat-lay/diaper-woodland-creature-yellow.jpg"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "EDU-1",
+      "component_name": "Definition Block *(L5203)*",
+      "image_file": "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+    },
+    {
+      "index": 3,
+      "type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source) *(L641)*",
+      "image_file": "accessories/towel-set-llama-cactus.png"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "8",
+      "component_name": "CTA Varieties (Permission-Based) *(L211)*",
+      "image_file": "flat-lay/swim-diaper-giraffe-yellow.jpg"
+    }
+  ],
+  "stats": {
+    "image_count": 5,
+    "component_count": 5
+  }
+}

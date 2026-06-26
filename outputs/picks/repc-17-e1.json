@@ -1,0 +1,47 @@
+{
+  "email_id": "repc-17-e1",
+  "sections": [
+    {
+      "index": 0,
+      "type": "hero",
+      "component_id": "HERO-17",
+      "component_name": "Social Proof Hero",
+      "image_file": "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+    },
+    {
+      "index": 1,
+      "type": "reframe",
+      "component_id": "STORY-09",
+      "component_name": "The Reframe \u2014 Challenge \u2192 New perspective *(L4559)*",
+      "image_file": "flat-lay/training-pant-penguin-multicolor.jpg"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "HERO-16",
+      "component_name": "Mechanism Tease *(L4164)*",
+      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+    },
+    {
+      "index": 3,
+      "type": "product",
+      "component_id": "6.3",
+      "component_name": "ProductShowcaseSoft (Giuliano source) *(L670)*",
+      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
+    },
+    {
+      "index": 4,
+      "type": "testimonial",
+      "component_id": "PSYDEEP-11",
+      "component_name": "The Social Proof Ladder *(L12983)*",
+      "image_file": "flat-lay/training-pant-bunny-hearts-pink.jpg"
+    },
+    {
+      "index": 5,
+      "type": "cta",
+      "component_id": "8",
+      "component_name": "CTA Varieties (Permission-Based) *(L211)*",
+      "image_file": "flat-lay/swim-diaper-giraffe-yellow.jpg"
+    }
+  ]
+}

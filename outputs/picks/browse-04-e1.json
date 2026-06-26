@@ -1,0 +1,56 @@
+{
+  "email_id": "browse-04-e1",
+  "flow_type": "browse",
+  "total_images": 5,
+  "giuliano_sections": 3,
+  "sections": {
+    "section_0": {
+      "section_name": "Email Body",
+      "section_type": "letter",
+      "component_id": "4.1",
+      "component_name": "Letter Section (uses Letter)",
+      "component_source": "G+",
+      "giuliano": "giuliano_derived",
+      "image_files": []
+    },
+    "section_1": {
+      "section_name": "Parent Story",
+      "section_type": "story",
+      "component_id": "STORY-06",
+      "component_name": "Photo Essay — Image-placeholder narrative cards",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": ["toddler-playing-train-moon-cloud-blue.png"]
+    },
+    "section_2": {
+      "section_name": "Guarantee",
+      "section_type": "guarantee",
+      "component_id": "TRUST-1",
+      "component_name": "60-Day Seal",
+      "component_source": "A*",
+      "giuliano": "quality_approved",
+      "image_files": ["founders-holding-pants-yellow-watermelon.png"]
+    },
+    "section_3": {
+      "section_name": "Product Showcase",
+      "section_type": "product",
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source)",
+      "component_source": "G",
+      "giuliano": "giuliano_source",
+      "image_files": [
+        "toddler-potty-ladder-yellow-woodland.png",
+        "laundry-bag-llama-cream.png"
+      ]
+    },
+    "section_4": {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "5.1",
+      "component_name": "Dark CTA (CTAClose) (uses CTAClose)",
+      "component_source": "G+",
+      "giuliano": "giuliano_derived",
+      "image_files": ["toddler-livingroom-dino-yellow.png"]
+    }
+  }
+}

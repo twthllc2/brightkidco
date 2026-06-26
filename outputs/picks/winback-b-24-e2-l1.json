@@ -1,0 +1,45 @@
+{
+  "email_id": "winback-b-24-e2-l1",
+  "sections": [
+    {
+      "section_name": "Section 1",
+      "section_type": "letter",
+      "component_id": "13.2",
+      "component_name": "Letter & Envelope (uses Letter)",
+      "image_file": "",
+      "image_category": ""
+    },
+    {
+      "section_name": "Section 2",
+      "section_type": "testimonial",
+      "component_id": "PSYDEEP-11",
+      "component_name": "The Social Proof Ladder",
+      "image_file": "toddler-napping-watermelon-pink-shorts.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_name": "Section 7",
+      "section_type": "definition",
+      "component_id": "1",
+      "component_name": "The Body Signal Concept (Core Mechanism Visual)",
+      "image_file": "training-pant-bunny-hearts-pink.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "Product Showcase",
+      "section_type": "product",
+      "component_id": "6.3",
+      "component_name": "ProductShowcaseSoft (Giuliano source)",
+      "image_file": "training-pant-fox-woodland-white.jpg",
+      "image_category": "flatlay"
+    },
+    {
+      "section_name": "CTA",
+      "section_type": "cta",
+      "component_id": "CTA-9",
+      "component_name": "Floating CTA",
+      "image_file": "toddlers-backview-disposable-diapers.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}

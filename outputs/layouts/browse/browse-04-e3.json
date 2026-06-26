@@ -1,0 +1,55 @@
+{
+  "email_id": "browse-04-e3",
+  "flow_type": "browse",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#EEE8F6",
+      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or you're still figuring it out, if they don't feel when they need to go, you've been working with one hand tied behind your back."
+    },
+    {
+      "index": 1,
+      "name": "Recognition Anchors (R2 / R1 / R3 / R4)",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "You've probably experienced some version of this:\n\n\u2022 He sits on the toilet for 20 minutes, nothing happens, and then pees 30 seconds after you put the pull-up back on.\n\u2022 She plays in a wet diaper lik"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism Recap",
+      "type": "definition",
+      "color": "#FFFBF0",
+      "content_preview": "Here's what we know now that we didn't know five years ago: many autistic children can't feel the internal signal that says \"I need to go.\" It's called interoception, the sense that tells your body w"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof, Mini-Wins (R6)",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "The parents who've tried it describe success in small, real moments:\n\n> \"He looked down at the wet spot for the first time in his life. That never happened before.\"\n>, Sarah, mom of a 4-year-old (ver"
+    },
+    {
+      "index": 4,
+      "name": "Product Introduction",
+      "type": "product",
+      "color": "#F0EDF8",
+      "content_preview": "The underwear itself is a three-layer system: a cotton inner that creates the signal, a smart absorption layer that protects without wicking the sensation away, and a leak-resistant outer barrier. It"
+    },
+    {
+      "index": 5,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "60 days. Your judgment. If your child shows no sign of body awareness, no pause, no look, no change at all, full refund. Not because I expect you to ask for one. Because you should never feel stuck w"
+    },
+    {
+      "index": 6,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** See how the body-signal layer works\n- **Price anchor:** That's $13.33 per pair with the bundle \u2014 less than half the single-pair price.\n- **Secondary link text:** Read reviews from 1"
+    }
+  ]
+}

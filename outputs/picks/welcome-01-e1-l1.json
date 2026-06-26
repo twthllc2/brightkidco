@@ -1,0 +1,40 @@
+{
+  "email_id": "welcome-01-e1-l1",
+  "sections": [
+    {
+      "index": 0,
+      "type": "hero",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "image_file": "toddler-potty-ladder-yellow-woodland.png"
+    },
+    {
+      "index": 1,
+      "type": "story",
+      "component_id": "STORY-14",
+      "component_name": "Micro-Story \u2014 Single powerful moment",
+      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+    },
+    {
+      "index": 2,
+      "type": "definition",
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "image_file": null
+    },
+    {
+      "index": 3,
+      "type": "product",
+      "component_id": "PRODEEP-5",
+      "component_name": "The Product Chemistry",
+      "image_file": "flat-lay/training-pant-watermelon-pink.jpg"
+    },
+    {
+      "index": 4,
+      "type": "cta",
+      "component_id": "CTADEEP-04",
+      "component_name": "The Curiosity Closer",
+      "image_file": null
+    }
+  ]
+}

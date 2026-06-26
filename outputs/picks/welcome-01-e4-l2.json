@@ -1,0 +1,50 @@
+{
+  "email_id": "welcome-01-e4-l2",
+  "sections": [
+    {
+      "section_type": "hero",
+      "section_name": "Hook",
+      "component_id": "FLOWDEEP-1",
+      "component_name": "Welcome E1 Hook",
+      "component_source": "A*",
+      "image_file": "founders-holding-pants-yellow-watermelon.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "testimonial",
+      "section_name": "Social Proof",
+      "component_id": "30.2",
+      "component_name": "Letter-Embedded Quote (uses Letter)",
+      "component_source": "G+",
+      "image_file": "toddler-backpack-moon-cloud-blue.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "guarantee",
+      "section_name": "Guarantee",
+      "component_id": "EMODEEP-18",
+      "component_name": "The Letter From Lena (uses Letter)",
+      "component_source": "G+",
+      "image_file": "toddler-playing-train-moon-cloud-blue.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "product",
+      "section_name": "Product Showcase",
+      "component_id": "PRODEEP-8",
+      "component_name": "The Bundle Builder",
+      "component_source": "A*",
+      "image_file": "training-pant-penguin-multicolor.jpg",
+      "image_category": "flat-lay"
+    },
+    {
+      "section_type": "cta",
+      "section_name": "CTA",
+      "component_id": "CTA-12",
+      "component_name": "Exit Close",
+      "component_source": "G+",
+      "image_file": null,
+      "image_category": null
+    }
+  ]
+}

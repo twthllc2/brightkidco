@@ -1,0 +1,41 @@
+{
+  "email_id": "repb-16-e2",
+  "flow_type": "replenish-b",
+  "sections": [
+    {
+      "index": 0,
+      "name": "OPENING, Universal Recognition (R1, R3, R4)",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still figuring it out, 90 days of body-signal learning is real time.\n\nSome kids show their first pause within weeks. Others take mont"
+    },
+    {
+      "index": 1,
+      "name": "Guarantee",
+      "type": "guarantee",
+      "color": "#FFFBF0",
+      "content_preview": "60-day guarantee"
+    },
+    {
+      "index": 2,
+      "name": "The Science",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "Mechanism explanation"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Parent testimonials"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

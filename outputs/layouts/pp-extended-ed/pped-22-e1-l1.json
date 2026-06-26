@@ -1,0 +1,55 @@
+{
+  "email_id": "pped-22-e1-l1",
+  "flow_type": "pp-extended-ed",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "You're in week three now. Maybe you've seen a pause, that moment where he stops mid-play and looks down. Maybe you haven't seen anything yet. Either way, I want to talk about something that's probabl"
+    },
+    {
+      "index": 1,
+      "name": "Validation",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "If you've been worried that he's \"almost trained\" for months, that he talks about the potty but can't reliably act on it, I want you to hear this: that's not a failure of effort. It's not a failure o"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism \u2014 The Interoception Pathway",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Interoception is the \"eighth sensory system\" \u2014 the sense that tells us when we're hungry, thirsty, or need the bathroom. For autistic children, that network has a delay: the signal from the bladder t"
+    },
+    {
+      "index": 3,
+      "name": "Social Proof / Testimonial",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "Sarah's son Jake was 4, verbal, \"almost trained\" for five months. He could talk about the potty, he could sit when prompted, but he never initiated. After three weeks in BrightKidCo underwear, his mo"
+    },
+    {
+      "index": 4,
+      "name": "Product Introduction",
+      "type": "product",
+      "color": "#F5F1EA",
+      "content_preview": "The 3+3 Bundle you're already using, six pairs of Body-Signal Learning underwear, is building exactly this pathway. Each wear session gives your child's brain 30-60 seconds of gentle sensation that l"
+    },
+    {
+      "index": 5,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "You're already covered by the 60-day guarantee. If nothing shifts, your judgment is the only one that matters, full refund, no questions."
+    },
+    {
+      "index": 6,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** See how body signals build readiness\n- **Secondary link text:** Track your child's progress, download the awareness journal\n- **Placement:** After Section 4 (Testimonial), reinforce"
+    }
+  ]
+}

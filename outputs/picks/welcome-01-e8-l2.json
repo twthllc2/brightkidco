@@ -1,0 +1,49 @@
+{
+  "email_id": "welcome-01-e8-l2",
+  "section_0": {
+    "section_type": "hero",
+    "section_name": "HOOK (Attention)",
+    "component_id": "DEEPCAMP-10",
+    "component_name": "DEEPCAMP-10 \u2014 Christmas Morning (Gift-Unwrap Hero)",
+    "component_source": "A",
+    "image_file": "toddler-livingroom-dino-yellow.png",
+    "image_category": "lifestyle"
+  },
+  "section_1": {
+    "section_type": "product",
+    "section_name": "Product Showcase",
+    "component_id": "PSYDEEP-9",
+    "component_name": "The Authority Layer",
+    "component_source": "A*",
+    "image_file": "training-pant-cloud-raindrop-white.jpg",
+    "image_category": "flat-lay"
+  },
+  "section_2": {
+    "section_type": "testimonial",
+    "section_name": "Social Proof",
+    "component_id": "DEEP-13",
+    "component_name": "The Reverse Testimonial",
+    "component_source": "A*",
+    "image_file": "toddlers-backview-disposable-diapers.png",
+    "image_category": "lifestyle"
+  },
+  "section_3": {
+    "section_type": "story",
+    "section_name": "Parent Story",
+    "component_id": "PERS-07",
+    "component_name": "Purchase History",
+    "component_source": "A*",
+    "image_file": "toddler-rearview-cat-mustard.png",
+    "image_category": "lifestyle"
+  },
+  "section_4": {
+    "section_type": "cta",
+    "section_name": "CTA",
+    "component_id": "CTADEEP-08",
+    "component_name": "The Story Closer",
+    "component_source": "A*",
+    "image_file": "toddler-napping-watermelon-pink-shorts.png",
+    "image_category": "lifestyle"
+  },
+  "total_images": 5
+}

@@ -1,0 +1,48 @@
+{
+  "email_id": "detection-10",
+  "flow_type": "pp-level-detection",
+  "sections": [
+    {
+      "index": 0,
+      "name": "Hook",
+      "type": "hero",
+      "color": "#FFFBF0",
+      "content_preview": "It's been two weeks since your order arrived. How's it going so far?\n\nMaybe your kid is starting to pause when they feel the wetness. Maybe they haven't noticed at all yet. Maybe you're somewhere in b"
+    },
+    {
+      "index": 1,
+      "name": "Validation",
+      "type": "reframe",
+      "color": "#EAF6F2",
+      "content_preview": "We've been doing this long enough to know: every family's situation is different. Your child might be 3 or 10. Verbal or non-verbal. Diagnosed or still figuring it out. You might have tried one method"
+    },
+    {
+      "index": 2,
+      "name": "Mechanism",
+      "type": "definition",
+      "color": "#FFFFFF",
+      "content_preview": "Here's what we know happens next. The 30-60 seconds of gentle \"uh-oh\" sensation after every accident gives the brainformation it's been missing. Each time that sensation arrives, a tiny neural connect"
+    },
+    {
+      "index": 3,
+      "name": "Help Us Help You (The Detection Moment)",
+      "type": "letter",
+      "color": "#FFF6E2",
+      "content_preview": "To make sure the emails you get from here match your child's experience, could you answer one question? It takes ten seconds. There's no wrong answer.\n\n**Which of these sounds most like your child rig"
+    },
+    {
+      "index": 4,
+      "name": "Guarantee / Risk Reversal",
+      "type": "guarantee",
+      "color": "#EAF6F2",
+      "content_preview": "Pick whichever one fits. There's no wrong choice, and whatever you tell us, the 60-day guarantee still stands. You decide if this approach is working for your family."
+    },
+    {
+      "index": 5,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": "- **Button text:** (The selected button text, linked to the appropriate action)\n- **Placement:** Section 4, the detection moment IS the CTA. No additional CTA needed after the buttons."
+    }
+  ]
+}

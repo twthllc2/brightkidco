@@ -1,0 +1,41 @@
+{
+  "email_id": "pped-11-d21",
+  "flow_type": "pp-education",
+  "sections": [
+    {
+      "index": 0,
+      "name": "2.1 Email Positioning",
+      "type": "definition",
+      "color": "#EAF6F2",
+      "content_preview": "| Element | Specification |\n|---------|---------------|\n| **Flow** | PP-Education D0-21 (Flow 11) |\n| **Email #** | E4 (Day 21) |\n| **Type** | Cross-Level (R1-R6) |\n| **Phase** | Wave 5 \u2014 Post-Purcha"
+    },
+    {
+      "index": 1,
+      "name": "2.4 Three-Family Testimonial Pattern (GF Inclusion)",
+      "type": "testimonial",
+      "color": "#FFF6E2",
+      "content_preview": "The testimonial block features three named families, Sarah, Lisa, Maria, each with a distinct child profile:\n\n| Family | Child Profile | Email Position | Function |\n|--------|---------------|--------"
+    },
+    {
+      "index": 2,
+      "name": "2.9 Tone & Energy Calibration",
+      "type": "letter",
+      "color": "#FFFFFF",
+      "content_preview": "| Dimension | Setting |\n|-----------|---------|\n| **Hope/Realism** | 50/50 (cross-level standard) |\n| **Energy** | Measured, reflective \u2014 a check-in, not a push |\n| **Peer Voice** | Lena as fellow mo"
+    },
+    {
+      "index": 3,
+      "name": "Parent Story",
+      "type": "story",
+      "color": "#FFF6E2",
+      "content_preview": "Real parent story"
+    },
+    {
+      "index": 4,
+      "name": "CTA",
+      "type": "cta",
+      "color": "#1F2D2F",
+      "content_preview": ""
+    }
+  ]
+}

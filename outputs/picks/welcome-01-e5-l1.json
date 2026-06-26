@@ -1,0 +1,50 @@
+{
+  "email_id": "welcome-01-e5-l1",
+  "sections": [
+    {
+      "section_type": "hero",
+      "section_name": "HOOK",
+      "component_id": "HERO-13",
+      "component_name": "Scientific Hook",
+      "component_source": "G+",
+      "image_file": "washing-machine-training-pants.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "story",
+      "section_name": "Parent Story",
+      "component_id": "STORYDEEP-03",
+      "component_name": "The Letter From Future (uses Letter)",
+      "component_source": "G+",
+      "image_file": "toddlers-backview-disposable-diapers.png",
+      "image_category": "lifestyle"
+    },
+    {
+      "section_type": "definition",
+      "section_name": "The Science",
+      "component_id": "EDU-11",
+      "component_name": "Science Citation",
+      "component_source": "A*",
+      "image_file": "training-pant-cloud-raindrop-white.jpg",
+      "image_category": "flat-lay"
+    },
+    {
+      "section_type": "guarantee",
+      "section_name": "Guarantee",
+      "component_id": "EMODEEP-18",
+      "component_name": "The Letter From Lena (uses Letter)",
+      "component_source": "G+",
+      "image_file": "book-potty-training-guide.png",
+      "image_category": "accessories"
+    },
+    {
+      "section_type": "cta",
+      "section_name": "CTA",
+      "component_id": "8",
+      "component_name": "CTA Varieties (Permission-Based)",
+      "component_source": "G+",
+      "image_file": "toddler-potty-ladder-yellow-woodland.png",
+      "image_category": "lifestyle"
+    }
+  ]
+}
