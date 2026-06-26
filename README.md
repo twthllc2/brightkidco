@@ -1,81 +1,98 @@
-# BrightKidCo — Email Marketing Project
-
-Email marketing for Giuliano's kids ecommerce brand. Copy done (124 files). Design system in progress via email-ops.
-
-## Client
-
-- **Name:** Giuliano
-- **Brand:** brightkidco.com
-- **Niche:** Kids brand (ecommerce)
-- **Location:** Germany
-- **Notes:** German — expects precision, data-backed strategy, professional delivery. Business partner is final decision-maker.
-
-## What Exists
-
-### Copy (done)
-124 email copy + creative strategy files across 20 flow types. All complete, all correct.
-
-### HTML Emails (127 files, mostly broken)
-`email-design/xhtml-emails/` has 127 HTML emails across 25 flows. Most of them are problematic:
-- **Not actually XHTML** — many are plain HTML, not email-client-compatible XHTML
-- **Broken rendering** — broken gradients, broken layouts, missing components
-- **No images or product showcases** — most are just walls of text and colors
-- **No creative angles** — no illustrations, no product photos, no lifestyle imagery
-- **Only 1-2 usable** — level-detection flow (2 emails) is the only decent one
-
-### Design System (in progress)
-Giuliano's JSX templates (`raw/BKCO - EMAIL MARKETING/`) are the design truth — they have SVG illustrations, product showcases, gradient bands, component variety. The canvas (`email-design/canvas.html`) extracts these components for composing new emails.
-
-## What Happened
+# BrightKidCo — Email Marketing Pipeline
 
 ```
-PHASE 1: Source Ingestion (54+ docs)           ✅ Done
-PHASE 2: Strategy Docs (8 docs, 793KB)        ✅ Done
-PHASE 3: Email Copy + Creative (124 files)     ✅ Done
-PHASE 4: Email HTML (multiple attempts)        ❌ Rejected — broken, no images
-PHASE 5: Design System (in progress)           🔄 Building from JSX source
+═══════════════════════════════════════════════════════════════
+BKC EMAIL PIPELINE
+═══════════════════════════════════════════════════════════════
+
+125 copy files → 125 unique Klaviyo HTML emails
+Each: different layout, 4-6 images, 3-6 components, all on-brand
+
+PIPELINE:
+  Step 0: Study actual emails    ✅ DONE
+  Step 1: Map 949 components     ✅ DONE
+  Step 2: Generate 125 layouts   ✅ DONE (99 unique patterns)
+  Step 3: Fill with picks        ✅ DONE (variance enforced)
+  Step 4: Assemble HTML          🔄 IN PROGRESS (v4 subagents)
+
+OUTPUT: 125 HTML files → outputs/html/
+═══════════════════════════════════════════════════════════════
 ```
 
-The first round of HTML emails failed — no images, broken layouts, no product showcases. Now building from Giuliano's JSX templates which have actual visual quality.
-
-## Project Structure
+## Structure
 
 ```
 brightkidco/
-├── README.md
 ├── outputs/
-│   ├── copy/                  124 email copy files (all flows, all levels)
-│   ├── email-design/          (moved from email-ops/email-design/ on Jun 17 2026)
-│   ├── strategy/              Strategy documents
-│   └── synthesis/             Source synthesis docs
-├── raw/
-│   ├── BKCO - EMAIL MARKETING/   JSX source (10-email welcome flow)
-│   ├── Welcome Flows - 10 Emails _standalone_.html
-│   └── *.md                       Design briefs, demands
-├── docs/                      Design briefs, demands
-└── demands/                   Client requirements
+│   ├── copy/             125 approved copy files (.md)
+│   ├── email-assets/
+│   │   ├── showcase-artifacts-final.html   949 components
+│   │   ├── component-index-v2.md          component index
+│   │   ├── section-components.json        mapped to section types
+│   │   └── product-photos/                31 product images
+│   ├── email-design-environment/           Giuliano's JSX source
+│   ├── layouts/           125 layout blueprints
+│   ├── picks/             125 component picks
+│   └── html/              125 HTML emails (being built)
+├── raw/                   Source materials (PDFs, zips)
+├── demands/               Giuliano's requirements
+├── scripts/
+│   ├── generate-layouts.py      Step 2: layout blueprints
+│   ├── map-section-components.py Step 1: component mapping
+│   └── track-variance.py        Step 3: variance enforcement
+├── plans/
+│   └── status-report.md  Master plan and status
+└── README.md
 ```
 
 ## Brand Tokens
 
 ```
-Primary:    #2BAEB4 (teal)
-Secondary:  #5DD07A (green)
-Dark:       #1F2D2F (ink)
-Body:       #4A6568 (soft)
-Background: #FBF7F1 (cream)
-Accent:     #FFD866 (yellow)
-
-Fonts: Questrial (body) + Fraunces (display) + Caveat (handwritten)
-Sender: "Lena from BrightKidCo"
+colors:  teal #2BAEB4  green #5DD07A  ink #1F2D2F
+         cream #FBF7F1  soft #4A6568  muted #8A9B9D
+fonts:   Questrial (main)  Fraunces (display)  Caveat (hand)
+gradient: linear-gradient(135deg, #2BAEB4, #5DD07A)
+width:   600px desktop, 420px mobile
 ```
 
-## Quality Standard
+## Section Colors
 
-> **"Would Giuliano be impressed?"**
+```
+warm white  #FFFBF0    hero, creed, path, comparison
+cream       #FFF6E2    letter, reframe, quote, story
+mint        #EAF6F2    definition, feel, guarantee
+lavender    #F0EDF8    product, expert
+beige       #F5F1EA    product full, images
+dark        #1F2D2F    CTA sections (ALWAYS)
+white       #FFFFFF    FAQ, objections, footer
+```
 
-The HTML emails didn't pass this test. Building from Giuliano's JSX source to match his visual standard.
+## Pipeline Status
 
-## License
+```
+Step 0: STUDY         ✅ Extracted patterns from Giuliano's JSX
+       - 27 primitives, 8 section colors, gradient bands
+       - VARIETY = different color sequences per email
 
-Private. All rights reserved.
+Step 1: MAP           ✅ 949 components → 16 section types
+       - hero(42), testimonial(42), product(102), cta(54) etc.
+
+Step 2: LAYOUTS       ✅ 125 blueprints with color sequences
+       - 99 unique patterns, 5-8 sections each
+       - 0 adjacent same colors, CTA always dark
+
+Step 3: PICKS         ✅ 125 picks with variance tracked
+       - Max 10x component reuse, 117 unique components
+       - 123/125 have 4-6 images
+
+Step 4: ASSEMBLY      🔄 Building via subagents (v4 approach)
+       - One subagent per email — makes design decisions
+       - Studies actual component HTML, not generic templates
+       - Output: 125 Klaviyo-compatible HTML files
+```
+
+## Links
+
+- GitHub: https://github.com/twthllc2/brightkidco
+- Client: BrightKidCo (Giuliano)
+- Agency: TENZA GROUP LLC
