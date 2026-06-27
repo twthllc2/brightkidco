@@ -2,60 +2,22 @@
   "email_id": "winback-b-24-e3-l2",
   "sections": [
     {
-      "section_name": "From Name",
-      "section_type": "letter",
-      "component_id": "3.2",
-      "component_name": "Eyebrow Label (uses Eyebrow)",
-      "image_file": "",
-      "image_category": ""
+      "type": "hero",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "image_files": [
+        "lifestyle/toddler-napping-watermelon-pink-shorts.png",
+        "resized/washing-machine.jpg"
+      ]
     },
     {
-      "section_name": "SECTION 1, HOOK",
-      "section_type": "hero",
-      "component_id": "HERO-17",
-      "component_name": "Social Proof Hero",
-      "image_file": "toddlers-backview-disposable-diapers.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "SECTION 2, VALIDATION",
-      "section_type": "reframe",
-      "component_id": "EMODEEP-01",
-      "component_name": "The Guilt Reframe",
-      "image_file": "",
-      "image_category": ""
-    },
-    {
-      "section_name": "SECTION 3, MECHANISM REFRESHER",
-      "section_type": "definition",
-      "component_id": "1",
-      "component_name": "The Body Signal Concept (Core Mechanism Visual)",
-      "image_file": "training-pant-cloud-raindrop-white.jpg",
-      "image_category": "flatlay"
-    },
-    {
-      "section_name": "SECTION 4, BCBA ACKNOWLEDGMENT",
-      "section_type": "testimonial",
-      "component_id": "PSYCH-03",
-      "component_name": "Social Proof Cascade",
-      "image_file": "toddler-rearview-cat-mustard.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "SECTION 5, REALISTIC TIMELINES + GUARANTEE",
-      "section_type": "guarantee",
-      "component_id": "DESDEEP-13",
-      "component_name": "The Badge System",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "SECTION 6, PERMISSION-NOT-TO-BUY",
-      "section_type": "cta",
-      "component_id": "CTA-9",
-      "component_name": "Floating CTA",
-      "image_file": "toddler-potty-ladder-yellow-woodland.png",
-      "image_category": "lifestyle"
+      "type": "cta",
+      "component_id": "CTA-8",
+      "component_name": "Dual CTA",
+      "image_files": [
+        "flat-lay/pocket-diaper-moon-cloud-blue.jpg",
+        "lifestyle/toddler-rearview-cat-mustard.png"
+      ]
     }
   ]
 }

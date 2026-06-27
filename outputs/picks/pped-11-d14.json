@@ -2,39 +2,36 @@
   "email_id": "pped-11-d14",
   "sections": [
     {
-      "index": 0,
-      "type": "letter",
-      "component_id": "EMODEEP-03",
-      "component_name": "The Permission Letter (uses Letter)",
-      "image_file": "flat-lay/diaper-woodland-creature-yellow.jpg"
+      "type": "hero",
+      "component_id": "FLOWDEEP-1",
+      "component_name": "Welcome E1 Hook",
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "testimonial",
-      "component_id": "7",
-      "component_name": "Parent Stories (Emotional Proof)",
-      "image_file": "lifestyle/founders-holding-pants-yellow-watermelon.png"
-    },
-    {
-      "index": 2,
       "type": "definition",
       "component_id": "EDU-5",
-      "component_name": "Mechanism Explainer",
-      "image_file": "flat-lay/training-pant-cloud-raindrop-white.jpg"
+      "component_name": "Infographic",
+      "image_files": [
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "story",
-      "component_id": "STORYDEEP-19",
-      "component_name": "The Time Lapse",
-      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      "type": "steps",
+      "component_id": "STORY-13",
+      "component_name": "Parallel Paths \u2014 Two families side by side",
+      "image_files": [
+        "lifestyle/toddler-livingroom-dino-yellow.png"
+      ]
     },
     {
-      "index": 4,
       "type": "cta",
       "component_id": "CTADEEP-10",
       "component_name": "The Community CTA",
-      "image_file": "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      "image_files": [
+        "flat-lay/training-pant-cloud-raindrop-white.jpg"
+      ]
     }
   ]
 }

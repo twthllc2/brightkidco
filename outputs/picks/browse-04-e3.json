@@ -2,60 +2,44 @@
   "email_id": "browse-04-e3",
   "sections": [
     {
-      "section_name": "Hook",
-      "section_type": "hero",
-      "component_id": "HERO-17",
-      "component_name": "Social Proof Hero",
-      "image_file": "toddlers-backview-disposable-diapers.png",
-      "image_category": "lifestyle"
+      "type": "hero",
+      "component_id": "DESDEEP-7",
+      "component_name": "The Typography Hero",
+      "image_files": [
+        "flat-lay/training-pant-fox-red-white.jpg"
+      ]
     },
     {
-      "section_name": "Recognition Anchors (R2 / R1 / R3 / R4)",
-      "section_type": "reframe",
-      "component_id": "EMODEEP-01",
-      "component_name": "The Guilt Reframe",
-      "image_file": "",
-      "image_category": ""
+      "type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "image_files": [
+        "flat-lay/training-pant-fox-woodland-white.jpg"
+      ]
     },
     {
-      "section_name": "Mechanism Recap",
-      "section_type": "definition",
-      "component_id": "EDU-5",
-      "component_name": "Infographic",
-      "image_file": "training-pant-fox-red-white.jpg",
-      "image_category": "flatlay"
+      "type": "feel",
+      "component_id": "STORY-04",
+      "component_name": "Deep Quote \u2014 Pull-quote feature story",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      ]
     },
     {
-      "section_name": "Social Proof, Mini-Wins (R6)",
-      "section_type": "testimonial",
+      "type": "testimonial",
       "component_id": "PSYDEEP-11",
       "component_name": "The Social Proof Ladder",
-      "image_file": "toddler-napping-watermelon-pink-shorts.png",
-      "image_category": "lifestyle"
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      ]
     },
     {
-      "section_name": "Product Introduction",
-      "section_type": "product",
-      "component_id": "PRODEEP-5",
-      "component_name": "The Product Chemistry",
-      "image_file": "laundry-bag-llama-cream.png",
-      "image_category": "flatlay"
-    },
-    {
-      "section_name": "Guarantee / Risk Reversal",
-      "section_type": "guarantee",
-      "component_id": "DESDEEP-18",
-      "component_name": "The Wax Seal",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTA-12",
       "component_name": "Exit Close",
-      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
-      "image_category": "lifestyle"
+      "image_files": [
+        "accessories/book-potty-training-guide.png"
+      ]
     }
   ]
 }

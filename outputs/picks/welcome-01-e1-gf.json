@@ -2,76 +2,43 @@
   "email_id": "welcome-01-e1-gf",
   "sections": [
     {
-      "section_name": "Hook",
-      "section_type": "hero",
-      "component_id": "LETTER-02",
-      "component_name": "Handwritten Opener",
-      "component_source": "G+",
-      "giuliano": "giuliano_derived",
+      "type": "hero",
+      "component_id": "FLOWDEEP-1",
+      "component_name": "Welcome E1 Hook",
       "image_files": [
-        "toddler-potty-ladder-yellow-woodland.png"
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
       ]
     },
     {
-      "section_name": "Validation",
-      "section_type": "reframe",
-      "component_id": "2",
-      "component_name": "The Reframe Moment",
-      "component_source": "A*",
-      "giuliano": "quality_approved",
-      "image_files": []
-    },
-    {
-      "section_name": "Mechanism",
-      "section_type": "definition",
-      "component_id": "EDU-9",
-      "component_name": "Tip Cards",
-      "component_source": "A*",
-      "giuliano": "quality_approved",
-      "image_files": []
-    },
-    {
-      "section_name": "Social Proof",
-      "section_type": "testimonial",
-      "component_id": "SP-07",
-      "component_name": "Counter-Testimonial",
-      "component_source": "A*",
-      "giuliano": "quality_approved",
+      "type": "testimonial",
+      "component_id": "PSYDEEP-11",
+      "component_name": "The Social Proof Ladder",
       "image_files": [
-        "toddler-outdoors-grass-disposable-diaper.png"
+        "accessories/book-potty-training-guide.png"
       ]
     },
     {
-      "section_name": "Product Intro",
-      "section_type": "product",
-      "component_id": "PRODEEP-8",
-      "component_name": "The Bundle Builder",
-      "component_source": "G",
-      "giuliano": "giuliano_source",
+      "type": "story",
+      "component_id": "HERO-4",
+      "component_name": "Story Fragment",
       "image_files": [
-        "training-pant-fox-woodland-white.jpg"
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png"
       ]
     },
     {
-      "section_name": "Guarantee",
-      "section_type": "guarantee",
-      "component_id": "SP-14",
-      "component_name": "Trust Badges Row",
-      "component_source": "A*",
-      "giuliano": "quality_approved",
+      "type": "definition",
+      "component_id": "EDU-5",
+      "component_name": "Infographic",
       "image_files": [
-        "book-potty-training-guide.png"
+        "lifestyle/toddler-napping-watermelon-pink-shorts.png"
       ]
     },
     {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTADEEP-10",
       "component_name": "The Community CTA",
-      "component_source": "G+",
-      "giuliano": "giuliano_derived",
       "image_files": [
-        "founders-holding-pants-yellow-watermelon.png"
+        "accessories/towel-set-llama-cactus.png"
       ]
     }
   ]

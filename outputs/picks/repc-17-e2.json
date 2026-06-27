@@ -2,57 +2,31 @@
   "email_id": "repc-17-e2",
   "sections": [
     {
-      "index": 0,
-      "type": "letter",
-      "component_id": "12.2",
-      "component_name": "Footer (Giuliano source) *(L1059)*",
-      "image_file": null
-    },
-    {
-      "index": 1,
       "type": "hero",
       "component_id": "HERO-17",
-      "component_name": "Social Proof Hero *(L4192)*",
-      "image_file": "resized/washing-machine.jpg"
+      "component_name": "Social Proof Hero",
+      "image_files": [
+        "flat-lay/training-pant-cloud-raindrop-white.jpg",
+        "lifestyle/founders-holding-pants-yellow-watermelon.png"
+      ]
     },
     {
-      "index": 2,
-      "type": "reframe",
-      "component_id": "DEEP-22",
-      "component_name": "The Milestone Reframe *(L9740)*",
-      "image_file": null
+      "type": "steps",
+      "component_id": "DEEP-15",
+      "component_name": "The Method Graveyard",
+      "image_files": [
+        "lifestyle/washing-machine-training-pants.png",
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "DEEP-13",
-      "component_name": "The Reverse Testimonial *(L9478)*",
-      "image_file": "flat-lay/laundry-bag-llama-cream.png"
-    },
-    {
-      "index": 4,
-      "type": "definition",
-      "component_id": "EDU-1",
-      "component_name": "Definition Block *(L5203)*",
-      "image_file": "flat-lay/training-pant-watermelon-pink.jpg"
-    },
-    {
-      "index": 5,
-      "type": "guarantee",
-      "component_id": "BONUS-04",
-      "component_name": "Wax Seal *(L8909)*",
-      "image_file": "flat-lay/swim-diaper-whale-ocean-blue.jpg"
-    },
-    {
-      "index": 6,
       "type": "cta",
-      "component_id": "8",
-      "component_name": "CTA Varieties (Permission-Based) *(L211)*",
-      "image_file": null
+      "component_id": "CTA-6",
+      "component_name": "Social CTA",
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "flat-lay/laundry-bag-llama-cream.png"
+      ]
     }
-  ],
-  "stats": {
-    "image_count": 4,
-    "component_count": 7
-  }
+  ]
 }

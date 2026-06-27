@@ -2,67 +2,44 @@
   "email_id": "welcome-01-e3-gf",
   "sections": [
     {
-      "section_type": "hero",
-      "section_name": "Hook, The Three Families",
-      "component_id": "HERO-17",
-      "component_name": "Social Proof Hero",
-      "component_source": "G+",
-      "image_file": "toddler-potty-ladder-yellow-woodland.png",
-      "image_category": "lifestyle"
+      "type": "hero",
+      "component_id": "DESDEEP-1",
+      "component_name": "The Gradient Hero",
+      "image_files": [
+        "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+      ]
     },
     {
-      "section_type": "reframe",
-      "section_name": "Validation, The Gap Is Real, Not Your Fault",
-      "component_id": "EMODEEP-03",
-      "component_name": "The Permission Letter (uses Letter)",
-      "component_source": "G+",
-      "image_file": "toddler-napping-watermelon-pink-shorts.png",
-      "image_category": "lifestyle"
+      "type": "definition",
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     },
     {
-      "section_type": "definition",
-      "section_name": "Mechanism, Why the Signal Doesn't Arrive",
-      "component_id": "EDU-5",
-      "component_name": "Infographic",
-      "component_source": "A*",
-      "image_file": "training-pant-fox-red-white.jpg",
-      "image_category": "flat-lay"
+      "type": "comparison",
+      "component_id": "STORY-11",
+      "component_name": "Contrast Cards \u2014 Side-by-side \"What they said vs. what happened\"",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      ]
     },
     {
-      "section_type": "testimonial",
-      "section_name": "Testimonial, What This Looks Like in Real Life",
-      "component_id": "STORYDEEP-03",
-      "component_name": "The Letter From Future (uses Letter)",
-      "component_source": "G+",
-      "image_file": "toddler-livingroom-dino-yellow.png",
-      "image_category": "lifestyle"
+      "type": "steps",
+      "component_id": "DEEP-15",
+      "component_name": "The Method Graveyard",
+      "image_files": [
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "section_type": "product",
-      "section_name": "Product, The Body-Signal Learning System",
-      "component_id": "LETTER-04",
-      "component_name": "Letter + Image Break (uses Letter)",
-      "component_source": "G+",
-      "image_file": "training-pant-watermelon-pink.jpg",
-      "image_category": "flat-lay"
-    },
-    {
-      "section_type": "guarantee",
-      "section_name": "Guarantee, No Risk, Your Judgment",
-      "component_id": "DESDEEP-18",
-      "component_name": "The Wax Seal",
-      "component_source": "G+",
-      "image_file": null,
-      "image_category": null
-    },
-    {
-      "section_type": "cta",
-      "section_name": "CTA, Your Choice, Your Pace",
-      "component_id": "CTA-12",
-      "component_name": "Exit Close",
-      "component_source": "G+",
-      "image_file": null,
-      "image_category": null
+      "type": "cta",
+      "component_id": "CTA-9",
+      "component_name": "Floating CTA",
+      "image_files": [
+        "flat-lay/laundry-bag-llama-cream.png"
+      ]
     }
   ]
 }

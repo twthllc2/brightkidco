@@ -1,49 +1,39 @@
 {
   "email_id": "welcome-01-e8-gf",
-  "section_0": {
-    "section_type": "hero",
-    "section_name": "HOOK",
-    "component_id": "CSHOP-10",
-    "component_name": "Flash Hero",
-    "component_source": "A",
-    "image_file": "toddler-outdoors-grass-disposable-diaper.png",
-    "image_category": "lifestyle"
-  },
-  "section_1": {
-    "section_type": "definition",
-    "section_name": "The Science",
-    "component_id": "REV-06",
-    "component_name": "After Science Reversal",
-    "component_source": "A",
-    "image_file": "potty-targets-stickers-chart.png",
-    "image_category": "accessories"
-  },
-  "section_2": {
-    "section_type": "testimonial",
-    "section_name": "Social Proof",
-    "component_id": "TRUSTDEEP-4",
-    "component_name": "The Review Mosaic",
-    "component_source": "A*",
-    "image_file": "toddler-potty-ladder-pink-multicolor.png",
-    "image_category": "lifestyle"
-  },
-  "section_3": {
-    "section_type": "product",
-    "section_name": "Product Showcase",
-    "component_id": "DESDEEP-10",
-    "component_name": "The Layered Depth",
-    "component_source": "A*",
-    "image_file": "swim-diaper-whale-ocean-blue.jpg",
-    "image_category": "flat-lay"
-  },
-  "section_4": {
-    "section_type": "cta",
-    "section_name": "CTA",
-    "component_id": "FLOWDEEP-16",
-    "component_name": "Winback E3 Closer",
-    "component_source": "A*",
-    "image_file": "toddler-livingroom-dino-yellow.png",
-    "image_category": "lifestyle"
-  },
-  "total_images": 5
+  "sections": [
+    {
+      "type": "hero",
+      "component_id": "2.2",
+      "component_name": "Warm Hero",
+      "image_files": [
+        "flat-lay/training-pant-bunny-hearts-pink.jpg",
+        "lifestyle/washing-machine-training-pants.png"
+      ]
+    },
+    {
+      "type": "product",
+      "component_id": "PRODEEP-5",
+      "component_name": "The Product Chemistry",
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png",
+        "flat-lay/training-pant-penguin-multicolor.jpg"
+      ]
+    },
+    {
+      "type": "testimonial",
+      "component_id": "DEEP-13",
+      "component_name": "The Reverse Testimonial",
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      ]
+    },
+    {
+      "type": "cta",
+      "component_id": "CTADEEP-17",
+      "component_name": "The Next Step CTA",
+      "image_files": [
+        "resized/washing-machine.jpg"
+      ]
+    }
+  ]
 }

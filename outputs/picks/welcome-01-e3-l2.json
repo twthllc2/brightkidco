@@ -2,49 +2,36 @@
   "email_id": "welcome-01-e3-l2",
   "sections": [
     {
-      "index": 0,
       "type": "hero",
-      "component_id": "HERO-13",
-      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png",
-      "component_name": "Scientific Hook"
+      "component_id": "HERO-17",
+      "component_name": "Social Proof Hero",
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
     },
     {
-      "index": 1,
-      "type": "reframe",
-      "component_id": "STORY-09",
-      "image_file": null
-    },
-    {
-      "index": 2,
       "type": "definition",
-      "component_id": "DEEP-10",
-      "image_file": "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      "component_id": "1",
+      "component_name": "The Body Signal Concept (Core Mechanism Visual)",
+      "image_files": [
+        "accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "PSYCH-03",
-      "image_file": "lifestyle/toddler-rearview-cat-mustard.png",
-      "component_name": "Social Proof Cascade"
+      "type": "stat",
+      "component_id": "HERO-2",
+      "component_name": "Data Shock",
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg"
+      ]
     },
     {
-      "index": 4,
-      "type": "product",
-      "component_id": "6.2",
-      "image_file": "flat-lay/training-pant-watermelon-pink.jpg"
-    },
-    {
-      "index": 5,
-      "type": "guarantee",
-      "component_id": "5",
-      "image_file": "accessories/towel-set-llama-cactus.png"
-    },
-    {
-      "index": 6,
       "type": "cta",
-      "component_id": "CTA-8",
-      "image_file": "lifestyle/founders-holding-pants-yellow-watermelon.png",
-      "component_name": "Dual CTA"
+      "component_id": "CTA-6",
+      "component_name": "Social CTA",
+      "image_files": [
+        "flat-lay/pocket-diaper-moon-cloud-blue.jpg"
+      ]
     }
   ]
 }

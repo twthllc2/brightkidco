@@ -1,62 +1,39 @@
 {
   "email_id": "cart-02-e1",
-  "flow_type": "cart",
-  "selections": {
-    "section_0": {
-      "section_name": "Hook",
-      "section_type": "hero",
-      "component_id": "FLOW-6",
-      "component_name": "Winback Opener",
-      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
-      "image_category": "lifestyle"
+  "sections": [
+    {
+      "type": "hero",
+      "component_id": "HERO-20",
+      "component_name": "Handwritten Letter Opener (uses Letter)",
+      "image_files": [
+        "resized/toddler-playing.jpg",
+        "lifestyle/toddlers-backview-disposable-diapers.png"
+      ]
     },
-    "section_1": {
-      "section_name": "Validation — Recognition Anchors (R2)",
-      "section_type": "reframe",
-      "component_id": "EMODEEP-01",
-      "component_name": "The Guilt Reframe",
-      "image_file": "",
-      "image_category": ""
+    {
+      "type": "comparison",
+      "component_id": "STORY-03",
+      "component_name": "Split Before/After \u2014 Visual transformation",
+      "image_files": [
+        "accessories/book-potty-training-guide.png",
+        "accessories/potty-targets-stickers-chart.png"
+      ]
     },
-    "section_2": {
-      "section_name": "Mechanism (R1, R4, R5)",
-      "section_type": "definition",
-      "component_id": "EDU-8",
-      "component_name": "Mechanism Diagram",
-      "image_file": "toddler-rearview-cat-mustard.png",
-      "image_category": "lifestyle"
-    },
-    "section_3": {
-      "section_name": "Social Proof — Three-Family Testimonial Pattern (R6)",
-      "section_type": "testimonial",
-      "component_id": "SP-08",
-      "component_name": "Stacked Mini-Reviews",
-      "image_file": "toddler-livingroom-dino-yellow.png",
-      "image_category": "lifestyle"
-    },
-    "section_4": {
-      "section_name": "Product Introduction (Gentle, No Push per S2)",
-      "section_type": "product",
-      "component_id": "6.1",
-      "component_name": "ProductShowcaseFull (Giuliano source)",
-      "image_file": "laundry-bag-llama-cream.png",
-      "image_category": "flatlay"
-    },
-    "section_5": {
-      "section_name": "Guarantee / Risk Reversal",
-      "section_type": "guarantee",
+    {
+      "type": "guarantee",
       "component_id": "5",
       "component_name": "60-Day Calm Promise",
-      "image_file": "book-potty-training-guide.png",
-      "image_category": "accessories"
+      "image_files": [
+        "flat-lay/training-pant-fox-red-white.jpg"
+      ]
     },
-    "section_6": {
-      "section_name": "CTA",
-      "section_type": "cta",
+    {
+      "type": "cta",
       "component_id": "5.1",
       "component_name": "Dark CTA (CTAClose) (uses CTAClose)",
-      "image_file": "",
-      "image_category": ""
+      "image_files": [
+        "flat-lay/training-pant-bunny-hearts-pink.jpg"
+      ]
     }
-  }
+  ]
 }

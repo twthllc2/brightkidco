@@ -2,53 +2,36 @@
   "email_id": "pped-22-e1-l1",
   "sections": [
     {
-      "index": 0,
       "type": "hero",
-      "component_id": "LETTER-02",
-      "component_name": "Handwritten Opener",
-      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
+      "component_id": "FLOW-6",
+      "component_name": "Winback Opener",
+      "image_files": [
+        "lifestyle/washing-machine-training-pants.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "reframe",
-      "component_id": "DEEP-11",
-      "component_name": "The Guilt Audit",
-      "image_file": "flat-lay/swim-diaper-unicorn-pink.jpg"
-    },
-    {
-      "index": 2,
       "type": "definition",
-      "component_id": "EDU-5",
-      "component_name": "Mechanism Explainer",
-      "image_file": null
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
     },
     {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "DEEP-04",
-      "component_name": "The Sensory Description",
-      "image_file": "lifestyle/founders-holding-pants-yellow-watermelon.png"
+      "type": "story",
+      "component_id": "HERO-19",
+      "component_name": "Timeline Shock",
+      "image_files": [
+        "accessories/potty-targets-stickers-chart.png"
+      ]
     },
     {
-      "index": 4,
-      "type": "product",
-      "component_id": "PRODEEP-6",
-      "component_name": "The Wear Test",
-      "image_file": "flat-lay/laundry-bag-llama-cream.png"
-    },
-    {
-      "index": 5,
-      "type": "guarantee",
-      "component_id": "10.1",
-      "component_name": "60-Day Seal (alias for PartBadge/Letter)",
-      "image_file": "accessories/towel-set-llama-cactus.png"
-    },
-    {
-      "index": 6,
       "type": "cta",
-      "component_id": "CTADEEP-10",
-      "component_name": "The Community CTA",
-      "image_file": "flat-lay/pocket-diaper-moon-cloud-blue.jpg"
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "image_files": [
+        "lifestyle/founders-holding-pants-yellow-watermelon.png"
+      ]
     }
   ]
 }

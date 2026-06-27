@@ -2,49 +2,22 @@
   "email_id": "welcome-01-e6-l2",
   "sections": [
     {
-      "section_type": "hero",
-      "section_name": "HOOK",
+      "type": "hero",
       "component_id": "FLOWDEEP-1",
       "component_name": "Welcome E1 Hook",
-      "component_source": "A*",
-      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
-      "image_category": "lifestyle"
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg",
+        "accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ]
     },
     {
-      "section_type": "product",
-      "section_name": "Product Showcase",
-      "component_id": "6.1",
-      "component_name": "ProductShowcaseFull (Giuliano source)",
-      "component_source": "G",
-      "image_file": "training-pant-fox-woodland-white.jpg",
-      "image_category": "flat-lay"
-    },
-    {
-      "section_type": "testimonial",
-      "section_name": "Social Proof",
-      "component_id": "PSYCH-03",
-      "component_name": "Social Proof Cascade",
-      "component_source": "A*",
-      "image_file": "toddler-backpack-moon-cloud-blue.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_type": "guarantee",
-      "section_name": "Guarantee",
-      "component_id": "SP-14",
-      "component_name": "Trust Badges Row",
-      "component_source": "A*",
-      "image_file": "toddler-rearview-cat-mustard.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_type": "cta",
-      "section_name": "CTA",
-      "component_id": "CTADEEP-12",
-      "component_name": "The Anti-CTA",
-      "component_source": "G+",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
+      "type": "cta",
+      "component_id": "CTADEEP-10",
+      "component_name": "The Community CTA",
+      "image_files": [
+        "flat-lay/training-pant-fox-red-white.jpg",
+        "flat-lay/training-pant-penguin-multicolor.jpg"
+      ]
     }
   ]
 }

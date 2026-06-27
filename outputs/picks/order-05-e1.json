@@ -2,43 +2,31 @@
   "email_id": "order-05-e1",
   "sections": [
     {
-      "index": 0,
-      "type": "definition",
-      "component_id": "EDU-1",
-      "component_name": "Definition Block *(L5203)*",
-      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+      "type": "hero",
+      "component_id": "FLOWDEEP-1",
+      "component_name": "Welcome E1 Hook",
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg",
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "guarantee",
-      "component_id": "5",
-      "component_name": "60-Day Calm Promise *(L127)*",
-      "image_file": "accessories/book-potty-training-guide.png"
+      "type": "letter",
+      "component_id": "3.2",
+      "component_name": "Eyebrow Label (uses Eyebrow)",
+      "image_files": [
+        "lifestyle/founders-holding-pants-yellow-watermelon.png",
+        "flat-lay/laundry-bag-llama-cream.png"
+      ]
     },
     {
-      "index": 2,
-      "type": "story",
-      "component_id": "HERO-19",
-      "component_name": "Timeline Shock *(L4246)*",
-      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
-    },
-    {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "PSYDEEP-11",
-      "component_name": "The Social Proof Ladder *(L12983)*",
-      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
-    },
-    {
-      "index": 4,
       "type": "cta",
-      "component_id": "CTA-6",
-      "component_name": "Social CTA *(L6733)*",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      "component_id": "CTADEEP-10",
+      "component_name": "The Community CTA",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png",
+        "flat-lay/diaper-woodland-creature-yellow.jpg"
+      ]
     }
-  ],
-  "stats": {
-    "image_count": 5,
-    "component_count": 5
-  }
+  ]
 }

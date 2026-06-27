@@ -2,39 +2,37 @@
   "email_id": "pped-22-e3-gf",
   "sections": [
     {
-      "index": 0,
-      "type": "letter",
-      "component_id": "UTIL-01",
-      "component_name": "Gradient Band (uses Band)",
-      "image_file": "flat-lay/diaper-woodland-creature-yellow.jpg"
+      "type": "hero",
+      "component_id": "2.2",
+      "component_name": "Warm Hero",
+      "image_files": [
+        "flat-lay/laundry-bag-llama-cream.png",
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      ]
     },
     {
-      "index": 1,
+      "type": "steps",
+      "component_id": "STORY-13",
+      "component_name": "Parallel Paths \u2014 Two families side by side",
+      "image_files": [
+        "lifestyle/toddler-rearview-cat-mustard.png"
+      ]
+    },
+    {
       "type": "testimonial",
-      "component_id": "DEEP-20",
-      "component_name": "The Community Thread",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      "component_id": "DEEP-13",
+      "component_name": "The Reverse Testimonial",
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
     },
     {
-      "index": 2,
-      "type": "product",
-      "component_id": "PRODEEP-7",
-      "component_name": "The Color Personality",
-      "image_file": "flat-lay/training-pant-cloud-raindrop-white.jpg"
-    },
-    {
-      "index": 3,
-      "type": "definition",
-      "component_id": "EDUDEEP-4",
-      "component_name": "The Interoception Test",
-      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
-    },
-    {
-      "index": 4,
       "type": "cta",
       "component_id": "CTADEEP-17",
       "component_name": "The Next Step CTA",
-      "image_file": "flat-lay/swim-diaper-giraffe-yellow.jpg"
+      "image_files": [
+        "flat-lay/swim-diaper-giraffe-yellow.jpg"
+      ]
     }
   ]
 }

@@ -2,53 +2,38 @@
   "email_id": "upsell-09-e2",
   "sections": [
     {
-      "index": 0,
       "type": "hero",
-      "component_id": "DESDEEP-1",
-      "component_name": "The Gradient Hero",
-      "image_file": "flat-lay/training-pant-penguin-multicolor.jpg"
+      "component_id": "2.1",
+      "component_name": "Lilac Gradient Hero",
+      "image_files": [
+        "lifestyle/washing-machine-training-pants.png",
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "reframe",
-      "component_id": "DEEP-22",
-      "component_name": "The Milestone Reframe *(L9740)*",
-      "image_file": null
+      "type": "comparison",
+      "component_id": "STORY-03",
+      "component_name": "Split Before/After \u2014 Visual transformation",
+      "image_files": [
+        "accessories/cloth-pads-watermelon-astronaut-cat.png",
+        "lifestyle/toddler-rearview-cat-mustard.png"
+      ]
     },
     {
-      "index": 2,
-      "type": "definition",
-      "component_id": "EDU-1",
-      "component_name": "Definition Block *(L5203)*",
-      "image_file": "flat-lay/pocket-diaper-moon-cloud-blue.jpg"
-    },
-    {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "PSYDEEP-11",
-      "component_name": "The Social Proof Ladder *(L12983)*",
-      "image_file": "flat-lay/swim-diaper-whale-ocean-blue.jpg"
-    },
-    {
-      "index": 4,
-      "type": "product",
-      "component_id": "6.3",
-      "component_name": "ProductShowcaseSoft (Giuliano source) *(L670)*",
-      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
-    },
-    {
-      "index": 5,
       "type": "guarantee",
-      "component_id": "DESDEEP-13",
-      "component_name": "The Badge System *(L13374)*",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      "component_id": "5",
+      "component_name": "60-Day Calm Promise",
+      "image_files": [
+        "flat-lay/swim-diaper-giraffe-yellow.jpg"
+      ]
     },
     {
-      "index": 6,
       "type": "cta",
-      "component_id": "CTA-6",
-      "component_name": "Social CTA *(L6733)*",
-      "image_file": "flat-lay/swim-diaper-unicorn-pink.jpg"
+      "component_id": "CTADEEP-12",
+      "component_name": "The Anti-CTA",
+      "image_files": [
+        "flat-lay/training-pant-fox-red-white.jpg"
+      ]
     }
   ]
 }

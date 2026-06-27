@@ -2,44 +2,22 @@
   "email_id": "winback-b-24-e2-l3",
   "sections": [
     {
-      "section_name": "Body",
-      "section_type": "definition",
-      "component_id": "DEEP-16",
-      "component_name": "The Brain-Body Bridge",
-      "image_file": "training-pant-penguin-multicolor.jpg",
-      "image_category": "flatlay"
+      "type": "hero",
+      "component_id": "FLOW-1",
+      "component_name": "Welcome Hook",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png",
+        "flat-lay/swim-diaper-giraffe-yellow.jpg"
+      ]
     },
     {
-      "section_name": "Production Notes",
-      "section_type": "product",
-      "component_id": "PRODEEP-5",
-      "component_name": "The Product Chemistry",
-      "image_file": "training-pant-watermelon-pink.jpg",
-      "image_category": "flatlay"
-    },
-    {
-      "section_name": "Guarantee",
-      "section_type": "guarantee",
-      "component_id": "SP-05",
-      "component_name": "Trust Pill Strip",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "Social Proof",
-      "section_type": "testimonial",
-      "component_id": "PSYDEEP-11",
-      "component_name": "The Social Proof Ladder",
-      "image_file": "toddler-rearview-cat-mustard.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTADEEP-04",
       "component_name": "The Curiosity Closer",
-      "image_file": "toddler-playing-train-moon-cloud-blue.png",
-      "image_category": "lifestyle"
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "lifestyle/toddler-livingroom-dino-yellow.png"
+      ]
     }
   ]
 }

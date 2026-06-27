@@ -2,44 +2,38 @@
   "email_id": "cart-02-e3",
   "sections": [
     {
-      "section_name": "Section 1",
-      "section_type": "letter",
-      "component_id": "3.2",
-      "component_name": "Eyebrow Label (uses Eyebrow)",
-      "image_file": "",
-      "image_category": ""
+      "type": "hero",
+      "component_id": "HERO-13",
+      "component_name": "Scientific Hook",
+      "image_files": [
+        "lifestyle/toddler-livingroom-dino-yellow.png",
+        "lifestyle/toddler-backpack-moon-cloud-blue.png"
+      ]
     },
     {
-      "section_name": "Parent Story",
-      "section_type": "story",
-      "component_id": "HERO-4",
-      "component_name": "Story Fragment",
-      "image_file": "toddler-livingroom-dino-yellow.png",
-      "image_category": "lifestyle"
+      "type": "offer",
+      "component_id": "PSYDEEP-15",
+      "component_name": "The Hyperbolic Discounting",
+      "image_files": [
+        "flat-lay/training-pant-watermelon-pink.jpg",
+        "flat-lay/training-pant-fox-woodland-white.jpg"
+      ]
     },
     {
-      "section_name": "The Science",
-      "section_type": "definition",
-      "component_id": "HERO-16",
-      "component_name": "Mechanism Tease",
-      "image_file": "training-pant-cloud-raindrop-white.jpg",
-      "image_category": "flatlay"
+      "type": "product",
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source)",
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     },
     {
-      "section_name": "Social Proof",
-      "section_type": "testimonial",
-      "component_id": "DEEP-13",
-      "component_name": "The Reverse Testimonial",
-      "image_file": "toddler-rearview-cat-mustard.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
-      "component_id": "CTA-6",
-      "component_name": "Social CTA",
-      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
-      "image_category": "lifestyle"
+      "type": "cta",
+      "component_id": "8",
+      "component_name": "CTA Varieties (Permission-Based)",
+      "image_files": [
+        "flat-lay/training-pant-penguin-multicolor.jpg"
+      ]
     }
   ]
 }

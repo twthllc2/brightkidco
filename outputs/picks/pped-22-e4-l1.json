@@ -2,39 +2,45 @@
   "email_id": "pped-22-e4-l1",
   "sections": [
     {
-      "index": 0,
-      "type": "letter",
-      "component_id": "23.2",
-      "component_name": "Drop Cap Initial Letter (uses Letter)",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      "type": "hero",
+      "component_id": "2.2",
+      "component_name": "Warm Hero",
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg",
+        "accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "testimonial",
-      "component_id": "SP-09",
-      "component_name": "UGC Photo Grid",
-      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+      "type": "reframe",
+      "component_id": "2",
+      "component_name": "The Reframe Moment",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+      ]
     },
     {
-      "index": 2,
-      "type": "story",
-      "component_id": "STORYDEEP-07",
-      "component_name": "The Season Metaphor",
-      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
-    },
-    {
-      "index": 3,
       "type": "definition",
-      "component_id": "EDUDEEP-5",
-      "component_name": "The Brain Map",
-      "image_file": "flat-lay/training-pant-cloud-raindrop-white.jpg"
+      "component_id": "HERO-16",
+      "component_name": "Mechanism Tease",
+      "image_files": [
+        "accessories/towel-set-llama-cactus.png"
+      ]
     },
     {
-      "index": 4,
+      "type": "expert",
+      "component_id": "DEEP-21",
+      "component_name": "The Expert Whisper",
+      "image_files": [
+        "flat-lay/training-pant-bunny-hearts-pink.jpg"
+      ]
+    },
+    {
       "type": "cta",
       "component_id": "CTADEEP-17",
       "component_name": "The Next Step CTA",
-      "image_file": "flat-lay/training-pant-watermelon-pink.jpg"
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
     }
   ]
 }

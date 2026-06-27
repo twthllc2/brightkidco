@@ -2,39 +2,37 @@
   "email_id": "pped-22-e1-l2",
   "sections": [
     {
-      "index": 0,
+      "type": "hero",
+      "component_id": "FLOW-6",
+      "component_name": "Winback Opener",
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png",
+        "flat-lay/swim-diaper-giraffe-yellow.jpg"
+      ]
+    },
+    {
       "type": "definition",
-      "component_id": "DEEP-16",
-      "component_name": "The Brain-Body Bridge",
-      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "image_files": [
+        "accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "objections",
-      "component_id": "OBJ-02",
-      "component_name": "My Child Is Different",
-      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+      "type": "steps",
+      "component_id": "DEEP-15",
+      "component_name": "The Method Graveyard",
+      "image_files": [
+        "flat-lay/diaper-woodland-creature-yellow.jpg"
+      ]
     },
     {
-      "index": 2,
-      "type": "letter",
-      "component_id": "UTIL-01",
-      "component_name": "Gradient Band (uses Band)",
-      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
-    },
-    {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "SP-11",
-      "component_name": "Star Cascade",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
-    },
-    {
-      "index": 4,
       "type": "cta",
-      "component_id": "CTADEEP-10",
-      "component_name": "The Community CTA",
-      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "image_files": [
+        "resized/toddler-playing.jpg"
+      ]
     }
   ]
 }

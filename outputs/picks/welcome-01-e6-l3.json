@@ -2,49 +2,36 @@
   "email_id": "welcome-01-e6-l3",
   "sections": [
     {
-      "section_type": "hero",
-      "section_name": "HOOK",
-      "component_id": "HERO-9",
-      "component_name": "Whisper Tone",
-      "component_source": "A*",
-      "image_file": "washing-machine-training-pants.png",
-      "image_category": "lifestyle"
+      "type": "hero",
+      "component_id": "DESDEEP-1",
+      "component_name": "The Gradient Hero",
+      "image_files": [
+        "flat-lay/diaper-woodland-creature-yellow.jpg"
+      ]
     },
     {
-      "section_type": "product",
-      "section_name": "Product Showcase",
-      "component_id": "6.3",
-      "component_name": "ProductShowcaseSoft (Giuliano source)",
-      "component_source": "G",
-      "image_file": "training-pant-watermelon-pink.jpg",
-      "image_category": "flat-lay"
+      "type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "image_files": [
+        "flat-lay/training-pant-penguin-multicolor.jpg"
+      ]
     },
     {
-      "section_type": "definition",
-      "section_name": "The Science",
-      "component_id": "EDUDEEP-1",
-      "component_name": "The Research Digest",
-      "component_source": "A*",
-      "image_file": "toddler-potty-ladder-pink-multicolor.png",
-      "image_category": "lifestyle"
+      "type": "stat",
+      "component_id": "HERO-2",
+      "component_name": "Data Shock",
+      "image_files": [
+        "lifestyle/toddler-rearview-cat-mustard.png"
+      ]
     },
     {
-      "section_type": "guarantee",
-      "section_name": "Guarantee",
-      "component_id": "BONUS-04",
-      "component_name": "Wax Seal",
-      "component_source": "A*",
-      "image_file": "towel-set-llama-cactus.png",
-      "image_category": "accessories"
-    },
-    {
-      "section_type": "cta",
-      "section_name": "CTA",
-      "component_id": "CTA-12",
-      "component_name": "Exit Close",
-      "component_source": "G+",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
+      "type": "cta",
+      "component_id": "CTA-9",
+      "component_name": "Floating CTA",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      ]
     }
   ]
 }

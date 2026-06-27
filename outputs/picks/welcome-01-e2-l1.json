@@ -2,51 +2,37 @@
   "email_id": "welcome-01-e2-l1",
   "sections": [
     {
-      "index": 0,
       "type": "hero",
       "component_id": "HERO-20",
-      "image_file": "product-photos/resized/toddler-playing.jpg"
+      "component_name": "Handwritten Letter Opener (uses Letter)",
+      "image_files": [
+        "resized/toddler-playing.jpg",
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "reframe",
-      "component_id": "OBJ-01",
-      "image_file": "product-photos/lifestyle/toddler-outdoors-grass-disposable-diaper.png"
-    },
-    {
-      "index": 2,
       "type": "definition",
-      "component_id": "1",
-      "image_file": "product-photos/flat-lay/training-pant-cloud-raindrop-white.jpg"
+      "component_id": "HERO-16",
+      "component_name": "Mechanism Tease",
+      "image_files": [
+        "flat-lay/laundry-bag-llama-cream.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "SP-08",
-      "image_file": "product-photos/lifestyle/toddler-livingroom-dino-yellow.png"
+      "type": "steps",
+      "component_id": "STORY-13",
+      "component_name": "Parallel Paths \u2014 Two families side by side",
+      "image_files": [
+        "flat-lay/pocket-diaper-moon-cloud-blue.jpg"
+      ]
     },
     {
-      "index": 4,
-      "type": "product",
-      "component_id": "ED1",
-      "image_file": "product-photos/flat-lay/training-pant-watermelon-pink.jpg"
-    },
-    {
-      "index": 5,
-      "type": "guarantee",
-      "component_id": "5",
-      "image_file": "product-photos/lifestyle/founders-holding-pants-yellow-watermelon.png"
-    },
-    {
-      "index": 6,
       "type": "cta",
       "component_id": "5.1",
-      "image_file": ""
+      "component_name": "Dark CTA (CTAClose) (uses CTAClose)",
+      "image_files": [
+        "accessories/book-potty-training-guide.png"
+      ]
     }
-  ],
-  "stats": {
-    "image_count": 6,
-    "component_count": 7
-  },
-  "total_images": 0
+  ]
 }

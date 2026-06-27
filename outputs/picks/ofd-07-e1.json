@@ -2,43 +2,45 @@
   "email_id": "ofd-07-e1",
   "sections": [
     {
-      "index": 0,
+      "type": "hero",
+      "component_id": "2.2",
+      "component_name": "Warm Hero",
+      "image_files": [
+        "resized/toddler-playing.jpg",
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
+    },
+    {
       "type": "letter",
       "component_id": "3.2",
-      "component_name": "Eyebrow Label (uses Eyebrow) *(L450)*",
-      "image_file": "accessories/potty-targets-stickers-chart.png"
+      "component_name": "Eyebrow Label (uses Eyebrow)",
+      "image_files": [
+        "accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "definition",
-      "component_id": "1",
-      "component_name": "The Body Signal Concept (Core Mechanism Visual) *(L34)*",
-      "image_file": "flat-lay/training-pant-bunny-hearts-pink.jpg"
+      "type": "product",
+      "component_id": "PRODEEP-5",
+      "component_name": "The Product Chemistry",
+      "image_files": [
+        "flat-lay/training-pant-penguin-multicolor.jpg"
+      ]
     },
     {
-      "index": 2,
-      "type": "guarantee",
-      "component_id": "5",
-      "component_name": "60-Day Calm Promise *(L127)*",
-      "image_file": "accessories/wet-bags-space-zebra-llama.png"
+      "type": "story",
+      "component_id": "HERO-4",
+      "component_name": "Story Fragment",
+      "image_files": [
+        "accessories/towel-set-llama-cactus.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "DEEP-13",
-      "component_name": "The Reverse Testimonial *(L9478)*",
-      "image_file": "accessories/cloth-pads-watermelon-astronaut-cat.png"
-    },
-    {
-      "index": 4,
       "type": "cta",
-      "component_id": "CTA-6",
-      "component_name": "Social CTA *(L6733)*",
-      "image_file": "flat-lay/pocket-diaper-moon-cloud-blue.jpg"
+      "component_id": "CTADEEP-17",
+      "component_name": "The Next Step CTA",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      ]
     }
-  ],
-  "stats": {
-    "image_count": 5,
-    "component_count": 5
-  }
+  ]
 }

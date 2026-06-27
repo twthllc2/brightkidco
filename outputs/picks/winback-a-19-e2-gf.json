@@ -2,44 +2,29 @@
   "email_id": "winback-a-19-e2-gf",
   "sections": [
     {
-      "section_name": "HOOK \u2014 Universal Recognition",
-      "section_type": "hero",
-      "component_id": "HERO-20",
-      "component_name": "Handwritten Letter Opener (uses Letter)",
-      "image_file": "toddlers-backview-disposable-diapers.png",
-      "image_category": "lifestyle"
+      "type": "hero",
+      "component_id": "2.3",
+      "component_name": "Teal CTA Hero",
+      "image_files": [
+        "lifestyle/founders-holding-pants-yellow-watermelon.png",
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "section_name": "Guarantee",
-      "section_type": "guarantee",
-      "component_id": "TRUST-1",
-      "component_name": "60-Day Seal",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
+      "type": "offer",
+      "component_id": "PSYDEEP-15",
+      "component_name": "The Hyperbolic Discounting",
+      "image_files": [
+        "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+      ]
     },
     {
-      "section_name": "The Science",
-      "section_type": "definition",
-      "component_id": "EDU-8",
-      "component_name": "Mechanism Diagram",
-      "image_file": "training-pant-penguin-multicolor.jpg",
-      "image_category": "flatlay"
-    },
-    {
-      "section_name": "Social Proof",
-      "section_type": "testimonial",
-      "component_id": "SP-08",
-      "component_name": "Stacked Mini-Reviews",
-      "image_file": "toddler-napping-watermelon-pink-shorts.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTADEEP-18",
       "component_name": "The Exit CTA",
-      "image_file": "toddler-potty-ladder-pink-multicolor.png",
-      "image_category": "lifestyle"
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
     }
   ]
 }

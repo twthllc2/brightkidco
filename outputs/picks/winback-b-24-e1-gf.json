@@ -2,44 +2,22 @@
   "email_id": "winback-b-24-e1-gf",
   "sections": [
     {
-      "section_name": "BODY",
-      "section_type": "letter",
-      "component_id": "20.3",
-      "component_name": "Gradient Band Variants (uses Band)",
-      "image_file": "",
-      "image_category": ""
+      "type": "hero",
+      "component_id": "FLOWDEEP-1",
+      "component_name": "Welcome E1 Hook",
+      "image_files": [
+        "flat-lay/training-pant-cloud-raindrop-white.jpg",
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      ]
     },
     {
-      "section_name": "Observation, The Symptom Block",
-      "section_type": "reframe",
-      "component_id": "EMODEEP-01",
-      "component_name": "The Guilt Reframe",
-      "image_file": "toddler-livingroom-dino-yellow.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "Mechanism, What's Actually Happening",
-      "section_type": "definition",
-      "component_id": "EDU-9",
-      "component_name": "Tip Cards",
-      "image_file": "training-pant-fox-red-white.jpg",
-      "image_category": "flatlay"
-    },
-    {
-      "section_name": "Verification Checklist",
-      "section_type": "feel",
-      "component_id": "7",
-      "component_name": "Parent Stories (Emotional Proof)",
-      "image_file": "toddler-playing-train-moon-cloud-blue.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTADEEP-10",
       "component_name": "The Community CTA",
-      "image_file": "toddler-potty-ladder-pink-multicolor.png",
-      "image_category": "lifestyle"
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png",
+        "lifestyle/toddler-livingroom-dino-yellow.png"
+      ]
     }
   ]
 }

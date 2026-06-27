@@ -2,39 +2,38 @@
   "email_id": "pped-22-e2-l2",
   "sections": [
     {
-      "index": 0,
+      "type": "hero",
+      "component_id": "DESDEEP-7",
+      "component_name": "The Typography Hero",
+      "image_files": [
+        "lifestyle/washing-machine-training-pants.png",
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
+    },
+    {
       "type": "definition",
-      "component_id": "EDU-2",
-      "component_name": "Did You Know Card",
-      "image_file": "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "image_files": [
+        "flat-lay/training-pant-bunny-hearts-pink.jpg",
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "letter",
-      "component_id": "3.2",
-      "component_name": "Eyebrow Label (uses Eyebrow)",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      "type": "stat",
+      "component_id": "HERO-2",
+      "component_name": "Data Shock",
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      ]
     },
     {
-      "index": 2,
-      "type": "guarantee",
-      "component_id": "SP-05",
-      "component_name": "Trust Pill Strip",
-      "image_file": "flat-lay/swim-diaper-unicorn-pink.jpg"
-    },
-    {
-      "index": 3,
-      "type": "product",
-      "component_id": "PRODEEP-7",
-      "component_name": "The Color Personality",
-      "image_file": "lifestyle/toddler-playing-train-moon-cloud-blue.png"
-    },
-    {
-      "index": 4,
       "type": "cta",
-      "component_id": "CTADEEP-04",
-      "component_name": "The Curiosity Closer",
-      "image_file": "flat-lay/laundry-bag-llama-cream.png"
+      "component_id": "CTA-12",
+      "component_name": "Exit Close",
+      "image_files": [
+        "flat-lay/laundry-bag-llama-cream.png"
+      ]
     }
   ]
 }

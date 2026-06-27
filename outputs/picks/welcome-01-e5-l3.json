@@ -2,49 +2,29 @@
   "email_id": "welcome-01-e5-l3",
   "sections": [
     {
-      "section_type": "hero",
-      "section_name": "HOOK, Naming the Objection",
+      "type": "hero",
       "component_id": "FLOW-1",
       "component_name": "Welcome Hook",
-      "component_source": "A*",
-      "image_file": "pocket-diaper-moon-cloud-blue.jpg",
-      "image_category": "flat-lay"
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg",
+        "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+      ]
     },
     {
-      "section_type": "guarantee",
-      "section_name": "Guarantee",
-      "component_id": "SP-05",
-      "component_name": "Trust Pill Strip",
-      "component_source": "A*",
-      "image_file": "potty-targets-stickers-chart.png",
-      "image_category": "accessories"
+      "type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "image_files": [
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "section_type": "definition",
-      "section_name": "The Science",
-      "component_id": "DEEP-10",
-      "component_name": "The Science Made Simple",
-      "component_source": "A*",
-      "image_file": "toddler-livingroom-dino-yellow.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_type": "product",
-      "section_name": "Product Showcase",
-      "component_id": "6.3",
-      "component_name": "ProductShowcaseSoft (Giuliano source)",
-      "component_source": "G",
-      "image_file": "swim-diaper-giraffe-yellow.jpg",
-      "image_category": "flat-lay"
-    },
-    {
-      "section_type": "cta",
-      "section_name": "CTA",
-      "component_id": "12.1",
-      "component_name": "Lena Signoff (uses Signoff)",
-      "component_source": "G+",
-      "image_file": null,
-      "image_category": null
+      "type": "cta",
+      "component_id": "CTADEEP-04",
+      "component_name": "The Curiosity Closer",
+      "image_files": [
+        "lifestyle/washing-machine-training-pants.png"
+      ]
     }
   ]
 }

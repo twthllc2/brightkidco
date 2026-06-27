@@ -2,44 +2,38 @@
   "email_id": "checkout-03-e2",
   "sections": [
     {
-      "section_name": "Email Body",
-      "section_type": "letter",
-      "component_id": "13.2",
-      "component_name": "Letter & Envelope (uses Letter)",
-      "image_file": "",
-      "image_category": ""
+      "type": "hero",
+      "component_id": "FLOW-1",
+      "component_name": "Welcome Hook",
+      "image_files": [
+        "lifestyle/toddler-livingroom-dino-yellow.png",
+        "flat-lay/pocket-diaper-moon-cloud-blue.jpg"
+      ]
     },
     {
-      "section_name": "Product Showcase",
-      "section_type": "product",
-      "component_id": "PRODEEP-5",
-      "component_name": "The Product Chemistry",
-      "image_file": "training-pant-watermelon-pink.jpg",
-      "image_category": "flatlay"
+      "type": "guarantee",
+      "component_id": "BONUS-04",
+      "component_name": "Wax Seal",
+      "image_files": [
+        "accessories/potty-targets-stickers-chart.png",
+        "lifestyle/washing-machine-training-pants.png"
+      ]
     },
     {
-      "section_name": "Social Proof",
-      "section_type": "testimonial",
-      "component_id": "PSYDEEP-11",
-      "component_name": "The Social Proof Ladder",
-      "image_file": "toddler-livingroom-dino-yellow.png",
-      "image_category": "lifestyle"
+      "type": "product",
+      "component_id": "6.3",
+      "component_name": "ProductShowcaseSoft (Giuliano source)",
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
     },
     {
-      "section_name": "The Science",
-      "section_type": "definition",
-      "component_id": "EDU-5",
-      "component_name": "Infographic",
-      "image_file": "training-pant-fox-red-white.jpg",
-      "image_category": "flatlay"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
-      "component_id": "CTADEEP-08",
-      "component_name": "The Story Closer",
-      "image_file": "toddler-potty-ladder-yellow-woodland.png",
-      "image_category": "lifestyle"
+      "type": "cta",
+      "component_id": "CTADEEP-04",
+      "component_name": "The Curiosity Closer",
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      ]
     }
   ]
 }

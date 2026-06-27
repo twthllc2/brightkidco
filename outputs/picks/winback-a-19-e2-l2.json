@@ -2,44 +2,38 @@
   "email_id": "winback-a-19-e2-l2",
   "sections": [
     {
-      "section_name": "Section 1",
-      "section_type": "letter",
-      "component_id": "4.1",
-      "component_name": "Letter Section (uses Letter)",
-      "image_file": "",
-      "image_category": ""
+      "type": "hero",
+      "component_id": "2.3",
+      "component_name": "Teal CTA Hero",
+      "image_files": [
+        "flat-lay/swim-diaper-giraffe-yellow.jpg",
+        "flat-lay/training-pant-penguin-multicolor.jpg"
+      ]
     },
     {
-      "section_name": "Section 8",
-      "section_type": "testimonial",
-      "component_id": "SP-08",
-      "component_name": "Stacked Mini-Reviews",
-      "image_file": "toddler-napping-watermelon-pink-shorts.png",
-      "image_category": "lifestyle"
+      "type": "product",
+      "component_id": "PRODEEP-5",
+      "component_name": "The Product Chemistry",
+      "image_files": [
+        "accessories/cloth-pads-watermelon-astronaut-cat.png",
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+      ]
     },
     {
-      "section_name": "Guarantee",
-      "section_type": "guarantee",
-      "component_id": "TRUST-1",
-      "component_name": "60-Day Seal",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
+      "type": "guarantee",
+      "component_id": "5",
+      "component_name": "60-Day Calm Promise",
+      "image_files": [
+        "lifestyle/toddler-livingroom-dino-yellow.png"
+      ]
     },
     {
-      "section_name": "Parent Story",
-      "section_type": "story",
-      "component_id": "STORY-06",
-      "component_name": "Photo Essay \u2014 Image-placeholder narrative cards",
-      "image_file": "toddler-playing-train-moon-cloud-blue.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
-      "component_id": "CTADEEP-17",
-      "component_name": "The Next Step CTA",
-      "image_file": "toddler-potty-ladder-yellow-woodland.png",
-      "image_category": "lifestyle"
+      "type": "cta",
+      "component_id": "CTADEEP-18",
+      "component_name": "The Exit CTA",
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     }
   ]
 }

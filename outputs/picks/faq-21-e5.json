@@ -2,44 +2,42 @@
   "email_id": "faq-21-e5",
   "sections": [
     {
-      "section_name": "Section 1",
-      "section_type": "letter",
-      "component_id": "20.3",
-      "component_name": "Gradient Band Variants (uses Band)",
-      "image_file": "",
-      "image_category": ""
+      "type": "hero",
+      "component_id": "FLOW-6",
+      "component_name": "Winback Opener",
+      "image_files": [
+        "lifestyle/toddlers-backview-disposable-diapers.png"
+      ]
     },
     {
-      "section_name": "Section 11",
-      "section_type": "definition",
-      "component_id": "EDU-7",
-      "component_name": "Did You Know",
-      "image_file": "training-pant-bunny-hearts-pink.jpg",
-      "image_category": "flatlay"
+      "type": "reframe",
+      "component_id": "2",
+      "component_name": "The Reframe Moment",
+      "image_files": [
+        "flat-lay/diaper-woodland-creature-yellow.jpg"
+      ]
     },
     {
-      "section_name": "Parent Story",
-      "section_type": "story",
-      "component_id": "STORY-06",
-      "component_name": "Photo Essay \u2014 Image-placeholder narrative cards",
-      "image_file": "toddler-livingroom-dino-yellow.png",
-      "image_category": "lifestyle"
+      "type": "definition",
+      "component_id": "EDU-5",
+      "component_name": "Infographic",
+      "image_files": [
+        "flat-lay/training-pant-fox-red-white.jpg"
+      ]
     },
     {
-      "section_name": "Product Showcase",
-      "section_type": "product",
-      "component_id": "PRODEEP-8",
-      "component_name": "The Bundle Builder",
-      "image_file": "training-pant-fox-woodland-white.jpg",
-      "image_category": "flatlay"
+      "type": "expert",
+      "component_id": "DEEP-21",
+      "component_name": "The Expert Whisper",
+      "image_files": [
+        "flat-lay/laundry-bag-llama-cream.png"
+      ]
     },
     {
-      "section_name": "CTA",
-      "section_type": "cta",
-      "component_id": "CTADEEP-10",
-      "component_name": "The Community CTA",
-      "image_file": "toddler-rearview-cat-mustard.png",
-      "image_category": "lifestyle"
+      "type": "cta",
+      "component_id": "CTADEEP-08",
+      "component_name": "The Story Closer",
+      "image_files": []
     }
   ]
 }

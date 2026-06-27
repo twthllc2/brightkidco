@@ -2,49 +2,37 @@
   "email_id": "welcome-01-e1-l3",
   "sections": [
     {
-      "section_type": "hero",
-      "section_name": "Hook",
-      "component_id": "LETTER-02",
-      "component_name": "Handwritten Opener",
-      "component_source": "G+",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
+      "type": "hero",
+      "component_id": "FLOW-1",
+      "component_name": "Welcome Hook",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png",
+        "resized/toddler-playing.jpg"
+      ]
     },
     {
-      "section_type": "story",
-      "section_name": "Parent Story",
-      "component_id": "STORY-05",
-      "component_name": "Diary Entry \u2014 Handwritten-style journal",
-      "component_source": "A*",
-      "image_file": "toddler-napping-watermelon-pink-shorts.png",
-      "image_category": "lifestyle"
+      "type": "testimonial",
+      "component_id": "PSYDEEP-11",
+      "component_name": "The Social Proof Ladder",
+      "image_files": [
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "section_type": "definition",
-      "section_name": "The Science",
-      "component_id": "EDUDEEP-1",
-      "component_name": "The Research Digest",
-      "component_source": "A*",
-      "image_file": "toddler-playing-train-moon-cloud-blue.png",
-      "image_category": "lifestyle"
+      "type": "guarantee",
+      "component_id": "BONUS-04",
+      "component_name": "Wax Seal",
+      "image_files": [
+        "flat-lay/training-pant-fox-red-white.jpg"
+      ]
     },
     {
-      "section_type": "guarantee",
-      "section_name": "Guarantee",
-      "component_id": "SP-05",
-      "component_name": "Trust Pill Strip",
-      "component_source": "A*",
-      "image_file": "book-potty-training-guide.png",
-      "image_category": "accessories"
-    },
-    {
-      "section_type": "cta",
-      "section_name": "CTA",
-      "component_id": "CTADEEP-08",
-      "component_name": "The Story Closer",
-      "component_source": "G+",
-      "image_file": null,
-      "image_category": null
+      "type": "cta",
+      "component_id": "CTADEEP-04",
+      "component_name": "The Curiosity Closer",
+      "image_files": [
+        "lifestyle/washing-machine-training-pants.png"
+      ]
     }
   ]
 }

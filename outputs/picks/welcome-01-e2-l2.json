@@ -2,58 +2,43 @@
   "email_id": "welcome-01-e2-l2",
   "sections": [
     {
-      "section_name": "Hook",
-      "section_type": "hero",
-      "component_id": "LETTER-02",
-      "component_name": "Handwritten Opener",
-      "component_source": "G+",
-      "giuliano": "giuliano_derived",
+      "type": "hero",
+      "component_id": "2.1",
+      "component_name": "Lilac Gradient Hero",
       "image_files": [
-        "toddler-livingroom-dino-yellow.png"
+        "lifestyle/toddler-rearview-cat-mustard.png"
       ]
     },
     {
-      "section_name": "Social Proof",
-      "section_type": "testimonial",
-      "component_id": "PSYCH-03",
-      "component_name": "Social Proof Cascade",
-      "component_source": "A*",
-      "giuliano": "quality_approved",
+      "type": "reframe",
+      "component_id": "2",
+      "component_name": "The Reframe Moment",
       "image_files": [
-        "toddler-backpack-moon-cloud-blue.png"
+        "lifestyle/toddler-potty-ladder-yellow-woodland.png"
       ]
     },
     {
-      "section_name": "The Science",
-      "section_type": "definition",
-      "component_id": "DEEP-10",
-      "component_name": "The Science Made Simple",
-      "component_source": "A*",
-      "giuliano": "quality_approved",
+      "type": "definition",
+      "component_id": "EDU-5",
+      "component_name": "Infographic",
       "image_files": [
-        "washing-machine-training-pants.png"
+        "flat-lay/training-pant-bunny-hearts-pink.jpg"
       ]
     },
     {
-      "section_name": "Parent Story",
-      "section_type": "story",
-      "component_id": "STORY-05",
-      "component_name": "Diary Entry \u2014 Handwritten-style journal",
-      "component_source": "A*",
-      "giuliano": "quality_approved",
+      "type": "expert",
+      "component_id": "DEEP-21",
+      "component_name": "The Expert Whisper",
       "image_files": [
-        "toddler-rearview-cat-mustard.png"
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png"
       ]
     },
     {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTADEEP-12",
       "component_name": "The Anti-CTA",
-      "component_source": "G+",
-      "giuliano": "giuliano_derived",
       "image_files": [
-        "founders-holding-pants-yellow-watermelon.png"
+        "flat-lay/pocket-diaper-moon-cloud-blue.jpg"
       ]
     }
   ]

@@ -2,39 +2,29 @@
   "email_id": "sunset-25-e1",
   "sections": [
     {
-      "index": 0,
-      "type": "guarantee",
-      "component_id": "BONUS-04",
-      "component_name": "Wax Seal *(L8909)*",
-      "image_file": "flat-lay/training-pant-fox-woodland-white.jpg"
+      "type": "hero",
+      "component_id": "HERO-17",
+      "component_name": "Social Proof Hero",
+      "image_files": [
+        "resized/washing-machine.jpg",
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "index": 1,
       "type": "product",
-      "component_id": "6.2",
-      "component_name": "ProductShowcaseMedium (Giuliano source)",
-      "image_file": "lifestyle/founders-holding-pants-yellow-watermelon.png"
+      "component_id": "6.1",
+      "component_name": "ProductShowcaseFull (Giuliano source)",
+      "image_files": [
+        "flat-lay/swim-diaper-whale-ocean-blue.jpg"
+      ]
     },
     {
-      "index": 2,
-      "type": "story",
-      "component_id": "HERO-4",
-      "component_name": "Story Fragment *(L3882)*",
-      "image_file": "flat-lay/laundry-bag-llama-cream.png"
-    },
-    {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "PSYCH-03",
-      "component_name": "Social Proof Cascade *(L8513)*",
-      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
-    },
-    {
-      "index": 4,
       "type": "cta",
-      "component_id": "8",
-      "component_name": "CTA Varieties (Permission-Based) *(L211)*",
-      "image_file": null
+      "component_id": "CTA-6",
+      "component_name": "Social CTA",
+      "image_files": [
+        "accessories/towel-set-llama-cactus.png"
+      ]
     }
   ]
 }

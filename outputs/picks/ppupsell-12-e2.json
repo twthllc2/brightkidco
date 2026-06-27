@@ -2,39 +2,38 @@
   "email_id": "ppupsell-12-e2",
   "sections": [
     {
-      "index": 0,
-      "type": "letter",
-      "component_id": "23.2",
-      "component_name": "Drop Cap Initial Letter (uses Letter)",
-      "image_file": "accessories/potty-targets-stickers-chart.png"
+      "type": "hero",
+      "component_id": "LETTER-02",
+      "component_name": "Handwritten Opener",
+      "image_files": [
+        "flat-lay/training-pant-bunny-hearts-pink.jpg",
+        "accessories/book-potty-training-guide.png"
+      ]
     },
     {
-      "index": 1,
-      "type": "testimonial",
-      "component_id": "DEEP-20",
-      "component_name": "The Community Thread",
-      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+      "type": "guarantee",
+      "component_id": "BONUS-04",
+      "component_name": "Wax Seal",
+      "image_files": [
+        "flat-lay/diaper-woodland-creature-yellow.jpg",
+        "resized/toddler-playing.jpg"
+      ]
     },
     {
-      "index": 2,
       "type": "product",
-      "component_id": "PRODEEP-6",
-      "component_name": "The Wear Test",
-      "image_file": "flat-lay/training-pant-cloud-raindrop-white.jpg"
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "story",
-      "component_id": "STORYDEEP-19",
-      "component_name": "The Time Lapse",
-      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
-    },
-    {
-      "index": 4,
       "type": "cta",
-      "component_id": "CTA-9",
-      "component_name": "Floating CTA",
-      "image_file": "lifestyle/toddler-backpack-moon-cloud-blue.png"
+      "component_id": "CTA-8",
+      "component_name": "Dual CTA",
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      ]
     }
   ]
 }

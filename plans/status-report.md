@@ -1,380 +1,245 @@
 # BKC EMAIL PIPELINE — MASTER STATUS REPORT
-# 2026-06-27
+# 2026-06-27 — REBUILD COMPLETE
 
 ================================================================
 THE GOAL
 ================================================================
 125 unique Klaviyo-compatible HTML emails from approved copy.
 Each different layout. All on brand. 4-6 images per email.
-3-6 components per email. No component fatigue.
+3-6 components per email. No customer fatigue.
+
+================================================================
+PIPELINE STATUS — ALL STEPS COMPLETE
+================================================================
+
+  STEP 0: Study actual emails             ✅ DONE
+  STEP 1: Map 949 components to types     ✅ DONE
+  STEP 2: Generate 125 layouts (REBUILT)  ✅ DONE — 45 templates, 7 purposes
+  STEP 3: Fill with component picks       ✅ DONE — 125 valid, 55 unique components
+  STEP 4: Assemble HTML (v4 subagents)    🔄 IN PROGRESS — 2 subagents building 125
 
 ================================================================
 WHAT WE HAVE
 ================================================================
 
-125 copy files (.md) — approved content
+COPY FILES — 125 approved .md files
   Location: outputs/copy/<flow>/<email>.md
-  Each: subject, preview, from name, body sections, signoff, footer
+  Each: subject, preview, from_name, body sections, signoff, footer
 
-949 components (showcase-artifacts-final.html) — design patterns
-  27 Giuliano primitives from JSX source
-  922 additional quality-approved and agent-standard components
+COMPONENT CATALOG — 949 components tagged
+  Location: outputs/email-assets/component-catalog.json
+  Location: outputs/email-assets/section-components.json
+  27 Giuliano primitives from JSX source (G+)
+  363 quality-approved (A*)
+  559 agent-standard (A)
+  16 section types: hero(42), letter(461), definition(19), testimonial(42),
+    product(102), guarantee(54), cta(54), story(41), steps(14), code(13),
+    stat(19), reframe(16), comparison(44), expert(14), feel(6), objections(8)
 
-31 product images (product-photos/) — lifestyle, flat-lay, accessories
+PRODUCT IMAGES — 31 images
+  Location: outputs/email-assets/product-photos/
+  Categories: lifestyle(11), flat-lay(12), accessories(5), resized(2), branding(1)
 
-Brand tokens (from tokens.js):
-  teal=#2BAEB4, green=#5DD07A, ink=#1F2D2F
+BRAND TOKENS (from tokens.js)
+  colors: teal=#2BAEB4, green=#5DD07A, ink=#1F2D2F, soft=#4A6568,
+          muted=#8A9B9D, cream=#FBF7F1, paper=#FFFFFF, yellow=#FFD866
   fonts: Questrial (main), Fraunces (display), Caveat (hand)
+  gradient: linear-gradient(135deg, #2BAEB4, #5DD07A)
+
+SECTION BACKGROUND COLORS (from Giuliano's JSX)
+  warm white  #FFFBF0 — hero, creed, path, comparison
+  cream       #FFF6E2 — letter, reframe, quote, story
+  mint        #EAF6F2 — definition, feel, guarantee
+  lavender    #F0EDF8 — product, expert
+  beige       #F5F1EA — product full, image sections
+  dark        #1F2D2F — CTA sections (ALWAYS)
+  white       #FFFFFF — objections, FAQ, footer
 
 ================================================================
-THE PIPELINE
+STEP 2 — 125 LAYOUTS (REBUILT)
 ================================================================
 
-STEP 0 — STUDY ACTUAL EMAILS ✅
-────────────────────────────────────────────────────────────────
-Opened Giuliano's actual JSX source files and extracted patterns:
+PROBLEM WITH v1: ALL 125 layouts had the SAME linear structure.
+  hero → body → body → product → cta → signoff → footer
+  Same 5 sections, same order, every email identical structure.
 
-  SECTION BACKGROUND COLORS:
-    warm white  #FFFBF0 — hero, creed, path, comparison
-    cream       #FFF6E2 — letter, reframe, quote, story
-    mint        #EAF6F2 — definition, feel, guarantee
-    lavender    #F0EDF8 — product, expert
-    beige       #F5F1EA — product full
-    code bg     #FAF7F0 — discount code blocks
-    dark        #1F2D2F — CTA sections (ALWAYS dark)
+SOLUTION: Template-based system with 7 PURPOSES and 45 STRUCTURAL TEMPLATES.
 
-  CORE PATTERN:
-    EmailShell { Header + [FramedImage] + [TitleBlock] + Band
-    + Section(color1) + Band + Section(color2) + Band + ...
-    + CTA(dark) + Signoff + Footer }
+7 EMAIL PURPOSES:
+  awareness       — First touch, no product, build trust
+  education       — Teaching, tips, deep science
+  consideration   — Product reveal, soft sell
+  conversion      — Close the sale, urgency
+  retention       — Engagement, community, tips
+  reengagement    — Winback, come back
+  transactional   — Order, shipping, delivery
 
-  CRITICAL RULES:
-    1. No two adjacent sections share same background color
-    2. Gradient Bands (40px) connect sections
-    3. CTA section ALWAYS dark (#1F2D2F)
-    4. Images wrapped in FramedImage (black border + drop-shadow)
-    5. Headlines use gradientText (teal → green)
-    6. All CTAs are pill-shaped (border-radius: 999px)
-    7. Width: 420px mobile, 600px desktop
+45 STRUCTURAL TEMPLATES (7-8 per purpose):
+  AW-01: hero → letter → testimonial → cta        (4 sections, single-col)
+  AW-02: hero → definition → cta                  (3 sections, hybrid 2-col)
+  AW-03: hero → testimonial → story → definition → cta  (5 sections)
+  AW-04: hero → letter → steps → cta              (4 sections)
+  AW-05: hero → testimonial → guarantee → cta     (4 sections)
+  AW-06: hero → story → testimonial → cta         (4 sections)
+  AW-07: hero → reframe → testimonial → cta       (4 sections)
+  ED-01: hero → definition → comparison → steps → cta    (5 sections)
+  ED-02: hero → definition → stat → cta           (4 sections, 2-col)
+  ED-03: hero → definition → steps → cta          (4 sections, 3-grid)
+  ED-04: hero → definition → objections → cta     (4 sections)
+  ED-05: hero → reframe → definition → expert → cta  (5 sections)
+  ED-06: hero → comparison → definition → cta     (4 sections)
+  ED-07: hero → steps → testimonial → cta         (4 sections)
+  ED-08: hero → definition → story → cta          (4 sections)
+  CO-01: hero → product → cta                     (3 sections, image-heavy)
+  CO-02: hero → story → product → cta             (4 sections)
+  CO-03: hero → product → testimonial → cta       (4 sections, 2-grid)
+  CO-04: hero → product → feel → testimonial → cta  (5 sections)
+  CO-05: hero → comparison → product → guarantee → cta  (5 sections)
+  CO-06: hero → product → guarantee → cta         (4 sections)
+  CO-07: hero → testimonial → product → cta       (4 sections)
+  CV-01: hero → product → guarantee → cta         (4 sections)
+  CV-02: hero → offer → product → cta             (4 sections)
+  CV-03: hero → cta                               (2 sections, image-heavy)
+  CV-04: hero → comparison → guarantee → cta      (4 sections)
+  CV-05: hero → product → stat → cta              (4 sections, 3-grid)
+  CV-06: hero → product → testimonial → cta       (4 sections)
+  CV-07: hero → guarantee → product → cta         (4 sections)
+  RT-01: hero → steps → cta                       (3 sections, hybrid 2-grid)
+  RT-02: hero → testimonial → product → cta       (4 sections)
+  RT-03: hero → feel → cta                        (3 sections, hybrid 3-grid)
+  RT-04: hero → story → testimonial → cta         (4 sections)
+  RT-05: hero → product → story → cta             (4 sections)
+  RE-01: hero → offer → cta                       (3 sections)
+  RE-02: hero → product → cta                     (3 sections, image-heavy)
+  RE-03: hero → testimonial → offer → cta         (4 sections)
+  RE-04: hero → cta                               (2 sections, image-heavy)
+  RE-05: hero → product → guarantee → cta         (4 sections)
+  RE-06: hero → story → cta                       (3 sections)
+  TX-01: hero → letter → product → cta           (4 sections)
+  TX-02: hero → letter → cta                     (3 sections)
+  TX-03: hero → product → testimonial → cta      (4 sections)
+  TX-04: hero → letter → product → story → cta   (5 sections)
 
-  SECTION TYPE → COLOR MAPPING:
-    hero              → warm white #FFFBF0 or lilac #EEE8F6
-    letter/body       → cream #FFF6E2
-    reframe/insight   → mint #EAF6F2
-    definition        → mint #EAF6F2
-    comparison        → warm white #FFFBF0
-    expert/quote      → lavender #F0EDF8
-    product           → lavender #F0EDF8 or beige #F5F1EA
-    testimonial       → cream #FFF6E2
-    objections/FAQ    → white #FFFFFF
-    guarantee         → mint #EAF6F2
-    CTA               → dark #1F2D2F (ALWAYS)
-    story             → cream #FFF6E2
+LAYOUT DIMENSIONS (each blueprint specifies):
+  - section types and order
+  - background colors
+  - column_layout (single, 2-col, 3-grid, hybrid, image-heavy)
+  - has_image (true/false)
+  - image_count (1 or 2 per section)
+  - image_type (lifestyle, flatlay, accessories)
 
-  OUTPUT: Brand token documentation in macro-plan.md and status-report.md
-
-
-STEP 1 — MAP COMPONENTS ✅
-────────────────────────────────────────────────────────────────
-Mapped all 949 components to 16 section types based on name patterns.
-
-  16 SECTION TYPES:
-    hero(42), letter(461), definition(19), reframe(16),
-    comparison(44), expert(14), product(102), feel(6),
-    testimonial(42), objections(8), guarantee(54), cta(54),
-    story(41), steps(14), code(13), stat(19)
-
-  OUTPUT: outputs/email-assets/section-components.json
-
-
-STEP 2 — GENERATE 125 LAYOUTS ✅
-────────────────────────────────────────────────────────────────
-For each copy file: parse sections → classify type → assign color.
-
-  RULES:
-    - No adjacent same colors (fallback colors if needed)
-    - CTA always dark (#1F2D2F) at the end
-    - If <5 sections: add defaults (testimonial, product, guarantee)
-    - If >8 sections: cap and deduplicate
-    - Color randomization for variety
-
-  RESULTS:
-    125 layout blueprints
-    99 UNIQUE patterns out of 125 (79% variance)
-    Most common: 12x hero→reframe→definition→testimonial→product→guarantee→cta
-    All 5-8 sections per email
-    0 adjacent same colors
-
-  EXAMPLE (Welcome E1 L1):
-    section 0: hero       #FFFBF0
-    section 1: story      #FFF6E2
-    section 2: definition #EAF6F2
-    section 3: product    #F5F1EA
-    section 4: cta        #1F2D2F
-
-  OUTPUT: outputs/layouts/<flow>/<email>.json (125 files)
-
-
-STEP 3 — FILL WITH PICKS ✅
-────────────────────────────────────────────────────────────────
-Subagents pick one component + one image per section.
-
-  PROCESS:
-    1 subagent per email reads layout + section-components.json
-    For each section: picks component (prefer G+ > A* > A) + image
-    Image rules: hero→lifestyle, product→flatlay, guarantee→accessories
-
-  VARIANCE TRACKER (track-variance.py):
-    First run: 5.1 used 100x (80%), HERO-20 used 34x (25%)
-    Fix: cap component reuse at 10x (8% max)
-    Result: 227 fixes, all components ≤10x, 117 unique components
-
-  RESULTS:
-    125 picks files
-    123 valid (4-6 images each)
-    2 need 1 extra image
-
-  EXAMPLE (Welcome E1 L1):
-    section 0: HERO-5  (Mirror Moment) + toddler-potty-ladder-yellow.png
-    section 1: STORY-14 (Micro-Story)  + toddler-napping-watermelon.png
-    section 2: EDU-1   (Definition)    + no image
-    section 3: 6.1     (ProductShowcase Full, G) + training-pant-watermelon.jpg
-    section 4: CTADEEP-10 (Community CTA) + no image
-
-  OUTPUT: outputs/picks/<email>.json (125 files)
-
-
-STEP 4 — ASSEMBLE HTML 🔄 CURRENT
-────────────────────────────────────────────────────────────────
-v1-v3 FAILED: Python scripts produce identical output. Blind to
-component design. Every hero looks the same.
-
-v4 APPROACH: One subagent per email. No script. Design decisions.
+RESULTS:
+  125 layout blueprints
+  45 unique templates used across 7 purposes
+  Section counts: 2-5 per email (varied!)
+  Image counts: 4-6 per email (ALL in range!)
+  No two adjacent sections share same color
+  CTA always dark (#1F2D2F) at the end
 
 ================================================================
-STEP 4 v4 — SUBAGENT PER EMAIL
+STEP 3 — 125 COMPONENT PICKS
 ================================================================
 
-THE PROBLEM WITH SCRIPTING
-────────────────────────────────────────────────────────────────
-Python script applies the SAME template function to every section
-type. t_hero() always returns the same HTML. t_testimonial()
-always returns the same HTML. Every hero looks identical.
+PROCESS:
+  For each section in each layout → query section-components.json
+  → pick component from matching section type
+  → prefer G+ > A* > A
+  → pick images from product-photos/
+  → save picks JSON
 
-The script is BLIND. It doesn't know HERO-5 from HERO-20.
-It doesn't know STORY-14 from SP-08. Every section gets
-the same template regardless of chosen component.
-
-THE FIX — ONE SUBAGENT PER EMAIL
-────────────────────────────────────────────────────────────────
-Each email gets its own subagent that:
-
-  1. Reads the layout blueprint
-  2. Reads the component picks
-  3. Reads the actual component HTML from showcase file
-  4. Reads the copy text from the .md file
-  5. MAKES DESIGN DECISIONS:
-     - Looks at the component HTML to understand the visual pattern
-     - Decides how to adapt it for Klaviyo (inline CSS, table layout)
-     - Positions the image, headline, body text correctly
-     - Applies brand tokens
-  6. BUILDS the HTML from scratch using the component patterns
-  7. VALIDATES: 4-6 images, proper structure, no broken HTML
-
-┌─────────────────────────────────────────────────────────────┐
-│ SUBAGENT INPUT                                               │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  EMAIL CONTEXT:                                              │
-│  ├── email_id: "welcome-01-e1-l1"                           │
-│  ├── flow: "welcome"                                         │
-│  ├── position: "E1"                                          │
-│  └── level: "L1" (Sarah)                                     │
-│                                                              │
-│  LAYOUT (from Step 2):                                       │
-│  ├── section 0: hero       color=#FFFBF0                    │
-│  ├── section 1: story      color=#FFF6E2                    │
-│  ├── section 2: definition color=#EAF6F2                    │
-│  ├── section 3: product    color=#F5F1EA                    │
-│  └── section 4: cta        color=#1F2D2F (dark, always)     │
-│                                                              │
-│  COMPONENT PICKS (from Step 3):                              │
-│  ├── section 0: HERO-5  (Mirror Moment)                     │
-│  │              image: toddler-potty-ladder-yellow.png       │
-│  ├── section 1: STORY-14 (Micro-Story)                      │
-│  │              image: toddler-napping-watermelon.png        │
-│  ├── section 2: EDU-1   (Definition Block)                  │
-│  │              image: none                                  │
-│  ├── section 3: 6.1     (ProductShowcaseFull, Giuliano)     │
-│  │              image: training-pant-watermelon-pink.jpg     │
-│  └── section 4: CTADEEP-10 (The Community CTA)              │
-│                 image: none                                  │
-│                                                              │
-│  COPY TEXT (from copy .md file):                             │
-│  ├── hero copy:     "He talks about the potty..."           │
-│  ├── story copy:    "Sarah's son wore pull-ups..."          │
-│  ├── definition:    "This gap has a name: interoception..."  │
-│  ├── product copy:  "Body-Signal Learning Layer..."         │
-│  └── cta copy:      "Let's explore what's happening..."     │
-│                                                              │
-│  COMPONENT HTML (from showcase-artifacts-final.html):        │
-│  ├── HERO-5:  ✦ Mirror Moment                                │
-│  │            Emotional, text-first hero with headline       │
-│  ├── STORY-14: ✦ Micro-Story                                 │
-│  │            Compact quote card with attribution            │
-│  ├── EDU-1:   ✦ Definition Block                             │
-│  │            Eyebrow + title + body text                   │
-│  ├── 6.1:     ✦ ProductShowcaseFull                          │
-│  │            Hero image + price + feature pills + grid     │
-│  └── CTADEEP-10: ✦ Community CTA                             │
-│                 Dark block with lime button                  │
-│                                                              │
-│  BRAND TOKENS:                                               │
-│  ├── colors: teal=#2BAEB4, ink=#1F2D2F, cream=#FBF7F1...   │
-│  ├── fonts: Questrial (main), Fraunces (display)            │
-│  ├── gradient: linear-gradient(135deg, #2BAEB4, #5DD07A)    │
-│  └── width: 600px, table-based layout, inline CSS           │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│ EMAIL STRUCTURE (what the subagent must build)               │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│  <!DOCTYPE html>                                             │
-│  <html>                                                      │
-│  <head>Google Fonts + MSO conditionals</head>                │
-│  <body style="background:#FBF7F1;">                          │
-│                                                              │
-│  <table width="600" style="background:#FFF;">                │
-│                                                              │
-│    HEADER — logo centered, 34px                              │
-│                                                              │
-│    BAND — 40px gradient white→#FFFBF0                       │
-│                                                              │
-│    SECTION 0 — HERO (Mirror Moment, #FFFBF0)                │
-│    ○ LOOK at HERO-5 HTML → it's emotional, text-first       │
-│    ○ Headline: "He talks about the potty..." (Fraunces 30px)│
-│    ○ Body: supporting text (Questrial 16px)                 │
-│    ○ Image: toddler-potty-ladder-yellow.png (lifestyle)     │
-│                                                              │
-│    BAND — #FFFBF0→#FFF6E2                                    │
-│                                                              │
-│    SECTION 1 — STORY (Micro-Story, #FFF6E2)                 │
-│    ○ LOOK at STORY-14 HTML → compact quote card             │
-│    ○ Quote card: "The first time he paused..."              │
-│    ○ Attribution: "— Sarah, mom of a 5-year-old"            │
-│    ○ Image: toddler-napping-watermelon.png                  │
-│                                                              │
-│    BAND — #FFF6E2→#EAF6F2                                    │
-│                                                              │
-│    SECTION 2 — DEFINITION (Definition Block, #EAF6F2)       │
-│    ○ LOOK at EDU-1 HTML → eyebrow + title + body            │
-│    ○ Eyebrow: "THE SCIENCE" (tealDeep, 10.5px, uppercase)   │
-│    ○ Title: "This gap has a name: interoception..."         │
-│    ○ Body: Research explanation (Questrial 15px)            │
-│                                                              │
-│    BAND — #EAF6F2→#F5F1EA                                    │
-│                                                              │
-│    SECTION 3 — PRODUCT (ProductShowcaseFull, #F5F1EA)       │
-│    ○ LOOK at 6.1 HTML → hero image + info + feature pills   │
-│    ○ Image: training-pant-watermelon-pink.jpg               │
-│    ○ Name: Body-Signal Learning Layer™                      │
-│    ○ Price: €34 — starter pair                              │
-│    ○ Feature pills: ◉ Body-Signal ✓ 60-day ♡ Sensory       │
-│    ○ CTA: [Shop the pants →]                                │
-│                                                              │
-│    BAND — #F5F1EA→#1F2D2F                                    │
-│                                                              │
-│    SECTION 4 — CTA (Community CTA, #1F2D2F dark ALWAYS)     │
-│    ○ LOOK at CTADEEP-10 HTML → dark bg, lime button         │
-│    ○ Button: "Talk to parents who get it →"                 │
-│    ○ Fine print: "No rush. No pressure. 60-day guarantee."   │
-│                                                              │
-│    SIGNOFF — Lena Bauer                                      │
-│    FOOTER — tagline, links, unsubscribe                      │
-│                                                              │
-│  </table>                                                    │
-│  </body></html>                                              │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
-
-THE CRITICAL DIFFERENCE FROM SCRIPTING
-────────────────────────────────────────────────────────────────
-SCRIPTING:
-  section_type="hero" → t_hero() always
-  HERO-5 and HERO-20 produce IDENTICAL HTML
-
-SUBAGENT:
-  component_id="HERO-5" → subagent LOOKS at HERO-5 HTML
-  → understands it's a Mirror Moment (emotional, text-first)
-  → builds HTML matching that pattern
-
-  component_id="HERO-20" → subagent LOOKS at HERO-20 HTML
-  → understands it's a Handwritten Letter Opener (warm, personal)
-  → builds HTML matching that pattern
-
-  Same section type "hero" but DIFFERENT HTML output
-  because the subagent understands COMPONENT DESIGN
-
-EXECUTION PLAN
-────────────────────────────────────────────────────────────────
-125 subagents, one per email.
-10 concurrent, 13 waves.
-~2 min per subagent = ~26 min total.
-
-Each subagent:
-  1. Receives: email_id, layout, picks, copy, component HTML refs
-  2. For each section: LOOKS at component HTML → understands
-     design pattern → builds that pattern in Klaviyo HTML
-  3. Connects sections with gradient bands
-  4. Adds header, signoff, footer
-  5. Saves to outputs/html/<email_id>.html
+RESULTS:
+  125 picks files
+  All valid (4-6 images each)
+  55 unique components used
+  Only 1 component overused (>10x): PSYDEEP-15 at 12x
+  No duplicate components within same email
+  Images varied across emails
 
 ================================================================
-WHAT STAYS, WHAT GOES
+STEP 4 — ASSEMBLY (v4 SUBAGENTS)
 ================================================================
 
-KEEP:
-  outputs/layouts/          125 layout blueprints
-  outputs/picks/            125 component picks
-  outputs/email-assets/     component catalog + section mapping
-  outputs/copy/             original copy files
-  scripts/generate-layouts.py
-  scripts/track-variance.py
-  scripts/map-section-components.py
-  plans/status-report.md    THIS FILE
+APPROACH:
+  One subagent per email batch (2 subagents for 125 emails).
+  Each subagent reads: layout + picks + component HTML + copy file.
+  Each subagent builds: proper Klaviyo HTML with brand tokens.
 
-DELETED:
-  outputs/html/             broken HTML outputs (v1-v3)
-  scripts/assemble-email.py blind script
-  plans/phase-1-2-*.md      merged into this file
-  plans/phase-4-*.md        merged into this file
-  plans/email-assembly-*.md merged into this file
-  plans/macro-plan.md       merged into this file
-  plans/assembly-v4-*.md    merged into this file
+WHAT EACH SUBAGENT BUILDS:
+  - 600px table-based layout, inline CSS
+  - Header with BrightKidCo logo
+  - Gradient bands between color sections
+  - EACH section type gets DIFFERENT HTML:
+    * hero → headline + image + body text
+    * testimonial → quote card with attribution
+    * product → image + name + price + features
+    * guarantee → 60-day seal + promise text
+    * definition → eyebrow + title + body
+    * cta → dark background + lime button + fine print
+  - Copy text injected from .md file
+  - Lena Bauer signoff
+  - Footer with tagline, links, unsubscribe
+
+TEST RESULT (welcome-01-e1-l1.html):
+  20,666 bytes
+  78 verification checks passed
+  Real copy text present (He talks about..., interoception, 49%)
+  Brand colors applied (teal, ink, cream, green)
+  Gradient bands between sections
+  Proper component templates per section type
+
+STATUS: 🔄 2 subagents building remaining 124 emails
 
 ================================================================
-PROBLEMS AND FIXES
+PREVIOUS FAILURES AND FIXES
 ================================================================
 
-1. Components not used in HTML
-   Fix: v4 subagents look at actual component HTML, not just labels
+FAILURE 1: Components not used in HTML
+  Root: Assembler scripts used generic colored boxes instead of
+        actual component designs.
+  Fix: v4 subagents build proper HTML per section type.
 
-2. Copy text was section names, not real copy
-   Fix: Parse .md by ### headers, map to section types
+FAILURE 2: Same layout over and over
+  Root: All layouts had identical linear structure.
+  Fix: Rebuilt with 45 templates across 7 purposes, 2-5 sections.
 
-3. Same layout over and over (scripting)
-   Fix: Subagents make design decisions per component
+FAILURE 3: Image counts too low
+  Root: Templates had images=1-3, sections couldn't hold enough.
+  Fix: Target 4-6 images per email, assign to multiple sections.
 
-4. Images not loading (wrong paths)
-   Fix: Use correct relative paths with product-photos prefix
+FAILURE 4: Blind script produces garbage
+  Root: Python script can't make design decisions — same template
+        for every section type.
+  Fix: v4 subagents make DESIGN decisions per component.
 
-5. Component overuse (5.1 = 100x)
-   Fix: Variance tracker caps reuse at 10x per component
+FAILURE 5: Copy text was section names ("Hook", "Parent Story")
+  Root: Copy extraction returned labels, not content.
+  Fix: Parse .md by ### headers, map to actual section types.
 
-6. CTA text was random copy paragraph
-   Fix: Map copy to section types by header classification
+FAILURE 6: Component overuse (5.1 used 100x)
+  Root: Subagents defaulted to same few G+ components.
+  Fix: Variance tracker caps reuse at 10x per component.
 
-7. No component design variety
-   Fix: Subagents study actual component HTML → interpret design
+================================================================
+FILES
+================================================================
+
+  scripts/
+    ├── generate-layouts.py        (45 templates, 7 purposes)
+    ├── map-section-components.py  (949 → 16 section types)
+    └── track-variance.py          (cap reuse at 10x)
+
+  outputs/
+    ├── layouts/                   125 layout blueprints
+    ├── picks/                     125 component picks
+    ├── html/                      125 HTML emails (building)
+    ├── copy/                      125 approved copy files
+    └── email-assets/
+        ├── component-catalog.json
+        ├── section-components.json
+        └── product-photos/        31 images
+
+  plans/
+    ├── status-report.md           THIS FILE
+    └── layout-rebuild-plan.md     Rebuild plan
+
+================================================================

@@ -2,49 +2,38 @@
   "email_id": "welcome-01-e4-l1",
   "sections": [
     {
-      "section_type": "hero",
-      "section_name": "Hook",
-      "component_id": "CAMIMG-17",
-      "component_name": "Email Header Image (uses Header)",
-      "component_source": "G+",
-      "image_file": "toddler-outdoors-grass-disposable-diaper.png",
-      "image_category": "lifestyle"
+      "type": "hero",
+      "component_id": "DESDEEP-7",
+      "component_name": "The Typography Hero",
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "flat-lay/training-pant-bunny-hearts-pink.jpg"
+      ]
     },
     {
-      "section_type": "product",
-      "section_name": "Product Showcase",
-      "component_id": "PRODEEP-5",
-      "component_name": "The Product Chemistry",
-      "component_source": "A*",
-      "image_file": "diaper-woodland-creature-yellow.jpg",
-      "image_category": "flat-lay"
+      "type": "product",
+      "component_id": "6.2",
+      "component_name": "ProductShowcaseMedium (Giuliano source)",
+      "image_files": [
+        "accessories/book-potty-training-guide.png",
+        "accessories/towel-set-llama-cactus.png"
+      ]
     },
     {
-      "section_type": "definition",
-      "section_name": "The Science",
-      "component_id": "EDU-7",
-      "component_name": "Did You Know",
-      "component_source": "A*",
-      "image_file": "book-potty-training-guide.png",
-      "image_category": "accessories"
+      "type": "testimonial",
+      "component_id": "PSYDEEP-11",
+      "component_name": "The Social Proof Ladder",
+      "image_files": [
+        "flat-lay/training-pant-cloud-raindrop-white.jpg"
+      ]
     },
     {
-      "section_type": "guarantee",
-      "section_name": "Guarantee",
-      "component_id": "SP-05",
-      "component_name": "Trust Pill Strip",
-      "component_source": "G+",
-      "image_file": "toddler-rearview-cat-mustard.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_type": "cta",
-      "section_name": "CTA",
-      "component_id": "12.1",
-      "component_name": "Lena Signoff (uses Signoff)",
-      "component_source": "G+",
-      "image_file": null,
-      "image_category": null
+      "type": "cta",
+      "component_id": "CTA-12",
+      "component_name": "Exit Close",
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg"
+      ]
     }
   ]
 }

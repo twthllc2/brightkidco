@@ -2,44 +2,29 @@
   "email_id": "winback-b-24-e2-gf",
   "sections": [
     {
-      "section_name": "Email Body",
-      "section_type": "letter",
-      "component_id": "4.1",
-      "component_name": "Letter Section (uses Letter)",
-      "image_file": "",
-      "image_category": ""
+      "type": "hero",
+      "component_id": "FLOWDEEP-1",
+      "component_name": "Welcome E1 Hook",
+      "image_files": [
+        "lifestyle/toddler-outdoors-grass-disposable-diaper.png",
+        "resized/washing-machine.jpg"
+      ]
     },
     {
-      "section_name": "The Science",
-      "section_type": "definition",
-      "component_id": "EDU-9",
-      "component_name": "Tip Cards",
-      "image_file": "training-pant-cloud-raindrop-white.jpg",
-      "image_category": "flatlay"
+      "type": "product",
+      "component_id": "6.3",
+      "component_name": "ProductShowcaseSoft (Giuliano source)",
+      "image_files": [
+        "lifestyle/founders-holding-pants-yellow-watermelon.png"
+      ]
     },
     {
-      "section_name": "Social Proof",
-      "section_type": "testimonial",
-      "component_id": "SP-07",
-      "component_name": "Counter-Testimonial",
-      "image_file": "toddler-napping-watermelon-pink-shorts.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "Guarantee",
-      "section_type": "guarantee",
-      "component_id": "SP-14",
-      "component_name": "Trust Badges Row",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTADEEP-10",
       "component_name": "The Community CTA",
-      "image_file": "toddler-backpack-moon-cloud-blue.png",
-      "image_category": "lifestyle"
+      "image_files": [
+        "lifestyle/toddler-livingroom-dino-yellow.png"
+      ]
     }
   ]
 }

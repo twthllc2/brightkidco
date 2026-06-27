@@ -2,51 +2,36 @@
   "email_id": "welcome-01-e3-l1",
   "sections": [
     {
-      "index": 0,
       "type": "hero",
       "component_id": "HERO-13",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png",
-      "component_name": "Scientific Hook"
+      "component_name": "Scientific Hook",
+      "image_files": [
+        "flat-lay/swim-diaper-giraffe-yellow.jpg"
+      ]
     },
     {
-      "index": 1,
-      "type": "reframe",
-      "component_id": "2",
-      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      "type": "comparison",
+      "component_id": "STORY-11",
+      "component_name": "Contrast Cards \u2014 Side-by-side \"What they said vs. what happened\"",
+      "image_files": [
+        "flat-lay/training-pant-fox-red-white.jpg"
+      ]
     },
     {
-      "index": 2,
       "type": "definition",
-      "component_id": "HERO-16",
-      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png",
-      "component_name": "Mechanism Tease"
+      "component_id": "1",
+      "component_name": "The Body Signal Concept (Core Mechanism Visual)",
+      "image_files": [
+        "lifestyle/founders-holding-pants-yellow-watermelon.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "testimonial",
-      "component_id": "SP-07",
-      "image_file": null
-    },
-    {
-      "index": 4,
-      "type": "product",
-      "component_id": "6.2",
-      "image_file": "flat-lay/training-pant-fox-woodland-white.jpg",
-      "component_name": "ProductShowcaseMedium (Giuliano source)"
-    },
-    {
-      "index": 5,
-      "type": "guarantee",
-      "component_id": "DESDEEP-13",
-      "image_file": "accessories/book-potty-training-guide.png",
-      "component_name": "The Badge System"
-    },
-    {
-      "index": 6,
       "type": "cta",
-      "component_id": "CTA-8",
-      "image_file": null,
-      "component_name": "Dual CTA"
+      "component_id": "8",
+      "component_name": "CTA Varieties (Permission-Based)",
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     }
   ]
 }

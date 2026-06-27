@@ -2,39 +2,45 @@
   "email_id": "pped-22-e4-l2",
   "sections": [
     {
-      "index": 0,
-      "type": "letter",
-      "component_id": "13.2",
-      "component_name": "Letter & Envelope (uses Letter)",
-      "image_file": "lifestyle/toddler-potty-ladder-yellow-woodland.png"
+      "type": "hero",
+      "component_id": "FLOW-1",
+      "component_name": "Welcome Hook",
+      "image_files": [
+        "accessories/towel-set-llama-cactus.png",
+        "resized/toddler-playing.jpg"
+      ]
     },
     {
-      "index": 1,
+      "type": "reframe",
+      "component_id": "2",
+      "component_name": "The Reframe Moment",
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg"
+      ]
+    },
+    {
       "type": "definition",
-      "component_id": "EDU-2",
-      "component_name": "Did You Know Card",
-      "image_file": "lifestyle/toddler-napping-watermelon-pink-shorts.png"
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "image_files": [
+        "flat-lay/swim-diaper-giraffe-yellow.jpg"
+      ]
     },
     {
-      "index": 2,
-      "type": "testimonial",
-      "component_id": "SP-11",
-      "component_name": "Star Cascade",
-      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+      "type": "expert",
+      "component_id": "DEEP-21",
+      "component_name": "The Expert Whisper",
+      "image_files": [
+        "accessories/wet-bags-space-zebra-llama.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "product",
-      "component_id": "PRODEEP-7",
-      "component_name": "The Color Personality",
-      "image_file": "flat-lay/training-pant-bunny-hearts-pink.jpg"
-    },
-    {
-      "index": 4,
       "type": "cta",
-      "component_id": "CTADEEP-08",
-      "component_name": "The Story Closer",
-      "image_file": "flat-lay/training-pant-fox-woodland-white.jpg"
+      "component_id": "CTADEEP-04",
+      "component_name": "The Curiosity Closer",
+      "image_files": [
+        "accessories/cloth-pads-watermelon-astronaut-cat.png"
+      ]
     }
   ]
 }

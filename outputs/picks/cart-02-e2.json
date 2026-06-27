@@ -2,60 +2,37 @@
   "email_id": "cart-02-e2",
   "sections": [
     {
-      "section_name": "Hook",
-      "section_type": "hero",
-      "component_id": "HERO-20",
-      "component_name": "Handwritten Letter Opener (uses Letter)",
-      "image_file": "toddler-potty-ladder-yellow-woodland.png",
-      "image_category": "lifestyle"
+      "type": "hero",
+      "component_id": "2.3",
+      "component_name": "Teal CTA Hero",
+      "image_files": [
+        "lifestyle/toddler-rearview-cat-mustard.png",
+        "lifestyle/toddler-livingroom-dino-yellow.png"
+      ]
     },
     {
-      "section_name": "Validation",
-      "section_type": "reframe",
-      "component_id": "EMODEEP-01",
-      "component_name": "The Guilt Reframe",
-      "image_file": "",
-      "image_category": ""
+      "type": "product",
+      "component_id": "PRODEEP-5",
+      "component_name": "The Product Chemistry",
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg"
+      ]
     },
     {
-      "section_name": "Mechanism",
-      "section_type": "definition",
-      "component_id": "EDU-8",
-      "component_name": "Mechanism Diagram",
-      "image_file": "training-pant-fox-red-white.jpg",
-      "image_category": "flatlay"
+      "type": "testimonial",
+      "component_id": "DEEP-13",
+      "component_name": "The Reverse Testimonial",
+      "image_files": [
+        "flat-lay/diaper-woodland-creature-yellow.jpg"
+      ]
     },
     {
-      "section_name": "Testimonial / Social Proof",
-      "section_type": "testimonial",
-      "component_id": "SP-08",
-      "component_name": "Stacked Mini-Reviews",
-      "image_file": "toddler-napping-watermelon-pink-shorts.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "Offer / Product Introduction",
-      "section_type": "product",
-      "component_id": "6.1",
-      "component_name": "ProductShowcaseFull (Giuliano source)",
-      "image_file": "laundry-bag-llama-cream.png",
-      "image_category": "flatlay"
-    },
-    {
-      "section_name": "Guarantee / Risk Reversal",
-      "section_type": "guarantee",
-      "component_id": "TRUST-1",
-      "component_name": "60-Day Seal",
-      "image_file": "founders-holding-pants-yellow-watermelon.png",
-      "image_category": "lifestyle"
-    },
-    {
-      "section_name": "CTA",
-      "section_type": "cta",
+      "type": "cta",
       "component_id": "CTADEEP-18",
       "component_name": "The Exit CTA",
-      "image_file": "",
-      "image_category": ""
+      "image_files": [
+        "lifestyle/toddler-playing-train-moon-cloud-blue.png"
+      ]
     }
   ]
 }

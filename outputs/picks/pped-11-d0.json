@@ -2,39 +2,45 @@
   "email_id": "pped-11-d0",
   "sections": [
     {
-      "index": 0,
       "type": "hero",
-      "component_id": "HERO-17",
-      "component_name": "Social Proof Hero",
-      "image_file": "lifestyle/toddler-outdoors-grass-disposable-diaper.png"
+      "component_id": "DESDEEP-7",
+      "component_name": "The Typography Hero",
+      "image_files": [
+        "lifestyle/toddlers-backview-disposable-diapers.png",
+        "flat-lay/training-pant-bunny-hearts-pink.jpg"
+      ]
     },
     {
-      "index": 1,
-      "type": "product",
-      "component_id": "PRODEEP-7",
-      "component_name": "The Color Personality",
-      "image_file": "lifestyle/toddler-livingroom-dino-yellow.png"
+      "type": "definition",
+      "component_id": "EDU-1",
+      "component_name": "Definition Block",
+      "image_files": [
+        "flat-lay/swim-diaper-unicorn-pink.jpg"
+      ]
     },
     {
-      "index": 2,
-      "type": "story",
-      "component_id": "STORYDEEP-13",
-      "component_name": "The Movie Scene",
-      "image_file": "lifestyle/toddler-rearview-cat-mustard.png"
+      "type": "comparison",
+      "component_id": "STORY-11",
+      "component_name": "Contrast Cards \u2014 Side-by-side \"What they said vs. what happened\"",
+      "image_files": [
+        "lifestyle/toddler-livingroom-dino-yellow.png"
+      ]
     },
     {
-      "index": 3,
-      "type": "guarantee",
-      "component_id": "DESDEEP-18",
-      "component_name": "The Wax Seal",
-      "image_file": "lifestyle/toddlers-backview-disposable-diapers.png"
+      "type": "steps",
+      "component_id": "DEEP-15",
+      "component_name": "The Method Graveyard",
+      "image_files": [
+        "lifestyle/toddler-potty-ladder-pink-multicolor.png"
+      ]
     },
     {
-      "index": 4,
       "type": "cta",
-      "component_id": "CTADEEP-04",
-      "component_name": "The Curiosity Closer",
-      "image_file": "lifestyle/toddler-backpack-moon-cloud-blue.png"
+      "component_id": "CTA-12",
+      "component_name": "Exit Close",
+      "image_files": [
+        "lifestyle/toddler-rearview-cat-mustard.png"
+      ]
     }
   ]
 }
