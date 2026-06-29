@@ -623,6 +623,8 @@ preferences or unsubscribe above.
   - Alt text: A toddler napping peacefully in pink watermelon-print shorts in soft natural light, calm and homey.
   - Current usage: 5/25
   - WHY: Calm-nap visual echoes "the nervous system is wiring; results come in sleep" - shows a Pre-K-aged toddler in soft home light without stock-y feel. Removed: a hypothetical second hero image was discarded to keep hero image count = 1.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-13 is an image-driven component and the picked image IS the component.
 
 ### Section 2: SECTION 1 - UNIVERSAL RECOGNITION OPENER (Whether/Or/If)
 - ROLE slot: universal-opener-band (R1, R3, R5)
@@ -635,6 +637,8 @@ preferences or unsubscribe above.
   - Alt text: A toddler on a yellow-woodland potty ladder in soft home light, candid mid-moment.
   - Current usage: 2/25
   - WHY: Potty-ladder visual echoes the universal-recognition opener ("90 days is real time") without implying a hot-pace milestone; warm yellow ties to coral CTA palette downstream.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: SECTION 2 - RECOGNITION ANCHORS, R2 (6 anchors)
 - ROLE slot: recognition-anchor-list-band (6 bullets, em-dash markers)
@@ -647,6 +651,8 @@ preferences or unsubscribe above.
   - Alt text: A toddler from behind in mustard-cat-print clothing in soft home light, candid Pre-K moment.
   - Current usage: 3/25
   - WHY: Rear-view toddler in mustard-cat print visualizes the "looking down at the spot after it happens" anchor in R6; warm tones fit coral palette.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-3 is an image-driven component and the picked image IS the component.
 
 ### Section 4: SECTION 3 - THREE-FAMILY TESTIMONIAL PATTERN
 - ROLE slot: testimonial-stack-three-cards-cream-soft-teal-accent
@@ -655,6 +661,9 @@ preferences or unsubscribe above.
   - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 1/8
   - WHY: "Review of the Week" editorial framing continues from replen flow's earlier R6 sections; cap-safe at 2/8; soft-teal accent + cream card matches wireframe's "3px left border soft teal #5B9B9B" spec.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 5: SECTION 4 - MECHANISM BLOCK (Why 90 Days Is a Milestone)
 - ROLE slot: mechanism-band-with-science-citation-italic
@@ -663,6 +672,9 @@ preferences or unsubscribe above.
   - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 2/8
   - WHY: "Mechanism Diagram" is consistent with repa-15-e1's mechanism pick (cap-safe at 3/8 after this); pairs naturally with the science citation as a callout diagram.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-8 requires an image to render; missing image is a BUG.
 
 ### Section 6: SECTION 5 - UTILITY: NEXT SIZE + PRIMARY CTA (Re-Order)
 - ROLE slot: utility-sizing-band + warm-coral-cta + reply-to-sizing-text-link
@@ -675,6 +687,8 @@ preferences or unsubscribe above.
   - Alt text: A woodland-creature diaper laid flat on a neutral surface, warm earthy tones.
   - Current usage: 2/25
   - WHY: Re-use the same woodland-creature diaper flat-lay as repb-16-e1 (now 3/25, well under cap) to imply "you already saw this product family" continuity.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 - IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
   - Alt text: A toddler on grass outdoors in a disposable diaper, soft natural light, candid.
   - Current usage: 2/25
@@ -688,6 +702,8 @@ preferences or unsubscribe above.
   - Current usage: 0/8
   - WHY: "60-Day Seal" is purpose-built for the guarantee inset; Giuliano-derived PartBadge/Letter alias; warm tone.
 - IMAGE PICKED: none (this section is the seal itself, text + decorative lock).
+  - **WRAP: component-text-only**
+  - WHY: 10.1 (60-Day Seal (alias for PartBadge/Letter) *(L887)*) is text-only per catalog.
 
 ### Section 8: LENA SIGN-OFF (MEDIUM variant, E2 of Flow 16)
 - ROLE slot: signoff-lena-medium-cream-divider (peer-mom long + reply routing P.S.)
@@ -697,6 +713,8 @@ preferences or unsubscribe above.
   - Current usage: 1/8
   - WHY: "The Letter From Lena" matches the MEDIUM variant E2 requirement (long-form peer-mom); cap-safe at 2/8.
 - IMAGE PICKED: none (text-only section).
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6 (target range 4-6). 5 images: 1 hero + 2 body (Section 2 + Section 3) + 2 utility (Section 6 sizing + outdoor-grass).

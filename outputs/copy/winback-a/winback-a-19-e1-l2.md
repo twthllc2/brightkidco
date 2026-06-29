@@ -782,6 +782,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e1-l2, level=l2, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: DEEPPROD-10 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -794,6 +797,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 1 visual — calibrated per level (l2)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-20 (The Field Notes *(L10350)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: VALIDATION + BCBA ACKNOWLEDGMENT (L2 ③)
 - ROLE slot: validation-prose-with-bcba-respect
@@ -806,6 +811,19 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 2 visual — calibrated per level (l2)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
+
+### Section 3: MECHANISM SPECIFICITY — CONSISTENCY VARIABLE (L2 ②)
+- ROLE slot: mechanism-mint-callout-with-672-stat
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: STATS-2 (Single Stat Highlight *(LXXXX)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section, inline-bold 82% stat)
+  - **WRAP: component-text-only**
+  - WHY: STATS-2 is text-only per catalog; inline-bold stat renders without an attached image.
 
 ### Section 4: TESTIMONIAL — L2 LONG-FORM WITH BCBA CONTEXT
 - ROLE slot: testimonial-l2-long-form-with-bcba-callback
@@ -818,6 +836,19 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 4 visual — calibrated per level (l2)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
+
+### Section 5: REALISTIC TIMELINE — HONEST, NOT OPTIMISTIC (L2 ④)
+- ROLE slot: timeline-stack-vertical-with-week-ranges
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: DEEP-24 (Timeline Sequence *(L9800)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section, vertical bullet stack)
+  - **WRAP: component-text-only**
+  - WHY: DEEP-24 is text-only per catalog; vertically-stacked week-range bullets render without an attached image.
 
 ### Section 6: PRODUCT RE-INTRODUCTION — 3-LAYER RECAP
 - ROLE slot: layered-text-block-three-rows
@@ -830,6 +861,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 6 visual — calibrated per level (l2)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 9.1 (Expert Quote Card *(L849)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 7: GUARANTEE + PERMISSION-NOT-TO-BUY (L2 ⑤ ⑥)
 - ROLE slot: guarantee-paragraph-with-permission-closing
@@ -842,6 +875,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 7 visual — calibrated per level (l2)
   - Current usage: 22/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-03 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Section 8: LENA SIGN-OFF — MEDIUM VARIANT + P.S. PAIR
 - ROLE slot: lena-signoff-medium-with-two-sons-ps
@@ -850,12 +885,15 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 5/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['DEEPPROD-10', 'STORYDEEP-20', '4.3', 'SP2', '9.1', 'EMODEEP-03', '33.2']
+- component-usage.json: incremented ['DEEPPROD-10', 'STORYDEEP-20', '4.3', 'STATS-2', 'SP2', 'DEEP-24', '9.1', 'EMODEEP-03', '33.2']
 - image-usage.json: incremented ['lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'accessories/potty-targets-stickers-chart.png', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/toddlers-backview-disposable-diapers.png', 'lifestyle/founders-holding-pants-yellow-watermelon.png']
 

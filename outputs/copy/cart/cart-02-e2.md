@@ -576,6 +576,8 @@ END OF WIREFRAME — cart-02-e2
   - Alt text (GF, V16): "Toddler viewed from behind in mustard yellow shorts, soft warm light, full backview."
   - Current usage: 3/25 (after this pick)
   - WHY: Backview of toddler supports "The moment he stands up he pees." R1-compliant (no face). Mustard color matches the terracotta accent from the wireframe.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-10 is an image-driven component and the picked image IS the component.
 
 ### Section 2: cross-level-recognition-anchor-list
 - ROLE slot: cross-level-recognition-anchor-list
@@ -588,6 +590,8 @@ END OF WIREFRAME — cart-02-e2
   - Alt text (GF, V16): "BrightKidCo training pant with white and red fox pattern, flat-lay product shot."
   - Current usage: 5/25
   - WHY: Fox-pattern product supports the "almost trained" recognition anchor. White/cream/red palette matches the terracotta accent.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: validation-block-with-neurology-reframe
 - ROLE slot: validation-block-with-neurology-reframe
@@ -600,6 +604,8 @@ END OF WIREFRAME — cart-02-e2
   - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
   - Current usage: 3/25
   - WHY: Backview dual-toddler shot supports the validation framing ("you're not alone") without showing faces. R1-clean.
+  - **WRAP: image-inside-component**
+  - WHY: 2 (The Reframe Moment *(L61)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: mechanism-explanation-with-science-anchors
 - ROLE slot: mechanism-explanation-with-science-anchors
@@ -612,6 +618,8 @@ END OF WIREFRAME — cart-02-e2
   - Alt text (GF, V16): "Toddler napping on a soft cream blanket wearing watermelon-patterned pink shorts."
   - Current usage: 7/25
   - WHY: Visualizes "body signals at rest" — supports the mechanism reframe that the body is constantly sending signals. Pink/cream palette matches the warm theme.
+  - **WRAP: image-inside-component**
+  - WHY: PSYCH-01 (Anchoring *(L8443)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: three-testimonial-card-stack-asymmetric
 - ROLE slot: three-testimonial-card-stack-asymmetric
@@ -624,6 +632,8 @@ END OF WIREFRAME — cart-02-e2
   - Alt text (GF, V16): "Toddler wearing a small backpack with soft moon and cloud-blue pattern, rearview."
   - Current usage: 6/25
   - WHY: Generic toddler-backpack visual supports asymmetric testimonial cards. Moon-cloud-blue pattern complements the cream/emerald palette.
+  - **WRAP: image-inside-component**
+  - WHY: VSOCIAL-8 (Community Counter *(L19974)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Section 6: low-bar-success-quote-callout
 - ROLE slot: low-bar-success-quote-callout
@@ -636,6 +646,8 @@ END OF WIREFRAME — cart-02-e2
   - Alt text (GF, V16): "BrightKidCo training pant with watermelon pattern in pink, flat-lay product shot."
   - Current usage: 4/25
   - WHY: Watermelon pattern product for the celebratory micro-win. Pink tone fits the celebratory mood.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 7: offer-block-with-pricing-anchor
 - ROLE slot: offer-block-with-pricing-anchor
@@ -648,6 +660,8 @@ END OF WIREFRAME — cart-02-e2
   - Alt text (GF, V16): "Reusable laundry bag with llama pattern in cream tones, flat-lay product shot."
   - Current usage: 2/25
   - WHY: Supports the rotation-logic implication (3+3 means consistent feedback). Cream llama pattern fits warm palette.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 8: guarantee-statement-block
 - ROLE slot: guarantee-statement-block
@@ -657,6 +671,8 @@ END OF WIREFRAME — cart-02-e2
   - Current usage: 3/8
   - WHY: 60-Day Seal renders the horizontal strip guarantee cleanly. Different from cart-02-e1's TRUST-2 (Detail Cards) — this is the strip/seal variant.
 - IMAGE PICKED: (NONE for this section — already at image cap with prior sections)
+  - **WRAP: image-required-component**
+  - WHY: TRUST-1 (60-Day Seal *(L6385)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Image count check
 - Total images in this email: 7/6 (1 over cap)

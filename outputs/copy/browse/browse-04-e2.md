@@ -650,6 +650,8 @@ NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whet
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 7/25
   - WHY: Founders photo for the opener (consistent with cart flow). Different from browse-04-e1's potty-ladder image.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-15 is an image-driven component and the picked image IS the component.
 
 ### Section 2: testimonial-card-l1-verbal
 - ROLE slot: testimonial-card-l1-verbal
@@ -662,6 +664,8 @@ NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whet
   - Alt text (GF, V16): "BrightKidCo training pant with soft bunny-and-heart pattern in pink, flat-lay product shot."
   - Current usage: 6/25
   - WHY: Pink bunny-heart pattern for Sarah's L1 testimonial.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 3: testimonial-card-l2-sensory-bcba
 - ROLE slot: testimonial-card-l2-sensory-bcba
@@ -674,6 +678,8 @@ NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whet
   - Alt text (GF, V16): "Toddler playing outdoors on grass wearing a soft disposable diaper, side view."
   - Current usage: 3/25
   - WHY: Outdoor scene for Lisa's sensory-BCBA testimonial.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 4: testimonial-card-l3-nonverbal
 - ROLE slot: testimonial-card-l3-nonverbal
@@ -686,6 +692,8 @@ NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whet
   - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
   - Current usage: 8/25
   - WHY: Generic living-room scene for Maria's L3 testimonial.
+  - **WRAP: image-standalone**
+  - WHY: VSOCIAL- matches Rule 6 (VSOCIAL-); image picked → image-standalone; content block, image is decorative.
 
 ### Section 5: mechanism-text-block-with-product-reference
 - ROLE slot: mechanism-text-block-with-product-reference
@@ -698,6 +706,8 @@ NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whet
   - Alt text (GF, V16): "Toddler climbing a yellow woodland-patterned potty ladder, viewed from behind."
   - Current usage: 5/25
   - WHY: Mechanism-reveal visual — child on the potty ladder is the "before" of the body-signal mechanism.
+  - **WRAP: image-standalone**
+  - WHY: PSYCH- matches Rule 8 (PSYCH-); image picked → image-standalone; content block, image is decorative.
 
 ### Section 6: cta-text-link (permission)
 - ROLE slot: cta-text-link
@@ -710,6 +720,8 @@ NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whet
   - Alt text (GF, V16): "Reusable cloth pads with watermelon-astronaut-cat pattern, laid flat on warm cream surface."
   - Current usage: 2/25
   - WHY: Generic accessory visual for the CTA section. V16-safe.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 7: migration-anchor-stacked-list
 - ROLE slot: migration-anchor-stacked-list
@@ -719,6 +731,8 @@ NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whet
   - Current usage: 3/8
   - WHY: Realistic Timeline matches the "Not sure where your child fits? That's okay." permission framing — each anchor offers a real timeline for that child's profile.
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Image count check
 - Total images in this email: 6/6

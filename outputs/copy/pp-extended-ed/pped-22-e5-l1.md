@@ -855,6 +855,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e5-l1, level=l1, theme=5. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWDEEP-1 (Welcome E1 Hook *(L12513)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — PRE-K TIME + "YOU STILL HAVE TIME"
 - ROLE slot: prose-block-with-pre-k-time-marker-and-shifts-validation
@@ -867,6 +870,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 5 section 1 visual — calibrated per level (l1)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-11 (The Weather Report *(L10120)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: VALIDATION — "YOUR CHILD'S PROGRESS IS REAL"
 - ROLE slot: validation-paragraph-stack-with-nicholson-2019-cite
@@ -879,6 +884,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 5 section 2 visual — calibrated per level (l1)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-12 (The Book Chapter *(L10150)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: MECHANISM — SCHOOL READINESS PROTOCOL (3 STEPS)
 - ROLE slot: step-card-stack-with-numbered-badges
@@ -891,6 +898,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 5 section 3 visual — calibrated per level (l1)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-13 (The Movie Scene *(L10170)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: CTA SECTION (SINGLE PRIMARY BUTTON + GUARANTEE)
 - ROLE slot: cta-button-full-width-with-secondary-text-link
@@ -903,6 +912,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 5 section 4 visual — calibrated per level (l1)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 5: LENA SIGN-OFF (MEDIUM VARIANT) + TEACHER INFO SHEE
 - ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + TEACHER INFO SHEET P.S.
@@ -915,6 +926,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 5 section 5 visual — calibrated per level (l1)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 5/6

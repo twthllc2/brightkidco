@@ -770,6 +770,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e1-l2, level=l2, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: DESDEEP-1 (The Gradient Hero *(L13147)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — "YOU'VE BEEN AT THIS LONG ENOUGH"
 - ROLE slot: prose-block-with-failed-method-acknowledgment
@@ -782,6 +785,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 1 visual — calibrated per level (l2)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 7 (Parent Stories (Emotional Proof) *(L187)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: MECHANISM — NICHOLSON 2019 + BCBA COMPLEMENT
 - ROLE slot: mechanism-paragraph-stack-with-nicholson-citation-and-bcba-bridge
@@ -794,6 +799,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 2 visual — calibrated per level (l2)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: TIMELINE NORMALIZATION (ELEMENT ④)
 - ROLE slot: timeline-paragraph-stack-with-realistic-ranges
@@ -806,6 +813,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 3 visual — calibrated per level (l2)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 9 (The Journey Map (Where You Are) *(L234)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: 60-DAY GUARANTEE (ELEMENT ⑤)
 - ROLE slot: guarantee-paragraph-stack-with-no-conditions
@@ -818,6 +827,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 4 visual — calibrated per level (l2)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: PERMISSION-NOT-TO-BUY (ELEMENT ⑥) + L2 TESTIMONIAL
 - ROLE slot: permission-paragraph-stack-with-peer-testimonial
@@ -830,6 +841,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 5 visual — calibrated per level (l2)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: CTA SECTION (LOW AGGRESSION, MULTIPLE PATHS)
 - ROLE slot: cta-stack-3-text-links-plus-muted-button
@@ -838,6 +851,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: LENA SIGN-OFF (SHORT VARIANT PER LOCKED-PROFILE)
 - ROLE slot: LENA SIGN-OFF (SHORT VARIANT PER LOCKED-PROFILE)
@@ -846,6 +862,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=signoff_footer, audience=['L2']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-04 (Footer (Giuliano source) *(L7571)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

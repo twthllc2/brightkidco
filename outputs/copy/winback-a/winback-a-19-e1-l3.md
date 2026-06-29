@@ -707,6 +707,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e1-l3, level=l3, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOW-6 (Winback Opener *(L7239)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: OPENING — Lapse Acknowledged Without Guilt
 - ROLE slot: opening-prose-block-centered-warm-cream
@@ -719,6 +722,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 1 visual — calibrated per level (l3)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: OBJ-14.4 (OBJ-14.4 — Remember Callout (Timeline Disclaimer) ) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: HOOK — Gentle Re-engagement
 - ROLE slot: hook-prose-block-left-aligned-warm-clay
@@ -731,6 +736,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 2 visual — calibrated per level (l3)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: OBJ-15.2 (OBJ-15.2 — Three Guarantees Stack (Money-Back Trio) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: VALIDATION — Honor Their Choice
 - ROLE slot: validation-prose-warm-clay-italic
@@ -743,6 +750,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 3 visual — calibrated per level (l3)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: OBJ-15.4 (OBJ-15.4 — Lena Voice (Lena Closes Objection) *(L2) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: MECHANISM REMINDER — The Signal, Gently Reframed
 - ROLE slot: mechanism-warm-sand-callout-no-green
@@ -755,6 +764,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 4 visual — calibrated per level (l3)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: M2 is an image-driven component and the picked image IS the component.
 
 ### Section 5: OFFER — 1 Pair ($34.99), Product After Mechanism
 - ROLE slot: offer-prose-1-pair-only-no-bundle
@@ -767,6 +778,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 5 visual — calibrated per level (l3)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: CTA — Permission-Framed
 - ROLE slot: cta-text-link-warm-clay-no-filled-button
@@ -775,6 +788,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-medium-with-community-ps
@@ -783,6 +799,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 3/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Image count check
 - Total images in this email: 5/6

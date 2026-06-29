@@ -891,6 +891,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e3-l1, level=l1, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 1: HOOK — Directness + Last-Email Declaration
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -903,6 +906,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 1 visual — calibrated per level (l1)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 2: VALIDATION — You Didn't Fail
 - ROLE slot: validation-prose-warm-cream-no-fail
@@ -915,6 +920,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 2 visual — calibrated per level (l1)
   - Current usage: 25/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: STORY-02 (Vertical Timeline — Chronological milestones *(L43) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: MECHANISM — Signal-Timing Gap (Nicholson 2019)
 - ROLE slot: mechanism-mint-callout-with-nicholson-citation
@@ -927,6 +934,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 3 visual — calibrated per level (l1)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-4 (The Interoception Test *(L10745)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: OFFER — 3+3 Bundle Still Here
 - ROLE slot: pricing-box-warm-cream-with-rotation-story
@@ -939,6 +948,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 4 visual — calibrated per level (l1)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: EDUDEEP-6 (The Developmental Timeline *(L10805)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 5: PERMISSION-NOT-TO-BUY + LAST EMAIL DECLARATION
 - ROLE slot: permission-prose-warm-cream-with-last-email-anchor
@@ -951,6 +962,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 5 visual — calibrated per level (l1)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-long-with-two-sons-mirror-and-reply-ps
@@ -959,6 +972,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 7/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Image count check
 - Total images in this email: 5/6

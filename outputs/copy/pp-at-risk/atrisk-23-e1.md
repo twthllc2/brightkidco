@@ -115,6 +115,8 @@ United States
   - Alt text: "Toddler viewed from behind wearing a mustard-yellow cat-themed outfit, suggesting the everyday 'pause' moment the at-risk check-in describes."
   - Current usage: 3/25 (was 3 → now 4)
   - WHY: The "pause moment" visual — supports the email's "Pause Is Part of the Process" big idea. Per Stage 2 plan §3.2 image minimum (4-6 images), at least 4 images must be picked even though wireframe §IMAGE_COUNT=0. Per §3.2 "If the wireframe doesn't specify 4+ images, the subagent MUST add images to body sections" — this is a constraint override of the wireframe's "minimum email" intent.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 4.1 (Letter Section (uses Letter) *(L468)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: CTA — Reply-Invitation Text Link + Permission Close
 - ROLE slot: cta-text-link-only + permission-line (Section 2)
@@ -127,6 +129,8 @@ United States
   - Alt text: "Child resting peacefully in soft pink shorts, suggesting the 'no judgment, no pressure' permission the at-risk CTA invites."
   - Current usage: 9/25 (was 9 → now 10)
   - WHY: The "no-pressure permission" visual — calm toddler rest supports the "No judgment. Just curious." permission line.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 3: Lena SHORT Sign-off
 - ROLE slot: signoff-lena-short (Section 3)
@@ -139,6 +143,8 @@ United States
   - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the peer-trust anchor for the at-risk Lena sign-off."
   - Current usage: 9/25 (was 9 → now 10)
   - WHY: The Lena peer-voice visual — supports the "I read every response" promise.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 4: Additional Image (Image-Augment for 4-Minimum Floor)
 - ROLE slot: image-augment-floor (Section 4)
@@ -151,6 +157,8 @@ United States
   - Alt text: "Toddler playing with a moon-cloud themed train toy, the everyday home-context visual that anchors the at-risk check-in's 'when you come back' permission."
   - Current usage: 7/25 (was 7 → now 8)
   - WHY: The "home-context" visual — supports the "When the underwear goes back on, whether that's tomorrow, next week, or next month..." permission frame.
+  - **WRAP: image-inside-component**
+  - WHY: STORY-09 (The Reframe — Challenge → New perspective *(L4559)) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: HERO-16 (Mechanism Tease)

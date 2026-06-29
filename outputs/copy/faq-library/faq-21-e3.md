@@ -614,13 +614,21 @@ END OF WIREFRAME — faq-21-e3
 | Role | Component ID | Reason |
 |---|---|---|
 | PROSE-OPENER-3-SYMPTOMS | **EMO-11** | Three-symptom opener — vertical stack |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
 | VALIDATION-NOT-STUBBORN | **EMO-12** | Validation 'not being stubborn' + Lena peer |
-| MECH-3-CONTEXTUAL-APPLICATIONS | **EDU-5** | 3-layer mechanism with contextual applications |
-| SINGLE-TESTIMONIAL-CARD | **SP-07** | Single cream-inset testimonial — soft shadow |
-| GUARANTEE-MICRO-WINS | **CMP-1** | Guarantee + micro-wins stack |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
+|| MECH-3-CONTEXTUAL-APPLICATIONS | **EDU-5** | 3-layer mechanism with contextual applications |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDU-5 is NOT in Rule 7's explicit EDU list (2/3/8/10/11); with image picked, Rule 9 → image-standalone between sections. |
+|| SINGLE-TESTIMONIAL-CARD | **SP-07** | Single cream-inset testimonial — soft shadow |
+|  |  | **WRAP: image-inside-component** | SP-07 starts with "SP-" → Rule 5: image-inside-component (with image) or component-text-only (no image). Parent-quote photo is anchored inside the testimonial/letter callout. |
+|| GUARANTEE-MICRO-WINS | **CMP-1** | Guarantee + micro-wins stack |
+|  |  | **WRAP: image-standalone (placed between sections)** | CMP-1 starts with "CMP-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
 | CTA-BRAND-GREEN | **CTA-7** | Brand-green button + secondary text-link |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | LENA-SIGNOFF-MEDIUM | **33.2** | Medium-variant Lena signoff — final farewell (signoff_footer role) |
+  |  | **WRAP: component-text-only** | 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog. |
 | LENA-MEDIUM + FOOTER | **33.2** | Lena medium sig + footer (alt: 33.1) |
+  |  | **WRAP: component-text-only** | 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog. |
 
 ### Images (4/6)
 

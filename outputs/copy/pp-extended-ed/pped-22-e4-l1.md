@@ -679,6 +679,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e4-l1, level=l1, theme=4. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-3 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — PROMPTING REALITY MIRROR
 - ROLE slot: prose-block-with-daily-reality-mirror
@@ -691,6 +694,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 4 section 1 visual — calibrated per level (l1)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — "ALMOST TRAINED" → "MOSTLY TRAINED"
 - ROLE slot: validation-paragraph-stack-with-almost-trained-arc
@@ -703,6 +708,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 4 section 2 visual — calibrated per level (l1)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: MECHANISM — WHY PROMPTING CAN HOLD PROGRESS BACK
 - ROLE slot: mechanism-paragraph-stack-with-prompt-dependency
@@ -715,6 +722,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 4 section 3 visual — calibrated per level (l1)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-4 (The Interoception Test *(L10745)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: PRACTICAL GUIDANCE — 3-PHASE PROMPT-FADING PROTOCO
 - ROLE slot: phase-list-stacked-vertical-with-time-ranges
@@ -727,6 +736,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 4 section 4 visual — calibrated per level (l1)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: PEER-MOM TESTIMONIAL — PROMPT-FADING SUCCESS
 - ROLE slot: testimonial-card-l1-prompt-fading-success
@@ -739,6 +750,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 4 section 5 visual — calibrated per level (l1)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: SP1 (Star Rating Row *(L3187)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: PRE-K CONNECTION (LEVER L1-A REINFORCED)
 - ROLE slot: pre-k-anchor-paragraph-with-mostly-trained-arc
@@ -747,6 +760,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
 - ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
@@ -755,6 +771,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 2/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Image count check
 - Total images in this email: 5/6

@@ -565,6 +565,7 @@ EXAMPLE_PICK: typography hero, off-white background,
               accent, no lifestyle photo
 
 NO CTA in this section
+WRAP: image-standalone (hero-typography-only-gf, text-only per GF design, image decorative)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -609,6 +610,7 @@ EXAMPLE_PICK: vertical 3-layer bridge SVG, 48px
               version of layer color), color
               progression gray→amber→beige→teal→green,
               single-column mobile-friendly
+WRAP: image-inside-component (deep-mechanism-bridge-gf, picked image IS the component — flat-lay/training-pant-fox-woodland-white)
 
 [VISUAL ELEMENT — PULL-QUOTE CALLOUT]
 ROLE: callout-quote-highlight-gf
@@ -626,6 +628,7 @@ EXAMPLE_PICK: 2 stacked pull-quotes, warm-amber
               left-border, italic body, "almost
               trained" line in slightly bolder
               weight to mark the easter egg
+WRAP: image-standalone (callout-quote-highlight-gf, picked image IS the component — toddler-outdoors-grass-disposable-diaper)
 
 NO CTA in this section
 
@@ -664,6 +667,7 @@ EXAMPLE_PICK: 5 stacked mini-win cards, off-white
               background, alternating quote-mark
               position, no level labels, no borders,
               no shadows
+WRAP: image-inside-component (five-mini-win-testimonials-stacked-gf SP-08 Stacked Mini-Reviews, picked image IS the component — accessories/wet-bags-space-zebra-llama)
 
 [VISUAL ELEMENT — PRODUCT 3+3 BUNDLE]
 ROLE: product-3-layer-icons-gf (3 simple circular
@@ -681,6 +685,7 @@ INTENT: introduces the 3+3 Bundle with three small
 EXAMPLE_PICK: 3 stacked circular icons (48px), muted
               layer colors, one-line captions each,
               60-day guarantee line below
+WRAP: image-inside-component (product-3-layer-icons-gf PROD-3 Layer Breakdown, picked image IS the component — flat-lay/training-pant-penguin-multicolor)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -702,6 +707,7 @@ SECONDARY:  text link "Not ready for 6 pairs? Start
             with 1 Pair ($34.99) →"
             "Free shipping · 60-day guarantee · Your
             judgment"
+WRAP: image-inside-component (CTA Try 3+3 Bundle, picked image IS the component — flat-lay/training-pant-bunny-hearts-pink)
 
 [CTA — DOUBLE-TAP #2: AFTER GUARANTEE]
 BUTTON_TEXT: Try the 3+3 Bundle — $79.99
@@ -715,6 +721,7 @@ SECONDARY:  text link "That's $13.33 per pair with
 [VISUAL ELEMENT — LENA SIGN-OFF (LONG)]
 ROLE: signoff-lena-long-gf
 INTENT: Lena LONG variant (E7-E8 macro), the longest
+WRAP: component-text-only (locked-signoff, signoff-lena-long-gf, ships from locked footer.html)
         peer-voice frame in the arc:
         "If you have a question — about the mechanism,
         the timing, whether this is right for your
@@ -928,37 +935,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Toddler from behind, mustard cat-graphic shirt, soft home light
   - Current usage: 2/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S2: Validation + Deep Mechanism (merged)
-- ROLE slot: deep-mechanism-bridge-gf + callout-quote-highlight-gf
-- INTENT: 3 stacked layer cards + universal pull-quote.
-- COMPONENT PICKED: EDU-2  (Step Cards [A*] (MECHANISM & EDUCATION, 1-2-3-4 BSL sequence))
-  - Current usage: 1/8
-  - WHY: Step Cards — R5 timeline-flexible 1-2-3-4 BSL sequence, 'some kids 2 weeks, others 8'.
-- COMPONENT PICKED: EDU-5  (Infographic [A*] (MECHANISM & EDUCATION, deep visual))
-  - Current usage: 1/8
-  - WHY: Infographic — deep mechanism visual for the body-signal learning layer.
-- COMPONENT PICKED: DEEP-10  (The Science Made Simple [A*] (MECHANISM & EDUCATION, interoception))
-  - Current usage: 1/8
-  - WHY: The Science Made Simple — interoception research paraphrase (Nicholson 2019, Mahler 2020).
-- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
-  - Alt text: Cream llama-graphic laundry bag, neutral flat-lay
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S3: Mini-Win Testimonials + Product + Guarantee
-- ROLE slot: five-mini-win-testimonials-stacked-gf + product-3-layer-icons-gf
-- INTENT: 5 mini-win blocks + 3 circular product icons.
-- COMPONENT PICKED: SP-13  (Review of the Week [A*] (SOCIAL PROOF & TESTIMONIALS))
-  - Current usage: 1/8
-  - WHY: Review of the Week — cross-level mini-win testimonial, R4 verbal/non-verbal dual.
-- COMPONENT PICKED: PROD-9  (Unboxing Experience [A*] (PRODUCT SHOWCASE, showcase-allowed))
-  - Current usage: 1/8
-  - WHY: Unboxing Experience — product in context, showcase-allowed.
-- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
-  - Alt text: Cloth pads with watermelon, astronaut, and cat prints, flat-lay
-  - Current usage: 4/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-19 is an image-driven component and the picked image IS the component.
 
 ### S4: Late CTA + Lena Sign-off (LONG variant)
 - ROLE slot: (button x 2) + signoff-lena-long-gf
@@ -973,6 +951,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Two toddlers from behind, soft home light, neutral posture
   - Current usage: 6/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Image count check
 - Total images in this email: 5/6

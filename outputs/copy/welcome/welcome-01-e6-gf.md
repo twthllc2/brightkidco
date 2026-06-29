@@ -612,6 +612,7 @@ EXAMPLE_PICK: candid lifestyle photo, soft natural
               play, no clinical props
 
 NO CTA in this section
+WRAP: image-inside-component (hero-lifestyle-candid-gf HERO-11 Three Family Composition, picked image IS the component — toddlers backview)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -658,6 +659,7 @@ EXAMPLE_PICK: pull-quote callout, italic 17px, left
               accent
 
 NO CTA in this section
+WRAP: image-standalone (callout-quote-highlight-gf, picked image IS the component — accessories/potty-targets-stickers-chart)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -684,6 +686,7 @@ INTENT: presents the Body-Signal Learning mechanism
 EXAMPLE_PICK: full-width band, pale-green (pale green)
               background, body copy in 17px, italic
               emphasis on "uh-oh"
+WRAP: image-standalone (mechanism-pale-green-band-gf text-only per GF design, image decorative)
 
 [VISUAL ELEMENT — 3-LAYER TABLE]
 ROLE: product-3-layer-table-gf (clean table format
@@ -704,6 +707,7 @@ INTENT: presents the 3-layer system as a clean table:
 EXAMPLE_PICK: 3-row table, alternating row shading,
               small SVG icons, bold layer names,
               regular-weight descriptions
+WRAP: image-standalone (product-3-layer-table-gf text-only per GF design, image decorative)
 
 [VISUAL ELEMENT — COMPARISON CALLOUT]
 ROLE: pullup-vs-bkc-comparison-gf (vertical stacked
@@ -723,6 +727,7 @@ INTENT: side-by-side visual comparison rendered as
 EXAMPLE_PICK: 2 stacked comparison cards, X over
               pull-up icon, ✓ over BKC icon, side-by-
               side INSIDE each card row only
+WRAP: image-standalone (pullup-vs-bkc-comparison-gf text-only per GF design, image decorative)
 
 NO CTA in this section
 
@@ -757,6 +762,7 @@ EXAMPLE_PICK: 2 stacked quote cards, warm cream
               background, italic body, 4px terracotta
               left-border, guarantee shield badge below
               in 150x150px
+WRAP: image-inside-component (two-quote-cards-stacked-gf SP-01 quote-callouts, picked image IS the component — flat-lay/swim-diaper-unicorn-pink)
 
 NO CTA in this section
 
@@ -781,6 +787,7 @@ BUTTON_INTENT: drives to PDP, primary offer; the
 SECONDARY:  text link "That's $13.33 per pair with
             the bundle — less than half the single-
             pair price"
+WRAP: image-standalone (CTA Shop Bundle, image accessory renders between sections — picked image is laundry-bag-llama-cream)
 
 [TRUST SIGNAL ROW]
 TEXT: "✓ Free shipping on 3+3 Bundle · ✓ 60-Day
@@ -808,6 +815,7 @@ SUBHEADLINE: (none)
 [VISUAL ELEMENT]
 ROLE: signoff-lena-medium-long-gf
 INTENT: Lena MEDIUM→LONG variant transition
+WRAP: component-text-only (locked-signoff, signoff-lena-medium-long-gf, ships from locked footer.html)
         (E6 → E7 → E8 progression), the longest
         peer-voice frame so far in the arc:
         "I have two autistic sons. One's 6, still
@@ -1018,64 +1026,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Child napping softly in pink shorts, real home light
   - Current usage: 6/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S2: Validation — Pull-Up Reframe (PAS Agitate)
-- ROLE slot: cool-blue-tint-band-gf + callout-quote-highlight-gf
-- INTENT: Cool-blue tint band + GF-universal parent quote.
-- COMPONENT PICKED: EMO-3  (Guilt Reduction [A*] (EMOTIONAL SUPPORT, maternal-blame reframe))
-  - Current usage: 1/8
-  - WHY: Guilt Reduction — 'the pull-up isn't the enemy, but it blocks the signal', R1-safe.
-- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
-  - Alt text: Pink unicorn swim diaper laid flat
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S3: Mechanism — Body-Signal Opposite-of-Pull-Ups
-- ROLE slot: mechanism-pale-green-band-gf + product-3-layer-table-gf + pullup-vs-bkc-comparison-gf
-- INTENT: Pale-green band, 3-layer table, pull-up vs BKC vertical comparison.
-- COMPONENT PICKED: EDU-12  (Comparison Matrix [A*] (MECHANISM & EDUCATION, pullup vs BKC))
-  - Current usage: 1/8
-  - WHY: Comparison Matrix — Pull-up vs BKC side-by-side mechanism table.
-- COMPONENT PICKED: PROD-7  (Comparison Table [A*] (PRODUCT SHOWCASE, showcase-allowed))
-  - Current usage: 1/8
-  - WHY: Comparison Table — 3-layer system as a clean table, showcase-allowed.
-- COMPONENT PICKED: PROD-2  (Side-by-Side [A*] (PRODUCT SHOWCASE, showcase-allowed))
-  - Current usage: 1/8
-  - WHY: Side-by-Side — pullup vs BKC visual comparison, showcase-allowed.
-- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
-  - Alt text: Ocean-blue whale swim diaper laid flat
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S4: Social Proof — Two Quotes + Guarantee
-- ROLE slot: two-quote-cards-stacked-gf
-- INTENT: Two stacked testimonial cards in Warm-Cream.
-- COMPONENT PICKED: SP-02  (Expert Endorsement [A*] (SOCIAL PROOF & TESTIMONIALS))
-  - Current usage: 1/8
-  - WHY: Expert Endorsement — soft-authority quote for the social proof section.
-- COMPONENT PICKED: TRUSTDEEP-13.1  (Product Review Card (Single Review Block) [A] (GUARANTEE & TRUST))
-  - Current usage: 1/8
-  - WHY: Product Review Card — single real review block (sub-group B-friendly, no autism label).
-- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
-  - Alt text: Founders holding a watermelon-yellow training pant, neutral background
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S5: Late CTA
-- ROLE slot: (button + trust-signal row + easter-egg cost comparison)
-- INTENT: Late CTA 'Try the Body-Signal approach for 60 days.'
-- COMPONENT PICKED: CTA-9  (Floating CTA [A*] (CTA — THE CLOSE, late placement))
-  - Current usage: 1/8
-  - WHY: Floating CTA — late-placement button after the 60-day guarantee.
-- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
-  - Alt text: Toddler in a living room with soft yellow dino play, age-ambiguous
-  - Current usage: 2/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S6: Lena Sign-off (MEDIUM→LONG variant)
-- ROLE slot: signoff-lena-medium-long-gf
-- INTENT: Lena MEDIUM→LONG transition signoff, 'With care,' — Lena.
-- IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: image-inside-component**
+  - WHY: HERO-14 is an image-driven component and the picked image IS the component.
 
 ### Image count check
 - Total images in this email: 5/6

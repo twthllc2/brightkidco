@@ -421,30 +421,7 @@ NOTE: This is the FIRST section of E2 (not a continuation of
       remainder of the email.
 
 NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 2: VALIDATION — "YOU DIDN'T FAIL. THE METHODS DID."]
-─────────────────────────────────────────────────────────────────
-HEADLINE: You didn't fail. The methods did.
-SUBHEADLINE: (none — the line is the section's anchor)
-
-[VISUAL ELEMENT]
-ROLE: callout-quote-highlight (PULL-QUOTE variant — heaviest
-       typographic weight in the email)
-INTENT: the validation anchor of E2; visually presents the
-        "you didn't fail" line as a stand-alone pull-quote
-        with high typographic weight (Plus Jakarta Sans
-        20px Medium per locked-profile typography spec);
-        this is the moment of the mechanism click — the
-        "aha" gets its own visual container
-EXAMPLE_PICK: pull-quote callout box with coral left-border,
-              larger type than surrounding body, generous
-              vertical padding — distinct from E1's
-              validation callout to mark progression
-
-NO CTA in this section
+WRAP: image-inside-component (23.3 Editorial Pull Quote Thick Borders, image anchored inside callout)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -487,41 +464,12 @@ BUTTON_INTENT: drives to PDP — captures the "aha" moment
               underwear-for-sensory-sensitive-toddlers-sp
 SECONDARY: text link "Learn how 6 pairs build the
            learning rotation →" (small, muted)
+WRAP: image-inside-component (19.2 3-Frame Mechanism Diagram, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 4: SOCIAL PROOF — PARENT QUOTE STACK]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Real parents describe it exactly like this:
-SUBHEADLINE: (none — the section opens directly into quotes)
-
-[VISUAL ELEMENT]
-ROLE: callout-quote-highlight (×3 stacked, testimonial
-       card variant — different visual family from
-       sections 1 and 2 for within-email variance)
-INTENT: three verbatim L1 parent quotes about timing
-        problems ("He says 'I need to pee' AFTER it's
-        already happened." / "Some days he's great,
-        other days zero." / "Is this interoception or
-        stubbornness?"); each quote gets its own
-        testimonial card (white card on warm-sand
-        background, italic Source Serif 4 per
-        typography spec); the stack format differs from
-        E1's single quote callout — the triple quote
-        rhythm mirrors the "other moms say it too"
-        validation beat that E2 needs more of
-EXAMPLE_PICK: three stacked testimonial cards, white #FFFFFF
-              on warm-sand #F5EDE6 background, 1px #EADED7
-              border, 16px border-radius, subtle box
-              shadow, italic serif body text
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 5: PRODUCT INTRO + GUARANTEE + CTA]
+[SECTION 4: PRODUCT INTRO + GUARANTEE + CTA]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: BrightKidCo underwear is built around one job:
           teach the brain to feel the signal before
@@ -565,6 +513,7 @@ P.S.: "*That's $13.33 per pair with the bundle — less
       than half the single-pair price.*"
 SECONDARY: text link "Learn how 6 pairs build the
            learning rotation →" (small, muted)
+WRAP: image-inside-component (PS-01 Product Showcase 3-Layer Box with Guarantee, picked image is the component; also CTA-3 accessory image-standalone)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -737,18 +686,8 @@ END OF WIREFRAME — welcome-01-e2-l1
   - Alt text: A toddler napping in soft watermelon-pink shorts on a couch, a calm lived-in moment.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
-
-### Section 2: callout-quote-highlight-pull-quote
-- ROLE slot: callout-quote-highlight-pull-quote
-- INTENT: PULL-QUOTE variant — heaviest validation anchor of E2 ('You didn't fail. The methods did.')
-- COMPONENT PICKED: 25.3 (Yellow Quote Card (Green Shadow))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Yellow-card-with-green-shadow (25.3) makes E2's absolution quote the most visual pull-quote in the flow; L1 yellow stat-accent.
-- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
-  - Alt text: A toddler in a mustard-yellow outfit with a cat pattern, photographed from the rear in a soft home setting.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: 23.3 (Editorial Pull Quote (Thick Borders) *(L2148)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: mechanism-diagram-3-frame
 - ROLE slot: mechanism-diagram-3-frame
@@ -761,20 +700,10 @@ END OF WIREFRAME — welcome-01-e2-l1
   - Alt text: A woodland-creature print diaper in bright yellow, flat-lay on white — L1 brand-yellow mechanism anchor.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: 19.2 is an image-driven component and the picked image IS the component.
 
-### Section 4: callout-quote-highlight-testimonial-stack
-- ROLE slot: callout-quote-highlight-testimonial-stack
-- INTENT: three verbatim L1 parent quotes about timing problems stacked vertically
-- COMPONENT PICKED: M3 (Testimonial Card (Mobile))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Mobile-friendly stacked testimonial cards (M3), different family than the E1 cream-card quote block.
-- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
-  - Alt text: A watermelon-pink toddler training pant laid flat on a neutral surface, brand-colored.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 5: product-intro-callout-3plus3
+### Section 4: product-intro-callout-3plus3
 - ROLE slot: product-intro-callout-3plus3
 - INTENT: presents the 3-layer product system + guarantee as ONE product-showcase callout (consolidated per 8-cap)
 - COMPONENT PICKED: PS-01 (Product Showcase — 3-Layer Box (with Guarantee))
@@ -785,6 +714,8 @@ END OF WIREFRAME — welcome-01-e2-l1
   - Alt text: A potty-training guide book laid on a soft surface, signaling the educational system.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: PS-01 is an image-driven component and the picked image IS the component.
 
 ### Section 6: cta-button-full-width
 - ROLE slot: cta-button-full-width
@@ -797,6 +728,8 @@ END OF WIREFRAME — welcome-01-e2-l1
   - Alt text: A wet-bag accessory with space/zebra/llama prints, soft and tactile, signaling trust.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 7: signoff-lena-short
 - ROLE slot: signoff-lena-short
@@ -806,6 +739,8 @@ END OF WIREFRAME — welcome-01-e2-l1
   - Current usage: 1/8
   - WHY: Mandatory Lena signoff for E2; same SHORT variant as E1.
 - IMAGE PICKED: none (text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6 (target range 4-6).

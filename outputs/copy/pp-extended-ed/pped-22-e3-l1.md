@@ -760,6 +760,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e3-l1, level=l1, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-4 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — WEEK-3 TIME MARKER + DOUBT VALIDATION
 - ROLE slot: prose-block-with-time-marker-and-doubt-validation
@@ -772,6 +775,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 1 visual — calibrated per level (l1)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: PERS-04 (Dynamic Progress *(L8221)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: SIGN #1 — THE PAUSE
 - ROLE slot: micro-sign-card-with-scenario-description
@@ -784,6 +789,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 2 visual — calibrated per level (l1)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PERS-05 (Avatar Recognition *(L8253)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: SIGN #2 — THE HAND-TO-WAIST
 - ROLE slot: micro-sign-card-with-scenario-description
@@ -796,6 +803,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 3 visual — calibrated per level (l1)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: SIGN #3 — THE LATE-ARRIVING ANNOUNCEMENT
 - ROLE slot: micro-sign-card-with-scenario-description-and-rescue
@@ -808,6 +817,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 4 visual — calibrated per level (l1)
   - Current usage: 20/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: MECHANISM REINFORCEMENT + WEEK 5-7 NORMALIZATION
 - ROLE slot: mechanism-paragraph-stack-with-l1-timeline-normalization
@@ -820,6 +831,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 5 visual — calibrated per level (l1)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: ED3 (Interoception Explainer *(L3353)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: PRE-K ANCHOR REAPPEARS + CONSISTENCY CALL
 - ROLE slot: pre-k-anchor-paragraph-with-consistency-call
@@ -828,6 +841,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 7: L1 PEER-MOM PULL QUOTE
 - ROLE slot: pull-quote-italic-parent-voice
@@ -836,6 +852,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: TRUSTDEEP-11.1 (TRUSTDEEP-11.1 — Cost Comparison (Pull-Up vs BSL) ) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Image count check
 - Total images in this email: 5/6

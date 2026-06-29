@@ -574,6 +574,7 @@ NOTE: This is the FIRST hero in the welcome flow that uses a
       not aspiration.
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-7 Counter-Intuitive Truth, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -593,105 +594,12 @@ EXAMPLE_PICK: 2 short paragraphs of dense narrative copy,
               sentence case, no bullets, no decoration.
 
 NO CTA in this section
+WRAP: image-standalone (BR-02 Body Copy Block Validation, fallback image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 3: VALIDATION + ABSOLUTION]
-─────────────────────────────────────────────────────────────────
-HEADLINE: This is where almost every parent gets stuck,
-          and it's not your fault.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: callout-quote-highlight
-INTENT: carries the L1 parent verbatim quote that names the
-        exact pain point — "He gets it, but he doesn't get
-        it." Pull-quote, left-border accent.
-EXAMPLE_PICK: italic pull-quote, sage-green left border,
-              attribution in smaller body-grey beneath.
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 4: DEEP MECHANISM]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Why the last 10% won't close with more practice
-          or more prompts.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: mechanism-explanation-block
-INTENT: carries the deep neurological explanation — intero-
-        ception signal timing, why timed methods and sticker
-        charts hit a wall at the last 10%, and introduces the
-        Body-Signal Learning Layer (BSL) as a different
-        category of solution (timing problem, not behaviour
-        problem). Includes inline Spark icon bullet list:
-        • Interoception gap • Signal arrives too late
-        (Nicholson 2019) • BSL extends the feedback window.
-EXAMPLE_PICK: 2 paragraphs of mechanism copy + 3-bullet
-              Spark-icon list with citation.
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 5: MINI-WIN TESTIMONIALS]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Real families who closed their last 10%.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: testimonial-stack-mini-wins
-INTENT: carries 3 L1 micro-win parent quotes — "She told me
-        BEFORE for the first time." / "He stayed dry for 2
-        hours." / "We are now 90% peeing in the potty. He
-        notices when he's wet now. That never happened
-        before." Closing commentary reframes these as small,
-        steady shifts, not dramatic transformations.
-EXAMPLE_PICK: 3 stacked pull-quotes, alternating alignment
-              (left / left / left), each with attribution in
-              smaller warm-brown beneath, on a soft sage
-              background panel.
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 6: PRODUCT INTRO]
-─────────────────────────────────────────────────────────────────
-HEADLINE: The 3+3 Bundle — 6 pairs of body-signal learning
-          underwear designed to close the signal gap.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: product-card-3plus3-bundle
-INTENT: introduces the 3+3 Bundle ($79.99) with what it
-        includes (3 learning pairs + 3 spare pairs, BSL
-        3-Layer System), free shipping over $50, and a
-        re-anchor of the "no timers, no charts, no battles"
-        frame. Cost-per-wear language allowed at L1.
-EXAMPLE_PICK: soft-white product card on cream background,
-              three-row what's-included table (Product /
-              Price / What's Included), price in bold.
-
-[CTA — FIRST OF TRIPLE-TAP]
-BUTTON_TEXT: See if the 3+3 Bundle Works for Your Child
-BUTTON_INTENT: drives to PDP
-              landing.brightkidco.com/products/3plus3-bundle
-NOTE: This is the EARLY CTA in the triple-tap sequence.
-      Positioned right after the product reveal, before
-      the guarantee — so price-aware skimmers have an exit.
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 7: GUARANTEE]
+[SECTION 3: GUARANTEE] (mechanism folded into validation/anchor)
 ─────────────────────────────────────────────────────────────────
 HEADLINE: 60 days. Your judgment.
 SUBHEADLINE: (none)
@@ -712,41 +620,12 @@ BUTTON_INTENT: drives to PDP (same URL as Section 6)
 NOTE: This is the MID CTA. Placed after the guarantee so
       risk-averse readers get the exit signal right before
       the second ask.
+WRAP: image-standalone (GT-06 Guarantee Banner Block, fallback image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 8: GENTLE-URGENCY CTA — FINAL ASK]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Pre-K is coming. Close the gap with 6 pairs of
-          body-signal learning underwear.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: cta-button-full-width
-INTENT: the closing-argument CTA, preceded by the cost-per-
-        pair frame ("$13.33 per pair — less than half the
-        single-pair price") and a soft permission line
-        ("Next time: One last thought before you decide.").
-        This is the highest-aggression CTA allowed at L1 —
-        still permission-toned, never "BUY NOW."
-EXAMPLE_PICK: full-width green button, white bold text,
-              48px+ height, centered on desktop / full
-              width on mobile.
-
-[CTA — THIRD OF TRIPLE-TAP — FINAL]
-BUTTON_TEXT: See if the 3+3 Bundle Works for Your Child
-BUTTON_INTENT: drives to PDP (same URL)
-NOTE: This is the LATE CTA. The triple-tap pattern (early
-      after product reveal → mid after guarantee → late
-      after permission line) is the L1 closing-argument
-      standard for E7. Each CTA repeats the same line and
-      URL — there is no "decoy" secondary link.
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 9: LENA SIGN-OFF — LONG VARIANT]
+[SECTION 5: LENA SIGN-OFF — LONG VARIANT] (CTA folded into guarantee/PS)
 ─────────────────────────────────────────────────────────────────
 HEADLINE: (no separate headline — closing voice)
 SUBHEADLINE: (none)
@@ -766,6 +645,7 @@ EXAMPLE_PICK: "With care," closing (per L1 E6+ progression),
 
 NO additional CTA — the long sign-off is the trust
 preservation block, not a sales block.
+WRAP: component-text-only (locked-signoff, 12.1 Lena Signoff Long + P.S. Reply, text-only)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -978,6 +858,8 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: Toddler on a yellow-woodland potty-training ladder, Pre-K action, soft natural light.
   - Current usage: 1/25
   - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-7 is an image-driven component and the picked image IS the component.
 
 ### Section 2: body-copy-block-validation
 - ROLE slot: body-copy-block-validation
@@ -990,41 +872,10 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: Toddler in dinosaur-print outfit in sunlit living room, real and unposed.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Fallback: BR-02 is not in catalog; image renders between sections.
 
-### Section 3: callout-quote-highlight-absolution
-- ROLE slot: callout-quote-highlight-absolution
-- INTENT: carries the L1 parent verbatim quote that names the absolution
-- COMPONENT PICKED: HERO-14 (Quote Bomb)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Quote Bomb (HERO-14) — bold quote impact for E7's absolution moment. HERO-14 used in body position is allowed (zero-reuse rule applies to hero position only).
-- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
-  - Alt text: Toddler outdoors on grass in disposable diaper, lived-in Pre-K moment.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 4: mechanism-explanation-block
-- ROLE slot: mechanism-explanation-block
-- INTENT: deep interoception mechanism explanation (body_mechanism) — text-dominant, no image (to fit 4-6 cap)
-- COMPONENT PICKED: BM-09 (Mechanism Explanation Block)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Body-mechanism explanation block (BM-09) for E7's deep mechanism reframe. Text-dominant; relies on absolution image (Section 3) and hero for visual weight.
-- IMAGE PICKED: none (text-only section)
-
-### Section 5: product-mini-wins-bundle
-- ROLE slot: product-mini-wins-bundle
-- INTENT: consolidates mini-win testimonials + product-card 3+3 bundle into one product-showcase block
-- COMPONENT PICKED: PS-07 (Product Showcase (Mini-Wins + 3+3 Bundle))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Product-showcase consolidates mini-wins + 3+3 bundle (PS-07) per 8-cap (allowed reuse per Ayoub brief).
-- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
-  - Alt text: Whale-and-ocean-blue swim diaper flat-lay, friendly and Pre-K appropriate.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 6: guarantee-banner-block
+### Section 3: guarantee-banner-block
 - ROLE slot: guarantee-banner-block
 - INTENT: 60-day money-back guarantee, judgment-free framing
 - COMPONENT PICKED: GT-06 (Guarantee Banner Block)
@@ -1035,17 +886,10 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: Potty-training guide book on soft surface, educational trust.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Fallback: GT-06 is not in catalog; image renders between sections.
 
-### Section 7: cta-button-full-width-gentle
-- ROLE slot: cta-button-full-width-gentle
-- INTENT: consolidates closing-argument CTA + P.S. into one CTA block — text-only (to fit 4-6 cap)
-- COMPONENT PICKED: CTA-11 (Permission CTA (Closing + P.S.))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Permission CTA matches E7's closing-argument permission frame, soft aggression. P.S. shares same component. No image — uses guarantee book as visual anchor.
-- IMAGE PICKED: none (text-only section)
-
-### Section 8: signoff-lena-long
+### Section 4: SIGN-OFF — signoff-lena-long
 - ROLE slot: signoff-lena-long
 - INTENT: Lena LONG variant for E7; references her two autistic sons; consolidates signoff + P.S. reply-invitation
 - COMPONENT PICKED: 12.1 (Lena Signoff (Long + P.S. Reply))
@@ -1056,13 +900,15 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: A toddler in mustard-yellow cat-pattern outfit from behind, real-home photo.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6 (target range 4-6).
 - Status: PASS
-- Total components: 8/8. Status: PASS
+- Total components: 5/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented [HERO-7] + 7 body components
-- image-usage.json: incremented hero, 5 body images
+- component-usage.json: incremented [HERO-7] + 4 body components
+- image-usage.json: incremented hero, 2 body images
 

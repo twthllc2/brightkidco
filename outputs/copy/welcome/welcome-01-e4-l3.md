@@ -436,6 +436,7 @@ EXAMPLE_PICK: text-only paragraph; no callout box;
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (HERO-3 Permission Open, picked image IS the component — toddler napping)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -470,6 +471,7 @@ EXAMPLE_PICK: three vertically stacked italic anecdotes
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (SP-08 Stacked Mini-Reviews, picked image IS the component — toddler-playing)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -506,6 +508,7 @@ EXAMPLE_PICK: long-form unified closing prose; no
               as continuous text
 
 56px space above, 56px space below
+WRAP: image-inside-component (EDU-11 Science Citation, picked image IS the component — white textile; also EMO-8 Grief Acknowledgment as image-standalone decorative)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -531,6 +534,7 @@ MICROCOPY: "The product doesn't expire. The guarantee
             doesn't change. And neither does the offer."
             (italic, 14px, muted warm clay)
 NOTE:      price mentioned once inline above the CTA
+WRAP: component-text-only (CTA-4 Gentle Invite, text-only by L3 design)
            link, NOT bolded, NOT in a badge
 
 56px space above, 56px space below
@@ -673,18 +677,6 @@ END OF WIREFRAME — welcome-01-e4-l3
 
 **Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Section 1 — Hero
-- ROLE slot: `prose-block-maybe-never-mirror`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
-- COMPONENT PICKED: `HERO-3`
-  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Permission Open — text_only, warm; honors 'I've made peace with maybe never' without forcing a path
-- IMAGE PICKED: `lifestyle/toddler-napping-watermelon-pink-shorts.png`
-  - Alt text: reflective/dignity — calm child, dignified 'maybe never' mirror pose
-  - Current usage: 4/25 (in image-usage.json)
-  - WHY: calm child, dignified 'maybe never' mirror pose
-
 ### Section 2 — Late-train anecdotes
 - ROLE slot: `late-train-anecdote-stack`
 - INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
@@ -696,6 +688,8 @@ END OF WIREFRAME — welcome-01-e4-l3
   - Alt text: reflective/dignity — soft earth-toned context for late-train anecdotes
   - Current usage: 1/25 (in image-usage.json)
   - WHY: soft earth-toned context for late-train anecdotes
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 3 — Unified close prose
 - ROLE slot: `mechanism-product-guarantee-cta-unified-prose`
@@ -708,18 +702,8 @@ END OF WIREFRAME — welcome-01-e4-l3
   - Alt text: white textile supporting unified close
   - Current usage: 5/25 (in image-usage.json)
   - WHY: white textile supporting unified close
-
-### Section 3 — Unified close (grief)
-- ROLE slot: `mechanism-product-guarantee-cta-unified-prose`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
-- COMPONENT PICKED: `EMO-8`
-  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Grief Acknowledgment — dignity in late-train framing; 'Late is not never.' is the visual climax
-- IMAGE PICKED: `flat-lay/training-pant-cloud-raindrop-white.jpg`
-  - Alt text: white textile supporting unified close
-  - Current usage: 5/25 (in image-usage.json)
-  - WHY: white textile supporting unified close
+  - **WRAP: image-inside-component**
+  - WHY: EDU-11 is an image-driven component and the picked image IS the component.
 
 ### Section 4 — CTA your child's timeline
 - ROLE slot: `cta-text-link-child-timeline`
@@ -729,6 +713,8 @@ END OF WIREFRAME — welcome-01-e4-l3
   - Current usage: 2/8 (in component-usage.json)
   - WHY: Gentle Invite — 'When you're ready →' with 'No timeline. Your child's timeline.' copywriting
 - IMAGE PICKED: none (text-only — see other sections for imagery)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Signoff — Lena medium E4
 - ROLE slot: `signoff-lena-medium`
@@ -741,13 +727,15 @@ END OF WIREFRAME — welcome-01-e4-l3
   - Alt text: muted textile near Lena sign-off
   - Current usage: 3/25 (in image-usage.json)
   - WHY: muted textile near Lena sign-off
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-04 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
-- Total images in this email: 5/6
+- Total images in this email: 4/6
 - Status: ✅ PASS
 
 ### Component count check
-- Total components in this email: 6/8
+- Total components in this email: 5/8
 - Status: ✅ PASS
 
 ### L3 Calibration Check
@@ -760,7 +748,7 @@ END OF WIREFRAME — welcome-01-e4-l3
 - 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-3', 'SP-08', 'EDU-11', 'EMO-8', 'CTA-4', 'EMODEEP-04']
-- image-usage.json: incremented ['lifestyle/toddler-napping-watermelon-pink-shorts.png', 'resized/toddler-playing.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png']
+- component-usage.json: incremented ['SP-08', 'EDU-11', 'EMO-8', 'CTA-4', 'EMODEEP-04']
+- image-usage.json: incremented ['resized/toddler-playing.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png']
 
 ---

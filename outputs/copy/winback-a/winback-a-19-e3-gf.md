@@ -586,6 +586,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e3-gf, level=gf, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-29 (Refer-a-Friend *(L25860)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — Whether...Or...If... Door-Opening Bridge
 - ROLE slot: hook-prose-block-centered-off-white
@@ -598,6 +601,19 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 1 visual — calibrated per level (gf)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
+
+### Section 2: MECHANISM — Body-Signal Learning Doesn't Follow a Timeline
+- ROLE slot: mechanism-prose-off-white-with-low-bar-mini-wins
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: DEEP-28 (Body-Signal Mechanism Prose *(L9980)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section, prose with dignity anchor closing)
+  - **WRAP: component-text-only**
+  - WHY: DEEP-28 is text-only per catalog; mechanism prose renders as text-only block.
 
 ### Section 3: IF YOU STOPPED — What That Might Mean
 - ROLE slot: reframe-prose-off-white-with-data-log-frame
@@ -610,6 +626,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 3 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PSYCH-12 (Choice Architecture *(L8788)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: WHAT "SOMETHING" CAN LOOK LIKE — Low-Bar Mini-Wins
 - ROLE slot: low-bar-mini-wins-stack-off-white
@@ -622,6 +640,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 4 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: DOOR-OPENING — You Already Own the Underwear
 - ROLE slot: door-opening-prose-off-white
@@ -634,6 +654,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 5 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-long-with-reply-ps
@@ -646,12 +668,14 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 6 visual — calibrated per level (gf)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['CSHOP-29', 'EMODEEP-07', 'PSYCH-12', 'BONUS-01', 'BONUS-02', '33.2']
+- component-usage.json: incremented ['CSHOP-29', 'EMODEEP-07', 'DEEP-28', 'PSYCH-12', 'BONUS-01', 'BONUS-02', '33.2']
 - image-usage.json: incremented ['flat-lay/swim-diaper-giraffe-yellow.jpg', 'flat-lay/swim-diaper-whale-ocean-blue.jpg', 'flat-lay/training-pant-penguin-multicolor.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png', 'lifestyle/toddler-rearview-cat-mustard.png']
 

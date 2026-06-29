@@ -1017,6 +1017,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e3-l3, level=l3, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: DEEPCAMP-08 (DEEPCAMP-08 — Halloween Fun (Costume-Ready Frame) ) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: RECOGNITION HOOK — Dignity Acknowledgment
 - ROLE slot: opening-prose-block-centered-warm-cream
@@ -1029,6 +1032,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 1 visual — calibrated per level (l3)
   - Current usage: 18/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-7 (The Method Comparison *(L10836)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: VALIDATION OF THE LONG JOURNEY — Verbatim Triad
 - ROLE slot: l3-verbatim-triad-stacked-on-cream
@@ -1041,6 +1046,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 2 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-9 (The Progress Metrics *(L10898)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: GENTLE RE-INVITATION — Open Door + Last Email
 - ROLE slot: re-invitation-prose-warm-cream-with-no-hope-frame
@@ -1053,6 +1060,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 3 visual — calibrated per level (l3)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps-explore-link
@@ -1065,6 +1074,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 4 visual — calibrated per level (l3)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 4/6

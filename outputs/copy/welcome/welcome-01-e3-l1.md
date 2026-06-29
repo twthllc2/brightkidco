@@ -234,31 +234,12 @@ EXAMPLE_PICK: lifestyle photo of kid 3-5 yrs, hopeful posture,
               real-home warmth (not stock-photo classroom)
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-3 Permission Open, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 2: VALIDATION — FAILED METHODS LIST]
-─────────────────────────────────────────────────────────────────
-HEADLINE: You've tried sticker charts. You've tried timers.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: bulleted-failed-methods-list
-INTENT: catalogs the methods Sarah has tried (sticker charts,
-        timers, Oh Crap, naked weekend); the "count them"
-        visual rhythm creates the mirror moment — she's not
-        alone, she has earned this exhaustion
-EXAMPLE_PICK: simple bulleted list with named methods, each
-              method given equal weight (no hierarchy that
-              implies she "should have known better")
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 3: MECHANISM — 49% STAT CALLOUT]
+[SECTION 2: MECHANISM — 49% STAT CALLOUT]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Forty-nine percent of autistic 4-5 year olds
           aren't toilet trained.
@@ -276,34 +257,19 @@ EXAMPLE_PICK: large mint-background box containing
               citation visible below the figure
 
 NO CTA in this section
+WRAP: image-inside-component (SP-03 Stat Row 49% + Interoception, picked image is the component)
+
+NOTE: REMOVED per cap compliance: Section 4 (Interoception
+reframe paragraph), Section 6 (Testimonial moment), Section 7
+(Product 3-layer description). These were redundant with the
+mechanism stat (S2), the BSL bridge (S3), and the pricing box
+(S4). Kept: S1 Hero, S2 Stat, S3 BSL Bridge, S4 Pricing Box.
+Plus locked signoff. Total body: 4.
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 4: MECHANISM — INTEROCEPTION REFRAME]
-─────────────────────────────────────────────────────────────────
-HEADLINE: It's not a failure of parenting. It's a documented,
-          measurable neurological gap.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: explanatory-paragraph-block
-INTENT: explains why everything she tried felt like it
-        almost worked (sticker charts assume he can feel
-        the signal; timers assume the body runs on a
-        predictable clock); the mechanism reframe in plain
-        language — no diagram in this section (E2 owns the
-        diagram slot)
-EXAMPLE_PICK: standard body-text paragraph block with
-              paragraph emphasis on "the brain isn't
-              receiving the body's signal early enough"
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 5: MECHANISM — BSL PRODUCT BRIDGE]
+[SECTION 3: MECHANISM — BSL PRODUCT BRIDGE]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: The Body-Signal Learning Layer gives the nervous
           system the feedback it's been missing.
@@ -324,55 +290,12 @@ BUTTON_INTENT: drives to PDP — secondary text link,
               permission-toned for skimmers who need
               more mechanism before the money ask
 SECONDARY: text link "See the 3+3 bundle →"
+WRAP: image-inside-component (PS-04 Product Feature Callout BSL Bridge + 3-Layer Visual, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 6: SOCIAL PROOF — TESTIMONIAL MOMENT]
-─────────────────────────────────────────────────────────────────
-HEADLINE: "He says 'I need to pee' AFTER it's already
-          happened."
-SUBHEADLINE: That's what one L1 mom told us before she
-             started using BSL.
-
-[VISUAL ELEMENT]
-ROLE: callout-quote-highlight
-INTENT: the L1-anchor parent quote — the verbatim line
-        from the L1 customer language bank; this is the
-        testimonial mid-point that gives the mechanism
-        a human face
-EXAMPLE_PICK: left-bordered quote callout (emerald 3px
-              hairline), italic body copy, the two-week
-              pause-to-potty narrative below the quote
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 7: PRODUCT INTRODUCTION — 3 LAYERS]
-─────────────────────────────────────────────────────────────────
-HEADLINE: The BSL system has three layers, each designed
-          for a specific purpose.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: product-image-three-layer
-INTENT: shows the 3+3 bundle product image with the
-        three-layer construction visible (cotton inner,
-        smart absorption core, protective outer barrier);
-        this is the first product image in the flow
-EXAMPLE_PICK: product shot of the bundle on neutral
-              background, three-layer cutaway visible,
-              paired with three-line caption naming
-              each layer's function
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 8: PRICING BOX — 3+3 BESTSELLER + GUARANTEE]
+[SECTION 4: PRICING BOX — 3+3 BESTSELLER + GUARANTEE]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: See if the 3+3 bundle works for your child.
 SUBHEADLINE: 3 + 3 FREE Bundle, 6 pairs.
@@ -399,6 +322,8 @@ SECONDARY: text link "60 days to try it. By your
                      judgment. →"
 P.S.:       "*That's $13.33 per pair with the bundle —
             less than half the single-pair price.*"
+
+WRAP: image-standalone (PB-01 Pricing Block Callout 3+3 + Button, fallback image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -588,20 +513,10 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: Toddler with a moon-and-cloud-blue backpack, Pre-K ready, soft natural light.
   - Current usage: 1/25
   - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-3 is an image-driven component and the picked image IS the component.
 
-### Section 2: bulleted-failed-methods-list
-- ROLE slot: bulleted-failed-methods-list
-- INTENT: catalogs methods Sarah has tried (sticker charts, timed sits, naked weekend)
-- COMPONENT PICKED: 15.5 (WNote (Annotation Callout))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: WNote annotation callout lists failed methods with light hand-drawn style; method-cycling recognition for L1.
-- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
-  - Alt text: Potty-target stickers and a chart pad on a table, the recognizable tools Sarah has tried.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 3: stat-highlight-box-49
+### Section 2: stat-highlight-box-49
 - ROLE slot: stat-highlight-box-49
 - INTENT: 49% SPARK stat as visual anchor (consolidates 49% + interoception reframe into one stat block)
 - COMPONENT PICKED: SP-03 (Stat Row (49% + Interoception))
@@ -612,8 +527,10 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: Yellow woodland-creature print diaper, flat-lay, repeating L1 brand-yellow stat accent.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
-### Section 4: product-feature-bsl-bridge
+### Section 3: product-feature-bsl-bridge
 - ROLE slot: product-feature-bsl-bridge
 - INTENT: introduces 3-layer BSL system + first 3-layer product image as ONE product-showcase (consolidated)
 - COMPONENT PICKED: PS-04 (Product Feature Callout (BSL Bridge + 3-Layer Visual))
@@ -624,20 +541,10 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: A yellow giraffe-print swim diaper flat-laid on white, friendly and Pre-K age-appropriate.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: PS-04 is an image-driven component and the picked image IS the component.
 
-### Section 5: callout-quote-highlight-testimonial
-- ROLE slot: callout-quote-highlight-testimonial
-- INTENT: L1-anchor parent quote — 'He says he needs to pee AFTER it happens'
-- COMPONENT PICKED: 22.1 (Highlighted Quote (Yellow Border))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Yellow-bordered quote (22.1) anchors E3's testimonial moment; different from E1's cream-card.
-- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
-  - Alt text: Toddler outdoors on grass in a disposable diaper, real and lived-in.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 6: pricing-box-callout
+### Section 4: pricing-box-callout
 - ROLE slot: pricing-box-callout
 - INTENT: first hard CTA in the flow — pricing box with 3+3 USD 79.99 (consolidates pricing + CTA)
 - COMPONENT PICKED: PB-01 (Pricing Block Callout (3+3 + Button))
@@ -648,8 +555,10 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Alt text: A moon-cloud-blue pocket diaper, flat-lay, L1 brand-aligned color.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Fallback: PB-01 is not in catalog; image renders between sections.
 
-### Section 7: signoff-lena-short
+### Section 5: signoff-lena-short
 - ROLE slot: signoff-lena-short
 - INTENT: Lena SHORT variant; 'With understanding,' closing (E3 transition)
 - COMPONENT PICKED: 12.1 (Lena Signoff)
@@ -657,6 +566,8 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
   - Current usage: 1/8
   - WHY: E3 signoff transitions to 'With understanding,' — mid-sequence full-name re-anchor.
 - IMAGE PICKED: none (text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6 (target range 4-6).

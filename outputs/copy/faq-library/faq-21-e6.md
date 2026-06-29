@@ -808,14 +808,23 @@ END OF WIREFRAME — faq-21-e6
 | Role | Component ID | Reason |
 |---|---|---|
 | PROSE-HOOK-3-QS-WITH-UNIFIER | **EMODEEP-04** | 3-questions opener with unifier header |
-| OBJECTION-TRAVEL | **PSYCH-07** | Vertical bridge-strategy — travel/outing relief |
-| OBJECTION-POOP | **PSYCH-08** | Vertical two-system mechanism — poop-specific |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | EMODEEP-04 is the Lena sign-off/footer block that ships from locked footer.html. |
+|| OBJECTION-TRAVEL | **PSYCH-07** | Vertical bridge-strategy — travel/outing relief |
+|  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-07 starts with "PSYCH-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| OBJECTION-POOP | **PSYCH-08** | Vertical two-system mechanism — poop-specific |
+|  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-08 starts with "PSYCH-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
 | OBJECTION-COMMUNICATION | **EMO-8** | Vertical no-words-needed — communication barriers |
-| UNIFYING-REFRAME-3-LAYER | **EDUDEEP-2** | Unifying reframe with 3-layer product |
-| GUARANTEE-LOW-BAR | **CMP-8** | Guarantee + low-bar success metrics stack |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
+|| UNIFYING-REFRAME-3-LAYER | **EDUDEEP-2** | Unifying reframe with 3-layer product |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDUDEEP-2 starts with "DEEP-" → Rule 6: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| GUARANTEE-LOW-BAR | **CMP-8** | Guarantee + low-bar success metrics stack |
+|  |  | **WRAP: image-standalone (placed between sections)** | CMP-8 starts with "CMP-" → Rule 8: image-standalone (with image) or component-text-only (no image). Image is picked, so image-standalone between sections. |
 | CTA-ZERO-PRESSURE | **CTA-5** | Zero-pressure single-line CTA — gentle |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | LENA-SIGNOFF-LONG-FINAL | **33.2** | Long-variant final FAQ signoff |
+  |  | **WRAP: component-text-only** | 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog. |
 | LENA-SIGNOFF-LONG-FINAL + DOUBLE-PS-MEDICAL-LATE + FOOTER | **33.2** | Long Lena sig + double P.S. medical deferral/late-trainer + footer |
+  |  | **WRAP: component-text-only** | 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog. |
 
 ### Images (5/6)
 

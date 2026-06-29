@@ -786,6 +786,9 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Catalog entry: position=hero, audience=L1/L2/L3/GF, temp=warm, image_support=text_only (Giuliano-derived letter pattern)
   - Current usage: 0/8 (UNIQUE - fresh)
   - WHY: "Handwritten Letter Opener" anchors the Hero band to Lena peer-letter voice for the E1 75-day check-in; complements the handwritten "Talk soon," sign-off; brand-fresh, not yet picked.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: HERO-20 requires an image to render; missing image is a BUG.
 
 ### Section 2: WHETHER/OR/IF OPENER (R1, R3, R5)
 - ROLE slot: universal-opener-cream-band
@@ -794,6 +797,9 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
   - Current usage: 0/8
   - WHY: "Empathy Block" front-loads the "wherever you are in the journey, the signal is wiring" warmth without urgency; matches the cream-band opener tone.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 3: RECOGNITION ANCHORS, R2 (5 anchors)
 - ROLE slot: anchor-list-cream-band (5 bullets with leaf icons)
@@ -802,6 +808,9 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 0/8
   - WHY: "Checklist" maps cleanly to the 5 vertical bullet anchors in the cream band; consistent format with replen flow's earlier R2 sections.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-3 requires an image to render; missing image is a BUG.
 
 ### Section 4: THREE-FAMILY TESTIMONIALS, R6
 - ROLE slot: testimonial-stack-three-cream-cards-mint-shadow
@@ -814,6 +823,8 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Alt text: Two toddlers from behind in disposable diapers on a soft living room floor, candid and lived-in.
   - Current usage: 2/25
   - WHY: Rear-view twin / group-of-kids visual avoids stock-y single-child feel; multi-child setup matches GF sub-group parity; universal V16-safe.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: VALIDATION + MECHANISM REFRAME
 - ROLE slot: validation-mechanism-band-3-paragraphs (R5, R6)
@@ -826,6 +837,8 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Alt text: A cream llama-print laundry bag on a neutral surface, calm and homey.
   - Current usage: 0/25 (FRESH at time of pick)
   - WHY: Cream llama-bag laundry visual echoes "the underwear doesn't train your child, it informs their nervous system" mechanism reframe; calm tone fits the 8/12/16-week timeline.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-1 is an image-driven component and the picked image IS the component.
 
 ### Section 6: ROTATION VALUE / UPSELL BAND (5+5 Bundle upsell)
 - ROLE slot: upsell-card-5plus5-overlay-mint-card
@@ -838,6 +851,8 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Alt text: A woodland-creature diaper laid flat on a neutral surface, warm earthy tones.
   - Current usage: 1/25
   - WHY: Yellow-woodland print signals "different pair, same family" - gentle visual variety for the upsell card; warm tone ties into mint-cream palette.
+  - **WRAP: image-inside-component**
+  - WHY: PROD-10 is an image-driven component and the picked image IS the component.
 
 ### Section 7: LOW-PRESSURE DUAL CTA
 - ROLE slot: low-pressure-dual-cta-pill-primary-and-text-link
@@ -850,6 +865,8 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Alt text: BrightKidCo sticker chart and potty-target accessories laid out, neutral surface.
   - Current usage: 2/25
   - WHY: Sticker chart echoes "75-day progress tracking" tone (without implying unmet steps); warm surface ties into CTA area.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 8: LENA SIGN-OFF (SHORT variant, E1 of Flow 16)
 - ROLE slot: signoff-lena-short-cream-divider (Talk soon, + reply-invitation P.S.)
@@ -859,6 +876,8 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
   - Current usage: 0/8
   - WHY: Canonical Giuliano-derived cream signoff; reply-invitation PS pattern fits "I read everything" peer-voice reinforcement.
 - IMAGE PICKED: none (text-only section).
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 4/6 (target range 4-6). Hero treated as line-art illustration (no photo); body images: backview, woodland-creature diaper, sticker chart, AND laundry-bag.

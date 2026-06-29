@@ -97,6 +97,8 @@ BrightKidCo
   - Alt text: "Child resting peacefully in soft pink shorts under a cozy duvet, warm home setting, soft natural light, silhouette framing."
   - Current usage: 6/25 (already used in upsell-09-e1)
   - WHY: Same library image works here as the "sleeping peacefully" hero; lifestyle setting matches the wireframe's "child sleeping peacefully" intent. Cross-level safe silhouette framing.
+  - **WRAP: image-inside-component**
+  - WHY: 18.1 (Hi-Fi Gradient Hero + Discount Block *(L1735)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: Validation — Learning-Phase Normalization
 - ROLE slot: validation-paragraph-stack (Section 2)
@@ -109,6 +111,8 @@ BrightKidCo
   - Alt text: "Child in dinosaur-themed clothing in a warm living room setting, representing the messy everyday reality of the learning phase."
   - Current usage: 4/25
   - WHY: The "messy living-room reality" image — captures the lived-in feeling of the learning phase.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 23.2 (Drop Cap Initial Letter (uses Letter) *(L2133)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: Mechanism Brief
 - ROLE slot: mechanism-paragraph-stack-with-differentiation (Section 3)
@@ -121,6 +125,8 @@ BrightKidCo
   - Alt text: "Woodland-creature themed diaper flat-lay, illustrating the soft cotton material BrightKidCo uses across its product line."
   - Current usage: 0/25 (NEW)
   - WHY: Visual anchor for the "cotton facing on top" claim — reinforces the cross-product material consistency message without showing the protector (which isn't a real BKC SKU in the library).
+  - **WRAP: image-inside-component**
+  - WHY: EDU-4 is an image-driven component and the picked image IS the component.
 
 ### Section 4: Social Proof — Two Parent Quotes
 - ROLE slot: callout-quote-highlight-l2-buyer + callout-quote-highlight-late-trainer (Section 4a + 4b)
@@ -133,6 +139,8 @@ BrightKidCo
   - Alt text: "Training pant with bunny and heart illustration in pink fabric, representing the comfort the parent-quotes describe."
   - Current usage: 3/25
   - WHY: Soft product visual paired with the late-trainer quote ("doesn't fight bedtime anymore because it doesn't feel different from his sheet") — gentle fabric = the quote's comfort claim.
+  - **WRAP: image-inside-component**
+  - WHY: TRUST-1 (60-Day Seal *(L6385)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: Benefit-Card Cascade
 - ROLE slot: benefit-card-cotton-top + benefit-card-breathable-membrane + benefit-card-fit-protection (Section 5)
@@ -145,6 +153,8 @@ BrightKidCo
   - Alt text: "Training pant with cloud-and-raindrop illustration on white fabric, illustrating breathable, sensory-friendly material construction."
   - Current usage: 1/25
   - WHY: The "breathable" card's image — soft, neutral, sensory-friendly cotton visual that pairs with the membrane-doesn't-cringle claim.
+  - **WRAP: image-inside-component**
+  - WHY: 6.2 is an image-driven component and the picked image IS the component.
 
 ### Section 6: Guarantee + Risk Reversal
 - ROLE slot: guarantee-line-cross-sell (Section 6)
@@ -154,6 +164,8 @@ BrightKidCo
   - Current usage: 0/8 (NEW)
   - WHY: The 60-Day Seal alias IS the brand guarantee line — text-only seal treatment fits inline-paragraph usage; warm temperature.
 - IMAGE PICKED: none (text-only guarantee paragraph)
+  - **WRAP: component-text-only**
+  - WHY: 10.1 (60-Day Seal (alias for PartBadge/Letter) *(L887)*) is text-only per catalog.
 
 ### Section 7: CTA + Cross-Sell
 - ROLE slot: cta-button-full-width + text-link-cross-sell (Section 7)
@@ -166,6 +178,8 @@ BrightKidCo
   - Alt text: "Whale-illustrated swim diaper in ocean blue, a complementary BrightKidCo product reinforcing the cross-sell visual."
   - Current usage: 0/25 (NEW)
   - WHY: Soft visual anchor for the cross-sell ("Or add the Wash Bag too — $39.98 for both") — a different product category (swim diaper) keeps the cross-sell visual from being redundant with the wash bag already shown in E1.
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Section 8: Sign-off (Lena SHORT)
 - ROLE slot: signoff-lena-short
@@ -175,6 +189,8 @@ BrightKidCo
   - Current usage: 2/8 (was 2 → now 3)
   - WHY: Closing-letter treatment matches Lena SHORT peer-voice; warm; reuses a signoff-adjacent slot (the only body_recognition letter-style component). Already under cap.
 - IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+  - **WRAP: component-text-only**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: 18.1 (Hi-Fi Gradient Hero + Discount Block) — see Section 1

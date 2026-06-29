@@ -693,14 +693,23 @@ END OF WIREFRAME — shipping-06
 | Role | Component ID | Reason |
 |---|---|---|
 | STATUS-BAR-SHIPPED | **UTIL-07** | Neutral bar '✓ SHIPPED' with tracking availability note |
+  |  | **WRAP: image-inside-component** | UTIL-07 (Section Header (uses Header) *(L7652)*) is image-driven per catalog (image_support=image_text); picked image IS the component. |
 | TRACKING-CALLOUT-CARD | **CMP-5** | Rounded tracking callout card on cream |
+  |  | **WRAP: image-required-component** | CMP-5 (Method Spectrum Bar *(L6179)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | PKG-JOURNEY-DOTTED-LINE | **PSYCH-01** | SVG dotted cottage-to-doorstep journey |
+  |  | **WRAP: image-required-component** | PSYCH-01 (Anchoring *(L8443)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | PROSE-3-LAYER-BULLETED | **STORY-02** | Three-layer underwear mechanism bullets |
+  |  | **WRAP: component-text-only** | STORY-02 (Vertical Timeline — Chronological milestones *(L43) is text-only per catalog. |
 | PROSE-CARE-TIP | **EMO-3** | Lena voice care tip prose — wash + maintain |
+  |  | **WRAP: component-text-only** | Content block is text-only by design. |
 | PROSE-WEEK-1 | **EDU-1** | Week-1 expectations — R2 anchors prose |
+  |  | **WRAP: image-required-component** | EDU-1 requires an image to render; missing image is a BUG. |
 | GUARANTEE-BAND | **TRUST-1** | Cream band — risk reversal (variant from order-05) |
+  |  | **WRAP: image-required-component** | TRUST-1 (60-Day Seal *(L6385)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | CTA-PILL-TRACK | **CTA-9** | Brand-green pill 'Track my package' |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | LENA-SIGNOFF-SHORT + FOOTER | **12.1** | Lena sig + BKC footer |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | 12.1 is the Lena sign-off/footer block that ships from locked footer.html. |
 
 ### Images (1/6)
 

@@ -1052,6 +1052,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e2-l2, level=l2, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-17 (Restock Urgency *(L25505)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — 60 Days Later, Same Problem?
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -1064,6 +1067,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 1 visual — calibrated per level (l2)
   - Current usage: 20/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 17.3 (Parent Quote Card (Yellow Tilted) *(L1634)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: NEW SCIENCE — Interoception Can Be Trained
 - ROLE slot: mechanism-mint-callout-with-four-citations-emphasis
@@ -1076,6 +1081,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 2 visual — calibrated per level (l2)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: BCBA COMPLEMENT — All Three Together (L2 ③)
 - ROLE slot: validation-prose-warm-cream-bcba-complement
@@ -1088,6 +1095,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 4 visual — calibrated per level (l2)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: EJ2 (You're Not Alone *(L3428)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 5: UPDATED OFFER + GUARANTEE
 - ROLE slot: two-tier-bundle-pricing-on-cream
@@ -1100,6 +1109,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 5 visual — calibrated per level (l2)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-5 (The Product Chemistry *(L10494)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: TESTIMONIAL — L2 Peer Mom Story
 - ROLE slot: pull-quote-slate-blue-left-border-italic-serif-60day
@@ -1112,6 +1123,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 6 visual — calibrated per level (l2)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: VSOCIAL-1 (Customer Photo + Quote *(L19762)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Section 7: PERMISSION-NOT-TO-BUY (L2 ⑥)
 - ROLE slot: permission-prose-warm-cream-italic
@@ -1120,6 +1133,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 2/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 8: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps-link
@@ -1128,6 +1144,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=signoff_footer, audience=['L2']
   - Current usage: 4/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-04 (Footer (Giuliano source) *(L7571)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

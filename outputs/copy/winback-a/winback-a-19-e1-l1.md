@@ -880,6 +880,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e1-l1, level=l1, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWIMG-003 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — 90-DAY GAP ACKNOWLEDGMENT
 - ROLE slot: hook-prose-block-centered
@@ -892,6 +895,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 1 visual — calibrated per level (l1)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: M7 (Recognition Block (Mobile) *(L3093)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: VALIDATION — INTEROCEPTION AS SLOW BRIDGE
 - ROLE slot: prose-block-left-aligned
@@ -904,6 +909,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 2 visual — calibrated per level (l1)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EJ1 (Before/After Transformation *(L3405)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: MECHANISM REFRESHER — 3-LAYER BODY-SIGNAL
 - ROLE slot: mechanism-callout-light-gray-bg
@@ -916,6 +923,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 3 visual — calibrated per level (l1)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: SOCIAL PROOF — TWO L1 TESTIMONIALS
 - ROLE slot: testimonial-stack-vertical-on-mint
@@ -928,6 +937,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 4 visual — calibrated per level (l1)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: PRODUCT INTRO + OFFER — 3+3 BUNDLE
 - ROLE slot: pricing-box-centered-cream
@@ -940,6 +951,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 5 visual — calibrated per level (l1)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: OBJ-14.2 (OBJ-14.2 — Timeline Week 1-2 (Adjustment Phase) *() is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 6: GUARANTEE — 60-DAY HONEST CONTAINER
 - ROLE slot: guarantee-line-centered-muted
@@ -948,6 +961,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: TRUST-3 (Covered Checklist Badges *(L6446)*) is text-only per catalog.
 
 ### Section 7: LENA SIGN-OFF — SHORT VARIANT
 - ROLE slot: lena-signoff-short-on-cream
@@ -956,6 +972,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 4/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-10 (Legal Text *(L7739)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

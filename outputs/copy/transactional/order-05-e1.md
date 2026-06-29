@@ -840,14 +840,23 @@ END OF WIREFRAME — order-05-e1
 | Role | Component ID | Reason |
 |---|---|---|
 | STATUS-BAR-ORDER-CONFIRMED | **UTIL-07** | Neutral bar '✓ ORDER CONFIRMED' with emerald check |
+  |  | **WRAP: image-inside-component** | UTIL-07 (Section Header (uses Header) *(L7652)*) is image-driven per catalog (image_support=image_text); picked image IS the component. |
 | RECEIPT-CARD-STRUCTURED | **CMP-4** | Rounded white receipt card on cream — order # + items + ETA |
+  |  | **WRAP: image-required-component** | CMP-4 (Feature Comparison Table *(L6146)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | PROSE-WHATS-INSIDE | **EMO-1** | Flat list — what's inside the package |
+  |  | **WRAP: component-text-only** | Content block is text-only by design. |
 | PROSE-WARM-LENA | **EMO-2** | Lena warm-voice prose — two-sons peer mention |
+  |  | **WRAP: component-text-only** | Content block is text-only by design. |
 | PROSE-RECOGNITION-ANCHORS | **STORY-09** | Week-1 recognition anchors — gentle mechanism |
+  |  | **WRAP: image-required-component** | STORY-09 (The Reframe — Challenge → New perspective *(L4559)) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | ANCHORS-LIST | **STORY-13** | 5-item recognition anchors — bullet variant |
+  |  | **WRAP: image-required-component** | STORY-13 (Parallel Paths — Two families side by side *(L4683) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | GUARANTEE-BAND-CREAM-EMERALD | **CMP-7** | Cream band + emerald hairline left border — risk reversal |
+  |  | **WRAP: image-required-component** | CMP-7 (Scorecard Showdown *(L6246)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | CTA-BUTTON-EMERALD-TRACK | **CTA-8** | Full-width emerald button 'Track your order' |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | LENA-SIGNOFF-SHORT + FOOTER | **12.1** | Lena signature + BKC footer |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | 12.1 is the Lena sign-off/footer block that ships from locked footer.html. |
 
 ### Images (1/6)
 

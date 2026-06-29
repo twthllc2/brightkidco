@@ -743,6 +743,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e5-l3, level=l3, theme=5. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWDEEP-4 (Welcome E4 Wisdom *(L12554)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — "YOU'VE BEEN DOING THIS FOR YEARS"
 - ROLE slot: dignity-first-paragraph-stack-with-years-mirror
@@ -755,6 +758,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 5 section 1 visual — calibrated per level (l3)
   - Current usage: 4/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-17 (The Comic Strip *(L10257)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Section 2: COMMUNITY INVITATION — "THE QUIET CIRCLE"
 - ROLE slot: community-invitation-paragraph-stack
@@ -767,6 +772,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 5 section 2 visual — calibrated per level (l3)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-18 (The Mixtape *(L10290)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: PEER L3 TESTIMONIAL — 9-YEAR-OLD'S MICRO-WIN
 - ROLE slot: peer-testimonial-paragraph-stack-with-quote-inset
@@ -779,6 +786,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 5 section 3 visual — calibrated per level (l3)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: COMMUNITY DOOR — PERMISSION FRAME
 - ROLE slot: community-door-paragraph-stack-with-text-link-cta
@@ -791,6 +800,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 5 section 4 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 5: LENA SIGN-OFF (MEDIUM-LONG VARIANT) + RE-ENTRY P.S
 - ROLE slot: floating-feather-easter-egg-grace-element
@@ -803,6 +814,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 5 section 5 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-19 (The Time Lapse *(L10321)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Image count check
 - Total images in this email: 5/6

@@ -1095,6 +1095,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e2-gf, level=gf, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWIMG-008 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — "IS ANYTHING ACTUALLY CHANGING?"
 - ROLE slot: prose-block-with-self-doubt-validation
@@ -1107,6 +1110,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 1 visual — calibrated per level (gf)
   - Current usage: 4/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 2: THE PLATEAU — NAMING THE PHASE
 - ROLE slot: plateau-naming-paragraph-stack-with-2-phase-explanation
@@ -1119,6 +1124,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 2 visual — calibrated per level (gf)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 3: MECHANISM — NEURAL BRIDGE FORMATION
 - ROLE slot: mechanism-paragraph-stack-with-nicholson-2019-cite
@@ -1131,6 +1138,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 3 visual — calibrated per level (gf)
   - Current usage: 4/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: M2 is an image-driven component and the picked image IS the component.
 
 ### Section 4: SIGNAL CATALOG TABLE — 8 MICRO-SIGNALS
 - ROLE slot: signal-catalog-table-stacked-3-columns-8-rows
@@ -1143,6 +1152,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 4 visual — calibrated per level (gf)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: TRACKING SYSTEM — STICKY-NOTE PRACTICAL
 - ROLE slot: tracking-system-paragraph-stack-with-5-tracking-categories
@@ -1155,6 +1166,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 5 visual — calibrated per level (gf)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 6: TIMELINE NORMALIZATION (3 TIERS) + 60-DAY GUARANTE
 - ROLE slot: timeline-normalization-stacked-paragraphs-with-3-tiers
@@ -1163,6 +1176,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: PERS-01 (Level Greeting *(L8129)*) is text-only per catalog.
 
 ### Section 7: PERMISSION CLOSE (ELEMENT ⑥) + LENA SIGN-OFF
 - ROLE slot: permission-close-paragraph-stack-with-text-link
@@ -1171,6 +1187,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Image count check
 - Total images in this email: 5/6

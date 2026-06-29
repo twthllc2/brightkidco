@@ -752,6 +752,8 @@ NOTE: The wireframe uses teal #4A8C8C for the Level 2 card left-stripe (hidden l
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 17/25
   - WHY: Founders photo as supporting opener visual.
+  - **WRAP: image-inside-component**
+  - WHY: FSHOP-N (Referral: Thank You *(L24981)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: validation-prose-emerald-left-border + mechanism-prose-emerald-left-border + emphasis-bold-not-italic
 - ROLE slot: validation-prose + mechanism-prose + emphasis-bold
@@ -764,6 +766,8 @@ NOTE: The wireframe uses teal #4A8C8C for the Level 2 card left-stripe (hidden l
   - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
   - Current usage: 10/25
   - WHY: Visualizes the validation+mechanism context (child on potty ladder).
+  - **WRAP: image-inside-component**
+  - WHY: 2 (The Reframe Moment *(L61)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: detection-question-prompt + 4x symptom-card-clickable-block
 - ROLE slot: detection-question-prompt + 4 symptom cards
@@ -776,6 +780,8 @@ NOTE: The wireframe uses teal #4A8C8C for the Level 2 card left-stripe (hidden l
   - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
   - Current usage: 10/25
   - WHY: Generic toddler-livingroom for the detection card context.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 4: guarantee-risk-reversal-prose
 - ROLE slot: guarantee-risk-reversal-prose
@@ -788,6 +794,8 @@ NOTE: The wireframe uses teal #4A8C8C for the Level 2 card left-stripe (hidden l
   - Alt text (GF, V16): "BrightKidCo training pant with cream and soft cloud-raindrop pattern, flat-lay product shot."
   - Current usage: 6/25
   - WHY: Generic product visual for the guarantee.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 10.1 (60-Day Seal (alias for PartBadge/Letter) *(L887)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 5: squiggle-divider-handdrawn
 - ROLE slot: squiggle-divider-handdrawn
@@ -797,6 +805,8 @@ NOTE: The wireframe uses teal #4A8C8C for the Level 2 card left-stripe (hidden l
   - Current usage: 1/8
   - WHY: "Smiley Face SVG" is a hand-drawn-feel decorative element — works as a soft divider. Fresh (was at 0).
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog.
 
 ### Section 6: signoff-lena-medium
 - ROLE slot: signoff-lena-medium
@@ -806,6 +816,8 @@ NOTE: The wireframe uses teal #4A8C8C for the Level 2 card left-stripe (hidden l
   - Current usage: 6/8
   - WHY: "Lena Signoff" is the canonical sign-off component.
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 4/6

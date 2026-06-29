@@ -805,6 +805,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e2-l3, level=l3, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: TRUSTDEEP-10.1 (TRUSTDEEP-10.1 — Bundle Hero (Multi-Pack Showcase)) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — THREE-HOUR WET DIAPER MIRROR
 - ROLE slot: dignity-first-sentence-stack-with-no-headline
@@ -817,6 +820,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 1 visual — calibrated per level (l3)
   - Current usage: 4/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 2: VALIDATION — LEEKAM 2007 + L3 ABSOLUTION
 - ROLE slot: validation-paragraph-stack-with-leekam-citation
@@ -829,6 +834,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 2 visual — calibrated per level (l3)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 3: MECHANISM — BSL AS SIGNAL AMPLIFIER
 - ROLE slot: mechanism-paragraph-stack-with-pull-up-comparison
@@ -841,6 +848,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 3 visual — calibrated per level (l3)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: WHAT THIS CHANGES — REDEFINED SUCCESS
 - ROLE slot: reframe-paragraph-stack-with-micro-win-scenarios
@@ -853,6 +862,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 4 visual — calibrated per level (l3)
   - Current usage: 4/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: PRODUCT — 1 PAIR $34.99 + ADD-ALONGSIDE
 - ROLE slot: gentle-product-paragraph-stack-with-add-alongside
@@ -865,6 +876,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 5 visual — calibrated per level (l3)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PROD-2 is an image-driven component and the picked image IS the component.
 
 ### Section 6: CTA — TEXT LINK + PERMISSION FRAME
 - ROLE slot: cta-text-link-soft-permission
@@ -873,6 +886,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=cta, audience=['L3']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: LENA SIGN-OFF — PEER STORY + LATE-TRAINER P.S.
 - ROLE slot: LENA SIGN-OFF — PEER STORY + LATE-TRAINER P.S.
@@ -881,6 +897,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 3/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-10 (Legal Text *(L7739)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

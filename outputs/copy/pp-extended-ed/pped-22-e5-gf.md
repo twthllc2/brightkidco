@@ -1089,6 +1089,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e5-gf, level=gf, theme=5. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWDEEP-5 (Welcome E5 Science *(L12568)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HERO ILLUSTRATION — "THE WINDING PATH"
 - ROLE slot: hero-illustration-winding-path-with-open-doorway
@@ -1101,6 +1104,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 5 section 1 visual — calibrated per level (gf)
   - Current usage: 17/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 2: LETTER OPENING — "LENA HERE. WHEREVER YOU ARE."
 - ROLE slot: letter-opening-paragraph-stack-with-wherever-
@@ -1113,6 +1118,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 5 section 2 visual — calibrated per level (gf)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 3: THE PART NOBODY TELLS YOU — "THE LONG MIDDLE"
 - ROLE slot: long-middle-paragraph-stack-with-regression-
@@ -1125,6 +1132,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 5 section 3 visual — calibrated per level (gf)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 9.2 (Sticker Reasons *(L867)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: WHAT THE SCIENCE ACTUALLY SHOWS — 3 CITATIONS
 - ROLE slot: research-paragraph-stack-with-3-citations
@@ -1137,6 +1146,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 5 section 4 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 31.1 (Green Status Pill *(L2641)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: COMMUNITY REINFORCEMENT — "YOU DON'T HAVE TO TRACK
 - ROLE slot: community-reinforcement-paragraph-stack-with-
@@ -1149,6 +1160,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 5 section 5 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 31.2 (Tracking Info Table *(L2656)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: WHAT "NEXT STEPS" LOOKS LIKE FOR GF FAMILIES
 - ROLE slot: next-steps-paragraph-stack-with-3-bulleted-
@@ -1157,6 +1170,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 7: PERMISSION CLOSE + GUARANTEE
 - ROLE slot: permission-close-paragraph-stack-with-guarantee
@@ -1165,6 +1181,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 4/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Image count check
 - Total images in this email: 5/6

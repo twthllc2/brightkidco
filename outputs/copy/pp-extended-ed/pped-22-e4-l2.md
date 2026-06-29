@@ -916,6 +916,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e4-l2, level=l2, theme=4. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-13 (New Arrival Hero *(L25384)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — "STILL IN IT" VALIDATION
 - ROLE slot: prose-block-with-still-in-it-validation
@@ -928,6 +931,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 4 section 1 visual — calibrated per level (l2)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: MECHANISM — WHAT THE FIRST 3 WEEKS ACCOMPLISH
 - ROLE slot: mechanism-paragraph-stack-with-no-habituation-frame
@@ -940,6 +945,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 4 section 2 visual — calibrated per level (l2)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: RESEARCH — HAMPLE/MAHLER + 49-STUDY META-ANALYSIS
 - ROLE slot: research-paragraph-stack-with-multiple-citations
@@ -952,6 +959,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 4 section 3 visual — calibrated per level (l2)
   - Current usage: 16/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: "NOTHING YET" CHECKLIST — 4 ENVIRONMENTAL FACTORS
 - ROLE slot: troubleshooting-checklist-stacked-vertical-4-factors
@@ -964,6 +973,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 4 section 4 visual — calibrated per level (l2)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: SMALL SIGNS VALIDATION (ELEMENT ① ANCHORS)
 - ROLE slot: small-signs-validation-paragraph-stack-with-research-anchor
@@ -976,6 +987,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 4 section 5 visual — calibrated per level (l2)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: 8-WEEK PROGRESS TABLE (ELEMENT ④ TIMELINE)
 - ROLE slot: progress-table-stacked-vertical-not-side-by-side
@@ -984,6 +997,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: STORYDEEP-01 (The Split Screen *(L9870)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 7: 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT
 - ROLE slot: guarantee-permission-stacked-paragraphs
@@ -992,6 +1008,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: CTAMAX-18 (Permission CTA *(L17096)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

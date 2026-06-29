@@ -246,6 +246,7 @@ EXAMPLE_PICK: SVG circular hero, teal frame, simplified
               bubble overlay, neutral paper background
 
 NO CTA in this section
+WRAP: image-required-component (BUG — hero-circle-diagram-gf requires image to render; flag for revisit)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -273,6 +274,7 @@ EXAMPLE_PICK: 4 stacked cards, 8px border-radius, warm
               signal-dot bullet per card (3px, emerald)
 
 NO CTA in this section
+WRAP: image-standalone (failed-methods-grid-gf text-only per GF design, image decorative)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -309,58 +311,12 @@ BUTTON_INTENT: drives to PDP, captures the E2 mechanism-
               click moment when the interoception reframe
               lands
 SECONDARY:  text link "No rush, read when you're ready"
+WRAP: image-inside-component (mechanism-definition-block-gf, picked image IS the component — flat-lay/swim-diaper giraffe yellow)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 4: REFRAME — DIFFUSION MOMENT]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — single-paragraph reframe)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: reframe-paragraph-gf
-INTENT: the "you can't reward a signal that isn't
-        reaching the brain yet" passage — the diffusion
-        moment where the parent shifts from "I failed" to
-        "the method failed." Lavender (soft lavender) tinted
-        blockquote card with a left-border accent in
-        warm gray; italic body, 17px desktop
-EXAMPLE_PICK: single-paragraph card, soft lavender
-              background, italic body, no iconography,
-              warmth of attribution
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 5: PERMISSION-NOT-TO-BRIDGE]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — closes the loop)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: expert-quote-floating-card-gf
-INTENT: a soft authority quote that says: "the
-        difference between a method that works and one
-        that doesn't isn't motivation or effort. It's
-        whether the method meets your child where their
-        nervous system actually is." Renders as a
-        floating card in soft lavender, the GF
-        equivalent of an L1 expert citation but stripped
-        of clinical framing — symptom-first voice
-EXAMPLE_PICK: floating card, lavender background,
-              8px border-radius, italic body, no
-              citation footer (avoids intimidating
-              academic feel)
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 6: MIGRATION ANCHOR #1 (L1-STYLE) — GF-V3 ROTATION]
+[SECTION 4: MIGRATION ANCHOR #1 (L1-STYLE) — GF-V3 ROTATION]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Does any of this sound familiar?
 SUBHEADLINE: (none)
@@ -383,11 +339,12 @@ EXAMPLE_PICK: warm-underlined text link in Body Gray,
               sitting just before the Lena sign-off;
               arrow → at end of link; visually quiet,
               not a CTA button
+WRAP: image-standalone (migration-anchor-link-gf text-only per GF design)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 7: LENA SIGN-OFF (SHORT) + P.S. — DOUBLE FRAME]
+[SECTION 5: LENA SIGN-OFF (SHORT) + P.S. — DOUBLE FRAME]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: (closing beat)
 SUBHEADLINE: (none)
@@ -401,11 +358,18 @@ INTENT: Lena SHORT variant (E1-E2 macro), with the
                  approach works, here's a gentle
                  explanation. No pressure."
         P.S. 2: "I've been where you are. Take your time."
+WRAP: component-text-only (locked-signoff, signoff-lena-short-gf text-only, ships from locked footer.html)
+
+─────────────────────────────────────────────────────────────────
+                 approach works, here's a gentle
+                 explanation. No pressure."
+        P.S. 2: "I've been where you are. Take your time."
         The two P.S. lines function as a permission-not-
         to-buy doubled frame; renders as a Cream-Card
         block (cream card), italic P.S. body in 14px
 
 NO CTA in this section
+WRAP: component-text-only (locked-signoff continued, ships from locked footer.html)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -442,24 +406,22 @@ IMAGE_COUNT:
 
 =================================================================
 COMPONENT_COUNT:
-- Total distinct component ROLES in this email: 7
-  - hero-circle-diagram-gf (section 1)
-  - failed-methods-grid-gf (section 2)
-  - mechanism-definition-block-gf (section 3)
-  - reframe-paragraph-gf (section 4)
-  - expert-quote-floating-card-gf (section 5)
-  - migration-anchor-text-link-gf (section 6)
-  - signoff-lena-short-gf (signoff block)
-- Density category: 7 (under 8-cap)
-- Mid-email CTA button uses the cta-button-full-width
-  component, double-tapped at section 3 (mid) only
+|- Total distinct component ROLES in this email: 5
+|  - hero-circle-diagram-gf (section 1)
+|  - failed-methods-grid-gf (section 2)
+|  - mechanism-definition-block-gf (section 3)
+|  - migration-anchor-text-link-gf (section 4)
+|  - signoff-lena-short-gf (signoff block)
+|- Density category: 5 (under 8-cap)
+|- Mid-email CTA button uses the cta-button-full-width
+|  component, double-tapped at section 3 (mid) only
 
 =================================================================
 STRUCTURAL_INTENT (9 dimensions):
-- Section count: 7 (per GF macro table — highest in the
-  GF Welcome sequence; mechanism-centered layout)
-- Section pattern: C (Problem-Solution — failed-methods
-  naming precedes mechanism reveal)
+|- Section count: 5 (per GF macro table — mechanism-centered
+|  layout, reduced for cap compliance)
+|- Section pattern: C (Problem-Solution — failed-methods
+|  naming precedes mechanism reveal)
 - Image density: 3 (hero + grid + definition block)
 - Color temperature: cool (per GF macro — soft-teal
   (soft teal) learning zone + lavender (soft lavender) authority
@@ -586,71 +548,46 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Child near a pink potty ladder, real home, age-ambiguous
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-7 is an image-driven component and the picked image IS the component.
 
-### S2: Failed Methods Recognition
-- ROLE slot: failed-methods-grid-gf
-- INTENT: Four named failed methods (timer, reward, naked, body-signal), R2 anchors.
-- COMPONENT PICKED: OBJ-01  (Tried Everything Reframe [A] (MECHANISM & EDUCATION, GF-on-tone))
-  - Current usage: 1/8
-  - WHY: Tried Everything Reframe is the failed-methods recognition grid, R2 anchor for the 4 named methods.
-- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
-  - Alt text: Potty-target stickers and chart, neutral flat-lay
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+### S2: Failed Methods Recognition (REMOVED — body-cap trim)
+- Section intentionally left empty per Stage 2 body-cap trim (≤8 rows). The four failed methods (timer, reward, naked, body-signal) are named in the copy body (Section 2: Failed Methods Recognition) without a dedicated visual element.
 
 ### S3: Mechanism Deep — Interoception Reveal
-- ROLE slot: mechanism-definition-block-gf
-- INTENT: Interoception definition (eighth sensory system), mechanism-deep.
-- COMPONENT PICKED: EDU-1  (Definition Block [A*] (MECHANISM & EDUCATION, interoception fit))
+|- ROLE slot: mechanism-definition-block-gf
+|- INTENT: Interoception definition (eighth sensory system), mechanism-deep.
+|- COMPONENT PICKED: EDU-1  (Definition Block [A*] (MECHANISM & EDUCATION, interoception fit))
   - Current usage: 1/8
-  - WHY: Definition Block fits the interoception definition (eight-sensory-system) cleanly with cool-blue signal tone.
-- COMPONENT PICKED: 17.5  (Feel Points / For You Points [A] (MECHANISM & EDUCATION, recognition-anchors))
-  - Current usage: 1/8
-  - WHY: Feel Points / For You Points — R4 verbal/non-verbal dual-mode recognition block, 3-5 anchor carrier.
-- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - WHY: Definition Block fits the interoception definition (eight-sensory-system) cleanly.
+|- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
   - Alt text: Pink bunny-hearts training pant laid flat
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: EDU-1 is image-driven; picked image IS the component.
 
-### S4: Reframe — Diffusion Moment
-- ROLE slot: reframe-paragraph-gf
-- INTENT: You can't reward a signal that isn't there.
-- COMPONENT PICKED: 9.1  (Expert Quote Card [A] (RECOGNITION & STORY, soft authority))
-  - Current usage: 1/8
-  - WHY: Expert Quote Card — soft-authority quote ('method assumes a signal that wasn't there') bridges the reframe.
-- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
-  - Alt text: Toddler in a living room with soft yellow dino play, age-ambiguous
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S5: Permission-Not-To-Bridge
-- ROLE slot: expert-quote-floating-card-gf
-- INTENT: Soft-authority quote, permission-not-to-buy frame.
-- COMPONENT PICKED: EMO-6  (Parent Quote [A*] (EMOTIONAL SUPPORT, peer-voice))
-  - Current usage: 1/8
-  - WHY: Parent Quote — peer-voice for permission-not-to-bridge, R3/R6 friendly.
-- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
-  - Alt text: Toddler from behind, mustard cat-graphic shirt, soft home light
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S6: Migration Anchor #1 (L1-style)
+### S4: Migration Anchor #1 (L1-style)
 - ROLE slot: migration-anchor-link-gf
 - INTENT: L1-style symptom profile, subtle text-link (not a button).
 - COMPONENT PICKED: EMODEEP-03  (The Permission Letter [G+] (EMOTIONAL SUPPORT, Giuliano-derived))
   - Current usage: 2/8
   - WHY: The Permission Letter — Giuliano-derived permission-not-to-buy frame for the migration anchor section.
 - IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-03 is the Lena sign-off/footer block that ships from locked footer.html.
 
-### S7: Lena Sign-off (SHORT) + P.S.
+### S5: Lena Sign-off (SHORT) + P.S.
 - ROLE slot: signoff-lena-short-gf
 - INTENT: Lena SHORT, 'Talk soon,' — peer voice.
 - IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: component-text-only**
+  - WHY: Section has no COMPONENT and no image; text-only.
 
 ### Image count check
-- Total images in this email: 5/6
-- Status: PASS
+|- Total images in this email: 2/6
+|- Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented HERO-7, OBJ-01, EDU-1, 17.5, 9.1, EMO-6, EMODEEP-03
-- image-usage.json: incremented lifestyle/toddler-potty-ladder-pink-multicolor.png, accessories/potty-targets-stickers-chart.png, flat-lay/training-pant-bunny-hearts-pink.jpg, lifestyle/toddler-livingroom-dino-yellow.png, lifestyle/toddler-rearview-cat-mustard.png
+|- component-usage.json: incremented HERO-7, EDU-1, EMODEEP-03
+|- image-usage.json: incremented lifestyle/toddler-potty-ladder-pink-multicolor.png, flat-lay/training-pant-bunny-hearts-pink.jpg

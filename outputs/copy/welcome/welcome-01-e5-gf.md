@@ -520,81 +520,12 @@ EXAMPLE_PICK: typography hero, warm sand background,
               warmth)
 
 NO CTA in this section
+WRAP: image-standalone (hero-typography-only-gf, text-only per GF design, image decorative between sections)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 2: OBJECTION NAMING — THREE DOORS]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Let me name the three questions sitting in
-          the back of your mind.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: three-objection-doors-reveal-gf (3 stacked
-        expandable objection cards — NEVER side-by-
-        side)
-INTENT: the three-door contraption from E5's creative
-        strategy, presented as 3 vertically-stacked
-        objection cards with progressive-reveal arrows:
-        (1) "I've tried everything. Why would this
-            be different?" — Reframe: methods assumed
-            a signal that wasn't there
-        (2) "What if I get my hopes up again?" —
-            Lena's personal story: both sons, almost-8
-            older one
-        (3) "Is my child too old, or too severely
-            affected, for this to work?" — Catch-all:
-            "Whether your child is 3 or 10, verbal or
-            non-verbal, diagnosed or still wondering"
-        Each card: Cream-Card (cream card) background,
-        Bold objection header in Dark Text, Body Gray
-        reframe below with 2px Brand-Green left-border
-        accent, "Why this is different →" arrow in
-        Brand-Green
-EXAMPLE_PICK: 3 stacked objection cards, cream
-              background, bold objection header,
-              reframe text with green left-border,
-              progressive arrow →; on mobile the
-              reframe text expands inline; on desktop
-              all 3 cards stack vertically (never
-              side-by-side)
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 3: REFRAME — THE WRONG-TOOLS MOMENT]
-─────────────────────────────────────────────────────────────────
-HEADLINE: You weren't fighting the wrong battle.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: mint-highlight-box-gf (Mint mint background)
-INTENT: the central reframe paragraph sits in a Mint
-        background block to visually mark it as the
-        turning point of E5:
-        "The reason nothing worked isn't that you
-        didn't try hard enough. It's that every method
-        assumed the signal exists. Pull-ups keep kids
-        completely dry, which means the one feedback
-        the brain needs never arrives. Sticker charts
-        depend on body awareness many children don't
-        yet possess. You weren't fighting the wrong
-        battle — you were fighting the right battle
-        with the wrong tools."
-        Bold key phrase: "wrong tools"
-EXAMPLE_PICK: mint highlight box, full-width, 24px
-              padding, bold "wrong tools" callout,
-              Body Gray paragraph, no iconography
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 4: MECHANISM — BSL DEEP DIVE WITH NUMBERED SEQUENCE]
+[SECTION 2: MECHANISM — BSL DEEP DIVE WITH NUMBERED SEQUENCE]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Here's how it actually works.
 SUBHEADLINE: (none)
@@ -624,42 +555,12 @@ EXAMPLE_PICK: numbered 1-2-3-4 sequence, Brand-Green
               E1/E3/E4)
 
 NO CTA in this section
+WRAP: image-inside-component (brain-signal-flow-diagram-gf, picked image IS the component — flat-lay/diaper-woodland-creature-yellow)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 5: SOCIAL PROOF — TWO QUOTES + STAT BAR]
-─────────────────────────────────────────────────────────────────
-HEADLINE: What this looks like in real life.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: two-quote-cards-stacked-gf (2 stacked quote
-        cards — NEVER side-by-side — plus a stat bar
-        beneath)
-INTENT: 2 stacked testimonial cards in Cream-Card
-        background, with Yellow yellow 5-star ratings
-        above each quote:
-        (1) "After 3 years of nothing, not even a
-            pause, he looked down at the wet spot.
-            First time. It was two seconds. But it
-            was something."
-        (2) "I was skeptical. Another product. Another
-            promise. But after 2 weeks, he walked to
-            the bathroom. Not consistently. But he DID
-            it. That never happened before."
-        Below the two quotes: a single thin stat bar
-        "16,511 reviews · 4.9★" in 12px muted gray
-EXAMPLE_PICK: 2 stacked quote cards, cream background,
-              yellow star ratings, no avatar photos,
-              stat bar below in muted gray
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 6: PRODUCT + GUARANTEE]
+[SECTION 4: PRODUCT + GUARANTEE]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: The 3+3 Bundle.
 SUBHEADLINE: (none)
@@ -667,6 +568,7 @@ SUBHEADLINE: (none)
 [VISUAL ELEMENT]
 ROLE: product-3-layer-minimal-gf (minimal line-art
         variant, NOT the full product photo)
+WRAP: image-inside-component (product-3-layer-minimal-gf PROD-3 Layer Breakdown, picked image IS the component — flat-lay/training-pant-bunny-hearts-pink)
 INTENT: introduces the 3+3 bundle with the 3-layer
         cotton inner + smart absorption + leak-resistant
         outer detail; minimal line-art icons in a
@@ -683,7 +585,7 @@ NO CTA in this section
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 7: LATE CTA]
+[SECTION 5: LATE CTA]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: See if the 3+3 Bundle closes the gap.
 SUBHEADLINE: (none)
@@ -709,7 +611,7 @@ INTENT: standard trust-signal row below CTA,
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 8: MIGRATION ANCHOR #3 (L3-STYLE) + LENA SIGN-OFF]
+[SECTION 6: MIGRATION ANCHOR #3 (L3-STYLE) + LENA SIGN-OFF]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: (closing beat)
 SUBHEADLINE: (none)
@@ -777,33 +679,29 @@ IMAGE_COUNT:
    3-layer minimal line-art)
 - Note: NO lifestyle hero photo in E5 (intentional —
   the skeptical frame honors accumulated disappointment)
-- Image positions: section-1 (hero) + section-4 (mechanism)
-  + section-6 (product)
-- Density category: 3 (mid-high — matches GF E5 macro
-  "3 images per email")
+- Image positions: section-1 (hero) + section-2 (mechanism)
+  + section-4 (product)
+- Density category: 3 (mid-high)
 
 =================================================================
 COMPONENT_COUNT:
-- Total distinct component ROLES in this email: 8
+- Total distinct component ROLES in this email: 5
   - hero-typography-only-gf (section 1)
-  - three-objection-doors-reveal-gf (section 2)
-  - mint-highlight-box-gf (section 3)
-  - brain-signal-flow-diagram-gf (section 4 — different
+  - brain-signal-flow-diagram-gf (section 2 — different
     from product 3-layer diagram)
-  - two-quote-cards-stacked-gf (section 5)
-  - product-3-layer-minimal-gf (section 6)
-  - cta-button-full-width (section 7 — late only)
+  - product-3-layer-minimal-gf (section 4)
+  - cta-button-full-width (section 5 — late only)
   - signoff-lena-medium-gf (signoff block)
-- Density category: 8 (at the 8-cap; E5 is the
-  component-richest email in the GF Welcome arc)
-- Migration anchor link (section 8) is the same ROLE
+- Density category: 5 (under 8-cap; cap compliance
+  achieved by removing objection + reframe + social
+  proof visual wrappers — content lives in body copy)
+- Migration anchor link (section 6) is the same ROLE
   family as E2/E4, no new component needed
 
 =================================================================
 STRUCTURAL_INTENT (9 dimensions):
-- Section count: 8 (per GF macro table — the highest
-  count in the GF Welcome arc; mechanism-centered
-  education-first layout)
+- Section count: 6 (reduced from 8 for cap compliance;
+  objection/reframe/proof sections consolidated)
 - Section pattern: F (Education-First — mechanism,
   reframe, and objection-handling sit before the
   product, not after)
@@ -823,7 +721,7 @@ STRUCTURAL_INTENT (9 dimensions):
   open mechanism + social proof sections; mixed
   density to match the rhythm of doubt-then-
   understanding)
-- CTA position: late (section 7 only; the objection-
+- CTA position: late (section 5 only; the objection-
   handling arc earns the CTA through completion)
 - Subject line type: mechanism tease (per GF macro —
   the SL names the "letdown" framing, the body
@@ -946,33 +844,10 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Toddler playing with a moon-and-cloud-themed train toy, real home
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: DESDEEP-7 (The Typography Hero *(L13262)*) is text-only per catalog; any image is decorative and sits between sections.
 
-### S2: Objection Naming — Three Doors
-- ROLE slot: three-objection-doors-reveal-gf
-- INTENT: Three stacked objection cards with progressive-reveal arrows.
-- COMPONENT PICKED: OBJ-02  (My Child Is Different [A] (MECHANISM & EDUCATION, objection handler))
-  - Current usage: 1/8
-  - WHY: My Child Is Different — first of the three objection cards (E5 three-door contraption).
-- COMPONENT PICKED: OBJ-04  (Does It Work Evidence [A] (MECHANISM & EDUCATION, evidence))
-  - Current usage: 1/8
-  - WHY: Does It Work Evidence — second objection card, evidence-based reframe.
-- COMPONENT PICKED: OBJ-10  (Sensory Issues Answer [A] (MECHANISM & EDUCATION, sub-group C fit))
-  - Current usage: 1/8
-  - WHY: Sensory Issues Answer — third objection card, R1 symptom-first for sub-group C.
-- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
-  - Alt text: Woodland-creature diaper laid flat on a warm surface
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S3: Reframe — The Wrong-Tools Moment
-- ROLE slot: mint-highlight-box-gf
-- INTENT: Mint-highlight central reframe paragraph, Brand-Green accent.
-- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
-  - Alt text: Moon-and-cloud blue pocket diaper laid flat
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S4: Mechanism — BSL Deep Dive with Numbered Sequence
+### S2: Mechanism — BSL Deep Dive with Numbered Sequence
 - ROLE slot: brain-signal-flow-diagram-gf
 - INTENT: Numbered 1-2-3-4 BSL sequence diagram, deep mechanism.
 - COMPONENT PICKED: EDU-8  (Mechanism Diagram [A*] (MECHANISM & EDUCATION, deep dive))
@@ -985,40 +860,37 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Wet bags with space, zebra, and llama prints, flat-lay
   - Current usage: 4/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: EDU-8 is an image-driven component and the picked image IS the component.
 
-### S5: Social Proof — Two Quotes + Stat Bar
-- ROLE slot: two-quote-cards-stacked-gf
-- INTENT: Two stacked testimonial cards in Cream-Card.
-- COMPONENT PICKED: SP-03  (Stat Row [A*] (SOCIAL PROOF & TESTIMONIALS, 49% paraphrase))
-  - Current usage: 2/8
-  - WHY: Stat Row — 49% SPARK paraphrased per V16 (no autism word, 'almost 1 in 2').
-- IMAGE PICKED: resized/washing-machine.jpg
-  - Alt text: Washing machine in real home laundry moment
-  - Current usage: 2/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S6: Product + Guarantee
+### S3: Product + Guarantee
 - ROLE slot: product-3-layer-minimal-gf
 - INTENT: Minimal line-art 3+3 bundle, guarantee band.
 - COMPONENT PICKED: PROD-1  (Full Showcase [A*] (PRODUCT SHOWCASE, showcase-allowed))
   - Current usage: 1/8
   - WHY: Full Showcase — minimal line-art variant of the 3+3 bundle, showcase-allowed.
 - IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: image-required-component**
+  - WHY: PROD-1 requires an image to render; missing image is a BUG.
 
-### S7: Late CTA
+### S4: Late CTA
 - ROLE slot: (button + trust-signal row)
 - INTENT: Late CTA 'See if the 3+3 Bundle closes the gap.'
 - IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: component-text-only**
+  - WHY: Section has no COMPONENT and no image; text-only.
 
-### S8: Migration Anchor #3 (L3-style) + Lena Sign-off
+### S5: Migration Anchor #3 (L3-style) + Lena Sign-off
 - ROLE slot: migration-anchor-link-gf + signoff-lena-medium-gf
 - INTENT: L3-style symptom profile, Lena MEDIUM signoff.
 - IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: component-text-only**
+  - WHY: Section has no COMPONENT and no image; text-only.
 
 ### Image count check
-- Total images in this email: 5/6
+- Total images in this email: 3/6
 - Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented DESDEEP-7, OBJ-02, OBJ-04, OBJ-10, EDU-8, EDU-4, SP-03, PROD-1
-- image-usage.json: incremented lifestyle/toddler-playing-train-moon-cloud-blue.png, flat-lay/diaper-woodland-creature-yellow.jpg, flat-lay/pocket-diaper-moon-cloud-blue.jpg, accessories/wet-bags-space-zebra-llama.png, resized/washing-machine.jpg
+- component-usage.json: incremented DESDEEP-7, EDU-8, EDU-4, PROD-1
+- image-usage.json: incremented lifestyle/toddler-playing-train-moon-cloud-blue.png, flat-lay/diaper-woodland-creature-yellow.jpg

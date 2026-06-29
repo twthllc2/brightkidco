@@ -654,6 +654,8 @@ END OF WIREFRAME — checkout-03-e1
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 13/25
   - WHY: Founders photo grounds the brand for the checkout-friction-removal hero.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 2.1 (Lilac Gradient Hero *(L364)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: inclusive-symptom-callout-gf
 - ROLE slot: inclusive-symptom-callout-gf
@@ -666,6 +668,8 @@ END OF WIREFRAME — checkout-03-e1
   - Alt text (GF, V16): "Toddler playing with a small toy train, soft warm indoor setting, three-quarter view."
   - Current usage: 10/25
   - WHY: Generic toddler-playing visual for the inclusive bridge.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: mechanism-explain-callout-gf
 - ROLE slot: mechanism-explain-callout-gf
@@ -678,6 +682,8 @@ END OF WIREFRAME — checkout-03-e1
   - Alt text (GF, V16): "BrightKidCo training pant with cream and soft cloud-raindrop pattern, flat-lay product shot."
   - Current usage: 5/25
   - WHY: Cream/white pattern product for the mechanism explain.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Component 2 has no matching rule (1–8); per Rule 9, image with no rule match defaults to image-standalone.
 
 ### Section 4: three-family-testimonial-stack-gf
 - ROLE slot: three-family-testimonial-stack-gf
@@ -690,6 +696,8 @@ END OF WIREFRAME — checkout-03-e1
   - Alt text (GF, V16): "Toddler wearing a small backpack with soft moon and cloud-blue pattern, rearview."
   - Current usage: 7/25
   - WHY: Generic toddler-backpack for the three-family testimonials.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: guarantee-badge-gf + cta-button-soft-permission
 - ROLE slot: guarantee-badge-gf + cta-button-soft-permission
@@ -702,6 +710,8 @@ END OF WIREFRAME — checkout-03-e1
   - Alt text (GF, V16): "Reusable wet bag with space-zebra-llama pattern, laid flat on warm cream surface."
   - Current usage: 5/25
   - WHY: Generic accessory for the guarantee + CTA section.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 10.1 (60-Day Seal (alias for PartBadge/Letter) *(L887)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 5/6

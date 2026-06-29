@@ -709,14 +709,6 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-### Hero (Section 1: Opening)
-- ROLE slot: hero (per wireframe S1)
-- INTENT: Establish opener tone with unique hero component for winback-a-19-e2-l3
-- COMPONENT PICKED: CSHOP-14 (New Colourway *(L25414)*)
-  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
-  - WHY: Unique hero for winback-a-19-e2-l3, level=l3, theme=2. Calibrated per level.
-
 ### Section 1: OPENING — Lapse Validation (L3 dignity-first)
 - ROLE slot: opening-prose-block-centered-warm-cream
 - INTENT: per wireframe Section 1
@@ -728,6 +720,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 1 visual — calibrated per level (l3)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: MAUREEN BENNIE LATE-TRAINER STORY
 - ROLE slot: maureen-bennie-story-block-warm-neutral
@@ -740,6 +734,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 2 visual — calibrated per level (l3)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: MECHANISM — 30-60 Seconds of Feedback
 - ROLE slot: mechanism-warm-sand-callout-no-green-l3
@@ -752,6 +748,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 3 visual — calibrated per level (l3)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: ED3 (Interoception Explainer *(L3353)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: REFRAME — "No wrong way to explore this"
 - ROLE slot: reframe-prose-warm-cream-permission
@@ -764,6 +762,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 4 visual — calibrated per level (l3)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 5: OFFER — 1 Pair ($34.99), Add Alongside
 - ROLE slot: offer-prose-1-pair-only-no-bundle-l3
@@ -776,6 +776,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 5 visual — calibrated per level (l3)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: GUARANTEE + PERMISSION — 60 Days, Your Judgment
 - ROLE slot: guarantee-paragraph-with-permission-closing
@@ -784,6 +786,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 2/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: CTA — Permission-Framed, Two Soft CTAs
 - ROLE slot: cta-two-text-links-warm-clay-no-buttons
@@ -792,12 +797,26 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
+
+### Section 8: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-gap-ps
+- INTENT: per wireframe Section 8
+- COMPONENT PICKED: UTIL-04 (Footer (Giuliano source) *(L7571)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-04 is text-only per catalog; sign-off block renders as text-only prose.
 
 ### Image count check
 - Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['CSHOP-14', 'REV-04.2', 'REV-04.4', 'ED3', '8', 'REV-06.2', 'CTADEEP-05', 'CTADEEP-11']
+- component-usage.json: incremented ['CSHOP-14', 'REV-04.2', 'REV-04.4', 'ED3', '8', 'REV-06.2', 'CTADEEP-05', 'CTADEEP-11', 'UTIL-04']
 - image-usage.json: incremented ['accessories/cloth-pads-watermelon-astronaut-cat.png', 'lifestyle/toddler-rearview-cat-mustard.png', 'flat-lay/swim-diaper-unicorn-pink.jpg', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'accessories/potty-targets-stickers-chart.png']
 

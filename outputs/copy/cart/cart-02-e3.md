@@ -636,6 +636,8 @@ END OF WIREFRAME — cart-02-e3
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 6/25
   - WHY: Founders photo grounds the brand (already established in E1, repeats for flow continuity).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-11 is an image-driven component and the picked image IS the component.
 
 ### Section 2: validation-with-whether-or-if-anchors
 - ROLE slot: validation-with-whether-or-if-anchors
@@ -648,6 +650,8 @@ END OF WIREFRAME — cart-02-e3
   - Alt text (GF, V16): "Toddler climbing a yellow woodland-patterned potty ladder, viewed from behind."
   - Current usage: 3/25
   - WHY: Different potty-ladder visual from E1's multicolor one. Woodland-cream-yellow palette matches E3's neutral tone.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: mechanism-explanation-pullups-contrast
 - ROLE slot: mechanism-explanation-pullups-contrast
@@ -660,6 +664,8 @@ END OF WIREFRAME — cart-02-e3
   - Alt text (GF, V16): "BrightKidCo disposable diaper with woodland-creature pattern in soft yellow, flat-lay product shot."
   - Current usage: 2/25
   - WHY: Visualizes the pull-ups (disposable diaper) being contrasted against the Body-Signal product. V16-safe.
+  - **WRAP: image-inside-component**
+  - WHY: 3 (Micro-Win Celebration *(L82)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: guarantee-callout-block-prominent
 - ROLE slot: guarantee-callout-block-prominent
@@ -672,6 +678,8 @@ END OF WIREFRAME — cart-02-e3
   - Alt text (GF, V16): "BrightKidCo training pant with fox pattern in woodland white tones, flat-lay product shot."
   - Current usage: 1/25
   - WHY: Clean cream-white training pant — represents the "promise" side of promise vs reality.
+  - **WRAP: image-inside-component**
+  - WHY: CMP-3 (Promise vs Reality *(L6113)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: three-testimonial-card-stack-compact
 - ROLE slot: three-testimonial-card-stack-compact
@@ -684,6 +692,8 @@ END OF WIREFRAME — cart-02-e3
   - Alt text (GF, V16): "Toddler playing with a small toy train, soft warm indoor setting, three-quarter view."
   - Current usage: 8/25 (at cap) — DO NOT INCREMENT
   - WHY: Generic toddler-playing visual for testimonials. R1-compliant. AT CAP.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 6: cta-button-full-width
 - ROLE slot: cta-button-full-width
@@ -696,6 +706,8 @@ END OF WIREFRAME — cart-02-e3
   - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
   - Current usage: 6/25
   - WHY: Generic lifestyle shot for the CTA section. No child face shown.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Image count check
 - Total images in this email: 5/6

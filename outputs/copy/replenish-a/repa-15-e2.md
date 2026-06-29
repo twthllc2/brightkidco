@@ -742,6 +742,8 @@ guarantee.
   - Alt text: A penguin-print training pant laid flat in soft natural light, friendly multicolor palette.
   - Current usage: 1/25
   - WHY: Multi-pant-print feel matches "6 pairs in rotation" hero concept; warm tone stands in for the bundle ensemble without needing a literal six-pair composite.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-17 is an image-driven component and the picked image IS the component.
 
 ### Section 2: OPENER + RECOGNITION ANCHORS (R2)
 - ROLE slot: opener-with-vertical-bullet-list (4 anchors: laundry wait, signal arriving, half-time pull-ups, no change yet)
@@ -750,6 +752,9 @@ guarantee.
   - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
   - Current usage: 0/8
   - WHY: "Realistic Timeline" frames the recognition anchors as normalized expectations rather than diagnosis, matching the "any of those sound familiar" tone.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 3: VALIDATION + MECHANISM BAND
 - ROLE slot: validation-mechanism-paragraphs (R1, R4, R5)
@@ -758,6 +763,9 @@ guarantee.
   - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 0/8
   - WHY: "How It Works" maps directly to the "feedback loop / neural pathway / daily exposure" mechanism paragraphs in this section.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-10 requires an image to render; missing image is a BUG.
 
 ### Section 4: PRACTICAL GAP SECTION + OFFER PREVIEW
 - ROLE slot: practical-gap-offer-preview-block (soft amber accent)
@@ -770,6 +778,8 @@ guarantee.
   - Alt text: A red-and-white fox training pant laid flat on a neutral surface, warm and friendly.
   - Current usage: 2/25
   - WHY: Red-white base keeps the visual palette varied for the bundle ensemble; surface flat-lay supports the "rotation stack" mental image.
+  - **WRAP: image-inside-component**
+  - WHY: PROD-8 is an image-driven component and the picked image IS the component.
 
 ### Section 5: THREE-FAMILY TESTIMONIAL PATTERN (cream cards)
 - ROLE slot: testimonial-stack-three-cards-cream-band (Sarah/Lisa/Maria)
@@ -782,6 +792,8 @@ guarantee.
   - Alt text: A toddler napping peacefully in pink watermelon-print shorts, calm and homey.
   - Current usage: 5/25 (sibling may have picked — verify)
   - WHY: Soft pink napping Pre-K moment visualizes "3 weeks in" reality for parents who were told their child wasn't ready; calm homey tone ties to testimonial cards.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: STORYDEEP-03 (The Letter From Future (uses Letter) *(L9918)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 6: PRIMARY CTA BUTTON (DUAL CTA STACK)
 - ROLE slot: dual-cta-stack-primary-and-secondary (Add 3+3 Bundle; Re-order 1 more pair)
@@ -794,6 +806,8 @@ guarantee.
   - Alt text: A space/zebra/llama-print wet bag laid on a neutral surface, slightly playful.
   - Current usage: 1/25
   - WHY: Wet-bag = the laundry-cycle/rotation narrative ("a clean pair every day" needs storage/rotation); neutral tone preserves CTA focus.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 7: LENA SIGN-OFF (SHORT variant, E2)
 - ROLE slot: signoff-lena-short-cream-divider (Talk soon, PS lines)
@@ -803,6 +817,8 @@ guarantee.
   - Current usage: 0/8
   - WHY: Letter/envelope pattern reinforces "Talk soon," handwritten-Lena voice; warm temperature matches cognac sign-off tone.
 - IMAGE PICKED: none (text-only section).
+  - **WRAP: component-text-only**
+  - WHY: 13.2 (Letter & Envelope (uses Letter) *(L1127)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 4/6 (target range 4-6).

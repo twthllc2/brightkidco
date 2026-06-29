@@ -1015,13 +1015,21 @@ END OF WIREFRAME — sunset-25-e2
 | Role | Component ID | Reason |
 |---|---|---|
 | HEADER-OPEN-DOOR-EASTER-EGG | **HERO-23** | Custom fresh hero — open-door easter egg illustration |
+  |  | **WRAP: image-inside-component** | HERO-23 is an image-driven component and the picked image IS the component. |
 | PROSE-HOOK-PERMISSION | **EMODEEP-17** | Permission-frame hook — 'this is our last email' |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
 | RECOGNITION-ANCHORS-R2 | **DEEP-21** | Recognition anchors paragraph with em-dash markers |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
 | VALIDATION-MECH-CALLOUT | **EDUDEEP-3** | Mint-callout validation + mechanism prose |
+  |  | **WRAP: image-inside-component** | EDUDEEP-3 (The Myth Factory *(L10711)*) is image-driven per catalog (image_support=image_text); picked image IS the component. |
 | PERMISSION-CLOSE-NO-CTA | **PSYCH-11** | Permission close paragraph — no CTA, dignified |
+  |  | **WRAP: image-inside-component** | PSYCH-11 (Default Effect *(L8758)*) is image-driven per catalog (image_support=image_text); picked image IS the component. |
 | LENA-SIGNOFF-LONG-FINAL-GOODBYE | **33.2** | Long-variant final goodbye sig |
+  |  | **WRAP: component-text-only** | 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog. |
 | PS-LATE-TRAINER-60D-STANDING | **TRUSTDEEP-3** | P.S. — late-trainer + 60-day standing offer |
+  |  | **WRAP: image-required-component** | TRUSTDEEP-3 (The Expert Panel *(L10996)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | LENA-SIGNOFF-LONG-FINAL-GOODBYE + PS-LATE-60D + FOOTER | **33.2** | Final goodbye Lena + late-trainer 60-day P.S. + standard footer |
+  |  | **WRAP: component-text-only** | 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog. |
 
 ### Images (5/6)
 

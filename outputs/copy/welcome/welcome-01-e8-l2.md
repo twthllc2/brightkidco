@@ -462,6 +462,8 @@ For HTML rendering (pre-Klaviyo design exploration):
 │   lived it — the morning carpet cleanups, the            │
 │   'I don't know, I didn't feel it'…"                    │
 │                                                          │
+│  WRAP: image-inside-component (HERO-8 Visual Metaphor,  │
+│  picked image IS the component — founders holding pants) │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  VALIDATION / RECAP BODY (5–6 sentences; each 6-        │
@@ -501,6 +503,9 @@ For HTML rendering (pre-Klaviyo design exploration):
 │    "If this isn't the day, that's okay. The product      │
 │     will be here next month. So will I."                 │
 │                                                          │
+│  WRAP: image-inside-component (LETTER-03 letter-section, │
+│  picked image IS the component — toddler napping         │
+│  watermelon-pink)                                       │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  DESIRE BODY (4–5 sentences; 3-layer refresher +        │
@@ -515,6 +520,9 @@ For HTML rendering (pre-Klaviyo design exploration):
 │   'I should use the potty.' Over time, awareness        │
 │   builds."                                              │
 │                                                          │
+│  WRAP: image-inside-component (EDU-4 step-cards, picked  │
+│  image IS the component — toddler dino-yellow living     │
+│  room)                                                   │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SOCIAL PROOF — testimonial + stats cluster             │
@@ -539,6 +547,9 @@ For HTML rendering (pre-Klaviyo design exploration):
 │  (mint #DBFFCD border; only mint callout in this email; │
 │   minimal mint usage honors warm-dominant palette)      │
 │                                                          │
+│  WRAP: image-inside-component (SP-01 quote-callouts +   │
+│  stat callout, picked image IS the component — bunny    │
+│  hearts pink training pant)                             │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  GUARANTEE — trust-anchor-callout (warm cream card)     │
@@ -552,6 +563,9 @@ For HTML rendering (pre-Klaviyo design exploration):
 │  └────────────────────────────────────────────────────┘  │
 │  (cream #FBF7EB; warmest background; longest spacing)   │
 │                                                          │
+│  WRAP: image-required-component (BUG — TRUST-2 requires │
+│  an image to render but STAGE 2 picked none; flag for  │
+│  revisit to either pick an image or swap to text-only)  │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  [TEXT-LINK CTAs ONLY — NO BUTTONS]                     │
@@ -563,6 +577,8 @@ For HTML rendering (pre-Klaviyo design exploration):
 │  (muted-green link styling; highest-trust CTA in brand: │
 │   the reply-to-this-email invitation)                    │
 │                                                          │
+│  WRAP: component-text-only (SP-02 reply-anchor testimonial│
+│  lattice, text-only by L2 design)                       │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SIGN-OFF — signoff-lena-long-deeper (E8 LONG VARIANT)  │
@@ -580,6 +596,9 @@ For HTML rendering (pre-Klaviyo design exploration):
 │          "Reply to this email, Lena reads every         │
 │           response."                                    │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.2 Lena  │
+│  Signoff LONG-DEEPER variant, ships from locked         │
+│  footer.html)                                           │
 └──────────────────────────────────────────────────────────┘
 
 SYSTEM B (automatic):
@@ -619,6 +638,8 @@ SYSTEM B (automatic):
   - Alt text: Founder Lena holding BKC yellow-watermelon training pants, Lena LONG farewell portrait
   - Current usage: 3/25 (after this pick)
   - WHY: Founder + toddler photo = the brand-as-person farewell; warm warmest Welcome email anchor
+  - **WRAP: image-inside-component**
+  - WHY: HERO-8 is an image-driven component and the picked image IS the component.
 
 ### Section 2: VALIDATION / RECAP BODY (6-Element ✓ recap with checkmarks)
 - ROLE slot: VALIDATION / RECAP (6-Element re-confirmation with ✓ checkmarks)
@@ -631,52 +652,10 @@ SYSTEM B (automatic):
   - Alt text: Toddler napping in watermelon-pink shorts, restorative farewell moment
   - Current usage: 4/25 (after this pick)
   - WHY: Restorative quiet moment for the recap — anchors the deepest airing of every ✓
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
-### Section 3: DESIRE BODY (3-layer refresher + mechanism chain recap)
-- ROLE slot: DESIRE (3-layer refresher)
-- INTENT: Pull-ups keep kids too dry. 3-layer mechanism reminder.
-- COMPONENT PICKED: EDU-4
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 2/8 (after this pick)
-  - WHY: EDU-4 step-cards (avoiding EDU-11 at cap) for the 3-layer refresher
-- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
-  - Alt text: Toddler in dinosaur-yellow training pants, sensory-aware living room farewell moment
-  - Current usage: 3/25 (after this pick)
-  - WHY: Sensory-aware living room moment = farewell comfort-zone visual
-
-### Section 4: SOCIAL PROOF — 2 quote cards + MINT-BORDERED STAT CALLOUT (92%/87%/97.6%/16,511)
-- ROLE slot: SOCIAL PROOF — 2 quote cards + mint stat callout
-- INTENT: "If I could just get him the signal…" + "He initiated once after 4 yrs" + 92% / 87% / 97.6% / 16,511 reviews / 4.9★
-- COMPONENT PICKED: SP-01
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 6/8 (after this pick)
-  - WHY: SP-01 quote-callouts (final cream-card testimonials in the Welcome sequence)
-- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
-  - Alt text: Bunny hearts pink training pant flat-lay product photo for stat callout anchor
-  - Current usage: 2/25 (after this pick)
-  - WHY: Bunny-hearts pink product visual anchors the stat callout
-
-### Section 5: GUARANTEE — trust-anchor-callout (warm cream card, warmest in sequence)
-- ROLE slot: GUARANTEE trust-anchor-callout (warm cream)
-- INTENT: 60 days. By your judgment. Full refund, no forms, no hoops.
-- COMPONENT PICKED: TRUST-2
-  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: TRUST-2 trust-anchor variant for the warm-cream guarantee frame
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 6: TEXT-LINK CTAs ONLY (Reply / FAQ / Science / 3+3 / 1-Pair) — no buttons competing
-- ROLE slot: TEXT-LINK CTAs (no buttons) — reply-to-email is the highest-trust CTA
-- INTENT: → Reply to this email → Visit the FAQ → Read the science library → 3+3 Bundle ($79.99) → 1 Pair ($34.99)
-- COMPONENT PICKED: SP-02
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 3/8 (after this pick)
-  - WHY: SP-02 placed in the CTA section as the reply-anchor testimonial lattice
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 7: SIGN-OFF — signoff-lena-long-deeper (E8 LONG VARIANT: "trust your read")
+### Section 3: SIGN-OFF — signoff-lena-long-deeper (E8 LONG VARIANT: "trust your read")
 - ROLE slot: SIGN-OFF LONG-DEEPER
 - INTENT: "Whatever you choose, thanks for reading this far. … Trust your read. With care, Lena"
 - COMPONENT PICKED: 12.2
@@ -685,11 +664,13 @@ SYSTEM B (automatic):
   - WHY: 12.2 Lena LONG-DEEPER signoff variant for E8
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
-- Total images in this email: 4/6
+- Total images in this email: 2/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: ['HERO-8', 'LETTER-03', 'EDU-4', 'SP-01', 'TRUST-2', 'SP-02', '12.2']
-- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'lifestyle/toddler-livingroom-dino-yellow.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg']
+- component-usage.json: ['HERO-8', 'LETTER-03', '12.2']
+- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png']

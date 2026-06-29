@@ -463,6 +463,8 @@ This creative strategy is written for **Level 2, Lisa**. Every visual element is
 │  "Here's what that word actually means for potty        │
 │   training…"                                            │
 │                                                          │
+│  WRAP: image-inside-component (HERO-3 Permission Open,   │
+│  picked image IS the component — founder Lena + toddler)│
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  VALIDATION BODY (3–4 sentences)                        │
@@ -471,60 +473,14 @@ This creative strategy is written for **Level 2, Lisa**. Every visual element is
 │  (Mahler as "interoception researcher,"                 │
 │   NOT "our partner" — strict L2 voice rule.)            │
 │                                                          │
+│  WRAP: image-standalone (17.7 Closing Letter text-only  │
+│  per catalog; toddler dino-yellow image renders         │
+│  between sections)                                      │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  [MINT-BORDERED STAT CALLOUT BOX — small, tight 16px    │
-│   around it, the L2 visual signature]                   │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ ★ 19% — Only 19% of autistic children can          │  │
-│  │   recognize when they're thirsty.                  │  │
-│  │   Source: Iqbal 2022                              │  │
-│  │   If thirst doesn't register, how can we expect   │  │
-│  │   bladder fullness to?                            │  │
-│  └────────────────────────────────────────────────────┘  │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  MECHANISM BODY (3–4 sentences)                         │
-│  "The Body-Signal Learning Layer creates a sustained,   │
-│   gentle 'uh-oh' sensation that lasts 30–60 seconds…"  │
-│  "Compliance isn't awareness. The protocol can't        │
-│   bridge the interoception gap. The Body-Signal         │
-│   Layer can."                                           │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  TESTIMONIAL — callout-quote-highlight (cream card)     │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "We've been doing scheduled sits for 2 years.     │  │
-│  │  He never goes on his own…"                       │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "I finally understood: he wasn't being difficult. │  │
-│  │  His body wasn't telling him. I caught him         │  │
-│  │  looking down after an accident…"                  │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (Cream #FBF7EB card; first warm usage in sequence)    │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  PRODUCT INTRO — 3-layer numbered breakdown             │
-│  (single column, no images, numbered badges only)      │
-│                                                          │
-│  ┌──┐ Layer 1, Signal Creation (cotton inner)           │
-│  │1 │ Gentle "uh-oh" sensation, 30–60 seconds          │
-│  └──┘                                                    │
-│  ┌──┐ Layer 2, Protection Without Blocking              │
-│  │2 │ (smart absorption — enough to protect, not        │
-│  └──┘ to wick the signal away)                          │
-│  ┌──┐ Layer 3, Leak Resistance Without Diaper-Mode      │
-│  │3 │ (outer barrier — breathable, feels like           │
-│  └──┘ underwear)                                        │
-│                                                          │
-│  (numbered badges in muted-green; blueprint feel;       │
-│   blueprint-style rewards L2's pattern-seeking eye)     │
+│  PRODUCT INTRO (compact 3-layer recap, folded into      │
+│  validation body)                                       │
+│  (No separate wireframe WRAP — see STAGE 2 row)        │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
@@ -552,6 +508,9 @@ This creative strategy is written for **Level 2, Lisa**. Every visual element is
 │  "When you're ready to try, the 3+3 Bundle is here.     │
 │   No deadline. No countdown. Your timeline, your call." │
 │                                                          │
+│  WRAP: image-required-component (BUG — TRUST-1 requires  │
+│  an image to render but STAGE 2 picked none; flag for   │
+│  revisit to either pick an image or swap to text-only)  │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SIGN-OFF — signoff-lena-medium (FIRST MEDIUM variant)  │
@@ -565,6 +524,8 @@ This creative strategy is written for **Level 2, Lisa**. Every visual element is
 │          "Reply to this email, Lena reads every         │
 │           response."                                    │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.2 Lena  │
+│  Signoff MEDIUM variant, ships from locked footer.html)│
 └──────────────────────────────────────────────────────────┘
 
 SYSTEM B (automatic):
@@ -601,6 +562,8 @@ SYSTEM B (automatic):
   - Alt text: Founder Lena holding BKC yellow-watermelon training pants, Lena MEDIUM peer-disclosure portrait
   - Current usage: 2/25 (after this pick)
   - WHY: Founder + toddler photo is E3 peer-disclosure visual signature (Lena introduces 2 sons explicitly)
+  - **WRAP: image-inside-component**
+  - WHY: HERO-3 is an image-driven component and the picked image IS the component.
 
 ### Section 2: VALIDATION BODY (Kelly Mahler "eighth sensory system" + BCBA named)
 - ROLE slot: VALIDATION BODY (Kelly Mahler + BCBA acknowledgment)
@@ -613,54 +576,10 @@ SYSTEM B (automatic):
   - Alt text: Toddler in dinosaur-yellow training pants, sensory-aware living room moment
   - Current usage: 0/25 (after this pick)
   - WHY: Real toddler moment for BCBA-named validation — the systems coexisting (BCBA protocol + body-signal layer)
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog; any image is decorative and sits between sections.
 
-### Section 3: MINT-BORDERED STAT CALLOUT BOX (Iqbal 19% thirst statistic)
-- ROLE slot: MINT-BORDERED 19% STAT CALLOUT BOX
-- INTENT: Iqbal 2022 — only 19% can recognize thirst. If thirst signal fails, bladder signal will too.
-- COMPONENT PICKED: EDU-11
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 2/8 (after this pick)
-  - WHY: EDU-11 science citation — L2 high-science-visibility. Sets up mechanism over pull-up reframe.
-- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
-  - Alt text: Potty targets sticker chart visual — sensory-aware reward visual; rewards L2 BCBA routine visibility
-  - Current usage: 0/25 (after this pick)
-  - WHY: Sticker chart anchors the BCBA-recognizable system; softens the science callout with tactile-friendly visual
-
-### Section 4: MECHANISM BODY + 3-layer numbered badge grid
-- ROLE slot: MECHANISM BODY (3-layer numbered breakdown)
-- INTENT: 3-layer system in numbered badges — L1 Signal, L2 Smart Abs, L3 Outer. Cross-section blueprint feel.
-- COMPONENT PICKED: EDU-4
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: EDU-4 mechanism-deep for the 3-layer numbered layout (L1/L2/L3 badges)
-- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
-  - Alt text: Watermelon pink training pant flat-lay product photo on neutral background
-  - Current usage: 0/25 (after this pick)
-  - WHY: Watermelon-pink product visual pairs with L1 numbered badge ("cotton inner = the signal")
-
-### Section 5: TESTIMONIAL — callout-quote-highlight (cream card, 2 L2 parents)
-- ROLE slot: SOCIAL PROOF — 2 callout-quote-highlights (cream card)
-- INTENT: "scheduled sits for 2 years; he never goes on his own" + "I caught him looking down"
-- COMPONENT PICKED: SP-02
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: SP-02 quote-callout for L2-fingerprinted testimonials. Cream card per wireframe.
-- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
-  - Alt text: Toddler napping in watermelon-pink shorts, quiet restorative moment anchors cream-card testimonial
-  - Current usage: 2/25 (after this pick)
-  - WHY: Cream-card testimonial anchor — L2 quiet moment strengthens the "I caught him looking down" narrative
-
-### Section 6: PRODUCT INTRO 3-layer numbered badge grid (compact re-mention)
-- ROLE slot: PRODUCT INTRO (3-layer numbered badges, recap)
-- INTENT: L1 Signal Creation / L2 Smart Absorption / L3 Leak Resistance — recap
-- COMPONENT PICKED: 6.2
-  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: 6.2 product_showcase (allowed to reuse). Compact re-mention of 3 layers
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 7: GUARANTEE trust-anchor-callout + PRIMARY CTA + SECONDARY link + PERMISSION
+### Section 3: GUARANTEE trust-anchor-callout + PRIMARY CTA + SECONDARY link + PERMISSION
 - ROLE slot: GUARANTEE + CTA + permission (combined, Pattern H minimalist)
 - INTENT: 60 days, your judgment. "Try it for 60 days" CTA. 1-pair secondary. 1-sentence permission.
 - COMPONENT PICKED: TRUST-1
@@ -669,8 +588,10 @@ SYSTEM B (automatic):
   - WHY: TRUST-1 trust+CTA+permission block. L2 6-element ⑤+⑥ anchored here.
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: image-required-component**
+  - WHY: TRUST-1 (60-Day Seal *(L6385)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
-### Section 8: SIGN-OFF — signoff-lena-medium (FIRST MEDIUM variant: "two autistic sons")
+### Section 4: SIGN-OFF — signoff-lena-medium (FIRST MEDIUM variant: "two autistic sons")
 - ROLE slot: SIGN-OFF MEDIUM
 - INTENT: "I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8."
 - COMPONENT PICKED: 12.2
@@ -679,11 +600,13 @@ SYSTEM B (automatic):
   - WHY: 12.2 Lena sign-off MEDIUM variant — first "two sons" disclosure
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: ['HERO-3', '17.7', 'EDU-11', 'EDU-4', 'SP-02', '6.2', 'TRUST-1', '12.2']
-- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-livingroom-dino-yellow.png', 'accessories/potty-targets-stickers-chart.png', 'flat-lay/training-pant-watermelon-pink.jpg', 'lifestyle/toddler-napping-watermelon-pink-shorts.png']
+- component-usage.json: ['HERO-3', '17.7', 'TRUST-1', '12.2']
+- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-livingroom-dino-yellow.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png']</new_string>

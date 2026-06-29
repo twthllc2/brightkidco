@@ -454,6 +454,7 @@ EXAMPLE_PICK: text-only paragraph; no decoration;
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (HERO-2 Data Shock, picked image IS the component — toddlers backview)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -491,6 +492,7 @@ EXAMPLE_PICK: continuous serif prose with one inline
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (EDU-10 How It Works deep, picked image IS the component — woodland training pant; also EDU-8 inline SVG diagram with same image)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -526,6 +528,7 @@ EXAMPLE_PICK: two stacked italic paragraphs with
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (SP-08 Stacked Mini-Reviews, picked image IS the component — wet-bags accessory)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -549,6 +552,7 @@ EXAMPLE_PICK: warm cream tint block, centered text,
               no border box, generous padding
 
 56px space above, 56px space below
+WRAP: image-inside-component (TRUST-1 60-Day Seal, picked image IS the component — towel set)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -576,6 +580,7 @@ NOTE:      price mentioned once above the CTA link,
            NOT bolded, NOT in a badge
 
 56px space above, 56px space below
+WRAP: component-text-only (CTA-11 Permission CTA, text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -722,75 +727,6 @@ END OF WIREFRAME — welcome-01-e7-l3
 
 **Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Section 1 — Hero neutral observation
-- ROLE slot: `prose-block-neutral-observation`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e7-l3
-- COMPONENT PICKED: `HERO-2`
-  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Data Shock — neutral, text_only; 'He doesn't realize he needs to go. He doesn't realize he's gone.'
-- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
-  - Alt text: reflective/dignity — backview children, neutral observation opening
-  - Current usage: 4/25 (in image-usage.json)
-  - WHY: backview children, neutral observation opening
-
-### Section 2 — Mechanism deep 49-study + diagram
-- ROLE slot: `deep-mechanism-prose-with-inline-diagram`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e7-l3
-- COMPONENT PICKED: `EDU-10`
-  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: How It Works (reused cap) — 3-layer deep with 49-study citation (Barmpagiannis & Baldimtsi, 2025)
-- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
-  - Alt text: earth-toned textile supporting interoception diagram
-  - Current usage: 5/25 (in image-usage.json)
-  - WHY: earth-toned textile supporting interoception diagram
-
-### Section 2 — Interoception SVG diagram
-- ROLE slot: `deep-mechanism-prose-with-inline-diagram`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e7-l3
-- COMPONENT PICKED: `EDU-8`
-  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Mechanism Diagram (reused cap) — inline SVG interoception diagram; warm charcoal linework on cream
-- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
-  - Alt text: earth-toned textile supporting interoception diagram
-  - Current usage: 5/25 (in image-usage.json)
-  - WHY: earth-toned textile supporting interoception diagram
-
-### Section 3 — Mini-win testimonials dual
-- ROLE slot: `mini-win-testimonials-stacked`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e7-l3
-- COMPONENT PICKED: `SP-08`
-  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Stacked Mini-Reviews (reused cap) — two italic parent quotes with 1px muted warm-sand hairlines
-- IMAGE PICKED: `accessories/wet-bags-space-zebra-llama.png`
-  - Alt text: muted textile near mini-win testimonials
-  - Current usage: 3/25 (in image-usage.json)
-  - WHY: muted textile near mini-win testimonials
-
-### Section 4 — Guarantee 60 days reinforcement
-- ROLE slot: `guarantee-paragraph-soft-bg-warm`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e7-l3
-- COMPONENT PICKED: `TRUST-1`
-  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: 60-Day Seal (reused cap) — single-element trust marker; 'Sixty days to see if it shifts anything.'
-- IMAGE PICKED: `accessories/towel-set-llama-cactus.png`
-  - Alt text: muted clay for 60-day reinforcement
-  - Current usage: 6/25 (in image-usage.json)
-  - WHY: muted clay for 60-day reinforcement
-
-### Section 5 — CTA no rush
-- ROLE slot: `cta-text-link-no-rush`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e7-l3
-- COMPONENT PICKED: `CTA-11`
-  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 4/8 (in component-usage.json)
-  - WHY: Permission CTA (reused cap) — 'One Pair, See If It Shifts Anything →'; 'When you're ready, it's here.'
-- IMAGE PICKED: none (text-only — see other sections for imagery)
-
 ### Signoff — Lena long E7
 - ROLE slot: `signoff-lena-long`
 - INTENT: from wireframe — fitting the L3 section structure for welcome-01-e7-l3
@@ -802,6 +738,8 @@ END OF WIREFRAME — welcome-01-e7-l3
   - Alt text: reflective/dignity — practical wash-cycle context near Lena sign-off
   - Current usage: 1/25 (in image-usage.json)
   - WHY: practical wash-cycle context near Lena sign-off
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-04 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6

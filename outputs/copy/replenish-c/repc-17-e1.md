@@ -663,6 +663,8 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
   - Alt text: A cream llama-print laundry bag laid on a neutral home surface, warm.
   - Current usage: 3/25
   - WHY: Cream llama-bag = long-haul homey wear context; warm ties to amber milestone-dot palette downstream.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-15 is an image-driven component and the picked image IS the component.
 
 ### Section 2: SECTION 1 - UNIVERSAL RECOGNITION OPENER (R1, R3, R4)
 - ROLE slot: universal-opener-cream-band (whether/if pattern)
@@ -671,6 +673,9 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
   - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=warm
   - Current usage: 0/8
   - WHY: "Break Permission" frames "your 5+5 has been through a lot" as well-earned break permission (long-haul recognition vs. urgency to re-buy).
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 3: SECTION 2 - RECOGNITION ANCHORS, R2 (5 anchors with R5)
 - ROLE slot: anchor-list-cream-band-5-bullets
@@ -683,6 +688,8 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
   - Alt text: A toddler from behind in mustard-cat-print clothing in soft home light, candid Pre-K moment.
   - Current usage: 5/25
   - WHY: Rear-view Pre-K visual anchors the "pull at pants / look down" anchor tone; mustard tones tie to amber CTA palette.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-3 is an image-driven component and the picked image IS the component.
 
 ### Section 4: SECTION 3 - WHAT CHANGES AT 5 MONTHS (journal-entry / mechanism)
 - ROLE slot: mechanism-journal-entry-band (physics + neurology explainer)
@@ -695,6 +702,8 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
   - Alt text: A white cloud-and-raindrop training pant laid flat in soft light, calm and quiet.
   - Current usage: 3/25
   - WHY: Cloud-rain motif echoes the cotton-inner-layer being weathered and relaxed; calm tone fits journal-entry vibe.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-8 is an image-driven component and the picked image IS the component.
 
 ### Section 5: SECTION 5 - THREE-FAMILY TESTIMONIAL PATTERN (R6 with 3 muted bg colors)
 - ROLE slot: testimonial-stack-three-cards-muted-pink-sage-lavender
@@ -707,6 +716,8 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
   - Alt text: A toddler napping peacefully in pink watermelon-print shorts, calm and homey.
   - Current usage: 9/25
   - WHY: Calm-nap Pre-K visual echoes the "150 days = real time invested" milestone anchor; soft pink fits the E8DED2 pinkish-beige card spec.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 - IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
   - Alt text: Two toddlers from behind in disposable diapers on a soft home floor, candid.
   - Current usage: 3/25
@@ -719,6 +730,9 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
   - Catalog entry: position=cta, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 0/8
   - WHY: "Next Teaser" CTA fits a future-looking milestone anchor (5+5 = "next chapter" refresh) rather than a "buy now" hard sell; warm neutral tone.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: LENA SIGN-OFF (SHORT variant, E1 of Flow 17)
 - ROLE slot: signoff-lena-short-cream-divider (Talk soon + P.S.)
@@ -727,6 +741,9 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
   - Catalog entry: position=signoff_footer, audience=GF, temp=warm (Giuliano source)
   - Current usage: 4/8
   - WHY: Canonical cream-card signoff carries consistent peer-voice for the SHORT variant across all replen flows.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6 (target range 4-6).

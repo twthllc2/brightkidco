@@ -447,6 +447,9 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │   mechanism preventing progress."                       │
 │  "Let me explain why."                                  │
 │                                                          │
+│  WRAP: image-required-component (BUG — HERO-6 requires  │
+│  an image to render but STAGE 2 picked none; flag for   │
+│  revisit to either pick an image or swap to text-only)  │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  VALIDATION BODY (5–6 sentences; L2 symptom recognition)│
@@ -459,6 +462,8 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │   to go. Pull-ups were designed for neurotypical kids   │
 │   who can already feel the signal."                    │
 │                                                          │
+│  WRAP: image-inside-component (STORY-09 Reframe,        │
+│  picked image IS the component — potty ladder)         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  [HERO IMAGE-LIFESTYLE #1 — full-width single column,   │
@@ -468,6 +473,8 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  wall). Soft light, no face close-ups. alt-text:        │
 │  "calm/sensory-aware."                                  │
 │                                                          │
+│  WRAP: image-inside-component (EDU-11 mechanism-cite,   │
+│  picked image IS the component — toddler playing train)│
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  MECHANISM BODY (Pull-Up Reframe, L2 deep; 5–6 sent.)   │
@@ -482,6 +489,9 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │   Pull-ups don't give those sluggish milliseconds      │
 │   a fighting chance."                                   │
 │                                                          │
+│  WRAP: image-required-component (BUG — EDU-2 requires  │
+│  an image to render but STAGE 2 picked none; flag for   │
+│  revisit to either pick an image or swap to text-only)  │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  [HERO IMAGE-LIFESTYLE #2 — full-width single column]   │
@@ -490,6 +500,9 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  shoulder during a sensory moment"). Soft light,        │
 │  no face close-ups. alt-text: "calm/sensory-aware."     │
 │                                                          │
+│  WRAP: image-inside-component (SP-02 quote-callout      │
+│  with image, picked image IS the component — pink        │
+│  potty ladder)                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SOCIAL PROOF — TESTIMONIAL #1 (cream card, full-width)  │
@@ -504,8 +517,6 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  └────────────────────────────────────────────────────┘  │
 │  (cream #FBF7EB card; mint left accent border)         │
 │                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
 │  SOCIAL PROOF — TESTIMONIAL #2 (cream card, full-width)  │
 │  ┌────────────────────────────────────────────────────┐  │
 │  │ [L2 KID PHOTO #2 — full-width inside cream card]   │  │
@@ -514,8 +525,6 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  │  pee the second he stands up."                    │  │
 │  │  — L2 parent, describing the timing gap           │  │
 │  └────────────────────────────────────────────────────┘  │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SOCIAL PROOF — TESTIMONIAL #3 (cream card, full-width)  │
 │  ┌────────────────────────────────────────────────────┐  │
@@ -531,6 +540,8 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  │  — L2 parent, describing the first mini-win       │  │
 │  └────────────────────────────────────────────────────┘  │
 │                                                          │
+│  WRAP: image-inside-component (SP-01 quote-callouts     │
+│  ×3, picked image IS the component — toddler backpack)  │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  PRODUCT INTRO — 3-Layer Body-Signal Learning System    │
@@ -551,6 +562,8 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  "This isn't pull-ups with a different logo.            │
 │   It's a fundamentally different mechanism."            │
 │                                                          │
+│  WRAP: image-inside-component (6.2 product_showcase,    │
+│  picked image IS the component — red fox training pant) │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  GUARANTEE — trust-anchor-callout (warm beige;          │
@@ -566,6 +579,8 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  │ not a statistic.                                  │  │
 │  └────────────────────────────────────────────────────┘  │
 │                                                          │
+│  WRAP: image-inside-component (part of consolidated 6.2 │
+│  product_showcase, guarantee frame)                     │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  [PRIMARY CTA — cta-button-soft (muted-green)]          │
@@ -582,7 +597,9 @@ Also: The "60-day guarantee" badge has a tiny footnote asterisk that links to, w
 │  "I have two autistic sons. One's 6, still in the       │
 │   middle of it. The other took us until he was          │
 │   almost 8."                                            │
-│  "I know what it's like to watch your child sit in a    │
+│                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.2 Lena  │
+│  Signoff LONG variant, ships from locked footer.html)  │
 │   pull-up, perfectly dry, and realize that dryness      │
 │   isn't progress, it's the problem."                   │
 │  "When you're ready, it's here."                       │
@@ -619,86 +636,6 @@ SYSTEM B (automatic):
 
 *L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
-### Section 1: HERO HEADER + HEADLINE BODY ("Pull-ups keep kids completely dry. That's the problem.")
-- ROLE slot: HERO HEADER + Headline body (pull-up harm teaser)
-- INTENT: "The very technology you're paying a premium for is the mechanism preventing progress."
-- COMPONENT PICKED: HERO-6
-  - Catalog entry: position=hero, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: HERO-6 (Identity Statement) — UNIQUE E6 hero. Identity Statement fits the bold-mechanism declaration
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 2: VALIDATION BODY ("Pediatrician said it. ABA consultant said it. Facebook groups…")
-- ROLE slot: VALIDATION BODY (L2 symptom recognition)
-- INTENT: Naming where pull-up advice came from — pediatrician + ABA + FB groups
-- COMPONENT PICKED: STORY-09
-  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
-  - Current usage: 1/8 (after this pick)
-  - WHY: STORY-09 reframe component — pattern-recognizing the source of advice fits pull-up reframe
-- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
-  - Alt text: Toddler on yellow-woodland potty ladder, pull-up-doffing moment visual
-  - Current usage: 0/25 (after this pick)
-  - WHY: Yellow-woodland potty ladder visual = first kid photo for testimonial alignment
-
-### Section 3: HERO IMAGE-LIFESTYLE #1 (sensory-aware bathroom, foot stool, visual schedule)
-- ROLE slot: HERO IMAGE-LIFESTYLE #1 (sensory-aware bathroom)
-- INTENT: Real kid 5–7, foot stool + weighted lap pad + visual schedule on wall
-- COMPONENT PICKED: EDU-11
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 5/8 (after this pick)
-  - WHY: EDU-11 mechanism-cite — used as the placement substrate for hero image caption
-- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
-  - Alt text: Toddler playing with wooden train in moon-cloud-blue training pants, focused-play visual
-  - Current usage: 3/25 (after this pick)
-  - WHY: Focused-play visual = body-signal pause moment (kid stops mid-play, looks down)
-
-### Section 4: MECHANISM BODY (pull-up harm: "too dry to learn")
-- ROLE slot: MECHANISM BODY (Pull-up reframe, L2 deep)
-- INTENT: "Pull-ups pull the sensation away before the brain can register it. They keep kids too dry to learn."
-- COMPONENT PICKED: EDU-2
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 3/8 (after this pick)
-  - WHY: EDU-2 mechanism step-cards — supports "too dry to learn" sequence
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 5: HERO IMAGE-LIFESTYLE #2 (mom hand on shoulder, sensory moment)
-- ROLE slot: HERO IMAGE-LIFESTYLE #2 (micro-moment photo)
-- INTENT: Real mom + real kid, pull-up-doffing moment at home
-- COMPONENT PICKED: SP-02
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 1/8 (after this pick)
-  - WHY: SP-02 quote-callout for image-bearing testimonial alignment
-- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
-  - Alt text: Toddler on pink-multicolor potty ladder, micro-moment photo
-  - Current usage: 2/25 (after this pick)
-  - WHY: Pull-up-doffing micro-moment = the harm visual (over-dry problem)
-
-### Section 6: SOCIAL PROOF — TESTIMONIAL #1 + #2 + #3 (cream cards, kid photo each)
-- ROLE slot: SOCIAL PROOF — 3 testimonials (cream card per testimonial)
-- INTENT: "45 min on toilet then pee on standing up" + "He initiated once after 4 years" + "If I could just get him the signal"
-- COMPONENT PICKED: SP-01
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 4/8 (after this pick)
-  - WHY: SP-01 quote-callouts — 3 testimonials stacked. Cap at 8 still well under.
-- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
-  - Alt text: Toddler with backpack in moon-cloud-blue training pants, outing testimonial moment
-  - Current usage: 3/25 (after this pick)
-  - WHY: Outing-moment visual anchors testimonial #3 (the "I know the rest would follow" narrative)
-
-### Section 7: PRODUCT INTRO — 3-layer comparison table + GUARANTEE + PRIMARY CTA + SECONDARY
-- ROLE slot: PRODUCT INTRO (3-layer comparison table) + GUARANTEE + CTA + secondary
-- INTENT: Layer table + 92% "works for families who try it" guarantee + "Try the 3+3 Bundle, $79.99" + "Start with 1 Pair ($34.99)"
-- COMPONENT PICKED: 6.2
-  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
-  - Current usage: 1/8 (after this pick)
-  - WHY: 6.2 product_showcase (reuse allowed). Comparison-table layout for 3 layers.
-- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
-  - Alt text: Red fox training pant flat-lay product photo on neutral background
-  - Current usage: 1/25 (after this pick)
-  - WHY: Red-fox product visual = L2 Signal/Smart Abs/Outer showcase row anchor
-
 ### Section 8: SIGN-OFF — signoff-lena-long (FIRST FULL LONG VARIANT)
 - ROLE slot: SIGN-OFF LONG (E6 long variant)
 - INTENT: "I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8."
@@ -708,6 +645,8 @@ SYSTEM B (automatic):
   - WHY: 12.2 Lena LONG sign-off (E6 first full long variant)
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6

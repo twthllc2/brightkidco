@@ -597,6 +597,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e1-l3, level=l3, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: IMG-08 (UGC Hero *(L18310)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Section 1: OBSERVATION — 60 Days Later, Neutral
 - ROLE slot: opening-prose-block-centered-warm-cream
@@ -609,6 +612,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 1 visual — calibrated per level (l3)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — You Protected Yourself
 - ROLE slot: validation-prose-warm-clay-italic
@@ -621,6 +626,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 2 visual — calibrated per level (l3)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: EJ4 (Realistic Timeline *(L3467)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: GENTLE MECHANISM REFRESHER + SETTLED SCIENCE
 - ROLE slot: mechanism-warm-sand-callout-with-settled-science
@@ -633,6 +640,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 3 visual — calibrated per level (l3)
   - Current usage: 17/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: PERMISSION CTA — 1 Pair, $34.99, Add Alongside
 - ROLE slot: permission-cta-warm-clay-text-link-no-button
@@ -645,6 +654,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 4 visual — calibrated per level (l3)
   - Current usage: 17/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 5: LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-medium-with-trust-your-read-ps
@@ -657,6 +668,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 5 visual — calibrated per level (l3)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 5/6

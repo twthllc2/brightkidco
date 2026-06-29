@@ -782,6 +782,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e2-l1, level=l1, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FS3 (Post-Purchase Welcome *(L3536)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — DIRECT ADDRESS + WEEK-4 TIME MARKER
 - ROLE slot: prose-block-with-direct-address-and-validation
@@ -794,6 +797,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 1 visual — calibrated per level (l1)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-08 (Origin Story — Brand founding narrative *(L4525)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: REFRAME — "WHAT PROGRESS LOOKS LIKE AT WEEK 4"
 - ROLE slot: bullet-list-stacked-vertical-week-4-micro-signs
@@ -806,6 +811,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 2 visual — calibrated per level (l1)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-10 (Stacked Story — Vertical card stack narrative *(L4) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: MECHANISM + WHY DOCUMENTATION MATTERS
 - ROLE slot: mechanism-paragraph-stack-with-tracking-rationale
@@ -818,6 +825,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 3 visual — calibrated per level (l1)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDU-8 is an image-driven component and the picked image IS the component.
 
 ### Section 4: WEEK 4 TRACKING CHECKLIST (TACTICAL DELIVERABLE)
 - ROLE slot: tracking-table-stacked-vertical-not-side-by-side
@@ -830,6 +839,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 4 visual — calibrated per level (l1)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-11 (Contrast Cards — Side-by-side "What they said vs. ) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: WHAT'S NORMAL AT WEEK 4 (PLATEAU NORMALIZATION)
 - ROLE slot: validation-paragraph-stack-with-plateau-reframe
@@ -842,6 +853,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 5 visual — calibrated per level (l1)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-12 (Milestone Tracker — Visual progress tracker *(L465) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: PRE-K CONNECTION (LEVER L1-A REINFORCED)
 - ROLE slot: pre-k-anchor-paragraph-with-nicholson-2019-cite
@@ -850,6 +863,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: STORY-14 (Micro-Story — Single powerful moment *(L4715)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 7: FORWARD LOOK + SOCIAL-CONTEXT ANSWER
 - ROLE slot: forward-look-paragraph-with-parent-quote
@@ -858,6 +874,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Image count check
 - Total images in this email: 5/6

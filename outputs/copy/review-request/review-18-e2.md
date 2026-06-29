@@ -613,6 +613,8 @@ BrightKidCo · Built for the brain that learns differently.
   - Alt text: Two BrightKidCo founders holding a stack of yellow-and-watermelon potty training pants, candid and warm.
   - Current usage: 5/25
   - WHY: Founders-holding-pants visual = Lena/brand trust at the second-ask opener; softens the "asking again" framing by signaling "we're the people behind this"; warm tone.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 22.3 (Circle Crop Hero *(L2070)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: OPENING - VALIDATION HOOK + UNIVERSAL RECOGNITION
 - ROLE slot: opening-personal-greeting-validation-band (Hey [first_name], + grace-line)
@@ -625,6 +627,8 @@ BrightKidCo · Built for the brain that learns differently.
   - Alt text: A toddler playing on a living room floor with a wooden train, soft natural light, candid.
   - Current usage: 8/25
   - WHY: Quiet Pre-K play visual echoes "life with a kid who doesn't feel when they need to go doesn't leave a lot of spare minutes" - this is THEIR moment, gently anchored.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: RECOGNITION ANCHORS, R2 (5 anchors)
 - ROLE slot: anchor-list-band-5-bullets (2am-search narrative + 5 mom-relatable anchors)
@@ -637,6 +641,8 @@ BrightKidCo · Built for the brain that learns differently.
   - Alt text: A toddler on a pink-multicolor potty ladder, soft home light, candid Pre-K moment.
   - Current usage: 3/25
   - WHY: Potty-ladder visual references "sits on the toilet for 20 minutes and nothing happens" anchor without implying failure; warm pink ties to rust CTA.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-3 is an image-driven component and the picked image IS the component.
 
 ### Section 4: THREE-FAMILY TESTIMONIAL TRIPTYCH (3 stacked cards with colored left borders)
 - ROLE slot: testimonial-triptych-stacked-cards-colored-borders (L1 amber / L2 teal / L3 sage)
@@ -649,6 +655,8 @@ BrightKidCo · Built for the brain that learns differently.
   - Alt text: A young child in dinosaur-print underpants on a soft living room floor, soft natural light.
   - Current usage: 8/25
   - WHY: Home dinosaur visual anchors the testimonial triptych as "the kids behind these stories"; warm ties to amber L1 border accent.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: GENTLE ASK + PRIMARY CTA (rust/terracotta #C4764A)
 - ROLE slot: gentle-ask-band + rust-primary-cta-button + permission-not-to-review-soft-out
@@ -661,6 +669,8 @@ BrightKidCo · Built for the brain that learns differently.
   - Alt text: BrightKidCo sticker chart and potty-target accessories on a neutral surface.
   - Current usage: 4/25
   - WHY: Sticker chart visual echoes the "2-minute review" frame-setting without implying unmet targets; warm neutral surface ties to rust CTA.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 6: PERMISSION NOT TO REVIEW (Soft Out)
 - ROLE slot: permission-not-to-review-soft-out-line + soft-CTA-line
@@ -669,6 +679,9 @@ BrightKidCo · Built for the brain that learns differently.
   - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=warm
   - Current usage: 1/8
   - WHY: "Hope Gradient" applies a gentle emotional gradient for the final "whether you leave one or not, I'm glad you gave us a try" close.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 7: LENA SIGN-OFF (SHORT variant, E2 of Flow 18 - peer-to-peer/grateful)
 - ROLE slot: signoff-lena-short-cream-divider (Thanks for being here. + reply delivery signal.)
@@ -677,6 +690,9 @@ BrightKidCo · Built for the brain that learns differently.
   - Catalog entry: position=signoff_footer, audience=GF, temp=warm (Giuliano source)
   - Current usage: 6/8 (cap-safe, 2 left)
   - WHY: Canonical cream-card signoff carries the same peer-tone voice as review-18-e1 for flow consistency.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6 (target range 4-6). 1 hero + 2 hook/reco + 1 testimonial + 1 ask.

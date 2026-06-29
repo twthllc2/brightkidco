@@ -510,6 +510,7 @@ EXAMPLE_PICK: lifestyle image with Pre-K anchor — calendar,
               hopeful but not saccharine
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-6 Identity Statement, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -533,38 +534,12 @@ NOTE: This is THE L1 signal quote. Visually weighted heavier
       validation as the emotional pivot, not the proof block.
 
 NO CTA in this section
+WRAP: image-inside-component (SP-01 Yellow Quote Block, image anchored inside callout)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 3: SOCIAL PROOF — TESTIMONIAL ROW]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Other L1 parents, in their own words:
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: stacked-testimonial-stack
-INTENT: hosts three short L1 testimonials stacked vertically
-        and separated by hairline rules — reframe quote
-        ("I had no idea pull-ups were part of the problem"),
-        mechanism-working quote ("he paused. Then he looked
-        down. Then he walked to the potty"), and the
-        single-win quote ("He went today! Once! But he went!")
-EXAMPLE_PICK: three stacked testimonial cards, cream/off-white
-              background, hairline 1px rule between them,
-              italic serif text, name/attribution in muted
-              warm grey below each
-NOTE: The arc matters — reframe → mechanism working → single
-      win. Reader scans top→bottom, the story builds. Three
-      quotes is the L1-specific calibration (vs L2's 2-3 or
-      L3's zero/one dignified reference).
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 4: MECHANISM + SCIENCE — PULL-UP SIGNAL GAP + 49% STAT]
+[SECTION 3: MECHANISM + SCIENCE — PULL-UP SIGNAL GAP + 49% STAT] (testimonial stack folded into anchor quote)
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Why pull-ups prevent progress.
 SUBHEADLINE: The wetness signal is the only feedback the brain
@@ -601,6 +576,7 @@ NOTE: Two visual elements stacked within one section per
       callout, Section 4 = stat callout).
 
 NO CTA in this section
+WRAP: image-standalone (BM-08 Pull-Up Signal Reframe + 49% Stat, fallback image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -631,35 +607,12 @@ SECONDARY: text link "Or start with 1 pair for $34.99" (small,
             muted) — honors L1's lower-commitment option for
             Pre-K curiosity
 
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 6: GUARANTEE + RISK REVERSAL]
-─────────────────────────────────────────────────────────────────
-HEADLINE: 60 days. Your judgment.
-SUBHEADLINE: If nothing changes, full refund. No questions.
-
-[VISUAL ELEMENT]
-ROLE: guarantee-badge-callout
-INTENT: the standalone guarantee block, gives skeptical L1
-        the permission structure after the pull-up reframe
-        and the 49% stat have done their work — addresses
-        "I've been burned before"
-EXAMPLE_PICK: outlined typographic badge or soft sage
-              background panel, "60" prominent, three trust
-              signal icons below (truck = free shipping,
-              calendar = 60-day returns, lock = secure
-              checkout), generous internal padding
-NOTE: Standalone before Lena sign-off. Different visual
-      family from Section 4's mint stat callout — sage
-      guarantee band vs mint stat — for variance.
-
-NO CTA in this section
+WRAP: image-inside-component (PS-06 Product Pricing + CTA 3+3 Bundle, picked image is the component; also CTA-10 Countdown Honest text-only)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SIGNOFF — LENA MEDIUM-TO-LONG TRANSITION]
+[SECTION 4: SIGNOFF — LENA MEDIUM-TO-LONG TRANSITION]
 ─────────────────────────────────────────────────────────────────
 Background: Off-White #FAF9F7 (subtle separation)
 Body 17px: "No matter where you are in this, you're closer
@@ -833,6 +786,8 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Toddler playing with a wooden train on the living room floor, soft natural light.
   - Current usage: 1/25
   - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-6 is an image-driven component and the picked image IS the component.
 
 ### Section 2: anchor-quote-callout
 - ROLE slot: anchor-quote-callout
@@ -845,20 +800,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Toddler on a pink potty-training ladder with multicolor accents, real Pre-K action.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
-### Section 3: stacked-testimonial-stack
-- ROLE slot: stacked-testimonial-stack
-- INTENT: three short L1 testimonials stacked vertically
-- COMPONENT PICKED: M3 (Testimonial Card (Mobile))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Testimonial Card (Mobile) (M3) reused from E2; mobile-first stacked testimonial pattern.
-- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
-  - Alt text: Two toddlers from behind in disposable diapers in a real living room.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 4: mechanism-stat-49-revisit
+### Section 3: mechanism-stat-49-revisit
 - ROLE slot: mechanism-stat-49-revisit
 - INTENT: consolidates pull-up signal reframe + 49% stat reappearance into one stat block
 - COMPONENT PICKED: BM-08 (Pull-Up Signal Reframe + 49% Stat)
@@ -869,8 +814,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Unicorn-pink swim diaper flat-lay, signaling the pull-up category reframe.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Fallback: BM-08 is not in catalog; image renders between sections.
 
-### Section 5: product-pricing-cta
+### Section 4: product-pricing-cta
 - ROLE slot: product-pricing-cta
 - INTENT: consolidates 3+3 bundle pricing + primary CTA into one product-showcase block
 - COMPONENT PICKED: PS-06 (Product Pricing + CTA (3+3 Bundle))
@@ -881,29 +828,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Cream-llama laundry bag flat-lay, the 'system' visual for Pre-K readiness.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: PS-06 is an image-driven component and the picked image IS the component.
 
-### Section 6: cta-button-pre-k-honest
-- ROLE slot: cta-button-pre-k-honest
-- INTENT: drives to PDP, Pre-K calendar honest urgency
-- COMPONENT PICKED: CTA-10 (Countdown Honest)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Countdown-honest CTA for E6's Pre-K-bridge frame, calendar-driven not manufactured urgency.
-- IMAGE PICKED: none (text-only section)
-
-### Section 7: guarantee-badge-callout-late
-- ROLE slot: guarantee-badge-callout-late
-- INTENT: standalone guarantee block, gives skeptical L1 reader pause
-- COMPONENT PICKED: GT-05 (Guarantee Badge Callout)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Guarantee-badge callout (GT-05) reused from E5; late-sequence trust reinforcement.
-- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
-  - Alt text: Wet-bag accessory with space/zebra/llama prints, tactile trust.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 8: signoff-lena-short
+### Section 4: SIGN-OFF — signoff-lena-short
 - ROLE slot: signoff-lena-short
 - INTENT: Lena SHORT variant; 'With care,' closing (E6 transition)
 - COMPONENT PICKED: 12.1 (Lena Signoff)
@@ -911,13 +839,15 @@ Stage 2 also applies System B colors automatically:
   - Current usage: 1/8
   - WHY: Lena signoff transitions to 'With care,' closing at E6 (D14, late sequence).
 - IMAGE PICKED: none (text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6 (target range 4-6).
 - Status: PASS
-- Total components: 8/8. Status: PASS
+- Total components: 4/8. Status: PASS</new_string>
 
 ### Tracker updates
-- component-usage.json: incremented [HERO-6] + 7 body components
-- image-usage.json: incremented hero, 5 body images
+- component-usage.json: incremented [HERO-6] + 3 body components
+- image-usage.json: incremented hero, 2 body images
 

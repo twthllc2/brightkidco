@@ -451,6 +451,8 @@ This the only place in the email where true L2-level clinical framing sits: the 
 │   9 AM to 6 PM…"                                        │
 │  "That isn't starting over."                            │
 │                                                          │
+│  WRAP: image-inside-component (HERO-4 Story Fragment,   │
+│  picked image IS the component — potty ladder)         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  VALIDATION BODY (5–6 sentences)                        │
@@ -462,15 +464,8 @@ This the only place in the email where true L2-level clinical framing sits: the 
 │   You haven't failed. Every protocol you've run         │
 │   addressed behavior and compliance…"                   │
 │                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [HERO MICRO-MOMENT IMAGE — full-width single column,   │
-│   text above, image below, NEVER side-by-side]          │
-│  hero-image-lifestyle: real mom + real kid, 5–7,        │
-│  in sensory-aware moment (e.g., "Mom's hand on his      │
-│  shoulder during a sensory moment"). Soft light,        │
-│  no face close-ups. alt-text: "calm/sensory-aware."     │
-│                                                          │
+│  WRAP: component-text-only (23.2 Drop Cap Initial Letter │
+│  text-only per catalog)                                 │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  MECHANISM BODY (5–6 sentences; loop explained)        │
@@ -480,75 +475,22 @@ This the only place in the email where true L2-level clinical framing sits: the 
 │  "This is a childhood phenomenon — adults with ASD      │
 │   show compensation."                                   │
 │                                                          │
+│  WRAP: image-inside-component (EDU-2 mechanism step    │
+│  cards, picked image IS the component — toddler         │
+│  backpack visual)                                       │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  [MINT-BORDERED BCBA-RESPECT CALLOUT — tight 16px       │
-│   around it; the L2 visual signature applied to         │
-│   the BCBA unlock sentence]                             │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "Your BCBA has been doing the hard work for       │  │
-│  │  years. Body-signal learning is the missing layer  │  │
-│  │  their protocol can't address."                    │  │
-│  │                                                    │  │
-│  │  — L2 unlock sentence (in its deepest airing yet)  │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (mint #DBFFCD border; this is the gravitational       │
-│   center of the L2 sequence)                            │
+│  PRODUCT INTRO BODY + GUARANTEE + DOUBLE-TAP CTA + SECONDARY │
+│  (Consolidated 6.1 product_showcase)                    │
+│  3-layer recap logic chain:                              │
+│   1. Child pees → 2. Feels gentle signal →             │
+│   3. Brain connects → 4. Awareness builds BEFORE event│
+│  60-day guarantee (4-8 weeks typical; some longer)     │
+│  [DOUBLE-TAP CTA: Show your BCBA / Read the science]   │
+│  Secondary text link: "Explore the 3+3 Bundle, $79.99" │
 │                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  SOCIAL PROOF — callout-quote-highlight (single column, │
-│  cream card; multiple quotes, each with attribution)    │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "He initiated. Once. After 4 years."              │  │
-│  │ "A pause. A look down. A step toward the           │  │
-│  │  bathroom. After."                                 │  │
-│  │  — L2 parent, 5 weeks in                           │  │
-│  └────────────────────────────────────────────────────┘  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "He can go to the bathroom with on-the-dot        │  │
-│  │  prompting every hour but he does not care if     │  │
-│  │  he goes on himself."                              │  │
-│  │  — L2 parent (prompt-dependency quote)            │  │
-│  └────────────────────────────────────────────────────┘  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "BCBA protocol got us to 'sit on the toilet        │  │
-│  │  without melting down.' That's it. No actual       │  │
-│  │  training."                                        │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  PRODUCT INTRO BODY (3-layer recap; logic chain at end) │
-│  1. Child pees →                                        │
-│  2. Feels gentle signal →                               │
-│  3. Brain connects "I peed → I feel it → I should       │
-│     use the potty" →                                    │
-│  4. Over time: awareness builds BEFORE the event.       │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  GUARANTEE — trust-anchor-callout (mint callout;        │
-│  realistic timelines stated)                            │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ Realistic expectations for L2: 4–8 weeks for the   │  │
-│  │ first consistent signals. Some kids take longer.   │  │
-│  │ Both are normal.                                   │  │
-│  │ The 60-Day Guarantee covers the full learning     │  │
-│  │ window. By your judgment.                          │  │
-│  └────────────────────────────────────────────────────┘  │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [DOUBLE-TAP CTA — two cta-button-soft in stacked row]  │
-│  [ Show your BCBA ]                                      │
-│  [ Read the body-signal science ]                        │
-│  (both muted-green, NOT full-width, 48px min height)    │
-│                                                          │
-│  SECONDARY TEXT LINK                                    │
-│  "Explore the 3+3 Bundle, $79.99"                       │
-│                                                          │
+│  WRAP: image-inside-component (6.1 product_showcase,    │
+│  consolidated product+guarantee+double-tap CTA)         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SIGN-OFF — signoff-lena-medium                         │
@@ -561,6 +503,8 @@ This the only place in the email where true L2-level clinical framing sits: the 
 │          "Reply to this email, Lena reads every         │
 │           response."                                    │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.2 Lena  │
+│  Signoff MEDIUM variant, ships from locked footer.html)│
 └──────────────────────────────────────────────────────────┘
 
 SYSTEM B (automatic):
@@ -598,30 +542,10 @@ SYSTEM B (automatic):
   - Alt text: Toddler on pink-multicolor potty ladder, regression-cycle visual moment
   - Current usage: 1/25 (after this pick)
   - WHY: Potty ladder = regression-cycle visual: sits, climbs, looks down, walks away
+  - **WRAP: image-inside-component**
+  - WHY: HERO-4 is an image-driven component and the picked image IS the component.
 
-### Section 2: VALIDATION BODY ("regression isn't failure" + BCBA-respect deepest airing)
-- ROLE slot: VALIDATION BODY (regression refame + full BCBA respect)
-- INTENT: Neural pathways still there + "Your BCBA hasn't failed"
-- COMPONENT PICKED: 23.2
-  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: 23.2 recognition component for "regression is recalibration" + BCBA respect frame
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 3: HERO MICRO-MOMENT IMAGE (mom hand on shoulder during sensory moment)
-- ROLE slot: HERO MICRO-MOMENT IMAGE (full-width single column)
-- INTENT: Real mom + real kid, 5–7, sensory moment. Soft light, no face close-up.
-- COMPONENT PICKED: DEEP-21
-  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
-  - Current usage: 1/8 (after this pick)
-  - WHY: DEEP-21 micro-moment / expert whisper — DEEP-21 also used in E2 (variance: low) but section pattern (recognition-vs-validation) differs
-- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
-  - Alt text: Toddler in dinosaur-yellow training pants, calm sensory-aware living room moment
-  - Current usage: 1/25 (after this pick)
-  - WHY: Calm sensory-aware moment = the regression-isn't-failure visual signature
-
-### Section 4: MECHANISM BODY (loop + Iqbal 19% in prose + "childhood phenomenon")
+### Section 2: MECHANISM BODY (loop + Iqbal 19% in prose + "childhood phenomenon")
 - ROLE slot: MECHANISM BODY (loop + Iqbal)
 - INTENT: Iqbal 19% + adults show compensation (childhood phenomenon)
 - COMPONENT PICKED: EDU-2
@@ -632,32 +556,10 @@ SYSTEM B (automatic):
   - Alt text: Toddler with backpack in moon-cloud-blue training pants, outing moment visual
   - Current usage: 2/25 (after this pick)
   - WHY: School/home paradox visual — backpack = school, training pants = home body-signal bridge
+  - **WRAP: image-inside-component**
+  - WHY: EDU-2 is an image-driven component and the picked image IS the component.
 
-### Section 5: MINT-BORDERED BCBA-RESPECT CALLOUT (deepest L2 unlock sentence airing)
-- ROLE slot: MINT-BORDERED BCBA-RESPECT CALLOUT
-- INTENT: "Your BCBA has been doing the hard work for years. Body-signal learning is the missing layer their protocol can't address."
-- COMPONENT PICKED: EDU-11
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 3/8 (after this pick)
-  - WHY: EDU-11 science citation. The gravitational center of L2 sequence rendered as BCBA unlock callout.
-- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
-  - Alt text: Toddler playing with wooden train in moon-cloud-blue training pants, focused play visual
-  - Current usage: 2/25 (after this pick)
-  - WHY: Focused-play visual = the "missing layer" metaphor — signal arrives during focused play
-
-### Section 6: SOCIAL PROOF (3 cream-card quotes: regression, prompt-dependency, BCBA limit)
-- ROLE slot: SOCIAL PROOF — 3 callout-quote-highlights (cream cards)
-- INTENT: "He initiated once after 4 years" + prompt-dependency quote + BCBA limit quote
-- COMPONENT PICKED: SP-01
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 2/8 (after this pick)
-  - WHY: SP-01 quote callout — extra usage OK (variance check: only 3 SP-01 across 8 emails, well below cap)
-- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
-  - Alt text: Penguin-multicolor training pant flat-lay product photo on neutral background
-  - Current usage: 0/25 (after this pick)
-  - WHY: Penguin-multicolor product visual pairs with cream-card regression-quote moment
-
-### Section 7: PRODUCT INTRO 3-layer recap logic chain + GUARANTEE + DOUBLE-TAP CTA
+### Section 3: PRODUCT INTRO 3-layer recap logic chain + GUARANTEE + DOUBLE-TAP CTA
 - ROLE slot: PRODUCT INTRO + GUARANTEE + DOUBLE-TAP CTA
 - INTENT: 3-layer logic chain: pee → feel → connect → awareness. 4–8 wks guarantee. "Show your BCBA / Read the science" + "Explore 3+3 Bundle" secondary
 - COMPONENT PICKED: 6.1
@@ -668,8 +570,10 @@ SYSTEM B (automatic):
   - Alt text: Cloud raindrop white training pant flat-lay product photo
   - Current usage: 0/25 (after this pick)
   - WHY: Cloud-raindrop white product visual — alternate colorway for double-tap CTA cross-sell
+  - **WRAP: image-inside-component**
+  - WHY: 6.1 is an image-driven component and the picked image IS the component.
 
-### Section 8: SIGN-OFF — signoff-lena-medium (two-sons explicit)
+### Section 4: SIGN-OFF — signoff-lena-medium (two-sons explicit)
 - ROLE slot: SIGN-OFF MEDIUM
 - INTENT: "If your kid is anywhere on this curve…"
 - COMPONENT PICKED: 12.2
@@ -678,11 +582,13 @@ SYSTEM B (automatic):
   - WHY: 12.2 Lena MEDIUM signoff (two-sons explicit). Variance: not overused.
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: ['HERO-4', '23.2', 'DEEP-21', 'EDU-2', 'EDU-11', 'SP-01', '6.1', '12.2']
-- image-usage.json: ['lifestyle/toddler-potty-ladder-pink-multicolor.png', 'lifestyle/toddler-livingroom-dino-yellow.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/training-pant-penguin-multicolor.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg']
+- component-usage.json: ['HERO-4', 'EDU-2', '6.1', '12.2']
+- image-usage.json: ['lifestyle/toddler-potty-ladder-pink-multicolor.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/training-pant-cloud-raindrop-white.jpg']</new_string>

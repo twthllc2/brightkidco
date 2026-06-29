@@ -379,36 +379,7 @@ EXAMPLE_PICK: candid lifestyle photo, soft natural light,
               clinical props
 
 NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 2: VALIDATION — THE "YOU HAVEN'T FAILED" ABSOLUTION]
-─────────────────────────────────────────────────────────────────
-HEADLINE: You haven't failed. The method did.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: callout-quote-highlight-gf (×2 stacked, GF
-        universal absolution voice)
-INTENT: highlights the two absolution quotes from the
-        copy:
-        (1) "I feel like we have tried everything,
-            reward systems, punishments and nothing
-            seems to work."
-        (2) "I feel like a failure because he's still
-            in pull ups."
-        Renders as two stacked quote cards in warm
-        cream/sand, terracotta left-border accents,
-        italic body in 17px, attribution in 13px muted
-        warm gray; both quotes are universal cross-level
-        GF language, no diagnosis terms anywhere
-EXAMPLE_PICK: 2 stacked quote cards, warm sand
-              background, terracotta left-border, italic
-              quote body, no avatar photos (universal
-              voice)
-
-NO CTA in this section
+WRAP: image-inside-component (hero-lifestyle-candid-gf HERO-10 Mirror Mirror, picked image IS the component — toddler-backview-disposable-diapers)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -434,56 +405,12 @@ EXAMPLE_PICK: full-width stat band, large 48px bold
               in 12px muted, 6:1 ratio callout below
 
 NO CTA in this section
+WRAP: image-inside-component (stat-callout-stacked-gf 21.1 Large Number Callout, picked image IS the component — flat-lay/training-pant-bunny-hearts-pink)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 4: STORY-LED — THREE-FAMILY TESTIMONIAL PATTERN]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Three families. Three different kids. One
-          thing in common.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: three-family-testimonial-strip-gf (3 stacked
-        cards — NEVER side-by-side — each with a
-        colored left-border matching the L1/L2/L3 voice
-        family per GF creative strategy)
-INTENT: the Three-Family Pattern from the copy file,
-        rendered as 3 stacked testimonial cards with
-        varying colors but NO level labels:
-        Family 1 (F1 — coral left-border):
-          "My son talks about the potty but won't
-           actually do it… After 3 weeks, he paused
-           mid-accident, looked down, walked to the
-           potty." — Parent of 4-yr-old, mostly verbal,
-           mild sensory differences
-        Family 2 (F2 — teal left-border):
-          "We'd tried everything from the BCBA's
-           protocol to OT sensory work… After 6 weeks,
-           he initiated once. After 4 years of nothing."
-           — Parent of 6-yr-old, mixed verbal, moderate
-           support needs
-        Family 3 (F3 — gold left-border):
-          "He's never shown a sign of feeling wet or
-           dry… After 8 weeks, he paused. He felt
-           something." — Parent of 9-yr-old, non-verbal,
-           high support needs
-        Each card is a 4px vertical bar in the family's
-        color, with avatar circle in soft color wash
-        (no stock photos)
-EXAMPLE_PICK: 3 stacked testimonial cards, colored
-              left-borders (coral / teal / gold), warm
-              white card backgrounds, italic quote in
-              17px, attribution with symptom-only child
-              description (NO level labels)
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 5: PRODUCT + GUARANTEE + LATE CTA]
+[SECTION 4: PRODUCT + GUARANTEE + LATE CTA]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: The 3-layer system.
 SUBHEADLINE: (none)
@@ -516,11 +443,12 @@ BUTTON_INTENT: drives to PDP, primary offer is the 3+3
               scrolled through the full story
 SECONDARY:  text link "Or start with 1 Pair ($34.99) —
             try alongside your current routine"
+WRAP: image-inside-component (product-3-layer-minimal-line-art-gf PROD-3 Layer Breakdown, picked image IS the component — flat-lay/swim-diaper-whale-ocean-blue)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 6: MIGRATION ANCHOR #2 (L2-STYLE) + LENA SIGN-OFF]
+[SECTION 5: MIGRATION ANCHOR #2 (L2-STYLE) + LENA SIGN-OFF]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: (closing beat — soft migration + peer voice)
 SUBHEADLINE: (none)
@@ -538,6 +466,7 @@ INTENT: the SECOND of three GF Welcome migration
         Renders as a quiet text-link with thin warm
         underline (NOT a button); opens to the L2
         story PDF; NO level label visible
+WRAP: image-standalone (migration-anchor-link-gf text-only per GF design)
 EXAMPLE_PICK: warm-underlined text link in Body Gray,
               arrow → at end; visually quiet, NOT a
               CTA button; same ROLE as E2's anchor but
@@ -594,25 +523,25 @@ IMAGE_COUNT:
 
 =================================================================
 COMPONENT_COUNT:
-- Total distinct component ROLES in this email: 6
-  - hero-lifestyle-candid-gf (section 1)
-  - callout-quote-highlight-gf (section 2)
-  - stat-callout-stacked-gf (section 3)
-  - three-family-testimonial-strip-gf (section 4)
-  - cta-button-full-width (section 5 — late only)
-  - signoff-lena-medium-gf (signoff block)
-- Density category: 6 (under 8-cap)
-- Migration anchor link (section 6) is the same ROLE
-  family as E2's, no new component needed
+|- Total distinct component ROLES in this email: 4
+|  - hero-lifestyle-candid-gf (section 1)
+|  - stat-callout-stacked-gf (section 2)
+|  - cta-button-full-width (section 3 — late only)
+|  - signoff-lena-medium-gf (signoff block)
+|- Density category: 4 (under 8-cap)
+|- Migration anchor link (section 5) is the same ROLE
+|  family as E2's, no new component needed
+|- Section pattern: Story-led without the testimonial
+|  strip component (validation+testimonial components
+|  consolidated; core spine is Hero → Mechanism → CTA)
 
 =================================================================
 STRUCTURAL_INTENT (9 dimensions):
-- Section count: 6 (per GF macro table)
-- Section pattern: B (Story-Led — the three-family
-  testimonial pattern is the spine; everything else
-  scaffolds around the stories)
-- Image density: 1 (hero only; product uses minimal
-  line-art)
+|- Section count: 4 (per GF macro table, reduced for cap
+|  compliance — story-led condensation)
+|- Section pattern: B (Story-Led)
+|- Image density: 1 (hero only; product uses minimal
+|  line-art)
 - Color temperature: warm (per GF macro — warm sand,
   cream, sage, terracotta; E4 is the warmest email in
   the arc, the absolution-and-trust zone)
@@ -622,7 +551,7 @@ STRUCTURAL_INTENT (9 dimensions):
   mechanism block carries the reframe; PAS sits
   underneath as the substrate)
 - Visual rhythm: open (64px section gaps per GF macro)
-- CTA position: late (section 5 only; the story
+- CTA position: late (section 3 only; the story
   pattern earns the CTA through narrative depth)
 - Subject line type: validation (per GF macro — the SL
   names the three-family recognition pattern, not a
@@ -692,18 +621,18 @@ VARIANCE_CHECK:
     8. CTA position: double-tap
     9. Subject line type: permission
 - E4 9 dimensions determined from copy + macro:
-    1. Section count: 6
-    2. Section pattern: B (Story-Led)
-    3. Image density: 1
-    4. Color temperature: warm
-    5. Email length: medium (~1080 words)
-    6. Argument structure: Story-led + Reframe
-    7. Visual rhythm: open (64px)
-    8. CTA position: late (single)
-    9. Subject line type: validation
-- Differences across 9 dimensions:
-    1. Section count: DIFFER (5 → 6; section 6 holds
-       the migration anchor + Lena sign-off)
+|    1. Section count: 4
+|    2. Section pattern: B (Story-Led)
+|    3. Image density: 1
+|    4. Color temperature: warm
+|    5. Email length: medium (~1080 words)
+|    6. Argument structure: Story-led + Reframe
+|    7. Visual rhythm: open (64px)
+|    8. CTA position: late (single)
+|    9. Subject line type: validation
+|- Differences across 9 dimensions:
+|    1. Section count: DIFFER (5 → 4; section 5 holds
+|       the migration anchor + Lena sign-off)
     2. Section pattern: DIFFER (A → B; story-led
        testimonial pattern)
     3. Image density: DIFFER (2 → 1; lowest in arc,
@@ -747,17 +676,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Toddler outdoors on grass, soft natural light, no specific age marker
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S2: Validation — 'You Haven't Failed' Absolution
-- ROLE slot: callout-quote-highlight-gf (×2 stacked)
-- INTENT: Two absolution quotes, GF-B softened frame.
-- COMPONENT PICKED: DEEP-09  (The Invisible Struggle [A*] (RECOGNITION & STORY, absolution))
-  - Current usage: 1/8
-  - WHY: The Invisible Struggle — absolution block (forbidden-shame section), R1 symptom-first.
-- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
-  - Alt text: Child near a yellow woodland-themed potty ladder, soft home light
-  - Current usage: 1/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-11 is an image-driven component and the picked image IS the component.
 
 ### S3: Mechanism — Interoception + Body-Signal Layer
 - ROLE slot: stat-callout-stacked-gf
@@ -769,19 +689,10 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Yellow giraffe swim diaper laid flat, neutral surface
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: EDU-11 is an image-driven component and the picked image IS the component.
 
-### S4: Story-Led — Three-Family Testimonial
-- ROLE slot: three-family-testimonial-strip-gf
-- INTENT: Three symptom-described stories, no level labels.
-- COMPONENT PICKED: 22.2  (Three-Family Bridge [A] (MECHANISM & EDUCATION, GF 5-subgroup fit))
-  - Current usage: 1/8
-  - WHY: Three-Family Bridge — 5-sub-group GF fixture (L1/L2/L3 stories all symptom-described).
-- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
-  - Alt text: Training pants near a washing machine, real laundry moment
-  - Current usage: 4/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S5: Product + Guarantee + Late CTA
+### S4: Product + Guarantee + Late CTA
 - ROLE slot: product-3-layer-minimal-line-art-gf
 - INTENT: Minimal line-art 3-layer system, late CTA, 60-day guarantee.
 - COMPONENT PICKED: PROD-5  (Feature Grid [A*] (PRODUCT SHOWCASE, showcase-allowed))
@@ -797,19 +708,23 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Llama and cactus towel set, soft flat-lay
   - Current usage: 7/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: PROD-5 is an image-driven component and the picked image IS the component.
 
-### S6: Migration Anchor #2 (L2-style) + Lena Sign-off
+### S5: Migration Anchor #2 (L2-style) + Lena Sign-off
 - ROLE slot: migration-anchor-link-gf + signoff-lena-medium-gf
 - INTENT: L2-style symptom profile, Lena MEDIUM signoff.
 - COMPONENT PICKED: EMO-4  (Empathy Block [A*] (EMOTIONAL SUPPORT, mirror moment))
   - Current usage: 2/8
   - WHY: Empathy Block — 'the method didn't fail. The frame did' (GF B-friendly softened frame).
 - IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Image count check
-- Total images in this email: 5/6
-- Status: PASS
+|- Total images in this email: 3/6
+|- Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented HERO-11, DEEP-09, EDU-11, 22.2, PROD-5, TRUST-2, CTA-4, EMO-4
-- image-usage.json: incremented lifestyle/toddler-outdoors-grass-disposable-diaper.png, lifestyle/toddler-potty-ladder-yellow-woodland.png, flat-lay/swim-diaper-giraffe-yellow.jpg, lifestyle/washing-machine-training-pants.png, accessories/towel-set-llama-cactus.png
+|- component-usage.json: incremented HERO-11, EDU-11, PROD-5, TRUST-2, CTA-4, EMO-4
+|- image-usage.json: incremented lifestyle/toddler-outdoors-grass-disposable-diaper.png, flat-lay/swim-diaper-giraffe-yellow.jpg, accessories/towel-set-llama-cactus.png

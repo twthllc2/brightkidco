@@ -706,14 +706,23 @@ END OF WIREFRAME — faq-21-e2
 | Role | Component ID | Reason |
 |---|---|---|
 | PROSE-OPENER-3-SENTENCES | **EMO-10** | Three-sentences opener — convergence preview |
-| OBJECTION-TRIED-EVERYTHING | **PSYCH-01** | Vertical validation+mechanism — 'I've tried everything' |
-| OBJECTION-TOO-OLD | **EDU-3** | Vertical age-timeline validation — 'too old' |
-| OBJECTION-REGRESSION | **EDU-9** | Vertical regression — 'progress and lost it' |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
+|| OBJECTION-TRIED-EVERYTHING | **PSYCH-01** | Vertical validation+mechanism — 'I've tried everything' |
+|  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-01 starts with "PSYCH-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| OBJECTION-TOO-OLD | **EDU-3** | Vertical age-timeline validation — 'too old' |
+|  |  | **WRAP: image-inside-component** | EDU-3 is in Rule 7's explicit list → image-inside-component (with image) or image-required-component (BUG if no image). Image picked, so image-inside-component. |
+|| OBJECTION-REGRESSION | **EDU-9** | Vertical regression — 'progress and lost it' |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDU-9 is NOT in Rule 7's explicit EDU list (2/3/8/10/11); with image picked, Rule 9 → image-standalone between sections. |
 | 3-TESTIMONIAL-CARDS | **SP-06** | Vertical 3-card testimonial convergence pattern |
-| CONVERGENCE-WITH-3-LAYER | **EDUDEEP-1** | Common-thread + 3-layer product convergence |
-| GUARANTEE-LATE-POSITION | **CMP-3** | Late-position guarantee + soft text CTA |
+  |  | **WRAP: image-inside-component** | Parent-quote photo is anchored inside the testimonial/letter callout. |
+|| CONVERGENCE-WITH-3-LAYER | **EDUDEEP-1** | Common-thread + 3-layer product convergence |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDUDEEP-1 starts with "DEEP-" → Rule 6: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| GUARANTEE-LATE-POSITION | **CMP-3** | Late-position guarantee + soft text CTA |
+|  |  | **WRAP: image-standalone (placed between sections)** | CMP-3 starts with "CMP-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
 | CTA-LATE-POSITION | **CTA-7** | Brand-green affordance — late-position button |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | LENA-SIGNOFF-SHORT-MED + DOUBLE-PS + FOOTER | **12.1** | Lena short-medium sig + double P.S. + footer |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | 12.1 is the Lena sign-off/footer block that ships from locked footer.html. |
 
 ### Images (5/6)
 

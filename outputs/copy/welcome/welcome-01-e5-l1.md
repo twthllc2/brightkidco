@@ -535,32 +535,12 @@ EXAMPLE_PICK: lifestyle photo of parent and child, warm home
               setting, soft window light, authentic moment
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-5 Mirror Moment, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 2: HOOK — OBJECTION NAMING]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from hero)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: numbered-list-callout
-INTENT: anchors the "three methods" frame for the L1 reader,
-        the precise number that mirrors her lived experience
-        (Oh Crap, sticker charts, timer sits)
-EXAMPLE_PICK: a typographic list block naming the three methods,
-              warm treatment, set against the cream background
-NOTE: The "three" is the easter-egg calibration for L1. Stage 2
-      decides whether to render this as a list or a stacked
-      caption block.
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 3: VALIDATION — SCIENCE ANCHOR]
+[SECTION 2: VALIDATION — SCIENCE ANCHOR]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: First: you didn't fail.
 SUBHEADLINE: Those methods didn't fail either. They just couldn't
@@ -579,52 +559,12 @@ NOTE: This is the FIRST science callout in the email. Sets the
       this for variance or keep it consistent).
 
 NO CTA in this section
+WRAP: image-standalone (NL-01/BM-05 consolidated hook+validation+mechanism, image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 4: REFRAME — MECHANISM BRIDGE]
-─────────────────────────────────────────────────────────────────
-HEADLINE: So when you ask "why would this be different?",
-          the answer is the mechanism.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: signal-gap-diagram
-INTENT: shows the interoception gap (signal arrives too late) and
-        how the Body-Signal Learning Layer bridges it with a
-        sustained 30-60 second sensation
-EXAMPLE_PICK: a 2-panel comparison diagram, panel 1 = broken
-              signal (gap), panel 2 = BSL bridge (signal path),
-              hand-drawn / illustrated-children's-book aesthetic,
-              warm tones, not clinical
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 5: SOCIAL PROOF — MINI-WIN]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from reframe)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: pull-quote-block
-INTENT: hosts the single L1 mini-win testimonial ("He paused.
-        Then he looked down. Then he walked to the potty.")
-EXAMPLE_PICK: centered pull quote, large opening quotation mark
-              in accent color behind the text, name/attribution
-              below in muted warm grey
-NOTE: L1 calibration = ONE quote only (L2 needs 2-3, L3 needs
-      zero or one dignified reference).
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 6: PRODUCT — 3-LAYER SYSTEM EDUCATION]
+[SECTION 3: PRODUCT — 3-LAYER SYSTEM EDUCATION] (consolidated mini-win → product)
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Here's how the 3-Layer System works:
 SUBHEADLINE: (none)
@@ -642,6 +582,7 @@ NOTE: NO illustrations of actual underwear. The parent
       imagines her child.
 
 NO CTA in this section
+WRAP: component-text-only (text-only product 3-layer description, no separate STAGE 2 pick)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -662,6 +603,7 @@ EXAMPLE_PICK: outlined typographic badge containing "60" +
 NOTE: Standalone before CTA. Critical for skeptical L1.
 
 NO CTA in this section
+WRAP: image-standalone (GT-05 Guarantee Badge Callout, fallback image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -679,6 +621,7 @@ BUTTON_TEXT: See if the 3+3 Bundle closes the gap before Pre-K
 BUTTON_INTENT: drives to PDP
               landing.brightkidco.com/products/potty-training-underwear-for-sensory-sensitive-toddlers-sp
 SECONDARY: text link "Explore the science behind it" (small, muted)
+WRAP: image-standalone (CTA-4 Gentle Invite Primary + P.S., product accessory image next to text-link)
 
 [P.S.]
 P.S. TEXT: Pre-K is coming. If September is your target, Day 10
@@ -845,44 +788,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Two founders holding yellow-and-watermelon potty training pants, candid and warm.
   - Current usage: 1/25
   - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-5 is an image-driven component and the picked image IS the component.
 
-### Section 2: numbered-list-science-callout
-- ROLE slot: numbered-list-science-callout
-- INTENT: consolidates numbered-list objection + science callout (Nicholson 2019 citation) into one block
-- COMPONENT PICKED: NL-01 (Numbered List + Science Callout)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Numbered list (NL-01) consolidates 3-methods objection + science citation per 8-cap; L1 needs science density at D10.
-- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
-  - Alt text: Cloth pads in watermelon/astronaut/cat prints laid on a soft surface.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 3: signal-gap-mechanism
-- ROLE slot: signal-gap-mechanism
-- INTENT: consolidates signal-gap diagram + 3-layer stack diagram into one body-mechanism block
-- COMPONENT PICKED: BM-05 (Signal Gap + 3-Layer Stack Diagram)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Body-mechanism block (BM-05) consolidates signal-gap + 3-layer for E5's deep-mechanism D10 frame.
-- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
-  - Alt text: Yellow woodland-creature print diaper flat-lay, mechanism-visual anchor.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 4: pull-quote-mini-win
-- ROLE slot: pull-quote-mini-win
-- INTENT: L1 mini-win testimonial ('He paused. Then asked.')
-- COMPONENT PICKED: 13.10 (Quote Badge)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Quote Badge (13.10) is a smaller-emphasis variant — appropriate for the mini-win moment in E5.
-- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
-  - Alt text: Toddler napping in watermelon-pink shorts, calm lived-in moment.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 5: guarantee-badge-callout
+### Section 2: guarantee-badge-callout
 - ROLE slot: guarantee-badge-callout
 - INTENT: standalone guarantee section, highest-trust moment of E5
 - COMPONENT PICKED: GT-05 (Guarantee Badge Callout)
@@ -893,8 +802,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Llama-and-cactus towel set on a soft surface, calm trust signal.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Fallback: GT-05 is not in catalog; image renders between sections.
 
-### Section 6: cta-button-full-width-primary-ps
+### Section 3: cta-button-full-width-primary-ps
 - ROLE slot: cta-button-full-width-primary-ps
 - INTENT: drives to PDP; P.S. is secondary CTA in P.S. form
 - COMPONENT PICKED: CTA-4 (Gentle Invite (Primary + P.S.))
@@ -905,8 +816,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Pink bunny-hearts training pant flat-lay, soft and toddler-relatable.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
-### Section 7: signoff-lena-short
+### Section 4: signoff-lena-short
 - ROLE slot: signoff-lena-short
 - INTENT: Lena SHORT variant; 'With understanding,' closing (E5 last mid-sequence)
 - COMPONENT PICKED: 12.1 (Lena Signoff)
@@ -914,13 +827,15 @@ Stage 2 also applies System B colors automatically:
   - Current usage: 1/8
   - WHY: Lena signoff transitions out of 'With understanding,' at E5.
 - IMAGE PICKED: none (text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6 (target range 4-6).
 - Status: PASS
-- Total components: 7/8. Status: PASS
+- Total components: 4/8. Status: PASS</new_string>
 
 ### Tracker updates
-- component-usage.json: incremented [HERO-5] + 6 body components
-- image-usage.json: incremented hero, 5 body images
+- component-usage.json: incremented [HERO-5] + 3 body components
+- image-usage.json: incremented hero, 2 body images</new_string>
 

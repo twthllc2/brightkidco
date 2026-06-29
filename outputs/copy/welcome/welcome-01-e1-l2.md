@@ -515,6 +515,8 @@ This L2 variant follows R1 (symptom-based language for body signal, not autism l
 │  social stories, sticker charts, timer sits…"            │
 │  "Nothing changed."                                      │
 │                                                          │
+│  WRAP: image-inside-component (HERO-1, picked image IS   │
+│  the component — founder Lena + toddler photo)           │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  VALIDATION BODY (3–4 sentences)                        │
@@ -522,18 +524,11 @@ This L2 variant follows R1 (symptom-based language for body signal, not autism l
 │  "It's that every method you tried assumed your         │
 │  child can FEEL when they need to go."                  │
 │                                                          │
+│  WRAP: image-standalone (4.1 Letter Section text-only   │
+│  per catalog; toddler-backpack image renders between    │
+│  sections)                                              │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  [MINT-BORDERED SCIENCE CALLOUT BOX]                     │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ Interoception is measurable.                       │  │
-│  │ "49% of autistic 4-5 year olds are not            │  │
-│  │  toilet trained."                                  │  │
-│  │  Source: SPARK / Wiggins et al. 2022              │  │
-│  │  Mechanism: body signal arrives late, weak, or    │  │
-│  │  not at all.                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (mint-bordered frame; mint #DBFFCD background)         │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
@@ -542,35 +537,14 @@ This L2 variant follows R1 (symptom-based language for body signal, not autism l
 │  for many autistic children, that message doesn't       │
 │  arrive in time, or at all."                            │
 │                                                          │
+│  WRAP: image-inside-component (19.2 mechanism-explainer,│
+│  picked image IS the component — toddler playing photo) │
 ├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  SOCIAL PROOF — callout-quote-highlight (single column)  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "He communicates fine about everything ELSE        │  │
-│  │  but cannot tell me he needs to pee…"              │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "We tried on and off for probably three years…"    │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (Cream-card #FBF7EB background, mint left accent)       │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  PRODUCT TEASER BODY (3–4 sentences)                    │
-│  "BrightKidCo exists because every method started       │
-│  from the wrong assumption…"                             │
-│  "Layer 1 uses a gentle sensation that lasts,           │
-│  30–60 seconds of feedback."                            │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  REALISTIC TIMELINE BODY (3–4 sentences)                │
-│  "First signs of body awareness within 2–4 weeks."      │
-│  "Full awareness development usually takes 8–12 weeks.  │
-│  Some children take longer. That's not failure."        │
-│                                                          │
+│  WEAR/USE BODY  (3–4 sentences)                        │
+│  (folded into mechanism+CTA bands; no standalone section)│
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  GUARANTEE BADGE — trust-anchor-callout                  │
@@ -591,6 +565,9 @@ This L2 variant follows R1 (symptom-based language for body signal, not autism l
 │  SECONDARY TEXT LINK                                    │
 │  "Or browse our sizing guide to see if BKC fits…"       │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, EMODEEP-03  │
+│  combines guarantee + CTA + permission-not-to-buy;      │
+│  ships from locked footer.html)                         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  PERMISSION-NOT-TO-BUY (3–4 sentences, full paragraph)  │
@@ -607,9 +584,11 @@ This L2 variant follows R1 (symptom-based language for body signal, not autism l
 │  Lena ——                                                 │
 │                                                          │
 │  Footer: physical address · unsubscribe ·               │
-│          "Reply to this email, Lena reads every         │
+│  "Reply to this email, Lena reads every                 │
 │           response."                                    │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.1 Lena   │
+│  Signoff SHORT, ships from locked footer.html)          │
 └──────────────────────────────────────────────────────────┘
 
 SYSTEM B (automatic):
@@ -653,6 +632,8 @@ SYSTEM B (automatic):
   - Alt text: Founder Lena holding BKC yellow-watermelon training pants, founder portrait peer-disclosure moment
   - Current usage: 1/25
   - WHY: Founder Lena + toddler photo is L2 peer-disclosure visual signature; placed ABOVE headline in stack per wireframe
+  - **WRAP: image-inside-component**
+  - WHY: HERO-1 is an image-driven component and the picked image IS the component.
 
 ### Section 2: VALIDATION BODY (3-4 sentences, "not your fault")
 - ROLE slot: VALIDATION BODY (3-4 sentences, "not your fault")
@@ -665,20 +646,10 @@ SYSTEM B (automatic):
   - Alt text: Toddler with backpack wearing moon-cloud-blue training pants during outdoor outing moment
   - Current usage: 1/25
   - WHY: Real toddler moment — the validation is about HER child, not abstract. Soft light, no face close-up
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 4.1 (Letter Section (uses Letter) *(L468)*) is text-only per catalog; any image is decorative and sits between sections.
 
-### Section 3: MINT-BORDERED SCIENCE CALLOUT BOX (interoccption measurable, Wiggins 49%)
-- ROLE slot: MINT-BORDERED SCIENCE CALLOUT BOX (interoccption measurable, Wiggins 49%)
-- INTENT: Visible science citation: Wiggins SPARK + Mahler interoception
-- COMPONENT PICKED: EDU-11
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 1/8
-  - WHY: EDU-11 provides science citation visibility — L2 high-science-visibility calibration
-- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
-  - Alt text: Toddler napping in watermelon-pink shorts, quiet restorative moment
-  - Current usage: 1/25
-  - WHY: Lifestyle photo anchors science callout in real-world context — body-signal learning happens during real play, not special sessions
-
-### Section 4: MECHANISM BODY (body-signal bladder-to-brain, interoception explained)
+### Section 3: MECHANISM BODY (body-signal bladder-to-brain, interoception explained, with citation)
 - ROLE slot: MECHANISM BODY (body-signal bladder-to-brain, interoception explained)
 - INTENT: Explain interoception + body signal latency for L2 scientific depth
 - COMPONENT PICKED: 19.2
@@ -689,30 +660,18 @@ SYSTEM B (automatic):
   - Alt text: Toddler playing with wooden train toy wearing moon-cloud-blue training pants, focused play moment
   - Current usage: 1/25
   - WHY: Real outing or play moment — mechanism (body-signal) applies to daily life, not just bathroom sessions
+  - **WRAP: image-inside-component**
+  - WHY: 19.2 is an image-driven component and the picked image IS the component.
 
-### Section 5: SOCIAL PROOF — 2 callout-quote-highlight (L2 parent quotes)
-- ROLE slot: SOCIAL PROOF — 2 callout-quote-highlight (L2 parent quotes)
-- INTENT: "communicates fine about everything ELSE" + "we tried three years" quotes
-- COMPONENT PICKED: SP-01
-  - Catalog entry: position=body_social_proof, audience=L2
-  - Current usage: 1/8
-  - WHY: SP-01 quote-callout for L2 parent testimonials. Cream card per wireframe
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 6: PRODUCT TEASER + REALISTIC TIMELINE (combined showcase)
+### Section 4: PRODUCT TEASER + REALISTIC TIMELINE (combined showcase)
 - ROLE slot: PRODUCT TEASER + REALISTIC TIMELINE (combined showcase)
 - INTENT: Body-signal underwear intro + 2-4 weeks / 8-12 weeks timeline
-- COMPONENT PICKED: 6.1
-  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
-  - Current usage: 1/8
-  - WHY: 6.1 product_showcase component. Allowed to be reused per Ayoub brief. Combines product-teaser + timeline to fit 8-cap
-- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
-  - Alt text: Pink bunny hearts training pant flat-lay product photo on neutral background
-  - Current usage: 1/25
-  - WHY: Flat-lay product photo shows the 3-layer system named in mechanism+teaser body. Muted palette fits L2 tone
+- ROLE slot: PRODUCT TEASER (combined with mechanism body for 8-cap)
+- INTENT: (folded into adjacent sections; product intro handled in E2-E3)
+- COMPONENT PICKED: (none — consolidated)
+- IMAGE PICKED: none
 
-### Section 7: GUARANTEE BADGE + PRIMARY CTA + PERMISSION-NOT-TO-BUY (combined trust+close)
+### Section 5: GUARANTEE BADGE + PRIMARY CTA + PERMISSION-NOT-TO-BUY (combined trust+close)
 - ROLE slot: GUARANTEE BADGE + PRIMARY CTA + PERMISSION-NOT-TO-BUY (combined trust+close)
 - INTENT: 60-day trust anchor + muted-green CTA button + permission-not-to-buy (L2 element 6)
 - COMPONENT PICKED: EMODEEP-03
@@ -723,8 +682,10 @@ SYSTEM B (automatic):
   - Alt text: Toddler on pink-multicolor potty ladder, real bathroom practice moment
   - Current usage: 1/25
   - WHY: Quiet moment anchors the trust+permission block; reinforces "no rush, come back when ready" tone
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-03 is the Lena sign-off/footer block that ships from locked footer.html.
 
-### Section 8: SIGN-OFF — signoff-lena-short
+### Section 6: SIGN-OFF — signoff-lena-short
 - ROLE slot: SIGN-OFF — signoff-lena-short
 - INTENT: Lena SHORT sign-off: real-person peer disclosure
 - COMPONENT PICKED: 12.1
@@ -733,11 +694,13 @@ SYSTEM B (automatic):
   - WHY: 12.1 Lena sign-off component, SHORT variant per E1 wireframe
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: ['HERO-1', '4.1', 'EDU-11', '19.2', 'SP-01', '6.1', 'EMODEEP-03', '12.1']
-- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'lifestyle/toddler-potty-ladder-pink-multicolor.png']
+- component-usage.json: ['HERO-1', '4.1', '19.2', 'EMODEEP-03', '12.1']
+- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'lifestyle/toddler-potty-ladder-pink-multicolor.png']</new_string>

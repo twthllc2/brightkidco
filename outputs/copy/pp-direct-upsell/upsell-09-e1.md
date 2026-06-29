@@ -71,6 +71,8 @@ Reply to this email, Lena reads every response.
   - Alt text: "Child resting comfortably during the day in soft pink shorts, warm home setting, silhouette-only framing."
   - Current usage: 5/25
   - WHY: Universal "after-the-order-arrives calm" framing. Cross-level safe (silhouette + home setting); nudges image density toward the 4-minimum.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 4.1 (Letter Section (uses Letter) *(L468)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: Validation / Mechanism Brief
 - ROLE slot: mechanism-paragraph-stack (Section 2, wireframe)
@@ -83,6 +85,8 @@ Reply to this email, Lena reads every response.
   - Alt text: "A washing machine drum containing training pants, illustrating the wash-cycle care step."
   - Current usage: 1/25
   - WHY: Directly visualizes the mechanism section's "standard wash cycles break down the cotton fibers" pain point; product-aware without child imagery.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-2 is an image-driven component and the picked image IS the component.
 
 ### Section 3: Product Introduction — Wash Bag
 - ROLE slot: product-illustration-utility-svg (Section 3a) + product-paragraph-stack (Section 3b)
@@ -95,6 +99,8 @@ Reply to this email, Lena reads every response.
   - Alt text: "A cream-colored laundry bag with a llama illustration, designed to protect training underwear during washing."
   - Current usage: 0/25
   - WHY: This IS the wash-bag product in the BKC lineup; alt-text reframes it as the utility-product illustration. (The wireframe's SVG mesh-wash-bag is the canonical hero; this PNG is a complementary product flat-lay.)
+  - **WRAP: image-inside-component**
+  - WHY: 6.1 is an image-driven component and the picked image IS the component.
 
 ### Section 4: Guarantee + Testimonial
 - ROLE slot: guarantee-emerald-line (Section 4a) + callout-quote-highlight (Section 4b)
@@ -107,6 +113,8 @@ Reply to this email, Lena reads every response.
   - Alt text: "Training pant with fox illustration on a red and white fabric, the kind of underwear the wash bag is designed to protect."
   - Current usage: 2/25
   - WHY: Visual context for the testimonial (the kind of underwear the parent references); product flat-lay, child-free, level-neutral.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: CTA
 - ROLE slot: cta-button-full-width + text-link-secondary (Section 5)
@@ -119,6 +127,8 @@ Reply to this email, Lena reads every response.
   - Alt text: "Coordinated wet-bag set with space-themed patterns, an alternative carrying option for families already using the wash bag."
   - Current usage: 0/25
   - WHY: A cross-sell companion image (wet-bag alternative) gives the CTA section a soft visual anchor; encourages the bundle cross-sell mentioned in E2.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 6: Next-Time Microcopy
 - ROLE slot: next-time-microcopy (Section 6)
@@ -128,6 +138,8 @@ Reply to this email, Lena reads every response.
   - Current usage: 2/8
   - WHY: Text-only microcopy slot — fits the single italicized line ROLE exactly.
 - IMAGE PICKED: none (text-only microcopy line; email already at 6/6 images)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Section 7: Sign-off (Lena SHORT)
 - ROLE slot: signoff-lena-short
@@ -136,6 +148,9 @@ Reply to this email, Lena reads every response.
   - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
   - Current usage: 1/8
   - WHY: Closing-letter treatment matches the Lena SHORT sign-off brand voice; warm temperature reinforces peer-voice.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: HERO-9 (Whisper Tone)

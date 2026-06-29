@@ -351,6 +351,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Alt text: "Toddler using a potty ladder with colorful accents in a warm home setting, illustrating the everyday learning-phase environment."
   - Current usage: 3/25
   - WHY: The opener's "first month" anchor — toddler-on-potty imagery cross-level safe; matches the universal opener tone.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 4.1 (Letter Section (uses Letter) *(L468)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: Validation — Post-Purchase Reality
 - ROLE slot: validation-paragraph-stack-with-mini-wins (Section 2)
@@ -363,6 +365,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Alt text: "Toddler with a moon-and-cloud themed backpack, suggesting the everyday rhythm of wearing body-signal underwear through daily activities."
   - Current usage: 4/25
   - WHY: The "everyday rhythm" visual that pairs with the mini-win list — "Two hours dry instead of thirty minutes" gets a contextual anchor.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-11 is an image-driven component and the picked image IS the component.
 
 ### Section 3: Three-Family Testimonial Pattern
 - ROLE slot: testimonial-card-l1-verbal-almost-trained + testimonial-card-l2-bcba-context + testimonial-card-l3-deep-timeline + validation-bridge-text (Section 3)
@@ -375,6 +379,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, representing the brand's parent-driven origin story."
   - Current usage: 4/25
   - WHY: The brand-trust visual that pairs with the Three-Family block — Lena's peer voice is grounded in the founder identity.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 4: Mechanism — Why Rotation Matters
 - ROLE slot: mechanism-paragraph-stack-with-rotation-rationale (Section 4)
@@ -387,6 +393,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Alt text: "Washing machine drum with training pants inside, illustrating the wash-gap problem the mechanism section describes."
   - Current usage: 2/25 (was 2 → now 3)
   - WHY: The "wash-gap problem" visual — directly illustrates "if you only have one pair, you're washing and re-washing."
+  - **WRAP: image-inside-component**
+  - WHY: EDU-2 is an image-driven component and the picked image IS the component.
 
 ### Section 5: Offer — Level-Calibrated Bundle Upgrade
 - ROLE slot: offer-table-stacked-vertical-not-side-by-side (Section 5)
@@ -399,6 +407,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Alt text: "Training pant with watermelon illustration on pink fabric, the visual anchor for the 3+3 Bundle product path."
   - Current usage: 2/25 (was 2 → now 3)
   - WHY: The watermelon-pink training pant is the lead visual for the bundle upgrade offer — fresh pink palette, child-free product flat-lay.
+  - **WRAP: image-inside-component**
+  - WHY: 6.1 is an image-driven component and the picked image IS the component.
 
 ### Section 6: Guarantee — Risk Removal
 - ROLE slot: guarantee-emerald-line (Section 6)
@@ -408,6 +418,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Current usage: 1/8 (was 1 → now 2)
   - WHY: 60-Day Seal alias is the brand guarantee component; text-only matches inline-paragraph usage.
 - IMAGE PICKED: none (text-only inline guarantee)
+  - **WRAP: component-text-only**
+  - WHY: 10.1 (60-Day Seal (alias for PartBadge/Letter) *(L887)*) is text-only per catalog.
 
 ### Section 7: CTA — Level-Calibrated
 - ROLE slot: cta-button-full-width + text-link-secondary (Section 7, level-aware)
@@ -420,6 +432,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Alt text: "BrightKidCo potty targets stickers and a reward chart, the next-phase accessory add-on for parents ready to layer in visual cues."
   - Current usage: 1/25 (was 1 → now 2)
   - WHY: A "next-step" visual that pairs with the CTA — bundle upgrade + accessory add-on bridge. Cross-level safe (stickers/chart, no child imagery).
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Section 8: Sign-off + Next-Time Microcopy
 - ROLE slot: next-time-microcopy (Section 8a) + signoff-lena-short (Section 8b)
@@ -429,6 +443,8 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
   - Current usage: 1/8
   - WHY: Story-deep variant handles the longer Lena personal-story sign-off ("I have two autistic sons. One trained at 6, the other at almost 8..."); warm + image_text per catalog. Borderline SHORT/MEDIUM case → STORYDEEP-03 absorbs the MEDIUM-length personal story while keeping the catalog slot under cap.
 - IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+  - **WRAP: component-text-only**
+  - WHY: STORYDEEP-03 (The Letter From Future (uses Letter) *(L9918)*) is text-only per catalog.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: HERO-10 (Bold Declaration)

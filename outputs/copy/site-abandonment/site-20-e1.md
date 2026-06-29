@@ -764,6 +764,8 @@ NOTE: This wireframe has 0 image density by INTENT (lowest-intent standalone ema
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 15/25
   - WHY: Founders photo as supporting opener visual.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 23.1 (Magazine Masthead *(L2117)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: prose-block-recognition-stacked
 - ROLE slot: prose-block-recognition-stacked
@@ -776,6 +778,8 @@ NOTE: This wireframe has 0 image density by INTENT (lowest-intent standalone ema
   - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
   - Current usage: 9/25
   - WHY: Visualizes "sits 20 min, nothing happens" recognition anchor.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 3: stat-callout-soft
 - ROLE slot: stat-callout-soft
@@ -788,6 +792,8 @@ NOTE: This wireframe has 0 image density by INTENT (lowest-intent standalone ema
   - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
   - Current usage: 9/25
   - WHY: Generic living-room scene for the stat context.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 4: mechanism-text-block
 - ROLE slot: mechanism-text-block
@@ -800,6 +806,8 @@ NOTE: This wireframe has 0 image density by INTENT (lowest-intent standalone ema
   - Alt text (GF, V16): "BrightKidCo training pant with fox pattern in woodland white tones, flat-lay product shot."
   - Current usage: 4/25
   - WHY: Cream/white pattern product for the mechanism section.
+  - **WRAP: image-inside-component**
+  - WHY: 1 (The Body Signal Concept (Core Mechanism Visual) *() is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: three-testimonial-stack-vertical
 - ROLE slot: three-testimonial-stack-vertical
@@ -812,6 +820,8 @@ NOTE: This wireframe has 0 image density by INTENT (lowest-intent standalone ema
   - Alt text (GF, V16): "Toddler playing outdoors on grass wearing a soft disposable diaper, side view."
   - Current usage: 4/25
   - WHY: Outdoor scene for testimonials.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 6: cta-text-link-low-aggression
 - ROLE slot: cta-text-link-low-aggression
@@ -821,6 +831,8 @@ NOTE: This wireframe has 0 image density by INTENT (lowest-intent standalone ema
   - Current usage: 3/8
   - WHY: Soft Link renders cleanly as the lowest-aggression permission-framed CTA. Already used in cart-02-e3.
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Image count check
 - Total images in this email: 5/6

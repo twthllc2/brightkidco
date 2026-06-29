@@ -1013,6 +1013,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e1-gf, level=gf, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: PRICE-1 (Price Hero *(L16108)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: GREETING + OBSERVATION
 - ROLE slot: greeting-prose-block-centered-warm-cream
@@ -1025,6 +1028,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 1 visual — calibrated per level (gf)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: SYMPTOM BLOCK — 5 Recognition Anchors (R2)
 - ROLE slot: recognition-anchors-five-inline-on-cream
@@ -1037,6 +1042,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 2 visual — calibrated per level (gf)
   - Current usage: 17/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: VALIDATION — The Reframe + 49% SPARK Stat
 - ROLE slot: validation-prose-with-spark-stat
@@ -1049,6 +1056,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 3 visual — calibrated per level (gf)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 31.1 (Green Status Pill *(L2641)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: MECHANISM — 6 Citations + 672-Family Data
 - ROLE slot: mechanism-mint-callout-with-six-citations-and-672-data
@@ -1061,6 +1070,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 4 visual — calibrated per level (gf)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-1 (The Material Story *(L10375)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: OFFER — 3+3 Bundle + 60-Day Guarantee
 - ROLE slot: pricing-box-mint-with-rotation-story
@@ -1073,6 +1084,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 5 visual — calibrated per level (gf)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-2 (The Comparison Matrix *(L10407)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-medium-with-reply-ps
@@ -1081,6 +1094,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 7/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-10 (Legal Text *(L7739)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

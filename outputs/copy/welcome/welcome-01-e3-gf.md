@@ -444,6 +444,7 @@ EXAMPLE_PICK: 3 stacked quote cards, each with a faint
               in 17px, attribution in 13px muted
 
 NO CTA in this section
+WRAP: image-inside-component (triptych-quote-pillar-gf, picked image IS the component — toddler napping watermelon-pink)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -471,6 +472,7 @@ EXAMPLE_PICK: full-width stat band, large 48px bold
               in 16px regular
 
 NO CTA in this section
+WRAP: image-inside-component (stat-callout-band-gf 21.1 Large Number Callout, picked image IS the component — cloud-raindrop training pant)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -505,6 +507,7 @@ EXAMPLE_PICK: 3-silhouette composite, soft concentric
               labels in the visual
 
 NO CTA in this section
+WRAP: image-inside-component (mechanism-body-signal-wave-gf, picked image IS the component — washing machine training pants)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -545,6 +548,8 @@ BUTTON_INTENT: same button after the guarantee; the
               double-tap captures both the post-product
               click and the post-guarantee click
 
+WRAP: image-inside-component (PROD-4 Cross-Section Product Showcase, picked image IS the component — flat-lay/training-pant fox-red-white)
+
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
@@ -572,6 +577,7 @@ INTENT: Lena MEDIUM variant (E3-E5 macro), the
         No "Mom of two" sub-line in body — Lena voice
         is universal GF
 NO CTA in this section
+WRAP: component-text-only (locked-signoff, signoff-lena-medium-gf, ships from locked footer.html)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -741,6 +747,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Pink watermelon training pant laid flat
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-10 is an image-driven component and the picked image IS the component.
 
 ### S2: Validation + Stat Normalization
 - ROLE slot: stat-callout-band-gf
@@ -752,6 +760,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Multicolor penguin training pant laid flat
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### S3: Mechanism — Interoception Eighth-Sense
 - ROLE slot: mechanism-body-signal-wave-gf
@@ -766,6 +776,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Red-and-white fox training pant laid flat
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: EDU-3 is an image-driven component and the picked image IS the component.
 
 ### S4: Product Intro + Guarantee (double-tap CTA)
 - ROLE slot: product-3-layer-cross-section-gf + double-tap CTA
@@ -783,6 +795,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Toddler from behind with a moon and cloud backpack, real home light
   - Current usage: 1/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: PROD-4 is an image-driven component and the picked image IS the component.
 
 ### S5: Lena Sign-off (MEDIUM — E3 variant)
 - ROLE slot: signoff-lena-medium-gf
@@ -794,6 +808,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Toddler playing in real home light, age-ambiguous
   - Current usage: 2/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6

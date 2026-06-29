@@ -512,6 +512,8 @@ END OF WIREFRAME — cart-02-e1
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 6/25 (after this pick)
   - WHY: Founders photo grounds the brand without showing a child (R1: symptom over label). Warm cream palette matches the section-1 signal-path illustration's warm cream background.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-9 is an image-driven component and the picked image IS the component.
 
 ### Section 2: hero-quote-callout
 - ROLE slot: hero-quote-callout
@@ -524,6 +526,8 @@ END OF WIREFRAME — cart-02-e1
   - Alt text (GF, V16): "BrightKidCo training pant with soft bunny-and-heart pattern in pink, flat-lay product shot."
   - Current usage: 5/25
   - WHY: Soft pink product flat-lay supports the permission/cart-saving message. R1: no children shown, only the product the cart already contains.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: recognition-anchor-list
 - ROLE slot: recognition-anchor-list
@@ -536,6 +540,8 @@ END OF WIREFRAME — cart-02-e1
   - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
   - Current usage: 5/25
   - WHY: Visualizes the "sits 20 minutes, nothing happens" recognition anchor. Backview (no face) supports R1.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 4: mechanism-explanation-block
 - ROLE slot: mechanism-explanation-block
@@ -548,6 +554,8 @@ END OF WIREFRAME — cart-02-e1
   - Alt text (GF, V16): "Potty training targets stickers and progress chart accessory laid flat, warm cream background."
   - Current usage: 3/25
   - WHY: Generic accessory visual that supports the mechanism reframe. V16-safe (no labels).
+  - **WRAP: image-inside-component**
+  - WHY: 1 (The Body Signal Concept (Core Mechanism Visual) *() is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: three-testimonial-card-stack
 - ROLE slot: three-testimonial-card-stack
@@ -560,6 +568,8 @@ END OF WIREFRAME — cart-02-e1
   - Alt text (GF, V16): "Toddler playing outdoors on grass wearing a soft disposable diaper, side view."
   - Current usage: 4/25
   - WHY: Generic outdoor toddler visual for Sarah testimonial. Side view, R1-compliant.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 6: product-introduction-block
 - ROLE slot: product-introduction-block
@@ -572,6 +582,8 @@ END OF WIREFRAME — cart-02-e1
   - Alt text (GF, V16): "Reusable training pants hanging in front of an open washing machine in a bright laundry area."
   - Current usage: 4/25
   - WHY: Supports the rotation-logic implication. No child shown, R1-clean.
+  - **WRAP: image-inside-component**
+  - WHY: CMP-5 (Method Spectrum Bar *(L6179)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 7: guarantee-callout-block
 - ROLE slot: guarantee-callout-block
@@ -584,6 +596,8 @@ END OF WIREFRAME — cart-02-e1
   - Alt text (GF, V16): "BrightKidCo training pant with cream and soft cloud-raindrop pattern, flat-lay product shot."
   - Current usage: 3/25
   - WHY: Cream/white pattern visual anchors the warm cream guarantee background. Generic product, V16-safe.
+  - **WRAP: image-inside-component**
+  - WHY: TRUST-2 (Guarantee Detail Cards *(L6414)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Image count check
 - Total images in this email: 7/6

@@ -871,14 +871,23 @@ END OF WIREFRAME — faq-21-e5
 | Role | Component ID | Reason |
 |---|---|---|
 | PROSE-OPENER-3-SYSTEMS | **EMODEEP-18** | Puzzle-metaphor opener — three systems framing |
-| QUESTION-QUOTE-CALLOUT | **PSYCH-06** | Mint quote callout — 'what's left?' |
-| 3-PUZZLE-PIECES | **PSYCH-04** | Vertical 3 puzzle pieces — BCBA / School / GI |
-| MECH-3-BULLET-REFRAMES | **EDU-6** | 3-bullet mechanism reframes — applied to 3 systems |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html. |
+|| QUESTION-QUOTE-CALLOUT | **PSYCH-06** | Mint quote callout — 'what's left?' |
+|  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-06 starts with "PSYCH-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| 3-PUZZLE-PIECES | **PSYCH-04** | Vertical 3 puzzle pieces — BCBA / School / GI |
+|  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-04 starts with "PSYCH-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| MECH-3-BULLET-REFRAMES | **EDU-6** | 3-bullet mechanism reframes — applied to 3 systems |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDU-6 is NOT in Rule 7's explicit EDU list (2/3/8/10/11); with image picked, Rule 9 → image-standalone between sections. |
 | 3-TESTIMONIAL-COMPLEMENT | **SP-08** | Vertical 3 testimonial cards — BCBA/school/GI alignment |
-| BRIDGE-3-COMPLEMENT-APHORISMS | **EDU-15** | 3-complement aphorisms bridge prose |
-| PRODUCT-OFFER-BRIDGE-CTA | **PROD-10** | Product offer + bridge CTA (reusable — showcase) |
+  |  | **WRAP: image-inside-component** | Parent-quote photo is anchored inside the testimonial/letter callout. |
+|| BRIDGE-3-COMPLEMENT-APHORISMS | **EDU-15** | 3-complement aphorisms bridge prose |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDU-15 is NOT in Rule 7's explicit EDU list (2/3/8/10/11); with image picked, Rule 9 → image-standalone between sections. |
+|| PRODUCT-OFFER-BRIDGE-CTA | **PROD-10** | Product offer + bridge CTA (reusable — showcase) |
+|  |  | **WRAP: image-inside-component** | PROD-10 starts with "PROD-" → Rule 3: image-inside-component (with image) or image-required-component (BUG if no image). Image is picked, so image-inside-component. |
 | CTA-PILL | **CTA-5** | Brand-green pill — single primary CTA |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | LENA-SIGNOFF-SHORT + PS-BCBA-60D + FOOTER | **12.1** | Lena sig + BCBA-complement 60-day P.S. + footer |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | 12.1 is the Lena sign-off/footer block that ships from locked footer.html. |
 
 ### Images (5/6)
 

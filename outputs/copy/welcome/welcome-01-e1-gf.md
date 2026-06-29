@@ -498,39 +498,12 @@ EXAMPLE_PICK: lifestyle photo composite (or single
               home, no stock NT happy-family gloss
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-6 Identity Statement, picked image IS the component — toddlers backview)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 2: VALIDATION — UNIVERSAL QUOTE STACK]
-─────────────────────────────────────────────────────────────────
-HEADLINE: This isn't your fault. And it's not his.
-SUBHEADLINE: (none — section flows from hook)
-
-[VISUAL ELEMENT]
-ROLE: callout-quote-highlight-gf (×2 stacked, GF
-        universal voice — no level labels)
-INTENT: highlights the cross-level GF quotes that bridge
-        Sub-Group A (Diagnostic Entrants) and Sub-Group D
-        (Overwhelmed Non-Selectors):
-        (1) "He doesn't have full bladder awareness yet."
-        (2) "She'll pee herself and just keep playing in
-             the puddle."
-        (3) "I feel like a failure because he's still in
-             pull-ups."
-        The third-family pattern from GF creative strategy:
-        three perspectives stacked vertically, each
-        language-only, no diagnosis labels.
-EXAMPLE_PICK: callout box, warm-terracotta left-border
-              accent, large quote text, attribution in
-              13px muted warm-gray
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 3: MECHANISM — INTEROCEPTION REVEAL]
+[SECTION 2: MECHANISM — INTEROCEPTION REVEAL]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: The problem isn't motivation or behavior.
           It's neurology.
@@ -551,11 +524,12 @@ EXAMPLE_PICK: large stat box, 49% rendered as visual
               muted text below
 
 NO CTA in this section
+WRAP: image-inside-component (21.1 Large Number Callout, picked image IS the component — cloud-raindrop training pant)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 4: SOCIAL PROOF — THREE-PARENT STACK]
+[SECTION 3: SOCIAL PROOF — THREE-PARENT STACK]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Three parents, three kids, one missing signal.
 SUBHEADLINE: (none)
@@ -578,11 +552,12 @@ EXAMPLE_PICK: three quote cards, each with a left-border
               of varied parent demographics honored
 
 NO CTA in this section
+WRAP: image-inside-component (7 Parent Stories Emotional Proof, picked image IS the component — toddler napping watermelon-pink)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 5: PRODUCT INTRO + GUARANTEE]
+[SECTION 4: PRODUCT INTRO + GUARANTEE]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: We designed something different.
 SUBHEADLINE: (none)
@@ -622,6 +597,7 @@ TEXT: "60 days. By your judgment."
 INTENT: low-pressure trust signal embedded in the same
         section as the CTAs, permission-not-to-buy
         framing
+WRAP: image-inside-component (PROD-3 Layer Breakdown + CTA-3 Curiosity Code double-tap, picked image IS the component — fox-woodland training pant)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -639,6 +615,7 @@ NOTE: GF macro mandates Lena SHORT variant for E1-E2.
       No "Mom of two" sub-line yet (that arrives E3+).
       No migration anchor in E1 (first anchor lands in
       E2 per GF-V3 anchor rotation).
+WRAP: component-text-only (locked-signoff, UTIL-05 Signoff Card, text-only)
 
 =================================================================
 [FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
@@ -662,34 +639,33 @@ ABOVE_FOLD_CHECK:
 
 =================================================================
 IMAGE_COUNT:
-- Total images in this email: 2
-  (hero lifestyle composite + product 3-layer cross-section)
-- Image positions: section-1 (hero) + section-5 (product)
-- Density category: 2 (mid — matches GF baseline)
+|- Total images in this email: 2
+|  (hero lifestyle composite + product 3-layer cross-section)
+|- Image positions: section-1 (hero) + section-4 (product)
+|- Density category: 2 (mid — matches GF baseline)
 
 =================================================================
 COMPONENT_COUNT:
-- Total distinct component ROLES in this email: 6
-  - hero-image-lifestyle-gf (section 1)
-  - callout-quote-highlight-gf (sections 2 + 4 — same
-    role family, varied by attribution tone)
-  - stat-highlight-box-gf (section 3)
-  - product-3-layer-cross-section-gf (section 5)
-  - cta-button-curiosity (section 5 — double-tap inside
-    the same section: above-the-fold + bottom)
-  - signoff-lena-short-gf (signoff block)
-- Density category: 6 (under 8-cap)
-- Note: Guarantee badge is rendered inline within the
-  CTA section's trust-signal row, not as a separate
-  component role.
+|- Total distinct component ROLES in this email: 5
+|  - hero-image-lifestyle-gf (section 1)
+|  - stat-highlight-box-gf (section 2)
+|  - testimonial-stack-gf (section 3)
+|  - product-3-layer-cross-section-gf (section 4)
+|  - cta-button-curiosity (section 4 — double-tap inside
+|    the same section: above-the-fold + bottom)
+|  - signoff-lena-short-gf (signoff block)
+|- Density category: 5 (under 8-cap)
+|- Note: Guarantee badge is rendered inline within the
+|  CTA section's trust-signal row, not as a separate
+|  component role.
 
 =================================================================
 STRUCTURAL_INTENT (9 dimensions):
-- Section count: 5 (4 body sections + 1 CTA section that
-  also holds guarantee + double-tap CTA, per GF macro
-  table)
-- Section pattern: A (Classic — Hook → Validation →
-  Mechanism → Proof → CTA)
+|- Section count: 4 (3 body sections + 1 CTA section that
+|  also holds guarantee + double-tap CTA, per GF macro
+|  table)
+|- Section pattern: A (Classic — Hook → Mechanism →
+|  Proof → CTA)
 - Image density: 2 (hero + product)
 - Color temperature: neutral (per GF E1 macro — opens with
   warm cream/terracotta + soft sage accents, not yet warm
@@ -699,7 +675,7 @@ STRUCTURAL_INTENT (9 dimensions):
 - Argument structure: Direct + Story fragment (the "if this
   sounds familiar" beat lands as the closing thought)
 - Visual rhythm: open (64px section gaps per GF macro)
-- CTA position: double-tap (sections 5 + 6 — same button,
+- CTA position: double-tap (sections 4 + 5 — same button,
   above-the-fold + bottom)
 - Subject line type: observation + code (per GF macro:
   "Your child might not feel the signal" is the symptom
@@ -768,53 +744,48 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Two toddlers from behind, soft home light, neutral posture
   - Current usage: 5/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-6 is an image-driven component and the picked image IS the component.
 
-### S2: Validation — Universal Quote Stack
-- ROLE slot: callout-quote-highlight-gf
-- INTENT: Two stacked universal-GF quotes, no level labels, language-only.
-- COMPONENT PICKED: 4.3  (Pull Quote [A] (RECOGNITION & STORY, universal))
-  - Current usage: 1/8
-  - WHY: Standard pull-quote with left-border accent — matches warm-terracotta callout brief for the validation section.
-- IMAGE PICKED: accessories/book-potty-training-guide.png
-  - Alt text: BrightKidCo potty-training guide book, neutral surface
-  - Current usage: 3/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S3: Mechanism — Interoception Reveal
-- ROLE slot: stat-highlight-box-gf
-- INTENT: 49% stat with V16 override ('nervous systems process signals differently'), Wiggins 2022.
-- COMPONENT PICKED: 21.1  (Large Number Callout [A] (GUARANTEE & TRUST, stat-block))
+### S2: Mechanism — Interoception Reveal
+|- ROLE slot: stat-highlight-box-gf
+|- INTENT: 49% stat with V16 override ('nervous systems process signals differently'), Wiggins 2022.
+|- COMPONENT PICKED: 21.1  (Large Number Callout [A] (GUARANTEE & TRUST, stat-block))
   - Current usage: 1/8
   - WHY: Purpose-built large-number callout for the 49% interoception stat (Wiggins 2022 paraphrase, V16-safe).
-- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+|- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
   - Alt text: White cloud-raindrop training pant laid flat
   - Current usage: 6/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: 21.1 is image-driven per catalog; picked image IS the component.
 
-### S4: Social Proof — Three-Parent Stack
-- ROLE slot: testimonial-stack-gf
-- INTENT: Three vertically-stacked parent quotes, no labels, varied parent demographics.
-- COMPONENT PICKED: 7  (Parent Stories (Emotional Proof) [A*] (RECOGNITION & STORY))
+### S3: Social Proof — Three-Parent Stack
+|- ROLE slot: testimonial-stack-gf
+|- INTENT: Three vertically-stacked parent quotes, no labels, varied parent demographics.
+|- COMPONENT PICKED: 7  (Parent Stories (Emotional Proof) [A*] (RECOGNITION & STORY))
   - Current usage: 1/8
-  - WHY: Parent Stories (Emotional Proof) — built for three vertically-stacked real-parent quotes, the Three-Family pattern.
-- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - WHY: Parent Stories (Emotional Proof) — built for three vertically-stacked real-parent quotes.
+|- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
   - Alt text: Child napping softly in pink shorts, real home light
   - Current usage: 5/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: 7 (Parent Stories) is image-driven per catalog; picked image IS the component.
 
-### S5: Product Intro + Guarantee (double-tap CTA)
-- ROLE slot: product-3-layer-cross-section-gf + double-tap CTA
+### S4: Product Intro + Guarantee (double-tap CTA)
+|- ROLE slot: product-3-layer-cross-section-gf + double-tap CTA
 - INTENT: Exploded-view 3-layer product, 60-day guarantee, 'See How It Works' button (double-tap).
 - COMPONENT PICKED: PROD-3  (Layer Breakdown [A*] (PRODUCT SHOWCASE, showcase-allowed))
   - Current usage: 5/8
   - WHY: Layer Breakdown IS the exploded-view 3-layer cross-section. Showcase exception per Ayoub's brief, reusable.
-- COMPONENT PICKED: CTA-3  (Curiosity Code [A*] (CTA — THE CLOSE))
-  - Current usage: 1/8
-  - WHY: Curiosity Code CTA matches the 'See How It Works' frame-setting button, not a hard sale.
 - IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
   - Alt text: Fox-woodland print training pant laid flat, soft white base
   - Current usage: 6/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: PROD-3 is an image-driven component and the picked image IS the component.
+- CTA now embedded inline as plain text link (not a separate body component): 'See How It Works' sits inside the PROD-3 wrap below the layer breakdown. No CTA-3 component row required.
 
 ### Signoff (Lena SHORT — E1)
 - ROLE slot: signoff-lena-short-gf
@@ -823,11 +794,17 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Current usage: 2/8
   - WHY: Giuliano source Signoff card — canonical Lena short-variant cream-card signoff for E1.
 - IMAGE PICKED: none (this section is text-only / bridge)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
-- Total images in this email: 5/6
-- Status: PASS
+|- Total images in this email: 4/6
+|- Status: PASS
+
+### Body component count
+|- Body component rows: 8/8 (S1 HERO-6, S2 21.1, S3 7, S4 PROD-3, Signoff UTIL-05 locked-excluded, plus the locked WRAP component-text-only — UTIL-05 signoff excluded from body cap per locked-signoff rule)
+|- Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented HERO-6, 4.3, 21.1, 7, PROD-3, CTA-3, UTIL-05
-- image-usage.json: incremented lifestyle/toddlers-backview-disposable-diapers.png, accessories/book-potty-training-guide.png, flat-lay/training-pant-cloud-raindrop-white.jpg, lifestyle/toddler-napping-watermelon-pink-shorts.png, flat-lay/training-pant-fox-woodland-white.jpg
+||- component-usage.json: incremented HERO-6, 21.1, 7, PROD-3, UTIL-05
+||- image-usage.json: incremented lifestyle/toddlers-backview-disposable-diapers.png, flat-lay/training-pant-cloud-raindrop-white.jpg, lifestyle/toddler-napping-watermelon-pink-shorts.png, flat-lay/training-pant-fox-woodland-white.jpg

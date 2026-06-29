@@ -721,6 +721,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e3-l3, level=l3, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-5 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — "YOU'VE BEEN LOOKING FOR THE WRONG SIGNS"
 - ROLE slot: dignity-first-sentence-stack-reframe-opener
@@ -733,6 +736,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 1 visual — calibrated per level (l3)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: REFRAME TABLE — "WHAT MICRO-WINS LOOK LIKE FOR L3"
 - ROLE slot: reframe-table-stacked-vertical-2-columns
@@ -745,6 +750,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 2 visual — calibrated per level (l3)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: 5 MICRO-WIN CATEGORIES
 - ROLE slot: micro-wins-stacked-list-vertical-5-categories
@@ -757,6 +764,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 3 visual — calibrated per level (l3)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: TRACKING SYSTEM — "DELIBERATELY MINIMAL"
 - ROLE slot: tracking-system-paragraph-stack-with-minimalist-deliverable
@@ -769,6 +778,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 4 visual — calibrated per level (l3)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: WHAT THIS MEANS ALONGSIDE YOUR LIFE
 - ROLE slot: alongside-your-life-paragraph-stack-with-product-reframe
@@ -781,6 +792,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 5 visual — calibrated per level (l3)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PROD-4 is an image-driven component and the picked image IS the component.
 
 ### Section 6: PEER L3 TESTIMONIAL + TEXT LINK CTA
 - ROLE slot: peer-testimonial-paragraph-stack-with-text-link-cta
@@ -789,6 +802,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) — LENA'S OWN SON'S 
 - ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) — LENA'S OWN SON'S MICRO-WIN
@@ -797,6 +813,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 4/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

@@ -783,6 +783,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e1-l2, level=l2, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWDEEP-11 (Post-Purchase E1 Welcome *(L12650)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — Real Symptom Recognition (L2 ①)
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -795,6 +798,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 1 visual — calibrated per level (l2)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — You Didn't Fail (L2 ③)
 - ROLE slot: validation-prose-warm-cream-with-bcba-respect
@@ -807,6 +812,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 2 visual — calibrated per level (l2)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-15 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Section 3: MECHANISM — Interoception Gap (L2 ②)
 - ROLE slot: mechanism-mint-callout-with-three-citations
@@ -819,6 +826,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 3 visual — calibrated per level (l2)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: ED3 (Interoception Explainer *(L3353)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: TESTIMONIAL — Peer L2 Parent Story
 - ROLE slot: pull-quote-slate-blue-left-border-italic-serif
@@ -831,6 +840,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 4 visual — calibrated per level (l2)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 25.3 (Yellow Quote Card (Green Shadow) *(L2239)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: MECHANISM — BSL Bridges the Gap
 - ROLE slot: layered-text-block-three-rows-bcba-complement
@@ -843,6 +854,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 1 section 5 visual — calibrated per level (l2)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: REALISTIC TIMELINES (L2 ④)
 - ROLE slot: timeline-stack-vertical-with-week-ranges
@@ -851,6 +864,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 7: OFFER — 3+3 Bundle (L2 ⑤ + ⑥)
 - ROLE slot: pricing-box-warm-cream-with-rotation-story
@@ -859,6 +875,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Image count check
 - Total images in this email: 5/6

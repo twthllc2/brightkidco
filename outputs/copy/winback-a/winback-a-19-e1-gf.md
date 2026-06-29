@@ -636,6 +636,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e1-gf, level=gf, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: IMG-01 (Product Hero Image *(L18086)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Section 1: SINGLE-SECTION LONG-FORM PROSE (Shape K)
 - ROLE slot: single-section-long-form-prose-cream
@@ -648,6 +651,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 1 visual — calibrated per level (gf)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: GUARANTEE REAFFIRMED + OPEN DOOR (in-flow)
 - ROLE slot: guarantee-inline-with-permission-closing
@@ -660,6 +665,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 2 visual — calibrated per level (gf)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-short-with-reply-ps
@@ -672,6 +679,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 3 visual — calibrated per level (gf)
   - Current usage: 5/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 4: ADDITIONAL IMAGE (image-augment-fill)
 - ROLE slot: image-augment-fill (synthetic, ensures 4-image minimum)
@@ -681,6 +690,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 augment section 4 visual — calibrated per level (gf)
   - Current usage: 16/25
   - WHY: Required to reach 4-image minimum per the corrected Stage 2 rules (4-6 images per email)
+  - **WRAP: component-text-only**
+  - WHY: Unknown component ID; defaulting to text-only.
 
 ### Image count check
 - Total images in this email: 4/6

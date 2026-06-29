@@ -577,6 +577,8 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
   - Alt text: A young child sitting on a soft living room floor in dinosaur-print underpants, soft natural light, facing away, candid mid-play moment.
   - Current usage: 4/25
   - WHY: Real home, candid posture, soft light, universal toddler vibe — matches hero INTENT and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-18 is an image-driven component and the picked image IS the component.
 
 ### Section 2: OPENER HOOK (recognition frame)
 - ROLE slot: opener-hook-universal ("Whether...Or...If..." pattern)
@@ -585,6 +587,9 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
   - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
   - Current usage: 0/8
   - WHY: "Permission Slip" frames the inclusive opener as permission to be at any point in the journey — matches the "Whether...or...if..." universal recognition pattern.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 3: RECOGNITION ANCHORS (R2)
 - ROLE slot: recognition-anchors-cream-band (5 bullets with checkmarks)
@@ -597,6 +602,8 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
   - Alt text: A young child playing on a living room floor with a wooden train, soft natural light, candid.
   - Current usage: 5/25
   - WHY: Candid Pre-K home moment that visually anchors the "30+ minutes tolerance" + "play distraction" pattern of the recognition anchors.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-3 is an image-driven component and the picked image IS the component.
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN (R4, R6)
 - ROLE slot: testimonial-stack-three-cards-cream (Three stacked horizontal cards with cognac quote glyphs)
@@ -609,6 +616,8 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
   - Alt text: A pink heart-and-bunny training pant laid flat on a neutral surface, warm light.
   - Current usage: 3/25
   - WHY: A neutral product visual grounds the testimonial stack without competing with the parent voices; warm tone matches cognac card backgrounds.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: MECHANISM REFRESHER
 - ROLE slot: mechanism-band-inline-svg-wave (Body-Signal Learning Layer, no level labels)
@@ -621,6 +630,8 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
   - Alt text: A white cloud-and-raindrop training pant laid flat in soft light, calm and quiet.
   - Current usage: 1/25
   - WHY: Cloud-rain motif echoes the "signal caught" waveform in the mechanism diagram without literal illustration; V16-safe and universal.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-8 is an image-driven component and the picked image IS the component.
 
 ### Section 6: PRIMARY CTA BUTTON (Sage Green)
 - ROLE slot: cta-button-full-width-sage-green + permission-not-to-buy line
@@ -633,6 +644,8 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
   - Alt text: A watermelon-print training pant laid flat on a warm neutral surface, friendly and approachable.
   - Current usage: 2/25
   - WHY: Friendly product visual under the offer microcopy, neutral surface lets the green button color carry the visual weight.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 7: LENA SIGN-OFF (SHORT variant, E1)
 - ROLE slot: signoff-lena-short-cream-divider
@@ -642,6 +655,8 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
   - Current usage: 0/8
   - WHY: Canonical Giuliano-derived cream-card signoff; matches the warm cream-divider sign-off block in the wireframe.
 - IMAGE PICKED: none (text-only section; preserves the deliverability/calm tone of E1 sign-off).
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6 (target range 4-6).

@@ -738,6 +738,8 @@ END OF WIREFRAME — pped-11-d7
   - Alt text: "Child playing quietly with a wooden train, focused calm attention in a home setting."
   - Current usage: 6/25
   - WHY: Quiet focused play matches "child at calm activity" hero intent. Soft natural light. Hands visible. No full-face portrait. Under cap. Already picked for d0 — but uniqueness is per-email (image library is small, reuse allowed under cap).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-10 is an image-driven component and the picked image IS the component.
 
 ### Section 2: VALIDATION — WHY NOTHING IS NOTHING
 - ROLE slot: `callout-reframe-quiet` (cream card, dark italic body)
@@ -746,6 +748,9 @@ END OF WIREFRAME — pped-11-d7
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 1/8
   - WHY: "The Permission Letter" is exactly the right visual concept — gives permission to do less. Universal audience. At 1/8, acceptable.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-03 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Section 3: RECOGNITION ANCHORS (R2 — 5 SCENARIOS)
 - ROLE slot: `recognition-anchor-list-on-track` (5 dash-separated lines)
@@ -754,6 +759,9 @@ END OF WIREFRAME — pped-11-d7
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Strength Reframe" — visual concept of turning "nothing happening" into a strength/expectation signal. Pairs with the dash-list of 5 on-track scenarios. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 4: MECHANISM — RADIO ANALOGY (DATA-LED)
 - ROLE slot: `mechanism-metaphor-card` (cream card, italic metaphor)
@@ -762,6 +770,9 @@ END OF WIREFRAME — pped-11-d7
   - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Mechanism Diagram" maps to metaphor card structure — visual representation of the radio-finding-station progression. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-8 requires an image to render; missing image is a BUG.
 
 ### Section 5: PRACTICAL TIPS — 3 SUPPORTING ACTIONS
 - ROLE slot: `practical-tip-list` (3-4 dash-separated lines)
@@ -770,6 +781,9 @@ END OF WIREFRAME — pped-11-d7
   - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Tip Cards" maps exactly to practical-tip-list structure — separate tip cards. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-9 requires an image to render; missing image is a BUG.
 
 ### Section 6: THREE-FAMILY TESTIMONIAL PATTERN
 - ROLE slot: `testimonial-card-stack-vertical` (3 cards stacked)
@@ -778,6 +792,9 @@ END OF WIREFRAME — pped-11-d7
   - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Stacked Mini-Reviews" maps to the Three-Family vertical card stack pattern. Universal audience. Fresh pick. (Different from d0's SP-06 to maintain variance — d0 used Before/After, d7 uses Stacked Mini-Reviews for variance.)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 7 + 8 (consolidated): PERMISSION CLOSE + NEXT-TIME LINE
 - ROLE slot: `callout-permission-quiet` (cream card, dark italic) + `next-time-tease` (small italic line)
@@ -786,6 +803,9 @@ END OF WIREFRAME — pped-11-d7
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "The Letter From Lena" IS the visual concept for the permission close — Lena's voice embodied. Universal audience. Fresh pick. (Replaces 12.1 signoff slot for this email because the permission close IS the emotional anchor here.)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images so far: 1 (hero)

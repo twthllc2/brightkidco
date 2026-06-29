@@ -764,6 +764,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e1-l3, level=l3, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOW-1 (Welcome Hook *(L7121)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — OBSERVATION AS MIRROR
 - ROLE slot: dignity-first-sentence-stack-with-no-headline
@@ -776,6 +779,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 1 visual — calibrated per level (l3)
   - Current usage: 3/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-01 (Chapter Cards — Book-like story progression *(L429) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: VALIDATION — YEARS OF ATTEMPTS REFRAME
 - ROLE slot: validation-paragraph-stack-with-barmpagiannis-2025-citation
@@ -788,6 +793,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 2 visual — calibrated per level (l3)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-03 (Split Before/After — Visual transformation *(L4356) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: MECHANISM — BSL AS INFORMATION, NOT TRAINING
 - ROLE slot: mechanism-paragraph-stack-with-bsl-information-frame
@@ -800,6 +807,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 3 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: M2 is an image-driven component and the picked image IS the component.
 
 ### Section 4: PEER TESTIMONIAL — L3 MICRO-WIN (DIGNITY-FIRST)
 - ROLE slot: peer-testimonial-paragraph-stack-with-dignity-micro-win
@@ -812,6 +821,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 4 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: PRODUCT — GENTLE REFRAME (1 PAIR $34.99 ONLY)
 - ROLE slot: gentle-product-reframe-paragraph-stack
@@ -824,6 +835,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 1 section 5 visual — calibrated per level (l3)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PROD-1 is an image-driven component and the picked image IS the component.
 
 ### Section 6: 60-DAY GUARANTEE — DIGNITY-FRAMED RISK REMOVAL
 - ROLE slot: guarantee-paragraph-dignity-framed
@@ -832,6 +845,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CMP-9 (Decision Tree *(L6313)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 7: PERMISSION-NOT-TO-BUY CLOSE + L3 PEER QUOTE
 - ROLE slot: permission-close-paragraph-stack-with-l3-peer-quote
@@ -840,6 +856,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Image count check
 - Total images in this email: 5/6

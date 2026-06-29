@@ -939,6 +939,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e3-gf, level=gf, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: DEEPCAMP-12 (DEEPCAMP-12 — Spring Refresh (New-Season Drop) *(L) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — Whether...Or...If... + Last Email
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -951,6 +954,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 1 visual — calibrated per level (gf)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — You Didn't Fail
 - ROLE slot: validation-mint-callout-with-spark-49-and-49-study
@@ -963,6 +968,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 2 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: MINI-WIN SUCCESS — 6 Mini-Wins (R6)
 - ROLE slot: low-bar-mini-wins-six-inline-on-cream
@@ -975,6 +982,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 4 visual — calibrated per level (gf)
   - Current usage: 19/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: OFFER + GUARANTEE — The Last Invitation
 - ROLE slot: offer-prose-warm-cream-with-3-3-bundle-emphasis
@@ -987,6 +996,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 5 visual — calibrated per level (gf)
   - Current usage: 21/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: FINAL WORD — The Door Is Open
 - ROLE slot: final-word-prose-warm-cream-lena-two-sons-mirror
@@ -999,6 +1010,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 6 visual — calibrated per level (gf)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 7: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps-bundle-link
@@ -1007,6 +1020,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 8/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Image count check
 - Total images in this email: 5/6

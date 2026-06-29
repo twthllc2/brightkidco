@@ -588,6 +588,8 @@ NOTE: This wireframe has no explicit HERO section (Section 1 is a text-only "Whe
   - Current usage: 1/8
   - WHY: Scientific Hook matches the opener's mechanism-bridge tone (the prose names the interoception pathway). Text-only — preserves the wireframe's no-image intent for the hook.
 - IMAGE PICKED: (text-only per wireframe; minimal at 0 images in INTENT — but the 4-6 image hard minimum forces image pick. Add accessory that supports R2 anchors below.)
+  - **WRAP: image-inside-component**
+  - WHY: Hero image IS the hero component (HERO-13 hero with image picked per Rule 2).
 - IMAGE ADDED: lifestyle/toddler-potty-ladder-pink-multicolor.png
   - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
   - Current usage: 6/25
@@ -604,6 +606,8 @@ NOTE: This wireframe has no explicit HERO section (Section 1 is a text-only "Whe
   - Alt text (GF, V16): "BrightKidCo training pant with soft penguin pattern in multicolor tones, flat-lay product shot."
   - Current usage: 3/25
   - WHY: Generic training pant visual for the failed-methods context.
+  - **WRAP: image-standalone**
+  - WHY: Component "4" has no exact rule match; per Rule 9 (image picked + no rule match) image is decorative and sits alongside the validation paragraph.
 
 ### Section 3: mechanism-text-block-with-inline-citation
 - ROLE slot: mechanism-text-block-with-inline-citation
@@ -616,6 +620,8 @@ NOTE: This wireframe has no explicit HERO section (Section 1 is a text-only "Whe
   - Alt text (GF, V16): "Potty training guide book laid flat on a warm cream surface."
   - Current usage: 2/25
   - WHY: Supports the "every book that promises 'your child will train 3 days'" reference — the guide book as visual metaphor for what parents have tried.
+  - **WRAP: image-standalone**
+  - WHY: PSYCH- matches Rule 8 (PSYCH-); image picked → image-standalone; content block, image is decorative.
 
 ### Section 4: testimonial-card-stack-vertical
 - ROLE slot: testimonial-card-stack-vertical
@@ -628,6 +634,8 @@ NOTE: This wireframe has no explicit HERO section (Section 1 is a text-only "Whe
   - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
   - Current usage: 4/25
   - WHY: Backview dual-toddler shot for the three-family testimonials. R1-compliant (no faces).
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: permission-text-block + cta-text-link-soft
 - ROLE slot: permission-text-block + cta-text-link-soft
@@ -640,6 +648,8 @@ NOTE: This wireframe has no explicit HERO section (Section 1 is a text-only "Whe
   - Alt text (GF, V16): "Toddler viewed from behind in mustard yellow shorts, soft warm light, full backview."
   - Current usage: 4/25
   - WHY: Generic toddler-rearview for the permission block. R1-clean.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Image count check
 - Total images in this email: 5/6

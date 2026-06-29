@@ -1087,6 +1087,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e5-l2, level=l2, theme=5. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWIMG-001 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — PLATEAU RECOGNITION MIRROR
 - ROLE slot: prose-block-with-plateau-recognition-mirror
@@ -1099,6 +1102,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 5 section 1 visual — calibrated per level (l2)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-14 (The Dictionary Entry *(L10193)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: MECHANISM — CONSOLIDATION PHASE REFRAME
 - ROLE slot: mechanism-paragraph-stack-with-consolidation-phase-reframe
@@ -1111,6 +1116,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 5 section 2 visual — calibrated per level (l2)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-4 (The Interoception Test *(L10745)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: 3 PLATEAU CARDS — TROUBLESHOOTING (ELEMENT ④ + L5)
 - ROLE slot: troubleshooting-card-stack-vertical-3-cards
@@ -1123,6 +1130,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 5 section 3 visual — calibrated per level (l2)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-15 (The Museum Plaque *(L10215)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: BCBA BRIDGE + VALIDATION (ELEMENT ③)
 - ROLE slot: validation-paragraph-stack-with-bcba-bridge
@@ -1135,6 +1144,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 5 section 4 visual — calibrated per level (l2)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-16 (The News Article *(L10236)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: AWARENESS SIGNS CHECKLIST + 60-DAY GUARANTEE (ELEM
 - ROLE slot: awareness-signs-checklist-with-guarantee
@@ -1147,6 +1158,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 5 section 5 visual — calibrated per level (l2)
   - Current usage: 4/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: CMP-10 (6-Month Cost Analysis *(L6347)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: CTA — CONNECTION-BASED (LOW AGGRESSION)
 - ROLE slot: cta-text-link-connection-based
@@ -1155,6 +1168,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
 - ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
@@ -1163,6 +1179,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=signoff_footer, audience=['L2']
   - Current usage: 2/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-04 (Footer (Giuliano source) *(L7571)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

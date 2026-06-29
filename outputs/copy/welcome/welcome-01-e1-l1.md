@@ -497,6 +497,7 @@ EXAMPLE_PICK: lifestyle photo of kid 3-5 yrs, hopeful
               no stock-photo gloss
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-1, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -518,33 +519,14 @@ NOTE: This is the FIRST callout in the email. Sets the
       vary this for variance or keep it consistent).
 
 NO CTA in this section
+WRAP: image-inside-component (4.3 Pull Quote, image anchored inside callout)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 3: VALIDATION]
+[SECTION 3: MECHANISM — INTEROCEPTION REVEAL]
 ─────────────────────────────────────────────────────────────────
-HEADLINE: This isn't your fault. And it's not his.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: callout-quote-highlight (variant — same family as
-        Section 2 OR different for variance)
-INTENT: highlights the second parent quote
-        ("He has a perfect week, then a month of accidents.");
-        the inconsistent-performance L1 marker phrase,
-        carrying the absolution beat
-EXAMPLE_PICK: callout box, same style as Section 2 OR
-              different (Stage 2 decides for variance)
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 4: MECHANISM — INTEROCEPTION REVEAL]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from validation)
+HEADLINE: (no separate headline — continues from hook quote)
 SUBHEADLINE: (none)
 
 [VISUAL ELEMENT]
@@ -557,7 +539,15 @@ EXAMPLE_PICK: visual box containing
               ">90% of autistic children have sensory
               processing differences" with citation
 
+NOTE: Section 3 VALIDATION callout was REMOVED for cap
+compliance. The hook pull-quote (Section 2) carries the
+parent-voice moment; the mechanism stat (Section 3) carries
+the science moment. CTA (Section 4) closes the loop. Total
+body components in wireframe: 4 (HERO-1, 4.3 Pull Quote,
+M10 Stat Block, CTA-4). Matches STAGE 2 PICKS count.
+
 NO CTA in this section
+WRAP: image-inside-component (M10 Stat Block, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -579,6 +569,8 @@ BUTTON_INTENT: drives to PDP
 SECONDARY:  text link "Read the science behind it →"
 P.S.:       "*That's $13.33 per pair with the bundle — less
              than half the single-pair price.*"
+
+WRAP: image-standalone (CTA-4 Gentle Invite, image placed next to text-link)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -668,6 +660,8 @@ END OF WIREFRAME — welcome-01-e1-l1
   - Alt text: A verbal 3-5 year old boy playing with a wooden train on the living room floor in soft natural light.
   - Current usage: 1/25
   - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-1 is an image-driven component and the picked image IS the component.
 
 ### Section 2: callout-quote-highlight-hook
 - ROLE slot: callout-quote-highlight-hook
@@ -680,20 +674,10 @@ END OF WIREFRAME — welcome-01-e1-l1
   - Alt text: Toddler in dinosaur-print outfit sitting in a sunlit living room, a candid Pre-K home moment.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
-### Section 3: callout-quote-highlight-validation
-- ROLE slot: callout-quote-highlight-validation
-- INTENT: highlights the inconsistent-performance quote ('He has a perfect week, then a month of accidents')
-- COMPONENT PICKED: 4.5 (Cream Callout)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Cream Callout (4.5) is the L1 cream-card quote variant for the validation section.
-- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
-  - Alt text: Two toddlers from behind in disposable diapers in a real living room, lived-in and unposed.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 4: stat-highlight-box
+### Section 3: stat-highlight-box
 - ROLE slot: stat-highlight-box
 - INTENT: anchors the >90% sensory-processing stat that reframes mechanism
 - COMPONENT PICKED: M10 (Stat Block (Mobile))
@@ -704,6 +688,8 @@ END OF WIREFRAME — welcome-01-e1-l1
   - Alt text: A sticker chart and potty-target accessory laid out on a neutral surface, evoking Sarah's failed methods.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: M10 is an image-driven component and the picked image IS the component.
 
 ### Section 5: cta-button-full-width
 - ROLE slot: cta-button-full-width
@@ -716,6 +702,8 @@ END OF WIREFRAME — welcome-01-e1-l1
   - Alt text: Two founders holding a stack of yellow-and-watermelon potty training pants, candid and warm.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 6: signoff-lena-short
 - ROLE slot: signoff-lena-short
@@ -725,6 +713,8 @@ END OF WIREFRAME — welcome-01-e1-l1
   - Current usage: 1/8
   - WHY: Mandatory Lena signoff for E1 per GIULIANO-DEMANDS §7.3, Lena as trusted L1 voice (mom of two sons).
 - IMAGE PICKED: none (text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6 (target range 4-6).

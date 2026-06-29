@@ -134,6 +134,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: "Toddler playing with a moon-cloud themed train toy, illustrating the everyday childhood activities that coexist with the body-signal learning phase."
   - Current usage: 5/25
   - WHY: The opener's "if you're seeing any sign of awareness, you're past the hardest part" visual — toddler-in-play, calm, cross-level safe.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 23.2 (Drop Cap Initial Letter (uses Letter) *(L2133)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: Three-Family Testimonial Pattern
 - ROLE slot: testimonial-card-l1-verbal-rotated + testimonial-card-l2-sensory-bcba-rotated + testimonial-card-l3-non-verbal-rotated + validation-bridge-text-rotation (Section 2)
@@ -146,6 +148,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: "Two toddlers viewed from behind wearing disposable diapers, representing the everyday comparison the testimonial parents describe (washing every night with only 2 pairs)."
   - Current usage: 1/25 (was 1 → now 2)
   - WHY: The "2 pairs, doing laundry every night" anchor — visual context for the L1 testimonial's "3+3 changed everything" claim.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 3: Mechanism — Why Rotation Matters Neurologically
 - ROLE slot: mechanism-paragraph-stack-with-pull-ups-critique (Section 3)
@@ -158,6 +162,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: "Training pant with woodland fox illustration on white fabric, illustrating the sensory-friendly cotton material that distinguishes the underwear from pull-ups."
   - Current usage: 0/25 (NEW)
   - WHY: The "cotton vs plastic pull-up" critique visual — sensory-friendly cotton flat-lay anchors the L2-pull-up-critique mechanism.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-4 is an image-driven component and the picked image IS the component.
 
 ### Section 4: Match-Based Offer — 3 Add-On Paths
 - ROLE slot: offer-list-stacked-vertical-3-paths + guarantee-line-inline (Section 4)
@@ -170,6 +176,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: "Cream-colored laundry bag with llama illustration, the cross-sell add-on for the 3+3 → 5+5 path."
   - Current usage: 1/25 (was 1 → now 2)
   - WHY: The Wash Bag cross-sell visual for path 2 ("If you started with 3+3 → The 5+5 Bundle adds more rotation plus the Wash Bag").
+  - **WRAP: image-inside-component**
+  - WHY: 6.2 is an image-driven component and the picked image IS the component.
 - IMAGE PICKED: accessories/book-potty-training-guide.png (additional)
   - Alt text: "A practical potty-training guide book, the e-book add-on referenced in the 5+5 Magic Targets path."
   - Current usage: 0/25 (NEW)
@@ -186,6 +194,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: "Coordinated towel set with llama and cactus illustrations, an accessory add-on for the home environment reinforcing the rotation theme."
   - Current usage: 0/25 (NEW)
   - WHY: A soft accessory visual that anchors the CTA section's "Find my next pair count" button — child-free, sensory-friendly.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 6: FAQ — Inline Objection Handling
 - ROLE slot: faq-block-stacked-qa-pairs + permission-close-text (Section 6)
@@ -195,6 +205,8 @@ Customer Support · Mom of two autistic sons
   - Current usage: 2/8 (was 2 → now 3)
   - WHY: Story-block variant handles the Q&A pairs + permission close with warm peer-voice temperature. Text-only keeps the FAQ section readable.
 - IMAGE PICKED: none (FAQ section is text-only per readability)
+  - **WRAP: image-required-component**
+  - WHY: STORY-09 (The Reframe — Challenge → New perspective *(L4559)) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 7: Sign-off + Next-Time Microcopy
 - ROLE slot: next-time-microcopy (Section 7a) + signoff-lena-short (Section 7b)
@@ -204,6 +216,8 @@ Customer Support · Mom of two autistic sons
   - Current usage: 3/8 (was 3 → now 4)
   - WHY: Closing-letter treatment for Lena SHORT sign-off; warm peer-voice; already under cap.
 - IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+  - **WRAP: component-text-only**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: HERO-11 (Question Storm)

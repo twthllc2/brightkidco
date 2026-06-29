@@ -625,6 +625,8 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Alt text: A cream llama-print laundry bag on a neutral surface, calm and homey.
   - Current usage: 1/25
   - WHY: Laundry bag = the rotation theme (no child photo, matching the wireframe's "NO STOCK PHOTOS OF CHILDREN"); warm tone keeps the visual grounded without stock-y feel.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-19 is an image-driven component and the picked image IS the component.
 
 ### Section 2: OBSERVATION HOOK (Whether/Or/If opener)
 - ROLE slot: observation-hook-cream-band (whether/or/if universal opener + closing observation)
@@ -633,6 +635,9 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
   - Current usage: 0/8
   - WHY: "Guilt Reduction" frames the "maybe nothing visible yet" closing line as explicit guilt-absolution; matches the wireframe's permission-not-to-buy requirement.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 3: VALIDATION: THE 1-PAIR REALITY (Lena pull-quote + 2 conditional paragraphs)
 - ROLE slot: validation-pull-quote-band (Lena first-person + conditional validation)
@@ -645,6 +650,8 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Alt text: A toddler from the back in mustard-cat-print clothing in a soft home setting, candid and Pre-K-aged.
   - Current usage: 2/25
   - WHY: Candid rear-view avoids full-face; neutral posture evokes the parent-observer vantage ("this is your child at 30 days"); warm mustard ties to cream/ochre palette.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 4: MECHANISM: WHY ROTATION MATTERS + Inline Testimonial
 - ROLE slot: mechanism-band-with-inline-quote (Body-Signal Learning Layer + "5 weeks consistent wear" pull-quote)
@@ -653,6 +660,9 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 0/8
   - WHY: "Tip Cards" pattern fits a small cluster of mechanism insights (data point, repetition, disruption) with the inline testimonial as a highlight card.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-9 requires an image to render; missing image is a BUG.
 
 ### Section 5: THREE-FAMILY TESTIMONIAL PATTERN (R4, R6)
 - ROLE slot: testimonial-stack-three-cards-cream-cards-with-coral-accent
@@ -661,6 +671,9 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 0/8
   - WHY: "Review of the Week" card stack reads as a curated editorial pick, distinguishing E3's three voices from E1's and E2's testifier sets.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 6: PERMISSION BLOCK (Price block + Guarantee anchor)
 - ROLE slot: permission-price-guarantee-block (cream-tinted #F8F6F3)
@@ -673,6 +686,8 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Alt text: A blue whale-print swim diaper laid flat on a soft surface, calm and child-neutral.
   - Current usage: 1/25
   - WHY: Different product variant (swim diaper) signals product family breadth without implying "you've been using the wrong thing"; soft blue expands the warm palette without teal violation.
+  - **WRAP: image-inside-component**
+  - WHY: PROD-9 is an image-driven component and the picked image IS the component.
 
 ### Section 7: DUAL CTA STACK (Primary bundle + secondary 1-pair)
 - ROLE slot: dual-cta-stack-pill-shape-primary-and-outlined-secondary
@@ -685,6 +700,8 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Alt text: A space/zebra/llama-print wet bag laid on a neutral surface, slightly playful.
   - Current usage: 2/25 → 3/25 (still well under cap)
   - WHY: Bag image anchors the "rotation support" outcome (every wet bag = one rotation step complete); playful print expands visual variety.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 8: LENA SIGN-OFF (MEDIUM variant, E3)
 - ROLE slot: signoff-lena-medium-cream-divider (With understanding, + P.S. line)
@@ -694,6 +711,8 @@ BrightKidCo · [Address] · [Unsubscribe]
   - Current usage: 0/8
   - WHY: "The Letter From Lena" is purpose-built for longer-than-E1 sign-off moments with mom-of-two-sons voice; matches the MEDIUM variant requirement.
 - IMAGE PICKED: none (text-only section; preserves the calm permission tone of E3 sign-off).
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 4/6 (target range 4-6).

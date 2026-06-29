@@ -935,14 +935,23 @@ END OF WIREFRAME — arrived-08
 | Role | Component ID | Reason |
 |---|---|---|
 | STATUS-BAR-DELIVERED | **UTIL-08** | Neutral bar '✓ DELIVERED' |
+  |  | **WRAP: image-standalone (placed between sections)** | UTIL-08 (Nav Bar *(L7682)*) is text-only per catalog; any image is decorative and sits between sections. |
 | SIGNAL-PATH-SVG-ILLUSTRATION | **HERO-21** | Custom SVG signal-path illustration — fresh hero (0/8) |
+  |  | **WRAP: image-inside-component** | HERO-21 is an image-driven component and the picked image IS the component. |
 | PROSE-VALIDATION-SKEPTICISM | **EMO-4** | Lena validation — 'I know the skepticism' |
+  |  | **WRAP: component-text-only** | Content block is text-only by design. |
 | PROSE-MECH-WITH-CITATION | **EDU-7** | 3-layer mechanism prose with academic citation |
+  |  | **WRAP: image-required-component** | EDU-7 requires an image to render; missing image is a BUG. |
 | PROSE-WEEK-1-EXPLORATION | **EDU-10** | Week-1 exploration prose with quoted line |
+  |  | **WRAP: image-required-component** | EDU-10 requires an image to render; missing image is a BUG. |
 | GUARANTEE-BAND-EXPANDED | **CMP-7** | Cream band — expanded risk reversal |
+  |  | **WRAP: image-required-component** | CMP-7 (Scorecard Showdown *(L6246)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | UPSELL-TEXT-LINK-LOW-AGR | **CTA-12** | Soft text-link upsell — 1-pair buyers only |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | FOOTER-EASTER-EGG-SIGNAL | **UTIL-05** | Footer easter-egg signal-dot motif |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html. |
 | LENA-SIGNOFF-MEDIUM + FOOTER | **12.1** | Lena medium sig + BKC footer |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | 12.1 is the Lena sign-off/footer block that ships from locked footer.html. |
 
 ### Images (2/6)
 

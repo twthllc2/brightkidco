@@ -847,6 +847,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e2-l3, level=l3, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-24 (Back-to-School *(L25709)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK / OBSERVATION — Still Reading
 - ROLE slot: opening-prose-block-centered-warm-cream
@@ -859,6 +862,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 1 visual — calibrated per level (l3)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-6 (The Wear Test *(L10524)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: NEW SCIENCE CITATION — Frontiers Meta-Analysis
 - ROLE slot: mechanism-warm-sand-callout-with-frontiers-meta
@@ -871,6 +876,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 3 visual — calibrated per level (l3)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-7 (The Color Personality *(L10553)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: UPDATED OFFER — Just a Pair of Underwear
 - ROLE slot: offer-prose-warm-cream-pair-simplification
@@ -883,6 +890,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 4 visual — calibrated per level (l3)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-8 (The Bundle Builder *(L10584)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps-l3
@@ -895,6 +904,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 2 section 5 visual — calibrated per level (l3)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Image count check
 - Total images in this email: 4/6

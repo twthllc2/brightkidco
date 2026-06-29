@@ -435,6 +435,8 @@ L2 is the most skeptical segment (40/60 hope/realism, 7-21 day decision cycle). 
 │   He never goes on his own."                            │
 │  "The sit itself became the signal. Not the body."      │
 │                                                          │
+│  WRAP: image-inside-component (HERO-2 Data Shock,        │
+│  picked image IS the component — founder + toddler)     │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  [HERO IMAGE-LIFESTYLE — single column, full-width,     │
@@ -447,94 +449,35 @@ L2 is the most skeptical segment (40/60 hope/realism, 7-21 day decision cycle). 
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  FAILED-METHODS RECOGNITION BLOCK (named list)          │
-│  "BCBA protocol, scheduled sits with reinforcement.     │
-│   OT sensory work, brushes, weighted lap pads.          │
-│   Social stories. Sticker charts. Timer watches.        │
-│   The three-day method. 'Just wait until he's ready.'"  │
-│  "You've tried 40+ methods. Every single one           │
-│   assumed your child CAN feel when they need to go."    │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  VALIDATION BODY (4–5 sentences, L2 unlock sentence     │
-│  in body, NOT a callout box here)                       │
+│  VALIDATION BODY (L2 unlock sentence inline)            │
 │  "Your child didn't fail. Your BCBA didn't fail.        │
 │   Your OT didn't fail. The protocol was sound,          │
 │   for a brain that receives the 'I need to go' signal   │
 │   on time."                                             │
-│                                                          │
-│  [L2 UNLOCK SENTENCE — pulled-out body sentence,        │
-│   tight 16px margin around it, NOT a callout box]       │
 │  "Your BCBA has been doing the hard work for years.     │
 │   Body-signal learning is the missing layer their       │
 │   protocol can't address."                              │
 │                                                          │
+│  WRAP: component-text-only (DEEP-21 validation/letter,  │
+│  text-only by L2 design)                                │
+│  (mechanism explanation folded into validation body      │
+│   — interoception/eighth-sensory-system mentioned)      │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  MECHANISM DEEP BODY (3-layer explainer in plain prose) │
-│  "Interoception is the eighth sensory system…"          │
-│  Layer 1: Cotton inner, 30–60 sec gentle "uh-oh"        │
-│  Layer 2: Smart absorption (protects without blocking)  │
-│  Layer 3: Leak-resistant outer barrier                  │
-│  "Pull-ups actively prevent this feedback loop.         │
-│   They keep children 'too dry to learn.'"               │
+│  PRODUCT INTRO BODY + GUARANTEE + PRIMARY CTA + SECONDARY │
+│  (Consolidated 6.1 product_showcase)                    │
+│  "The body-signal underwear isn't another training     │
+│   method. It gives your child's brain the signal it's  │
+│   not receiving on its own."                            │
+│  "The 3+3 Bundle, $79.99 with free shipping: 6 pairs   │
+│   for rotation. 60 days. Your judgment. Full refund     │
+│   if no sign of increased body awareness."              │
+│  [PRIMARY CTA BUTTON: Add the Sensory Layer, Get the    │
+│   3+3 Bundle]                                            │
+│  Secondary text link: "Start with 1 Pair ($34.99)…"    │
 │                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [MINT-BORDERED SCIENCE CALLOUT BOX]                     │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ ★ 49% of autistic 4–5 year olds are not           │  │
-│  │   toilet trained.                                  │  │
-│  │   Source: SPARK study, Wiggins et al. 2022        │  │
-│  │                                                    │  │
-│  │ Mahler = "interoception researcher" (NOT           │  │
-│  │ "our partner"); Nicholson et al. 2019.             │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (mint #DBFFCD border, the L2 visual signature)         │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  SOCIAL PROOF — callout-quote-highlight (single column)  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "He sits on the toilet for 45 minutes and then     │  │
-│  │  pees the second he stands up."                    │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "He initiated. Once. After four years. He walked  │  │
-│  │  to the bathroom on his own…"                      │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  PRODUCT INTRO BODY (3-layer recap in compact form,     │
-│  ending with the 3+3 bundle offer)                      │
-│  "The 3+3 Bundle, $79.99 with free shipping:            │
-│   6 pairs for rotation."                                │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  GUARANTEE — trust-anchor-callout                        │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ 60 days. Your judgment.                            │  │
-│  │ If your child shows no sign of increased body      │  │
-│  │ awareness, full refund. No questions. No hoops.    │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (mint callout frame; muted-green accent border)        │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [PRIMARY CTA — cta-button-full-width (muted-green)]    │
-│  "Add the Sensory Layer, Get the 3+3 Bundle"            │
-│  [ Muted-green fill, NOT full-width, 48px min height,   │
-│   12–16px border-radius ]                               │
-│                                                          │
-│  SECONDARY TEXT LINK                                    │
-│  "Start with 1 Pair ($34.99), see if the signal works   │
-│   first"                                                │
-│                                                          │
+│  WRAP: image-inside-component (6.1 product_showcase,    │
+│  consolidated guarantee+CTA+secondary link)             │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SIGN-OFF — signoff-lena-short                          │
@@ -549,6 +492,8 @@ L2 is the most skeptical segment (40/60 hope/realism, 7-21 day decision cycle). 
 │           child right now, that's okay. The product     │
 │           will be here when you're ready."              │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.1 Lena  │
+│  Signoff SHORT, ships from locked footer.html)          │
 └──────────────────────────────────────────────────────────┘
 
 SYSTEM B (automatic):
@@ -587,20 +532,10 @@ SYSTEM B (automatic):
   - Alt text: Founder Lena holding BKC yellow-watermelon training pants, founder portrait peer-disclosure moment
   - Current usage: 2/25
   - WHY: Hero image: founder + toddler real moment. L2 peer disclosure visual signature.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-2 is an image-driven component and the picked image IS the component.
 
-### Section 2: FAILED-METHODS RECOGNITION BLOCK (40+ named methods)
-- ROLE slot: FAILED-METHODS RECOGNITION BLOCK (40+ named methods)
-- INTENT: BCBA protocol, OT sensory, social stories, sticker charts, timer watches, 3-day method...
-- COMPONENT PICKED: STORY-09
-  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
-  - Current usage: 1/8
-  - WHY: STORY-09 recognition-style component for dense named-list of failed methods
-- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
-  - Alt text: Toddler with backpack wearing moon-cloud-blue training pants during outdoor outing moment
-  - Current usage: 2/25
-  - WHY: Real toddler moment for failed-methods block — these were tried on HER child
-
-### Section 3: VALIDATION BODY (with L2 unlock sentence in body)
+### Section 2: VALIDATION BODY (with L2 unlock sentence in body)
 - ROLE slot: VALIDATION BODY (with L2 unlock sentence in body)
 - INTENT: "Your BCBA has been doing the hard work for years. Body-signal learning is the missing layer."
 - COMPONENT PICKED: DEEP-21
@@ -609,42 +544,10 @@ SYSTEM B (automatic):
   - WHY: DEEP-21 validation/letter component. Pulls L2 unlock sentence into the body — gravitational center
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
-### Section 4: MECHANISM DEEP BODY (3-layer explainer: cotton inner, smart absorption, leak-resistant outer)
-- ROLE slot: MECHANISM DEEP BODY (3-layer explainer: cotton inner, smart absorption, leak-resistant outer)
-- INTENT: Interoception eighth sensory system + 3-layer body-signal system in plain prose
-- COMPONENT PICKED: EDU-2
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 1/8
-  - WHY: EDU-2 mechanism-deep component for the 3-layer explainer
-- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
-  - Alt text: Toddler playing with wooden train toy wearing moon-cloud-blue training pants, focused play moment
-  - Current usage: 2/25
-  - WHY: Real-life moment anchors the 3-layer system explanation — body-signal learning is everyday, not special
-
-### Section 5: MINT-BORDERED SCIENCE CALLOUT BOX (Mahler + Wiggins SPARK + Iqbal 19%)
-- ROLE slot: MINT-BORDERED SCIENCE CALLOUT BOX (Mahler + Wiggins SPARK + Iqbal 19%)
-- INTENT: Triple citation: Mahler interoception researcher, Wiggins SPARK 49%, Iqbal 19% thirst
-- COMPONENT PICKED: EDU-11
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 3/8
-  - WHY: EDU-11 science citation component. Triple-source citation visible — L2 high-science-visibility calibration
-- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
-  - Alt text: Toddler napping in watermelon-pink shorts, quiet restorative moment
-  - Current usage: 6/25
-  - WHY: Calm moment near science callout — softens triple-citation density; gives the eye a rest before social proof
-
-### Section 6: SOCIAL PROOF — callout-quote-highlight (L2 parent quote)
-- ROLE slot: SOCIAL PROOF — callout-quote-highlight (L2 parent quote)
-- INTENT: "we tried scheduled sits for 2 years, he never goes on his own"
-- COMPONENT PICKED: SP-01
-  - Catalog entry: position=body_social_proof, audience=L2
-  - Current usage: 2/8
-  - WHY: SP-01 quote-callout for L2 parent testimonial
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 7: PRODUCT INTRO BODY + GUARANTEE + PRIMARY CTA + SECONDARY TEXT LINK (combined)
+### Section 3: PRODUCT INTRO BODY + GUARANTEE + PRIMARY CTA + SECONDARY TEXT LINK (combined)
 - ROLE slot: PRODUCT INTRO BODY + GUARANTEE + PRIMARY CTA + SECONDARY TEXT LINK (combined)
 - INTENT: 3-layer product recap + 60-day guarantee badge + permission-based CTA + sizing guide link
 - COMPONENT PICKED: 6.1
@@ -655,8 +558,10 @@ SYSTEM B (automatic):
   - Alt text: Red and white fox training pant flat-lay product photo on neutral background
   - Current usage: 1/25
   - WHY: Training pant flat-lay shows the actual 3-layer system (cotton inner, smart absorption, leak barrier)
+  - **WRAP: image-inside-component**
+  - WHY: 6.1 is an image-driven component and the picked image IS the component.
 
-### Section 8: SIGN-OFF — signoff-lena-short ("Not a template. Not a bot. I read everything.")
+### Section 4: SIGN-OFF — signoff-lena-short ("Not a template. Not a bot. I read everything.")
 - ROLE slot: SIGN-OFF — signoff-lena-short ("Not a template. Not a bot. I read everything.")
 - INTENT: Lena SHORT sign-off: real-person peer disclosure
 - COMPONENT PICKED: 12.1
@@ -665,11 +570,13 @@ SYSTEM B (automatic):
   - WHY: 12.1 Lena sign-off component, SHORT variant
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: ['HERO-2', 'STORY-09', 'DEEP-21', 'EDU-2', 'EDU-11', 'SP-01', '6.1', '12.1']
-- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'flat-lay/training-pant-fox-red-white.jpg']
+- component-usage.json: ['HERO-2', 'DEEP-21', '6.1', '12.1']
+- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'flat-lay/training-pant-fox-red-white.jpg']</new_string>

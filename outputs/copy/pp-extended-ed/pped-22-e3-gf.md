@@ -1107,6 +1107,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e3-gf, level=gf, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-8 requires an image to render; missing image is a BUG.
 
 ### Section 1: HERO ILLUSTRATION — "THE INVISIBLE BRIDGE"
 - ROLE slot: hero-illustration-invisible-bridge
@@ -1119,6 +1122,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 1 visual — calibrated per level (gf)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: LETTER OPENING — "LENA HERE."
 - ROLE slot: letter-opening-with-drop-cap-and-warm-yellow-bg
@@ -1131,6 +1136,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 2 visual — calibrated per level (gf)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: 5 MICRO-SIGNALS LIST — "THE QUIET SIGNALS"
 - ROLE slot: micro-signals-list-stacked-with-teal-checkmark-icons
@@ -1143,6 +1150,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 3 visual — calibrated per level (gf)
   - Current usage: 3/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: PULL-QUOTE MECHANISM BRIDGE
 - ROLE slot: pull-quote-on-soft-teal-green-bg
@@ -1155,6 +1164,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 4 visual — calibrated per level (gf)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 4 (The Pull-Up Villain Card *(L101)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: WHAT TO DO — "WHAT TO DO WITH THIS"
 - ROLE slot: guidance-paragraph-stack-with-permission-frame
@@ -1167,6 +1178,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 3 section 5 visual — calibrated per level (gf)
   - Current usage: 3/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: PERMISSION CLOSE + 60-DAY GUARANTEE
 - ROLE slot: permission-close-paragraph-stack-with-guarantee
@@ -1175,6 +1188,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: EJ3 (Permission Slip *(L3450)*) is text-only per catalog.
 
 ### Section 7: CTA SECTION + LENA SIGN-OFF
 - ROLE slot: cta-button-with-deep-ink-bg-and-secondary-text-link
@@ -1183,6 +1199,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Image count check
 - Total images in this email: 5/6

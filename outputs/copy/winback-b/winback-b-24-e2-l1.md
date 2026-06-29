@@ -707,6 +707,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e2-l1, level=l1, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-19 (Gift Bundle *(L25566)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Section 1: HOOK — New Angle + 49-Study Citation
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -719,6 +722,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 1 visual — calibrated per level (l1)
   - Current usage: 18/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 3 (Micro-Win Celebration *(L82)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: UPDATED OFFER — Low-Barrier Entry
 - ROLE slot: low-bar-pricing-mint-with-bundle-upsell
@@ -731,6 +736,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 3 visual — calibrated per level (l1)
   - Current usage: 15/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-3 (The Size Finder *(L10437)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: GUARANTEE — Reinforced for Hope-Fear
 - ROLE slot: guarantee-line-centered-muted
@@ -743,6 +750,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 4 visual — calibrated per level (l1)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: TRUSTDEEP-1 (The Evidence Cascade *(L10930)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps-link
@@ -755,6 +764,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 5 visual — calibrated per level (l1)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 4/6

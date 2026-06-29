@@ -558,6 +558,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e3-l3, level=l3, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-3 (Bestseller Social Proof *(L25080)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: OPENING — Quiet Dignity Acknowledgment
 - ROLE slot: opening-prose-block-centered-warm-cream
@@ -570,6 +573,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 1 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: MECHANISM REMINDER — The Signal Still Exists
 - ROLE slot: mechanism-warm-sand-callout-no-green-l3
@@ -582,6 +587,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 2 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: M2 is an image-driven component and the picked image IS the component.
 
 ### Section 3: OFFER — 1 Pair ($34.99), Add Alongside
 - ROLE slot: offer-prose-1-pair-only-no-bundle-l3
@@ -594,6 +601,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 3 visual — calibrated per level (l3)
   - Current usage: 16/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDU-12 is an image-driven component and the picked image IS the component.
 
 ### Section 4: GUARANTEE — 60 Days, No Questions, Your Judgment
 - ROLE slot: guarantee-paragraph-with-no-disappointment-anchor
@@ -606,6 +615,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 4 visual — calibrated per level (l3)
   - Current usage: 19/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: TRUST-8 (Trust Icons Row *(L6603)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: CLOSING — Door-Closing Moment
 - ROLE slot: closing-prose-warm-cream-door-closing
@@ -618,6 +629,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 3 section 5 visual — calibrated per level (l3)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PSYCH-10 (Scarcity (Honest) *(L8727)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps-l3
@@ -626,6 +639,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 6/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-10 (Legal Text *(L7739)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

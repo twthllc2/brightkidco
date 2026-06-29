@@ -848,6 +848,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e3-l2, level=l2, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-14 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — PROMPT-DEPENDENCY REALITY MIRROR
 - ROLE slot: prose-block-with-prompt-dependency-symptom-recognition
@@ -860,6 +863,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 1 visual — calibrated per level (l2)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 2: VALIDATION — PROMPT-DEPENDENCY IS NOT TRAINING
 - ROLE slot: validation-paragraph-stack-with-bcba-respect
@@ -872,6 +877,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 2 visual — calibrated per level (l2)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 3: MECHANISM — WHY PROMPTS OVERWRITE INTERNAL SIGNALS
 - ROLE slot: mechanism-paragraph-stack-with-prompt-overwrite-explanation
@@ -884,6 +891,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 3 visual — calibrated per level (l2)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDU-8 is an image-driven component and the picked image IS the component.
 
 ### Section 4: PRACTICAL STRATEGY — 4-PHASE PROMPT-FADING PROTOCO
 - ROLE slot: protocol-list-stacked-vertical-with-week-ranges
@@ -896,6 +905,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 4 visual — calibrated per level (l2)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: PRODUCT FRAME — HOW BSL UNDERWEAR FITS THIS PHASE
 - ROLE slot: product-frame-paragraph-stack-with-2-key-functions
@@ -908,6 +919,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 5 visual — calibrated per level (l2)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PROD-3 is an image-driven component and the picked image IS the component.
 
 ### Section 6: REALISTIC TIMELINES (ELEMENT ④)
 - ROLE slot: timeline-paragraph-stack-with-ranges
@@ -916,6 +929,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 7: 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT
 - ROLE slot: guarantee-permission-stacked-paragraphs-with-personal-channel
@@ -924,6 +940,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Image count check
 - Total images in this email: 5/6

@@ -432,6 +432,7 @@ EXAMPLE_PICK: text-only paragraph; no decoration;
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (HERO-20 Handwritten Letter Opener, picked image IS the component — toddler napping)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -480,6 +481,7 @@ EXAMPLE_PICK: three vertically stacked bold-led
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-standalone (EMO-12 Hope Gradient, decorative textile image between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -510,6 +512,7 @@ EXAMPLE_PICK: warm cream soft card with 2px soft
               compact offer + text-link CTA inside
 
 56px space above, 56px space below
+WRAP: image-inside-component (PROD-3 Layer Breakdown final offer card, picked image IS the component — woodland training pant; also CTA-11 Permission CTA accessory image-standalone)
 
 [CTA]
 PRIMARY:   text link "When you're ready, it's here →"
@@ -529,6 +532,7 @@ MICROCOPY: "1 Pair, $34.99, 60-Day Guarantee,
             anchor)
 
 56px space above, 56px space below
+WRAP: component-text-only (CTA-11 Permission CTA, text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -702,6 +706,8 @@ END OF WIREFRAME — welcome-01-e8-l3
   - Alt text: reflective/dignity — calm child for real-farewell opener
   - Current usage: 4/25 (in image-usage.json)
   - WHY: calm child for real-farewell opener
+  - **WRAP: image-inside-component**
+  - WHY: HERO-20 is an image-driven component and the picked image IS the component.
 
 ### Section 2 — Recap three beats
 - ROLE slot: `recap-three-beat-prose`
@@ -714,6 +720,8 @@ END OF WIREFRAME — welcome-01-e8-l3
   - Alt text: cream/white textile near recap beats
   - Current usage: 5/25 (in image-usage.json)
   - WHY: cream/white textile near recap beats
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3 — Final offer soft card
 - ROLE slot: `final-offer-soft-card-no-button`
@@ -726,18 +734,8 @@ END OF WIREFRAME — welcome-01-e8-l3
   - Alt text: earth-toned textile for final offer block
   - Current usage: 5/25 (in image-usage.json)
   - WHY: earth-toned textile for final offer block
-
-### Section 3 — Final CTA text-link
-- ROLE slot: `final-offer-soft-card-no-button`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
-- COMPONENT PICKED: `CTA-11`
-  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 4/8 (in component-usage.json)
-  - WHY: Permission CTA (reused cap) — 'When you're ready, it's here →'; permission-not-to-buy explicit
-- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
-  - Alt text: earth-toned textile for final offer block
-  - Current usage: 5/25 (in image-usage.json)
-  - WHY: earth-toned textile for final offer block
+  - **WRAP: image-inside-component**
+  - WHY: PROD-3 is an image-driven component and the picked image IS the component.
 
 ### Signoff — Lena long farewell E8
 - ROLE slot: `signoff-lena-long-farewell`
@@ -750,25 +748,15 @@ END OF WIREFRAME — welcome-01-e8-l3
   - Alt text: neutral reference for Lena farewell
   - Current usage: 2/25 (in image-usage.json)
   - WHY: neutral reference for Lena farewell
-
-### Signoff — Door-stays-open frame
-- ROLE slot: `signoff-lena-long-farewell`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
-- COMPONENT PICKED: `EMO-11`
-  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Break Permission — the door-stays-open emotional frame; sets the L3 exit tone for lifecycle
-- IMAGE PICKED: `accessories/book-potty-training-guide.png`
-  - Alt text: neutral reference for Lena farewell
-  - Current usage: 2/25 (in image-usage.json)
-  - WHY: neutral reference for Lena farewell
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
-- Total images in this email: 6/6
+- Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Component count check
-- Total components in this email: 6/8
+- Total components in this email: 5/8
 - Status: ✅ PASS
 
 ### L3 Calibration Check
@@ -781,7 +769,7 @@ END OF WIREFRAME — welcome-01-e8-l3
 - 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-20', 'EMO-12', 'PROD-3', 'CTA-11', 'EMODEEP-18', 'EMO-11']
+- component-usage.json: incremented ['HERO-20', 'EMO-12', 'PROD-3', 'CTA-11', 'EMODEEP-18']
 - image-usage.json: incremented ['lifestyle/toddler-napping-watermelon-pink-shorts.png', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'flat-lay/training-pant-fox-woodland-white.jpg', 'accessories/book-potty-training-guide.png']
 
 ---

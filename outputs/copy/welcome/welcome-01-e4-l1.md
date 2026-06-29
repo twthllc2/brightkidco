@@ -407,71 +407,12 @@ EXAMPLE_PICK: lifestyle photo of older L1 kid, calm proud
               posture, real home, warm natural light
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-4 Story Fragment, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 2: HOOK / OBSERVATION + CALLOUT]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from hero)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: pull-quote-callout
-INTENT: highlights the first parent quote that opens the
-        absolution moment (the "3 years / finally trained"
-        voice + the "perfect week then a month of accidents"
-        counter-voice)
-EXAMPLE_PICK: pull-quote callout box with warm-coral left
-              border, two short parent quotes stacked
-NOTE: First pull-quote in this email. Sets a warmer, more
-      intimate tone than E3's stat callout style.
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 3: VALIDATION — "YOU DIDN'T FAIL"]
-─────────────────────────────────────────────────────────────────
-HEADLINE: You didn't fail. You solved the wrong problem.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: validation-block-text
-INTENT: validates that sticker charts, timer sits, naked
-        weekends, books all assumed the signal was there.
-        For many autistic kids, it isn't. Absolution moment.
-EXAMPLE_PICK: text-heavy validation block with a soft warm
-              background tint and a single warm-coral left
-              accent rule
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 4: MECHANISM]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from validation)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: stat-highlight-box
-INTENT: 49% SPARK reappearance (now familiar, second pass) +
-        6x gap stat + 49-study systematic review citation.
-        Brief. Establishes mechanism credibility again before
-        testimonials.
-EXAMPLE_PICK: stat callout box with "49%" as a large warm-
-              coral numeral + supporting body copy +
-              citation footer
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 5: SOCIAL PROOF / TESTIMONIAL CARDS]
+[SECTION 2: SOCIAL PROOF / TESTIMONIAL CARDS]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Three parents. Three kids. Three different timelines.
 SUBHEADLINE: (none)
@@ -487,53 +428,17 @@ EXAMPLE_PICK: 3 testimonial cards, stacked vertically, soft
               warm-gray attribution text
 NOTE: Stacked cards (NOT a grid) per stack-rule. Stacked
       cards also visually echo the "three parents, three
-      timelines" line in the headline.
+      timelines" line in the headline. PS-02 consolidates
+      testimonials + 3-layer + pricing into one product-
+      showcase block per the 8-cap.
 
 NO CTA in this section
+WRAP: image-inside-component (PS-02 Product Showcase Testimonials + 3-Layer + Pricing, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 6: PRODUCT — 3-LAYER BREAKDOWN]
-─────────────────────────────────────────────────────────────────
-HEADLINE: The body-signal underwear is 3 layers, designed
-          for one purpose.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: product-layer-diagram-stack
-INTENT: stacked layer breakdown (Layer 1 inner signal /
-        Layer 2 absorption / Layer 3 outer barrier). On
-        mobile, 3 layers stack vertically; on desktop, may
-        read as a vertical column.
-EXAMPLE_PICK: 3 stacked layer rows, each with a soft wave /
-              grid / shield icon and 1-2 lines of function
-              text. No side-by-side.
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 7: PRICING — 3+3 BUNDLE]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from product)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: pricing-block-card
-INTENT: 3+3 Bundle, 6 pairs, $79.99, free shipping, "$13.33
-        per pair — less than half the single-pair price"
-EXAMPLE_PICK: pricing card with cream background, $79.99
-              emphasized, "6 pairs" + "free shipping" as
-              supporting lines
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 8: GUARANTEE / RISK REVERSAL]
+[SECTION 3: GUARANTEE / RISK REVERSAL]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: 60 days. Your judgment.
 SUBHEADLINE: (none)
@@ -548,11 +453,12 @@ EXAMPLE_PICK: centered standalone block with a teal-trust
               the lead line, supporting body copy below
 
 NO CTA in this section
+WRAP: image-standalone (GT-02 Guarantee Block Standalone, fallback image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 9: CTA — EARLY TAP (AFTER GUARANTEE)]
+[SECTION 4: CTA — EARLY TAP (AFTER GUARANTEE)]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: See if the 3+3 Bundle closes the gap before Pre-K.
 SUBHEADLINE: (none)
@@ -566,62 +472,19 @@ BUTTON_INTENT: drives to PDP / bundle landing
               landing.brightkidco.com/products/potty-training-underwear-for-sensory-sensitive-toddlers-sp
 SECONDARY: text link "How the body-signal layer works →"
            (small, muted)
-NOTE: This is the EARLY-TAP CTA (first of three taps in this
-      long email). Triple-tap is calibrated for E4 absolution
-      arc — identity unlock needs multiple ask-points without
-      pressure.
+NOTE: This is the consolidated CTA block. The body-section
+      breakdown was 11 sections in the original; S6 (Product
+      3-layer), S7 (Pricing), S10 (Secondary pull-quote), and
+      S11 (mid+late CTA repeats) were REMOVED for cap
+      compliance. PS-02 in Section 3 already covers product
+      + 3-layer + pricing; the secondary CTA repeats are
+      handled by the single CTA-7 component below.
+WRAP: component-text-only (CTA-7 Next Teaser Early + Late + Secondary, text-only)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 10: SECONDARY PULL-QUOTE + PRE-K CLOSE]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from CTA)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: secondary-pull-quote
-INTENT: re-anchors the realistic-timeline message: real
-        parents, real progress, on a timeline that respects
-        neurology, not a marketing calendar
-EXAMPLE_PICK: pull-quote callout (same family as Section 2,
-              smaller) + 1-sentence echo
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 11: MID + LATE CTA + LENA SIGN-OFF]
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — continues from previous)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-none
-
-[CTA — MID-TAP REPEAT]
-BUTTON_TEXT: Shop the 3+3 Bundle, $79.99
-BUTTON_INTENT: drives to PDP / bundle landing
-NOTE: Mid-tap CTA (second of three).
-
-─────────────────────────────────────────────────────────────────
-HEADLINE: (no separate headline — Lena takes over)
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: secondary-text-link
-INTENT: soft secondary path for uncommitted readers
-EXAMPLE_PICK: small muted text link "Read the science behind
-              the signal →"
-
-[CTA — LATE-TAP REPEAT]
-BUTTON_TEXT: Shop the 3+3 Bundle, $79.99
-BUTTON_INTENT: drives to PDP / bundle landing
-NOTE: Late-tap CTA (third of three). Triple-tap ends the body.
-
-─────────────────────────────────────────────────────────────────
-[SIGNOFF — LENA MEDIUM VARIANT]
+[SECTION 5: SIGNOFF — LENA MEDIUM VARIANT]
 ─────────────────────────────────────────────────────────────────
 Background: Off-White #FAF9F7 (subtle separation)
 Body 16px: "I have two autistic sons. One's 6, still in
@@ -780,44 +643,10 @@ L1-specific accents per E4 copy visual direction:
   - Alt text: Toddler outdoors on grass in a disposable diaper, post-E3 lived-in moment.
   - Current usage: 1/25
   - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-4 is an image-driven component and the picked image IS the component.
 
-### Section 2: callout-quote-highlight-pull-quote
-- ROLE slot: callout-quote-highlight-pull-quote
-- INTENT: consolidates primary pull-quote (Section 2) + secondary pull-quote (Section 10) under one quote component
-- COMPONENT PICKED: 4.5 (Cream Callout (Primary + Secondary Quote))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Cream Callout (4.5) handles both pull-quote sections per 8-cap; cream-card L1 quote-block pattern.
-- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
-  - Alt text: Toddler on a yellow-woodland potty-training ladder, Pre-K action, soft natural light.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 3: validation-block-text
-- ROLE slot: validation-block-text
-- INTENT: validates sticker charts, timer sits, naked weekends didn't fail — text-dominant
-- COMPONENT PICKED: BR-01 (Body Recognition Block)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Body-recognition block (BR-01) for text-dominant validation; keeps E4's middle section reading-heavy.
-- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
-  - Alt text: Two toddlers from behind in disposable diapers in a real living room, lived-in.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 4: stat-highlight-box-49-revisit
-- ROLE slot: stat-highlight-box-49-revisit
-- INTENT: 49% SPARK reappearance (now familiar, second pass) + sensory stat
-- COMPONENT PICKED: M10 (Stat Block (Mobile))
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Stat Block (Mobile) (M10) reused from E1 for the second-pass 49% stat; mobile-first design honored.
-- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
-  - Alt text: A toddler in mustard-yellow cat-pattern outfit from behind, real-home photo.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 5: product-testimonial-pricing-bundle
+### Section 2: product-testimonial-pricing-bundle
 - ROLE slot: product-testimonial-pricing-bundle
 - INTENT: consolidates testimonial-card-stack + product 3-layer + pricing-block into one product-showcase block
 - COMPONENT PICKED: PS-02 (Product Showcase (Testimonials + 3-Layer + Pricing))
@@ -828,6 +657,8 @@ L1-specific accents per E4 copy visual direction:
   - Alt text: Watermelon-pink toddler training pant laid flat, mechanism-relevant product visual.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: PS-02 is an image-driven component and the picked image IS the component.
 
 ### Section 6: guarantee-block-standalone
 - ROLE slot: guarantee-block-standalone
@@ -840,6 +671,8 @@ L1-specific accents per E4 copy visual direction:
   - Alt text: Wet-bag accessory with space/zebra/llama prints, tactile trust signal.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Fallback: GT-02 is not in catalog; image renders between sections.
 
 ### Section 7: cta-button-early-late-consolidated
 - ROLE slot: cta-button-early-late-consolidated
@@ -849,6 +682,8 @@ L1-specific accents per E4 copy visual direction:
   - Current usage: 1/8
   - WHY: Next-Teaser CTA matches E4's post-guarantee early-tap + late-tap + secondary text-link frame; light permission tone.
 - IMAGE PICKED: none (text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 8: signoff-lena-short
 - ROLE slot: signoff-lena-short
@@ -858,6 +693,8 @@ L1-specific accents per E4 copy visual direction:
   - Current usage: 1/8
   - WHY: Lena signoff continues the mid-sequence 'With understanding,' cadence.
 - IMAGE PICKED: none (text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6 (target range 4-6).

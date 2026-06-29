@@ -410,6 +410,7 @@ EXAMPLE_PICK: 7-dot constellation SVG, warm-gold lines
               fallback clients
 
 NO CTA in this section
+WRAP: image-inside-component (signal-dot-constellation-gf, picked image IS the component — lifestyle/founders-holding-pants-yellow-watermelon)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -449,6 +450,7 @@ EXAMPLE_PICK: 4 stacked recap cards, warm-stone
               (warm stone) background, small-caps
               chapter titles, dotted left-border
               connector, generous 24px padding
+WRAP: image-inside-component (recap-card-stack-gf, picked image IS the component — accessories/potty-targets-stickers-chart)
 
 [VISUAL ELEMENT — MIGRATION ANCHOR #4]
 ROLE: migration-anchor-assessment-card-gf
@@ -475,6 +477,7 @@ EXAMPLE_PICK: assessment card, warm-gold accent
               underline below the link, italic
               body explaining the 2-minute time
               commitment
+WRAP: image-standalone (migration-anchor-assessment-card-gf, picked image IS the component — accessories/book-potty-training-guide)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -507,10 +510,12 @@ EXAMPLE_PICK: two text links, equal visual weight,
               3px warm-gold underline, italic bridge
               text, no button rendering, no
               primary/secondary hierarchy
+WRAP: component-text-only (text-link-cta-double-gf, text-only by GF E8 design)
 
 [VISUAL ELEMENT — LENA SIGN-OFF (LONG, FINAL)]
 ROLE: signoff-lena-long-gf
 INTENT: Lena LONG variant (E7-E8 macro), the FINAL
+WRAP: component-text-only (locked-signoff, signoff-lena-long-gf E8 final variant, ships from locked footer.html)
         peer-voice frame of the welcome sequence:
         "Whatever you choose, thanks for reading
         this far. If this isn't the day, that's okay.
@@ -741,6 +746,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Pink bunny-hearts training pant laid flat
   - Current usage: 2/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 2.1 (Lilac Gradient Hero *(L364)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### S2: Recap (4 stacked cards) + Migration Anchor
 - ROLE slot: recap-card-stack-gf + migration-anchor-assessment-card-gf
@@ -755,6 +762,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: White cloud-raindrop training pant laid flat
   - Current usage: 7/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-inside-component**
+  - WHY: STORY-12 (Milestone Tracker — Visual progress tracker *(L465) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### S3: Final Offer (text-link) + Lena Sign-off (LONG)
 - ROLE slot: text-link-cta-double-gf + signoff-lena-long-gf
@@ -772,6 +781,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: BrightKidCo potty-training guide book, neutral surface
   - Current usage: 4/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### S4: Soft product/parent visual
 - ROLE slot: (extra bridging visual)
@@ -780,14 +791,8 @@ GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom
   - Alt text: Child near a pink potty ladder, real home, age-ambiguous
   - Current usage: 2/25
   - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
-
-### S5: Quiet accessory/parent-guide visual
-- ROLE slot: (extra bridging visual)
-- INTENT: BrightKidCo accessory / parent-guide book visual to anchor the closing thought; no labels, universal.
-- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
-  - Alt text: Potty-target stickers and chart, neutral flat-lay
-  - Current usage: 2/25
-  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Section declares an IMAGE but no COMPONENT; image renders as standalone between sections.
 
 ### Image count check
 - Total images in this email: 5/6

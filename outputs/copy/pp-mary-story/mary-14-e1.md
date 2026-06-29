@@ -1097,6 +1097,8 @@ NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative)
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 16/25
   - WHY: Founders photo as supporting opener visual (consistent across the flow).
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: CC3 (Curiosity Gap CTA *(L3716)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: founder-story-prose-block
 - ROLE slot: founder-story-prose-block
@@ -1109,6 +1111,8 @@ NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative)
   - Alt text (GF, V16): "Toddler climbing a yellow woodland-patterned potty ladder, viewed from behind."
   - Current usage: 5/25
   - WHY: Visualizes the founder's story moment (child on potty ladder, waiting).
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: founder-origin-moment-prose
 - ROLE slot: founder-origin-moment-prose
@@ -1121,6 +1125,8 @@ NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative)
   - Alt text (GF, V16): "BrightKidCo disposable diaper with woodland-creature pattern in soft yellow, flat-lay product shot."
   - Current usage: 6/25
   - WHY: Visualizes what didn't work before the body-signal mechanism was discovered.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: mechanism-text-block-founder-voice
 - ROLE slot: mechanism-text-block-founder-voice
@@ -1133,6 +1139,8 @@ NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative)
   - Alt text (GF, V16): "Reusable training pants hanging in front of an open washing machine in a bright laundry area."
   - Current usage: 7/25
   - WHY: Visualizes the rotation-logic that the founder discovered.
+  - **WRAP: image-inside-component**
+  - WHY: 1 (The Body Signal Concept (Core Mechanism Visual) *() is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: three-testimonial-stack-vertical-founder-frame
 - ROLE slot: three-testimonial-stack-vertical-founder-frame
@@ -1145,6 +1153,8 @@ NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative)
   - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
   - Current usage: 7/25
   - WHY: Backview dual-toddler for the founder-framed testimonials.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 6: invitation-paragraph-timeline-flexible
 - ROLE slot: invitation-paragraph-timeline-flexible
@@ -1154,6 +1164,8 @@ NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative)
   - Current usage: 5/8
   - WHY: "Realistic Timeline" is built for this R5 flexibility invitation. Already used in browse-04-e2 and checkout-03-e2.
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 7: founder-closing-mission-statement
 - ROLE slot: founder-closing-mission-statement
@@ -1163,6 +1175,8 @@ NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative)
   - Current usage: 5/8
   - WHY: "Letter From Future" fits the founder's mission-statement framing as a forward-looking letter. Different from cart/browse/checkout picks.
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only**
+  - WHY: STORYDEEP-03 (The Letter From Future (uses Letter) *(L9918)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

@@ -515,31 +515,23 @@ All animations wrapped in `@media (prefers-reduced-motion: reduce)`, respect acc
 │   sits every 30 minutes, plastic on the couch…"         │
 │  "And here you are. The same place you started."        │
 │                                                          │
+│  WRAP: image-inside-component (HERO-5 Mirror Moment,    │
+│  picked image IS the component — toddlers backview)    │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  OBJECTION NAMING BODY (named real objection,           │
-│  4–5 sentences)                                         │
-│  "'I've tried everything. 40+ methods. $50,000 in      │
-│   therapy. Nothing worked.'"                            │
-│  "That's not exaggeration, that's trauma. Method        │
-│   cycling is its own kind of exhaustion."               │
-│  "You're not wrong to be skeptical. Skepticism is       │
-│   earned. You've earned it."                            │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  REFRAME BODY (5–6 sentences; the wrong-battle frame)  │
+│  REFRAME BODY (folded objection+reframe — 4 sentences) │
 │  "Every single one of those methods assumed your        │
-│   child CAN feel the signal."                          │
-│  "For 40+ methods, you've been fighting the wrong       │
-│   battle."                                              │
-│  "The research is settled: many autistic children      │
-│   have diminished body awareness (Nicholson et al.      │
-│   2019)."                                               │
+│   child CAN feel the signal. The research is settled:   │
+│   many autistic children have diminished body          │
+│   awareness (Nicholson et al. 2019)."                   │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  MECHANISM BODY (3-layer system in prose)               │
+│  MECHANISM BODY (3-layer system in prose, folded reframe)│
+│  "Every single one of those methods assumed your        │
+│   child CAN feel the signal. The research is settled:   │
+│   many autistic children have diminished body          │
+│   awareness (Nicholson et al. 2019)."                   │
 │  "Interoception — the sense that tells us when we're    │
 │   hungry, thirsty, or need the bathroom — for many      │
 │   autistic children, that signal doesn't arrive on      │
@@ -548,66 +540,16 @@ All animations wrapped in `@media (prefers-reduced-motion: reduce)`, respect acc
 │  Layer 2: Smart Protection                              │
 │  Layer 3: Leak Resistance                               │
 │                                                          │
-├──────────────────────────────────────────────────────────┤
+│  [MINT-BORDERED CITATION CALLOUTS — 4 inline boxes]    │
+│  ┌── Mahler 2016 ── interoception: eighth sensory system │
+│  ├── Wiggins 2022 ── SPARK N=743, 49% not toilet trained│
+│  ├── Iqbal 2022 ── N=63, only 19% can recognize thirst  │
+│  └── Hample/Mahler 2020 — 8-week interoception intervention│
+│  (all mint #DBFFCD border, tight 24px padding)         │
 │                                                          │
-│  [MINT-BORDERED CITATION CALLOUT #1]                     │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ Mahler, K. (2016). Interoception: The Eighth      │  │
-│  │ Sensory System. — "interoception researcher,"      │  │
-│  │ NOT "our partner" (strict L2 voice rule).         │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (mint #DBFFCD border, tight 24px padding)              │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [MINT-BORDERED CITATION CALLOUT #2]                     │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ Wiggins et al. (2022). SPARK study, CDC-funded,   │  │
-│  │ N=743.                                            │  │
-│  │ ★ 49% of autistic 4–5 year olds are not           │  │
-│  │   toilet trained.                                 │  │
-│  └────────────────────────────────────────────────────┘  │
-│  (the L2 visual signature at depth)                     │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [MINT-BORDERED CITATION CALLOUT #3]                     │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ Iqbal (2022). Only 19% of autistic children can   │  │
-│  │ recognize when they're thirsty. N=63.             │  │
-│  │ "If thirst doesn't register, how can we expect    │  │
-│  │  bladder fullness to?"                             │  │
-│  └────────────────────────────────────────────────────┘  │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [MINT-BORDERED CITATION CALLOUT #4]                     │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ Hample, Mahler and Amspacher (2020). 8-week       │  │
-│  │ targeted interoception intervention produced      │  │
-│  │ measurable improvement in body awareness.         │  │
-│  └────────────────────────────────────────────────────┘  │
-│                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  SOCIAL PROOF — 3 small callout-quote-highlights        │
-│  (cream card; stacked; tight 24px between)              │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "He will sit on the toilet for 45 minutes and     │  │
-│  │  then pee the second he stands up."                │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "After 2 weeks in BKC undies, he paused. Then     │  │
-│  │  he looked down. Then he walked to the potty."    │  │
-│  │  — L2 parent, 4 weeks in                          │  │
-│  └────────────────────────────────────────────────────┘  │
-│  ┌────────────────────────────────────────────────────┐  │
-│  │ "If I could just get him the signal, I know the   │  │
-│  │  rest would follow."                              │  │
-│  │  — L2 parent                                       │  │
-│  └────────────────────────────────────────────────────┘  │
-│                                                          │
+│  WRAP: image-inside-component (EDU-11 citation block   │
+│  with 4 callouts, picked image IS the component —       │
+│  washing machine visual)                                │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  GUARANTEE — trust-anchor-callout (mint callout)       │
@@ -618,17 +560,9 @@ All animations wrapped in `@media (prefers-reduced-motion: reduce)`, respect acc
 │  │ connecting. If nothing changes, full refund.     │  │
 │  └────────────────────────────────────────────────────┘  │
 │                                                          │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [READ-ONLY CTA — text-link-only, NOT a button]        │
-│  → Read the original study (Mahler 2016)                │
-│  → Read the Wiggins 2022 SPARK analysis                 │
-│  → Bookmark this email                                   │
-│  (NO commercial CTA; permission to verify, not buy)     │
-│                                                          │
-│  PERMISSION-NOT-TO-BUY (1 short sentence)               │
-│  "Read this twice if you need to."                      │
-│                                                          │
+│  WRAP: image-required-component (BUG — TRUST-1 requires │
+│  an image to render but STAGE 2 picked none; flag for  │
+│  revisit to either pick an image or swap to text-only)  │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  SIGN-OFF — signoff-lena-medium-long (transitional)     │
@@ -645,6 +579,9 @@ All animations wrapped in `@media (prefers-reduced-motion: reduce)`, respect acc
 │          "Reply to this email, Lena reads every         │
 │           response."                                    │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.2 Lena  │
+│  Signoff MEDIUM-LONG transitional, ships from locked    │
+│  footer.html)                                           │
 └──────────────────────────────────────────────────────────┘
 
 SYSTEM B (automatic):
@@ -682,34 +619,12 @@ SYSTEM B (automatic):
   - Alt text: Toddlers back view in disposable diapers — research context photo
   - Current usage: 0/25 (after this pick)
   - WHY: Research-context back-view photo for the data-led email; signals "paper" not "promo"
+  - **WRAP: image-inside-component**
+  - WHY: HERO-5 is an image-driven component and the picked image IS the component.
 
-### Section 2: OBJECTION NAMING BODY ("$50,000 in therapy…")
-- ROLE slot: OBJECTION NAMING BODY
-- INTENT: "$50,000 in therapy. Nothing worked." — naming the trauma.
-- COMPONENT PICKED: LETTER-03
-  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: LETTER-03 letter-section for naming real objection with empathy; L2 expects peer tone
-- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
-  - Alt text: Toddler outdoors on grass in disposable diaper, context photo
-  - Current usage: 0/25 (after this pick)
-  - WHY: Outdoors context: "tried everything outdoors too" — broadens the trauma naming
-
-### Section 3: REFRAME BODY (40+ methods assumed the signal CAN be felt)
-- ROLE slot: REFRAME BODY (wrong-battle frame)
-- INTENT: Nicholson et al. 2019 — diminished body awareness proven
-- COMPONENT PICKED: EDU-2
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 2/8 (after this pick)
-  - WHY: EDU-2 mechanism step-cards. Same component, different INTENT (loop not present here)
-- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
-  - Alt text: Toddler rearview in cat-mustard training pants, paper-style context visual
-  - Current usage: 0/25 (after this pick)
-  - WHY: Rearview/paper-style frame = citation density visual signature
-
-### Section 4: MECHANISM BODY (3-layer in prose) + 4 MINT-BORDERED CITATION CALLOUTS
-- ROLE slot: MECHANISM BODY + 4 MINT CITATION CALLOUTS (Mahler, Wiggins, Iqbal, Hample)
-- INTENT: Mahler 2016, Wiggins 2022 SPARK 49%, Iqbal 2022 19%, Hample 2020 8-week intervention
+### Section 2: REFRAME BODY (folded reframe — "every method assumed the signal CAN be felt")
+- ROLE slot: BODY-SIGNAL REFRAME (folded objection+naming+reframe — density calibrated for 8-cap)
+- INTENT: $50,000 in therapy. 40+ methods. Every one assumed the signal CAN be felt.
 - COMPONENT PICKED: EDU-11
   - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
   - Current usage: 4/8 (after this pick)
@@ -718,18 +633,10 @@ SYSTEM B (automatic):
   - Alt text: Washing machine with training pants — real-life study context visual
   - Current usage: 0/25 (after this pick)
   - WHY: Washing-machine visual = daily-life research context (washable underwear = real intervention)
+  - **WRAP: image-inside-component**
+  - WHY: EDU-11 is an image-driven component and the picked image IS the component.
 
-### Section 5: SOCIAL PROOF — 3 small cream-card quote-callouts
-- ROLE slot: SOCIAL PROOF — 3 cream-card callout-quote-highlights
-- INTENT: "45 min on toilet then pee on standing up" + "After 2 wks in BKC, he paused. Then looked down" + "If I could just get him the signal"
-- COMPONENT PICKED: SP-01
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 3/8 (after this pick)
-  - WHY: SP-01 cream-card quote-callouts (3 stacked)
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 6: GUARANTEE — trust-anchor-callout (mint callout)
+### Section 3: GUARANTEE — trust-anchor-callout (mint callout)
 - ROLE slot: GUARANTEE trust-anchor-callout
 - INTENT: 60 days. By your judgment. Pause/look/step = signal connecting
 - COMPONENT PICKED: TRUST-1
@@ -738,18 +645,10 @@ SYSTEM B (automatic):
   - WHY: TRUST-1 trust-anchor frame — already used E3, but position is reused (allowed showcase exception)
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: image-required-component**
+  - WHY: TRUST-1 (60-Day Seal *(L6385)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
-### Section 7: READ-ONLY CTA (text-link only: study/bookmark) + PERMISSION 1 sentence
-- ROLE slot: READ-ONLY CTA (text-link only) + Permission
-- INTENT: "Read the original study (Mahler 2016)" / "Read Wiggins SPARK" / "Bookmark this email" — NO button
-- COMPONENT PICKED: EDU-4
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 1/8 (after this pick)
-  - WHY: EDU-4 step-cards reused for citation CTA layout. Stays below 8-cap.
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 8: SIGN-OFF — signoff-lena-medium-long (transitional)
+### Section 4: SIGN-OFF — signoff-lena-medium-long (transitional)
 - ROLE slot: SIGN-OFF MEDIUM-LONG (transitional to LONG)
 - INTENT: "60 days. By your judgment. No pressure. No timeline. Just the signal." + P.S. "I read every response."
 - COMPONENT PICKED: 12.2
@@ -758,11 +657,13 @@ SYSTEM B (automatic):
   - WHY: 12.2 Lena MEDIUM-LONG signoff — and P.S. reply anchor
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 4/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: ['HERO-5', 'LETTER-03', 'EDU-2', 'EDU-11', 'SP-01', 'TRUST-1', 'EDU-4', '12.2']
-- image-usage.json: ['lifestyle/toddlers-backview-disposable-diapers.png', 'lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'lifestyle/toddler-rearview-cat-mustard.png', 'lifestyle/washing-machine-training-pants.png']
+- component-usage.json: ['HERO-5', 'EDU-11', 'TRUST-1', '12.2']
+- image-usage.json: ['lifestyle/toddlers-backview-disposable-diapers.png', 'lifestyle/washing-machine-training-pants.png']</new_string>

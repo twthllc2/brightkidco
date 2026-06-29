@@ -594,6 +594,8 @@ side-stripe borders), are:
     MICROCOPY: "No pressure. No timeline. The offer
                 doesn't expire." (italic, 14px, muted)
 
+WRAP: image-inside-component (consolidated unified body: HERO-18 Guilt Absolution + EDU-7 Did You Know + PROD-3 Layer Breakdown + TRUST-1 60-Day Seal + CTA-11 Permission CTA, picked image is toddlers backview; CTA accessory is image-standalone)
+
 [VISUAL ELEMENT]
 ROLE: unified-prose-body-long-form
 INTENT: a single full-width prose block carries the
@@ -779,6 +781,8 @@ END OF WIREFRAME — welcome-01-e5-l3
   - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
   - Current usage: 4/25 (in image-usage.json)
   - WHY: backview children - validation of 'what you've carried'
+  - **WRAP: image-inside-component**
+  - WHY: HERO-18 is an image-driven component and the picked image IS the component.
 
 ### Section 1 — Mechanism within
 - ROLE slot: `unified-prose-body-long-form`
@@ -791,6 +795,8 @@ END OF WIREFRAME — welcome-01-e5-l3
   - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
   - Current usage: 4/25 (in image-usage.json)
   - WHY: backview children - validation of 'what you've carried'
+  - **WRAP: image-inside-component**
+  - WHY: EDU-7 is an image-driven component and the picked image IS the component.
 
 ### Section 1 — Product 1 pair
 - ROLE slot: `unified-prose-body-long-form`
@@ -803,6 +809,8 @@ END OF WIREFRAME — welcome-01-e5-l3
   - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
   - Current usage: 4/25 (in image-usage.json)
   - WHY: backview children - validation of 'what you've carried'
+  - **WRAP: image-inside-component**
+  - WHY: PROD-3 is an image-driven component and the picked image IS the component.
 
 ### Section 1 — Guarantee 60 days
 - ROLE slot: `unified-prose-body-long-form`
@@ -815,6 +823,8 @@ END OF WIREFRAME — welcome-01-e5-l3
   - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
   - Current usage: 4/25 (in image-usage.json)
   - WHY: backview children - validation of 'what you've carried'
+  - **WRAP: image-inside-component**
+  - WHY: TRUST-1 (60-Day Seal *(L6385)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 1 — CTA text link
 - ROLE slot: `unified-prose-body-long-form`
@@ -827,6 +837,8 @@ END OF WIREFRAME — welcome-01-e5-l3
   - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
   - Current usage: 4/25 (in image-usage.json)
   - WHY: backview children - validation of 'what you've carried'
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Signoff — Lena medium E5
 - ROLE slot: `signoff-lena-medium`
@@ -839,6 +851,8 @@ END OF WIREFRAME — welcome-01-e5-l3
   - Alt text: muted clay near Lena sign-off
   - Current usage: 6/25 (in image-usage.json)
   - WHY: muted clay near Lena sign-off
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6

@@ -776,14 +776,23 @@ END OF WIREFRAME — faq-21-e1
 | Role | Component ID | Reason |
 |---|---|---|
 | PROSE-OPENER-WHETHER-OR-IF | **EMO-5** | Flowing opener — three whether/or/if universal recognition |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
 | PROSE-VALIDATION-NOT-FAILED | **EMO-9** | Validation 'you didn't fail' prose |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
 | MECHANISM-WITH-CITATION | **EDU-8** | Nicholson 2019 interoception citation mechanism |
+  |  | **WRAP: image-inside-component** | EDU-8 is an image-driven component and the picked image IS the component. |
 | CALLOUT-49%-MINT | **PSYCH-05** | Mint callout — 49% reality check stat |
-| PRODUCT-3-LAYER-EXPLAIN | **EDU-13** | Body-Signal Learning Layer 3-layer explainer |
-| TWO-LIST-PERMISSION-FRAME | **PSYCH-03** | Permission frame — what this doesn't promise / does offer |
-| PRODUCT-OFFER-BUNDLE | **PROD-8** | 6-pair bundle product offer (reusable — showcase exception) |
+  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-05 (Curiosity Gap *(L8578)*) is text-only per catalog; any image is decorative and sits between sections. |
+|| PRODUCT-3-LAYER-EXPLAIN | **EDU-13** | Body-Signal Learning Layer 3-layer explainer |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDU-13 is NOT in Rule 7's explicit EDU list (2/3/8/10/11); with image picked, Rule 9 → image-standalone between sections. |
+|| TWO-LIST-PERMISSION-FRAME | **PSYCH-03** | Permission frame — what this doesn't promise / does offer |
+|  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-03 starts with "PSYCH-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| PRODUCT-OFFER-BUNDLE | **PROD-8** | 6-pair bundle product offer (reusable — showcase exception) |
+|  |  | **WRAP: image-inside-component** | PROD-8 starts with "PROD-" → Rule 3: image-inside-component (with image) or image-required-component (BUG if no image). Image is picked, so image-inside-component. |
 | CTA-PILL-BUNDLE | **CTA-2** | Brand-green pill — bundle CTA |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | LENA-SIGNOFF-SHORT + PS-SOCIAL-PROOF + FOOTER | **12.1** | Lena sig + social-proof P.S. + footer |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | 12.1 is the Lena sign-off/footer block that ships from locked footer.html. |
 
 ### Images (4/6)
 

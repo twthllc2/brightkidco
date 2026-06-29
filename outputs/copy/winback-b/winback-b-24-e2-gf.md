@@ -1038,6 +1038,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e2-gf, level=gf, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-23 (VIP Birthday *(L25681)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 2: ADDITIONAL IMAGE (image-augment-fill for sections 1-3)
 - ROLE slot: image-augment-fill (synthetic, ensures 4-image minimum)
@@ -1047,6 +1050,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 augment section 2 visual — calibrated per level (gf)
   - Current usage: 12/25
   - WHY: Required to reach 4-image minimum per the corrected Stage 2 rules (4-6 images per email)
+  - **WRAP: component-text-only**
+  - WHY: Unknown component ID; defaulting to text-only.
 
 ### Section 4: UPDATED OFFER + 60-DAY GUARANTEE
 - ROLE slot: offer-prose-warm-cream-with-mint-pricing
@@ -1059,6 +1064,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 4 visual — calibrated per level (gf)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-5 (The Brain Map *(L10773)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: TESTIMONIAL — Three-Family Pattern (L18 §3)
 - ROLE slot: three-family-testimonial-stack-on-cream-e2
@@ -1071,6 +1078,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 5 visual — calibrated per level (gf)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-long-with-reply-ps
@@ -1083,6 +1092,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 6 visual — calibrated per level (gf)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 4/6

@@ -741,12 +741,19 @@ END OF WIREFRAME — sunset-25-e1
 | Role | Component ID | Reason |
 |---|---|---|
 | HERO-THRESHOLD-OPEN-DOORWAY | **HERO-22** | Custom fresh hero — open-doorway threshold metaphor |
+  |  | **WRAP: image-inside-component** | HERO-22 is an image-driven component and the picked image IS the component. |
 | PROSE-VALIDATION-NO-GUILT | **EMODEEP-09** | Stacked validation — 'we haven't heard from you', zero guilt |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
 | PERMISSION-CLEAR-CHOICE | **PSYCH-09** | Permission paragraph — clear choice, zero pressure |
+  |  | **WRAP: image-inside-component** | PSYCH-09 (Reciprocity *(L8695)*) is image-driven per catalog (image_support=image_text); picked image IS the component. |
 | CTA-SAGE-GREEN-STAY | **CTA-7** | Sage-green stay-affirmation CTA — gentle |
+  |  | **WRAP: image-standalone** | CTA has a small product/icon photo placed next to the text-link button. |
 | FOOTER-DOOR-ALWAYS-OPEN | **UTIL-10** | Italic footer close — 'the door is always open' |
+  |  | **WRAP: component-text-only** | UTIL-10 (Legal Text *(L7739)*) is text-only per catalog. |
 | PS-PEER-MOM-REPLY-INVITE | **EMODEEP-13** | P.S. — peer mom reply invite |
+  |  | **WRAP: component-text-only** | Content block is text-only by design. |
 | LENA-SIGNOFF-SHORT-MID + FOOTER | **33.2** | Lena sig mid-flow + sunset admin footer |
+  |  | **WRAP: component-text-only** | 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog. |
 
 ### Images (5/6)
 

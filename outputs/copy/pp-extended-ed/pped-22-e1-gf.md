@@ -922,6 +922,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e1-gf, level=gf, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: DEEPCAMP-10 (DEEPCAMP-10 — Christmas Morning (Gift-Unwrap Hero)) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Section 1: HOOK — "LET ME DESCRIBE SOMETHING I HEAR FROM PARE
 - ROLE slot: prose-block-with-universal-symptom-mirror
@@ -934,6 +937,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 1 visual — calibrated per level (gf)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-05 (Diary Entry — Handwritten-style journal *(L4421)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: VALIDATION — IQBAL 2022 STAT CALL-OUT (ELEMENT ①)
 - ROLE slot: validation-paragraph-stack-with-iqbal-2022-callout
@@ -946,6 +951,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 2 visual — calibrated per level (gf)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: STORY-07 (Dialogue — Text-message conversation story *(L4487) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: MECHANISM — INTEROCEPTION + BSL AS RESOLUTION
 - ROLE slot: mechanism-paragraph-stack-with-bsl-resolution
@@ -958,6 +965,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 3 visual — calibrated per level (gf)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: ED3 (Interoception Explainer *(L3353)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: CTA + PERMISSION — GF BRIDGE
 - ROLE slot: cta-section-with-permission-frame
@@ -970,6 +979,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 4 visual — calibrated per level (gf)
   - Current usage: 8/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 5: LENA SIGN-OFF (MEDIUM VARIANT) + P.S.
 - ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + P.S.
@@ -982,6 +993,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 1 section 5 visual — calibrated per level (gf)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Image count check
 - Total images in this email: 5/6

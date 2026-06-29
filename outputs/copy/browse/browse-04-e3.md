@@ -638,6 +638,8 @@ NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). How
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 11/25
   - WHY: Founders photo as supporting opener visual (consistent across cart/browse flow).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-16 is an image-driven component and the picked image IS the component.
 
 ### Section 2: recognition-anchor-list-with-pulse-dots
 - ROLE slot: recognition-anchor-list-with-pulse-dots
@@ -650,6 +652,8 @@ NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). How
   - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
   - Current usage: 7/25
   - WHY: Visualizes the R2 anchors (child on potty ladder, no signal). Different from browse-04-e1's opener use.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: mechanism-text-block-with-mahler-citation
 - ROLE slot: mechanism-text-block-with-mahler-citation
@@ -662,6 +666,8 @@ NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). How
   - Alt text (GF, V16): "Toddler napping on a soft cream blanket wearing watermelon-patterned pink shorts."
   - Current usage: 11/25
   - WHY: "Body signals at rest" visualization for Mahler's interoception teaching.
+  - **WRAP: image-standalone**
+  - WHY: Component "1" has no exact rule match; per Rule 9 (image picked + no rule match) image is decorative and sits alongside the mechanism text.
 
 ### Section 4: mini-win-quote-stack-vertical
 - ROLE slot: mini-win-quote-stack-vertical
@@ -674,6 +680,8 @@ NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). How
   - Alt text (GF, V16): "Reusable laundry bag with llama pattern in cream tones, flat-lay product shot."
   - Current usage: 6/25
   - WHY: Visual metaphor for the "rotation logic" mini-win (laundry = ongoing routine).
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: three-layer-product-stack-textual
 - ROLE slot: three-layer-product-stack-textual
@@ -686,6 +694,8 @@ NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). How
   - Alt text (GF, V16): "BrightKidCo training pant with watermelon pattern in pink, flat-lay product shot."
   - Current usage: 6/25
   - WHY: Generic product visual for the three-layer description.
+  - **WRAP: image-standalone**
+  - WHY: CMP- matches Rule 8 (CMP-); image picked → image-standalone; content block, image is decorative.
 
 ### Section 6: guarantee-emerald-block-soft-bg
 - ROLE slot: guarantee-emerald-block-soft-bg
@@ -695,6 +705,8 @@ NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). How
   - Current usage: 1/8
   - WHY: "Refund Story" is built for the guarantee-as-protocol framing. Different from cart-02-e1's TRUST-2 and cart-02-e3's CMP-3.
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only**
+  - WHY: TRUST- matches Rule 8 (TRUST-); no image picked → component-text-only; guarantee block renders cleanly without imagery.
 
 ### Section 7: cta-emerald-rectangle-doorplate (CTA)
 - ROLE slot: cta-emerald-rectangle-doorplate
@@ -704,6 +716,8 @@ NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). How
   - Current usage: 1/8
   - WHY: "Product CTA" is the standard filled-CTA pattern. text_only rendering with custom emerald rectangle in CSS.
 - IMAGE PICKED: (NONE — already at image cap)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Image count check
 - Total images in this email: 5/6

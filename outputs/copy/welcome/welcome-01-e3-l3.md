@@ -464,6 +464,7 @@ EXAMPLE_PICK: text-only paragraph; no callout box;
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (HERO-5 Mirror Moment, picked image IS the component — toddlers backview)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -490,6 +491,7 @@ EXAMPLE_PICK: text-only prose with single 2px left
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: component-text-only (validation-prose-block, no STAGE 2 pick — text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -517,6 +519,7 @@ EXAMPLE_PICK: prose-only mechanism with bold inline
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (EDU-10 How It Works, picked image IS the component — woodland training pant)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -547,6 +550,7 @@ EXAMPLE_PICK: two stacked italic paragraphs with
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (SP-08 Stacked Mini-Reviews, picked image IS the component — wet-bags accessory)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -574,6 +578,7 @@ EXAMPLE_PICK: warm cream tint block, single paragraph,
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (PROD-3 Layer Breakdown, picked image IS the component — washing machine)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -599,6 +604,7 @@ EXAMPLE_PICK: prose-only guarantee paragraph with
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (TRUST-2 Guarantee Detail Cards, picked image IS the component — towel set)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -625,6 +631,7 @@ MICROCOPY: "If that's today, it's here. If that's next
             it's here." (italic, 14px, muted warm clay)
 
 56px space above, 56px space below
+WRAP: component-text-only (CTA-7 Next Teaser text-link, text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -771,63 +778,8 @@ END OF WIREFRAME — welcome-01-e3-l3
   - Alt text: reflective/dignity — backview children, soft, dignified
   - Current usage: 4/25 (in image-usage.json)
   - WHY: backview children, soft, dignified
-
-### Section 3 — Mechanism 3-layer inline
-- ROLE slot: `mechanism-prose-with-3-layer-inline`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
-- COMPONENT PICKED: `EDU-10`
-  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: How It Works — 3-layer prose (Inner, Smart Absorption Core, Outer Barrier); no diagram, just bold inline labels
-- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
-  - Alt text: white w/ muted woodland, abstract 3-layer mechanism
-  - Current usage: 5/25 (in image-usage.json)
-  - WHY: white w/ muted woodland, abstract 3-layer mechanism
-
-### Section 4 — Testimonial stack
-- ROLE slot: `testimonial-stack-soft-italic`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
-- COMPONENT PICKED: `SP-08`
-  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Stacked Mini-Reviews — two parent-voice paragraphs as italic stack; no card, no box
-- IMAGE PICKED: `accessories/wet-bags-space-zebra-llama.png`
-  - Alt text: muted, abstract patterns for testimonial stack
-  - Current usage: 3/25 (in image-usage.json)
-  - WHY: muted, abstract patterns for testimonial stack
-
-### Section 5 — Product 1 pair alongside
-- ROLE slot: `product-prose-with-soft-cream-card`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
-- COMPONENT PICKED: `PROD-3`
-  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 4/8 (in component-usage.json)
-  - WHY: Layer Breakdown (reused cap) — abstract layers with 1 Pair, $34.99, soft-cream card
-- IMAGE PICKED: `lifestyle/washing-machine-training-pants.png`
-  - Alt text: reflective/dignity — wash cycle - '1 Pair alongside' practical reality
-  - Current usage: 3/25 (in image-usage.json)
-  - WHY: wash cycle - '1 Pair alongside' practical reality
-
-### Section 6 — Guarantee 60 days no questions
-- ROLE slot: `guarantee-paragraph-emphasis`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
-- COMPONENT PICKED: `TRUST-2`
-  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Guarantee Detail Cards (reused cap) — 60-day detail cards; 'No questions.' emphasis
-- IMAGE PICKED: `accessories/towel-set-llama-cactus.png`
-  - Alt text: muted clay supporting guarantee
-  - Current usage: 6/25 (in image-usage.json)
-  - WHY: muted clay supporting guarantee
-
-### Section 7 — CTA no deadline
-- ROLE slot: `cta-text-link-no-deadline`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
-- COMPONENT PICKED: `CTA-7`
-  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Next Teaser — text link 'When you're ready →'; explicit 'No deadline. No countdown. No limited time'
-- IMAGE PICKED: none (text-only — see other sections for imagery)
+  - **WRAP: image-inside-component**
+  - WHY: HERO-5 is an image-driven component and the picked image IS the component.
 
 ### Signoff — Lena medium E3
 - ROLE slot: `signoff-lena-medium`
@@ -837,6 +789,8 @@ END OF WIREFRAME — welcome-01-e3-l3
   - Current usage: 1/8 (in component-usage.json)
   - WHY: Signoff Card — Lena MEDIUM in warm tone; 'With understanding,'
 - IMAGE PICKED: none (text-only — see other sections for imagery)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6

@@ -536,49 +536,12 @@ EXAMPLE_PICK: editorial portrait OR warm-light
               doorway illustration, no stock-child feel
 
 NO CTA in this section
+WRAP: image-inside-component (HERO-8 Visual Metaphor, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 2: VALIDATION + RECAP]
-─────────────────────────────────────────────────────────────────
-HEADLINE: 21 days of emails boiled down to this.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: recap-three-pillar-list
-INTENT: collapses the full 21-day arc into 3 lines:
-        Problem → Mechanism → Proof. Functions as a visual
-        recap stack — Problem (neurology) / Mechanism
-        (Body-Signal Layer) / Proof (research + micro-wins).
-EXAMPLE_PICK: 3 stacked rows with a soft left accent bar;
-              no icons required, type-led recap
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 3: SOCIAL PROOF — CONDENSED]
-─────────────────────────────────────────────────────────────────
-HEADLINE: Real parents, real words.
-SUBHEADLINE: (none)
-
-[VISUAL ELEMENT]
-ROLE: quote-stack-panel (warm-cream background)
-INTENT: 3 L1 parent quotes condensed (E8 trims testimonial
-        volume vs E7's 4 micro-wins). Calm tone, no
-        exclamation-heavy closers — this is a quiet close,
-        not a victory lap.
-EXAMPLE_PICK: single warm-cream panel with 3 stacked
-              italic quotes, terracotta left bar
-
-NO CTA in this section
-
-─────────────────────────────────────────────────────────────────
-
-=================================================================
-[SECTION 4: PRODUCT — THE 3+3 BUNDLE, LAYER STACK]
+[SECTION 2: PRODUCT — THE 3+3 BUNDLE, LAYER STACK] (recap+social-proof consolidated)
 ─────────────────────────────────────────────────────────────────
 HEADLINE: The 3+3 Bundle, six pairs, one clean
           rotation. Three layers doing the work.
@@ -595,6 +558,7 @@ EXAMPLE_PICK: vertical 3-step stack, soft left border
               per layer, unicode icons (drop / shield / check)
 
 NO CTA in this section
+WRAP: image-inside-component (PS-08 Product Three Layer Visual Stack Closing, picked image is the component)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -616,6 +580,7 @@ EXAMPLE_PICK: single soft-sage panel with subtle border;
               line as the visual anchor
 
 NO CTA in this section
+WRAP: image-standalone (GT-07 Guarantee Panel Soft Sage, fallback image renders between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -640,6 +605,7 @@ TRUST_ROW: 3 small trust signals below button
 NOTE: This is the ONLY CTA in the body (no double-tap at E8).
       Door-open framing: permission not to buy is the
       strongest in the entire welcome flow.
+WRAP: image-standalone (CTA-11 Permission CTA Late Single, product accessory image next to text-link)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -660,6 +626,7 @@ EXAMPLE_PICK: 3-paragraph personal note, handwritten-style
               signature flourish, body serif font
 
 NO CTA in this section
+WRAP: component-text-only (locked-signoff, 12.1 Lena Signoff Long E8)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -676,6 +643,8 @@ INTENT: the soft secondary engagement at E8. Not a CTA
         Lena-reads-everything promise.
 EXAMPLE_PICK: indented PS block in italic body weight,
               reply-to link as inline text
+
+WRAP: component-text-only (locked-signoff, part of 12.1 Lena Signoff Long E8 + P.S. Reply, text-only)
 
 NO CTA in this section (intentional — single CTA in body)
 
@@ -825,20 +794,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Toddler outdoors on grass in a disposable diaper, lived-in closing-arc moment.
   - Current usage: 1/25
   - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-8 is an image-driven component and the picked image IS the component.
 
-### Section 2: recap-quote-stack-consolidated
-- ROLE slot: recap-quote-stack-consolidated
-- INTENT: consolidates recap-three-pillar-list + quote-stack-panel into one body block
-- COMPONENT PICKED: NL-02 (Recap Three-Pillar List + Quote Stack)
-  - Catalog entry: per component catalog
-  - Current usage: 1/8
-  - WHY: Numbered list (NL-02) consolidates recap + quote stack per 8-cap; text-dominant for E8 closing.
-- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
-  - Alt text: Toddler napping in watermelon-pink shorts, soft lived-in moment.
-  - Current usage: 1/25
-  - WHY: matches section INTENT and L1 calibration.
-
-### Section 3: product-three-layer-stack
+### Section 2: product-three-layer-stack
 - ROLE slot: product-three-layer-stack
 - INTENT: shows the 3-layer system (Cotton inner / Smart middle / Outer)
 - COMPONENT PICKED: PS-08 (Product Three Layer Visual Stack (Closing))
@@ -849,8 +808,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Multicolor penguin-print training pant flat-lay, the 'system' product visual.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-inside-component**
+  - WHY: PS-08 is an image-driven component and the picked image IS the component.
 
-### Section 4: guarantee-panel-soft-sage
+### Section 3: guarantee-panel-soft-sage
 - ROLE slot: guarantee-panel-soft-sage
 - INTENT: risk reversal with calm visual treatment; sage-green quiet frame
 - COMPONENT PICKED: GT-07 (Guarantee Panel (Soft Sage))
@@ -861,8 +822,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Cloth pads in watermelon/astronaut/cat prints, soft trust signal.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Fallback: GT-07 is not in catalog; image renders between sections.
 
-### Section 5: cta-button-full-width-late-single
+### Section 4: cta-button-full-width-late-single
 - ROLE slot: cta-button-full-width-late-single
 - INTENT: single tap late-position CTA, permission-toned
 - COMPONENT PICKED: CTA-11 (Permission CTA (Late Single))
@@ -873,8 +836,10 @@ Stage 2 also applies System B colors automatically:
   - Alt text: A toddler in mustard-yellow cat-pattern outfit from behind, real-home photo.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
-### Section 6: signoff-lena-long-e8-ps-consolidated
+### Section 5: signoff-lena-long-e8-ps-consolidated
 - ROLE slot: signoff-lena-long-e8-ps-consolidated
 - INTENT: consolidates Lena LONG signoff + P.S. reply-invitation into one signoff block
 - COMPONENT PICKED: 12.1 (Lena Signoff (Long, E8 + P.S. Reply))
@@ -885,13 +850,15 @@ Stage 2 also applies System B colors automatically:
   - Alt text: Potty-target stickers and a chart pad on a table, familiar visual for closing.
   - Current usage: 1/25
   - WHY: matches section INTENT and L1 calibration.
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 6/6 (target range 4-6).
 - Status: PASS
-- Total components: 6/8. Status: PASS
+- Total components: 5/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented [HERO-8] + 5 body components
-- image-usage.json: incremented hero, 5 body images
+- component-usage.json: incremented [HERO-8] + 4 body components
+- image-usage.json: incremented hero, 3 body images
 

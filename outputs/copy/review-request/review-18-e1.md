@@ -644,6 +644,8 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
   - Alt text: Two BrightKidCo founders holding a stack of yellow-and-watermelon potty training pants, candid and warm.
   - Current usage: 4/25
   - WHY: Founders-holding-pants visual anchors the personal brand-trust story; fits the question-hook "would you recommend us" framing where peers ask peers.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: PSYCH-05 (Curiosity Gap *(L8578)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: SECTION 1 - HOOK (Whether/Or/If Universal Recognition)
 - ROLE slot: hook-whether-or-if-band (R1, R3, R4)
@@ -656,6 +658,8 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
   - Alt text: A toddler playing on a living room floor with a wooden train, soft natural light, candid.
   - Current usage: 7/25
   - WHY: Soft home play moment visualizes the "paused before the accident" anchor tone; calm Pre-K-aged candid.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 - IMAGE PICKED: accessories/book-potty-training-guide.png
   - Alt text: BrightKidCo potty-training guide book on a neutral surface, warm light.
   - Current usage: 0/25 (FRESH)
@@ -672,6 +676,8 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
   - Alt text: A toddler napping peacefully in pink watermelon-print shorts, calm and homey.
   - Current usage: 10/25
   - WHY: Quiet-nap Pre-K visual evokes "stayed dry 2 hours" anchor without implying a clinical outcome; pink ties to watermark print motif.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-3 is an image-driven component and the picked image IS the component.
 
 ### Section 4: SECTION 3 - THREE-FAMILY TESTIMONIAL PATTERN (3 blockquotes)
 - ROLE slot: testimonial-stack-3-blockquotes-light-gray-with-thin-rules
@@ -684,6 +690,8 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
   - Alt text: BrightKidCo sticker chart and potty-target accessories laid out, neutral surface.
   - Current usage: 3/25
   - WHY: Sticker chart visual echoes the prompt-to-share-the-journey tone without implying unmet targets; warm surface fits gray-blockquote tint.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: SECTION 4 - LEADING QUESTIONS (3 open-ended prompts)
 - ROLE slot: open-questions-block-with-right-arrow-glyph
@@ -696,6 +704,8 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
   - Alt text: Training pants on a washing machine, candid home laundry moment, soft natural light.
   - Current usage: 1/25
   - WHY: Laundry-machine visual evokes "your experience" (everyday real-life texture that prompted them to review); soft natural light ties to white-bg editorial layout.
+  - **WRAP: image-inside-component**
+  - WHY: PSYCH-03 (Social Proof Cascade *(L8513)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: SECTION 5 + 6 - PRIMARY CTA + SECONDARY TEXT LINK
 - ROLE slot: dual-cta-brand-green-primary + secondary-text-link-reply-invitation
@@ -704,6 +714,9 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
   - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=warm
   - Current usage: 1/8
   - WHY: "Permission CTA" frame sets "Share your experience" + "Or hit reply" dual route as a permission-toned close (no hard-CTA energy); warm tone matches PS pattern.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: SECTION 7 - LENA SIGN-OFF (MEDIUM variant, E1 of Flow 18)
 - ROLE slot: signoff-lena-medium-cream-divider (Talk soon + P.S.)
@@ -712,6 +725,9 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
   - Catalog entry: position=signoff_footer, audience=GF, temp=warm (Giuliano source)
   - Current usage: 5/8 (close to cap but safe)
   - WHY: Canonical cream-card signoff consistent across replen + review flows.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: UTIL-05 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6 (target range 4-6). 1 hero + 2 hook + 1 anchor + 1 testimonial + 1 leading-questions.

@@ -939,6 +939,8 @@ END OF WIREFRAME — pped-11-d0
   - Alt text: "Child sitting calmly in a living room with a soft yellow dinosaur toy, hands resting on knees."
   - Current usage: 4/25
   - WHY: Soft natural light, hands visible, real home context, neutral age (3-10 silhouette feel), no cartoon family stock. Matches "calm normal week" hero intent. Side-profile visible — no full-face portrait. Under cap.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-9 is an image-driven component and the picked image IS the component.
 
 ### Section 2 + 7 (consolidated): VALIDATION + REFRAME + MECHANISM STAT
 - ROLE slot: `callout-reframe-quote` (cream card, dark text, italic) + `mechanism-stat-card` (cream card with Brand Yellow stat highlight)
@@ -947,6 +949,9 @@ END OF WIREFRAME — pped-11-d0
   - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 2/8
   - WHY: "The Reframe" component IS the visual concept — turns "failed methods" into "signal-timing gap" AND "49% of autistic 4-5 year olds aren't toilet trained yet" reframes the same way (parent-blame to neurology). Universal audience. Serves both the reframe cream card AND the mechanism stat card visually.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: STORY-09 (The Reframe — Challenge → New perspective *(L4559)) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 3: WEEK 1 GUIDE — DIRECTIVE CARD
 - ROLE slot: `directive-instruction-card` (cream card with bold italic directive)
@@ -955,6 +960,9 @@ END OF WIREFRAME — pped-11-d0
   - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 5/8
   - WHY: "Step Cards" maps to directive-card structure — clearly delineated instructional steps (1-2 hours daily, no prompts, no pressure, no timer sits). Universal audience. At 5/8, acceptable for high-fit cross-level education.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-2 requires an image to render; missing image is a BUG.
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN
 - ROLE slot: `testimonial-card-stack-vertical` (3 cards stacked, mint separator)
@@ -963,6 +971,9 @@ END OF WIREFRAME — pped-11-d0
   - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Before/After Testimonial" is the perfect map for the Three-Family Pattern — each card shows BEFORE state (Day 1 difficulty) and early AFTER moment. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 5 + 6 (consolidated): RECOGNITION ANCHORS + TIMELINE + LOW-BAR WINS
 - ROLE slot: `recognition-anchor-list` (5 dash-separated lines) + `timeline-flexibility-block` + `mini-win-checklist-stacked` (mint background)
@@ -971,6 +982,9 @@ END OF WIREFRAME — pped-11-d0
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Micro-Win Card" is the visual concept for the entire R6 mini-win block — compact recognition with light support tone. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 8: CTA + SIGNOFF
 - ROLE slot: `cta-button-full-width` (pill button) + `signoff-lena-medium` (Lena MEDIUM sign-off + 2 P.S. lines)
@@ -979,10 +993,15 @@ END OF WIREFRAME — pped-11-d0
   - Catalog entry: position=cta, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Soft Link" is the permission-based CTA visual — fits "Keep a progress log →" (NOT purchase). Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 - COMPONENT PICKED: **12.1 — Lena Signoff**
   - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 2/8
   - WHY: Lena MEDIUM sign-off block. Universal audience. At 2/8 — will be reused across all 4 PP-Education emails as the consistent brand voice anchor.
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images so far: 1 (hero)

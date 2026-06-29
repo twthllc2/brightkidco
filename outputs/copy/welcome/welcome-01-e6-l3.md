@@ -596,6 +596,7 @@ EXAMPLE_PICK: text-only prose with no decoration;
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (HERO-1 Curiosity Gap, picked image IS the component — toddler napping)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -628,6 +629,7 @@ EXAMPLE_PICK: bespoke SVG wave with a single feather
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (EDU-8 Mechanism Diagram SVG, picked image IS the component — washing machine)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -659,6 +661,7 @@ EXAMPLE_PICK: prose-only reframe paragraph with
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: component-text-only (pull-up-reframe-prose, no STAGE 2 pick — text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -687,6 +690,7 @@ EXAMPLE_PICK: continuous prose with three numbered
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-required-component (BUG — EDU-10 requires an image to render but STAGE 2 picked none; flag for revisit. Additional image woodland training pant covers Section 4.)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -711,6 +715,7 @@ EXAMPLE_PICK: warm off-white callout with 12px
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (SP-06 Before/After Testimonial, picked image IS the component — cloth pads)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -737,6 +742,7 @@ EXAMPLE_PICK: prose-only guarantee with generous
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (TRUST-2 Guarantee Detail Cards, picked image IS the component — towel set)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -769,6 +775,7 @@ PS:        "Maureen Bennie's son trained at 9.5 years
            muted rose hairline above)
 
 56px space above, 56px space below
+WRAP: component-text-only (CTA-4 Gentle Invite, text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -939,60 +946,8 @@ END OF WIREFRAME — welcome-01-e6-l3
   - Alt text: reflective/dignity — calm child for direct-address opener 'Maria,'
   - Current usage: 4/25 (in image-usage.json)
   - WHY: calm child for direct-address opener 'Maria,'
-
-### Section 2 — Signal wave SVG
-- ROLE slot: `signal-wave-svg-contraption`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e6-l3
-- COMPONENT PICKED: `EDU-8`
-  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Mechanism Diagram (reused cap) — bespoke SVG wave from flat-line to soft sine; muted rose on warm bg
-- IMAGE PICKED: `lifestyle/washing-machine-training-pants.png`
-  - Alt text: reflective/dignity — wash cycle context for signal wave illustration
-  - Current usage: 3/25 (in image-usage.json)
-  - WHY: wash cycle context for signal wave illustration
-
-### Section 4 — Mechanism 3-step inline
-- ROLE slot: `mechanism-prose-3-step-inline`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e6-l3
-- COMPONENT PICKED: `EDU-10`
-  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: How It Works (reused cap) — 3-layer inline prose; 'Body-signal underwear works differently.'
-- IMAGE PICKED: none (text-only — see other sections for imagery)
-
-### Section 5 — Mini-win testimonial Marc
-- ROLE slot: `testimonial-callout-warm-off-white`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e6-l3
-- COMPONENT PICKED: `SP-06`
-  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Before/After Testimonial (no card, italic form) — Marc story on warm off-white
-- IMAGE PICKED: `accessories/cloth-pads-watermelon-astronaut-cat.png`
-  - Alt text: muted textile near Marc testimonial
-  - Current usage: 3/25 (in image-usage.json)
-  - WHY: muted textile near Marc testimonial
-
-### Section 6 — Guarantee by your judgment
-- ROLE slot: `guarantee-paragraph-spaced`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e6-l3
-- COMPONENT PICKED: `TRUST-2`
-  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Guarantee Detail Cards (reused cap) — 60 days 'by your judgment'
-- IMAGE PICKED: `accessories/towel-set-llama-cactus.png`
-  - Alt text: muted clay for guarantee
-  - Current usage: 6/25 (in image-usage.json)
-  - WHY: muted clay for guarantee
-
-### Section 7 — CTA add alongside + PS
-- ROLE slot: `cta-text-link-add-alongside`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e6-l3
-- COMPONENT PICKED: `CTA-4`
-  - Catalog entry: position=cta, audience=['L3']
-  - Current usage: 2/8 (in component-usage.json)
-  - WHY: Gentle Invite (reused cap) — 'Add alongside for 60 days, no questions asked. →' with PS
-- IMAGE PICKED: none (text-only — see other sections for imagery)
+  - **WRAP: image-inside-component**
+  - WHY: HERO-1 is an image-driven component and the picked image IS the component.
 
 ### Signoff — Lena MEDIUM→LONG transition E6
 - ROLE slot: `signoff-lena-medium-long`
@@ -1002,6 +957,8 @@ END OF WIREFRAME — welcome-01-e6-l3
   - Current usage: 4/8 (in component-usage.json)
   - WHY: The Letter From Lena (reused cap) — peer voice; 'With care,' transition variant
 - IMAGE PICKED: none (text-only — see other sections for imagery)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 
 ### Additional images (placed in remaining sections)

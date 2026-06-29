@@ -832,6 +832,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e3-l1, level=l1, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-26 (Summer Essential *(L25770)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — ACKNOWLEDGMENT + OBSERVATION
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -844,6 +847,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 1 visual — calibrated per level (l1)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — ABSOLUTION MOMENT
 - ROLE slot: pull-quote-soft-italic-with-validation-prose
@@ -856,6 +861,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 2 visual — calibrated per level (l1)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 4 (The Pull-Up Villain Card *(L101)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: PRE-K WINDOW — DIRECTNESS ANCHOR
 - ROLE slot: mechanism-mint-callout-with-pre-k-anchor
@@ -868,6 +875,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 3 visual — calibrated per level (l1)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-4 (The Interoception Test *(L10745)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: TESTIMONIAL — PRE-K SUCCESS STORY
 - ROLE slot: testimonial-pre-k-success-on-mint
@@ -880,6 +889,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 4 visual — calibrated per level (l1)
   - Current usage: 16/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: OFFER — 3+3 BUNDLE WITH URGENCY + PERMISSION
 - ROLE slot: pricing-box-bundle-with-rotation-story
@@ -892,6 +903,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 3 section 5 visual — calibrated per level (l1)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT (ESCALATION)
 - ROLE slot: lena-signoff-long-with-care-ps-pair
@@ -900,6 +913,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 5/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6

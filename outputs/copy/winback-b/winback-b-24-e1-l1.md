@@ -501,6 +501,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-b-24-e1-l1, level=l1, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: FLOWDEEP-3 (Welcome E3 Decision *(L12540)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — Pre-K Calendar Re-anchor
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -513,6 +516,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 1 visual — calibrated per level (l1)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — Method-Cycling Reframe
 - ROLE slot: validation-prose-with-emerald-hairline-left-border
@@ -525,6 +530,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 2 visual — calibrated per level (l1)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: OFFER — The 3+3 Bundle Re-Introduction
 - ROLE slot: pricing-box-mint-background-with-testimonial
@@ -537,6 +544,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 3 visual — calibrated per level (l1)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 4: GUARANTEE / RISK REVERSAL
 - ROLE slot: guarantee-line-centered-muted
@@ -549,6 +558,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 4 visual — calibrated per level (l1)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PRODEEP-9 (The Return Story *(L10616)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps
@@ -561,6 +572,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 5 visual — calibrated per level (l1)
   - Current usage: 24/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Image count check
 - Total images in this email: 5/6

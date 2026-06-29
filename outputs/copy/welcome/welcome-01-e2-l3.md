@@ -253,6 +253,7 @@ EXAMPLE_PICK: text-only paragraph block; no callout box;
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (HERO-13 Scientific Hook, picked image IS the component — toddler napping)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -278,6 +279,7 @@ EXAMPLE_PICK: text-only prose with subtle 2px left
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-standalone (Additional image Section 2 validation, book potty-training guide decorative between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -303,6 +305,7 @@ EXAMPLE_PICK: prose-only mechanism explanation; no
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (EDU-8 Mechanism Diagram prose form, picked image IS the component — white textile illustration)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -329,6 +332,7 @@ EXAMPLE_PICK: italic text-only pull-quote with subtle
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-standalone (EMO-4 Empathy Block, cloth pads image decorative between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -349,6 +353,7 @@ INTENT: short paragraph that explicitly names what this
 EXAMPLE_PICK: text-only paragraph, no decorative element
 
 56px space above, 56px space below
+WRAP: component-text-only (permission-paragraph, text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -370,6 +375,7 @@ INTENT: a 2-sentence reminder of the 60-day guarantee
 EXAMPLE_PICK: text-only paragraph, no decorative element
 
 56px space above, 56px space below
+WRAP: image-inside-component (TRUST-1 60-Day Seal, picked image IS the component — towel set llama cactus)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -397,6 +403,7 @@ NOTE:      no product, no bundle, no pricing mention in
            this email; product intro is deferred to E3
 
 56px space above, 56px space below
+WRAP: component-text-only (CTA-11 Permission CTA, text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -526,63 +533,6 @@ END OF WIREFRAME — welcome-01-e2-l3
 
 **Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Section 1 — Hero
-- ROLE slot: `prose-block-long-mirror`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e2-l3
-- COMPONENT PICKED: `HERO-13`
-  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Scientific Hook — text_only, warm; leads with '49 studies' anchor
-- IMAGE PICKED: `lifestyle/toddler-napping-watermelon-pink-shorts.png`
-  - Alt text: reflective/dignity — calm napping child, dignified pose, soft pink shorts
-  - Current usage: 4/25 (in image-usage.json)
-  - WHY: calm napping child, dignified pose, soft pink shorts
-
-### Section 3 — Mechanism deep prose
-- ROLE slot: `mechanism-deep-prose`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e2-l3
-- COMPONENT PICKED: `EDU-8`
-  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Mechanism Diagram (prose form) — the 30-60s window, rendered as plain prose, NOT a chart
-- IMAGE PICKED: `flat-lay/training-pant-cloud-raindrop-white.jpg`
-  - Alt text: white textile mechanism illustration
-  - Current usage: 5/25 (in image-usage.json)
-  - WHY: white textile mechanism illustration
-
-### Section 4 — Research pull quote
-- ROLE slot: `pull-quote-soft-italic-research-anchored`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e2-l3
-- COMPONENT PICKED: `EMO-4`
-  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Empathy Block — italic pull quote format for Nicholson et al. (2019) research anchor
-- IMAGE PICKED: `accessories/cloth-pads-watermelon-astronaut-cat.png`
-  - Alt text: muted, abstract patterns reinforcing research anchor
-  - Current usage: 3/25 (in image-usage.json)
-  - WHY: muted, abstract patterns reinforcing research anchor
-
-### Section 6 — Guarantee mini echo
-- ROLE slot: `guarantee-mini-paragraph`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e2-l3
-- COMPONENT PICKED: `TRUST-1`
-  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: 60-Day Seal — single-element trust marker; reinforce without re-introduction
-- IMAGE PICKED: `accessories/towel-set-llama-cactus.png`
-  - Alt text: muted clay textile supporting guarantee
-  - Current usage: 6/25 (in image-usage.json)
-  - WHY: muted clay textile supporting guarantee
-
-### Section 7 — CTA text-link zero pressure
-- ROLE slot: `cta-text-link-zero-pressure`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e2-l3
-- COMPONENT PICKED: `CTA-11`
-  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 4/8 (in component-usage.json)
-  - WHY: Permission CTA — text link only, no buttons for L3 E2; 'No pressure. Just information. →'
-- IMAGE PICKED: none (text-only — see other sections for imagery)
-
 ### Signoff — Lena short with P.S. E2
 - ROLE slot: `signoff-lena-short-with-ps`
 - INTENT: from wireframe — fitting the L3 section structure for welcome-01-e2-l3
@@ -591,23 +541,9 @@ END OF WIREFRAME — welcome-01-e2-l3
   - Current usage: 1/8 (in component-usage.json)
   - WHY: The Permission Letter — Lena voice via Letter element; 'Talk soon,' + 'if you want to understand what interoception looks like...' P.S.
 - IMAGE PICKED: none (text-only — see other sections for imagery)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-03 is the Lena sign-off/footer block that ships from locked footer.html.
 
-
-### Additional images (placed in remaining sections)
-
-- Section assignment: Section 2 (Section 2 validation prose)
-- IMAGE PICKED: `accessories/book-potty-training-guide.png`
-  - Alt text: neutral reference - validation supporting 'you've tried'
-  - Current usage: 2/25 (in image-usage.json)
-  - WHY: neutral reference - validation supporting 'you've tried'
-
-### Image count check
-- Total images in this email: 5/6
-- Status: ✅ PASS
-
-### Component count check
-- Total components in this email: 6/8
-- Status: ✅ PASS
 
 ### L3 Calibration Check
 - ZERO yellow in any picked component: PASS (text_only / warm-toned picks only)
@@ -619,7 +555,7 @@ END OF WIREFRAME — welcome-01-e2-l3
 - 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-13', 'EDU-8', 'EMO-4', 'TRUST-1', 'CTA-11', 'EMODEEP-03']
-- image-usage.json: incremented ['lifestyle/toddler-napping-watermelon-pink-shorts.png', 'accessories/book-potty-training-guide.png', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png', 'accessories/towel-set-llama-cactus.png']
+- component-usage.json: incremented ['EDU-8', 'EMO-4', 'TRUST-1', 'CTA-11', 'EMODEEP-03']
+- image-usage.json: incremented ['flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png', 'accessories/towel-set-llama-cactus.png']
 
 ---

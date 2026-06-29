@@ -899,6 +899,8 @@ END OF WIREFRAME — pped-11-d14
   - Alt text: "Child sitting in a calm living room moment, hands resting, soft yellow light."
   - Current usage: 5/25
   - WHY: Calm "stillness with possibility" hero — soft natural light, hands visible, neutral age. Reused from d0 (under cap). The "watch-state" matches.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-11 is an image-driven component and the picked image IS the component.
 
 ### Section 2: RECOGNITION ANCHORS — 7 FIRST-SIGNAL ANCHORS (R2)
 - ROLE slot: `recognition-anchor-list-first-signals` (7 dash-separated lines)
@@ -907,6 +909,9 @@ END OF WIREFRAME — pped-11-d14
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Patience Meter" visual concept — the 7 anchors are patience-milestones the parent tracks. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 3 + 5 (consolidated): VALIDATION + MECHANISM REINFORCEMENT
 - ROLE slot: `callout-validation-nothing-yet` + `mechanism-reinforcement-card` (cream cards, dark italic)
@@ -915,6 +920,9 @@ END OF WIREFRAME — pped-11-d14
   - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Vocabulary Builder" IS the visual concept — language-learning analogy ("recognizing individual letters" → "sentences come later"). Universal audience. Fresh pick. (Different from d7's EDU-8 to maintain variance — d7 used Mechanism Diagram; d14 uses Vocabulary Builder for the language-learning metaphor.)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-13 requires an image to render; missing image is a BUG.
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
 - ROLE slot: `testimonial-card-stack-graduated` (3 stacked cream cards, mint separator)
@@ -923,6 +931,9 @@ END OF WIREFRAME — pped-11-d14
   - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Review of the Week" maps to the Three-Family graduated testimonial pattern — each week-2 milestone review. Universal audience. Fresh pick. (Different from d0 SP-06 and d7 SP-08.)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 6: MINI-WIN TRACKING PROMPT
 - ROLE slot: `mini-win-tracking-prompt` (cream card, italic body)
@@ -931,6 +942,9 @@ END OF WIREFRAME — pped-11-d14
   - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Mini-Win Streak (Progress Tracker)" IS the exact visual concept — track tiny signals over time. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: 10 (Mini-Win Streak (Progress Tracker) *(L260)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 7 + 8 (consolidated): PERMISSION CLOSE + SOFT REPLY CTA
 - ROLE slot: `callout-permission-with-guarantee` (cream card, italic) + `cta-button-full-width` (soft reply-to-Lena pill)
@@ -939,10 +953,15 @@ END OF WIREFRAME — pped-11-d14
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Permission CTA" IS the visual concept for "Hit reply and tell me what you're seeing" — opens email reply, no purchase ask. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 - COMPONENT PICKED: **12.1 — Lena Signoff**
   - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 3/8 (before this pick)
   - WHY: Lena MEDIUM sign-off with 2 P.S. lines. Universal audience. At 3/8 — consistent brand voice anchor across the PP-Education flow.
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images so far: 1 (hero)

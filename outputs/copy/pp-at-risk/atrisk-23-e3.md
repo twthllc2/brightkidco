@@ -159,6 +159,8 @@ No longer want to receive these emails? [Unsubscribe]
   - Alt text: "Toddler using a yellow-woodland themed potty ladder, suggesting the soft-reset 'put the underwear on again' moment."
   - Current usage: 4/25 (was 4 → now 5)
   - WHY: The "soft reset" visual — toddler-on-potty-ladder anchors the "when you're ready to try again" permission frame.
+  - **WRAP: image-inside-component**
+  - WHY: 18.1 (Hi-Fi Gradient Hero + Discount Block *(L1735)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: Validation — Soft Reset Normalization
 - ROLE slot: validation-paragraph-with-left-border-rose (Section 2)
@@ -171,6 +173,8 @@ No longer want to receive these emails? [Unsubscribe]
   - Alt text: "Child resting peacefully in soft pink shorts, suggesting the 'some kids need a slower ramp' validation the section describes."
   - Current usage: 10/25 (was 10 → now 11)
   - WHY: The "slower ramp" validation visual — calm toddler rest supports the "Some kids need a slower ramp. Some need longer wear times" framing.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: Mechanism — One Thing Worth Trying (Callout)
 - ROLE slot: mechanism-callout-box-rose-border (Section 3)
@@ -183,6 +187,8 @@ No longer want to receive these emails? [Unsubscribe]
   - Alt text: "Toddler with a moon-and-cloud themed backpack, suggesting the 'put the underwear on for 3 hours, three days in a row' suggestion."
   - Current usage: 6/25 (was 6 → now 7)
   - WHY: The "3-hours-3-days routine" visual — toddler-with-backpack anchors the everyday-routine suggestion.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 4: CTA — Permission + Pill Button + Secondary Text
 - ROLE slot: permission-line-pre-cta + cta-button-pill-rose + secondary-text-link + permission-close (Section 4)
@@ -195,6 +201,8 @@ No longer want to receive these emails? [Unsubscribe]
   - Alt text: "Training pant with cloud-and-raindrop illustration on white fabric, the visual anchor for the 'try it for 3 days' CTA."
   - Current usage: 4/25 (was 4 → now 5)
   - WHY: The "try it for 3 days" CTA visual — soft white cotton flat-lay, child-free, sensory-friendly.
+  - **WRAP: image-inside-component**
+  - WHY: 6.2 is an image-driven component and the picked image IS the component.
 
 ### Section 5: Sign-off — Lena MEDIUM with P.S.
 - ROLE slot: signoff-lena-medium-with-ps (Section 5)
@@ -207,6 +215,8 @@ No longer want to receive these emails? [Unsubscribe]
   - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the brand-trust anchor for the Lena MEDIUM-with-P.S. sign-off."
   - Current usage: 11/25 (was 11 → now 12)
   - WHY: The founder-trust visual — Lena's peer voice anchored in founder identity.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: STORYDEEP-03 (The Letter From Future (uses Letter) *(L9918)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: HERO-19 (Timeline Shock)

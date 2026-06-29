@@ -149,6 +149,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Alt text: "Toddler outdoors on grass wearing a disposable diaper, suggesting the 60-day milestone moment — outdoor time, fresh-air observation."
   - Current usage: 1/25 (was 1 → now 2)
   - WHY: The "60-day milestone" visual — outdoor natural-light framing, cross-level safe toddler silhouette.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 4.1 (Letter Section (uses Letter) *(L468)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: Validation — Hybrid State Normalization
 - ROLE slot: validation-paragraph-stack-with-quotes (Section 2)
@@ -161,6 +163,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Alt text: "Toddler viewed from behind wearing a mustard-yellow cat-themed outfit, illustrating the in-between state the validation paragraph describes."
   - Current usage: 1/25 (was 1 → now 2)
   - WHY: The "between progress and pull-ups" visual — toddler-in-everyday-life, cross-level safe.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 23.2 (Drop Cap Initial Letter (uses Letter) *(L2133)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: Mechanism — 60-Day Science Checkpoint
 - ROLE slot: mechanism-paragraph-stack-with-nicholson-citation (Section 3)
@@ -173,6 +177,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Alt text: "Pocket diaper with moon-and-cloud illustration on blue fabric, illustrating the wash-friendly, layered construction that supports the 60-day mechanism."
   - Current usage: 0/25 (NEW)
   - WHY: The "layered construction" visual for the science-checkpoint mechanism — neutral pocket-diaper, blue/white palette.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-2 is an image-driven component and the picked image IS the component.
 
 ### Section 4: Three-Family Testimonial Pattern (60-Day Mark)
 - ROLE slot: testimonial-card-l1-verbal-day-52 + testimonial-card-l2-bcba-day-55 + testimonial-card-l3-non-verbal-day-60-pause + validation-bridge-text-60-day (Section 4)
@@ -185,6 +191,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, representing the 60-day guarantee brand-trust anchor."
   - Current usage: 5/25 (was 5 → now 6)
   - WHY: The founder-brand-trust visual paired with the Three-Family block — reinforces Lena's "with understanding" sign-off that follows.
+  - **WRAP: image-inside-component**
+  - WHY: TRUST-2 (Guarantee Detail Cards *(L6414)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Section 5: Product Moment — 3 Next-Phase Paths
 - ROLE slot: product-intro-line + offer-list-stacked-vertical-3-paths (Section 5)
@@ -197,6 +205,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Alt text: "BrightKidCo potty targets stickers and reward chart, the next-phase visual-cue accessory for 3+3 Bundle buyers."
   - Current usage: 2/25 (was 2 → now 3)
   - WHY: The Targets Pack visual — directly anchors the path 2 / 3 product path ("If you have the 3+3 Bundle: The Potty Training Targets Pack adds a visual cue for the 'where'").
+  - **WRAP: image-inside-component**
+  - WHY: 6.1 is an image-driven component and the picked image IS the component.
 
 ### Section 6: Guarantee — Front-and-Center Reminder
 - ROLE slot: guarantee-emerald-line-closing-window (Section 6)
@@ -206,6 +216,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Current usage: 2/8 (was 2 → now 3)
   - WHY: 60-Day Seal alias is the brand guarantee component; text-only matches inline-paragraph usage. Reused from E1/E2 for guarantee consistency.
 - IMAGE PICKED: none (text-only inline guarantee)
+  - **WRAP: component-text-only**
+  - WHY: 10.1 (60-Day Seal (alias for PartBadge/Letter) *(L887)*) is text-only per catalog.
 
 ### Section 7: CTA — Level-Calibrated Match-Based
 - ROLE slot: permission-line-pre-cta + cta-button (Section 7)
@@ -218,6 +230,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Alt text: "Cloth pads with watermelon and astronaut-cat illustrations, a next-phase accessory pairing with the bundle upgrade."
   - Current usage: 0/25 (NEW)
   - WHY: A final-CTA accessory visual — child-free, sensory-friendly, fresh palette for the closing CTA.
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Section 8: Sign-off (Lena LONG, borderline per Class A)
 - ROLE slot: signoff-lena-long (with "with understanding" variant + personal story)
@@ -227,6 +241,8 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
   - Current usage: 2/8 (was 2 → now 3)
   - WHY: Story-deep variant handles the LONG personal-story sign-off ("My older son was 8 before he trained. At the 60-day mark with our first pair, I was still waiting for the first signal..."); warm + image_text per catalog. Reused from E1 for Lena voice consistency across the Extended Upsell flow.
 - IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+  - **WRAP: component-text-only**
+  - WHY: STORYDEEP-03 (The Letter From Future (uses Letter) *(L9918)*) is text-only per catalog.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: HERO-12 (Before Snapshot)

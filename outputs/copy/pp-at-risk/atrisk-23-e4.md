@@ -105,6 +105,8 @@ Questions? Reply to this email, I read every response.
   - Alt text: "Child in dinosaur-themed clothing in a warm living room, suggesting the home-context 'when you're ready to try again' permission the door-ajar opener describes."
   - Current usage: 9/25 (was 9 → now 10)
   - WHY: The "home-context" visual — supports the door-ajar permission framing. (Reuse permitted: image at 10 uses, well under 25 cap.)
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 2.2 (Warm Hero *(L390)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: Validation — Neurology, Not Failure
 - ROLE slot: validation-paragraph-stack-neurology-not-failure (Section 2)
@@ -117,6 +119,8 @@ Questions? Reply to this email, I read every response.
   - Alt text: "Toddler viewed from behind wearing a mustard-yellow cat-themed outfit, suggesting the 'his nervous system is on its own timeline' validation the section describes."
   - Current usage: 4/25 (was 4 → now 5)
   - WHY: The "nervous system timeline" visual — toddler-in-everyday-life supports the timeline-flexibility framing.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: Mechanism — Gentle Refresher + Pull-Ups Critique
 - ROLE slot: mechanism-paragraph-stack-with-pull-ups-critique (Section 3)
@@ -129,6 +133,8 @@ Questions? Reply to this email, I read every response.
   - Alt text: "Washing machine drum with training pants, illustrating the 'wearing it consistently is harder than any product description makes it sound' bridge."
   - Current usage: 7/25 (was 7 → now 8)
   - WHY: The "consistent wear" mechanism visual — supports the "But it only works if it's being worn" bridge.
+  - **WRAP: image-inside-component**
+  - WHY: STORY-09 (The Reframe — Challenge → New perspective *(L4559)) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: Permission + 3 Re-Entry Paths
 - ROLE slot: permission-paragraph-stack-with-3-re-entry-paths (Section 4)
@@ -141,6 +147,8 @@ Questions? Reply to this email, I read every response.
   - Alt text: "Toddler outdoors on grass wearing a disposable diaper, the outdoor-context visual for the '30 minutes after school' re-entry path."
   - Current usage: 4/25 (was 4 → now 5)
   - WHY: The "30 minutes after school" re-entry visual — toddler outdoors anchors the lowest-bar re-entry option.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: CTA — Try-Again Button + Reply Link
 - ROLE slot: cta-button-full-width-brand-green + secondary-reply-link (Section 5)
@@ -153,6 +161,8 @@ Questions? Reply to this email, I read every response.
   - Alt text: "Training pant with penguin illustration in multicolor fabric, the visual anchor for the 'Try Again, 60-Day Restart' CTA."
   - Current usage: 2/25 (was 2 → now 3)
   - WHY: The "try again" CTA visual — soft multicolor cotton flat-lay, child-free, sensory-friendly.
+  - **WRAP: image-inside-component**
+  - WHY: 6.2 is an image-driven component and the picked image IS the component.
 
 ### Section 6: Sign-off — Lena MEDIUM with P.S.
 - ROLE slot: signoff-lena-medium-with-ps (Section 6)
@@ -165,6 +175,8 @@ Questions? Reply to this email, I read every response.
   - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the brand-trust anchor for the Lena MEDIUM-with-P.S. sign-off."
   - Current usage: 12/25 (was 12 → now 13)
   - WHY: The founder-trust visual — Lena's peer voice anchored in founder identity.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: STORYDEEP-03 (The Letter From Future (uses Letter) *(L9918)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: 2.2 (Warm Hero)

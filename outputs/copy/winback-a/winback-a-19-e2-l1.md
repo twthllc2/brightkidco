@@ -560,6 +560,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e2-l1, level=l1, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-18 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — 90-DAY GAP RECONTEXTUALIZED
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -572,6 +575,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 1 visual — calibrated per level (l1)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — PEER MOM QUOTE
 - ROLE slot: pull-quote-soft-italic-on-cream
@@ -584,6 +589,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 2 visual — calibrated per level (l1)
   - Current usage: 16/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: TESTIMONIAL — PRE-K SUCCESS STORY
 - ROLE slot: testimonial-mint-block-featured
@@ -596,6 +603,19 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 3 visual — calibrated per level (l1)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
+
+### Section 4: MECHANISM REFRAME — INTEROCEPTION + 672-FAMILY STAT
+- ROLE slot: mechanism-prose-block-with-inline-stat
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: DEEP-25 (Mechanism Stat Block *(L9850)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section, inline-bold 82% stat)
+  - **WRAP: component-text-only**
+  - WHY: DEEP-25 is text-only per catalog; inline-bold stat renders without an attached image.
 
 ### Section 5: PRODUCT + OFFER — 3+3 BUNDLE REPRISE
 - ROLE slot: pricing-bullets-yellow-dots
@@ -608,6 +628,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 5 visual — calibrated per level (l1)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: GUARANTEE — REINFORCED
 - ROLE slot: guarantee-line-centered-muted
@@ -620,6 +642,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 2 section 6 visual — calibrated per level (l1)
   - Current usage: 18/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: TRUST-5 (Promise Badges Strip *(L6505)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Section 7: LENA SIGN-OFF — SHORT VARIANT + "NEXT TIME" TEASE
 - ROLE slot: lena-signoff-short-with-next-time-tease
@@ -628,12 +652,15 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 6/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: 33.2 (Progress Arrow SVG *(L2786)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['CAMIMG-18', 'REV-02.4', 'BONUS-03', 'EMODEEP-02', 'REV-03.2', 'TRUST-5', '33.2']
+- component-usage.json: incremented ['CAMIMG-18', 'REV-02.4', 'BONUS-03', 'EMODEEP-02', 'DEEP-25', 'REV-03.2', 'TRUST-5', '33.2']
 - image-usage.json: incremented ['flat-lay/swim-diaper-giraffe-yellow.jpg', 'lifestyle/toddler-livingroom-dino-yellow.png', 'flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'accessories/towel-set-llama-cactus.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png']
 

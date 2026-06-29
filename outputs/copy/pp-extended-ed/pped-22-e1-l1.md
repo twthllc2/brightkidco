@@ -649,6 +649,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e1-l1, level=l1, theme=1. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: DEEPPROD-1 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — PRE-K + BODY-SIGNAL GAP OPENER
 - ROLE slot: prose-block-with-pre-k-anchor-and-micro-signs
@@ -661,6 +664,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 1 visual — calibrated per level (l1)
   - Current usage: 3/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: UTIL-01 (Gradient Band (uses Band) *(L7487)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — "ALMOST TRAINED" LOOP REFRAME
 - ROLE slot: validation-paragraph-stack-with-nicholson-citation
@@ -673,6 +678,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 2 visual — calibrated per level (l1)
   - Current usage: 3/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 3: MECHANISM — INTEROCEPTION PATHWAY
 - ROLE slot: mechanism-paragraph-stack-with-interoception-frame
@@ -685,6 +692,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 3 visual — calibrated per level (l1)
   - Current usage: 1/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-4 (The Interoception Test *(L10745)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: TESTIMONIAL — L1 PEER MOM (SARAH'S SON JAKE)
 - ROLE slot: testimonial-card-l1-verbal-almost-trained
@@ -697,6 +706,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 4 visual — calibrated per level (l1)
   - Current usage: 1/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 5: PRODUCT INTRODUCTION — 3+3 BUNDLE ALREADY IN USE
 - ROLE slot: product-reinforcement-paragraph-with-three-layer-explanation
@@ -709,6 +720,8 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Alt text: L1 1 section 5 visual — calibrated per level (l1)
   - Current usage: 3/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 6.3 is an image-driven component and the picked image IS the component.
 
 ### Section 6: GUARANTEE — RISK REMOVAL (BRIDGE SECTION)
 - ROLE slot: guarantee-emerald-line-bridge
@@ -717,6 +730,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 7: CTA + LENA SIGN-OFF (FINAL POSITION)
 - ROLE slot: cta-button-soft-emerald-with-secondary-text-link
@@ -725,6 +741,9 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Image count check
 - Total images in this email: 5/6

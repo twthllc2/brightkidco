@@ -743,6 +743,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: A cream llama-print laundry bag on a neutral surface, calm and homey.
   - Current usage: 4/25
   - WHY: Quiet homey product-as-set visual anchor; ties to the "5+5 has been working hard" framing; cream tone respects the text-heavy design.
+  - **WRAP: image-inside-component**
+  - WHY: HERO-16 is an image-driven component and the picked image IS the component.
 
 ### Section 2: SECTION 1 - HOOK (Whether/Or/If + 4 Recognition Anchors)
 - ROLE slot: hook-cream-band-with-4-italics-anchors (R2/R4/R6)
@@ -755,6 +757,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: A young child in dinosaur-print underpants on a soft living room floor, soft natural light.
   - Current usage: 7/25
   - WHY: Soft home dinosaur visual anchors the "150 days of change" hook; ties to warm off-white palette.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 - IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
   - Alt text: A toddler on grass outdoors in a disposable diaper, soft natural light, candid.
   - Current usage: 4/25
@@ -771,6 +775,8 @@ Customer Support · Mom of two autistic sons
   - Alt text: A fox-woodland print training pant laid flat on a soft white base, warm light.
   - Current usage: 0/25 (FRESH)
   - WHY: Fox-woodland print = wear-friendly surface that has been through much; soft white base signals "still works"; unused image keeps variance.
+  - **WRAP: image-inside-component**
+  - WHY: EDU-13 is an image-driven component and the picked image IS the component.
 
 ### Section 4: SECTION 3 - THREE-FAMILY TESTIMONIALS (3 cards with subtle muted accents)
 - ROLE slot: testimonial-stack-three-cards-muted-top-borders (sage, amber, clay)
@@ -779,6 +785,9 @@ Customer Support · Mom of two autistic sons
   - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 4/8 (repc-17-e1 + repa-15-e1)
   - WHY: Same card stack pattern allows the colored top-border accents to do the differentiating work (sage/amber/clay vs pinkish-beige/sage/lavender in E1).
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 5: SECTION 4 - WHAT'S NEXT: 4 OPTIONS
 - ROLE slot: options-block-4-cards-cream (Refresh / Size Up / Gift / Continue)
@@ -787,6 +796,9 @@ Customer Support · Mom of two autistic sons
   - Catalog entry: position=guarantee_trust, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 0/8
   - WHY: "Scorecard Showdown" repurposes the comparison-table pattern as a 4-option scorecard (no winner, all viable) - perfectly fits the "no judgment, four routes" wireframe intent.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CMP-7 (Scorecard Showdown *(L6246)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 6: PRIMARY CTA + SECONDARY TEXT LINK + GUARANTEE BADGE
 - ROLE slot: dual-cta-stack-forest-green-primary + secondary-text-link + guarantee-badge
@@ -795,6 +807,9 @@ Customer Support · Mom of two autistic sons
   - Catalog entry: position=cta, audience=L1/L2/L3/GF, temp=neutral
   - Current usage: 0/8
   - WHY: "Exit Close" CTA fits a non-pushy end-of-flow close where the parent self-selects the right next step (refresh / size-up / gift / continue) - lightly framed as "exit the flow on your terms."
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: LENA SIGN-OFF (LONG LIFECYCLE variant, E2 of Flow 17)
 - ROLE slot: signoff-lena-long-16px-italic (With care, + peer-mom disclosure + reply invitation + delay-permission P.S.)
@@ -804,6 +819,8 @@ Customer Support · Mom of two autistic sons
   - Current usage: 3/8
   - WHY: "The Letter From Lena" is purpose-built for LONG peer-mom disclosures with reply invitations - matches this email's milestone-finale cadence.
 - IMAGE PICKED: none (text-only sign-off for the LONG variant - matches wireframe's wisp of "no image, italic feel").
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 4/6 (target range 4-6).

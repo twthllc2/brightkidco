@@ -806,6 +806,8 @@ NOTE: This wireframe has 0 image density by INTENT (prose-led). The corrected pl
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 14/25
   - WHY: Founders photo as supporting opener visual.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 2.2 (Warm Hero *(L390)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: objection-callout-quote-gf
 - ROLE slot: objection-callout-quote-gf
@@ -818,6 +820,8 @@ NOTE: This wireframe has 0 image density by INTENT (prose-led). The corrected pl
   - Alt text (GF, V16): "Toddler viewed from behind in mustard yellow shorts, soft warm light, full backview."
   - Current usage: 4/25
   - WHY: Generic toddler-rearview for the empathy section.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 3: three-family-testimonial-stack-gf
 - ROLE slot: three-family-testimonial-stack-gf
@@ -834,6 +838,8 @@ NOTE: This wireframe has 0 image density by INTENT (prose-led). The corrected pl
   - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
   - Current usage: 6/25
   - WHY: Backview dual-toddler for the three-family testimonials.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: VSOCIAL-5 starts with VSOCIAL- per Rule 6; image-standalone (not image-inside-component).
 
 ### Section 4: mechanism-extended-callout-gf
 - ROLE slot: mechanism-extended-callout-gf
@@ -846,6 +852,8 @@ NOTE: This wireframe has 0 image density by INTENT (prose-led). The corrected pl
   - Alt text (GF, V16): "BrightKidCo disposable diaper with woodland-creature pattern in soft yellow, flat-lay product shot."
   - Current usage: 5/25
   - WHY: Disposable diaper visual for the "pull-ups reframe" mechanism extension.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: PSYCH-04 matches Rule 8 (PSYCH-); image-standalone (not image-inside-component).
 
 ### Section 5: timeline-flexibility-strip-gf
 - ROLE slot: timeline-flexibility-strip-gf
@@ -858,6 +866,8 @@ NOTE: This wireframe has 0 image density by INTENT (prose-led). The corrected pl
   - Alt text (GF, V16): "Toddler napping on a soft cream blanket wearing watermelon-patterned pink shorts."
   - Current usage: 13/25
   - WHY: "Body signals at rest" visualizes the timeline variability (rest is part of the journey).
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 6: guarantee-badge-conversion-gf
 - ROLE slot: guarantee-badge-conversion-gf
@@ -870,6 +880,8 @@ NOTE: This wireframe has 0 image density by INTENT (prose-led). The corrected pl
   - Alt text (GF, V16): "Potty training targets stickers and progress chart accessory laid flat, warm cream background."
   - Current usage: 6/25
   - WHY: Potty-targets accessory for the guarantee section.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: TRUST-2 matches Rule 8 (TRUST-); image-standalone (not image-inside-component).
 
 ### Image count check
 - Total images in this email: 6/6

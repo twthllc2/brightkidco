@@ -112,6 +112,8 @@ You're receiving this because you purchased BrightKidCo products. If you'd like 
   - Alt text: "Toddler outdoors on grass wearing a disposable diaper, the everyday outdoor context the troubleshooting opener describes."
   - Current usage: 3/25 (was 3 → now 4)
   - WHY: The "everyday outdoor context" visual — supports the practical-tone opener.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 17.7 (Closing Letter (Before CTA) (uses Letter) *(L1716)) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: Roadblock 1 Card — Child Won't Wear
 - ROLE slot: troubleshooting-card-sensory-clay (Section 2)
@@ -124,6 +126,8 @@ You're receiving this because you purchased BrightKidCo products. If you'd like 
   - Alt text: "Toddler using a pink-multicolor potty ladder, illustrating the 'start with 30-minute intervals' solution the roadblock 1 card describes."
   - Current usage: 8/25 (was 8 → now 9)
   - WHY: The "30-minute intervals" solution visual — toddler-on-potty-ladder anchors the gradual ramp-up solution.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: 23.2 (Drop Cap Initial Letter (uses Letter) *(L2133)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 3: Roadblock 2 Card — No Awareness Signs
 - ROLE slot: troubleshooting-card-no-awareness (Section 3)
@@ -136,6 +140,8 @@ You're receiving this because you purchased BrightKidCo products. If you'd like 
   - Alt text: "Washing machine drum with training pants, illustrating the 'consistent wear, not on-and-off' solution the roadblock 2 card describes."
   - Current usage: 6/25 (was 6 → now 7)
   - WHY: The "consistent wear" solution visual — supports the "2-3 hours of uninterrupted wear daily" recommendation.
+  - **WRAP: image-inside-component**
+  - WHY: Parent-quote photo is anchored inside the testimonial/letter callout.
 
 ### Section 4: Roadblock 3 Card — Regression / Setbacks
 - ROLE slot: troubleshooting-card-regression (Section 4)
@@ -148,6 +154,8 @@ You're receiving this because you purchased BrightKidCo products. If you'd like 
   - Alt text: "Child in dinosaur-themed clothing in a warm living room, illustrating the 'regression is part of the curve' reframe."
   - Current usage: 8/25 (was 8 → now 9)
   - WHY: The "regression reframe" visual — everyday living-room supports the "setbacks are part of the journey" framing.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: Transition + Lena MEDIUM Sign-off
 - ROLE slot: transition-paragraph + signoff-lena-medium (Section 5)
@@ -160,6 +168,8 @@ You're receiving this because you purchased BrightKidCo products. If you'd like 
   - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the brand-trust anchor for the Lena MEDIUM sign-off."
   - Current usage: 10/25 (was 10 → now 11)
   - WHY: The founder-trust visual paired with the transition + sign-off.
+  - **WRAP: image-inside-component**
+  - WHY: STORY-09 (The Reframe — Challenge → New perspective *(L4559)) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: CTA — Bundle Upgrade (Soft)
 - ROLE slot: cta-button-full-width + subtext (Section 6)
@@ -172,6 +182,8 @@ You're receiving this because you purchased BrightKidCo products. If you'd like 
   - Alt text: "Training pant with fox illustration on red and white fabric, the visual anchor for the 'try again with more pairs' bundle offer."
   - Current usage: 6/25 (was 6 → now 7)
   - WHY: The bundle-upgrade visual — child-free product flat-lay.
+  - **WRAP: image-inside-component**
+  - WHY: 6.2 is an image-driven component and the picked image IS the component.
 
 ### HERO (UNIQUE — never reused)
 - HERO PICKED: HERO-17 (Social Proof Hero)

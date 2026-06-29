@@ -690,6 +690,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e3-l2, level=l2, theme=3. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-22 (VIP Reward *(L25652)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 1: HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -702,6 +705,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 1 visual — calibrated per level (l2)
   - Current usage: 16/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: OBJ-13.4 (OBJ-13.4 — Trust Card Footer (Brand Authority Buil) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: MECHANISM SPECIFICITY (L2 ②)
 - ROLE slot: mechanism-mint-callout-with-nicholson-citation
@@ -714,6 +719,19 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 2 visual — calibrated per level (l2)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
+
+### Section 3: BCBA/OT ACKNOWLEDGMENT + CONVERSATION SCRIPT (L2 ③)
+- ROLE slot: validation-prose-with-bcba-conversation-script
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: DEEP-27 (BCBA Conversation Block *(L9950)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section, prose with italic conversation script)
+  - **WRAP: component-text-only**
+  - WHY: DEEP-27 is text-only per catalog; validation prose with italic BCBA conversation script renders as text-only block.
 
 ### Section 4: REALISTIC TIMELINES (L2 ④)
 - ROLE slot: timeline-stack-vertical-with-week-ranges-l2
@@ -726,6 +744,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 4 visual — calibrated per level (l2)
   - Current usage: 6/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 5: 60-DAY GUARANTEE — RESETS PER ORDER (L2 ⑤)
 - ROLE slot: guarantee-paragraph-with-reset-anchor
@@ -738,6 +758,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 5 visual — calibrated per level (l2)
   - Current usage: 14/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: TRUST-4 (Dashed Policy Quote *(L6476)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: PERMISSION-NOT-TO-BUY (L2 ⑥) + OFFER
 - ROLE slot: permission-prose-with-secondary-cta-and-microcopy
@@ -750,6 +772,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 3 section 6 visual — calibrated per level (l2)
   - Current usage: 17/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 7: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 - ROLE slot: lena-signoff-long-with-older-son-ps
@@ -758,12 +782,15 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=signoff_footer, audience=['L2']
   - Current usage: 3/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: UTIL-04 (Footer (Giuliano source) *(L7571)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['CSHOP-22', 'OBJ-13.4', '32.1', 'REV-05.2', 'TRUST-4', 'CTADEEP-13', 'UTIL-04']
+- component-usage.json: incremented ['CSHOP-22', 'OBJ-13.4', '32.1', 'DEEP-27', 'REV-05.2', 'TRUST-4', 'CTADEEP-13', 'UTIL-04']
 - image-usage.json: incremented ['flat-lay/laundry-bag-llama-cream.png', 'resized/toddler-playing.jpg', 'resized/washing-machine.jpg', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-livingroom-dino-yellow.png']
 

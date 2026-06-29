@@ -650,6 +650,8 @@ NOTE: The wireframe uses teal #2BAEB4 for the Level 2 card icon (#2BAEB4 circle 
   - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
   - Current usage: 18/25
   - WHY: Founders photo for the hero (consistent across the flow).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-19 is an image-driven component and the picked image IS the component.
 
 ### Section 2: 4x level-card-clickable-block
 - ROLE slot: level-card-clickable-block (4 variants)
@@ -662,6 +664,8 @@ NOTE: The wireframe uses teal #2BAEB4 for the Level 2 card icon (#2BAEB4 circle 
   - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
   - Current usage: 11/25
   - WHY: Generic toddler-livingroom for the level-card section.
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 3: helper-text-muted-centered
 - ROLE slot: helper-text-muted-centered
@@ -674,6 +678,8 @@ NOTE: The wireframe uses teal #2BAEB4 for the Level 2 card icon (#2BAEB4 circle 
   - Alt text (GF, V16): "Toddler viewed from behind in mustard yellow shorts, soft warm light, full backview."
   - Current usage: 5/25
   - WHY: Generic toddler-rearview for the helper text section.
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Image count check
 - Total images in this email: 4/6
@@ -691,6 +697,20 @@ NOTE: The wireframe uses teal #2BAEB4 for the Level 2 card icon (#2BAEB4 circle 
   - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], messaging=design, temperature=neutral
   - Current usage: 7/8
   - WHY: "Lena Signoff" is the canonical sign-off component. Already used in detection-10.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
+
+### Section 4: post-detection-preview-block (ADDED for floor compliance)
+- ROLE slot: post-detection-preview-block
+- INTENT: brief preview of what the parent will see AFTER they tap a level card — sets the expectation that the next email will be calibrated to the chosen level. This is the "trust after the tap" moment for GF: parent knows what happens next, removes the "did my tap do anything?" anxiety.
+- COMPONENT PICKED: 24.4 (Section Preview Card *(L2557)*)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], messaging=mechanism, image_support=text_only, temperature=warm
+  - Current usage: 1/8
+  - WHY: "Section Preview Card" sets post-click expectations without forcing another interaction. Text-only by design (mirrors L3 GF's listen-only tone — no extra imagery to maintain dignity-first cadence).
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-only preview block; no imagery needed for this listen-only moment.
 
 ### Image count check (final)
 - Total images in this email: 4/6

@@ -610,13 +610,21 @@ END OF WIREFRAME — faq-21-e4
 | Role | Component ID | Reason |
 |---|---|---|
 | PROSE-HOOK-3-QUOTES | **EMO-4** | Three-quote opener — partner/cost/brand objections |
-| OBJECTION-PARTNER | **PSYCH-03** | Vertical validation — partner/decision objection |
-| OBJECTION-COST | **CMP-2** | Vertical risk-removal — cost objection L3-safe |
-| OBJECTION-BRAND-MECH-PEER | **EDU-14** | Vertical mechanism + Lena peer — brand objection |
+  |  | **WRAP: image-standalone (placed between sections)** | Content block is text-driven; any attached image is decorative and sits between sections. |
+|| OBJECTION-PARTNER | **PSYCH-03** | Vertical validation — partner/decision objection |
+|  |  | **WRAP: image-standalone (placed between sections)** | PSYCH-03 starts with "PSYCH-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| OBJECTION-COST | **CMP-2** | Vertical risk-removal — cost objection L3-safe |
+|  |  | **WRAP: image-standalone (placed between sections)** | CMP-2 starts with "CMP-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| OBJECTION-BRAND-MECH-PEER | **EDU-14** | Vertical mechanism + Lena peer — brand objection |
+|  |  | **WRAP: image-standalone (placed between sections)** | EDU-14 is NOT in Rule 7's explicit EDU list (2/3/8/10/11); with image picked, Rule 9 → image-standalone between sections. |
 | UNIFICATION-TRUST-REBUILD | **EMODEEP-03** | Common-thread unification prose |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | EMODEEP-03 is the Lena sign-off/footer block that ships from locked footer.html. |
 | LENA-SIGNOFF-MED-INLINE-CTA | **UTIL-10** | Medium Lena sig with inline CTA (signoff_footer role) |
-| DOUBLE-PS-PARTNER-MECH | **TRUST-7** | Double P.S. — partner summary + mechanism |
-| LENA-MED-INLINE + DOUBLE-PS + FOOTER | **UTIL-09** | Footer with signature line |
+  |  | **WRAP: component-text-only** | UTIL-10 (Legal Text *(L7739)*) is text-only per catalog. |
+|| DOUBLE-PS-PARTNER-MECH | **TRUST-7** | Double P.S. — partner summary + mechanism |
+|  |  | **WRAP: image-standalone (placed between sections)** | TRUST-7 starts with "TRUST-" → Rule 8: image-standalone (with image) or component-text-only (no image). Picked image sits standalone between sections. |
+|| LENA-MED-INLINE + DOUBLE-PS + FOOTER | **UTIL-09** | Footer with signature line |
+|  |  | **WRAP: component-text-only** | UTIL-09 is the footer/sign-off block; no separate image picked for it. Rule 10 (no image + no rule match) → component-text-only. |
 
 ### Images (4/6)
 

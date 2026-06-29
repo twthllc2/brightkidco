@@ -940,6 +940,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e4-l3, level=l3, theme=4. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-1 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — "HIS BODY IS GROWING THE WAY IT SHOULD"
 - ROLE slot: dignity-first-paragraph-stack-with-growth-mirror
@@ -952,6 +955,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 4 section 1 visual — calibrated per level (l3)
   - Current usage: 7/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: STORYDEEP-02 (The Timeline Spiral *(L9894)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 2: LATE-TRAINER STORIES (3 INDENTED NARRATIVE BLOCKS)
 - ROLE slot: late-trainer-stories-stacked-indented-3-blocks
@@ -964,6 +969,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 4 section 2 visual — calibrated per level (l3)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-04 (The Day In The Life *(L9939)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: WHAT CHANGES DURING ADOLESCENCE
 - ROLE slot: mechanism-paragraph-stack-with-l3-redefinition
@@ -976,6 +983,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 4 section 3 visual — calibrated per level (l3)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: M2 is an image-driven component and the picked image IS the component.
 
 ### Section 4: WHATEVER PROGRESS MEANS — DIGNITY CLOSE
 - ROLE slot: dignity-close-paragraph-stack-with-permission-frame
@@ -988,6 +997,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 4 section 4 visual — calibrated per level (l3)
   - Current usage: 9/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: PSYCH-06 (Permission Messaging *(L8611)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: CTA — TEXT LINK WITH PERMISSION FRAME
 - ROLE slot: cta-text-link-soft-permission-with-secondary-link
@@ -1000,6 +1011,8 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Alt text: L3 4 section 5 visual — calibrated per level (l3)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 6: LENA SIGN-OFF (LONG VARIANT) + LATE-TRAINER P.S.
 - ROLE slot: floating-feather-easter-egg-grace-element
@@ -1008,6 +1021,9 @@ L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONL
   - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: STORYDEEP-05 (The Conversation Thread *(L9965)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Image count check
 - Total images in this email: 5/6

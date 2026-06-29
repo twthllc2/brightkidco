@@ -749,6 +749,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for winback-a-19-e2-gf, level=gf, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CSHOP-15 (New Collection *(L25442)*) is image-driven per catalog (image_support=image_only); missing image is a BUG.
 
 ### Section 1: HOOK — Whether...Or...If... Universal Recognition
 - ROLE slot: hook-prose-block-centered-warm-cream
@@ -761,6 +764,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 1 visual — calibrated per level (gf)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
 ### Section 2: VALIDATION — Permission to Pause
 - ROLE slot: validation-prose-warm-cream
@@ -773,6 +778,22 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 2 visual — calibrated per level (gf)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
+
+### Section 3: RECOGNITION ANCHORS — Do Any of These Sound Familiar? (R2, R4, R6)
+- ROLE slot: recognition-anchors-stack-on-mint
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: BONUS-04 (Recognition Stack *(L8900)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: GF 2 section 3 visual — calibrated per level (gf)
+  - Current usage: 17/25
+  - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: BONUS-04 is text-driven per catalog; any attached image is decorative and sits between sections.
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN (GF Inclusion)
 - ROLE slot: three-family-testimonial-stack-on-cream
@@ -785,6 +806,19 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 4 visual — calibrated per level (gf)
   - Current usage: 23/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
+
+### Section 5: MECHANISM REMINDER — Why Body-Signal Learning Works Differently
+- ROLE slot: mechanism-prose-warm-cream
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: DEEP-26 (Mechanism Reminder *(L9900)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section, prose with bold key phrase)
+  - **WRAP: component-text-only**
+  - WHY: DEEP-26 is text-only per catalog; mechanism prose renders as text-only block.
 
 ### Section 6: OFFER + CTA — Try Again, Your Way
 - ROLE slot: offer-prose-with-inline-cta-and-microcopy
@@ -797,6 +831,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 6 visual — calibrated per level (gf)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone**
+  - WHY: CTA has a small product/icon photo placed next to the text-link button.
 
 ### Section 7: LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
 - ROLE slot: lena-signoff-short-with-reply-ps
@@ -809,12 +845,14 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 2 section 7 visual — calibrated per level (gf)
   - Current usage: 13/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: UTIL-09 (Social Strip *(L7712)*) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Image count check
-- Total images in this email: 5/6
+- Total images in this email: 6/6
 - Status: ✅ PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['CSHOP-15', 'REV-06.4', 'REV-08.2', 'EMODEEP-05', 'CTADEEP-12', 'UTIL-09']
-- image-usage.json: incremented ['flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddlers-backview-disposable-diapers.png', 'flat-lay/training-pant-fox-red-white.jpg']
+- component-usage.json: incremented ['CSHOP-15', 'REV-06.4', 'REV-08.2', 'BONUS-04', 'EMODEEP-05', 'DEEP-26', 'CTADEEP-12', 'UTIL-09']
+- image-usage.json: incremented ['flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddlers-backview-disposable-diapers.png', 'flat-lay/training-pant-fox-red-white.jpg']
 

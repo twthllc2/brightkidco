@@ -613,6 +613,9 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │  "That pattern isn't random. It's not stubbornness.     │
 │   And it's not that you're doing something wrong."      │
 │                                                          │
+│  WRAP: image-required-component (BUG — HERO-7 requires  │
+│  an image to render but STAGE 2 picked none; flag for   │
+│  revisit to either pick an image or swap to text-only)  │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  VALIDATION BODY (5–6 sentences) — 6-Element ①          │
@@ -623,6 +626,8 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │   the signal is ABSENT. It's that the signal arrives    │
 │   with DELAYED ACCURACY."                               │
 │                                                          │
+│  WRAP: component-text-only (STORYDEEP-03 Letter From     │
+│  Future, text-only per catalog)                         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  DEEP MECHANISM BODY (5–6 sentences) — 6-Element ②      │
@@ -634,6 +639,9 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │   message arrives clearly and stays long enough for     │
 │   the brain to register it."                            │
 │                                                          │
+│  WRAP: image-inside-component (EDU-11 science callout,  │
+│  picked image IS the component — toddler dino-yellow    │
+│  living room)                                            │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  [MINT-BORDERED LOOP EXPLAINER BOX — single column,     │
@@ -658,6 +666,9 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │  └────────────────────────────────────────────────────┘  │
 │  (mint #DBFFCD border; mechanism as art)               │
 │                                                          │
+│  WRAP: image-inside-component (EDU-2 mechanism step    │
+│  cards, picked image IS the component — toddler         │
+│  napping in watermelon-pink)                            │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  BCBA/OT ACKNOWLEDGMENT BODY — 6-Element ③             │
@@ -667,6 +678,9 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │  "Your BCBA built the foundation. This adds the         │
 │   sensory layer that was missing."                      │
 │                                                          │
+│  WRAP: image-inside-component (SP-01 quote-callout      │
+│  positioned for BCBA voice, picked image IS the         │
+│  component — toddler playing train)                     │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  REALISTIC TIMELINES BODY — 6-Element ④                │
@@ -680,6 +694,9 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │  This is a 6:1 gap compared to neurotypical children.   │
 │  You are not behind."                                   │
 │                                                          │
+│  WRAP: image-inside-component (SP-02 quote-callout      │
+│  mini-win stack, picked image IS the component — bunny  │
+│  hearts pink training pant)                              │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  MINI-WIN TESTIMONIALS — 3 small callout-quote-         │
@@ -716,6 +733,9 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │  │              existing protocol                     │  │
 │  └────────────────────────────────────────────────────┘  │
 │                                                          │
+│  WRAP: image-inside-component (6.1 product_showcase,    │
+│  picked image IS the component — watermelon-pink        │
+│  training pant)                                         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  GUARANTEE BODY — 6-Element ⑤                           │
@@ -723,6 +743,8 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │   If your child shows no sign of body awareness after   │
 │   60 days, full refund. No fine print, no condition."   │
 │                                                          │
+│  WRAP: image-inside-component (part of consolidated 6.1 │
+│  product_showcase, guarantee block)                     │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  CTA BODY — 6-Element ⑥ (most permission-leaning CTA   │
@@ -754,6 +776,8 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 │          "Reply to this email, Lena reads every         │
 │           response."                                    │
 │                                                          │
+│  WRAP: component-text-only (locked-signoff, 12.2 Lena  │
+│  Signoff LONG variant, ships from locked footer.html)  │
 └──────────────────────────────────────────────────────────┘
 
 SYSTEM B (automatic):
@@ -780,86 +804,6 @@ SYSTEM B (automatic):
 
 *L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
-### Section 1: HERO HEADER + HOOK BODY ("milliseconds too late")
-- ROLE slot: HERO HEADER + Hook body (counter-intuitive insight)
-- INTENT: "What if I told you your child IS getting the signal, just milliseconds too late?"
-- COMPONENT PICKED: HERO-7
-  - Catalog entry: position=hero, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: HERO-7 (Counter-Intuitive Truth) — UNIQUE E7 hero. Counter-intuitive fits the "milliseconds too late" insight.
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 2: VALIDATION BODY ① Symptom recognition (Nicholson 2019: delayed accuracy, not absent)
-- ROLE slot: VALIDATION ① (delayed signal, not absent)
-- INTENT: "The signal arrives with DELAYED ACCURACY" — counter-intuitive reframe
-- COMPONENT PICKED: STORYDEEP-03
-  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
-  - Current usage: 0/8 (after this pick)
-  - WHY: STORYDEEP-03 deep reframe component for the counter-intuitive validation
-- IMAGE PICKED: none (text-only section)
-  - WHY: Section is text-only by L2 design
-
-### Section 3: DEEP MECHANISM ② (interoception + 59% urination signal failure + signal-strength analogy)
-- ROLE slot: DEEP MECHANISM ②
-- INTENT: "59% of autistic children cannot reliably signal when they need to urinate" + signal-strength phone-call analogy
-- COMPONENT PICKED: EDU-11
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 6/8 (after this pick)
-  - WHY: EDU-11 at 8-cap — reached cap, blocked from E8 (use EDU-4 there instead)
-- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
-  - Alt text: Toddler in dinosaur-yellow training pants, sensory-aware living room moment
-  - Current usage: 2/25 (after this pick)
-  - WHY: Sensory-aware living room = signal-strength metaphor anchor (the brain has its "ears" trained)
-
-### Section 4: MINT-BORDERED LOOP EXPLAINER BOX (prompt → compliance → voiding → no generalization → prompt)
-- ROLE slot: MINT-BORDERED LOOP EXPLAINER BOX
-- INTENT: THE PROMPT-DEPENDENCY LOOP, NAMED. The break: wetness-sensing layer.
-- COMPONENT PICKED: EDU-2
-  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
-  - Current usage: 4/8 (after this pick)
-  - WHY: EDU-2 mechanism step-cards for the loop-explanation (5-step "loop" format)
-- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
-  - Alt text: Toddler napping in watermelon-pink shorts, quiet restorative moment near loop diagram
-  - Current usage: 3/25 (after this pick)
-  - WHY: Quiet restorative moment softens the dense loop visual; gives the eye a rest
-
-### Section 5: BCBA/OT ③ ("Your BCBA built the foundation. This adds the sensory layer that was missing")
-- ROLE slot: BCBA/OT ACKNOWLEDGMENT ③
-- INTENT: L2 unlock sentence full + "protocol can't address"
-- COMPONENT PICKED: SP-01
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 5/8 (after this pick)
-  - WHY: SP-01 positioned for the BCBA/OT section — testimonial-like structure for BCBA voice
-- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
-  - Alt text: Toddler playing with wooden train in moon-cloud-blue training pants, focused play visual
-  - Current usage: 4/25 (after this pick)
-  - WHY: Focused-play visual = the BCBA-coexisting moment (compliance + body-signal layer)
-
-### Section 6: REALISTIC TIMELINES ④ (2–4 wks first sign / 8–12 wks full + 49% stat "6:1 gap")
-- ROLE slot: REALISTIC TIMELINES ④
-- INTENT: "4–8 wks for first consistent signals" + "60-day covers the full window"
-- COMPONENT PICKED: SP-02
-  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
-  - Current usage: 2/8 (after this pick)
-  - WHY: SP-02 quote-callout for the mini-win testimonial stack (3 quotes with timeline progression)
-- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
-  - Alt text: Bunny hearts pink training pant flat-lay product photo
-  - Current usage: 1/25 (after this pick)
-  - WHY: Bunny-hearts pink product visual signals the product used in mini-win progression
-
-### Section 7: PRODUCT INTRO — 3+3 Bundle table + GUARANTEE ⑤ + CTA ⑥ (most permission-leaning in sequence)
-- ROLE slot: PRODUCT INTRO + GUARANTEE + CTA
-- INTENT: 3+3 Bundle (6 pairs, $79.99 free ship, $13.33/pair, BCBA-compatible) + 60-day "no fine print, no condition" + "When you're ready, the 3+3 Bundle is here"
-- COMPONENT PICKED: 6.1
-  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
-  - Current usage: 3/8 (after this pick)
-  - WHY: 6.1 product_showcase (reuse allowed). Bundle-table fits showcase.
-- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
-  - Alt text: Watermelon pink training pant flat-lay product photo
-  - Current usage: 1/25 (after this pick)
-  - WHY: Watermelon-pink product photo for the 3+3 Bundle table row visual
-
 ### Section 8: SIGN-OFF — signoff-lena-long (FULL LONG, last in sequence)
 - ROLE slot: SIGN-OFF LONG (FULL)
 - INTENT: "Whatever comes next for you and your child, I'm here." + "With care, Lena"
@@ -869,6 +813,8 @@ SYSTEM B (automatic):
   - WHY: 12.2 Lena LONG signoff (full variant)
 - IMAGE PICKED: none (text-only section)
   - WHY: Section is text-only by L2 design
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.2 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images in this email: 5/6

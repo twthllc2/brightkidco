@@ -768,6 +768,8 @@ END OF WIREFRAME — pped-11-d21
   - Alt text: "Child near a colorful pink potty ladder in a calm home setting, soft natural light."
   - Current usage: 3/25
   - WHY: Reflective "three-week moment" — child near a familiar potty context (the goal product is connecting to), calm pose, soft natural light. Hands visible. Under cap. Adds visual variety (potty-ladder context).
+  - **WRAP: image-inside-component**
+  - WHY: HERO-13 is an image-driven component and the picked image IS the component.
 
 ### Section 2: RECOGNITION ANCHORS (R2 — 6 SCENARIOS)
 - ROLE slot: `recognition-anchor-list-three-week` (6 dash-separated lines)
@@ -776,6 +778,9 @@ END OF WIREFRAME — pped-11-d21
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Break Permission" — the closing "even the 'nothing' version" IS giving permission to be at zero progress. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 3: VALIDATION — IF NOTHING IN WEEK 3
 - ROLE slot: `callout-validation-neurology` (cream card, dark italic)
@@ -784,6 +789,9 @@ END OF WIREFRAME — pped-11-d21
   - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Did You Know" — visual concept for "Some kids process the sensation in 2 weeks. Some need 8. Both are normal." It's a known-fact callout. Universal audience. Fresh pick. (Different from d0 EDU-2, d7 EDU-8, d14 EDU-13.)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-7 requires an image to render; missing image is a BUG.
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
 - ROLE slot: `testimonial-card-stack-graduated-week3` (3 stacked cream cards, mint separator)
@@ -792,6 +800,9 @@ END OF WIREFRAME — pped-11-d21
   - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Counter-Testimonial" — visual concept of testimonials that counter the "not working" assumption (each family's outcome counters expected failure). Universal audience. Fresh pick. (Different from d0 SP-06, d7 SP-08, d14 SP-13.)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Testimonial/letter block has no parent photo attached; text-only.
 
 ### Section 5: MECHANISM REMINDER (R5 — TIMELINE FLEXIBILITY)
 - ROLE slot: `mechanism-reminder-card-brief` (cream card, italic body)
@@ -800,6 +811,9 @@ END OF WIREFRAME — pped-11-d21
   - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "How It Works" — visual concept for the brief mechanism reminder. Universal audience. Fresh pick.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: EDU-10 requires an image to render; missing image is a BUG.
 
 ### Section 6 + 7 (consolidated): LOW-BAR WINS (R6) + EXIT OPTIONS TRIAGE
 - ROLE slot: `mini-win-checklist-11-expanded` (11 dash-separated lines, mint background) + `exit-options-triage-block` (3 stacked cream cards, mint separator)
@@ -808,10 +822,15 @@ END OF WIREFRAME — pped-11-d21
   - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 1/8 (just incremented by d14)
   - WHY: "Mini-Win Streak" — the 11 wins ARE the streak. Used in d14 already (at 1/8 after d14 increment), but allowed for re-use — product_showcase and image_showcase exception noted in plan, but for body_recognition components the variance goal is "minimize reuse." With 3 PP-Education emails done, picking a 2nd-use here maintains flow consistency without violating the 8-cap.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: 10 (Mini-Win Streak (Progress Tracker) *(L260)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 - COMPONENT PICKED: **EMO-12 — Hope Gradient**
   - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 0/8
   - WHY: "Hope Gradient" — the 3 triage paths (seeing signs → keep going, not seeing → within range, unsure → resources available) IS a hope gradient from low (nothing yet) to high (signs present). Universal audience. Fresh pick.
+  - **WRAP: component-text-only**
+  - WHY: Content block is text-only by design.
 
 ### Section 8 + SIGNOFF: NEXT-TIME LINE + LENA SIGN-OFF (MEDIUM-LONG)
 - ROLE slot: `next-time-tease-pp-mid` (small italic line) + `signoff-lena-medium-long-with-ps` (MEDIUM-LONG Lena sign-off with personal P.S.)
@@ -820,6 +839,9 @@ END OF WIREFRAME — pped-11-d21
   - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], retired=false
   - Current usage: 4/8 (before this pick)
   - WHY: Lena MEDIUM-LONG sign-off — used across all 4 PP-Education emails (d0, d14, d21) as consistent brand voice anchor. Universal audience. At 4/8, well below cap.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: 12.1 is the Lena sign-off/footer block that ships from locked footer.html.
 
 ### Image count check
 - Total images so far: 1 (hero)

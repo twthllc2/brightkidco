@@ -796,13 +796,21 @@ END OF WIREFRAME — ofd-07-e1
 | Role | Component ID | Reason |
 |---|---|---|
 | STATUS-BAR-OFD | **UTIL-08** | Neutral bar '✓ OUT FOR DELIVERY' — anticipation moment |
+  |  | **WRAP: image-standalone (placed between sections)** | UTIL-08 (Nav Bar *(L7682)*) is text-only per catalog; any image is decorative and sits between sections. |
 | PKG-CARDBOARD-ICON | **CMP-6** | Minimal cardboard icon — anticipation visual |
+  |  | **WRAP: image-required-component** | CMP-6 (Tried vs Works *(L6217)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | CTA-PILL-TRACK-DELIVERY | **CTA-9** | Brand-green pill 'Track my delivery' |
+  |  | **WRAP: component-text-only** | Text-link CTA renders cleanly without imagery. |
 | 3-STEP-CARD-STACK | **PSYCH-02** | Vertical 3-step 'when arrives' sequence |
+  |  | **WRAP: image-required-component** | PSYCH-02 (Loss Aversion *(L8472)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | PROSE-R6-ANCHORS | **STORY-13** | Recognition anchors R6 — low-bar success prose |
+  |  | **WRAP: image-required-component** | STORY-13 (Parallel Paths — Two families side by side *(L4683) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | MECHANISM-CALLOUT-MINT | **EDU-3** | Mint highlight box — pull-up reframe mechanism |
+  |  | **WRAP: image-required-component** | EDU-3 requires an image to render; missing image is a BUG. |
 | GUARANTEE-BAND | **CMP-7** | Cream band — risk reversal guarantee |
+  |  | **WRAP: image-required-component** | CMP-7 (Scorecard Showdown *(L6246)*) is image-driven per catalog (image_support=image_text); missing image is a BUG. |
 | LENA-SIGNOFF-SHORT + FOOTER | **12.1** | Lena sig + BKC footer |
+  |  | **WRAP: component-text-only (locked-signoff, not counted in body cap)** | 12.1 is the Lena sign-off/footer block that ships from locked footer.html. |
 
 ### Images (1/6)
 

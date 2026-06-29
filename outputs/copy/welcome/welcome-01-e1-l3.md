@@ -518,6 +518,7 @@ EXAMPLE_PICK: muted warm circle, organic, no glow,
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-required-component (BUG — HERO-9 requires an image to render but STAGE 2 picked none; flag for revisit)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -540,6 +541,7 @@ EXAMPLE_PICK: text-only block; no callout box; no
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-standalone (Additional image Section 2 prose-block, toddlers backview diaper image decorative between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -562,6 +564,7 @@ EXAMPLE_PICK: italic text-only pull-quote with extra
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-standalone (Additional image Section 3 pull-quote, towel set accessory image decorative between sections)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -587,6 +590,7 @@ EXAMPLE_PICK: text-only mechanism paragraph with subtle
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: component-text-only (mechanism text-block, no STAGE 2 pick — text-only by L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -614,6 +618,7 @@ EXAMPLE_PICK: vertically stacked, no chart, no progress bar,
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: component-text-only (SP-03 Stat Row, text-only per catalog, additional image decorative)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -638,6 +643,7 @@ EXAMPLE_PICK: thin horizontal lines in muted sage with
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (PROD-3 Layer Breakdown, picked image IS the component — woodland training pant)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -661,6 +667,7 @@ EXAMPLE_PICK: warm cream tint paragraph block, centered
 
 56px space above, 56px space below
 NO CTA in this section
+WRAP: image-inside-component (TRUST-2 Guarantee Detail Cards, picked image IS the component — washing machine)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -688,6 +695,7 @@ NOTE:      WELCOME10 code appears here in E1 only (per L3
            text, NOT as a highlighted badge
 
 56px space above, 56px space below
+WRAP: component-text-only (CTA-2 Soft Link text-link, text-only per L3 design)
 
 ─────────────────────────────────────────────────────────────────
 
@@ -800,74 +808,18 @@ END OF WIREFRAME — welcome-01-e1-l3
 
 **Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Section 1 — Hero
-- ROLE slot: `signal-dot-anchor`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
-- COMPONENT PICKED: `HERO-9`
-  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Whisper Tone — quiet opening hook for 'quiet dawn' L3 tone; text_only, warm temperature
-- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Section 5 — Social proof stats
-- ROLE slot: `stat-stack-vertical`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
-- COMPONENT PICKED: `SP-03`
-  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Stat Row — vertically stacked stats (49%, 3.3 years, 59%/71%) as normalization, no chart
-- IMAGE PICKED: none (text-only — see other sections for imagery)
-
-### Section 6 — Product 3-layer abstraction
-- ROLE slot: `three-layer-diagram-abstract`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
-- COMPONENT PICKED: `PROD-3`
-  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 4/8 (in component-usage.json)
-  - WHY: Layer Breakdown — abstract 3-layer rendering; product deferred, mechanism is the hero
-- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
-  - Alt text: white w/ muted woodland motif for 3-layer abstraction
-  - Current usage: 5/25 (in image-usage.json)
-  - WHY: white w/ muted woodland motif for 3-layer abstraction
-
-### Section 7 — Guarantee honest container
-- ROLE slot: `guarantee-paragraph-soft-bg`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
-- COMPONENT PICKED: `TRUST-2`
-  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 3/8 (in component-usage.json)
-  - WHY: Guarantee Detail Cards — 60-day detail cards on warm cream, no forms, no return shipping
-- IMAGE PICKED: `lifestyle/washing-machine-training-pants.png`
-  - Alt text: reflective/dignity — washing machine w/ cream wash cycle - practical 'alongside' dignity
-  - Current usage: 3/25 (in image-usage.json)
-  - WHY: washing machine w/ cream wash cycle - practical 'alongside' dignity
-
-### Section 8 — CTA text-link
-- ROLE slot: `cta-text-link-with-microcopy`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
-- COMPONENT PICKED: `CTA-2`
-  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Soft Link — text link only, NOT a button (L3 forbids filled buttons); 'Explore the Body-Signal Learning Layer →'
-- IMAGE PICKED: none (text-only — see other sections for imagery)
 
 ### Signoff — Lena short E1
-- ROLE slot: `signoff-lena-short`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
-- COMPONENT PICKED: `EMODEEP-18`
+|- ROLE slot: `signoff-lena-short`
+|- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+|- COMPONENT PICKED: `EMODEEP-18`
   - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 4/8 (in component-usage.json)
   - WHY: The Letter From Lena — peer-voice letter format for E1; 'Talk soon,' SHORT variant
-- IMAGE PICKED: none (text-only — see other sections for imagery)
-
-### Shell header
-- ROLE slot: `shell_header_warm`
-- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
-- COMPONENT PICKED: `2.2`
-  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
-  - Current usage: 1/8 (in component-usage.json)
-  - WHY: Warm Hero — warm cream shell header, NOT 2.3 teal-banned, NOT 18.1 hi-fi gradient
-- IMAGE PICKED: none (text-only — see other sections for imagery)
+|- IMAGE PICKED: none (text-only — see other sections for imagery)
+  - **WRAP: component-text-only (locked-signoff, not counted in body cap)**
+  - WHY: EMODEEP-18 is the Lena sign-off/footer block that ships from locked footer.html.
 
 
 ### Additional images (placed in remaining sections)

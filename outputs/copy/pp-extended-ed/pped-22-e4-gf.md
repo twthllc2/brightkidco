@@ -1163,6 +1163,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e4-gf, level=gf, theme=4. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: CAMIMG-11 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — "WHETHER YOUR CHILD HAS BEEN WEARING..."
 - ROLE slot: prose-block-with-prompt-dependency-mirror-universal
@@ -1175,6 +1178,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 4 section 1 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-07 (The Season Metaphor *(L10011)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: VALIDATION — "PROMPTING BUILDS COMPLIANCE, NOT BOD
 - ROLE slot: validation-paragraph-stack-with-compliance-vs-
@@ -1187,6 +1192,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 4 section 2 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-08 (The Recipe Card *(L10036)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: MECHANISM — "THE UNDERWEAR IS DOING SOMETHING YOUR
 - ROLE slot: mechanism-paragraph-stack-with-nicholson-2019-universal-cite
@@ -1199,6 +1206,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 4 section 3 visual — calibrated per level (gf)
   - Current usage: 11/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: ED3 (Interoception Explainer *(L3353)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 4: PRACTICAL GUIDANCE — 5 SIGNS TO WATCH FOR
 - ROLE slot: signs-to-watch-for-stacked-list-vertical-5-items
@@ -1211,6 +1220,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 4 section 4 visual — calibrated per level (gf)
   - Current usage: 21/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-09 (The Map Journey *(L10064)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 5: WHEN TO EASE BACK ON PROMPTING — 4 STEPS
 - ROLE slot: 4-step-timeline-stacked-vertical-1-to-4-numbers
@@ -1223,6 +1234,8 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Alt text: GF 4 section 5 visual — calibrated per level (gf)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORYDEEP-10 (The Playlist *(L10094)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: TESTIMONIAL — PEER PARENT INITIATION STORY
 - ROLE slot: testimonial-paragraph-stack-with-large-quote-glyph
@@ -1231,6 +1244,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: SP5 (Counter Testimonial *(L3277)*) is image-driven per catalog (image_support=image_text); missing image is a BUG.
 
 ### Section 7: CTA — GF SOFT INCLUSIVE
 - ROLE slot: cta-stack-with-warm-coral-button-and-soft-teal-
@@ -1239,6 +1255,9 @@ GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-gr
   - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Image count check
 - Total images in this email: 5/6

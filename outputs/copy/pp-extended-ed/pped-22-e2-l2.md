@@ -776,6 +776,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
   - WHY: Unique hero for pped-22-e2-l2, level=l2, theme=2. Calibrated per level.
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: image-required-component**
+  - WHY: PDISP-1 requires an image to render; missing image is a BUG.
 
 ### Section 1: HOOK — "IS THIS ACTUALLY WORKING?" VALIDATION
 - ROLE slot: prose-block-with-self-doubt-validation
@@ -788,6 +791,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 1 visual — calibrated per level (l2)
   - Current usage: 10/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-04 (Deep Quote — Pull-quote feature story *(L4388)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 2: MECHANISM DEEP DIVE — NICHOLSON 2019 (ELEMENT ②)
 - ROLE slot: mechanism-deep-dive-with-nicholson-experiment-breakdown
@@ -800,6 +805,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 2 visual — calibrated per level (l2)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: EDUDEEP-4 (The Interoception Test *(L10745)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 3: WHAT THIS MEANS — 4 TAKEAWAYS (ELEMENT ④ TIMELINE)
 - ROLE slot: takeaway-list-stacked-vertical-with-4-takeaways
@@ -812,6 +819,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 3 visual — calibrated per level (l2)
   - Current usage: 2/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: STORY-15 (Story Carousel — Horizontal scrollable cards *(L47) is image-driven per catalog (image_support=image_only); picked image IS the component.
 
 ### Section 4: BCBA INTEGRATION — THE L2-SPECIFIC DELIVERABLE
 - ROLE slot: bcba-integration-paragraph-stack-with-data-sharing-protocol
@@ -824,6 +833,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 4 visual — calibrated per level (l2)
   - Current usage: 12/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-standalone (placed between sections)**
+  - WHY: UTIL-02 (Divider Bar *(L7509)*) is text-only per catalog; any image is decorative and sits between sections.
 
 ### Section 5: NORMALIZATION + TIMELINE (WHERE YOUR CHILD IS RIGH
 - ROLE slot: normalization-paragraph-stack-with-week-4-5-validation
@@ -836,6 +847,8 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Alt text: L2 2 section 5 visual — calibrated per level (l2)
   - Current usage: 2/25
   - WHY: Matches section intent and level calibration
+  - **WRAP: image-inside-component**
+  - WHY: UTIL-03 (Out-Line *(L7543)*) is image-driven per catalog (image_support=image_text); picked image IS the component.
 
 ### Section 6: 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT
 - ROLE slot: guarantee-permission-stacked-paragraphs
@@ -844,6 +857,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: Text-link CTA renders cleanly without imagery.
 
 ### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) + BCBA FACT SHEET P
 - ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + BCBA FACT SHEET P.S.
@@ -852,6 +868,9 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 2/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: (no image picked — text-only section)
+  - **WRAP: component-text-only**
+  - WHY: 33.1 (Smiley Face SVG *(L2764)*) is text-only per catalog.
 
 ### Image count check
 - Total images in this email: 5/6
