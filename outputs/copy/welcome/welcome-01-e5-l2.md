@@ -666,135 +666,103 @@ SYSTEM B (automatic):
 - ✅ Permission-not-to-buy: "Read this twice if you need to" + read-only CTA + MEDIUM→LONG sign-off transition
 
 ======================================================================
-## STAGE 2 PICKS — welcome-01-e5-l2
 
-**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+## STAGE 2 PICKS — e5-l2
 
-**L2 calibration applied:**
-- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
-- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
-- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
-  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
-- 40/60 hope/realism ratio; clinical warmth, not peer-mom
-- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
-- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
-- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
-- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+*L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
+### Section 1: HERO HEADER + HOOK BODY (40+ named methods, dense method list)
+- ROLE slot: HERO HEADER + Hook body (40+ named methods, dense)
+- INTENT: "BCBA protocols, OT sensory work, social stories, sticker charts, timer sits, potty watches, the 3-day naked method, Oh Crap…"
+- COMPONENT PICKED: HERO-5
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: HERO-5 (Mirror Moment) — UNIQUE E5 hero. Mirror fits the dense-method-list opener.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: Toddlers back view in disposable diapers — research context photo
+  - Current usage: 0/25 (after this pick)
+  - WHY: Research-context back-view photo for the data-led email; signals "paper" not "promo"
 
-### Section 1: hook-dense
-- **ROLE slot:** hook-dense
-- **INTENT (from wireframe):** HERO-1 Curiosity Gap — dense method list opener
-- **COMPONENT PICKED:** HERO-1
-  - Name: Curiosity Gap *(L3811)*
-  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Hook: HERO-1 Curiosity Gap — dense method list opener
-- **VARIANCE CHECK:** N/A (first section)
+### Section 2: OBJECTION NAMING BODY ("$50,000 in therapy…")
+- ROLE slot: OBJECTION NAMING BODY
+- INTENT: "$50,000 in therapy. Nothing worked." — naming the trauma.
+- COMPONENT PICKED: LETTER-03
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: LETTER-03 letter-section for naming real objection with empathy; L2 expects peer tone
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: Toddler outdoors on grass in disposable diaper, context photo
+  - Current usage: 0/25 (after this pick)
+  - WHY: Outdoors context: "tried everything outdoors too" — broadens the trauma naming
 
-### Section 2: objection
-- **ROLE slot:** objection
-- **INTENT (from wireframe):** OBJ-06 Objection Naming (reused from L1)
-- **COMPONENT PICKED:** 17.6  - Name: Not For Us Validation *(L17352)*
-  - From catalog: position=`body_mechanism`, audience=['L2'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Objection: OBJ-06 Objection Naming (reused from L1)
-- **VARIANCE CHECK:** differs from previous section (HERO-1) — OK
+### Section 3: REFRAME BODY (40+ methods assumed the signal CAN be felt)
+- ROLE slot: REFRAME BODY (wrong-battle frame)
+- INTENT: Nicholson et al. 2019 — diminished body awareness proven
+- COMPONENT PICKED: EDU-2
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 2/8 (after this pick)
+  - WHY: EDU-2 mechanism step-cards. Same component, different INTENT (loop not present here)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: Toddler rearview in cat-mustard training pants, paper-style context visual
+  - Current usage: 0/25 (after this pick)
+  - WHY: Rearview/paper-style frame = citation density visual signature
 
-### Section 3: reframe
-- **ROLE slot:** reframe
-- **INTENT (from wireframe):** EDU-4 Myth vs Fact — wrong-battle as myth/fact
-- **COMPONENT PICKED:** EDU-4
-  - Name: Myth vs Fact *(L5292)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Reframe: EDU-4 Myth vs Fact — wrong-battle as myth/fact
-- **VARIANCE CHECK:** differs from previous section (OBJ-06) — OK
+### Section 4: MECHANISM BODY (3-layer in prose) + 4 MINT-BORDERED CITATION CALLOUTS
+- ROLE slot: MECHANISM BODY + 4 MINT CITATION CALLOUTS (Mahler, Wiggins, Iqbal, Hample)
+- INTENT: Mahler 2016, Wiggins 2022 SPARK 49%, Iqbal 2022 19%, Hample 2020 8-week intervention
+- COMPONENT PICKED: EDU-11
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 4/8 (after this pick)
+  - WHY: EDU-11 citation components (4x visual emphasis). Cap at 8 still under.
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: Washing machine with training pants — real-life study context visual
+  - Current usage: 0/25 (after this pick)
+  - WHY: Washing-machine visual = daily-life research context (washable underwear = real intervention)
 
-### Section 4: mechanism
-- **ROLE slot:** mechanism
-- **INTENT (from wireframe):** EDU-10 How It Works (reused from E2)
-- **COMPONENT PICKED:** EDU-10
-  - Name: How It Works *(L5487)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Mechanism: EDU-10 How It Works (reused from E2)
-- **VARIANCE CHECK:** differs from previous section (EDU-4) — OK
+### Section 5: SOCIAL PROOF — 3 small cream-card quote-callouts
+- ROLE slot: SOCIAL PROOF — 3 cream-card callout-quote-highlights
+- INTENT: "45 min on toilet then pee on standing up" + "After 2 wks in BKC, he paused. Then looked down" + "If I could just get him the signal"
+- COMPONENT PICKED: SP-01
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 3/8 (after this pick)
+  - WHY: SP-01 cream-card quote-callouts (3 stacked)
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 5: quote-1
-- **ROLE slot:** quote-1
-- **INTENT (from wireframe):** SP-01 Yellow Quote Block — Mahler quote (variance)
-- **COMPONENT PICKED:** SP-01
-  - Name: Yellow Quote Block *(L4780)*
-  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Quote 1: SP-01 Yellow Quote Block — Mahler quote (variance)
-- **VARIANCE CHECK:** differs from previous section (EDU-10) — OK
+### Section 6: GUARANTEE — trust-anchor-callout (mint callout)
+- ROLE slot: GUARANTEE trust-anchor-callout
+- INTENT: 60 days. By your judgment. Pause/look/step = signal connecting
+- COMPONENT PICKED: TRUST-1
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: TRUST-1 trust-anchor frame — already used E3, but position is reused (allowed showcase exception)
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 6: quote-2
-- **ROLE slot:** quote-2
-- **INTENT (from wireframe):** EMO-6 (reused)
-- **COMPONENT PICKED:** EMO-6
-  - Name: Parent Quote *(L6962)*
-  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 3/8 (under cap)
-  - **WHY:** Quote 2: EMO-6 (reused)
-- **VARIANCE CHECK:** differs from previous section (SP-01) — OK
+### Section 7: READ-ONLY CTA (text-link only: study/bookmark) + PERMISSION 1 sentence
+- ROLE slot: READ-ONLY CTA (text-link only) + Permission
+- INTENT: "Read the original study (Mahler 2016)" / "Read Wiggins SPARK" / "Bookmark this email" — NO button
+- COMPONENT PICKED: EDU-4
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: EDU-4 step-cards reused for citation CTA layout. Stays below 8-cap.
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 7: quote-3
-- **ROLE slot:** quote-3
-- **INTENT (from wireframe):** SP-07 Counter-Testimonial (reused)
-- **COMPONENT PICKED:** SP-07
-  - Name: Counter-Testimonial *(L4940)*
-  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Quote 3: SP-07 Counter-Testimonial (reused)
-- **VARIANCE CHECK:** differs from previous section (EMO-6) — OK
+### Section 8: SIGN-OFF — signoff-lena-medium-long (transitional)
+- ROLE slot: SIGN-OFF MEDIUM-LONG (transitional to LONG)
+- INTENT: "60 days. By your judgment. No pressure. No timeline. Just the signal." + P.S. "I read every response."
+- COMPONENT PICKED: 12.2
+  - Catalog entry: position=signoff_footer, audience=L1/L2/L3/GF
+  - Current usage: 2/8 (after this pick)
+  - WHY: 12.2 Lena MEDIUM-LONG signoff — and P.S. reply anchor
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 8: guarantee
-- **ROLE slot:** guarantee
-- **INTENT (from wireframe):** TRUST-1 (reused)
-- **COMPONENT PICKED:** TRUST-1
-  - Name: 60-Day Seal *(L6385)*
-  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
-  - Currently used: 3/8 (under cap)
-  - **WHY:** Guarantee: TRUST-1 (reused)
-- **VARIANCE CHECK:** differs from previous section (SP-07) — OK
+### Image count check
+- Total images in this email: 4/6
+- Status: ✅ PASS
 
-### Section 9: cta-text-link
-- **ROLE slot:** cta-text-link
-- **INTENT (from wireframe):** CTAMAX-03 Text Link CTA — text-link-only per E5 design
-- **COMPONENT PICKED:** CTADEEP-04
-  - Name: Text Link CTA *(L16734)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
-  - Currently used: 5/8 (under cap)
-  - **WHY:** CTA: CTAMAX-03 Text Link CTA — text-link-only per E5 design
-- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
-
-### Section 10: permission
-- **ROLE slot:** permission
-- **INTENT (from wireframe):** EMO-1 (reused)
-- **COMPONENT PICKED:** EMO-1
-  - Name: Permission Slip *(L6867)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Permission: EMO-1 (reused)
-- **VARIANCE CHECK:** differs from previous section (CTAMAX-03) — OK
-
-### Section 11: signoff
-- **ROLE slot:** signoff
-- **INTENT (from wireframe):** UTIL-05 (reused) — medium-long transitional
-- **COMPONENT PICKED:** UTIL-03  - Name: Signoff Card
-  - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Signoff: UTIL-05 (reused) — medium-long transitional
-- **VARIANCE CHECK:** differs from previous section (EMO-1) — OK
-
-### Footer (static — already picked, no work needed)
-- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
-- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `UTIL-03` picks above per email's variant
-
-### Tracker updates applied
-- `component-usage.json`: incremented counts for `HERO-1`, `OBJ-06`, `EDU-4`, `EDU-10`, `SP-01`, `EMO-6`, `SP-07`, `TRUST-1`, `CTAMAX-03`, `EMO-1`, `UTIL-05`
-
+### Tracker updates
+- component-usage.json: ['HERO-5', 'LETTER-03', 'EDU-2', 'EDU-11', 'SP-01', 'TRUST-1', 'EDU-4', '12.2']
+- image-usage.json: ['lifestyle/toddlers-backview-disposable-diapers.png', 'lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'lifestyle/toddler-rearview-cat-mustard.png', 'lifestyle/washing-machine-training-pants.png']

@@ -1043,157 +1043,97 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 ## STAGE 2 PICKS — winback-b-24-e2-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** winback-b | **Position:** E8 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e2-l2
+- COMPONENT PICKED: CSHOP-17 (Restock Urgency *(L25505)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e2-l2, level=l2, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — 60 Days Later, Same Problem?
-
-- ROLE slot: `hook-60-days-later-same-problem`
-
-- INTENT: hook block — HOOK — 60 Days Later, Same Problem?
-
-- COMPONENT PICKED: **4** — The Pull-Up Villain Card
-
-  - Currently used: 30/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: 17.3 (Parent Quote Card (Yellow Tilted) *(L1634)*)
+  - Catalog entry: position=emotional_support, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: L2 2 section 1 visual — calibrated per level (l2)
+  - Current usage: 20/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: NEW SCIENCE — Interoception Can Be Trained
-
-- ROLE slot: `new-science-interoception-can-be-trained`
-
-- INTENT: mechanism block — NEW SCIENCE — Interoception Can Be Trained
-
-- COMPONENT PICKED: **STORYDEEP-19** — The Time Lapse
-
-  - Currently used: 46/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 3: REALISTIC TIMELINE — What This Means for Your
-             Child (L2 ④)
-
-- ROLE slot: `realistic-timeline-what-this-means-for-your-child-l2`
-
-- INTENT: default block — REALISTIC TIMELINE — What This Means for Your
-             Child (L2 ④)
-
-- COMPONENT PICKED: **EMODEEP-03** — The Permission Letter (uses Letter)
-
-  - Currently used: 47/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: mechanism-mint-callout-with-four-citations-emphasis
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: BONUS-09 (Sticky Note *(L9070)*)
+  - Catalog entry: position=body_mechanism, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: L2 2 section 2 visual — calibrated per level (l2)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: BCBA COMPLEMENT — All Three Together (L2 ③)
-
-- ROLE slot: `bcba-complement-all-three-together-l2`
-
-- INTENT: default block — BCBA COMPLEMENT — All Three Together (L2 ③)
-
-- COMPONENT PICKED: **HERO-6** — Identity Statement
-
-  - Currently used: 47/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: validation-prose-warm-cream-bcba-complement
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: EJ2 (You're Not Alone *(L3428)*)
+  - Catalog entry: position=emotional_support, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: L2 2 section 4 visual — calibrated per level (l2)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: UPDATED OFFER + GUARANTEE
-
-- ROLE slot: `updated-offer-guarantee`
-
-- INTENT: guarantee block — UPDATED OFFER + GUARANTEE
-
-- COMPONENT PICKED: **9.2** — Sticker Reasons
-
-  - Currently used: 47/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: two-tier-bundle-pricing-on-cream
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PRODEEP-5 (The Product Chemistry *(L10494)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: L2 2 section 5 visual — calibrated per level (l2)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: TESTIMONIAL — L2 Peer Mom Story
-
-- ROLE slot: `testimonial-l2-peer-mom-story`
-
-- INTENT: social_proof block — TESTIMONIAL — L2 Peer Mom Story
-
-- COMPONENT PICKED: **REV-02.4** — REV-02.4 — CTA Block (After-Social-Proof Conversion)
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: pull-quote-slate-blue-left-border-italic-serif-60day
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: VSOCIAL-1 (Customer Photo + Quote *(L19762)*)
+  - Catalog entry: position=body_images, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: L2 2 section 6 visual — calibrated per level (l2)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 7: PERMISSION-NOT-TO-BUY (L2 ⑥)
-
-- ROLE slot: `permission-not-to-buy-l2`
-
-- INTENT: cta block — PERMISSION-NOT-TO-BUY (L2 ⑥)
-
-- COMPONENT PICKED: **EMO-3** — Guilt Reduction
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: permission-prose-warm-cream-italic
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: DEEP-08 (The Permission Paradox *(L9331)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
 ### Section 8: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps-link
+- INTENT: per wireframe Section 8
+- COMPONENT PICKED: UTIL-04 (Footer (Giuliano source) *(L7571)*)
+  - Catalog entry: position=signoff_footer, audience=['L2']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-17', '17.3', 'BONUS-09', 'EJ2', 'PRODEEP-5', 'VSOCIAL-1', 'DEEP-08', 'UTIL-04']
+- image-usage.json: incremented ['lifestyle/toddler-napping-watermelon-pink-shorts.png', 'flat-lay/training-pant-penguin-multicolor.jpg', 'accessories/towel-set-llama-cactus.png', 'accessories/book-potty-training-guide.png', 'flat-lay/swim-diaper-whale-ocean-blue.jpg']
 
-- COMPONENT PICKED: **EMO-8** — Grief Acknowledgment
-
-  - Currently used: 48/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

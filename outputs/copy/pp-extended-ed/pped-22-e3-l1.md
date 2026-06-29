@@ -751,195 +751,97 @@ END OF WIREFRAME — pped-22-e3-l1
 
 ## STAGE 2 PICKS — pped-22-e3-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 10 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E8 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e3-l1
+- COMPONENT PICKED: CAMIMG-4 (Back in Stock *(L18996)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e3-l1, level=l1, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — WEEK-3 TIME MARKER + DOUBT VALIDATION
-
-- ROLE slot: `hook-week-3-time-marker-doubt-validation`
-
-- INTENT: hook block — HOOK — WEEK-3 TIME MARKER + DOUBT VALIDATION
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 9/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: prose-block-with-time-marker-and-doubt-validation
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: PERS-04 (Dynamic Progress *(L8221)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: L1 3 section 1 visual — calibrated per level (l1)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: SIGN #1 — THE PAUSE
-
-- ROLE slot: `sign-1-the-pause`
-
-- INTENT: support block — SIGN #1 — THE PAUSE
-
-- COMPONENT PICKED: **EMODEEP-08** — Soft Support
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 9/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: micro-sign-card-with-scenario-description
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: PERS-05 (Avatar Recognition *(L8253)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: L1 3 section 2 visual — calibrated per level (l1)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: SIGN #2 — THE HAND-TO-WAIST
-
-- ROLE slot: `sign-2-the-hand-to-waist`
-
-- INTENT: default block — SIGN #2 — THE HAND-TO-WAIST
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: micro-sign-card-with-scenario-description
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: DEEP-01 (The Unfinished Study *(L9134)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: L1 3 section 3 visual — calibrated per level (l1)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: SIGN #3 — THE LATE-ARRIVING ANNOUNCEMENT
-
-- ROLE slot: `sign-3-the-late-arriving-announcement`
-
-- INTENT: default block — SIGN #3 — THE LATE-ARRIVING ANNOUNCEMENT
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: **lifestyle/toddler-livingroom-dino-yellow.png**
-
-  - Currently used: 9/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: micro-sign-card-with-scenario-description-and-rescue
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: DEEP-02 (The Mom Confessional *(L9160)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: L1 3 section 4 visual — calibrated per level (l1)
+  - Current usage: 20/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: MECHANISM REINFORCEMENT + WEEK 5-7 NORMALIZATION
-
-- ROLE slot: `mechanism-reinforcement-week-5-7-normalization`
-
-- INTENT: mechanism block — MECHANISM REINFORCEMENT + WEEK 5-7 NORMALIZATION
-
-- COMPONENT PICKED: **DEEP-16** — Brain-Body Bridge
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: mechanism-paragraph-stack-with-l1-timeline-normalization
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: ED3 (Interoception Explainer *(L3353)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: L1 3 section 5 visual — calibrated per level (l1)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PRE-K ANCHOR REAPPEARS + CONSISTENCY CALL
-
-- ROLE slot: `pre-k-anchor-reappears-consistency-call`
-
-- INTENT: default block — PRE-K ANCHOR REAPPEARS + CONSISTENCY CALL
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pre-k-anchor-paragraph-with-consistency-call
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: DEEP-03 (The Pattern Break *(L9184)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
 ### Section 7: L1 PEER-MOM PULL QUOTE
+- ROLE slot: pull-quote-italic-parent-voice
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: TRUSTDEEP-11.1 (TRUSTDEEP-11.1 — Cost Comparison (Pull-Up vs BSL) )
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
-- ROLE slot: `l1-peer-mom-pull-quote`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: default block — L1 PEER-MOM PULL QUOTE
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-4', 'PERS-04', 'PERS-05', 'DEEP-01', 'DEEP-02', 'ED3', 'DEEP-03', 'TRUSTDEEP-11.1']
+- image-usage.json: incremented ['lifestyle/toddler-potty-ladder-yellow-woodland.png', 'lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'lifestyle/founders-holding-pants-yellow-watermelon.png', 'flat-lay/diaper-woodland-creature-yellow.jpg']
 
-- COMPONENT PICKED: **31.1** — Green Status Pill
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 8: CTA LINE (BEHAVIORAL, NOT TRANSACTIONAL)
-
-- ROLE slot: `cta-line-behavioral-not-transactional`
-
-- INTENT: cta block — CTA LINE (BEHAVIORAL, NOT TRANSACTIONAL)
-
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 9: SOFT UPSELL P.S. + GUARANTEE REASSURANCE
-
-- ROLE slot: `soft-upsell-p-s-guarantee-reassurance`
-
-- INTENT: guarantee block — SOFT UPSELL P.S. + GUARANTEE REASSURANCE
-
-- COMPONENT PICKED: **TRUST-2** — Risk Reversal Block
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 10: LENA SIGN-OFF (MEDIUM VARIANT)
-
-- ROLE slot: `lena-sign-off-medium-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT)
-
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 10

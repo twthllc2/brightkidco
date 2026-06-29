@@ -650,75 +650,88 @@ VARIANCE_CHECK:
 END OF WIREFRAME — welcome-01-e1-l1
 =================================================================
 ```
+
+
 ## STAGE 2 PICKS — welcome-01-e1-l1
 
-### Section 1: hero-image-lifestyle
-- ROLE slot: hero-image-lifestyle
-- INTENT: lifestyle photo of verbal 3-5 yr, hopeful posture, real home, Pre-K context
-- COMPONENT PICKED: HERO-5
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 1/8
-  - WHY: HERO-5 'Mirror Moment' is a text-first hero with warm gradient background that matches L1 cream-warm palette. Per journey-l1 MASTER, hero role is mirror; the text + subhead structure sets the empathy tone. Lifestyle photo carries the visual recognition separately.
-- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
-  - Alt text: Verbal 3-year-old at a yellow wooden potty ladder in a real home, hopeful posture, soft natural light.
-  - Current usage: 0/25
-  - WHY: Toddler at potty ladder, yellow woodland print — active forward motion, real home setting, hopeful posture. Matches INTENT: verbal 3-5 yr, hopeful, Pre-K-relevant imagery (potty context).
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'Talk soon,' — E1-E2 SHORT, Lena mom-of-two-sons intro
 
-### Section 2: callout-quote-highlight
-- ROLE slot: callout-quote-highlight
-- INTENT: parent quote that stops the scroll — timing-problems voice
-- COMPONENT PICKED: 4.5
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: Cream Callout (#FFFDF6 background) matches L1 Cream Card #FBF7EB spec exactly. Italic parent quote block with soft border. This is the FIRST callout — sets the style for subsequent callouts.
-- IMAGE PICKED: none (text-only component)
+### Section 1: HERO
+- ROLE slot: hero-image-lifestyle (or variant per wireframe)
+- INTENT: E1 hero is the 'curiosity gap' opener — kids' potty language is asynchronous with their body's signal; curiosity drives the L1 reader to keep scrolling.
+- COMPONENT PICKED: HERO-1 (Curiosity Gap)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/1 (UNIQUE to this email — zero hero reuse rule)
+  - WHY: Curiosity Gap matches this email's emotional arc and L1 calibration.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: A verbal 3-5 year old boy playing with a wooden train on the living room floor in soft natural light.
+  - Current usage: 1/25
+  - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
 
-### Section 3: callout-quote-highlight (variant)
-- ROLE slot: callout-quote-highlight (variant)
-- INTENT: second parent quote — inconsistent-performance L1 marker, absolution beat
-- COMPONENT PICKED: STORY-02  - Catalog entry: position varies, audience=[L1,...]
+### Section 2: callout-quote-highlight-hook
+- ROLE slot: callout-quote-highlight-hook
+- INTENT: highlights the parent quote that stops the scroll ('He says I need to pee AFTER it's already happened')
+- COMPONENT PICKED: 4.3 (Pull Quote)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: STORY-02 'Highlighted Passage' gives variance vs Section 2's Cream Callout. Italic pull-quote with strong typographic highlight; fits the absolution voice of E1's validation section without repeating the callout style.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Pull Quote (4.3) is the L1 cream-card vertical quote component.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in dinosaur-print outfit sitting in a sunlit living room, a candid Pre-K home moment.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 3: callout-quote-highlight-validation
+- ROLE slot: callout-quote-highlight-validation
+- INTENT: highlights the inconsistent-performance quote ('He has a perfect week, then a month of accidents')
+- COMPONENT PICKED: 4.5 (Cream Callout)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Cream Callout (4.5) is the L1 cream-card quote variant for the validation section.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: Two toddlers from behind in disposable diapers in a real living room, lived-in and unposed.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
 ### Section 4: stat-highlight-box
 - ROLE slot: stat-highlight-box
-- INTENT: >90% sensory-processing stat anchor (L1 yellow stat accent per L1 spec)
-- COMPONENT PICKED: M10
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: M10 'Stat Block' centers a big number with citation underneath. L1 calls for yellow stat accents (#F5C84B) and high stat prominence in the mechanism section — this stat block pattern renders the >90% number as a clear visual anchor.
-- IMAGE PICKED: none (text-only component)
+- INTENT: anchors the >90% sensory-processing stat that reframes mechanism
+- COMPONENT PICKED: M10 (Stat Block (Mobile))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Mobile stat block with L1 brand-yellow top border, mechanism-anchor visual.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: A sticker chart and potty-target accessory laid out on a neutral surface, evoking Sarah's failed methods.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
 ### Section 5: cta-button-full-width
 - ROLE slot: cta-button-full-width
-- INTENT: full-width Brand-Green CTA, soft permission, drives to PDP
-- COMPONENT PICKED: CTAMAX-01
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: CTAMAX-01 'Primary CTA' is the canonical full-width CTA with conversion messaging, audience L1. L1 spec: full-width, Brand-Green #039902, 48px+ height, soft permission framing. Matches.
-- IMAGE PICKED: none (text-only component)
+- INTENT: drives to PDP; secondary text link is science deep-dive
+- COMPONENT PICKED: CTA-4 (Gentle Invite)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Permission-toned CTA matches 'Let's explore what's really happening' framing.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Two founders holding a stack of yellow-and-watermelon potty training pants, candid and warm.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Signoff: signoff-lena-short
+### Section 6: signoff-lena-short
 - ROLE slot: signoff-lena-short
-- INTENT: Lena's SHORT sign-off for E1: 'Talk soon,'
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 12.1 'Lena Signoff' is the catalog's only Lena signoff component. Signoff audience L1. Includes avatar + name + role + handwritten 'Lena' signature — matches Lena SHORT variant requirements.
-- IMAGE PICKED: none (text-only component)
+- INTENT: Lena SHORT variant for E1-E2; reply-to-Lena deliverability signal
+- COMPONENT PICKED: 12.1 (Lena Signoff)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Mandatory Lena signoff for E1 per GIULIANO-DEMANDS §7.3, Lena as trusted L1 voice (mom of two sons).
+- IMAGE PICKED: none (text-only section)
+
+### Image count check
+- Total images in this email: 5/6 (target range 4-6).
+- Status: PASS
+- Total components: 6/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-5', '4.5', 'LETTER-10', 'M10', 'CTAMAX-01', '12.1']
-- image-usage.json: incremented ['lifestyle/toddler-potty-ladder-yellow-woodland.png']
+- component-usage.json: incremented [HERO-1] + 5 body components
+- image-usage.json: incremented hero, 4 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e1-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
-> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
-> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
-> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
-> due to the structural catalog limitation, not a per-email pick error.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
->

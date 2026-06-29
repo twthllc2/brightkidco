@@ -719,75 +719,100 @@ END OF WIREFRAME — welcome-01-e2-l1
 =================================================================
 ```
 
+
+
 ## STAGE 2 PICKS — welcome-01-e2-l1
 
-### Section 1: HOOK - callout-quote-highlight (failed methods)
-- ROLE slot: callout-quote-highlight (variant)
-- INTENT: lists failed methods Sarah recognizes (Oh Crap, sticker charts, timer sits)
-- COMPONENT PICKED: 9.2
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 9.2 'Sticker Reasons' is a recognition-callout pattern built for listing named items — perfect for naming failed methods without emotional bullet damage. Variance vs E1's cream callout.
-- IMAGE PICKED: none (text-only component)
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'Talk soon,' — E1-E2 SHORT
 
-### Section 2: VALIDATION - callout-quote-highlight (pull-quote)
-- ROLE slot: callout-quote-highlight (PULL-QUOTE variant)
-- INTENT: the validation anchor — "You didn't fail. The methods did."
-- COMPONENT PICKED: 4.4
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 4.4 'Insight / Mint Block' uses mint background #E8F5EC, matching L1 spec for mechanism callouts (Mint #DBFFCD). Pull-quote with eyebrow + insight structure.
-- IMAGE PICKED: none (text-only component)
+### Section 1: callout-quote-highlight-hook
+- ROLE slot: callout-quote-highlight-hook
+- INTENT: highlights the cluster of failed methods Sarah has tried (Oh Crap, sticker charts, naked weekend)
+- COMPONENT PICKED: 23.3 (Editorial Pull Quote (Thick Borders))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Editorial thick-borders variant for the E2 hook weight, signaling depth-of-method-cycling for D1.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: A toddler napping in soft watermelon-pink shorts on a couch, a calm lived-in moment.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 3: MECHANISM DEEP - mechanism-diagram-3-frame
+### Section 2: callout-quote-highlight-pull-quote
+- ROLE slot: callout-quote-highlight-pull-quote
+- INTENT: PULL-QUOTE variant — heaviest validation anchor of E2 ('You didn't fail. The methods did.')
+- COMPONENT PICKED: 25.3 (Yellow Quote Card (Green Shadow))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Yellow-card-with-green-shadow (25.3) makes E2's absolution quote the most visual pull-quote in the flow; L1 yellow stat-accent.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: A toddler in a mustard-yellow outfit with a cat pattern, photographed from the rear in a soft home setting.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 3: mechanism-diagram-3-frame
 - ROLE slot: mechanism-diagram-3-frame
-- INTENT: custom 3-frame body/brain signal-bridge illustration
-- COMPONENT PICKED: DEEP-16
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: DEEP-16 'The Brain-Body Bridge' is a mechanism diagram specifically for interoception signal timing — exact INTENT match. Audience L1.
-- IMAGE PICKED: none (text-only component)
+- INTENT: 3-frame interoception visual: signal-sent / signal-missed / signal-trained
+- COMPONENT PICKED: 19.2 (3-Frame Mechanism Diagram)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Custom 3-frame body-mechanism illustration matching E2's 'train the signal' diagram brief.
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: A woodland-creature print diaper in bright yellow, flat-lay on white — L1 brand-yellow mechanism anchor.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 4: SOCIAL PROOF - callout-quote-highlight (x3 stacked)
-- ROLE slot: callout-quote-highlight (x3 stacked, testimonial)
-- INTENT: three L1 parent quotes about timing/inconsistency
-- COMPONENT PICKED: STORY-14  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story
-  - Current usage: 6/8 (under cap; was LETTER-11 Margin Notes which is L2-only per audit)
-  - WHY: STORY-14 'Micro-Story' provides stacked pull-quote variant suitable for 3 stacked testimonials with attribution margins. Variance vs earlier callouts. Replaces L2-only LETTER-11 per Stage 2 audit for L1 use.
-- IMAGE PICKED: none (text-only component)
+### Section 4: callout-quote-highlight-testimonial-stack
+- ROLE slot: callout-quote-highlight-testimonial-stack
+- INTENT: three verbatim L1 parent quotes about timing problems stacked vertically
+- COMPONENT PICKED: M3 (Testimonial Card (Mobile))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Mobile-friendly stacked testimonial cards (M3), different family than the E1 cream-card quote block.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: A watermelon-pink toddler training pant laid flat on a neutral surface, brand-colored.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 5: PRODUCT INTRO - product-intro-callout (3-layer breakdown)
-- ROLE slot: product-intro-callout (3-layer breakdown box)
-- INTENT: presents 3-layer product system as labeled callout
-- COMPONENT PICKED: PROD-3
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: PROD-3 'Layer Breakdown' is the catalog's exact 3-layer product breakdown component. Audience L1, messaging=product. Direct match.
-- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
-  - Alt text: Three pairs of training underwear laid flat, white with fox-woodland print, showing the 3-layer product system.
-  - Current usage: 0/25
-  - WHY: Training pant flat lay, fox woodland white — fits product introduction of the 3-layer system without being overly colorful; aligns with L1 warm/cream palette.
+### Section 5: product-intro-callout-3plus3
+- ROLE slot: product-intro-callout-3plus3
+- INTENT: presents the 3-layer product system + guarantee as ONE product-showcase callout (consolidated per 8-cap)
+- COMPONENT PICKED: PS-01 (Product Showcase — 3-Layer Box (with Guarantee))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Product-showcase-category (allowed reuse per Ayoub brief); consolidated 3-layer + guarantee into one component per the 8-cap rule.
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: A potty-training guide book laid on a soft surface, signaling the educational system.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Signoff: signoff-lena-short
+### Section 6: cta-button-full-width
+- ROLE slot: cta-button-full-width
+- INTENT: drives to PDP / add-to-cart; 'next step' CTA after product+guarantee
+- COMPONENT PICKED: CTA-3 (Curiosity Code)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Curiosity-code CTA matches E2's mid-flow curiosity frame, permission-toned. Image is the trust-signal accessory.
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: A wet-bag accessory with space/zebra/llama prints, soft and tactile, signaling trust.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 7: signoff-lena-short
 - ROLE slot: signoff-lena-short
-- INTENT: Lena SHORT sign-off for E2: 'Talk soon,'
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 12.1 'Lena Signoff' is the catalog's Lena signoff component. Used for E1 (signoff = 'Talk soon,' per E1-E2 progression).
-- IMAGE PICKED: none (text-only component)
+- INTENT: Lena SHORT variant for E1-E2; 'Talk soon,' closing
+- COMPONENT PICKED: 12.1 (Lena Signoff)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Mandatory Lena signoff for E2; same SHORT variant as E1.
+- IMAGE PICKED: none (text-only section)
+
+### Image count check
+- Total images in this email: 6/6 (target range 4-6).
+- Status: PASS
+- Total components: 7/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['9.2', '4.4', 'DEEP-16', 'LETTER-11', 'PROD-3', '12.1']
-- image-usage.json: incremented ['flat-lay/training-pant-fox-woodland-white.jpg']
+- component-usage.json: incremented 7 body components
+- image-usage.json: incremented 6 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e2-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
-> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
-> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
-> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
-> due to the structural catalog limitation, not a per-email pick error.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
->

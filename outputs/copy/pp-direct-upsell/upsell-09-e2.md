@@ -84,6 +84,116 @@ BrightKidCo
 
 ---
 
+## STAGE 2 PICKS — upsell-09-e2
+
+### Section 1: Hero + Hook
+- ROLE slot: hero-lifestyle-sleep-scene (Section 1a) + prose-block-hook-three-statement (Section 1b)
+- INTENT: 600x320 lifestyle hero (child sleeping peacefully in Body-Signal underwear under duvet, silhouette-only) + 3-statement pivot opener (signal = mechanism, brain learning, furniture absorbs).
+- COMPONENT PICKED: 18.1 (Hi-Fi Gradient Hero + Discount Block)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Hero variant with image+text pairing — accommodates the lifestyle hero photo AND the headline below. Gradient palette is warm-cream + soft gold (NOT teal — 2.3 Teal CTA Hero is excluded). Never reused before.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: "Child resting peacefully in soft pink shorts under a cozy duvet, warm home setting, soft natural light, silhouette framing."
+  - Current usage: 6/25 (already used in upsell-09-e1)
+  - WHY: Same library image works here as the "sleeping peacefully" hero; lifestyle setting matches the wireframe's "child sleeping peacefully" intent. Cross-level safe silhouette framing.
+
+### Section 2: Validation — Learning-Phase Normalization
+- ROLE slot: validation-paragraph-stack (Section 2)
+- INTENT: stacked text naming the messy reality of the learning phase (strip beds, damp sheets, seat covers) + tie to mechanism + bridge to mattress protector.
+- COMPONENT PICKED: 23.2 (Drop Cap Initial Letter, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: Drop-cap letter treatment gives the validation paragraph a magazine-essay feel; warm tone matches the peer-voice normalization; text-only keeps the section image-light.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: "Child in dinosaur-themed clothing in a warm living room setting, representing the messy everyday reality of the learning phase."
+  - Current usage: 4/25
+  - WHY: The "messy living-room reality" image — captures the lived-in feeling of the learning phase.
+
+### Section 3: Mechanism Brief
+- ROLE slot: mechanism-paragraph-stack-with-differentiation (Section 3)
+- INTENT: contrast plastic-bag protectors with BrightKidCo cotton/breathable membrane design; $24.99 price callout; "protection is invisible" insight.
+- COMPONENT PICKED: EDU-4 (Process Diagram, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 3/8
+  - WHY: Process-diagram style supports the layered construction explanation (cotton top / membrane / protection); image+text slot allows an image pick.
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: "Woodland-creature themed diaper flat-lay, illustrating the soft cotton material BrightKidCo uses across its product line."
+  - Current usage: 0/25 (NEW)
+  - WHY: Visual anchor for the "cotton facing on top" claim — reinforces the cross-product material consistency message without showing the protector (which isn't a real BKC SKU in the library).
+
+### Section 4: Social Proof — Two Parent Quotes
+- ROLE slot: callout-quote-highlight-l2-buyer + callout-quote-highlight-late-trainer (Section 4a + 4b)
+- INTENT: two stacked cream-tinted cards with parent quotes: "Wish I'd bought this with my first order..." and "This one actually stays put..."
+- COMPONENT PICKED: TRUST-1 (60-Day Seal, guarantee_trust)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 2/8
+  - WHY: Combines the guarantee-seal with the testimonial-card treatment (per wireframe, social-proof cards sit just above the guarantee line in §6). Text-only — testimonial attribution carries the social-proof weight.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: "Training pant with bunny and heart illustration in pink fabric, representing the comfort the parent-quotes describe."
+  - Current usage: 3/25
+  - WHY: Soft product visual paired with the late-trainer quote ("doesn't fight bedtime anymore because it doesn't feel different from his sheet") — gentle fabric = the quote's comfort claim.
+
+### Section 5: Benefit-Card Cascade
+- ROLE slot: benefit-card-cotton-top + benefit-card-breathable-membrane + benefit-card-fit-protection (Section 5)
+- INTENT: three stacked cream-tinted cards with emerald left-border opacity progression (80→60→40): cotton top / breathable membrane / 12-inch fit.
+- COMPONENT PICKED: 6.2 (ProductShowcaseMedium, product_showcase)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 2/8
+  - WHY: ProductShowcaseMedium handles the 3-card cascade with image+text pairing (each card has product image + heading + body). product_showcase CAN be reused per Ayoub's brief.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: "Training pant with cloud-and-raindrop illustration on white fabric, illustrating breathable, sensory-friendly material construction."
+  - Current usage: 1/25
+  - WHY: The "breathable" card's image — soft, neutral, sensory-friendly cotton visual that pairs with the membrane-doesn't-cringle claim.
+
+### Section 6: Guarantee + Risk Reversal
+- ROLE slot: guarantee-line-cross-sell (Section 6)
+- INTENT: inline paragraph "Same guarantee as everything we make: 60 days... No questions. Your judgment."
+- COMPONENT PICKED: 10.1 (60-Day Seal, guarantee_trust)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW)
+  - WHY: The 60-Day Seal alias IS the brand guarantee line — text-only seal treatment fits inline-paragraph usage; warm temperature.
+- IMAGE PICKED: none (text-only guarantee paragraph)
+
+### Section 7: CTA + Cross-Sell
+- ROLE slot: cta-button-full-width + text-link-cross-sell (Section 7)
+- INTENT: "Protect your furniture during the learning phase" primary button + secondary text link "$39.98 for both (Wash Bag + Mattress Protector)" cross-sell.
+- COMPONENT PICKED: 12.2 (Inline CTA, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 6/8
+  - WHY: 12.2 is the catalog's inline-CTA + secondary-link treatment, used heavily but still under cap; full-width button + text-link pairing matches the cross-sell ROLE.
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: "Whale-illustrated swim diaper in ocean blue, a complementary BrightKidCo product reinforcing the cross-sell visual."
+  - Current usage: 0/25 (NEW)
+  - WHY: Soft visual anchor for the cross-sell ("Or add the Wash Bag too — $39.98 for both") — a different product category (swim diaper) keeps the cross-sell visual from being redundant with the wash bag already shown in E1.
+
+### Section 8: Sign-off (Lena SHORT)
+- ROLE slot: signoff-lena-short
+- INTENT: "Thanks for being here... Lena reads every response."
+- COMPONENT PICKED: 17.7 (Closing Letter (Before CTA), body_recognition) — REUSED
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 2/8 (was 2 → now 3)
+  - WHY: Closing-letter treatment matches Lena SHORT peer-voice; warm; reuses a signoff-adjacent slot (the only body_recognition letter-style component). Already under cap.
+- IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: 18.1 (Hi-Fi Gradient Hero + Discount Block) — see Section 1
+- NOTE: The wireframe declares hero-lifestyle-sleep-scene as the first visual element above fold. 18.1 is the IMAGE+TEXT hero variant (image_text in catalog) that accommodates both the lifestyle hero photo AND the headline below it. Never used before in any email.
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (within 4-6 range)
+
+### Component count check
+- Total components in this email: 8/8 (18.1 hero, 23.2, EDU-4, TRUST-1, 6.2, 10.1, 12.2, 17.7) — capped at 8.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: 18.1 (0→1), 23.2 (1→2), EDU-4 (3→4), TRUST-1 (2→3), 6.2 (2→3), 10.1 (0→1), 12.2 (6→7), 17.7 (2→3)
+- image-usage.json: toddler-napping-watermelon-pink-shorts.png (6→7), toddler-livingroom-dino-yellow.png (4→5), diaper-woodland-creature-yellow.jpg (0→1), training-pant-bunny-hearts-pink.jpg (3→4), training-pant-cloud-raindrop-white.jpg (1→2), swim-diaper-whale-ocean-blue.jpg (0→1) — 6 image-picks total.
+
+---
+
 ## Source Citations
 - S2 section: §1.8 Flow 09, Upsell E2 (Hook, Content, CTA, Subject Line)
 - S1 section: §4.1 Flow 09, PP-Direct Upsell specs (Trigger D7, Cross-Level, Utility-focused tonality)
@@ -675,151 +785,3 @@ END OF WIREFRAME — upsell-09-e2
 ```
 
 ---
-
-## STAGE 2 PICKS — upsell-09-e2
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-direct-upsell | **Position:** E2 | **Level:** GF
-
-
-### Section 1: HERO HEADLINE + HOOK
-
-- ROLE slot: `hero-headline-hook`
-
-- INTENT: default block — HERO HEADLINE + HOOK
-
-- COMPONENT PICKED: **HERO-3** — Permission Open
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — LEARNING-PHASE NORMALIZATION
-
-- ROLE slot: `validation-learning-phase-normalization`
-
-- INTENT: validation block — VALIDATION — LEARNING-PHASE NORMALIZATION
-
-- COMPONENT PICKED: **DEEP-02** — Mom Confessional
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM BRIEF — WHY THIS PROTECTOR IS DIFFERENT
-
-- ROLE slot: `mechanism-brief-why-this-protector-is-different`
-
-- INTENT: mechanism block — MECHANISM BRIEF — WHY THIS PROTECTOR IS DIFFERENT
-
-- COMPONENT PICKED: **EDU-2** — Step Cards
-
-  - Currently used: 1/8 (under cap; was DEEP-14/DEEP-21)
-  - WHY: by-name position+audience match. EDU-2 is a body_mechanism component with full-audience tag, appropriate for GF why-this-protector block.
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: SOCIAL PROOF — TWO PARENT QUOTES STACKED
-
-- ROLE slot: `social-proof-two-parent-quotes-stacked`
-
-- INTENT: social_proof block — SOCIAL PROOF — TWO PARENT QUOTES STACKED
-
-- COMPONENT PICKED: **STORY-03** — Split Before/After
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: PRODUCT INTRODUCTION — BENEFIT-CARD CASCADE
-
-- ROLE slot: `product-introduction-benefit-card-cascade`
-
-- INTENT: hook block — PRODUCT INTRODUCTION — BENEFIT-CARD CASCADE
-
-- COMPONENT PICKED: **HERO-18** — Guilt Absolution
-
-  - Currently used: 7/8 (under cap; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF product-introduction-benefit-card-cascade)
-  - WHY: by-name position+audience match. HERO-18 Guilt Absolution is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF product-intro benefit card.
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: GUARANTEE + RISK REVERSAL
-
-- ROLE slot: `guarantee-risk-reversal`
-
-- INTENT: guarantee block — GUARANTEE + RISK REVERSAL
-
-- COMPONENT PICKED: **TRUST-5** — Promise Card
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: CTA — PRIMARY + SECONDARY CROSS-SELL
-
-- ROLE slot: `cta-primary-secondary-cross-sell`
-
-- INTENT: cta block — CTA — PRIMARY + SECONDARY CROSS-SELL
-
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

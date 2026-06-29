@@ -934,144 +934,91 @@ END OF WIREFRAME — welcome-01-e5-gf
 
 ## STAGE 2 PICKS — welcome-01-e5-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E5).
-> Scope: 8 sections (typography hero / 3 doors / mint box /
-> brain-signal flow / 2 quotes / product minimal / late CTA /
-> signoff MEDIUM).
-> GF calibration: R1–R6 strict, V16 symptom language only,
-> 50/50 hope/realism; THIRD migration anchor lands here per
-> GF-V3 rotation (L3-style symptom profile); interoception deep dive.
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E5: **Anchor #3 (L3-style Mary):** 'If your child is 9, has no words, and has never reacted to wet — read Mary's story.'
 
-### Section 1: HOOK — THE SKEPTIC'S MOMENT (typography only)
-- ROLE slot: `hero-typography-only-gf`
-- INTENT: NO lifestyle photo; a typography-only hero on warm sand
-  background that opens with the permission frame.
-- COMPONENT PICKED: **1.2** — Typography
-  - From catalog: position=body_mechanism, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: typography component is the cleanest text-only hero;
-    Stage 3 will paint with warm-sand background + Fraunces
-    serif headline.
-- IMAGE PICKED: none (text-only).
-- VARIANCE CHECK: differs from E4 S1 (typography vs lifestyle).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S1: Hook — The Skeptic's Moment
+- ROLE slot: hero-typography-only-gf
+- INTENT: Typography-driven opening, no lifestyle photo, warm sand background.
+- COMPONENT PICKED: DESDEEP-7  (Typography Hero [A*] (HERO-class, universal))
+  - Current usage: 1/8
+  - WHY: Typography Hero — type-driven opening honoring the skeptical E5 reader (no stock warmth).
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: Toddler playing with a moon-and-cloud-themed train toy, real home
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: OBJECTION NAMING — THREE DOORS
-- ROLE slot: `three-objection-doors-reveal-gf` (3 stacked cards)
-- INTENT: the three-door contraption — three skepticism doors
-  stacked with cream backgrounds; each opens to a reframe.
-- COMPONENT PICKED: **REV-01** — After Objection Reversal
-  - From catalog: position=body_mechanism, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: objection-reversal shape is structurally a 3-card stack
-    with disclosure badges; Stage 3 will paint with cream cards
-    and warm-terracotta left-border accents to fit the wireframe's
-    "three-door contraption" framing.
-- IMAGE PICKED: none (text-only 3-card).
-- VARIANCE CHECK: differs from S1 (3-card vs typography).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S2: Objection Naming — Three Doors
+- ROLE slot: three-objection-doors-reveal-gf
+- INTENT: Three stacked objection cards with progressive-reveal arrows.
+- COMPONENT PICKED: OBJ-02  (My Child Is Different [A] (MECHANISM & EDUCATION, objection handler))
+  - Current usage: 1/8
+  - WHY: My Child Is Different — first of the three objection cards (E5 three-door contraption).
+- COMPONENT PICKED: OBJ-04  (Does It Work Evidence [A] (MECHANISM & EDUCATION, evidence))
+  - Current usage: 1/8
+  - WHY: Does It Work Evidence — second objection card, evidence-based reframe.
+- COMPONENT PICKED: OBJ-10  (Sensory Issues Answer [A] (MECHANISM & EDUCATION, sub-group C fit))
+  - Current usage: 1/8
+  - WHY: Sensory Issues Answer — third objection card, R1 symptom-first for sub-group C.
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: Woodland-creature diaper laid flat on a warm surface
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: REFRAME — THE WRONG-TOOLS MOMENT
-- ROLE slot: `mint-highlight-box-gf` (Mint #DBFFCD background)
-- INTENT: the central reframe paragraph sits in a Mint highlight box.
-- COMPONENT PICKED: **4.4** — Insight / Mint Block
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: insight/mint-block is structurally a full-width mint
-    background highlight box; Stage 3 paints with #DBFFCD per GF
-    brand spec.
-- IMAGE PICKED: none (text-only highlight box).
-- VARIANCE CHECK: differs from S2 (highlight box vs 3-card stack).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S3: Reframe — The Wrong-Tools Moment
+- ROLE slot: mint-highlight-box-gf
+- INTENT: Mint-highlight central reframe paragraph, Brand-Green accent.
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: Moon-and-cloud blue pocket diaper laid flat
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 4: MECHANISM — BSL DEEP DIVE WITH NUMBERED SEQUENCE
-- ROLE slot: `brain-signal-flow-diagram-gf` (numbered 1-2-3-4)
-- INTENT: presents the Body-Signal Learning mechanism as a
-  numbered 1-2-3-4 sequence with Brain-Body layering.
-- COMPONENT PICKED: **7.2** — Numbered Method Card
-  - From catalog: position=body_mechanism, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: numbered-method-card structurally is a 1-2-3-4 sequence
-    container; Stage 3 will paint with Brand-Green accents and
-    cream background.
-- IMAGE PICKED: none (text + numbered sequence).
-- VARIANCE CHECK: differs from S3 (numbered sequence vs highlight).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S4: Mechanism — BSL Deep Dive with Numbered Sequence
+- ROLE slot: brain-signal-flow-diagram-gf
+- INTENT: Numbered 1-2-3-4 BSL sequence diagram, deep mechanism.
+- COMPONENT PICKED: EDU-8  (Mechanism Diagram [A*] (MECHANISM & EDUCATION, deep dive))
+  - Current usage: 4/8
+  - WHY: Mechanism Diagram — BSL deep dive with brain-signal flow, R5 timeline-flexible.
+- COMPONENT PICKED: EDU-4  (Myth vs Fact [A*] (MECHANISM & EDUCATION, objection reframe))
+  - Current usage: 1/8
+  - WHY: Myth vs Fact — objection-naming, myth-dispelling, R6 low-bar metrics.
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: Wet bags with space, zebra, and llama prints, flat-lay
+  - Current usage: 4/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 5: SOCIAL PROOF — TWO QUOTES + STAT BAR
-- ROLE slot: `two-quote-cards-stacked-gf` (2 stacked quote cards)
-- INTENT: 2 stacked testimonial cards in Cream-Card background.
-- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8 (one observed-
-    externally tag in tracker — counted here as real first use).
-  - WHY: micro-story fits "single powerful moment" card; Stage 3
-    will paint with cream cards and warm-amber accents.
-- IMAGE PICKED: none (text-only 2-card stack).
-- VARIANCE CHECK: differs from S4 (micro-story vs numbered seq).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S5: Social Proof — Two Quotes + Stat Bar
+- ROLE slot: two-quote-cards-stacked-gf
+- INTENT: Two stacked testimonial cards in Cream-Card.
+- COMPONENT PICKED: SP-03  (Stat Row [A*] (SOCIAL PROOF & TESTIMONIALS, 49% paraphrase))
+  - Current usage: 2/8
+  - WHY: Stat Row — 49% SPARK paraphrased per V16 (no autism word, 'almost 1 in 2').
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: Washing machine in real home laundry moment
+  - Current usage: 2/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 6: PRODUCT + GUARANTEE
-- ROLE slot: `product-3-layer-minimal-gf` (minimal line-art)
-- INTENT: introduces the 3+3 bundle with 3-layer minimal system.
-- COMPONENT PICKED: **PDISP-2** — Product Info Card
-  - From catalog: position=product_showcase, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: product-info-card structurally fits the "minimal line-art"
-    framing with light product info layout; Stage 3 will paint with
-    cream background.
-- IMAGE PICKED: **accessories/book-potty-training-guide.png**
-  - Dimensions: 1200×800.
-  - Alt text (V16 spec): "Potty-training guide book on neutral
-    background, used as product-adjacent mechanism illustration."
-  - Currently used: 0/25.
-  - WHY: mechanism-adjacent product support asset (the book is
-    brand-blessed guide content) — reinforces mechanism without
-    shapeless child imagery.
-- VARIANCE CHECK: differs from S5 (product + image vs quotes).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S6: Product + Guarantee
+- ROLE slot: product-3-layer-minimal-gf
+- INTENT: Minimal line-art 3+3 bundle, guarantee band.
+- COMPONENT PICKED: PROD-1  (Full Showcase [A*] (PRODUCT SHOWCASE, showcase-allowed))
+  - Current usage: 1/8
+  - WHY: Full Showcase — minimal line-art variant of the 3+3 bundle, showcase-allowed.
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Section 7: LATE CTA (text-link + intro migration anchor)
-- ROLE slot: late CTA + THIRD MIGRATION ANCHOR (L3-style per GF-V3)
-- INTENT: button "Try the 3+3 Bundle — $79.99" + the third migration
-  anchor with L3-style symptom profile ("doesn't seem to notice when
-  he's wet"), rendered as a warm-underlined text link after the CTA.
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA (this slot)
-  - From catalog: position=cta, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: text-link CTA is the lowest-aggression container for the
-    post-CTA migration anchor; Stage 3 will paint the main button
-    with Brand-Green #039902 at 80% saturation for primary CTA;
-    the migration anchor is the warm-underlined text link.
-  - V16 NOTE: anchor text symptom-only — "If your child is 9, has
-    the words, but doesn't connect them to the action — read Mary's
-    story." Mary is the L3-profile name (migration profile), NOT
-    a level label.
-- IMAGE PICKED: none.
-- VARIANCE CHECK: differs from S6 (CTA + link vs product).
-- GF CALIBRATION CHECK: ✅ symptom profile anchor.
+### S7: Late CTA
+- ROLE slot: (button + trust-signal row)
+- INTENT: Late CTA 'See if the 3+3 Bundle closes the gap.'
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Section 8: LENA SIGN-OFF (MEDIUM — E5 Variant)
-- ROLE slot: `signoff-lena-medium-gf` (re-used from E3 to keep
-  MEDIUM macro consistency at E3-E5).
-- INTENT: Lena MEDIUM variant; "With understanding," close.
-- COMPONENT PICKED: **EMODEEP-18** — The Letter From Lena (uses Letter)
-  - From catalog: position=emotional_support, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 1/8 (from E3).
-  - WHY: letter-from-Lena is the editorial MEDIUM signoff; reuse
-    matches the brand-wide E3-E5 macro for letter variant.
-- IMAGE PICKED: none.
-- VARIANCE CHECK: differs from S7 (letter vs CTA).
-- GF CALIBRATION CHECK: ✅ Lena peer voice universal.
+### S8: Migration Anchor #3 (L3-style) + Lena Sign-off
+- ROLE slot: migration-anchor-link-gf + signoff-lena-medium-gf
+- INTENT: L3-style symptom profile, Lena MEDIUM signoff.
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted Giuliano.
-- Footer: extracted Giuliano.
-- Sign-off: covered by Section 8 (EMODEEP-18 — already used in E3).
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
 
-### Tracker updates applied
-- component-usage.json: 1.2 +1, REV-01 +1, 4.4 +1, 7.2 +1,
-  STORY-14 +1, PDISP-2 +1, CTAMAX-03 +1, EMODEEP-18 +1
-  (now 2/8 since also used in E3).
-- image-usage.json: accessories/book-potty-training-guide.png +1
-  (now 1/25).
+### Tracker updates
+- component-usage.json: incremented DESDEEP-7, OBJ-02, OBJ-04, OBJ-10, EDU-8, EDU-4, SP-03, PROD-1
+- image-usage.json: incremented lifestyle/toddler-playing-train-moon-cloud-blue.png, flat-lay/diaper-woodland-creature-yellow.jpg, flat-lay/pocket-diaper-moon-cloud-blue.jpg, accessories/wet-bags-space-zebra-llama.png, resized/washing-machine.jpg

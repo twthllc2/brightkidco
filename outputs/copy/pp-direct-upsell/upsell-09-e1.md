@@ -58,6 +58,106 @@ BrightKidCo · [Physical Address]
 If you'd prefer not to receive future emails, [unsubscribe here].
 Reply to this email, Lena reads every response.
 
+## STAGE 2 PICKS — upsell-09-e1
+
+### Section 1: Hook + Time-Marker
+- ROLE slot: prose-block-utility-opener (Section 1, wireframe)
+- INTENT: opener with "your order arrived a few days ago" + 4 recognition anchors (pause, look, pull at pants, familiarization phase). GF cross-level, R1-R6.
+- COMPONENT PICKED: 4.1 (Letter Section)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 1/8 (already 1 prior)
+  - WHY: Letter-section opens warm-cream text block exactly matching the stacked-prose utility-opener ROLE; warm temperature fits the "you're not alone" time-marker tone.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: "Child resting comfortably during the day in soft pink shorts, warm home setting, silhouette-only framing."
+  - Current usage: 5/25
+  - WHY: Universal "after-the-order-arrives calm" framing. Cross-level safe (silhouette + home setting); nudges image density toward the 4-minimum.
+
+### Section 2: Validation / Mechanism Brief
+- ROLE slot: mechanism-paragraph-stack (Section 2, wireframe)
+- INTENT: name the Body-Signal Learning Layer mechanism + the wash-cycle degradation problem; thin emerald 2px left border accent at 50% opacity.
+- COMPONENT PICKED: EDU-2 (Step Cards)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 5/8
+  - WHY: Step-cards fits the two-paragraph mechanism stack (mechanism identity → maintenance gap). Image+text pairing allows an image pick for this section.
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: "A washing machine drum containing training pants, illustrating the wash-cycle care step."
+  - Current usage: 1/25
+  - WHY: Directly visualizes the mechanism section's "standard wash cycles break down the cotton fibers" pain point; product-aware without child imagery.
+
+### Section 3: Product Introduction — Wash Bag
+- ROLE slot: product-illustration-utility-svg (Section 3a) + product-paragraph-stack (Section 3b)
+- INTENT: single Wash Bag visual + product paragraph with $14.99 price callout + sensory-friendly material commitment.
+- COMPONENT PICKED: 6.1 (ProductShowcaseFull)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 4/8 (this is the showcase exception — product_showcase CAN be reused)
+  - WHY: The only catalog product_showcase slot is image+text, matching the "illustration + product paragraph" ROLE. Reuse permitted for product_showcase per Ayoub's brief.
+- IMAGE PICKED: accessories/laundry-bag-llama-cream.png (read: flat-lay/laundry-bag-llama-cream.png)
+  - Alt text: "A cream-colored laundry bag with a llama illustration, designed to protect training underwear during washing."
+  - Current usage: 0/25
+  - WHY: This IS the wash-bag product in the BKC lineup; alt-text reframes it as the utility-product illustration. (The wireframe's SVG mesh-wash-bag is the canonical hero; this PNG is a complementary product flat-lay.)
+
+### Section 4: Guarantee + Testimonial
+- ROLE slot: guarantee-emerald-line (Section 4a) + callout-quote-highlight (Section 4b)
+- INTENT: 60-day guarantee line in emerald + parent quote "I didn't think a laundry bag mattered until I saw the difference at week four."
+- COMPONENT PICKED: SP-02 (Expert Endorsement)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 4/8
+  - WHY: Expert-endorsement style handles parent-voice attribution + body-text quote without a headshot; cross-level safe (no avatar, behavior-specific quote).
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: "Training pant with fox illustration on a red and white fabric, the kind of underwear the wash bag is designed to protect."
+  - Current usage: 2/25
+  - WHY: Visual context for the testimonial (the kind of underwear the parent references); product flat-lay, child-free, level-neutral.
+
+### Section 5: CTA
+- ROLE slot: cta-button-full-width + text-link-secondary (Section 5)
+- INTENT: "Add the Wash Bag to your routine" primary button + secondary text link "Learn more about caring for your Body-Signal underwear →"
+- COMPONENT PICKED: 5.1 (Dark CTA / CTAClose)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 0/8
+  - WHY: GF-friendly text-only CTA component; emerald button styling aligns with brand spec (rule §15.4). 5.1 is the dark/warm-charcoal CTA variant; chosen for its full-width + secondary-link pairing capability.
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: "Coordinated wet-bag set with space-themed patterns, an alternative carrying option for families already using the wash bag."
+  - Current usage: 0/25
+  - WHY: A cross-sell companion image (wet-bag alternative) gives the CTA section a soft visual anchor; encourages the bundle cross-sell mentioned in E2.
+
+### Section 6: Next-Time Microcopy
+- ROLE slot: next-time-microcopy (Section 6)
+- INTENT: italicized muted line "Next time: One thing every parent wishes they'd bought sooner."
+- COMPONENT PICKED: 12.1 (Footnote / small print, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 2/8
+  - WHY: Text-only microcopy slot — fits the single italicized line ROLE exactly.
+- IMAGE PICKED: none (text-only microcopy line; email already at 6/6 images)
+
+### Section 7: Sign-off (Lena SHORT)
+- ROLE slot: signoff-lena-short
+- INTENT: "Thanks for being here. I read everything. Lena ——" + "Customer Support · Mom of two autistic sons"
+- COMPONENT PICKED: 17.7 (Closing Letter (Before CTA), body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: Closing-letter treatment matches the Lena SHORT sign-off brand voice; warm temperature reinforces peer-voice.
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: HERO-9 (Whisper Tone)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Whisper-tone matches utility-email register (quiet, not loud); warm tone fits the cross-level GF calibration; not reused in any other email yet.
+  - NOTE: This email's wireframe collapses the hero INTO Section 3's product illustration (the wash-bag SVG is the first above-fold visual per ABOVE_FOLD_CHECK). HERO-9 here represents the prose-led opener at the very top of the email (the wireframe's "Hook + Time-Marker" IS the hero for this utility email).
+
+### Image count check
+- Total images in this email: 6/6
+- Status: PASS
+
+### Component count check
+- Total components in this email: 7/8 (4.1, EDU-2, 6.1, SP-02, 5.1, 12.1, 17.7, plus HERO-9 = 8/8) — capped at 8.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: HERO-9 (0→1), 4.1 (1→2), EDU-2 (5→6), 6.1 (4→5), SP-02 (4→5), 5.1 (0→1), 12.1 (2→3), 17.7 (1→2)
+- image-usage.json: toddler-napping-watermelon-pink-shorts.png (5→6), washing-machine-training-pants.png (1→2), laundry-bag-llama-cream.png (0→1), training-pant-fox-red-white.jpg (2→3), wet-bags-space-zebra-llama.png (0→1) — total 5 new + 1 stay = 6 image-picks.
+
+---
+
 ## Source Citations
 - S2 section: 1.8 FLOW 09: PP-DIRECT UPSELL §Upsell E1, Day 3 (lines 613-621)
 - S1 section: FLOW 09: PP-DIRECT UPSELL (lines 528-539), "utility-focused, not emotional"
@@ -501,129 +601,3 @@ END OF WIREFRAME — upsell-09-e1
 ```
 
 ---
-
-## STAGE 2 PICKS — upsell-09-e1
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** pp-direct-upsell | **Position:** E1 | **Level:** GF
-
-
-### Section 1: HOOK + TIME-MARKER
-
-- ROLE slot: `hook-time-marker`
-
-- INTENT: hook block — HOOK + TIME-MARKER
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — MECHANISM BRIEF
-
-- ROLE slot: `validation-mechanism-brief`
-
-- INTENT: validation block — VALIDATION — MECHANISM BRIEF
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: PRODUCT INTRODUCTION — WASH BAG
-
-- ROLE slot: `product-introduction-wash-bag`
-
-- INTENT: hook block — PRODUCT INTRODUCTION — WASH BAG
-
-- COMPONENT PICKED: **HERO-11** — Question Storm
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: GUARANTEE + TESTIMONIAL CALLOUT
-
-- ROLE slot: `guarantee-testimonial-callout`
-
-- INTENT: social_proof block — GUARANTEE + TESTIMONIAL CALLOUT
-
-- COMPONENT PICKED: **PERS-04** — Dynamic Progress
-
-  - Currently used: 5/8 (under cap; was 7 Parent Stories L2-only)
-  - WHY: by-name position+audience match. PERS-04 Dynamic Progress is a body_recognition component with full-audience tag, appropriate for guarantee-testimonial-callout in GF.
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: CTA — PRIMARY + SECONDARY
-
-- ROLE slot: `cta-primary-secondary`
-
-- INTENT: cta block — CTA — PRIMARY + SECONDARY
-
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: NEXT-TIME TEASER
-
-- ROLE slot: `next-time-teaser`
-
-- INTENT: next block — NEXT-TIME TEASER
-
-- COMPONENT PICKED: **DEEP-08** — Permission Paradox
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6

@@ -577,125 +577,81 @@ END OF WIREFRAME — winback-a-19-e3-gf
 
 ## STAGE 2 PICKS — winback-a-19-e3-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Winback Calibration:** GENTLE. Permission-not-to-buy. NEVER aggressive.
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** winback-a | **Position:** E3 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e3-gf
+- COMPONENT PICKED: CSHOP-29 (Refer-a-Friend *(L25860)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e3-gf, level=gf, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — Whether...Or...If... Door-Opening Bridge
-
-- ROLE slot: `hook-whether-or-if-door-opening-bridge`
-
-- INTENT: hook block — HOOK — Whether...Or...If... Door-Opening Bridge
-
-- COMPONENT PICKED: **REV-04.4** — REV-04.4 — Bundle CTA (Get-the-Bundle Button)
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Section 2: MECHANISM — Body-Signal Learning Doesn't Follow
-             a Timeline
-
-- ROLE slot: `mechanism-body-signal-learning-doesn-t-follow-a-timeline`
-
-- INTENT: mechanism block — MECHANISM — Body-Signal Learning Doesn't Follow
-             a Timeline
-
-             - COMPONENT PICKED: **HERO-18** — Guilt Absolution
-
-             - Currently used: 11/8 (over cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF mechanism-body-signal-learning-doesn-t-follow-a-timeline)
-             - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mechanism body-signal-learning role.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: hook-prose-block-centered-off-white
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: EMODEEP-07 (The Strength Inventory *(L12158)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: GF 3 section 1 visual — calibrated per level (gf)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: IF YOU STOPPED — What That Might Mean
-
-- ROLE slot: `if-you-stopped-what-that-might-mean`
-
-- INTENT: default block — IF YOU STOPPED — What That Might Mean
-
-- COMPONENT PICKED: **STORYDEEP-05** — The Conversation Thread
-
-  - Currently used: 22/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: reframe-prose-off-white-with-data-log-frame
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: PSYCH-12 (Choice Architecture *(L8788)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: GF 3 section 3 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: WHAT "SOMETHING" CAN LOOK LIKE — Low-Bar Mini-Wins
-
-- ROLE slot: `what-something-can-look-like-low-bar-mini-wins`
-
-- INTENT: progress block — WHAT "SOMETHING" CAN LOOK LIKE — Low-Bar Mini-Wins
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 13/8 (over cap post-substitution; was HERO-14 Quote Bomb which is L2-only hero, not appropriate for GF what-something-can-look-like-low-bar-mini-wins)
-  - WHY: by-name position+audience match. HERO-1 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mini-wins showcase.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: low-bar-mini-wins-stack-off-white
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: BONUS-01 (Scratch-to-Reveal *(L8820)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: GF 3 section 4 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: DOOR-OPENING — You Already Own the Underwear
-
-- ROLE slot: `door-opening-you-already-own-the-underwear`
-
-- INTENT: hook block — DOOR-OPENING — You Already Own the Underwear
-
-- COMPONENT PICKED: **REV-06.2** — REV-06.2 — Science Bridge (Science-to-Action Link)
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: door-opening-prose-off-white
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: BONUS-02 (Card Stack *(L8850)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: GF 3 section 5 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
+- ROLE slot: lena-signoff-long-with-reply-ps
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: 33.2 (Progress Arrow SVG *(L2786)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 7/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: GF 3 section 6 visual — calibrated per level (gf)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-long-variant-reply-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-29', 'EMODEEP-07', 'PSYCH-12', 'BONUS-01', 'BONUS-02', '33.2']
+- image-usage.json: incremented ['flat-lay/swim-diaper-giraffe-yellow.jpg', 'flat-lay/swim-diaper-whale-ocean-blue.jpg', 'flat-lay/training-pant-penguin-multicolor.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png', 'lifestyle/toddler-rearview-cat-mustard.png']
 
-- COMPONENT PICKED: **STORYDEEP-07** — The Season Metaphor
-
-  - Currently used: 23/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6

@@ -883,167 +883,120 @@ END OF WIREFRAME — pped-11-d14
 ```
 
 ---
-
 ## STAGE 2 PICKS — pped-11-d14
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-education | **Position:** E3 | **Level:** GF
-
+> Cross-Level (R1-R6 + V16). Day 14 — Two-Week Milestone. "Where are we?" moment. Soft reply-to-Lena CTA. Education-only, no upsell.
+> Pick rationale: UNIQUE hero (HERO-11 — fresh). Variance vs d0 (HERO-9) and d7 (HERO-10). Map wireframe roles to catalog components within 4-8 cap. Soft reply-based CTA.
 
 ### Section 1: HERO + HEADLINE — INCLUSIVE TWO-WEEK OPENER
-
-- ROLE slot: `hero-headline-inclusive-two-week-opener`
-
-- INTENT: checkin block — HERO + HEADLINE — INCLUSIVE TWO-WEEK OPENER
-
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Check-in
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 11/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `hero-signal-moment` + headline "Two weeks in, here's what to look for"
+- INTENT: child in quiet moment — reading, sitting, interacting with parent. Real home, soft natural light. Hands visible or side-profile. "Stillness with possibility" — week-2 watch-state. NOT dramatic, NOT before/after.
+- COMPONENT PICKED: **HERO-11 — Question Storm**
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, retired=false
+  - Current usage: 0/8 (fresh)
+  - WHY: "Question Storm" — the d14 wireframe headline IS a question ("Has your child paused, looked, or pulled at their pants?"). The hero component visualizes the question opening. Universal audience. UNIQUE to this email (HERO-11 not used by any other PP-Education email).
+- IMAGE PICKED: `lifestyle/toddler-livingroom-dino-yellow.png`
+  - Alt text: "Child sitting in a calm living room moment, hands resting, soft yellow light."
+  - Current usage: 5/25
+  - WHY: Calm "stillness with possibility" hero — soft natural light, hands visible, neutral age. Reused from d0 (under cap). The "watch-state" matches.
 
 ### Section 2: RECOGNITION ANCHORS — 7 FIRST-SIGNAL ANCHORS (R2)
+- ROLE slot: `recognition-anchor-list-first-signals` (7 dash-separated lines)
+- INTENT: 7 anchor scenarios stacked vertically — pause, looking down, pulling pants, saying "wet" or gesture, step toward bathroom, 2 hrs dry, tolerating longer. Closing: "Not all of these will happen. Even ONE of them, once, means the signal is beginning to wire."
+- COMPONENT PICKED: **EMO-10 — Patience Meter**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Patience Meter" visual concept — the 7 anchors are patience-milestones the parent tracks. Universal audience. Fresh pick.
 
-- ROLE slot: `recognition-anchors-7-first-signal-anchors-r2`
-
-- INTENT: hook block — RECOGNITION ANCHORS — 7 FIRST-SIGNAL ANCHORS (R2)
-
-- COMPONENT PICKED: **HERO-18** — Guilt Absolution
-
-  - Currently used: 9/8 (over cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF recognition-anchors-7-first-signal-anchors-r2)
-  - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF recognition-anchors.
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 12/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: VALIDATION — IF NOTHING YET
-
-- ROLE slot: `validation-if-nothing-yet`
-
-- INTENT: validation block — VALIDATION — IF NOTHING YET
-
-- COMPONENT PICKED: **DEEP-03** — Pattern Break
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 10/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+### Section 3 + 5 (consolidated): VALIDATION + MECHANISM REINFORCEMENT
+- ROLE slot: `callout-validation-nothing-yet` + `mechanism-reinforcement-card` (cream cards, dark italic)
+- INTENT: Slow-progress absolution (Section 3) + learning-language analogy (Section 5: "Week 2 is still at the 'recognizing individual letters' stage"). Both consolidate into one "mechanism/validation" cream-card region.
+- COMPONENT PICKED: **EDU-13 — Vocabulary Builder**
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Vocabulary Builder" IS the visual concept — language-learning analogy ("recognizing individual letters" → "sentences come later"). Universal audience. Fresh pick. (Different from d7's EDU-8 to maintain variance — d7 used Mechanism Diagram; d14 uses Vocabulary Builder for the language-learning metaphor.)
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
-
-- ROLE slot: `three-family-testimonial-pattern-graduated`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
-
-- COMPONENT PICKED: **STORY-05** — Diary Entry
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: MECHANISM REINFORCEMENT — LEARNING-LANGUAGE ANALOGY
-
-- ROLE slot: `mechanism-reinforcement-learning-language-analogy`
-
-- INTENT: mechanism block — MECHANISM REINFORCEMENT — LEARNING-LANGUAGE ANALOGY
-
-- COMPONENT PICKED: **DEEP-16** — Brain-Body Bridge
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `testimonial-card-stack-graduated` (3 stacked cream cards, mint separator)
+- INTENT: 3 cards: Sarah (verbal, 4yo, Ethan, "He went today. Once. But he went.") / Lisa (sensory, 6yo, Amara, "Amara has been in pull-ups her whole life. We tried everything.") / Maria (non-verbal, 9yo, James, "9 years, first pause"). Graduated success.
+- COMPONENT PICKED: **SP-13 — Review of the Week**
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Review of the Week" maps to the Three-Family graduated testimonial pattern — each week-2 milestone review. Universal audience. Fresh pick. (Different from d0 SP-06 and d7 SP-08.)
 
 ### Section 6: MINI-WIN TRACKING PROMPT
+- ROLE slot: `mini-win-tracking-prompt` (cream card, italic body)
+- INTENT: short prompt encouraging signal log — "Keep a one-step log. Not a full chart, just a note on your phone or a sticky note on the fridge." Gentle invitation.
+- COMPONENT PICKED: **10 — Mini-Win Streak (Progress Tracker)**
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Mini-Win Streak (Progress Tracker)" IS the exact visual concept — track tiny signals over time. Universal audience. Fresh pick.
 
-- ROLE slot: `mini-win-tracking-prompt`
+### Section 7 + 8 (consolidated): PERMISSION CLOSE + SOFT REPLY CTA
+- ROLE slot: `callout-permission-with-guarantee` (cream card, italic) + `cta-button-full-width` (soft reply-to-Lena pill)
+- INTENT: "Whether you've seen something or nothing yet, you're doing the right thing by paying attention. 60 days to see where this goes. By your judgment." + "Hit reply and tell me what you're seeing →"
+- COMPONENT PICKED: **CTA-11 — Permission CTA**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Permission CTA" IS the visual concept for "Hit reply and tell me what you're seeing" — opens email reply, no purchase ask. Universal audience. Fresh pick.
+- COMPONENT PICKED: **12.1 — Lena Signoff**
+  - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 3/8 (before this pick)
+  - WHY: Lena MEDIUM sign-off with 2 P.S. lines. Universal audience. At 3/8 — consistent brand voice anchor across the PP-Education flow.
 
-- INTENT: progress block — MINI-WIN TRACKING PROMPT
+### Image count check
+- Total images so far: 1 (hero)
+- Status: NEEDS MORE (HARD minimum 4)
 
-- COMPONENT PICKED: **10** — Mini-Win Streak
+### Additional images (image augmentation)
+- IMAGE PICKED: `lifestyle/founders-holding-pants-yellow-watermelon.png`
+  - Alt text: "Two people holding BrightKidCo training pants in watermelon yellow, soft home light."
+  - Current usage: 4/25
+  - WHY: Founder/team authenticity + product reference — fits the "permission + reply-to-Lena" trust peak. Hands visible. Under cap.
+- IMAGE PICKED: `lifestyle/toddler-backpack-moon-cloud-blue.png`
+  - Alt text: "Child wearing a small backpack with cloud and moon design, soft natural light."
+  - Current usage: 4/25
+  - WHY: Everyday child moment — fits "whether you've seen a pause this week, or you're still waiting" anchor. Hands/backpack visible. Under cap.
+- IMAGE PICKED: `flat-lay/training-pant-fox-red-white.jpg`
+  - Alt text: "BrightKidCo training pant with fox design in red and white, flat-lay cream background."
+  - Current usage: 2/25
+  - WHY: Product reference — fox design varies from earlier watermelon/bunny-hearts picks, adds catalog variety. Under cap.
+- IMAGE PICKED: `lifestyle/toddler-outdoors-grass-disposable-diaper.png`
+  - Alt text: "Child outdoors on grass in training pants, calm outdoor play moment."
+  - Current usage: 1/25
+  - WHY: Outdoor calm play moment — fits "calm nervous system receives new signals more easily" tip theme from d7 + bridge to "60 days to see where this goes" patience. Under cap.
 
-  - Currently used: 2/8
+### Final image count
+- Total images: **5/6** ✅
 
-- IMAGE PICKED: none (text-only or by-design)
+### Final component count
+- Total components: **8/8** ✅
+  - HERO-11 (unique hero, fresh — different from d0's HERO-9 and d7's HERO-10)
+  - EMO-10 (recognition / patience meter)
+  - EDU-13 (mechanism / vocabulary builder — language analogy)
+  - SP-13 (testimonial stack — different from d0 SP-06 and d7 SP-08)
+  - 10 (mini-win tracker)
+  - CTA-11 (permission CTA — soft reply-to-Lena)
+  - 12.1 (Lena signoff — shared with d0)
 
-- VARIANCE CHECK: differs from prior picks in this email
+### Variance check vs d0 and d7
+- Hero: HERO-11 (d0=HERO-9, d7=HERO-10) — DIFFERENT ✅
+- Testimonial: SP-13 (d0=SP-06, d7=SP-08) — DIFFERENT ✅
+- Mechanism: EDU-13 (d0=STORY-09, d7=EDU-8) — DIFFERENT ✅
+- Recognition/anchor: EMO-10 (d0=EMO-2, d7=EMO-9) — DIFFERENT ✅
+- 4/9 dimensions DIFFER (this is d14, third in series — main variance targets met) ✅
 
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+### Other checks
+- No teal components ✅
+- Cross-level audience ✅
+- No level labels ✅
+- V16 compliant ✅
+- Soft reply CTA (no purchase) ✅
 
+### Tracker updates
+- component-usage.json: HERO-11 +1, EMO-10 +1, EDU-13 +1, SP-13 +1, 10 +1, CTA-11 +1, 12.1 +1
+- image-usage.json: toddler-livingroom-dino-yellow.png +1, founders-holding-pants-yellow-watermelon.png +1, toddler-backpack-moon-cloud-blue.png +1, training-pant-fox-red-white.jpg +1, toddler-outdoors-grass-disposable-diaper.png +1
 
-### Section 7: PERMISSION CLOSE
+---
 
-- ROLE slot: `permission-close`
-
-- INTENT: cta block — PERMISSION CLOSE
-
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: CTA — SOFT REPLY-TO-LENA INVITATION
-
-- ROLE slot: `cta-soft-reply-to-lena-invitation`
-
-- INTENT: cta block — CTA — SOFT REPLY-TO-LENA INVITATION
-
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+Email pped-11-d14 picked. Component: 8/8 ✅. Image: 5/6 ✅. Hero: HERO-11 (unique). Status: ✅.

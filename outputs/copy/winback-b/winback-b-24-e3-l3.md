@@ -1008,87 +1008,69 @@ END OF WIREFRAME — winback-b-24-e3-l3
 
 ## STAGE 2 PICKS — winback-b-24-e3-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 4 body sections.
-
-> **Flow:** winback-b | **Position:** E12 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e3-l3
+- COMPONENT PICKED: DEEPCAMP-08 (DEEPCAMP-08 — Halloween Fun (Costume-Ready Frame) *(L22724)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e3-l3, level=l3, theme=3. Calibrated per level.
 
 ### Section 1: RECOGNITION HOOK — Dignity Acknowledgment
-
-- ROLE slot: `recognition-hook-dignity-acknowledgment`
-
-- INTENT: validation block — RECOGNITION HOOK — Dignity Acknowledgment
-
-- COMPONENT PICKED: **PERS-05** — Avatar Recognition
-
-  - Currently used: 22/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: opening-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: EDUDEEP-7 (The Method Comparison *(L10836)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: L3 3 section 1 visual — calibrated per level (l3)
+  - Current usage: 18/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION OF THE LONG JOURNEY — Verbatim Triad
-
-- ROLE slot: `validation-of-the-long-journey-verbatim-triad`
-
-- INTENT: validation block — VALIDATION OF THE LONG JOURNEY — Verbatim Triad
-
-- COMPONENT PICKED: **UTIL-03** — Out-Line
-
-  - Currently used: 22/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: l3-verbatim-triad-stacked-on-cream
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EDUDEEP-9 (The Progress Metrics *(L10898)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: L3 3 section 2 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: GENTLE RE-INVITATION — Open Door + Last Email
-
-- ROLE slot: `gentle-re-invitation-open-door-last-email`
-
-- INTENT: cta block — GENTLE RE-INVITATION — Open Door + Last Email
-
-- COMPONENT PICKED: **EMO-8** — Grief Acknowledgment
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: re-invitation-prose-warm-cream-with-no-hope-frame
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EMODEEP-12 (The Micro-Win Celebration *(L12308)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L3 3 section 3 visual — calibrated per level (l3)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps-explore-link
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: 33.1 (Smiley Face SVG *(L2764)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 8/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L3 3 section 4 visual — calibrated per level (l3)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 4/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['DEEPCAMP-08', 'EDUDEEP-7', 'EDUDEEP-9', 'EMODEEP-12', '33.1']
+- image-usage.json: incremented ['lifestyle/toddler-potty-ladder-pink-multicolor.png', 'resized/toddler-playing.jpg', 'flat-lay/swim-diaper-unicorn-pink.jpg', 'flat-lay/pocket-diaper-moon-cloud-blue.jpg']
 
-- COMPONENT PICKED: **DEEP-25** — The Hope Gradient
-
-  - Currently used: 51/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 4

@@ -775,126 +775,105 @@ SYSTEM B (automatic):
 - ✅ Permission-not-to-buy: CTA section ⑥ is the deepest permission frame in the sequence ("Maybe this isn't the month. The product will be here. So will I.")
 
 ======================================================================
-## STAGE 2 PICKS — welcome-01-e7-l2
 
-**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+## STAGE 2 PICKS — e7-l2
 
-**L2 calibration applied:**
-- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
-- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
-- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
-  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
-- 40/60 hope/realism ratio; clinical warmth, not peer-mom
-- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
-- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
-- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
-- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+*L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
+### Section 1: HERO HEADER + HOOK BODY ("milliseconds too late")
+- ROLE slot: HERO HEADER + Hook body (counter-intuitive insight)
+- INTENT: "What if I told you your child IS getting the signal, just milliseconds too late?"
+- COMPONENT PICKED: HERO-7
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: HERO-7 (Counter-Intuitive Truth) — UNIQUE E7 hero. Counter-intuitive fits the "milliseconds too late" insight.
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 1: hook-counter
-- **ROLE slot:** hook-counter
-- **INTENT (from wireframe):** HERO-7 Counter-Intuitive Truth
-- **COMPONENT PICKED:** HERO-7
-  - Name: Counter-Intuitive Truth *(L3950)*
-  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Hook: HERO-7 Counter-Intuitive Truth
-- **VARIANCE CHECK:** N/A (first section)
+### Section 2: VALIDATION BODY ① Symptom recognition (Nicholson 2019: delayed accuracy, not absent)
+- ROLE slot: VALIDATION ① (delayed signal, not absent)
+- INTENT: "The signal arrives with DELAYED ACCURACY" — counter-intuitive reframe
+- COMPONENT PICKED: STORYDEEP-03
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: STORYDEEP-03 deep reframe component for the counter-intuitive validation
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 2: validation-6elem-1
-- **ROLE slot:** validation-6elem-1
-- **INTENT (from wireframe):** EMO-4 (reused) — 6-Element 1
-- **COMPONENT PICKED:** EMO-4
-  - Name: Empathy Block *(L6924)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Validation: EMO-4 (reused) — 6-Element 1
-- **VARIANCE CHECK:** differs from previous section (HERO-7) — OK
+### Section 3: DEEP MECHANISM ② (interoception + 59% urination signal failure + signal-strength analogy)
+- ROLE slot: DEEP MECHANISM ②
+- INTENT: "59% of autistic children cannot reliably signal when they need to urinate" + signal-strength phone-call analogy
+- COMPONENT PICKED: EDU-11
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 6/8 (after this pick)
+  - WHY: EDU-11 at 8-cap — reached cap, blocked from E8 (use EDU-4 there instead)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in dinosaur-yellow training pants, sensory-aware living room moment
+  - Current usage: 2/25 (after this pick)
+  - WHY: Sensory-aware living room = signal-strength metaphor anchor (the brain has its "ears" trained)
 
-### Section 3: mechanism-deep-6elem-2
-- **ROLE slot:** mechanism-deep-6elem-2
-- **INTENT (from wireframe):** EDU-13 Vocabulary Builder — interoception
-- **COMPONENT PICKED:** EDU-13
-  - Name: Vocabulary Builder *(L5589)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Mechanism: EDU-13 Vocabulary Builder — interoception
-- **VARIANCE CHECK:** differs from previous section (EMO-4) — OK
+### Section 4: MINT-BORDERED LOOP EXPLAINER BOX (prompt → compliance → voiding → no generalization → prompt)
+- ROLE slot: MINT-BORDERED LOOP EXPLAINER BOX
+- INTENT: THE PROMPT-DEPENDENCY LOOP, NAMED. The break: wetness-sensing layer.
+- COMPONENT PICKED: EDU-2
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 4/8 (after this pick)
+  - WHY: EDU-2 mechanism step-cards for the loop-explanation (5-step "loop" format)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Toddler napping in watermelon-pink shorts, quiet restorative moment near loop diagram
+  - Current usage: 3/25 (after this pick)
+  - WHY: Quiet restorative moment softens the dense loop visual; gives the eye a rest
 
-### Section 4: BCBA-ack-6elem-3
-- **ROLE slot:** BCBA-ack-6elem-3
-- **INTENT (from wireframe):** LETTER-03 (reused) — 6-Element 3
-- **COMPONENT PICKED:** LETTER-03
-  - Name: Letter + Pull-Quote
-  - From catalog: position=`body_recognition`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** BCBA ack: LETTER-03 (reused) — 6-Element 3
-- **VARIANCE CHECK:** differs from previous section (EDU-13) — OK
+### Section 5: BCBA/OT ③ ("Your BCBA built the foundation. This adds the sensory layer that was missing")
+- ROLE slot: BCBA/OT ACKNOWLEDGMENT ③
+- INTENT: L2 unlock sentence full + "protocol can't address"
+- COMPONENT PICKED: SP-01
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 5/8 (after this pick)
+  - WHY: SP-01 positioned for the BCBA/OT section — testimonial-like structure for BCBA voice
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: Toddler playing with wooden train in moon-cloud-blue training pants, focused play visual
+  - Current usage: 4/25 (after this pick)
+  - WHY: Focused-play visual = the BCBA-coexisting moment (compliance + body-signal layer)
 
-### Section 5: timeline-6elem-4
-- **ROLE slot:** timeline-6elem-4
-- **INTENT (from wireframe):** EMO-5 (reused) — 6-Element 4
-- **COMPONENT PICKED:** EMO-5
-  - Name: Realistic Timeline *(L6941)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Timeline: EMO-5 (reused) — 6-Element 4
-- **VARIANCE CHECK:** differs from previous section (LETTER-03) — OK
+### Section 6: REALISTIC TIMELINES ④ (2–4 wks first sign / 8–12 wks full + 49% stat "6:1 gap")
+- ROLE slot: REALISTIC TIMELINES ④
+- INTENT: "4–8 wks for first consistent signals" + "60-day covers the full window"
+- COMPONENT PICKED: SP-02
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 2/8 (after this pick)
+  - WHY: SP-02 quote-callout for the mini-win testimonial stack (3 quotes with timeline progression)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: Bunny hearts pink training pant flat-lay product photo
+  - Current usage: 1/25 (after this pick)
+  - WHY: Bunny-hearts pink product visual signals the product used in mini-win progression
 
-### Section 6: mini-win-quotes
-- **ROLE slot:** mini-win-quotes
-- **INTENT (from wireframe):** SP2 (reused) — 3 small mini-wins
-- **COMPONENT PICKED:** SP2
-  - Name: Review Quote Card *(L3208)*
-  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 3/8 (under cap)
-  - **WHY:** Quotes: SP2 (reused) — 3 small mini-wins
-- **VARIANCE CHECK:** differs from previous section (EMO-5) — OK
+### Section 7: PRODUCT INTRO — 3+3 Bundle table + GUARANTEE ⑤ + CTA ⑥ (most permission-leaning in sequence)
+- ROLE slot: PRODUCT INTRO + GUARANTEE + CTA
+- INTENT: 3+3 Bundle (6 pairs, $79.99 free ship, $13.33/pair, BCBA-compatible) + 60-day "no fine print, no condition" + "When you're ready, the 3+3 Bundle is here"
+- COMPONENT PICKED: 6.1
+  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
+  - Current usage: 3/8 (after this pick)
+  - WHY: 6.1 product_showcase (reuse allowed). Bundle-table fits showcase.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: Watermelon pink training pant flat-lay product photo
+  - Current usage: 1/25 (after this pick)
+  - WHY: Watermelon-pink product photo for the 3+3 Bundle table row visual
 
-### Section 7: product-intro-bundle
-- **ROLE slot:** product-intro-bundle
-- **INTENT (from wireframe):** CTADEEP-06.1 Product Comparison Table — 3+3 bundle table
-- **COMPONENT PICKED:** CTADEEP-06.1
-  - Name: CTADEEP-06.1 — Product Comparison Table
-  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Product: CTADEEP-06.1 Product Comparison Table — 3+3 bundle table
-- **VARIANCE CHECK:** differs from previous section (SP2) — OK
+### Section 8: SIGN-OFF — signoff-lena-long (FULL LONG, last in sequence)
+- ROLE slot: SIGN-OFF LONG (FULL)
+- INTENT: "Whatever comes next for you and your child, I'm here." + "With care, Lena"
+- COMPONENT PICKED: 12.2
+  - Catalog entry: position=signoff_footer, audience=L1/L2/L3/GF
+  - Current usage: 4/8 (after this pick)
+  - WHY: 12.2 Lena LONG signoff (full variant)
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 8: guarantee-6elem-5
-- **ROLE slot:** guarantee-6elem-5
-- **INTENT (from wireframe):** TRUST-1 (reused) — 6-Element 5
-- **COMPONENT PICKED:** TRUST-1
-  - Name: 60-Day Seal *(L6385)*
-  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
-  - Currently used: 4/8 (under cap)
-  - **WHY:** Guarantee: TRUST-1 (reused) — 6-Element 5
-- **VARIANCE CHECK:** differs from previous section (CTADEEP-06.1) — OK
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-### Section 9: cta-permission-6elem-6
-- **ROLE slot:** cta-permission-6elem-6
-- **INTENT (from wireframe):** CTAMAX-18 Permission CTA — most permission-leaning CTA
-- **COMPONENT PICKED:** CTAMAX-18
-  - Name: Permission CTA *(L17096)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** CTA: CTAMAX-18 Permission CTA — most permission-leaning CTA
-- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
-
-### Section 10: signoff
-- **ROLE slot:** signoff
-- **INTENT (from wireframe):** 12.1 (reused from E6) — LONG
-- **COMPONENT PICKED:** UTIL-09  - Name: Lena Signoff
-  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
-  - Currently used: 8/8 (at/over cap)
-  - **WHY:** Signoff: 12.1 (reused from E6) — LONG
-- **VARIANCE CHECK:** differs from previous section (CTAMAX-18) — OK
-
-### Footer (static — already picked, no work needed)
-- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
-- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `UTIL-09` / `UTIL-05` picks above per email's variant
-
-### Tracker updates applied
-- `component-usage.json`: incremented counts for `HERO-7`, `EMO-4`, `EDU-13`, `LETTER-03`, `EMO-5`, `SP2`, `CTADEEP-06.1`, `TRUST-1`, `CTAMAX-18`, `12.1`
-
+### Tracker updates
+- component-usage.json: ['HERO-7', 'STORYDEEP-03', 'EDU-11', 'EDU-2', 'SP-01', 'SP-02', '6.1', '12.2']
+- image-usage.json: ['lifestyle/toddler-livingroom-dino-yellow.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'flat-lay/training-pant-watermelon-pink.jpg']

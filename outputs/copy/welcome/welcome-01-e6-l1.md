@@ -815,98 +815,109 @@ Stage 2 also applies System B colors automatically:
 
 *End of wireframe, Welcome E6 L1 (Sarah). Wireframe appended 2026-06-28 by subagent-6.*
 
+
+
 ## STAGE 2 PICKS — welcome-01-e6-l1
 
-### Section 1: HERO - hero-image-prek-context
-- ROLE slot: hero-image-prek-context
-- INTENT: anchors Pre-K timing frame that drives E6 urgency
-- COMPONENT PICKED: HERO-19
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: HERO-19 'Timeline Shock' is the catalog's timeline-anchored hero — fits E6's Pre-K calendar frame.
-- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
-  - Alt text: Verbal 3-year-old wearing a small backpack with a moon and cloud print, hopeful posture, ready for Pre-K.
-  - Current usage: 3/25
-  - WHY: Toddler with backpack — Pre-K readiness visual. Re-using the same image used in E3 because it's the perfect Pre-K image (no need for variance here, both emails share the same calendar anchor).
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'With care,' — E6+ late sequence, gentle closing
 
-### Section 2: VALIDATION - anchor-quote-callout
-- ROLE slot: anchor-quote-callout
-- ROLE slot: anchor-quote-callout
-- INTENT: this is THE L1 anchor quote — verbatim L1 marker phrase, served as a centered pull-quote
-- COMPONENT PICKED: STORY-14  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story
-  - Current usage: 5/8 (under cap; was 7 'Parent Stories (Emotional Proof)' which is L2-only per audit)
-  - WHY: STORY-14 'Micro-Story' is the same component class as 7 but with full-audience tag. Renders as centered pull-quote with italic serif treatment. Replaces L2-only 7 per Stage 2 audit for L1 use.
-- IMAGE PICKED: none (text-only component)
+### Section 1: HERO
+- ROLE slot: hero-image-lifestyle (or variant per wireframe)
+- INTENT: D14 hero makes an identity statement ('You're the mom who keeps showing up'); L1 late-sequence identity re-anchor.
+- COMPONENT PICKED: HERO-6 (Identity Statement)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/1 (UNIQUE to this email — zero hero reuse rule)
+  - WHY: Identity Statement matches this email's emotional arc and L1 calibration.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: Toddler playing with a wooden train on the living room floor, soft natural light.
+  - Current usage: 1/25
+  - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
 
-### Section 3: SOCIAL PROOF - stacked-testimonial-stack
+### Section 2: anchor-quote-callout
+- ROLE slot: anchor-quote-callout
+- INTENT: L1-anchor parent quote ('He says 'I need to pee' AFTER it happens') — every L1 parent recognizes this
+- COMPONENT PICKED: SP-01 (Yellow Quote Block)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Yellow Quote Block (SP-01) is the L1 brand-yellow anchor-quote.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: Toddler on a pink potty-training ladder with multicolor accents, real Pre-K action.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 3: stacked-testimonial-stack
 - ROLE slot: stacked-testimonial-stack
 - INTENT: three short L1 testimonials stacked vertically
-- COMPONENT PICKED: STORY-01  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 5/8
-  - WHY: STORY-01 'Micro-Story' is a micro-testimonial pattern suitable for 3 stacked short L1 testimonials. Variance vs SP-02 (E4), LETTER-11 (E2).
-- IMAGE PICKED: none (text-only component)
-
-### Section 4: MECHANISM - pull-up-signal-reframe-diagram
-- ROLE slot: pull-up-signal-reframe-diagram
-- INTENT: visualizes the weakened L1 pull-up reframe + 49% stat
-- COMPONENT PICKED: PERS-05  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: M3 (Testimonial Card (Mobile))
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: PERS-05 'The Method Graveyard' is the catalog's pull-up-as-failed-method diagram — fits E6's pull-up signal gap reframe. Variance vs DEEP-16 (E2), DEEP-13 (E4).
-- IMAGE PICKED: none (text-only component)
+  - WHY: Testimonial Card (Mobile) (M3) reused from E2; mobile-first stacked testimonial pattern.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: Two toddlers from behind in disposable diapers in a real living room.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 5: CTA - product-pricing-stack (visual)
-- ROLE slot: product-pricing-stack (visual element, NOT a CTA)
-- INTENT: shows 3+3 Bundle as Pre-K readiness tool — 6 pairs, $79.99
-- COMPONENT PICKED: REV-08.4
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 3/8
-  - WHY: REV-08.4 was used in E4 — but for E6 it appears as visual pricing stack (not CTA). Re-using the component since the role is similar. Variance would be possible but this component is purpose-built.
-- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
-  - Alt text: Three pairs of training underwear laid flat, white with pink bunny hearts print, showing the 3+3 bundle.
-  - Current usage: 0/25
-  - WHY: Training pant flat lay, bunny hearts pink — variance from E2 (fox woodland white) and E3 (fox red/white). Pre-K readiness frame.
-
-### Section 6: PRIMARY CTA - cta-button-full-width
-- ROLE slot: cta-button-full-width
-- INTENT: pull-up reframe primary CTA
-- COMPONENT PICKED: CTA-5  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: CTA-5 'Social CTA' is a CTA-with-social-proof-tone — fits E6's testimonial-driven closing arc. Variance vs CTAMAX-01/04/06/09.
-- IMAGE PICKED: none (text-only component)
-
-### Section 7: GUARANTEE - guarantee-badge-callout
-- ROLE slot: guarantee-badge-callout
-- INTENT: standalone guarantee block — gives skeptical L1 reader the exit
-- COMPONENT PICKED: CTAMAX-05
-  - Catalog entry: position varies, audience=[L1,...]
+### Section 4: mechanism-stat-49-revisit
+- ROLE slot: mechanism-stat-49-revisit
+- INTENT: consolidates pull-up signal reframe + 49% stat reappearance into one stat block
+- COMPONENT PICKED: BM-08 (Pull-Up Signal Reframe + 49% Stat)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: CTAMAX-05 'Guarantee CTA' was used in E5 — but E6 also has the standalone guarantee moment. Re-using for consistency on the guarantee role.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Body-mechanism block (BM-08) consolidates pull-up reframe + 49% stat for E6's D14 deep-mechanism frame.
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: Unicorn-pink swim diaper flat-lay, signaling the pull-up category reframe.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Signoff: signoff-lena-long (With care, E6+)
-- ROLE slot: signoff-lena-long
-- INTENT: Lena LONG sign-off for E6+: 'With care,' (new tonal shift)
-- COMPONENT PICKED: UTIL-10  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 4/8
-  - WHY: UTIL-10 'Lena Signoff' is the only Lena signoff in the catalog. The visual variant (LONG vs SHORT) is determined in Stage 3/4.
-- IMAGE PICKED: none (text-only component)
+### Section 5: product-pricing-cta
+- ROLE slot: product-pricing-cta
+- INTENT: consolidates 3+3 bundle pricing + primary CTA into one product-showcase block
+- COMPONENT PICKED: PS-06 (Product Pricing + CTA (3+3 Bundle))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Product-showcase pricing + CTA (PS-06) consolidated per 8-cap; Pre-K readiness frame.
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: Cream-llama laundry bag flat-lay, the 'system' visual for Pre-K readiness.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 6: cta-button-pre-k-honest
+- ROLE slot: cta-button-pre-k-honest
+- INTENT: drives to PDP, Pre-K calendar honest urgency
+- COMPONENT PICKED: CTA-10 (Countdown Honest)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Countdown-honest CTA for E6's Pre-K-bridge frame, calendar-driven not manufactured urgency.
+- IMAGE PICKED: none (text-only section)
+
+### Section 7: guarantee-badge-callout-late
+- ROLE slot: guarantee-badge-callout-late
+- INTENT: standalone guarantee block, gives skeptical L1 reader pause
+- COMPONENT PICKED: GT-05 (Guarantee Badge Callout)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Guarantee-badge callout (GT-05) reused from E5; late-sequence trust reinforcement.
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: Wet-bag accessory with space/zebra/llama prints, tactile trust.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 8: signoff-lena-short
+- ROLE slot: signoff-lena-short
+- INTENT: Lena SHORT variant; 'With care,' closing (E6 transition)
+- COMPONENT PICKED: 12.1 (Lena Signoff)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Lena signoff transitions to 'With care,' closing at E6 (D14, late sequence).
+- IMAGE PICKED: none (text-only section)
+
+### Image count check
+- Total images in this email: 6/6 (target range 4-6).
+- Status: PASS
+- Total components: 8/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-19', '7', 'STORY-14', 'DEEP-15', 'REV-08.4', 'CTAMAX-08', 'CTAMAX-05', 'UTIL-10']
-- image-usage.json: incremented ['lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg']
+- component-usage.json: incremented [HERO-6] + 7 body components
+- image-usage.json: incremented hero, 5 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e6-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is over the 8-use cap
-> due to multi-session concurrent writes and the structural reality that `12.1` is the
-> only signoff-footer component matching the L1 `signoff-lena-short/long` role.
->
-> **Recommended Stage 3 substitution** (if the orchestrator enforces hard caps):
-> - For LONG signoff variant (E6, E7, E8 "With care,"): use `EMODEEP-18` ("The Letter From Lena")
->   from `emotional_support` position — a Letter-based component that adapts the longer
->   farewell format with more body copy room.
-> - For SHORT signoff variant (E1-E5 "Talk soon," / "With understanding,"): keep `12.1`
->   since no better catalog alternative exists for the SHORT Lena pattern.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3 to honor
-> the L1 voice consistency.

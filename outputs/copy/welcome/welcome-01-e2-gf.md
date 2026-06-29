@@ -574,139 +574,83 @@ END OF WIREFRAME — welcome-01-e2-gf
 
 ## STAGE 2 PICKS — welcome-01-e2-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E2).
-> Scope: 7 sections (hero circle / failed methods / definition /
-> reframe / expert quote / migration anchor / signoff).
-> GF calibration: R1–R6 strict, V16 symptom language only, 50/50
-> hope/realism; first migration anchor lands in this email per
-> GF-V3 rotation (L1-style profile).
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E2: **Anchor #1 (L1-style Sarah):** 'If your child is 5, verbal, and gets it but doesn't get it — read Sarah's story.'
 
-### Section 1: HOOK — UNIVERSAL REFRAME
-- ROLE slot: `hero-circle-diagram-gf`
-- INTENT: a circular hero illustration (180-240px) showing the
-  "missing signal" as a circle/diagram; opens with symptom mirror.
-- COMPONENT PICKED: **HERO-13** — Scientific Hook
-  - From catalog: position=hero, image_support=text_only (could be
-    filled with the circle diagram in Stage 3), audience=[L1,L2,L3,GF].
-    Currently used: 0/8.
-  - WHY: scientific-hook framing fits the mechanism opener with a
-    small accent row and editorial eyebrow; Stage 3 will render the
-    "circle/missing signal" diagram in the accent block using Mint
-    #DBFFCD palette.
-  - V16 NOTE: avoid the L1 sample copy ("Published in the Journal of
-    Autism & Developmental Disorders") — Stage 3 rewrite uses
-    "Published in pediatric interoception research" instead.
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-  - Dimensions: 1200×800.
-  - Alt text (V16 spec): "Child at potty ladder in real home, soft
-    natural light, ambiguous age."
-  - Currently used: 0/25.
-  - WHY: warm-tone ambiguous-age lifestyle photo, supportive of the
-    sub-group composite rule; pink-multicolor adds visual interest
-    without naming a group.
-- VARIANCE CHECK: differs from E1 (scientific framing vs lifestyle
-  full-bleed).
-- GF CALIBRATION CHECK: ✅ no level labels, V16-safe.
+### S1: Hook — Universal Reframe
+- ROLE slot: hero-circle-diagram-gf
+- INTENT: Why sticker charts fail — symptom-led hero, no labels.
+- COMPONENT PICKED: HERO-7  (Counter-Intuitive Truth [A*] (HERO, universal))
+  - Current usage: 1/8
+  - WHY: Counter-Intuitive Truth hero for the 'Why sticker charts fail' mechanism reveal — symptom-led, V16-clean.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: Child near a pink potty ladder, real home, age-ambiguous
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: FAILED METHODS RECOGNITION
-- ROLE slot: `failed-methods-grid-gf` (4 stacked "sticker" cards)
-- INTENT: shows the four named failed methods visually (sticker
-  charts, naked weekends, scheduled sits, treats); symptom-only.
-- COMPONENT PICKED: **PERS-04** — Dynamic Progress
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: 'Method Graveyard' framing is a structural match for
-    4 stacked "sticker card" failed-methods; tone is honest,
-    symptom-only, no level labels.
-  - V16 NOTE: Stage 3 will keep method names symptom-only
-    ("sticker charts," "scheduled sits") — no "Level 1-style
-    methods" framing.
-- IMAGE PICKED: none (text-only failed-methods cards).
-- VARIANCE CHECK: differs from S1 (narrative cards vs hero).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S2: Failed Methods Recognition
+- ROLE slot: failed-methods-grid-gf
+- INTENT: Four named failed methods (timer, reward, naked, body-signal), R2 anchors.
+- COMPONENT PICKED: OBJ-01  (Tried Everything Reframe [A] (MECHANISM & EDUCATION, GF-on-tone))
+  - Current usage: 1/8
+  - WHY: Tried Everything Reframe is the failed-methods recognition grid, R2 anchor for the 4 named methods.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: Potty-target stickers and chart, neutral flat-lay
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: MECHANISM DEEP — INTEROCEPTION REVEAL
-- ROLE slot: `mechanism-definition-block-gf`
-- INTENT: highlights the named mechanism — "interoception" — in a
-  definition card with soft-teal background (Stage 3 will paint
-  with Mint #DBFFCD instead of teal per GF brand).
-- COMPONENT PICKED: **EDU-1** — Definition Block
-  - From catalog: position=body_mechanism, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: definition-block is the textbook fit for naming a technical
-    concept ('interoception'); editorial tone matches GF register.
-- IMAGE PICKED: none (text + small SVG icon; defined in component).
-- VARIANCE CHECK: differs from S2 (definition vs failure list).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S3: Mechanism Deep — Interoception Reveal
+- ROLE slot: mechanism-definition-block-gf
+- INTENT: Interoception definition (eighth sensory system), mechanism-deep.
+- COMPONENT PICKED: EDU-1  (Definition Block [A*] (MECHANISM & EDUCATION, interoception fit))
+  - Current usage: 1/8
+  - WHY: Definition Block fits the interoception definition (eight-sensory-system) cleanly with cool-blue signal tone.
+- COMPONENT PICKED: 17.5  (Feel Points / For You Points [A] (MECHANISM & EDUCATION, recognition-anchors))
+  - Current usage: 1/8
+  - WHY: Feel Points / For You Points — R4 verbal/non-verbal dual-mode recognition block, 3-5 anchor carrier.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: Pink bunny-hearts training pant laid flat
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 4: REFRAME — DIFFUSION MOMENT
-- ROLE slot: `reframe-paragraph-gf`
-- INTENT: the "you can't reward a signal that isn't arriving"
-  diffusion moment as a single-paragraph lavender card.
-- COMPONENT PICKED: **STORY-09** — The Reframe (Challenge → New
-  Perspective)
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: structurally built for a "challenge → new perspective" beat,
-    exactly the diffusion moment the wireframe specifies.
-- IMAGE PICKED: none (text-only reframe card).
-- VARIANCE CHECK: differs from S3 (reframe single-p vs definition).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S4: Reframe — Diffusion Moment
+- ROLE slot: reframe-paragraph-gf
+- INTENT: You can't reward a signal that isn't there.
+- COMPONENT PICKED: 9.1  (Expert Quote Card [A] (RECOGNITION & STORY, soft authority))
+  - Current usage: 1/8
+  - WHY: Expert Quote Card — soft-authority quote ('method assumes a signal that wasn't there') bridges the reframe.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in a living room with soft yellow dino play, age-ambiguous
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 5: PERMISSION-NOT-TO-BRIDGE
-- ROLE slot: `expert-quote-floating-card-gf`
-- INTENT: a soft authority quote ("the method didn't fail; the frame
-  did") that bridges the reader toward permission to disengage.
-- COMPONENT PICKED: **DEEP-21** — The Expert Whisper
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: speech-bubble with subtle tail + small avatar circle is a
-    precise structural fit for the floating card the wireframe
-    describes; Stage 3 swaps accent color from teal to lavender.
-  - V16 NOTE: the showcase attribution ("15 years working with
-    autistic children") MUST be rewritten in Stage 3 to V16-safe
-    ("15 years working with kids whose bodies process signals
-    differently") to satisfy GF Sub-Group B.
-- IMAGE PICKED: none (text + small SVG avatar circle).
-- VARIANCE CHECK: differs from S4 (floating card vs reframe paragraph).
-- GF CALIBRATION CHECK: ✅ after Stage 3 attribution rewrite.
+### S5: Permission-Not-To-Bridge
+- ROLE slot: expert-quote-floating-card-gf
+- INTENT: Soft-authority quote, permission-not-to-buy frame.
+- COMPONENT PICKED: EMO-6  (Parent Quote [A*] (EMOTIONAL SUPPORT, peer-voice))
+  - Current usage: 1/8
+  - WHY: Parent Quote — peer-voice for permission-not-to-bridge, R3/R6 friendly.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: Toddler from behind, mustard cat-graphic shirt, soft home light
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 6: MIGRATION ANCHOR #1 (L1-STYLE) — GF-V3 ROTATION
-- ROLE slot: `migration-anchor-link-gf` (subtle, no button)
-- INTENT: the FIRST of three GF Welcome migration anchors per GF-V3
-  rotation — L1-style symptom profile ("sits 20 minutes, nothing
-  happens"), rendered as a warm-underlined text link.
-- COMPONENT PICKED: **CTA-2** — Soft Link
-  - From catalog: position=cta, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: soft-link is the lowest-aggression CTA container — fits
-    the wireframe's "subtle, no button" intent for migration anchors.
-  - V16 NOTE: anchor text must be symptom-only — "If your child is 5,
-    verbal, and 'gets it but doesn't get it' — read Sarah's story."
-    The "Sarah" name is the migration profile name, NOT a level label.
-- IMAGE PICKED: none (text-link only).
-- VARIANCE CHECK: differs from S5 (text link vs card).
-- GF CALIBRATION CHECK: ✅ symptom profile anchor.
+### S6: Migration Anchor #1 (L1-style)
+- ROLE slot: migration-anchor-link-gf
+- INTENT: L1-style symptom profile, subtle text-link (not a button).
+- COMPONENT PICKED: EMODEEP-03  (The Permission Letter [G+] (EMOTIONAL SUPPORT, Giuliano-derived))
+  - Current usage: 2/8
+  - WHY: The Permission Letter — Giuliano-derived permission-not-to-buy frame for the migration anchor section.
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Section 7: LENA SIGN-OFF (SHORT) + P.S.
-- ROLE slot: `signoff-lena-short-gf`
-- INTENT: Lena SHORT variant (E1-E2 macro) + P.S. double frame.
-- COMPONENT PICKED: **12.1** — Lena Signoff (uses Signoff)
-  - From catalog: position=signoff_footer, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: brand-authoritative Lena signoff shell — fits GF SHORT
-    variant, peer-voice tone, "Talk soon," close.
-- IMAGE PICKED: none (text-only signoff).
-- VARIANCE CHECK: differs from S6 (signoff vs link).
-- GF CALIBRATION CHECK: ✅ Lena voice is universal peer, no level.
+### S7: Lena Sign-off (SHORT) + P.S.
+- ROLE slot: signoff-lena-short-gf
+- INTENT: Lena SHORT, 'Talk soon,' — peer voice.
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted Giuliano.
-- Footer: extracted Giuliano.
-- Sign-off: covered by Section 7 component (12.1).
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
 
-### Tracker updates applied
-- component-usage.json: HERO-13 +1, DEEP-15 +1, EDU-1 +1, STORY-09 +1,
-  DEEP-21 +1, CTA-2 +1, 12.1 +1 (each now 1/8).
-- image-usage.json: lifestyle/toddler-potty-ladder-pink-multicolor.png +1
-  (now 1/25).
+### Tracker updates
+- component-usage.json: incremented HERO-7, OBJ-01, EDU-1, 17.5, 9.1, EMO-6, EMODEEP-03
+- image-usage.json: incremented lifestyle/toddler-potty-ladder-pink-multicolor.png, accessories/potty-targets-stickers-chart.png, flat-lay/training-pant-bunny-hearts-pink.jpg, lifestyle/toddler-livingroom-dino-yellow.png, lifestyle/toddler-rearview-cat-mustard.png

@@ -882,121 +882,89 @@ END OF WIREFRAME — winback-b-24-e3-l1
 
 ## STAGE 2 PICKS — winback-b-24-e3-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** winback-b | **Position:** E6 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e3-l1
+- COMPONENT PICKED: CTADEEP-01 (The Value Stack *(L11516)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e3-l1, level=l1, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — Directness + Last-Email Declaration
-
-- ROLE slot: `hook-directness-last-email-declaration`
-
-- INTENT: hook block — HOOK — Directness + Last-Email Declaration
-
-- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
-
-  - Currently used: 28/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: 5 (60-Day Calm Promise *(L127)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: L1 3 section 1 visual — calibrated per level (l1)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — You Didn't Fail
-
-- ROLE slot: `validation-you-didn-t-fail`
-
-- INTENT: validation block — VALIDATION — You Didn't Fail
-
-- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: validation-prose-warm-cream-no-fail
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORY-02 (Vertical Timeline — Chronological milestones *(L43)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: L1 3 section 2 visual — calibrated per level (l1)
+  - Current usage: 25/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — Signal-Timing Gap (Nicholson 2019)
-
-- ROLE slot: `mechanism-signal-timing-gap-nicholson-2019`
-
-- INTENT: mechanism block — MECHANISM — Signal-Timing Gap (Nicholson 2019)
-
-- COMPONENT PICKED: **EMO-12** — Hope Gradient
-
-  - Currently used: 44/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: mechanism-mint-callout-with-nicholson-citation
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EDUDEEP-4 (The Interoception Test *(L10745)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 6/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: L1 3 section 3 visual — calibrated per level (l1)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: OFFER — 3+3 Bundle Still Here
-
-- ROLE slot: `offer-3-3-bundle-still-here`
-
-- INTENT: offer block — OFFER — 3+3 Bundle Still Here
-
-- COMPONENT PICKED: **18.1** — Hi-Fi Gradient Hero + Discount Block
-
-  - Currently used: 44/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pricing-box-warm-cream-with-rotation-story
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: EDUDEEP-6 (The Developmental Timeline *(L10805)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: L1 3 section 4 visual — calibrated per level (l1)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PERMISSION-NOT-TO-BUY + LAST EMAIL DECLARATION
-
-- ROLE slot: `permission-not-to-buy-last-email-declaration`
-
-- INTENT: cta block — PERMISSION-NOT-TO-BUY + LAST EMAIL DECLARATION
-
-- COMPONENT PICKED: **CTA-8** — Dual CTA
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: permission-prose-warm-cream-with-last-email-anchor
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: REV-07.2 (REV-07.2 — Permission Statement (Solve-This Closer)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: L1 3 section 5 visual — calibrated per level (l1)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
+- ROLE slot: lena-signoff-long-with-two-sons-mirror-and-reply-ps
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 7/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
-- ROLE slot: `lena-sign-off-long-variant-reply-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
+### Tracker updates
+- component-usage.json: incremented ['CTADEEP-01', '5', 'STORY-02', 'EDUDEEP-4', 'EDUDEEP-6', 'REV-07.2', 'UTIL-09']
+- image-usage.json: incremented ['flat-lay/diaper-woodland-creature-yellow.jpg', 'lifestyle/founders-holding-pants-yellow-watermelon.png', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/toddlers-backview-disposable-diapers.png', 'flat-lay/training-pant-fox-red-white.jpg']
 
-- COMPONENT PICKED: **REV-03.2** — REV-03.2 — Logic Block (Worst-Case Reassurance)
-
-  - Currently used: 44/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6

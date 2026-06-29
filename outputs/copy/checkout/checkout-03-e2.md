@@ -793,128 +793,89 @@ END OF WIREFRAME — checkout-03-e2
 
 ## STAGE 2 PICKS — checkout-03-e2
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** checkout | **Position:** E2 | **Level:** GF
-
-
-### Section 1: HOOK — 5-DIMENSION WHETHER/OR/IF BRIDGE
-
-- ROLE slot: `hook-5-dimension-whether-or-if-bridge`
-
-- INTENT: hook block — HOOK — 5-DIMENSION WHETHER/OR/IF BRIDGE
-
-- COMPONENT PICKED: **HERO-11** — Question Storm
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: OBJECTION NAMING — HOPE-FEAR CYCLE
-
-- ROLE slot: `objection-naming-hope-fear-cycle`
-
-- INTENT: faq block — OBJECTION NAMING — HOPE-FEAR CYCLE
-
-- COMPONENT PICKED: **DEEP-08** — Permission Paradox
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: SOCIAL PROOF — THREE-FAMILY HOPE-FEAR PATTERN
-
-- ROLE slot: `social-proof-three-family-hope-fear-pattern`
-
-- INTENT: social_proof block — SOCIAL PROOF — THREE-FAMILY HOPE-FEAR PATTERN
-
-- COMPONENT PICKED: **STORY-11** — Contrast Cards
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: MECHANISM — EXTENDED SIGNAL-TIMING EXPLANATION
-
-- ROLE slot: `mechanism-extended-signal-timing-explanation`
-
-- INTENT: mechanism block — MECHANISM — EXTENDED SIGNAL-TIMING EXPLANATION
-
-- COMPONENT PICKED: **DEEP-21** — Three-Layer Story
-
-  - Currently used: 11/8 (over cap post-substitution; was DEEP-14 Sensory Map which is L2-only, not appropriate for GF mechanism)
-  - WHY: by-name position+audience match. DEEP-21 is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF signal-timing-explanation.
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: TIMELINE FLEXIBILITY + MINI-WIN LADDER
-
-- ROLE slot: `timeline-flexibility-mini-win-ladder`
-
-- INTENT: progress block — TIMELINE FLEXIBILITY + MINI-WIN LADDER
-
-- COMPONENT PICKED: **STORY-12** — Milestone Tracker
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: GUARANTEE + PERMISSION CTA (SOFT)
-
-- ROLE slot: `guarantee-permission-cta-soft`
-
-- INTENT: guarantee block — GUARANTEE + PERMISSION CTA (SOFT)
-
-- COMPONENT PICKED: **TRUST-7** — Trust Block
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6
+NOTE: This wireframe has 0 image density by INTENT (prose-led). The corrected plan's 4-6 image hard minimum forces image picks. I'll add minimum 4 supporting images that don't break the prose-led structure.
+
+### Section 1: inclusive-bridge-headline-gf (HERO + opener)
+- ROLE slot: inclusive-bridge-headline-gf
+- INTENT: "You're allowed to be skeptical" — validation hook opener.
+- COMPONENT PICKED: 2.2 (Warm Hero)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=emotional, temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: "Warm Hero" matches the warm/cooler-warm tone of E2 (cooler-warm from E1's neutral-warm). text_only — preserves prose-led intent. Fresh (was at 0).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 14/25
+  - WHY: Founders photo as supporting opener visual.
+
+### Section 2: objection-callout-quote-gf
+- ROLE slot: objection-callout-quote-gf
+- INTENT: "Hope-fear cycle" quote honoring skepticism.
+- COMPONENT PICKED: EMO-4 (Empathy Block)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=emotional, image_support=image_text, temperature=warm
+  - Current usage: 3/8
+  - WHY: "Empathy Block" naturally fits the objection-honoring framing. Different from cart/browse/checkout-e1 picks.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text (GF, V16): "Toddler viewed from behind in mustard yellow shorts, soft warm light, full backview."
+  - Current usage: 4/25
+  - WHY: Generic toddler-rearview for the empathy section.
+
+### Section 3: three-family-testimonial-stack-gf
+- ROLE slot: three-family-testimonial-stack-gf
+- INTENT: three testimonial quotes (hope-fear cycle perspective, different from E1).
+- COMPONENT PICKED: SP-13 (Review of the Week)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_only, temperature=neutral
+  - Current usage: 8/8 (AT CAP)
+  - WHY: SP-13 was at 5 after browse-04-e2, now 6 then 7 then 8. Already at cap, but the showcase exception applies per Ayoub's brief. SKIP — must pick different component.
+- COMPONENT ACTUALLY PICKED: VSOCIAL-5 (Star Rating Hero)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 2/8
+  - WHY: Already used in browse-04-e2 but showcase exception. Different from E1's SP-06.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
+  - Current usage: 6/25
+  - WHY: Backview dual-toddler for the three-family testimonials.
+
+### Section 4: mechanism-extended-callout-gf
+- ROLE slot: mechanism-extended-callout-gf
+- INTENT: full mechanism explained (extended vs E1's tease).
+- COMPONENT PICKED: PSYCH-04 (Commitment Escalation)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], messaging=psychology, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Commitment Escalation" body_mechanism component — the extended mechanism explanation escalates understanding through layers. Different from cart/browse picks.
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text (GF, V16): "BrightKidCo disposable diaper with woodland-creature pattern in soft yellow, flat-lay product shot."
+  - Current usage: 5/25
+  - WHY: Disposable diaper visual for the "pull-ups reframe" mechanism extension.
+
+### Section 5: timeline-flexibility-strip-gf
+- ROLE slot: timeline-flexibility-strip-gf
+- INTENT: timeline flexibility (R5) — "Some kids 2 weeks. Others 8 weeks. Some months."
+- COMPONENT PICKED: EMO-5 (Realistic Timeline)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=story, image_support=text_only, temperature=warm
+  - Current usage: 4/8
+  - WHY: "Realistic Timeline" is built exactly for this R5 flexibility strip. Already used in browse-04-e2.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text (GF, V16): "Toddler napping on a soft cream blanket wearing watermelon-patterned pink shorts."
+  - Current usage: 13/25
+  - WHY: "Body signals at rest" visualizes the timeline variability (rest is part of the journey).
+
+### Section 6: guarantee-badge-conversion-gf
+- ROLE slot: guarantee-badge-conversion-gf
+- INTENT: 60-day guarantee badge, primary conversion lever.
+- COMPONENT PICKED: TRUST-2 (Guarantee Detail Cards)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=product, image_support=image_only, temperature=neutral
+  - Current usage: 3/8
+  - WHY: Guarantee Detail Cards renders the conversion-focused 60-day guarantee. Already used in cart-02-e1.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text (GF, V16): "Potty training targets stickers and progress chart accessory laid flat, warm cream background."
+  - Current usage: 6/25
+  - WHY: Potty-targets accessory for the guarantee section.
+
+### Image count check
+- Total images in this email: 6/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 6/8 (within range)
+
+### Tracker updates
+- component-usage.json: incremented ["2.2", EMO-4, VSOCIAL-5, PSYCH-04, EMO-5, TRUST-2]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-rearview-cat-mustard.png, lifestyle/toddlers-backview-disposable-diapers.png, flat-lay/diaper-woodland-creature-yellow.jpg, lifestyle/toddler-napping-watermelon-pink-shorts.png, accessories/potty-targets-stickers-chart.png]

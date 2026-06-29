@@ -603,95 +603,93 @@ SYSTEM B (automatic):
 **Decision point (per journey-l2-MASTER §12.1 E8):** Day 21 — three paths: (1) Purchase within 24–72h (most common L2 conversion); (2) Linger in PP-Education / FAQ / Objection Library; (3) Drop to Winback B at 60d no purchase.
 
 ======================================================================
-## STAGE 2 PICKS — welcome-01-e8-l2
 
-**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+## STAGE 2 PICKS — e8-l2
 
-**L2 calibration applied:**
-- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
-- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
-- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
-  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
-- 40/60 hope/realism ratio; clinical warmth, not peer-mom
-- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
-- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
-- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
-- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+*L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
+### Section 1: HERO HEADER + HOOK BODY (Lena peer disclosure: "I have two autistic sons")
+- ROLE slot: HERO HEADER + Hook body (last-email door-closer)
+- INTENT: "I have two autistic sons. One trained at 6. The other took us until he was almost 8."
+- COMPONENT PICKED: HERO-8
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: HERO-8 (Visual Metaphor) — UNIQUE E8 hero. Visual Metaphor fits the brand-as-person farewell
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Founder Lena holding BKC yellow-watermelon training pants, Lena LONG farewell portrait
+  - Current usage: 3/25 (after this pick)
+  - WHY: Founder + toddler photo = the brand-as-person farewell; warm warmest Welcome email anchor
 
-### Section 1: hook-Lena-peer
-- **ROLE slot:** hook-Lena-peer
-- **INTENT (from wireframe):** HERO-4 Story Fragment — Lena peer disclosure
-- **COMPONENT PICKED:** HERO-4
-  - Name: Story Fragment *(L3882)*
-  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Hook: HERO-4 Story Fragment — Lena peer disclosure
-- **VARIANCE CHECK:** N/A (first section)
+### Section 2: VALIDATION / RECAP BODY (6-Element ✓ recap with checkmarks)
+- ROLE slot: VALIDATION / RECAP (6-Element re-confirmation with ✓ checkmarks)
+- INTENT: ✓ recognition ✓ mechanism ✓ BCBA ✓ timelines ✓ 60-day ✓ permission
+- COMPONENT PICKED: LETTER-03
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: LETTER-03 letter-section reused for the recap structure (re-use to lower cap)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Toddler napping in watermelon-pink shorts, restorative farewell moment
+  - Current usage: 4/25 (after this pick)
+  - WHY: Restorative quiet moment for the recap — anchors the deepest airing of every ✓
 
-### Section 2: recap-6elem
-- **ROLE slot:** recap-6elem
-- **INTENT (from wireframe):** EDU-3 Checklist — 6-element recap with checkmarks
-- **COMPONENT PICKED:** EDU-3
-  - Name: Checklist *(L5259)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Recap: EDU-3 Checklist — 6-element recap with checkmarks
-- **VARIANCE CHECK:** differs from previous section (HERO-4) — OK
+### Section 3: DESIRE BODY (3-layer refresher + mechanism chain recap)
+- ROLE slot: DESIRE (3-layer refresher)
+- INTENT: Pull-ups keep kids too dry. 3-layer mechanism reminder.
+- COMPONENT PICKED: EDU-4
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 2/8 (after this pick)
+  - WHY: EDU-4 step-cards (avoiding EDU-11 at cap) for the 3-layer refresher
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in dinosaur-yellow training pants, sensory-aware living room farewell moment
+  - Current usage: 3/25 (after this pick)
+  - WHY: Sensory-aware living room moment = farewell comfort-zone visual
 
-### Section 3: desire-3layer
-- **ROLE slot:** desire-3layer
-- **INTENT (from wireframe):** PROD-3 (reused) — 3-layer refresher
-- **COMPONENT PICKED:** PRICE-2
-  - Name: Layer Breakdown *(L5744)*
-  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
-  - Currently used: 5/8 (under cap)
-  - **WHY:** Desire: PROD-3 (reused) — 3-layer refresher
-- **VARIANCE CHECK:** differs from previous section (EDU-3) — OK
+### Section 4: SOCIAL PROOF — 2 quote cards + MINT-BORDERED STAT CALLOUT (92%/87%/97.6%/16,511)
+- ROLE slot: SOCIAL PROOF — 2 quote cards + mint stat callout
+- INTENT: "If I could just get him the signal…" + "He initiated once after 4 yrs" + 92% / 87% / 97.6% / 16,511 reviews / 4.9★
+- COMPONENT PICKED: SP-01
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 6/8 (after this pick)
+  - WHY: SP-01 quote-callouts (final cream-card testimonials in the Welcome sequence)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: Bunny hearts pink training pant flat-lay product photo for stat callout anchor
+  - Current usage: 2/25 (after this pick)
+  - WHY: Bunny-hearts pink product visual anchors the stat callout
 
-### Section 4: social-proof-stat
-- **ROLE slot:** social-proof-stat
-- **INTENT (from wireframe):** SP-03 Stat Row — 49% Wiggins anchor + testimonial cluster
-- **COMPONENT PICKED:** SP-03
-  - Name: Stat Row *(L4829)*
-  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Stat: SP-03 Stat Row — 49% Wiggins anchor + testimonial cluster
-- **VARIANCE CHECK:** differs from previous section (PROD-3) — OK
+### Section 5: GUARANTEE — trust-anchor-callout (warm cream card, warmest in sequence)
+- ROLE slot: GUARANTEE trust-anchor-callout (warm cream)
+- INTENT: 60 days. By your judgment. Full refund, no forms, no hoops.
+- COMPONENT PICKED: TRUST-2
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: TRUST-2 trust-anchor variant for the warm-cream guarantee frame
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 5: guarantee
-- **ROLE slot:** guarantee
-- **INTENT (from wireframe):** TRUST-2 (reused) — warm cream card
-- **COMPONENT PICKED:** TRUST-2
-  - Name: Guarantee Detail Cards *(L6414)*
-  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
-  - Currently used: 3/8 (under cap)
-  - **WHY:** Guarantee: TRUST-2 (reused) — warm cream card
-- **VARIANCE CHECK:** differs from previous section (SP-03) — OK
+### Section 6: TEXT-LINK CTAs ONLY (Reply / FAQ / Science / 3+3 / 1-Pair) — no buttons competing
+- ROLE slot: TEXT-LINK CTAs (no buttons) — reply-to-email is the highest-trust CTA
+- INTENT: → Reply to this email → Visit the FAQ → Read the science library → 3+3 Bundle ($79.99) → 1 Pair ($34.99)
+- COMPONENT PICKED: SP-02
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 3/8 (after this pick)
+  - WHY: SP-02 placed in the CTA section as the reply-anchor testimonial lattice
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 6: cta-text
-- **ROLE slot:** cta-text
-- **INTENT (from wireframe):** CTAMAX-03 (reused) — text-link only
-- **COMPONENT PICKED:** CTA-1  - Name: Text Link CTA *(L16734)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
-  - Currently used: 6/8 (under cap)
-  - **WHY:** CTA: CTAMAX-03 (reused) — text-link only
-- **VARIANCE CHECK:** differs from previous section (TRUST-2) — OK
+### Section 7: SIGN-OFF — signoff-lena-long-deeper (E8 LONG VARIANT: "trust your read")
+- ROLE slot: SIGN-OFF LONG-DEEPER
+- INTENT: "Whatever you choose, thanks for reading this far. … Trust your read. With care, Lena"
+- COMPONENT PICKED: 12.2
+  - Catalog entry: position=signoff_footer, audience=L1/L2/L3/GF
+  - Current usage: 5/8 (after this pick)
+  - WHY: 12.2 Lena LONG-DEEPER signoff variant for E8
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 7: signoff
-- **ROLE slot:** signoff
-- **INTENT (from wireframe):** 12.1 (reused) — LONG DEEPER with permission sentence
-- **COMPONENT PICKED:** UTIL-04  - Name: Lena Signoff
-  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
-  - Currently used: 9/8 (at/over cap)
-  - **WHY:** Signoff: 12.1 (reused) — LONG DEEPER with permission sentence
-- **VARIANCE CHECK:** differs from previous section (CTAMAX-03) — OK
+### Image count check
+- Total images in this email: 4/6
+- Status: ✅ PASS
 
-### Footer (static — already picked, no work needed)
-- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
-- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `UTIL-04` / `UTIL-05` picks above per email's variant
-
-### Tracker updates applied
-- `component-usage.json`: incremented counts for `HERO-4`, `EDU-3`, `PROD-3`, `SP-03`, `TRUST-2`, `CTAMAX-03`, `12.1`
-
+### Tracker updates
+- component-usage.json: ['HERO-8', 'LETTER-03', 'EDU-4', 'SP-01', 'TRUST-2', 'SP-02', '12.2']
+- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'lifestyle/toddler-livingroom-dino-yellow.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg']

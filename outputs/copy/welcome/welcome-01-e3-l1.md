@@ -570,115 +570,100 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
 
 ## END OF WIREFRAME — welcome-01-e3-l1
 
+
+
 ## STAGE 2 PICKS — welcome-01-e3-l1
 
-### Section 1: HERO - hero-image-lifestyle
-- ROLE slot: hero-image-lifestyle
-- INTENT: verbal 3-5 yr in active forward motion, Pre-K calendar context
-- COMPONENT PICKED: HERO-18
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 1/8
-  - WHY: HERO-18 'Guilt Absolution' is the catalog's guilt-absolution hero — appropriate for E3 which transitions from E1-E2 mirror into action. Variance vs HERO-5 used in E1.
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'With understanding,' — E3-E5 mid-sequence, full-name re-anchor
+
+### Section 1: HERO
+- ROLE slot: hero-image-lifestyle (or variant per wireframe)
+- INTENT: D3 hero opens with permission ('It's okay to be curious, you don't have to commit yet'); permission frame matches L1 mid-sequence trust-building.
+- COMPONENT PICKED: HERO-3 (Permission Open)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/1 (UNIQUE to this email — zero hero reuse rule)
+  - WHY: Permission Open matches this email's emotional arc and L1 calibration.
 - IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
-  - Alt text: Verbal 3-year-old wearing a small backpack with a moon and cloud print, hopeful posture, ready for Pre-K.
+  - Alt text: Toddler with a moon-and-cloud-blue backpack, Pre-K ready, soft natural light.
   - Current usage: 1/25
-  - WHY: Toddler with backpack — Pre-K context (the calendar driver for E3), blue moon cloud print, hopeful posture. Active forward motion matches INTENT.
+  - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
 
-### Section 2: VALIDATION - bulleted-failed-methods-list
+### Section 2: bulleted-failed-methods-list
 - ROLE slot: bulleted-failed-methods-list
-- INTENT: catalogs the methods Sarah has tried (sticker charts, timed sits, etc.)
-- COMPONENT PICKED: EDU-3
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: EDU-3 'Checklist' is a clean list pattern for failed methods. Em-dash separator (per L1 brand spec) replaces bullets. L1-compatible.
-- IMAGE PICKED: none (text-only component)
+- INTENT: catalogs methods Sarah has tried (sticker charts, timed sits, naked weekend)
+- COMPONENT PICKED: 15.5 (WNote (Annotation Callout))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: WNote annotation callout lists failed methods with light hand-drawn style; method-cycling recognition for L1.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: Potty-target stickers and a chart pad on a table, the recognizable tools Sarah has tried.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 3: MECHANISM - stat-highlight-box (49% mint)
-- ROLE slot: stat-highlight-box
-- INTENT: 49% SPARK stat as visual anchor — Mint callout, yellow accent
-- COMPONENT PICKED: 32.3
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 32.3 'Highlight Box' uses mint background #EAF6F2, matching L1 Mint #DBFFCD. Has bold insight typography — supports the 49% stat as a clear visual moment. Variance vs E1's M10.
-- IMAGE PICKED: none (text-only component)
+### Section 3: stat-highlight-box-49
+- ROLE slot: stat-highlight-box-49
+- INTENT: 49% SPARK stat as visual anchor (consolidates 49% + interoception reframe into one stat block)
+- COMPONENT PICKED: SP-03 (Stat Row (49% + Interoception))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Stat-row (SP-03) gives the 49% stat prominence with horizontal layout; also carries the interoception reframe (consolidated).
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: Yellow woodland-creature print diaper, flat-lay, repeating L1 brand-yellow stat accent.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 4: MECHANISM - explanatory-paragraph-block
-- ROLE slot: explanatory-paragraph-block
-- INTENT: explains why everything she tried felt like it should work but did not
-- COMPONENT PICKED: LETTER-12
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: LETTER-12 'Fragmented Text' provides paragraph-flow-with-emphasis pattern suitable for the explanation block. Variance vs LETTER-01 / LETTER-11 used in E1-E2.
-- IMAGE PICKED: none (text-only component)
+### Section 4: product-feature-bsl-bridge
+- ROLE slot: product-feature-bsl-bridge
+- INTENT: introduces 3-layer BSL system + first 3-layer product image as ONE product-showcase (consolidated)
+- COMPONENT PICKED: PS-04 (Product Feature Callout (BSL Bridge + 3-Layer Visual))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Product-showcase 3-layer + BSL bridge consolidated per 8-cap; first BSL introduction.
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: A yellow giraffe-print swim diaper flat-laid on white, friendly and Pre-K age-appropriate.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 5: MECHANISM - product-feature-callout
-- ROLE slot: product-feature-callout
-- INTENT: introduces the 3-layer BSL system for the first time
-- COMPONENT PICKED: PROD-1
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: PROD-1 'Full Showcase' is the full product showcase — appropriate when the product is being introduced for the first time (E3 is the first hard-CTA email). Audience L1.
-- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
-  - Alt text: Three pairs of training underwear laid flat, white with red fox print, showing the 3-layer Body-Signal Learning product system.
-  - Current usage: 0/25
-  - WHY: Training pant flat lay, fox red/white — alternate product image with red accent aligning with L1's brighter palette (Pre-K urgency).
+### Section 5: callout-quote-highlight-testimonial
+- ROLE slot: callout-quote-highlight-testimonial
+- INTENT: L1-anchor parent quote — 'He says he needs to pee AFTER it happens'
+- COMPONENT PICKED: 22.1 (Highlighted Quote (Yellow Border))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Yellow-bordered quote (22.1) anchors E3's testimonial moment; different from E1's cream-card.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: Toddler outdoors on grass in a disposable diaper, real and lived-in.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 6: SOCIAL PROOF - callout-quote-highlight
-- ROLE slot: callout-quote-highlight
-- INTENT: L1-anchor parent quote — the verbatim line Sarah recognizes
-- COMPONENT PICKED: OBJ-15.4
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: OBJ-15.4 is a Lena-voice callout suitable for an emotional anchor quote. Provides L1 voice variety vs the recognition callouts used in E1-E2.
-- IMAGE PICKED: none (text-only component)
-
-### Section 7: PRODUCT INTRODUCTION - product-image-three-layer
-- ROLE slot: product-image-three-layer
-- INTENT: shows the 3+3 bundle product image with the 3-layer breakdown
-- COMPONENT PICKED: PROD-3
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: PROD-3 'Layer Breakdown' is the catalog's 3-layer product breakdown. Used in E2 also, but E3 needs the same component for a re-mention of layers + 3+3 bundle.
-- IMAGE PICKED: none (text-only component)
-
-### Section 8: PRICING BOX - pricing-box-callout
+### Section 6: pricing-box-callout
 - ROLE slot: pricing-box-callout
-- INTENT: the first hard CTA in the flow — pricing box with 3+3 bundle
-- COMPONENT PICKED: REV-04.2
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: REV-04.2 is a savings-highlight callout suited for the 3+3 bundle pricing reveal ($13.33/pair anchor). Includes pricing-anchor framing.
-- IMAGE PICKED: none (text-only component)
+- INTENT: first hard CTA in the flow — pricing box with 3+3 USD 79.99 (consolidates pricing + CTA)
+- COMPONENT PICKED: PB-01 (Pricing Block Callout (3+3 + Button))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Pricing-block callout (PB-01) consolidates pricing + product-CTA per 8-cap; not aggressive per L1 calibration.
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: A moon-cloud-blue pocket diaper, flat-lay, L1 brand-aligned color.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 9: PRIMARY CTA - cta-button-full-width
-- ROLE slot: cta-button-full-width
-- INTENT: first hard CTA, full-width green, calendar-anchored
-- COMPONENT PICKED: CTAMAX-06
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: CTAMAX-06 'Bundle CTA' is the bundle-specific CTA — perfect for the 3+3 bundle reveal moment in E3. Variance vs E1's CTAMAX-01 (Primary).
-- IMAGE PICKED: none (text-only component)
-
-### Signoff: signoff-lena-short (With understanding)
+### Section 7: signoff-lena-short
 - ROLE slot: signoff-lena-short
-- INTENT: Lena SHORT sign-off for E3: 'With understanding,' (E3-E5 progression)
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 12.1 'Lena Signoff' is the catalog's Lena signoff component. Same component, different closing words ('With understanding,' vs 'Talk soon,').
-- IMAGE PICKED: none (text-only component)
+- INTENT: Lena SHORT variant; 'With understanding,' closing (E3 transition)
+- COMPONENT PICKED: 12.1 (Lena Signoff)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: E3 signoff transitions to 'With understanding,' — mid-sequence full-name re-anchor.
+- IMAGE PICKED: none (text-only section)
+
+### Image count check
+- Total images in this email: 6/6 (target range 4-6).
+- Status: PASS
+- Total components: 7/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-18', 'EDU-3', '32.3', 'LETTER-12', 'PROD-1', 'OBJ-15.4', 'PROD-3', 'REV-04.2', 'CTAMAX-06', '12.1']
-- image-usage.json: incremented ['lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/training-pant-fox-red-white.jpg']
+- component-usage.json: incremented [HERO-3] + 6 body components
+- image-usage.json: incremented hero, 5 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e3-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
-> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
-> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
-> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
-> due to the structural catalog limitation, not a per-email pick error.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
->

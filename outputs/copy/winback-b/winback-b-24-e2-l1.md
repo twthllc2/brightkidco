@@ -698,107 +698,69 @@ END OF WIREFRAME — winback-b-24-e2-l1
 
 ## STAGE 2 PICKS — winback-b-24-e2-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 5 body sections.
-
-> **Flow:** winback-b | **Position:** E5 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e2-l1
+- COMPONENT PICKED: CSHOP-19 (Gift Bundle *(L25566)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e2-l1, level=l1, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — New Angle + 49-Study Citation
-
-- ROLE slot: `hook-new-angle-49-study-citation`
-
-- INTENT: hook block — HOOK — New Angle + 49-Study Citation
-
-- COMPONENT PICKED: **2** — The Reframe Moment
-
-  - Currently used: 27/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 2: VALIDATION + MECHANISM DEPTH — The Hope-Fear
-             Roadblock
-
-- ROLE slot: `validation-mechanism-depth-the-hope-fear-roadblock`
-
-- INTENT: validation block — VALIDATION + MECHANISM DEPTH — The Hope-Fear
-             Roadblock
-
-- COMPONENT PICKED: **PERS-01** — Level Greeting
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: 3 (Micro-Win Celebration *(L82)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: L1 2 section 1 visual — calibrated per level (l1)
+  - Current usage: 18/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: UPDATED OFFER — Low-Barrier Entry
-
-- ROLE slot: `updated-offer-low-barrier-entry`
-
-- INTENT: offer block — UPDATED OFFER — Low-Barrier Entry
-
-- COMPONENT PICKED: **EMO-1** — Permission Slip
-
-  - Currently used: 5/8 (under cap; was EMO-6 Parent Quote L2-only)
-  - WHY: by-name position+audience match. EMO-1 Permission Slip is an emotional_support component with full-audience tag, appropriate for L1 updated-offer-low-barrier-entry.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: low-bar-pricing-mint-with-bundle-upsell
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: PRODEEP-3 (The Size Finder *(L10437)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: L1 2 section 3 visual — calibrated per level (l1)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: GUARANTEE — Reinforced for Hope-Fear
-
-- ROLE slot: `guarantee-reinforced-for-hope-fear`
-
-- INTENT: guarantee block — GUARANTEE — Reinforced for Hope-Fear
-
-- COMPONENT PICKED: **HERO-2** — Data Shock
-
-  - Currently used: 43/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: guarantee-line-centered-muted
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: TRUSTDEEP-1 (The Evidence Cascade *(L10930)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L1 2 section 4 visual — calibrated per level (l1)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps-link
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: 33.2 (Progress Arrow SVG *(L2786)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 8/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L1 2 section 5 visual — calibrated per level (l1)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 4/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-19', '3', 'PRODEEP-3', 'TRUSTDEEP-1', '33.2']
+- image-usage.json: incremented ['lifestyle/toddler-livingroom-dino-yellow.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'flat-lay/swim-diaper-unicorn-pink.jpg']
 
-- COMPONENT PICKED: **STORYDEEP-18** — The Mixtape
-
-  - Currently used: 43/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

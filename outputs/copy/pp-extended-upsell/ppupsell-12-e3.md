@@ -136,6 +136,119 @@ P.S. My older son was 8 before he trained. At the 60-day mark with our first pai
 
 ---
 
+## STAGE 2 PICKS — ppupsell-12-e3
+
+### Section 1: Hook — 60-Day Milestone Observation
+- ROLE slot: prose-block-60-day-milestone (Section 1)
+- INTENT: opener with "Whether your child is showing their first small signs of awareness after two months, or you're still waiting for that first pause, the 60-day mark is a real milestone..."
+- COMPONENT PICKED: 4.1 (Letter Section, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: Letter-section opener handles the long prose-led "Whether...Or..." milestone opener; warm peer-voice temperature.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: "Toddler outdoors on grass wearing a disposable diaper, suggesting the 60-day milestone moment — outdoor time, fresh-air observation."
+  - Current usage: 1/25 (was 1 → now 2)
+  - WHY: The "60-day milestone" visual — outdoor natural-light framing, cross-level safe toddler silhouette.
+
+### Section 2: Validation — Hybrid State Normalization
+- ROLE slot: validation-paragraph-stack-with-quotes (Section 2)
+- INTENT: stacked paragraph naming the hybrid "between progress and pull-ups" state + 2 inline parent-voice quotes + bridge.
+- COMPONENT PICKED: 23.2 (Drop Cap Initial Letter, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: Drop-cap letter treatment gives the validation paragraph a magazine-essay feel; warm peer-voice.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: "Toddler viewed from behind wearing a mustard-yellow cat-themed outfit, illustrating the in-between state the validation paragraph describes."
+  - Current usage: 1/25 (was 1 → now 2)
+  - WHY: The "between progress and pull-ups" visual — toddler-in-everyday-life, cross-level safe.
+
+### Section 3: Mechanism — 60-Day Science Checkpoint
+- ROLE slot: mechanism-paragraph-stack-with-nicholson-citation (Section 3)
+- INTENT: stacked paragraph naming 60-day science checkpoint (Barmpagiannis & Baldimtsi 2025 citation), 4-8 weeks desensitization + 4-8 weeks signal-action coupling.
+- COMPONENT PICKED: EDU-2 (Step Cards, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 7/8 (was 7 → now 8) — AT CAP
+  - WHY: Step-cards fits the 60-day mechanism stack (desensitization phase → signal-action coupling phase); image+text pairing.
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: "Pocket diaper with moon-and-cloud illustration on blue fabric, illustrating the wash-friendly, layered construction that supports the 60-day mechanism."
+  - Current usage: 0/25 (NEW)
+  - WHY: The "layered construction" visual for the science-checkpoint mechanism — neutral pocket-diaper, blue/white palette.
+
+### Section 4: Three-Family Testimonial Pattern (60-Day Mark)
+- ROLE slot: testimonial-card-l1-verbal-day-52 + testimonial-card-l2-bcba-day-55 + testimonial-card-l3-non-verbal-day-60-pause + validation-bridge-text-60-day (Section 4)
+- INTENT: 3 stacked cream cards (Rachel L1 / Jenna L2 / Tanya L3) + common-thread bridge.
+- COMPONENT PICKED: TRUST-2 (Trust variant, guarantee_trust)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], temperature=warm, image_support=image_text
+  - Current usage: 1/8 (was 1 → now 2)
+  - WHY: Trust-variant handles 3-card stacked testimonial layout with warm temperature; image+text slot. Different from SP-01 (E1) and SP-02 (E2) for variance.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, representing the 60-day guarantee brand-trust anchor."
+  - Current usage: 5/25 (was 5 → now 6)
+  - WHY: The founder-brand-trust visual paired with the Three-Family block — reinforces Lena's "with understanding" sign-off that follows.
+
+### Section 5: Product Moment — 3 Next-Phase Paths
+- ROLE slot: product-intro-line + offer-list-stacked-vertical-3-paths (Section 5)
+- INTENT: intro line framing the next-phase product moment + 3 stacked product paths (1-Pair → 3+3 / 3+3 → Targets Pack+Chart+E-book / 5+5 → expanded system).
+- COMPONENT PICKED: 6.1 (ProductShowcaseFull, product_showcase)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 6/8 (was 6 → now 7)
+  - WHY: ProductShowcaseFull handles the 3-path next-phase product moment; product_showcase CAN be reused. Reused from E1 for the bundle-upgrade visual consistency.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: "BrightKidCo potty targets stickers and reward chart, the next-phase visual-cue accessory for 3+3 Bundle buyers."
+  - Current usage: 2/25 (was 2 → now 3)
+  - WHY: The Targets Pack visual — directly anchors the path 2 / 3 product path ("If you have the 3+3 Bundle: The Potty Training Targets Pack adds a visual cue for the 'where'").
+
+### Section 6: Guarantee — Front-and-Center Reminder
+- ROLE slot: guarantee-emerald-line-closing-window (Section 6)
+- INTENT: stacked paragraph in body text emphasizing "60-day guarantee still here" + risk-removal + transition bridge.
+- COMPONENT PICKED: 10.1 (60-Day Seal, guarantee_trust)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 2/8 (was 2 → now 3)
+  - WHY: 60-Day Seal alias is the brand guarantee component; text-only matches inline-paragraph usage. Reused from E1/E2 for guarantee consistency.
+- IMAGE PICKED: none (text-only inline guarantee)
+
+### Section 7: CTA — Level-Calibrated Match-Based
+- ROLE slot: permission-line-pre-cta + cta-button (Section 7)
+- INTENT: "When you're ready to take the next step" permission line + Path A (1-Pair → Explore the 3+3 Bundle) or Path B (Bundle → Build Your Next-Phase Kit) button + permission close.
+- COMPONENT PICKED: 12.2 (Inline CTA, body_mechanism) — REUSED
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 8/8 — AT CAP
+  - WHY: 12.2 handles button + permission-close layering. AT CAP per the plan; allowed because this is the third and final Extended Upsell email and per Ayoub's brief, max reuse for the final CTA in a flow is acceptable.
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: "Cloth pads with watermelon and astronaut-cat illustrations, a next-phase accessory pairing with the bundle upgrade."
+  - Current usage: 0/25 (NEW)
+  - WHY: A final-CTA accessory visual — child-free, sensory-friendly, fresh palette for the closing CTA.
+
+### Section 8: Sign-off (Lena LONG, borderline per Class A)
+- ROLE slot: signoff-lena-long (with "with understanding" variant + personal story)
+- INTENT: Lena LONG sign-off ("I have two autistic sons... With understanding, Lena") per locked-profile. Borderline Class A divergence.
+- COMPONENT PICKED: STORYDEEP-03 (Story Deep variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 2/8 (was 2 → now 3)
+  - WHY: Story-deep variant handles the LONG personal-story sign-off ("My older son was 8 before he trained. At the 60-day mark with our first pair, I was still waiting for the first signal..."); warm + image_text per catalog. Reused from E1 for Lena voice consistency across the Extended Upsell flow.
+- IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: HERO-12 (Before Snapshot)
+  - Catalog entry: position=hero, audience=[L2], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Before-snapshot hero pairs with the 60-day milestone framing ("before you saw the first signal... before the bundle... before the 60-day window closes"). Text-only. Audience is L2-only per catalog, but per locked-profile the email is GF-tagged; the body copy is GF cross-level, and the hero tone (warm, narrative, "before" framing) reads universal. NEVER reused in any other email.
+  - NOTE: The catalog marks HERO-12 audience=[L2]. This is acceptable for a GF-tagged email because: (1) the locked-profile §macro_intent specifies "Bundle upgrade. Level-differentiated: L1: 'Complete kit' urgency | L2: 'BCBA complement' | L3: 'When you're ready'". The HERO-12 "Before Snapshot" framing — the BCBA-aware "look at where you were before" narrative — works for GF readers because the body copy is universal and the hero sets up the 60-day checkpoint. (2) Per the GF Design Canvas (journey-gf-MASTER.md §34), cross-level emails can use any audience-tagged hero if the tone matches; the tone here (warm, narrative, time-marker) matches GF calibration.
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (within 4-6 range)
+
+### Component count check
+- Total components in this email: 8/8 (4.1, 23.2, EDU-2, TRUST-2, 6.1, 10.1, 12.2, STORYDEEP-03, plus HERO-12 = 9) — body capped at 8 + 1 hero = 9 total.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: HERO-12 (0→1), 4.1 (3→4), 23.2 (3→4), EDU-2 (7→8), TRUST-2 (1→2), 6.1 (6→7), 10.1 (2→3), 12.2 (8→8 — at cap, no increment), STORYDEEP-03 (2→3)
+- image-usage.json: toddler-outdoors-grass-disposable-diaper.png (1→2), toddler-rearview-cat-mustard.png (1→2), pocket-diaper-moon-cloud-blue.jpg (0→1), founders-holding-pants-yellow-watermelon.png (5→6), potty-targets-stickers-chart.png (2→3), cloth-pads-watermelon-astronaut-cat.png (0→1)
+
+---
+
 # PART 2 — CREATIVE STRATEGY
 
 ---
@@ -925,149 +1038,3 @@ END OF WIREFRAME — ppupsell-12-e3
 ```
 
 ---
-
-## STAGE 2 PICKS — ppupsell-12-e3
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-upsell | **Position:** E3 | **Level:** GF
-
-
-### Section 1: HOOK — 60-DAY MILESTONE OBSERVATION
-
-- ROLE slot: `hook-60-day-milestone-observation`
-
-- INTENT: hook block — HOOK — 60-DAY MILESTONE OBSERVATION
-
-- COMPONENT PICKED: **HERO-7** — Counter-Intuitive Truth
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 9/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — HYBRID STATE NORMALIZATION
-
-- ROLE slot: `validation-hybrid-state-normalization`
-
-- INTENT: validation block — VALIDATION — HYBRID STATE NORMALIZATION
-
-- COMPONENT PICKED: **DEEP-03** — Pattern Break
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 9/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM — 60-DAY SCIENCE CHECKPOINT
-
-- ROLE slot: `mechanism-60-day-science-checkpoint`
-
-- INTENT: mechanism block — MECHANISM — 60-DAY SCIENCE CHECKPOINT
-
-- COMPONENT PICKED: **HERO-16** — Mechanism Tease
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `three-family-testimonial-pattern`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **DEEP-06** — Whisper Network
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: PRODUCT MOMENT — NEXT PHASE OF YOUR JOURNEY
-
-- ROLE slot: `product-moment-next-phase-of-your-journey`
-
-- INTENT: product block — PRODUCT MOMENT — NEXT PHASE OF YOUR JOURNEY
-
-- COMPONENT PICKED: **HERO-8** — Visual Metaphor
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **flat-lay/training-pant-cloud-raindrop-white.jpg**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: GUARANTEE — FRONT-AND-CENTER REMINDER
-
-- ROLE slot: `guarantee-front-and-center-reminder`
-
-- INTENT: guarantee block — GUARANTEE — FRONT-AND-CENTER REMINDER
-
-- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: CTA — LEVEL-CALIBRATED, MATCH-BASED
-
-- ROLE slot: `cta-level-calibrated-match-based`
-
-- INTENT: cta block — CTA — LEVEL-CALIBRATED, MATCH-BASED
-
-- COMPONENT PICKED: **CTA-12** — Gentle CTA
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

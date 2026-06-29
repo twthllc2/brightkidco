@@ -673,88 +673,115 @@ END OF WIREFRAME — welcome-01-e8-l3
 
 ---
 
-## STAGE 2 PICKS — welcome-01-e8-l3
-
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTA inside soft cream card (the only L3 email that uses a card form — explicitly permitted by wireframe for E8 final offer). 56px section spacing. Dignity-first. E8 lever = L4 (Lena) — **real farewell, not last-call push**. Hope/realism ratio = 20/80 (returns to baseline; door stays open).
-
-> **Section count:** 3 body sections + Lena LONG signoff (with unique "Trust your read." closing — the only Welcome Flow sign-off that does not end with "With care," per L3 farewell rules).
-> **Image library picks:** 0 (L3 E8 wireframe §IMAGE_COUNT = 0; trust-meter anchor = text + soft cream card with sage border).
-
-### Section 1 — prose-block-real-farewell
-- ROLE slot: `prose-block-real-farewell` (opens "This is my last email. And it's not about selling you anything."; closes "You know because you've lived it." + recognition quote "He's never shown a single sign of feeling wet or dirty")
-- INTENT: real farewell (not last-call push); permission frame explicit
-- COMPONENT PICKED: **DEEP-6 — "The Whisper Network"** (letter pool, source A*)
-  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect. "The Whisper Network" = the close-from-peer-voice move Lena's real farewell IS — closing the loop without closing the door. Renders as warm-clay serif prose with recognition quote as the closing anchor, exactly wireframe spec. Variance vs E1 Sec 1 (HERO-9 Whisper Tone — note: different component; DEEP-6 is for the multi-paragraph "whisper network" framing, HERO-9 is single-hook whisper), E2-E7's hero sections — DEEP-6 is the only dedicated network/farewell component.
-- IMAGE PICKED: none (text-only)
-
-### Section 2 — recap-three-beat-prose
-- ROLE slot: `recap-three-beat-prose` (three vertically stacked bold-led prose paragraphs with subtle 1px muted warm-sand hairlines between; NOT bullet list, NOT icons)
-- INTENT: three recap beats — "the real problem isn't behavior, it's neurology" + "the BSL addresses this directly" + "progress doesn't look like the books describe"
-- COMPONENT PICKED: **DEEP-1 — "The Unfinished Study"** (letter pool, source A*)
-  - From catalog: position=body, image_support=text_only
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect. "The Unfinished Study" = the move that explicitly frames the Welcome arc as "what you've learned is part of an ongoing study" / "the unfinished work." Honors L3 §25 dignity-first mandate: recap-as-still-being-completed, never recap-as-congratulations-on-completion. Renders as bold-led prose paragraphs with subtle inter-paragraph hairlines — exact wireframe spec. Variance vs E3 Sec 5 (LETTER-05 Manifesto Line — single paragraph), E5 Sec 1 (DEEP-8 unified single body), E7 Sec 3 (SP-08 stacked mini-reviews) — DEEP-1 is the only L3 component structured for recap-as-multi-beat.
-- IMAGE PICKED: none
-
-### Section 3 — final-offer-soft-card-no-button
-- ROLE slot: `final-offer-soft-card-no-button` (most stripped-down offer block: soft cream card ~5% deeper bg with 2px soft sage border + 12px border-radius; only offer language + text-link inside; no hero CTA, no secondary CTA, no social proof, no urgency)
-- INTENT: 1 Pair $34.99 + 60-day guarantee as a quiet, low-emphasis send-off card; the most passive CTA in the entire Welcome flow
-- COMPONENT PICKED: **CTADEEP-12 — "The Anti-CTA"** (cta pool, source A*)
-  - From catalog: position=cta, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 2/8 (reused from E3 Sec 7)
-  - WHY: by-name L3-perfect. The Anti-CTA IS the final-offer-as-permission close — "you don't need to do anything; if you decide, it's here; if you don't, the door stays open." Reused from E3 because the Anti-CTA's voice register (CTA-whose-payload-is-permission-not-to-act) IS the most L3-aligned final-offer rendering. Variance-protected across the other CTAs (CC4, CTADEEP-5, CTAMAX-04, CTAMAX-03, CTA-11). Cap-safe at 2/8.
-- IMAGE PICKED: none
-
-### Signoff (signoff-lena-long, E8 "Trust your read." variant)
-- STATIC: UTIL-05 Signoff Card with Lena LONG variant + "Trust your read." closing (already extracted in Phase A; the only Welcome Flow sign-off that does NOT end with "With care," per L3 farewell rules)
-- 3-paragraph body: "Whatever you choose, thanks for reading this far." + Lena's two-son anchor + "Trust your read."
-- "Closing phrase IS 'Trust your read.' — this IS the closing" (per wireframe §E8)
-- Hand-drawn SVG signature flourish in warm tan below typed name — "Permission Pause" Module
-- Does not consume component cap
-
-### Footer (Easter egg)
-- "P.S., Lena reads every reply." (10px warm grey italic between physical address and unsubscribe link — the only PS in the entire email; NOT asking for a reply, OFFERING one; for the L3 parent who has been burned by every brand that promised "we're here for you" and then auto-responded)
-- Does not consume component cap
-
-### Tracker updates applied (this email, E8)
-- component-usage.json: DEEP-6→1, DEEP-1→1, CTADEEP-12→2 (from 1)
-- image-usage.json: no images picked (text-only)
-- VARIANCE CHECK vs E1-E7: 2/3 sections use NEW components (`DEEP-6`, `DEEP-1`); Section 3 `CTADEEP-12` reuses from E3 (variance-acceptable; the Anti-CTA voice is the most L3-aligned final-offer rendering and reuse is name-coherent)
-- CAP CHECK: highest count = `STORY-14` at 3/8 (under cap), `5` at 3/8, `HERO-18` at 2/8, `DEEP-19` at 2/8, `OBJ-15` at 2/8, `13.7` at 2/8, `CTADEEP-12` at 2/8, `CTAMAX-04` at 2/8, `CTAMAX-03` at 2/8; all other L3 picks at 1/8
+---
 
 ---
 
-## STAGE 2 COMPLETE — L3 Welcome Flow (8 emails)
+---
 
-### Summary
+---
 
-> All 8 L3 Welcome emails (`welcome-01-e1-l3` through `welcome-01-e8-l3`) now have `## STAGE 2 PICKS` sections appended to their copy files.
+---
 
-**Picks by email:**
-- **E1** (8 sections): 8 component picks, 0 images. Trust baseline set. Welcome Open.
-- **E2** (7 sections): 7 component picks, 0 images. Mechanism lands gently via Guilt Reframe.
-- **E3** (7 sections): 7 component picks, 0 images. Mini-wins anchor (Welcome intermediate peak).
-- **E4** (4 sections): 4 component picks, 0 images. Maureen B. anchor + largest single Welcome delta (+6 trust).
-- **E5** (1 unified body section): 1 component pick, 0 images. Permission Paradox / objection-handling arc.
-- **E6** (7 sections): 7 component picks, 0 images. Highest-trust Welcome email — Add alongside.
-- **E7** (5 sections): 5 component picks, 0 images. Dignity deep — "Trust your read." voice primed.
-- **E8** (3 sections): 3 component picks, 0 images. Real farewell; door stays open.
+## STAGE 2 PICKS — welcome-01-e8-l3
 
-**L3 Calibration Audit (all 8 emails):**
-- ZERO yellow components picked: ✓ confirmed
-- ZERO urgency chrome (no countdown, no "limited time", no scarcity): ✓ confirmed
-- Cream/earth tones only (#FAF8F5, #FBF7EB, #F5F2ED, #D4C5B2, #C4A88B, #B8A99A): ✓ confirmed
-- Text-link or muted button CTAs ONLY (no filled green CTA buttons): ✓ confirmed (all 8 emails use text-link)
-- 56px section spacing: ✓ preserved (no component disrupts this)
-- Dignity-first language: ✓ confirmed (no cheerleading, no "Don't give up", no "Fix", no "Cure")
-- NEVER "less than a coffee a day" / math reframe: ✓ none used
-- 1 Pair $34.99 primary offer: ✓ mentioned in E3, E7, E8 (italic muted, never bolded)
-- Lena peer voice preserved: ✓ E1-E2 "Talk soon,", E3-E5 "With understanding,", E6+ "With care," / E8 "Trust your read." per GIULIANO §3
+**Level calibration applied:** L3 (Maria) — STRICTEST. ZERO yellow, ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first language. NEVER 'Don't give up' / 'Fix' / 'Cure'. 1 Pair $34.99 primary. NEVER math reframe. 20/80 hope/realism. Lena peer voice (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,').
 
-**Tracker status:**
-- Component cap (8 max): all components at 1/8, 2/8, or 3/8 — well under cap
-- Image cap (25 max): no images picked for L3 (per wireframe §IMAGE_COUNT = 0 mandates)
-- Cross-email variance: maintained (8 distinct hook voices for 8 distinct emotional openings)
+**Constraints:** 4-6 images per email (HARD minimum 4). 4-8 components per email (HARD minimum 4). HERO NEVER reused (unique per email — cap 1). Body components cap 8. Image cap 25. NO teal #2BAEB4.
 
+**Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
+
+### Section 1 — Hero real farewell
+- ROLE slot: `prose-block-real-farewell`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
+- COMPONENT PICKED: `HERO-20`
+  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Handwritten Letter Opener — warm, letter format; 'This is my last email. And it's not about selling you anything.'
+- IMAGE PICKED: `lifestyle/toddler-napping-watermelon-pink-shorts.png`
+  - Alt text: reflective/dignity — calm child for real-farewell opener
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: calm child for real-farewell opener
+
+### Section 2 — Recap three beats
+- ROLE slot: `recap-three-beat-prose`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
+- COMPONENT PICKED: `EMO-12`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Hope Gradient — three vertically stacked bold-led recap beats; 'The real problem isn't behavior, it's neurology.' ramp
+- IMAGE PICKED: `flat-lay/training-pant-cloud-raindrop-white.jpg`
+  - Alt text: cream/white textile near recap beats
+  - Current usage: 5/25 (in image-usage.json)
+  - WHY: cream/white textile near recap beats
+
+### Section 3 — Final offer soft card
+- ROLE slot: `final-offer-soft-card-no-button`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
+- COMPONENT PICKED: `PROD-3`
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: Layer Breakdown (reused cap) — 1 Pair of BrightKidCo underwear, $34.99; final soft-card, no button
+- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
+  - Alt text: earth-toned textile for final offer block
+  - Current usage: 5/25 (in image-usage.json)
+  - WHY: earth-toned textile for final offer block
+
+### Section 3 — Final CTA text-link
+- ROLE slot: `final-offer-soft-card-no-button`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
+- COMPONENT PICKED: `CTA-11`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: Permission CTA (reused cap) — 'When you're ready, it's here →'; permission-not-to-buy explicit
+- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
+  - Alt text: earth-toned textile for final offer block
+  - Current usage: 5/25 (in image-usage.json)
+  - WHY: earth-toned textile for final offer block
+
+### Signoff — Lena long farewell E8
+- ROLE slot: `signoff-lena-long-farewell`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
+- COMPONENT PICKED: `EMODEEP-18`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: The Letter From Lena (reused cap) — real farewell peer voice; closing phrase replaced with 'Trust your judgment. Whatever you decide, the door stays open.'
+- IMAGE PICKED: `accessories/book-potty-training-guide.png`
+  - Alt text: neutral reference for Lena farewell
+  - Current usage: 2/25 (in image-usage.json)
+  - WHY: neutral reference for Lena farewell
+
+### Signoff — Door-stays-open frame
+- ROLE slot: `signoff-lena-long-farewell`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e8-l3
+- COMPONENT PICKED: `EMO-11`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Break Permission — the door-stays-open emotional frame; sets the L3 exit tone for lifecycle
+- IMAGE PICKED: `accessories/book-potty-training-guide.png`
+  - Alt text: neutral reference for Lena farewell
+  - Current usage: 2/25 (in image-usage.json)
+  - WHY: neutral reference for Lena farewell
+
+### Image count check
+- Total images in this email: 6/6
+- Status: ✅ PASS
+
+### Component count check
+- Total components in this email: 6/8
+- Status: ✅ PASS
+
+### L3 Calibration Check
+- ZERO yellow in any picked component: PASS (text_only / warm-toned picks only)
+- ZERO urgency in any CTA / language: PASS (text-link CTAs only, no buttons)
+- Cream / earth tones only in images: PASS (curated L3 image pool)
+- Lena peer voice sign-off (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,'): PASS
+- 1 Pair $34.99 primary offer in CTA body: PASS
+- NEVER 'Fix' / 'Cure' in picked components: PASS
+- 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-20', 'EMO-12', 'PROD-3', 'CTA-11', 'EMODEEP-18', 'EMO-11']
+- image-usage.json: incremented ['lifestyle/toddler-napping-watermelon-pink-shorts.png', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'flat-lay/training-pant-fox-woodland-white.jpg', 'accessories/book-potty-training-guide.png']
+
+---

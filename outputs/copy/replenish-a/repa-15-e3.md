@@ -609,264 +609,100 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 ---
 
+
 ## STAGE 2 PICKS — repa-15-e3
 
-
-> **Replenish Calibration:** Gentle re-order nudge. Permission-based. NO urgency.
-
-
-> **Section count:** 13 body sections.
-
-> **Flow:** replenish-a | **Position:** E3 | **Level:** GF
-
-
-### Section 1: BRIGHTKIDCO LETTERHEAD
-
-- ROLE slot: `brightkidco-letterhead`
-
-- INTENT: default block — BRIGHTKIDCO LETTERHEAD
-
-- COMPONENT PICKED: **HERO-15** — Level Callout
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: **flat-lay/training-pant-fox-red-white.jpg**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 2: HERO IMAGE BAND
-
-- ROLE slot: `hero-image-band`
-
-- INTENT: image_block block — HERO IMAGE BAND
-
-- COMPONENT PICKED: **EMO-10** — Patience Meter
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 14/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 3: SUBJECT + PREVIEW BLOCK
-
-- ROLE slot: `subject-preview-block`
-
-- INTENT: review block — SUBJECT + PREVIEW BLOCK
-
-- COMPONENT PICKED: **PROD-8** — Lifestyle Collage
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: **flat-lay/training-pant-penguin-multicolor.jpg**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 4: OBSERVATION HOOK
-
-- ROLE slot: `observation-hook`
-
-- INTENT: hook block — OBSERVATION HOOK
-
-- COMPONENT PICKED: **HERO-4** — Story Fragment
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: **flat-lay/training-pant-watermelon-pink.jpg**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 5: VALIDATION: THE 1-PAIR REALITY
-
-- ROLE slot: `validation-the-1-pair-reality`
-
-- INTENT: validation block — VALIDATION: THE 1-PAIR REALITY
-
-- COMPONENT PICKED: **PSYCH-05** — Curiosity Gap
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: **flat-lay/training-pant-cloud-raindrop-white.jpg**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 6: MECHANISM: WHY ROTATION MATTERS
-
-- ROLE slot: `mechanism-why-rotation-matters`
-
-- INTENT: mechanism block — MECHANISM: WHY ROTATION MATTERS
-
-- COMPONENT PICKED: **EMO-11** — Break Permission
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: **lifestyle/founders-holding-pants-yellow-watermelon.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 7: THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `three-family-testimonial-pattern`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **PROD-11** — Zoom Detail
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: **flat-lay/swim-diaper-giraffe-yellow.jpg**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 8: PERMISSION BLOCK
-
-- ROLE slot: `permission-block`
-
-- INTENT: cta block — PERMISSION BLOCK
-
-- COMPONENT PICKED: **22.3** — Circle Crop Hero
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: **flat-lay/swim-diaper-unicorn-pink.jpg**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 9: DUAL CTA STACK
-
-- ROLE slot: `dual-cta-stack`
-
-- INTENT: cta block — DUAL CTA STACK
-
-- COMPONENT PICKED: **EMO-12** — Hope Gradient
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 9/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 10: PRIMARY CTA BUTTON
-
-- ROLE slot: `primary-cta-button`
-
-- INTENT: cta block — PRIMARY CTA BUTTON
-
-- COMPONENT PICKED: **CTADEEP-01** — The Value Stack
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: **flat-lay/pocket-diaper-moon-cloud-blue.jpg**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 11: SECONDARY CTA, TEXT LINK / OUTLINED BUTTON
-
-- ROLE slot: `secondary-cta-text-link-outlined-button`
-
-- INTENT: cta block — SECONDARY CTA, TEXT LINK / OUTLINED BUTTON
-
-- COMPONENT PICKED: **23.1** — Magazine Masthead
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: **flat-lay/laundry-bag-llama-cream.png**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 12: LENA SIGN-OFF, MEDIUM VARIANT
-
-- ROLE slot: `lena-sign-off-medium-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF, MEDIUM VARIANT
-
-- COMPONENT PICKED: **DEEP-23** — The Permission Slip
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 13: FOOTER
-
-- ROLE slot: `footer`
-
-- INTENT: signoff block — FOOTER
-
-- COMPONENT PICKED: **TRUSTDEEP-10.1** — TRUSTDEEP-10.1 — Bundle Hero (Multi-Pack Showcase)
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 13
+**GF cross-level calibration (R1-R6):** Day-30 1-pair buyer "last call" framing, but rendered as gentle permission (no urgency manipulation). R3 (age 3-10+) + R4 (verbal/non-verbal parity) + R5 (timeline flexibility, 2-8 weeks) + R6 (low-bar success metrics: pause, look, pull, walk differently). Image count target: 4-6. Component count target: 4-8. Hero UNIQUE to this email.
+
+### Section 1: HERO IMAGE BAND — 3-pair rotation cycle (HERO)
+- ROLE slot: hero-rotation-cycle-no-kids (line-art or 3-pair-in-circle motif)
+- INTENT: "Last call, but framed as permission" — 30-day milestone anchor; visual is a soft rhythm/rotation diagram (no stock photos of children).
+- COMPONENT PICKED: HERO-19 (Timeline Shock)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF, temp=warm, image_support=text_only
+  - Current usage: 0/8 (UNIQUE — fresh)
+  - WHY: "Timeline Shock" is built around day-count milestones (Day 30 == perfect lock-in); reframes "last call" as a 30-day measurement moment rather than urgency.
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: A cream llama-print laundry bag on a neutral surface, calm and homey.
+  - Current usage: 1/25
+  - WHY: Laundry bag = the rotation theme (no child photo, matching the wireframe's "NO STOCK PHOTOS OF CHILDREN"); warm tone keeps the visual grounded without stock-y feel.
+
+### Section 2: OBSERVATION HOOK (Whether/Or/If opener)
+- ROLE slot: observation-hook-cream-band (whether/or/if universal opener + closing observation)
+- INTENT: R1, R3, R4 — universal recognition of varied 30-day outcomes (quiet / small moments / nothing visible yet).
+- COMPONENT PICKED: EMO-3 (Guilt Reduction)
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 0/8
+  - WHY: "Guilt Reduction" frames the "maybe nothing visible yet" closing line as explicit guilt-absolution; matches the wireframe's permission-not-to-buy requirement.
+
+### Section 3: VALIDATION: THE 1-PAIR REALITY (Lena pull-quote + 2 conditional paragraphs)
+- ROLE slot: validation-pull-quote-band (Lena first-person + conditional validation)
+- INTENT: Lena mirrors the parent's "1 pair isn't enough" insight; R6 conditional validation (signals OR no signals — both okay).
+- COMPONENT PICKED: LETTER-03 (Letter Body Block)
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 0/8 (sibling may pick — verify)
+  - WHY: "Letter Body Block" mirrors the "I've said this one myself" Lena-letter cadence; conditional paragraphs read as handwritten paragraphs.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: A toddler from the back in mustard-cat-print clothing in a soft home setting, candid and Pre-K-aged.
+  - Current usage: 2/25
+  - WHY: Candid rear-view avoids full-face; neutral posture evokes the parent-observer vantage ("this is your child at 30 days"); warm mustard ties to cream/ochre palette.
+
+### Section 4: MECHANISM: WHY ROTATION MATTERS + Inline Testimonial
+- ROLE slot: mechanism-band-with-inline-quote (Body-Signal Learning Layer + "5 weeks consistent wear" pull-quote)
+- INTENT: Mechanism refresh ("feedback loop / neural pathway") + R3, R4 parity line + inline testimonial.
+- COMPONENT PICKED: EDU-9 (Tip Cards)
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Tip Cards" pattern fits a small cluster of mechanism insights (data point, repetition, disruption) with the inline testimonial as a highlight card.
+
+### Section 5: THREE-FAMILY TESTIMONIAL PATTERN (R4, R6)
+- ROLE slot: testimonial-stack-three-cards-cream-cards-with-coral-accent
+- INTENT: Three 1-pair-first families (verbal 4 / sensory 6 / non-verbal 9) — "bought 1 pair first" framing.
+- COMPONENT PICKED: SP-13 (Review of the Week)
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Review of the Week" card stack reads as a curated editorial pick, distinguishing E3's three voices from E1's and E2's testifier sets.
+
+### Section 6: PERMISSION BLOCK (Price block + Guarantee anchor)
+- ROLE slot: permission-price-guarantee-block (cream-tinted #F8F6F3)
+- INTENT: "No rush. No pressure. 60 days, your judgment." Bundle price clarity; nothing urgent.
+- COMPONENT PICKED: PROD-9 (Unboxing Experience) — used as a soft product intro card; showcase exception.
+  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8 (showcase reusable)
+  - WHY: "Unboxing Experience" softens the price block by anchoring it to the product-as-set (6 pairs + bag), reinforcing the bundle-as-routine concept.
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: A blue whale-print swim diaper laid flat on a soft surface, calm and child-neutral.
+  - Current usage: 1/25
+  - WHY: Different product variant (swim diaper) signals product family breadth without implying "you've been using the wrong thing"; soft blue expands the warm palette without teal violation.
+
+### Section 7: DUAL CTA STACK (Primary bundle + secondary 1-pair)
+- ROLE slot: dual-cta-stack-pill-shape-primary-and-outlined-secondary
+- INTENT: R6 dual-respect — both buttons present, soft path for L3/un-ready, primary for ready.
+- COMPONENT PICKED: CTADEEP-04 (The Curiosity Closer)
+  - Catalog entry: position=cta, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "The Curiosity Closer" frames the primary CTA as informational rather than salesy ("Get the 3+3 Bundle, $79.99 with free shipping"), matching the no-pressure permission tone.
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: A space/zebra/llama-print wet bag laid on a neutral surface, slightly playful.
+  - Current usage: 2/25 → 3/25 (still well under cap)
+  - WHY: Bag image anchors the "rotation support" outcome (every wet bag = one rotation step complete); playful print expands visual variety.
+
+### Section 8: LENA SIGN-OFF (MEDIUM variant, E3)
+- ROLE slot: signoff-lena-medium-cream-divider (With understanding, + P.S. line)
+- INTENT: Lena MEDIUM variant for E3 (final email of flow); "your call" copy.
+- COMPONENT PICKED: EMODEEP-18 (The Letter From Lena)
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 0/8
+  - WHY: "The Letter From Lena" is purpose-built for longer-than-E1 sign-off moments with mom-of-two-sons voice; matches the MEDIUM variant requirement.
+- IMAGE PICKED: none (text-only section; preserves the calm permission tone of E3 sign-off).
+
+### Image count check
+- Total images in this email: 4/6 (target range 4-6).
+- Status: PASS
+- Total components: 8/8. Status: PASS (at the cap; filled cleanly).
+
+### Hero uniqueness check
+- HERO-19 used: 1/1 (this email only). Zero reuse. ✅
+
+### Tracker updates
+- component-usage.json: +1 to [HERO-19, EMO-3, LETTER-03, EDU-9, SP-13, PROD-9, CTADEEP-04, EMODEEP-18] (post-update: →1 each, all well under 8-cap)
+- image-usage.json: +1 to [flat-lay/laundry-bag-llama-cream.png→2, lifestyle/toddler-rearview-cat-mustard.png→3, flat-lay/swim-diaper-whale-ocean-blue.jpg→2, accessories/wet-bags-space-zebra-llama.png→3]

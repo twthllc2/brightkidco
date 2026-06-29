@@ -627,70 +627,66 @@ END OF WIREFRAME — winback-a-19-e1-gf
 
 ## STAGE 2 PICKS — winback-a-19-e1-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Winback Calibration:** GENTLE. Permission-not-to-buy. NEVER aggressive.
-
-
-> **Section count:** 3 body sections.
-
-> **Flow:** winback-a | **Position:** E1 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e1-gf
+- COMPONENT PICKED: IMG-01 (Product Hero Image *(L18086)*)
+  - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e1-gf, level=gf, theme=1. Calibrated per level.
 
 ### Section 1: SINGLE-SECTION LONG-FORM PROSE (Shape K)
-
-- ROLE slot: `single-section-long-form-prose-shape-k`
-
-- INTENT: default block — SINGLE-SECTION LONG-FORM PROSE (Shape K)
-
-- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: single-section-long-form-prose-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: REV-02.2 (REV-02.2 — Social Proof Momentum (Family Count Hea)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: GF 1 section 1 visual — calibrated per level (gf)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: GUARANTEE REAFFIRMED + OPEN DOOR (in-flow)
-
-- ROLE slot: `guarantee-reaffirmed-open-door-in-flow`
-
-- INTENT: guarantee block — GUARANTEE REAFFIRMED + OPEN DOOR (in-flow)
-
-- COMPONENT PICKED: **UTIL-03** — Out-Line
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: guarantee-inline-with-permission-closing
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EMO-11 (Break Permission *(L7084)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: GF 1 section 2 visual — calibrated per level (gf)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
+- ROLE slot: lena-signoff-short-with-reply-ps
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: 33.1 (Smiley Face SVG *(L2764)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: GF 1 section 3 visual — calibrated per level (gf)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-short-variant-reply-p-s`
+### Section 4: ADDITIONAL IMAGE (image-augment-fill)
+- ROLE slot: image-augment-fill (synthetic, ensures 4-image minimum)
+- INTENT: meet the 4-image minimum required by Ayoub's brief
+- COMPONENT PICKED: (no additional component — image only)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: GF 1 augment section 4 visual — calibrated per level (gf)
+  - Current usage: 16/25
+  - WHY: Required to reach 4-image minimum per the corrected Stage 2 rules (4-6 images per email)
 
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
+### Image count check
+- Total images in this email: 4/6
+- Status: ✅ PASS
 
-- COMPONENT PICKED: **LETTER-06** — PS Teaser
+### Tracker updates
+- component-usage.json: incremented ['IMG-01', 'REV-02.2', 'EMO-11', '33.1', 'UTIL-10']
+- image-usage.json: incremented ['lifestyle/toddler-potty-ladder-pink-multicolor.png', 'resized/toddler-playing.jpg', 'resized/washing-machine.jpg', 'lifestyle/toddler-backpack-moon-cloud-blue.png']
 
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 3

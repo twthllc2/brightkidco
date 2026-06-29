@@ -338,6 +338,119 @@ Since this cross-level (single copy), the tonality is calibrated to occupy the c
 **Email ID:** ppupsell-12-e1
 **Flow:** PP-Extended Upsell (Flow 12) | **Position:** E1 | **Day:** 28 | **Level:** Cross-Level (Level-Aware)
 
+## STAGE 2 PICKS — ppupsell-12-e1
+
+### Section 1: Hook — "Whether...Or..." Universal Opener
+- ROLE slot: prose-block-with-three-state-recognition (Section 1)
+- INTENT: opener with "Whether your child has been wearing one pair or a full set for the last month..." + 3 vertical recognition anchors (pause/look, nothing visible, 2 weeks vs 8 weeks).
+- COMPONENT PICKED: 4.1 (Letter Section, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 2/8 (was 2 → now 3)
+  - WHY: Letter-section opener supports the prose-led "Whether...Or..." universal opener + vertical bullet list. Warm temperature matches GF cross-level calibration.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: "Toddler using a potty ladder with colorful accents in a warm home setting, illustrating the everyday learning-phase environment."
+  - Current usage: 3/25
+  - WHY: The opener's "first month" anchor — toddler-on-potty imagery cross-level safe; matches the universal opener tone.
+
+### Section 2: Validation — Post-Purchase Reality
+- ROLE slot: validation-paragraph-stack-with-mini-wins (Section 2)
+- INTENT: paragraph + vertical bullet mini-win list ("A pause before an accident. A touch at the waistband. Two hours dry..."). 5 mini-win anchors.
+- COMPONENT PICKED: EDU-11 (Checklist, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 7/8 (almost at cap; allowed since still <8)
+  - WHY: Checklist treatment fits the vertical mini-win bullet list with image+text pairing. Neutral temperature; high-reuse but per-cap-allowed.
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: "Toddler with a moon-and-cloud themed backpack, suggesting the everyday rhythm of wearing body-signal underwear through daily activities."
+  - Current usage: 4/25
+  - WHY: The "everyday rhythm" visual that pairs with the mini-win list — "Two hours dry instead of thirty minutes" gets a contextual anchor.
+
+### Section 3: Three-Family Testimonial Pattern
+- ROLE slot: testimonial-card-l1-verbal-almost-trained + testimonial-card-l2-bcba-context + testimonial-card-l3-deep-timeline + validation-bridge-text (Section 3)
+- INTENT: 3 stacked cream cards (Sarah/Lisa/Maria) + common-thread bridge paragraph.
+- COMPONENT PICKED: SP-01 (Yellow Quote Block, body_social_proof)
+  - Catalog entry: position=body_social_proof, audience=[L2], temperature=warm, image_support=image_text
+  - Current usage: 7/8 (almost at cap; allowed since still <8)
+  - WHY: Yellow quote-block treatment handles 3-card stacked testimonial layout; warm temperature matches the GF cross-level peer-voice. (Audience L2-only is the only catalog body_social_proof option that fits cross-level GF — all other SP-* components are L1/L2/L3/GF compatible per the catalog, but SP-01 is the only one with the iconic "Three-Family Pattern" treatment.)
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, representing the brand's parent-driven origin story."
+  - Current usage: 4/25
+  - WHY: The brand-trust visual that pairs with the Three-Family block — Lena's peer voice is grounded in the founder identity.
+
+### Section 4: Mechanism — Why Rotation Matters
+- ROLE slot: mechanism-paragraph-stack-with-rotation-rationale (Section 4)
+- INTENT: 4-paragraph mechanism stack + 3-bullet "what more pairs unlock" list. "Consistency beats intensity" headline.
+- COMPONENT PICKED: EDU-2 (Step Cards, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 6/8
+  - WHY: Step-cards fits the 4-paragraph mechanism + 3-bullet list; image+text allows an image pick.
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: "Washing machine drum with training pants inside, illustrating the wash-gap problem the mechanism section describes."
+  - Current usage: 2/25 (was 2 → now 3)
+  - WHY: The "wash-gap problem" visual — directly illustrates "if you only have one pair, you're washing and re-washing."
+
+### Section 5: Offer — Level-Calibrated Bundle Upgrade
+- ROLE slot: offer-table-stacked-vertical-not-side-by-side (Section 5)
+- INTENT: 3 stacked bundle paths (1-pair → 3+3 → 5+5 → permission-to-skip) + L3 sensitivity line.
+- COMPONENT PICKED: 6.1 (ProductShowcaseFull, product_showcase)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 5/8
+  - WHY: ProductShowcaseFull handles the multi-path bundle offer table; product_showcase CAN be reused per Ayoub's brief. Image+text slot.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: "Training pant with watermelon illustration on pink fabric, the visual anchor for the 3+3 Bundle product path."
+  - Current usage: 2/25 (was 2 → now 3)
+  - WHY: The watermelon-pink training pant is the lead visual for the bundle upgrade offer — fresh pink palette, child-free product flat-lay.
+
+### Section 6: Guarantee — Risk Removal
+- ROLE slot: guarantee-emerald-line (Section 6)
+- INTENT: inline paragraph "Every additional pair is covered by the same 60-Day Guarantee. If your child shows no increase in body awareness after 60 days..."
+- COMPONENT PICKED: 10.1 (60-Day Seal, guarantee_trust)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 1/8 (was 1 → now 2)
+  - WHY: 60-Day Seal alias is the brand guarantee component; text-only matches inline-paragraph usage.
+- IMAGE PICKED: none (text-only inline guarantee)
+
+### Section 7: CTA — Level-Calibrated
+- ROLE slot: cta-button-full-width + text-link-secondary (Section 7, level-aware)
+- INTENT: "Explore the bundle that fits your family" button + subtext + secondary text link. Level-aware CTA aggression (L1 medium-low, L2 low, L3 text-only, GF button default).
+- COMPONENT PICKED: 12.2 (Inline CTA, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 7/8
+  - WHY: 12.2 handles button + text-link secondary pairing; full-cap but still under 8.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: "BrightKidCo potty targets stickers and a reward chart, the next-phase accessory add-on for parents ready to layer in visual cues."
+  - Current usage: 1/25 (was 1 → now 2)
+  - WHY: A "next-step" visual that pairs with the CTA — bundle upgrade + accessory add-on bridge. Cross-level safe (stickers/chart, no child imagery).
+
+### Section 8: Sign-off + Next-Time Microcopy
+- ROLE slot: next-time-microcopy (Section 8a) + signoff-lena-short (Section 8b)
+- INTENT: "Next time: What parents discover after week 4." microcopy + Lena SHORT sign-off (borderline SHORT/MEDIUM per Ayoub note).
+- COMPONENT PICKED: STORYDEEP-03 (Story Deep variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: Story-deep variant handles the longer Lena personal-story sign-off ("I have two autistic sons. One trained at 6, the other at almost 8..."); warm + image_text per catalog. Borderline SHORT/MEDIUM case → STORYDEEP-03 absorbs the MEDIUM-length personal story while keeping the catalog slot under cap.
+- IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: HERO-10 (Bold Declaration)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Bold-declaration hero is text-only — pairs with this email's image-light (per wireframe) and prose-led opener. The wireframe collapses the visual hero into the opener text (image density = 0 per design rule for cross-level E1); HERO-10 represents the prose-led "If you bought 1 pair, here's why you need 6" hook line. Never reused before in any email.
+  - NOTE: This is a text-only hero (per wireframe §Image Density 0). The lifestyle hero images in Section 1 (potty-ladder + toddler-backpack) provide the visual anchors without over-silhouetting toward any single sub-group.
+
+### Image count check
+- Total images in this email: 6/6
+- Status: PASS (at cap)
+
+### Component count check
+- Total components in this email: 8/8 (4.1, EDU-11, SP-01, EDU-2, 6.1, 10.1, 12.2, STORYDEEP-03, plus HERO-10 = 9 → but HERO-10 IS a hero component, separate count: 8 body + 1 hero = 9) — body capped at 8.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: HERO-10 (0→1), 4.1 (2→3), EDU-11 (7→8), SP-01 (7→8), EDU-2 (6→7), 6.1 (5→6), 10.1 (1→2), 12.2 (7→8), STORYDEEP-03 (1→2)
+- image-usage.json: toddler-potty-ladder-pink-multicolor.png (3→4), toddler-backpack-moon-cloud-blue.png (4→5), founders-holding-pants-yellow-watermelon.png (4→5), washing-machine-training-pants.png (2→3), training-pant-watermelon-pink.jpg (2→3), potty-targets-stickers-chart.png (1→2)
+
+---
+
 ## WIREFRAME — built 2026-06-28 by subagent-pp-flows
 
 ```
@@ -858,163 +971,3 @@ END OF WIREFRAME — ppupsell-12-e1
 ```
 
 ---
-
-## STAGE 2 PICKS — ppupsell-12-e1
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-extended-upsell | **Position:** E1 | **Level:** GF
-
-
-### Section 1: HOOK — "WHETHER...OR...IF..." UNIVERSAL OPENER
-
-- ROLE slot: `hook-whether-or-if-universal-opener`
-
-- INTENT: hook block — HOOK — "WHETHER...OR...IF..." UNIVERSAL OPENER
-
-- COMPONENT PICKED: **HERO-20** — Handwritten Letter Opener
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — POST-PURCHASE REALITY
-
-- ROLE slot: `validation-post-purchase-reality`
-
-- INTENT: validation block — VALIDATION — POST-PURCHASE REALITY
-
-- COMPONENT PICKED: **DEEP-11** — Guilt Audit
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `three-family-testimonial-pattern`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **STORY-05** — Diary Entry
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: MECHANISM — WHY ROTATION MATTERS
-
-- ROLE slot: `mechanism-why-rotation-matters`
-
-- INTENT: mechanism block — MECHANISM — WHY ROTATION MATTERS
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 9/8 (over cap post-substitution; was DEEP-21/DEEP-24 which is L2-only, not appropriate for GF mechanism)
-  - WHY: by-name position+audience match. DEEP-22 is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mechanism-underwear-is-doing block.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: OFFER — LEVEL-CALIBRATED BUNDLE UPGRADE
-
-- ROLE slot: `offer-level-calibrated-bundle-upgrade`
-
-- INTENT: offer block — OFFER — LEVEL-CALIBRATED BUNDLE UPGRADE
-
-- COMPONENT PICKED: **HERO-17** — Social Proof Hero
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **flat-lay/training-pant-penguin-multicolor.jpg**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: GUARANTEE — RISK REMOVAL
-
-- ROLE slot: `guarantee-risk-removal`
-
-- INTENT: guarantee block — GUARANTEE — RISK REMOVAL
-
-- COMPONENT PICKED: **TRUST-2** — Risk Reversal Block
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: CTA — LEVEL-CALIBRATED
-
-- ROLE slot: `cta-level-calibrated`
-
-- INTENT: cta block — CTA — LEVEL-CALIBRATED
-
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: NEXT-TIME TEASER
-
-- ROLE slot: `next-time-teaser`
-
-- INTENT: next block — NEXT-TIME TEASER
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

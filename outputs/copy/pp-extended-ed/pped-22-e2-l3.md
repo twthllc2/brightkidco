@@ -796,138 +796,97 @@ END OF WIREFRAME — pped-22-e2-l3
 
 ## STAGE 2 PICKS — pped-22-e2-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E17 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e2-l3
+- COMPONENT PICKED: TRUSTDEEP-10.1 (TRUSTDEEP-10.1 — Bundle Hero (Multi-Pack Showcase) *(L13558))
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e2-l3, level=l3, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — THREE-HOUR WET DIAPER MIRROR
-
-- ROLE slot: `hook-three-hour-wet-diaper-mirror`
-
-- INTENT: hook block — HOOK — THREE-HOUR WET DIAPER MIRROR
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: dignity-first-sentence-stack-with-no-headline
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: LETTER-01 (Paragraph Stack *(L7767)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L3 2 section 1 visual — calibrated per level (l3)
+  - Current usage: 4/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — LEEKAM 2007 + L3 ABSOLUTION
-
-- ROLE slot: `validation-leekam-2007-l3-absolution`
-
-- INTENT: validation block — VALIDATION — LEEKAM 2007 + L3 ABSOLUTION
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: validation-paragraph-stack-with-leekam-citation
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: LETTER-05 (Manifesto Line *(L7884)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: L3 2 section 2 visual — calibrated per level (l3)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — BSL AS SIGNAL AMPLIFIER
-
-- ROLE slot: `mechanism-bsl-as-signal-amplifier`
-
-- INTENT: mechanism block — MECHANISM — BSL AS SIGNAL AMPLIFIER
-
-- COMPONENT PICKED: **EDU-11** — Science Citation
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-paragraph-stack-with-pull-up-comparison
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: L3 2 section 3 visual — calibrated per level (l3)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: WHAT THIS CHANGES — REDEFINED SUCCESS
-
-- ROLE slot: `what-this-changes-redefined-success`
-
-- INTENT: default block — WHAT THIS CHANGES — REDEFINED SUCCESS
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: reframe-paragraph-stack-with-micro-win-scenarios
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: LETTER-06 (PS Teaser *(L7910)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L3 2 section 4 visual — calibrated per level (l3)
+  - Current usage: 4/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PRODUCT — 1 PAIR $34.99 + ADD-ALONGSIDE
-
-- ROLE slot: `product-1-pair-34-99-add-alongside`
-
-- INTENT: product block — PRODUCT — 1 PAIR $34.99 + ADD-ALONGSIDE
-
-- COMPONENT PICKED: **1** — Body Signal Concept
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: gentle-product-paragraph-stack-with-add-alongside
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PROD-2 (Side-by-Side *(L5710)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: L3 2 section 5 visual — calibrated per level (l3)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: CTA — TEXT LINK + PERMISSION FRAME
-
-- ROLE slot: `cta-text-link-permission-frame`
-
-- INTENT: cta block — CTA — TEXT LINK + PERMISSION FRAME
-
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: cta-text-link-soft-permission
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTA-4 (Gentle Invite *(L6692)*)
+  - Catalog entry: position=cta, audience=['L3']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
 ### Section 7: LENA SIGN-OFF — PEER STORY + LATE-TRAINER P.S.
+- ROLE slot: LENA SIGN-OFF — PEER STORY + LATE-TRAINER P.S.
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-10 (Legal Text *(L7739)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- ROLE slot: `lena-sign-off-peer-story-late-trainer-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — PEER STORY + LATE-TRAINER P.S.
+### Tracker updates
+- component-usage.json: incremented ['TRUSTDEEP-10.1', 'LETTER-01', 'LETTER-05', '32.1', 'LETTER-06', 'PROD-2', 'CTA-4', 'UTIL-10']
+- image-usage.json: incremented ['flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'flat-lay/swim-diaper-whale-ocean-blue.jpg', 'flat-lay/swim-diaper-unicorn-pink.jpg', 'flat-lay/training-pant-penguin-multicolor.jpg']
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

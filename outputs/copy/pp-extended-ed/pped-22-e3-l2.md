@@ -839,159 +839,97 @@ END OF WIREFRAME — pped-22-e3-l2
 
 ## STAGE 2 PICKS — pped-22-e3-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E13 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e3-l2
+- COMPONENT PICKED: CAMIMG-14 (Restock Alert *(L19277)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e3-l2, level=l2, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — PROMPT-DEPENDENCY REALITY MIRROR
-
-- ROLE slot: `hook-prompt-dependency-reality-mirror`
-
-- INTENT: hook block — HOOK — PROMPT-DEPENDENCY REALITY MIRROR
-
-- COMPONENT PICKED: **HERO-12** — Before Snapshot
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: **lifestyle/founders-holding-pants-yellow-watermelon.png**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: prose-block-with-prompt-dependency-symptom-recognition
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: LETTER-08 (Voice Note *(L7967)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: L2 3 section 1 visual — calibrated per level (l2)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — PROMPT-DEPENDENCY IS NOT TRAINING
-
-- ROLE slot: `validation-prompt-dependency-is-not-training`
-
-- INTENT: validation block — VALIDATION — PROMPT-DEPENDENCY IS NOT TRAINING
-
-- COMPONENT PICKED: **DEEP-21** — Expert Whisper
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: validation-paragraph-stack-with-bcba-respect
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: LETTER-11 (Margin Notes *(L8064)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: L2 3 section 2 visual — calibrated per level (l2)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — WHY PROMPTS OVERWRITE INTERNAL SIGNALS
+- ROLE slot: mechanism-paragraph-stack-with-prompt-overwrite-explanation
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EDU-8 (Mechanism Diagram *(L5414)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 8/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: L2 3 section 3 visual — calibrated per level (l2)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `mechanism-why-prompts-overwrite-internal-signals`
-
-- INTENT: mechanism block — MECHANISM — WHY PROMPTS OVERWRITE INTERNAL SIGNALS
-
-- COMPONENT PICKED: **DEEP-16** — Brain-Body Bridge
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 4: PRACTICAL STRATEGY — 4-PHASE PROMPT-FADING PROTOCOL
-
-- ROLE slot: `practical-strategy-4-phase-prompt-fading-protocol`
-
-- INTENT: default block — PRACTICAL STRATEGY — 4-PHASE PROMPT-FADING PROTOCOL
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+### Section 4: PRACTICAL STRATEGY — 4-PHASE PROMPT-FADING PROTOCO
+- ROLE slot: protocol-list-stacked-vertical-with-week-ranges
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: DEEP-04 (The Sensory Description *(L9217)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: L2 3 section 4 visual — calibrated per level (l2)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PRODUCT FRAME — HOW BSL UNDERWEAR FITS THIS PHASE
-
-- ROLE slot: `product-frame-how-bsl-underwear-fits-this-phase`
-
-- INTENT: product block — PRODUCT FRAME — HOW BSL UNDERWEAR FITS THIS PHASE
-
-- COMPONENT PICKED: **PROD-9** — Product Layer
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **flat-lay/training-pant-penguin-multicolor.jpg**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: product-frame-paragraph-stack-with-2-key-functions
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PROD-3 (Layer Breakdown *(L5744)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: L2 3 section 5 visual — calibrated per level (l2)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: REALISTIC TIMELINES (ELEMENT ④)
+- ROLE slot: timeline-paragraph-stack-with-ranges
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: DEEP-05 (The Before-After-Moment *(L9245)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `realistic-timelines-element`
+### Section 7: 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT
+- ROLE slot: guarantee-permission-stacked-paragraphs-with-personal-channel
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: EMODEEP-10 (The Break Permission *(L12248)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- INTENT: default block — REALISTIC TIMELINES (ELEMENT ④)
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- COMPONENT PICKED: **M3** — Testimonial Card (Mobile)
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-14', 'LETTER-08', 'LETTER-11', 'EDU-8', 'DEEP-04', 'PROD-3', 'DEEP-05', 'EMODEEP-10']
+- image-usage.json: incremented ['flat-lay/training-pant-fox-woodland-white.jpg', 'accessories/potty-targets-stickers-chart.png', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/toddlers-backview-disposable-diapers.png']
 
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 7: 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT ⑥)
-
-- ROLE slot: `60-day-guarantee-element-permission-element`
-
-- INTENT: guarantee block — 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT ⑥)
-
-- COMPONENT PICKED: **TRUST-1** — Trust Seal
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 8: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
-
-- ROLE slot: `lena-sign-off-medium-variant-double-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
-
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

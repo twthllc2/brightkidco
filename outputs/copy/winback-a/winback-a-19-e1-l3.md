@@ -698,138 +698,97 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 ## STAGE 2 PICKS — winback-a-19-e1-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** winback-a | **Position:** E10 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e1-l3
+- COMPONENT PICKED: FLOW-6 (Winback Opener *(L7239)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e1-l3, level=l3, theme=1. Calibrated per level.
 
 ### Section 1: OPENING — Lapse Acknowledged Without Guilt
-
-- ROLE slot: `opening-lapse-acknowledged-without-guilt`
-
-- INTENT: hook block — OPENING — Lapse Acknowledged Without Guilt
-
-- COMPONENT PICKED: **31.2** — Tracking Info Table
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: opening-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: OBJ-14.4 (OBJ-14.4 — Remember Callout (Timeline Disclaimer) )
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: L3 1 section 1 visual — calibrated per level (l3)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: HOOK — Gentle Re-engagement
-
-- ROLE slot: `hook-gentle-re-engagement`
-
-- INTENT: hook block — HOOK — Gentle Re-engagement
-
-- COMPONENT PICKED: **M3** — Testimonial Card (Mobile)
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: hook-prose-block-left-aligned-warm-clay
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: OBJ-15.2 (OBJ-15.2 — Three Guarantees Stack (Money-Back Trio)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: L3 1 section 2 visual — calibrated per level (l3)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: VALIDATION — Honor Their Choice
-
-- ROLE slot: `validation-honor-their-choice`
-
-- INTENT: validation block — VALIDATION — Honor Their Choice
-
-- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: validation-prose-warm-clay-italic
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: OBJ-15.4 (OBJ-15.4 — Lena Voice (Lena Closes Objection) *(L2)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: L3 1 section 3 visual — calibrated per level (l3)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: MECHANISM REMINDER — The Signal, Gently Reframed
-
-- ROLE slot: `mechanism-reminder-the-signal-gently-reframed`
-
-- INTENT: validation block — MECHANISM REMINDER — The Signal, Gently Reframed
-
-- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-warm-sand-callout-no-green
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: M2 (Mechanism Diagram (Mobile) *(L2971)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: L3 1 section 4 visual — calibrated per level (l3)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: OFFER — 1 Pair ($34.99), Product After Mechanism
-
-- ROLE slot: `offer-1-pair-34-99-product-after-mechanism`
-
-- INTENT: mechanism block — OFFER — 1 Pair ($34.99), Product After Mechanism
-
-- COMPONENT PICKED: **PERS-05** — Avatar Recognition
-
-  - Currently used: 34/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: offer-prose-1-pair-only-no-bundle
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: REV-01.2 (REV-01.2 — Bridge Statement (Ready-To-Try Closer) )
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: L3 1 section 5 visual — calibrated per level (l3)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: CTA — Permission-Framed
-
-- ROLE slot: `cta-permission-framed`
-
-- INTENT: cta block — CTA — Permission-Framed
-
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: cta-text-link-warm-clay-no-filled-button
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTADEEP-10 (The Community CTA *(L11756)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
 ### Section 7: LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
+- ROLE slot: lena-signoff-medium-with-community-ps
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- ROLE slot: `lena-sign-off-medium-variant-reply-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
+### Tracker updates
+- component-usage.json: incremented ['FLOW-6', 'OBJ-14.4', 'OBJ-15.2', 'OBJ-15.4', 'M2', 'REV-01.2', 'CTADEEP-10', 'UTIL-09']
+- image-usage.json: incremented ['flat-lay/training-pant-watermelon-pink.jpg', 'lifestyle/washing-machine-training-pants.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/training-pant-fox-red-white.jpg', 'flat-lay/laundry-bag-llama-cream.png']
 
-- COMPONENT PICKED: **EJ4** — Realistic Timeline
-
-  - Currently used: 35/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

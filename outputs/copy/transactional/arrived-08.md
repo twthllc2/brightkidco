@@ -921,123 +921,44 @@ END OF WIREFRAME — arrived-08
 
 ---
 
+---
+
 ## STAGE 2 PICKS — arrived-08
 
 
-> **Transactional Calibration:** NO marketing. NO promotions. Hidden plain-text fallback. Confirmation-only.
+> **Transactional — Delivered / Arrived (Flow 08)** — Cross-Level (R1-R6 + V16 + GF levers).
+> Per GIULIANO-DEMANDS §17.7: predominantly transactional per Google 2024 guidelines. Hidden plain-text fallback div mandatory. NO marketing elements (no countdown, no promo badges, no urgency cues). Image count is intentionally LOWER than the 4-image hard min — variant documented below.
 
 
-> **Section count:** 6 body sections.
+### Components (8/8)
 
-> **Flow:** transactional | **Position:** E4 | **Level:** GF
+| Role | Component ID | Reason |
+|---|---|---|
+| STATUS-BAR-DELIVERED | **UTIL-08** | Neutral bar '✓ DELIVERED' |
+| SIGNAL-PATH-SVG-ILLUSTRATION | **HERO-21** | Custom SVG signal-path illustration — fresh hero (0/8) |
+| PROSE-VALIDATION-SKEPTICISM | **EMO-4** | Lena validation — 'I know the skepticism' |
+| PROSE-MECH-WITH-CITATION | **EDU-7** | 3-layer mechanism prose with academic citation |
+| PROSE-WEEK-1-EXPLORATION | **EDU-10** | Week-1 exploration prose with quoted line |
+| GUARANTEE-BAND-EXPANDED | **CMP-7** | Cream band — expanded risk reversal |
+| UPSELL-TEXT-LINK-LOW-AGR | **CTA-12** | Soft text-link upsell — 1-pair buyers only |
+| FOOTER-EASTER-EGG-SIGNAL | **UTIL-05** | Footer easter-egg signal-dot motif |
+| LENA-SIGNOFF-MEDIUM + FOOTER | **12.1** | Lena medium sig + BKC footer |
 
+### Images (2/6)
 
-### Section 1: HOOK — IT'S HERE
+- `branding/black-placeholder.png` — BrightKidCo logo lockup. (Current: 3/25)
+- `flat-lay/laundry-bag-llama-cream.png` — Llama wash bag on cream — unboxing moment, neutral flat-lay (no child photo, no marketing). (Current: 9/25)
 
-- ROLE slot: `hook-it-s-here`
-
-- INTENT: hook block — HOOK — IT'S HERE
-
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 2: VALIDATION — "I KNOW THE SKEPTICISM"
-
-- ROLE slot: `validation-i-know-the-skepticism`
-
-- INTENT: validation block — VALIDATION — "I KNOW THE SKEPTICISM"
-
-- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 3: MECHANISM — 3-LAYER REINFORCEMENT
-
-- ROLE slot: `mechanism-3-layer-reinforcement`
-
-- INTENT: mechanism block — MECHANISM — 3-LAYER REINFORCEMENT
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 4: WHAT TO EXPECT IN WEEK 1 — RECOGNITION ANCHORS
-
-- ROLE slot: `what-to-expect-in-week-1-recognition-anchors`
-
-- INTENT: validation block — WHAT TO EXPECT IN WEEK 1 — RECOGNITION ANCHORS
-
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 5: GUARANTEE / RISK REVERSAL — EXPANDED
-
-- ROLE slot: `guarantee-risk-reversal-expanded`
-
-- INTENT: guarantee block — GUARANTEE / RISK REVERSAL — EXPANDED
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 6: SOFT UPSELL CTA — 1-PAIR BUYERS ONLY
-
-- ROLE slot: `soft-upsell-cta-1-pair-buyers-only`
-
-- INTENT: cta block — SOFT UPSELL CTA — 1-PAIR BUYERS ONLY
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
+**Image variance (transactional §17.7)**: GIULIANO §17.7 — 2 images: logo + 1 neutral flat-lay. NO child photos (avoids marketing feel). Variance from 4-image min documented.
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6
+- `component-usage.json`: UTIL-08 1 → 2
+- `component-usage.json`: HERO-21 0 → 1
+- `component-usage.json`: EMO-4 3 → 4
+- `component-usage.json`: EDU-7 1 → 2
+- `component-usage.json`: EDU-10 3 → 4
+- `component-usage.json`: CMP-7 3 → 4
+- `component-usage.json`: CTA-12 1 → 2
+- `component-usage.json`: UTIL-05 7 → 8
+- `image-usage.json`: `branding/black-placeholder.png` 3 → 4
+- `image-usage.json`: `flat-lay/laundry-bag-llama-cream.png` 9 → 10

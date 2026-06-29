@@ -767,142 +767,97 @@ END OF WIREFRAME — pped-22-e2-l2
 
 ## STAGE 2 PICKS — pped-22-e2-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E12 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e2-l2
+- COMPONENT PICKED: PDISP-1 (Product Hero Image *(L15477)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e2-l2, level=l2, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — "IS THIS ACTUALLY WORKING?" VALIDATION
-
-- ROLE slot: `hook-is-this-actually-working-validation`
-
-- INTENT: hook block — HOOK — "IS THIS ACTUALLY WORKING?" VALIDATION
-
-- COMPONENT PICKED: **HERO-11** — Question Storm
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: **resized/washing-machine.jpg**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: prose-block-with-self-doubt-validation
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORY-04 (Deep Quote — Pull-quote feature story *(L4388)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: L2 2 section 1 visual — calibrated per level (l2)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: MECHANISM DEEP DIVE — NICHOLSON 2019 (ELEMENT ②)
-
-- ROLE slot: `mechanism-deep-dive-nicholson-2019-element`
-
-- INTENT: mechanism block — MECHANISM DEEP DIVE — NICHOLSON 2019 (ELEMENT ②)
-
-- COMPONENT PICKED: **HERO-13** — Scientific Hook
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: mechanism-deep-dive-with-nicholson-experiment-breakdown
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EDUDEEP-4 (The Interoception Test *(L10745)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: L2 2 section 2 visual — calibrated per level (l2)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: WHAT THIS MEANS — 4 TAKEAWAYS (ELEMENT ④ TIMELINE)
-
-- ROLE slot: `what-this-means-4-takeaways-element-timeline`
-
-- INTENT: default block — WHAT THIS MEANS — 4 TAKEAWAYS (ELEMENT ④ TIMELINE)
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: takeaway-list-stacked-vertical-with-4-takeaways
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: STORY-15 (Story Carousel — Horizontal scrollable cards *(L47)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: L2 2 section 3 visual — calibrated per level (l2)
+  - Current usage: 2/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: BCBA INTEGRATION — THE L2-SPECIFIC DELIVERABLE
+- ROLE slot: bcba-integration-paragraph-stack-with-data-sharing-protocol
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: UTIL-02 (Divider Bar *(L7509)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: L2 2 section 4 visual — calibrated per level (l2)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `bcba-integration-the-l2-specific-deliverable`
+### Section 5: NORMALIZATION + TIMELINE (WHERE YOUR CHILD IS RIGH
+- ROLE slot: normalization-paragraph-stack-with-week-4-5-validation
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: UTIL-03 (Out-Line *(L7543)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: L2 2 section 5 visual — calibrated per level (l2)
+  - Current usage: 2/25
+  - WHY: Matches section intent and level calibration
 
-- INTENT: default block — BCBA INTEGRATION — THE L2-SPECIFIC DELIVERABLE
+### Section 6: 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT
+- ROLE slot: guarantee-permission-stacked-paragraphs
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTADEEP-05 (The Permission CTA *(L11623)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) + BCBA FACT SHEET P
+- ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + BCBA FACT SHEET P.S.
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: 33.1 (Smiley Face SVG *(L2764)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-  - Currently used: 14/8
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- IMAGE PICKED: none (text-only or by-design)
+### Tracker updates
+- component-usage.json: incremented ['PDISP-1', 'STORY-04', 'EDUDEEP-4', 'STORY-15', 'UTIL-02', 'UTIL-03', 'CTADEEP-05', '33.1']
+- image-usage.json: incremented ['lifestyle/washing-machine-training-pants.png', 'flat-lay/laundry-bag-llama-cream.png', 'resized/washing-machine.jpg', 'lifestyle/toddler-potty-ladder-pink-multicolor.png', 'resized/toddler-playing.jpg']
 
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 5: NORMALIZATION + TIMELINE (WHERE YOUR CHILD IS RIGHT NOW)
-
-- ROLE slot: `normalization-timeline-where-your-child-is-right-now`
-
-- INTENT: default block — NORMALIZATION + TIMELINE (WHERE YOUR CHILD IS RIGHT NOW)
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 15/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 6: 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT ⑥)
-
-- ROLE slot: `60-day-guarantee-element-permission-element`
-
-- INTENT: guarantee block — 60-DAY GUARANTEE (ELEMENT ⑤) + PERMISSION (ELEMENT ⑥)
-
-- COMPONENT PICKED: **5** — 60-Day Calm Promise
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) + BCBA FACT SHEET P.S.
-
-- ROLE slot: `lena-sign-off-medium-variant-bcba-fact-sheet-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) + BCBA FACT SHEET P.S.
-
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

@@ -647,304 +647,95 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 ---
 
-## STAGE 2 PICKS — repc-17-e1
 
-
-> **Replenish Calibration:** Gentle re-order nudge. Permission-based. NO urgency.
-
-
-> **Section count:** 15 body sections.
-
-> **Flow:** replenish-c | **Position:** E1 | **Level:** GF
-
-
-### Section 1: BRIGHTKIDCO LETTERHEAD
-
-- ROLE slot: `brightkidco-letterhead`
-
-- INTENT: default block — BRIGHTKIDCO LETTERHEAD
-
-- COMPONENT PICKED: **2.2** — Warm Hero
-
-  - Currently used: 6/8 (under cap; was 2.3 Teal CTA Hero which is teal/GF-forbidden per Stage 2 audit)
-  - WHY: by-name GF-friendly alternative. Warm Hero preserves the gradient-hero family from 2.3 (Lilac→Warm→Teal ordering) but uses warm tones only — safe for GF. Letterhead role doesn't need conversion chrome; warm hero renders as soft tone-on-tone gradient banner without teal accents.
-
-- IMAGE PICKED: **flat-lay/laundry-bag-llama-cream.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 2: HERO / MILESTONE LINE CONTRAPTION
-
-- ROLE slot: `hero-milestone-line-contraption`
-
-- INTENT: default block — HERO / MILESTONE LINE CONTRAPTION
-
-- COMPONENT PICKED: **EMODEEP-16** — The Courage Acknowledgment
-
-  - Currently used: 25/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 14/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 3: SUBJECT + PREVIEW BLOCK
-
-- ROLE slot: `subject-preview-block`
-
-- INTENT: review block — SUBJECT + PREVIEW BLOCK
-
-- COMPONENT PICKED: **PDISP-8** — Product Care
-
-  - Currently used: 26/8
-
-- IMAGE PICKED: **flat-lay/training-pant-fox-red-white.jpg**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 4: SECTION 1 — UNIVERSAL RECOGNITION OPENER
-
-- ROLE slot: `section-1-universal-recognition-opener`
-
-- INTENT: validation block — SECTION 1 — UNIVERSAL RECOGNITION OPENER
-
-- COMPONENT PICKED: **18.1** — Hi-Fi Gradient Hero + Discount Block
-
-  - Currently used: 26/8
-
-- IMAGE PICKED: **flat-lay/training-pant-bunny-hearts-pink.jpg**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 5: SECTION 2 — RECOGNITION ANCHORS, R2
-
-- ROLE slot: `section-2-recognition-anchors-r2`
-
-- INTENT: validation block — SECTION 2 — RECOGNITION ANCHORS, R2
-
-- COMPONENT PICKED: **EMODEEP-17** — The Safe Space
-
-  - Currently used: 26/8
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 10/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 6: SECTION 3 — WHAT CHANGES AT 5 MONTHS
-
-- ROLE slot: `section-3-what-changes-at-5-months`
-
-- INTENT: checkin block — SECTION 3 — WHAT CHANGES AT 5 MONTHS
-
-- COMPONENT PICKED: **PDISP-9** — Feature Benefit Grid
-
-  - Currently used: 27/8
-
-- IMAGE PICKED: **flat-lay/training-pant-watermelon-pink.jpg**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 7: SECTION 4 — PRODUCT & OFFER, NO URGENCY
-
-- ROLE slot: `section-4-product-offer-no-urgency`
-
-- INTENT: product block — SECTION 4 — PRODUCT & OFFER, NO URGENCY
-
-- COMPONENT PICKED: **PROD-1** — Product Hero
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **flat-lay/training-pant-cloud-raindrop-white.jpg**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 8: SECTION 5 — THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `section-5-three-family-testimonial-pattern`
-
-- INTENT: social_proof block — SECTION 5 — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **HERO-17** — Social Proof Hero
-
-  - Currently used: 27/8
-
-- IMAGE PICKED: **flat-lay/diaper-woodland-creature-yellow.jpg**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 9: SECTION 6 — CTA, UNIVERSAL PERMISSION
-
-- ROLE slot: `section-6-cta-universal-permission`
-
-- INTENT: cta block — SECTION 6 — CTA, UNIVERSAL PERMISSION
-
-- COMPONENT PICKED: **EJ3** — Permission Slip
-
-  - Currently used: 27/8
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 10: PRIMARY CTA BUTTON
-
-- ROLE slot: `primary-cta-button`
-
-- INTENT: cta block — PRIMARY CTA BUTTON
-
-- COMPONENT PICKED: **PDISP-11** — Product Lifestyle Row
-
-  - Currently used: 28/8
-
-- IMAGE PICKED: **flat-lay/swim-diaper-unicorn-pink.jpg**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 11: SECONDARY CTA, TEXT LINK
-
-- ROLE slot: `secondary-cta-text-link`
-
-- INTENT: cta block — SECONDARY CTA, TEXT LINK
-
-- COMPONENT PICKED: **HERO-16** — Mechanism Tease
-
-  - Currently used: 28/8
-
-- IMAGE PICKED: **flat-lay/swim-diaper-whale-ocean-blue.jpg**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 12: NEXT-TIME FORWARD-LOOK
-
-- ROLE slot: `next-time-forward-look`
-
-- INTENT: next block — NEXT-TIME FORWARD-LOOK
-
-- COMPONENT PICKED: **EMODEEP-18** — The Letter From Lena (uses Letter)
-
-  - Currently used: 28/8
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 13: LENA SIGN-OFF, SHORT VARIANT
-
-- ROLE slot: `lena-sign-off-short-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF, SHORT VARIANT
-
-- COMPONENT PICKED: **PDISP-12** — Product Detail Close-Up
-
-  - Currently used: 29/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 14: FOOTER
-
-- ROLE slot: `footer`
-
-- INTENT: signoff block — FOOTER
-
-- COMPONENT PICKED: **HERO-8** — Visual Metaphor
-
-  - Currently used: 6/8 (under cap; was M1 which is L2-only hero component, not appropriate for GF footer)
-  - WHY: by-name position+audience match. HERO-8 Visual Metaphor is a hero component with emotional messaging and full-audience tag (audience=[L1,L2,L3,GF]), appropriate for signoff/footer role.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 15: EASTER EGG — TALLY MARK TEXTURE
-
-- ROLE slot: `easter-egg-tally-mark-texture`
-
-- INTENT: default block — EASTER EGG — TALLY MARK TEXTURE
-
-- COMPONENT PICKED: **EMO-1** — Permission Slip
-
-  - Currently used: 29/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 15/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 15
+## STAGE 2 PICKS - repc-17-e1
+
+**GF cross-level calibration (R1-R6):** Day-150 5+5-bundle buyer, long-haul milestone. R2 (5 anchors), R5 timeline flexibility (8-12 weeks), R6 low-bar success metrics ("He felt something for the first time and looked down"). Tally-mark easter-egg background. Image count target: 4-6. Component count target: 4-8. Hero UNIQUE to this email.
+
+### Section 1: HERO / MILESTONE LINE CONTRAPTION (HERO)
+- ROLE slot: hero-milestone-timeline (Day 1 -> Day 150 with milestone dots)
+- INTENT: Visualize 150-day journey as 5 evenly-spaced milestone dots; tally-mark texture in the background; side-by-side worn vs fresh underwear illustration.
+- COMPONENT PICKED: HERO-15 (Level Callout)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 0/8 (UNIQUE - fresh)
+  - WHY: "Level Callout" hero carries a milestone/grade-level feel (Day 150 = "you're here" starburst) without clinical jargon; brand-fresh, not yet picked; fits the warm cream journal vibe.
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: A cream llama-print laundry bag laid on a neutral home surface, warm.
+  - Current usage: 3/25
+  - WHY: Cream llama-bag = long-haul homey wear context; warm ties to amber milestone-dot palette downstream.
+
+### Section 2: SECTION 1 - UNIVERSAL RECOGNITION OPENER (R1, R3, R4)
+- ROLE slot: universal-opener-cream-band (whether/if pattern)
+- INTENT: Inclusive opener that recognizes 150 days of consistent wear across all sub-groups; sets up the Section 3 mechanism refresh.
+- COMPONENT PICKED: EMO-11 (Break Permission)
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 0/8
+  - WHY: "Break Permission" frames "your 5+5 has been through a lot" as well-earned break permission (long-haul recognition vs. urgency to re-buy).
+
+### Section 3: SECTION 2 - RECOGNITION ANCHORS, R2 (5 anchors with R5)
+- ROLE slot: anchor-list-cream-band-5-bullets
+- INTENT: R2 (pause mid-play / pull at pants / walk to bathroom / tolerate toilet / still waiting) + R5 timing footnote.
+- COMPONENT PICKED: EDU-3 (Checklist)
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 5/8 (cap-safe; used 5 times across replenish flows)
+  - WHY: "Checklist" consistency pattern for R2 anchors across all replen emails; cap stays under 8.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: A toddler from behind in mustard-cat-print clothing in soft home light, candid Pre-K moment.
+  - Current usage: 5/25
+  - WHY: Rear-view Pre-K visual anchors the "pull at pants / look down" anchor tone; mustard tones tie to amber CTA palette.
+
+### Section 4: SECTION 3 - WHAT CHANGES AT 5 MONTHS (journal-entry / mechanism)
+- ROLE slot: mechanism-journal-entry-band (physics + neurology explainer)
+- INTENT: Plain-language mechanism refresh: cotton/smart absorption/outer barrier function; fabric relaxes after 150 washes; "earned a refresh" framing.
+- COMPONENT PICKED: EDU-8 (Mechanism Diagram)
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 4/8
+  - WHY: "Mechanism Diagram" maps to the cotton / smart-absorption / outer-barrier three-layer explainer.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: A white cloud-and-raindrop training pant laid flat in soft light, calm and quiet.
+  - Current usage: 3/25
+  - WHY: Cloud-rain motif echoes the cotton-inner-layer being weathered and relaxed; calm tone fits journal-entry vibe.
+
+### Section 5: SECTION 5 - THREE-FAMILY TESTIMONIAL PATTERN (R6 with 3 muted bg colors)
+- ROLE slot: testimonial-stack-three-cards-muted-pink-sage-lavender
+- INTENT: Three 5-month milestone voices - L1 verbal 4 / L2 sensory 6 / L3 non-verbal 9 - "150-day mark."
+- COMPONENT PICKED: SP-08 (Stacked Mini-Reviews)
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 3/8 (used by repa-15-e1)
+  - WHY: "Stacked Mini-Reviews" is purpose-built for vertically-stacked three-card tests with subtly varied muted backgrounds (pinkish-beige, sage-tinted, lavender-tinted).
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: A toddler napping peacefully in pink watermelon-print shorts, calm and homey.
+  - Current usage: 9/25
+  - WHY: Calm-nap Pre-K visual echoes the "150 days = real time invested" milestone anchor; soft pink fits the E8DED2 pinkish-beige card spec.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: Two toddlers from behind in disposable diapers on a soft home floor, candid.
+  - Current usage: 3/25
+  - WHY: Group-of-kids rear-view visual anchors "three different families" framing; warm V16-safe multi-child parity.
+
+### Section 6: SECTION 6 - CTA + SECONDARY TEXT LINK (Universal Permission)
+- ROLE slot: dual-cta-amber-primary + secondary-text-link + permission-framing-italic
+- INTENT: Primary "See the refreshed 5+5" amber pill + secondary "Explore single pairs and accessories" text link + L2/L3/GF reply-for-help framing.
+- COMPONENT PICKED: CTA-7 (Next Teaser)
+  - Catalog entry: position=cta, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Next Teaser" CTA fits a future-looking milestone anchor (5+5 = "next chapter" refresh) rather than a "buy now" hard sell; warm neutral tone.
+
+### Section 7: LENA SIGN-OFF (SHORT variant, E1 of Flow 17)
+- ROLE slot: signoff-lena-short-cream-divider (Talk soon + P.S.)
+- INTENT: Lena SHORT variant for E1 of Flow 17, "150 days is real time invested" PS line.
+- COMPONENT PICKED: UTIL-05 (Signoff Card [G+])
+  - Catalog entry: position=signoff_footer, audience=GF, temp=warm (Giuliano source)
+  - Current usage: 4/8
+  - WHY: Canonical cream-card signoff carries consistent peer-voice for the SHORT variant across all replen flows.
+
+### Image count check
+- Total images in this email: 5/6 (target range 4-6).
+- Status: PASS
+- Total components: 7/8. Status: PASS.
+
+### Hero uniqueness check
+- HERO-15 used: 1/1 (this email only). Zero reuse. OK.
+
+### Tracker updates
+- component-usage.json: +1 to [HERO-15, EMO-11, EDU-3, EDU-8, SP-08, CTA-7, UTIL-05] (post-update: HERO-15 1, EMO-11 1, EDU-3 6, EDU-8 5, SP-08 4, CTA-7 1, UTIL-05 5; all under 8-cap)
+- image-usage.json: +1 to [flat-lay/laundry-bag-llama-cream.png 4, lifestyle/toddler-rearview-cat-mustard.png 6, flat-lay/training-pant-cloud-raindrop-white.jpg 4, lifestyle/toddler-napping-watermelon-pink-shorts.png 10, lifestyle/toddlers-backview-disposable-diapers.png 4] (all under 25 cap)

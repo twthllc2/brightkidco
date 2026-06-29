@@ -142,6 +142,93 @@ No longer want to receive these emails? [Unsubscribe]
 
 ---
 
+## STAGE 2 PICKS — atrisk-23-e3
+
+### Section 1: Hero — Soft Reset Still Life + 3 Anchors
+- ROLE slot: hero-illustration-soft-reset-still-life (Section 1a) + prose-block-soft-reset-3-anchors (Section 1b)
+- INTENT: 600x320 still life illustration (small wooden child's chair + BrightKidCo underwear draped + succulent + warm afternoon light) + "Hey, It's been a little quiet" opener + 3 vertical anchor list (drawer / tried-didn't-see / life-got-busy).
+- COMPONENT PICKED: 18.1 (Hi-Fi Gradient Hero + Discount Block)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 1/8 (was 1 → now 2)
+  - WHY: Hi-Fi Gradient Hero accommodates the image+text pairing — the still life illustration sits above the prose-led opener + anchor list. (Reused from upsell-09-e2 — different flow, brand-trust visual consistency.) Wait, 18.1 is hero-position and reuse is allowed only for product_showcase/image_showcase; hero must be UNIQUE. SKIP — replacing below.
+- REPLACEMENT HERO: HERO-19 (Timeline Shock)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Timeline-shock hero pairs with the wireframe's "One last thing before I go quiet" + 3-anchor + "soft reset" framing — the hero opens with a temporal cue ("it's been quiet, last thing at this frequency"). Text-only. NEVER reused before in any email.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: "Toddler using a yellow-woodland themed potty ladder, suggesting the soft-reset 'put the underwear on again' moment."
+  - Current usage: 4/25 (was 4 → now 5)
+  - WHY: The "soft reset" visual — toddler-on-potty-ladder anchors the "when you're ready to try again" permission frame.
+
+### Section 2: Validation — Soft Reset Normalization
+- ROLE slot: validation-paragraph-with-left-border-rose (Section 2)
+- INTENT: stacked paragraph with 3px LENA'S ROSE #D4A89B left border + "I wanted it to work right away. When it didn't, I put it aside" + bridge "Some kids need a slower ramp."
+- COMPONENT PICKED: 17.7 (Closing Letter (Before CTA), body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 6/8 (was 6 → now 7)
+  - WHY: Closing-letter treatment handles the warm peer-voice normalization; rose border is rendered via inline styling on the prose-led paragraph. 4.1 and 23.2 are both at cap.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: "Child resting peacefully in soft pink shorts, suggesting the 'some kids need a slower ramp' validation the section describes."
+  - Current usage: 10/25 (was 10 → now 11)
+  - WHY: The "slower ramp" validation visual — calm toddler rest supports the "Some kids need a slower ramp. Some need longer wear times" framing.
+
+### Section 3: Mechanism — One Thing Worth Trying (Callout)
+- ROLE slot: mechanism-callout-box-rose-border (Section 3)
+- INTENT: bordered callout box (LENA'S ROSE, 8px border-radius, padding 20px, bg #FAF5F0) with "One thing worth trying" 20px bold + 3-hours-3-days concrete suggestion + brief science rationale.
+- COMPONENT PICKED: LETTER-03 (Letter variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 4/8 (was 4 → now 5)
+  - WHY: Letter variant handles the callout box with warm peer-voice; the rose border is rendered as inline border styling on the letter-block.
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: "Toddler with a moon-and-cloud themed backpack, suggesting the 'put the underwear on for 3 hours, three days in a row' suggestion."
+  - Current usage: 6/25 (was 6 → now 7)
+  - WHY: The "3-hours-3-days routine" visual — toddler-with-backpack anchors the everyday-routine suggestion.
+
+### Section 4: CTA — Permission + Pill Button + Secondary Text
+- ROLE slot: permission-line-pre-cta + cta-button-pill-rose + secondary-text-link + permission-close (Section 4)
+- INTENT: stacked paragraph "Try it for the next three days. See if anything shifts..." + "Try it for 3 days, no pressure" pill button + "Or just tuck this away for later. No rush." secondary + "No pressure. Just one small thing to try. Your judgment." close.
+- COMPONENT PICKED: 6.2 (ProductShowcaseMedium, product_showcase)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 6/8 (was 6 → now 7)
+  - WHY: ProductShowcaseMedium handles the permission + pill button + secondary text + close layering; product_showcase CAN be reused.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: "Training pant with cloud-and-raindrop illustration on white fabric, the visual anchor for the 'try it for 3 days' CTA."
+  - Current usage: 4/25 (was 4 → now 5)
+  - WHY: The "try it for 3 days" CTA visual — soft white cotton flat-lay, child-free, sensory-friendly.
+
+### Section 5: Sign-off — Lena MEDIUM with P.S.
+- ROLE slot: signoff-lena-medium-with-ps (Section 5)
+- INTENT: "With care, Lena ——" sign-off + P.S. ("My older son was 8 before his body started connecting the dots..."). Class A divergence noted (locked-profile LONG vs copy file MEDIUM).
+- COMPONENT PICKED: STORYDEEP-03 (Story Deep variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 4/8 (was 4 → now 5)
+  - WHY: Story-deep variant handles the MEDIUM-with-P.S. sign-off; warm peer-voice; reused for cross-flow consistency.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the brand-trust anchor for the Lena MEDIUM-with-P.S. sign-off."
+  - Current usage: 11/25 (was 11 → now 12)
+  - WHY: The founder-trust visual — Lena's peer voice anchored in founder identity.
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: HERO-19 (Timeline Shock)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Timeline-shock hero pairs with the wireframe's "One last thing before I go quiet" + 3-anchor + "soft reset" framing — the hero opens with a temporal cue ("it's been quiet, last thing at this frequency"). Text-only. NEVER reused before in any email.
+- NOTE: Originally I considered 18.1 (Hi-Fi Gradient Hero + Discount Block) from upsell-09-e2, but HERO-* components must be unique per the Stage 2 plan §3.3 hard rule (NEVER reused across emails). Swapped to HERO-19 (unused).
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (within 4-6 range)
+
+### Component count check
+- Total components in this email: 6/8 (HERO-19, 17.7, LETTER-03, 6.2, STORYDEEP-03) — within 4-8 range.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: HERO-19 (0→1), 17.7 (6→7), LETTER-03 (4→5), 6.2 (6→7), STORYDEEP-03 (4→5)
+- image-usage.json: toddler-potty-ladder-yellow-woodland.png (4→5), toddler-napping-watermelon-pink-shorts.png (10→11), toddler-backpack-moon-cloud-blue.png (6→7), training-pant-cloud-raindrop-white.jpg (4→5), founders-holding-pants-yellow-watermelon.png (11→12)
+
+---
+
 ## PART 2 — FULL CREATIVE STRATEGY
 
 ---
@@ -942,95 +1029,3 @@ END OF WIREFRAME — atrisk-23-e3
 ```
 
 ---
-
-## STAGE 2 PICKS — atrisk-23-e3
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 4 body sections.
-
-> **Flow:** pp-at-risk | **Position:** E3 | **Level:** GF
-
-
-### Section 1: HOOK — SOFT RESET OPENER + 3 ANCHORS
-
-- ROLE slot: `hook-soft-reset-opener-3-anchors`
-
-- INTENT: hook block — HOOK — SOFT RESET OPENER + 3 ANCHORS
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — SOFT RESET NORMALIZATION
-
-- ROLE slot: `validation-soft-reset-normalization`
-
-- INTENT: validation block — VALIDATION — SOFT RESET NORMALIZATION
-
-- COMPONENT PICKED: **DEEP-03** — Pattern Break
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 10/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM — ONE THING WORTH TRYING (CALLOUT)
-
-- ROLE slot: `mechanism-one-thing-worth-trying-callout`
-
-- INTENT: mechanism block — MECHANISM — ONE THING WORTH TRYING (CALLOUT)
-
-- COMPONENT PICKED: **DEEP-21** — Three-Layer Story
-
-  - Currently used: 12/8 (over cap post-substitution; was DEEP-14 Sensory Map which is L2-only, not appropriate for GF mechanism)
-  - WHY: by-name position+audience match. DEEP-21 is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF one-thing-worth-trying-callout.
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: CTA — PERMISSION + BUTTON + SECONDARY TEXT
-
-- ROLE slot: `cta-permission-button-secondary-text`
-
-- INTENT: cta block — CTA — PERMISSION + BUTTON + SECONDARY TEXT
-
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 4

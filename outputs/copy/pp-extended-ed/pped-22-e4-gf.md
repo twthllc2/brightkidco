@@ -1154,160 +1154,97 @@ END OF WIREFRAME — pped-22-e4-gf
 
 ## STAGE 2 PICKS — pped-22-e4-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Level-specific (GF) Calibration:** Applied per gf journey-MASTER.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E4 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e4-gf
+- COMPONENT PICKED: CAMIMG-11 (Giveaway Hero *(L19194)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e4-gf, level=gf, theme=4. Calibrated per level.
 
 ### Section 1: HOOK — "WHETHER YOUR CHILD HAS BEEN WEARING..."
+- ROLE slot: prose-block-with-prompt-dependency-mirror-universal
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORYDEEP-07 (The Season Metaphor *(L10011)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: GF 4 section 1 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `hook-whether-your-child-has-been-wearing`
+### Section 2: VALIDATION — "PROMPTING BUILDS COMPLIANCE, NOT BOD
+- ROLE slot: validation-paragraph-stack-with-compliance-vs-
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORYDEEP-08 (The Recipe Card *(L10036)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: GF 4 section 2 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
-- INTENT: hook block — HOOK — "WHETHER YOUR CHILD HAS BEEN WEARING..."
-
-- COMPONENT PICKED: **HERO-11** — Question Storm
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 9/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Section 2: VALIDATION — "PROMPTING BUILDS COMPLIANCE, NOT BODY AWARENESS"
-
-- ROLE slot: `validation-prompting-builds-compliance-not-body-awareness`
-
-- INTENT: validation block — VALIDATION — "PROMPTING BUILDS COMPLIANCE, NOT BODY AWARENESS"
-
-- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Section 3: MECHANISM — "THE UNDERWEAR IS DOING SOMETHING YOUR PROMPTS CAN'T"
-
-- ROLE slot: `mechanism-the-underwear-is-doing-something-your-prompts-can-`
-
-- INTENT: mechanism block — MECHANISM — "THE UNDERWEAR IS DOING SOMETHING YOUR PROMPTS CAN'T"
-
-- COMPONENT PICKED: **EDU-3** — Checklist
-
-  - Currently used: 6/8 (under cap; was DEEP-21 Three-Layer Story which exceeds cap at 8)
-  - WHY: by-name position+audience match. EDU-3 Checklist is a body_mechanism component with full-audience tag, appropriate for GF mechanism-underwear-is-doing block.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+### Section 3: MECHANISM — "THE UNDERWEAR IS DOING SOMETHING YOUR
+- ROLE slot: mechanism-paragraph-stack-with-nicholson-2019-universal-cite
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: ED3 (Interoception Explainer *(L3353)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: GF 4 section 3 visual — calibrated per level (gf)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: PRACTICAL GUIDANCE — 5 SIGNS TO WATCH FOR
-
-- ROLE slot: `practical-guidance-5-signs-to-watch-for`
-
-- INTENT: default block — PRACTICAL GUIDANCE — 5 SIGNS TO WATCH FOR
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: signs-to-watch-for-stacked-list-vertical-5-items
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: STORYDEEP-09 (The Map Journey *(L10064)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: GF 4 section 4 visual — calibrated per level (gf)
+  - Current usage: 21/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: WHEN TO EASE BACK ON PROMPTING — 4 STEPS
-
-- ROLE slot: `when-to-ease-back-on-prompting-4-steps`
-
-- INTENT: signoff block — WHEN TO EASE BACK ON PROMPTING — 4 STEPS
-
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: 4-step-timeline-stacked-vertical-1-to-4-numbers
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: STORYDEEP-10 (The Playlist *(L10094)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: GF 4 section 5 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: TESTIMONIAL — PEER PARENT INITIATION STORY
-
-- ROLE slot: `testimonial-peer-parent-initiation-story`
-
-- INTENT: social_proof block — TESTIMONIAL — PEER PARENT INITIATION STORY
-
-- COMPONENT PICKED: **DEEP-06** — Whisper Network
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: testimonial-paragraph-stack-with-large-quote-glyph
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: SP5 (Counter Testimonial *(L3277)*)
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
 ### Section 7: CTA — GF SOFT INCLUSIVE
+- ROLE slot: cta-stack-with-warm-coral-button-and-soft-teal-
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: CTADEEP-06 (The Dual Path *(L11652)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
-- ROLE slot: `cta-gf-soft-inclusive`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: cta block — CTA — GF SOFT INCLUSIVE
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-11', 'STORYDEEP-07', 'STORYDEEP-08', 'ED3', 'STORYDEEP-09', 'STORYDEEP-10', 'SP5', 'CTADEEP-06']
+- image-usage.json: incremented ['lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'accessories/potty-targets-stickers-chart.png', 'flat-lay/training-pant-watermelon-pink.jpg', 'lifestyle/founders-holding-pants-yellow-watermelon.png', 'accessories/wet-bags-space-zebra-llama.png']
 
-- COMPONENT PICKED: **CTA-10** — Soft Button
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Section 8: LENA SIGN-OFF (MEDIUM VARIANT) + LATE-MIGRATION P.S.
-
-- ROLE slot: `lena-sign-off-medium-variant-late-migration-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) + LATE-MIGRATION P.S.
-
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

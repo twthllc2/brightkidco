@@ -727,157 +727,44 @@ END OF WIREFRAME — sunset-25-e1
 
 ---
 
+---
+
 ## STAGE 2 PICKS — sunset-25-e1
 
 
-> **Sunset Calibration:** Dignified farewell. NO retention pressure. NO countdown. NO scarcity.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** sunset | **Position:** E1 | **Level:** GF
-
-
-### Section 1: HERO ILLUSTRATION — "THRESHOLD" H2
-
-- ROLE slot: `hero-illustration-threshold-h2`
-
-- INTENT: image_block block — HERO ILLUSTRATION — "THRESHOLD" H2
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 2: HOOK + VALIDATION — "WE HAVEN'T HEARD FROM YOU"
-
-- ROLE slot: `hook-validation-we-haven-t-heard-from-you`
-
-- INTENT: hook block — HOOK + VALIDATION — "WE HAVEN'T HEARD FROM YOU"
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 3: PERMISSION — CLEAR CHOICE
-
-- ROLE slot: `permission-clear-choice`
-
-- INTENT: cta block — PERMISSION — CLEAR CHOICE
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 4: CTA — "YES, KEEP ME UPDATED"
-
-- ROLE slot: `cta-yes-keep-me-updated`
-
-- INTENT: cta block — CTA — "YES, KEEP ME UPDATED"
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 5: FOOTER CLOSE — "THE DOOR IS ALWAYS OPEN"
-
-- ROLE slot: `footer-close-the-door-is-always-open`
-
-- INTENT: signoff block — FOOTER CLOSE — "THE DOOR IS ALWAYS OPEN"
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 6: LENA SIGN-OFF — SHORT VARIANT
-
-- ROLE slot: `lena-sign-off-short-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
-
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 7: P.S. — PEER REPLY INVITE
-
-- ROLE slot: `p-s-peer-reply-invite`
-
-- INTENT: cta block — P.S. — PEER REPLY INVITE
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 8: FOOTER — STATIC
-
-- ROLE slot: `footer-static`
-
-- INTENT: signoff block — FOOTER — STATIC
-
-- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
+> **Sunset E1 — Stay-affirmation (yes-CTA + door open)** — Cross-Level (R1-R6 + V16 + GF levers).
+> Sunset email — dignified farewell respecting the user's choice. NO aggressive CTAs. The CTA on E1 (stay-affirmation) is a permission button, not a push.
+
+
+### Components (6/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| HERO-THRESHOLD-OPEN-DOORWAY | **HERO-22** | Custom fresh hero — open-doorway threshold metaphor |
+| PROSE-VALIDATION-NO-GUILT | **EMODEEP-09** | Stacked validation — 'we haven't heard from you', zero guilt |
+| PERMISSION-CLEAR-CHOICE | **PSYCH-09** | Permission paragraph — clear choice, zero pressure |
+| CTA-SAGE-GREEN-STAY | **CTA-7** | Sage-green stay-affirmation CTA — gentle |
+| FOOTER-DOOR-ALWAYS-OPEN | **UTIL-10** | Italic footer close — 'the door is always open' |
+| PS-PEER-MOM-REPLY-INVITE | **EMODEEP-13** | P.S. — peer mom reply invite |
+| LENA-SIGNOFF-SHORT-MID + FOOTER | **33.2** | Lena sig mid-flow + sunset admin footer |
+
+### Images (5/6)
+
+- `lifestyle/toddler-backpack-moon-cloud-blue.png` — Toddler at threshold with backpack. (Current: 8/25)
+- `flat-lay/laundry-bag-llama-cream.png` — Llama wash bag on cream. (Current: 10/25)
+- `accessories/wet-bags-space-zebra-llama.png` — Wet bag space zebra. (Current: 6/25)
+- `accessories/cloth-pads-watermelon-astronaut-cat.png` — Cloth pads watermelon astronaut cat. (Current: 3/25)
+- `flat-lay/training-pant-fox-woodland-white.jpg` — Woodland fox training pant white. (Current: 5/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+- `component-usage.json`: HERO-22 0 → 1
+- `component-usage.json`: EMODEEP-09 0 → 1
+- `component-usage.json`: PSYCH-09 0 → 1
+- `component-usage.json`: CTA-7 4 → 5
+- `component-usage.json`: UTIL-10 1 → 2
+- `component-usage.json`: EMODEEP-13 0 → 1
+- `image-usage.json`: `lifestyle/toddler-backpack-moon-cloud-blue.png` 8 → 9
+- `image-usage.json`: `flat-lay/laundry-bag-llama-cream.png` 10 → 11
+- `image-usage.json`: `accessories/wet-bags-space-zebra-llama.png` 6 → 7
+- `image-usage.json`: `accessories/cloth-pads-watermelon-astronaut-cat.png` 3 → 4
+- `image-usage.json`: `flat-lay/training-pant-fox-woodland-white.jpg` 5 → 6

@@ -733,139 +733,83 @@ END OF WIREFRAME — welcome-01-e4-gf
 =================================================================
 ```
 
-
 ## STAGE 2 PICKS — welcome-01-e4-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E4).
-> Scope: 6 sections (candid hero / absolution callouts / stat
-> stacked / three-family testimonial / product minimal / migration
-> anchor + signoff).
-> GF calibration: R1–R6 strict, V16 symptom language only,
-> 50/50 hope/realism; second migration anchor lands here per
-> GF-V3 rotation (L2-style symptom profile).
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E4: **Anchor #2 (L2-style Lisa):** 'If your child is 7, has the words, but never connects them to the action — read Lisa's story.'
 
-### Section 1: HOOK — THE WRONG-BATTLE REFRAME
-- ROLE slot: `hero-lifestyle-candid-gf`
-- INTENT: a candid lifestyle photo of a child playing in real
-  home; soft natural light, warm tones; THREE-child composite
-  rule applies per GF-V1.
-- COMPONENT PICKED: **DEEPIMG-19** — Lifestyle Mosaic
-  - From catalog: position=body_images, image_support=image_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: lifestyle-mosaic structurally supports the 3-child
-    composite feel by composite layout; Stage 3 will use one
-    specific panel as the hero frame.
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-  - Dimensions: 1200×800.
-  - Alt text (V16 spec): "Child with backpack in real home,
-    soft natural light, ambiguous age."
-  - Currently used: 0/25.
-  - WHY: warm-tone ambiguous-age lifestyle photo satisfying
-    GF-V1 sub-group variance rule.
-- VARIANCE CHECK: differs from E3 S1 (3-card triptych vs lifestyle).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S1: Hook — The Wrong-Battle Reframe
+- ROLE slot: hero-lifestyle-candid-gf
+- INTENT: Candid lifestyle photo of a child playing, no specific age.
+- COMPONENT PICKED: HERO-11  (Question Storm [A*] (HERO, universal))
+  - Current usage: 1/8
+  - WHY: Question Storm hero for the 'wrong-battle reframe' — symptom-led, never level-labeled.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: Toddler outdoors on grass, soft natural light, no specific age marker
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: VALIDATION — THE "YOU HAVEN'T FAILED" ABSOLUTION
-- ROLE slot: `callout-quote-highlight-gf` (×2 stacked)
-- INTENT: highlights the two absolution quotes ("the method
-  didn't fail; the frame did" — softened per GF Sub-Group B
-  compatibility — never the maternal-blame version).
-- COMPONENT PICKED: **4.5** — Cream Callout
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: cream-dashed callout structurally fits a 2-stacked
-    quote pair; Stage 3 will use cream + terracotta left-border
-    accents per GF Creative Strategy.
-- IMAGE PICKED: none (text-only callout).
-- VARIANCE CHECK: differs from S1 (callout vs hero image).
-- GF CALIBRATION CHECK: ✅ V16 attribution: "the method didn't fail.
-  The frame did." — NOT the maternal-blame version.
+### S2: Validation — 'You Haven't Failed' Absolution
+- ROLE slot: callout-quote-highlight-gf (×2 stacked)
+- INTENT: Two absolution quotes, GF-B softened frame.
+- COMPONENT PICKED: DEEP-09  (The Invisible Struggle [A*] (RECOGNITION & STORY, absolution))
+  - Current usage: 1/8
+  - WHY: The Invisible Struggle — absolution block (forbidden-shame section), R1 symptom-first.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: Child near a yellow woodland-themed potty ladder, soft home light
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: MECHANISM — INTEROCEPTION + BODY-SIGNAL LAYER
-- ROLE slot: `stat-callout-stacked-gf` (49% SPARK stat)
-- INTENT: the stat is presented as the validation anchor for
-  mechanism; visual is a full-width stat band.
-- COMPONENT PICKED: **21.1** — Large Number Callout
-  - From catalog: position=guarantee_trust, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: large-number callout is structurally the cleanest 48px+
-    stat anchor container; Stage 3 will paint with Brand-Green
-    accent on cream background.
-  - V16 NOTE: stat must use GF paraphrase form ("almost 1 in 2
-    children whose nervous systems process signals differently")
-    — never the L1 "49% of autistic 4-5 year olds" string.
-- IMAGE PICKED: none (text-only stat band).
-- VARIANCE CHECK: differs from S2 (large-number vs callout).
-- GF CALIBRATION CHECK: ✅ V16 paraphrase.
+### S3: Mechanism — Interoception + Body-Signal Layer
+- ROLE slot: stat-callout-stacked-gf
+- INTENT: 49% stat in V16 paraphrase as validation anchor.
+- COMPONENT PICKED: EDU-11  (Science Citation [A*] (MECHANISM & EDUCATION, interoception research))
+  - Current usage: 2/8
+  - WHY: Science Citation — Wiggins 2022 / Nicholson 2019 interoception citations, R6-friendly.
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: Yellow giraffe swim diaper laid flat, neutral surface
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 4: STORY-LED — THREE-FAMILY TESTIMONIAL PATTERN
-- ROLE slot: `three-family-testimonial-strip-gf` (3 stacked)
-- INTENT: the Three-Family Pattern — covers full symptom spectrum
-  without naming levels.
-- COMPONENT PICKED: **OBJ-15.2** — Three Guarantees Stack
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: structurally a 3-card stack with body + attribution; can
-    hold the Three-Family Pattern quotes with attribution rewritten
-    to symptom-only ("Mom of a 7-year-old" — not "Level 2 mom").
-    Stage 3 will paint with varied warm-tone left-border accents.
-  - V16 NOTE: rewrite attribution to symptom-described only.
-- IMAGE PICKED: none (text-only 3-card stack).
-- VARIANCE CHECK: differs from S3 (3-card narrative vs stat band).
-  Also differs from E3 S1 (different component = "Three Pillars"
-  vs "Three Guarantees Stack" — both visually distinct cards).
-- GF CALIBRATION CHECK: ✅ symptom-described attribution.
+### S4: Story-Led — Three-Family Testimonial
+- ROLE slot: three-family-testimonial-strip-gf
+- INTENT: Three symptom-described stories, no level labels.
+- COMPONENT PICKED: 22.2  (Three-Family Bridge [A] (MECHANISM & EDUCATION, GF 5-subgroup fit))
+  - Current usage: 1/8
+  - WHY: Three-Family Bridge — 5-sub-group GF fixture (L1/L2/L3 stories all symptom-described).
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: Training pants near a washing machine, real laundry moment
+  - Current usage: 4/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 5: PRODUCT + GUARANTEE + LATE CTA
-- ROLE slot: `product-3-layer-minimal-line-art-gf`
-- INTENT: introduces the 3-layer product system with the 60-day
-  guarantee before the late CTA. Button: "Start with the 3+3
-  Bundle — Free Shipping."
-- COMPONENT PICKED: **PDISP-3** — 3-Layer System Diagram
-  - From catalog: position=product_showcase, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: 3-layer system diagram is the cleanest structural fit for
-    wireframe's "minimal line-art" framing; Stage 3 will paint with
-    cream + warm-cream alternating row shading.
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-  - Dimensions: small resized version.
-  - Alt text (V16 spec): "Toddler at play, soft natural light,
-    ambiguous age, real home."
-  - Currently used: 0/25.
-  - WHY: supports warm-product-tied lifestyle photo alongside
-    minimal line-art system diagram.
-- VARIANCE CHECK: differs from S4 (diagram + image vs card stack).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S5: Product + Guarantee + Late CTA
+- ROLE slot: product-3-layer-minimal-line-art-gf
+- INTENT: Minimal line-art 3-layer system, late CTA, 60-day guarantee.
+- COMPONENT PICKED: PROD-5  (Feature Grid [A*] (PRODUCT SHOWCASE, showcase-allowed))
+  - Current usage: 1/8
+  - WHY: Feature Grid — minimal line-art variant of the product family, showcase-allowed.
+- COMPONENT PICKED: TRUST-2  (Guarantee Detail Cards [A*] (GUARANTEE & TRUST, 60-day deep))
+  - Current usage: 4/8
+  - WHY: Guarantee Detail Cards — deep 60-day guarantee (60 days to try it, by your judgment).
+- COMPONENT PICKED: CTA-4  (Gentle Invite [A*] (CTA — THE CLOSE, balanced aggression))
+  - Current usage: 3/8
+  - WHY: Gentle Invite — late CTA with permission-not-to-buy framing.
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: Llama and cactus towel set, soft flat-lay
+  - Current usage: 7/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 6: MIGRATION ANCHOR #2 (L2-STYLE) + LENA SIGN-OFF
-- ROLE slot: `migration-anchor-link-gf` (subtle) + signoff
-- INTENT: the SECOND migration anchor per GF-V3 rotation —
-  L2-style symptom profile ("pees the second her pull-up comes
-  off"), rendered as a warm-underlined text link; followed by Lena
-  MEDIUM sign-off.
-- COMPONENT PICKED: **CTA-2** — Soft Link (this slot) +
-  **12.1** — Lena Signoff (uses Signoff) (signoff slot)
-  - Both currently used: 0/8 each (note: 12.1 used once already in
-    E2 — at 1/8, CTA-2 at 1/8 from E2. Within-email variance:
-    migration anchor and signoff are distinct slots — no
-    adjacent-section collision).
-  - V16 NOTE: anchor text symptom-only — "If your child is 7, has
-    the words, but never connects them to the action — read Lisa's
-    story." Lisa is the L2-profile name (migration profile), NOT
-    a level label.
-- IMAGE PICKED: none.
-- VARIANCE CHECK: differs from S5 (text link vs diagram + image);
-  signoff differs from link.
-- GF CALIBRATION CHECK: ✅ symptom profile anchor.
+### S6: Migration Anchor #2 (L2-style) + Lena Sign-off
+- ROLE slot: migration-anchor-link-gf + signoff-lena-medium-gf
+- INTENT: L2-style symptom profile, Lena MEDIUM signoff.
+- COMPONENT PICKED: EMO-4  (Empathy Block [A*] (EMOTIONAL SUPPORT, mirror moment))
+  - Current usage: 2/8
+  - WHY: Empathy Block — 'the method didn't fail. The frame did' (GF B-friendly softened frame).
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted Giuliano.
-- Footer: extracted Giuliano.
-- Sign-off: covered by Section 6 (12.1 — used already in E2;
-  counted here as 2/8 in the tracker).
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
 
-### Tracker updates applied
-- component-usage.json: DEEPIMG-19 +1, 4.5 +1, 21.1 +1, OBJ-15.2 +1,
-  PDISP-3 +1, CTA-2 +1 (now 2/8), 12.1 +1 (now 2/8).
-- image-usage.json: lifestyle/toddler-backpack-moon-cloud-blue.png +1,
-  resized/toddler-playing.jpg +1 (each now 1/25).
+### Tracker updates
+- component-usage.json: incremented HERO-11, DEEP-09, EDU-11, 22.2, PROD-5, TRUST-2, CTA-4, EMO-4
+- image-usage.json: incremented lifestyle/toddler-outdoors-grass-disposable-diaper.png, lifestyle/toddler-potty-ladder-yellow-woodland.png, flat-lay/swim-diaper-giraffe-yellow.jpg, lifestyle/washing-machine-training-pants.png, accessories/towel-set-llama-cactus.png

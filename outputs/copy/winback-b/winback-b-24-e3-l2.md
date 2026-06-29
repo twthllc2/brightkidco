@@ -953,138 +953,97 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 ## STAGE 2 PICKS — winback-b-24-e3-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** winback-b | **Position:** E9 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e3-l2
+- COMPONENT PICKED: CSHOP-9 (Launch Social *(L25260)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e3-l2, level=l2, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — Two Months, Last Email Declaration
-
-- ROLE slot: `hook-two-months-last-email-declaration`
-
-- INTENT: hook block — HOOK — Two Months, Last Email Declaration
-
-- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
-
-  - Currently used: 31/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: EMODEEP-04 (The Empathy Mirror *(L12072)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: L2 3 section 1 visual — calibrated per level (l2)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — Failed-Method Naming (L2 ① ③)
-
-- ROLE slot: `validation-failed-method-naming-l2`
-
-- INTENT: validation block — VALIDATION — Failed-Method Naming (L2 ① ③)
-
-- COMPONENT PICKED: **PERS-04** — Dynamic Progress
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: validation-prose-warm-cream-with-failed-method-list
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EMODEEP-09 (The Grief Validation *(L12221)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: L2 3 section 2 visual — calibrated per level (l2)
+  - Current usage: 18/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM REFRESHER + SCIENCE (L2 ②)
-
-- ROLE slot: `mechanism-refresher-science-l2`
-
-- INTENT: mechanism block — MECHANISM REFRESHER + SCIENCE (L2 ②)
-
-- COMPONENT PICKED: **HERO-17** — Social Proof Hero
-
-  - Currently used: 48/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: mechanism-mint-callout-with-spark-stat
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: DESDEEP-4 (The Minimalist Statement *(L13212)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: L2 3 section 3 visual — calibrated per level (l2)
+  - Current usage: 16/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: BCBA ACKNOWLEDGMENT + NEW TESTIMONIAL (L2 ③)
-
-- ROLE slot: `bcba-acknowledgment-new-testimonial-l2`
-
-- INTENT: social_proof block — BCBA ACKNOWLEDGMENT + NEW TESTIMONIAL (L2 ③)
-
-- COMPONENT PICKED: **LETTER-12** — Fragmented Text
-
-  - Currently used: 22/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: pull-quote-bcba-endorsement-with-l2-testimonial
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: SP2 (Review Quote Card *(L3208)*)
+  - Catalog entry: position=body_social_proof, audience=['L2']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: L2 3 section 4 visual — calibrated per level (l2)
+  - Current usage: 18/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: REALISTIC TIMELINES + GUARANTEE (L2 ④ ⑤)
-
-- ROLE slot: `realistic-timelines-guarantee-l2`
-
-- INTENT: guarantee block — REALISTIC TIMELINES + GUARANTEE (L2 ④ ⑤)
-
-- COMPONENT PICKED: **STORY-15** — Story Carousel — Horizontal scrollable cards
-
-  - Currently used: 48/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: timeline-stack-vertical-with-guarantee-anchor
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: TRUST-6 (Covered vs Not Covered *(L6537)*)
+  - Catalog entry: position=guarantee_trust, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: L2 3 section 5 visual — calibrated per level (l2)
+  - Current usage: 16/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PERMISSION-NOT-TO-BUY + FINAL CTA (L2 ⑥)
-
-- ROLE slot: `permission-not-to-buy-final-cta-l2`
-
-- INTENT: cta block — PERMISSION-NOT-TO-BUY + FINAL CTA (L2 ⑥)
-
-- COMPONENT PICKED: **CTA-3** — Curiosity Code
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: permission-prose-warm-cream-with-final-cta
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTADEEP-15 (The Promise CTA *(L11887)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
 ### Section 7: LENA SIGN-OFF — LONG VARIANT + DOUBLE P.S.
+- ROLE slot: lena-signoff-long-with-two-sons-ps-and-reply-pps
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-04 (Footer (Giuliano source) *(L7571)*)
+  - Catalog entry: position=signoff_footer, audience=['L2']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `lena-sign-off-long-variant-double-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + DOUBLE P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-9', 'EMODEEP-04', 'EMODEEP-09', 'DESDEEP-4', 'SP2', 'TRUST-6', 'CTADEEP-15', 'UTIL-04']
+- image-usage.json: incremented ['flat-lay/training-pant-watermelon-pink.jpg', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/laundry-bag-llama-cream.png', 'lifestyle/washing-machine-training-pants.png']
 
-- COMPONENT PICKED: **DEEP-23** — The Permission Slip
-
-  - Currently used: 49/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

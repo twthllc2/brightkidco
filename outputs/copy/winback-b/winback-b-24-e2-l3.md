@@ -838,106 +838,69 @@ END OF WIREFRAME — winback-b-24-e2-l3
 
 ## STAGE 2 PICKS — winback-b-24-e2-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 5 body sections.
-
-> **Flow:** winback-b | **Position:** E11 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e2-l3
+- COMPONENT PICKED: CSHOP-24 (Back-to-School *(L25709)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e2-l3, level=l3, theme=2. Calibrated per level.
 
 ### Section 1: HOOK / OBSERVATION — Still Reading
-
-- ROLE slot: `hook-observation-still-reading`
-
-- INTENT: hook block — HOOK / OBSERVATION — Still Reading
-
-- COMPONENT PICKED: **8** — CTA Varieties (Permission-Based)
-
-  - Currently used: 33/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Section 2: DEEP VALIDATION — Acknowledgment of the
-             Journey
-
-- ROLE slot: `deep-validation-acknowledgment-of-the-journey`
-
-- INTENT: validation block — DEEP VALIDATION — Acknowledgment of the
-             Journey
-
-- COMPONENT PICKED: **PERS-04** — Dynamic Progress
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: opening-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: PRODEEP-6 (The Wear Test *(L10524)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: L3 2 section 1 visual — calibrated per level (l3)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: NEW SCIENCE CITATION — Frontiers Meta-Analysis
-
-- ROLE slot: `new-science-citation-frontiers-meta-analysis`
-
-- INTENT: mechanism block — NEW SCIENCE CITATION — Frontiers Meta-Analysis
-
-- COMPONENT PICKED: **EMO-9** — Strength Reframe
-
-  - Currently used: 50/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-warm-sand-callout-with-frontiers-meta
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: PRODEEP-7 (The Color Personality *(L10553)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: L3 2 section 3 visual — calibrated per level (l3)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: UPDATED OFFER — Just a Pair of Underwear
-
-- ROLE slot: `updated-offer-just-a-pair-of-underwear`
-
-- INTENT: offer block — UPDATED OFFER — Just a Pair of Underwear
-
-- COMPONENT PICKED: **2.1** — Lilac Gradient Hero
-
-  - Currently used: 50/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: offer-prose-warm-cream-pair-simplification
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: PRODEEP-8 (The Bundle Builder *(L10584)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: L3 2 section 4 visual — calibrated per level (l3)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps-l3
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 6/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: L3 2 section 5 visual — calibrated per level (l3)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 4/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-24', 'PRODEEP-6', 'PRODEEP-7', 'PRODEEP-8', 'UTIL-09']
+- image-usage.json: incremented ['lifestyle/toddler-rearview-cat-mustard.png', 'flat-lay/training-pant-fox-woodland-white.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png', 'accessories/potty-targets-stickers-chart.png']
 
-- COMPONENT PICKED: **M7** — Recognition Block (Mobile)
-
-  - Currently used: 50/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

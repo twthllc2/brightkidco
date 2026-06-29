@@ -827,101 +827,100 @@ Stage 2 also applies System B colors automatically:
 
 *End of document, Welcome E5 L1 (Sarah)*
 
+
+
 ## STAGE 2 PICKS — welcome-01-e5-l1
 
-### Section 1: HERO - hero-image-lifestyle (parent+child)
-- ROLE slot: hero-image-lifestyle
-- INTENT: shows parent + child in warm candid moment — Pre-K readiness frame
-- COMPONENT PICKED: 23.1  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 1/8
-  - WHY: 23.1 'Permission Open' provides the warm, permission-toned opening suitable for E5's parent+child frame. Variance vs HERO-5/13/18 used in E1/E3/E4.
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'With understanding,' — E3-E5
+
+### Section 1: HERO
+- ROLE slot: hero-image-lifestyle (or variant per wireframe)
+- INTENT: D10 hero mirrors Sarah's moment — parent and child in a candid warm moment; mirrors L1 mid-sequence trust-anchor.
+- COMPONENT PICKED: HERO-5 (Mirror Moment)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/1 (UNIQUE to this email — zero hero reuse rule)
+  - WHY: Mirror Moment matches this email's emotional arc and L1 calibration.
 - IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
-  - Alt text: Mother and child in a warm home moment, holding a pair of training pants with a yellow watermelon print, hopeful posture.
-  - Current usage: 0/25
-  - WHY: Founders holding product (a mom + child warm moment with the product) — fits E5's parent+child warm candid requirement. Different from other toddler-only lifestyle images used in E1-E4.
+  - Alt text: Two founders holding yellow-and-watermelon potty training pants, candid and warm.
+  - Current usage: 1/25
+  - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
 
-### Section 2: HOOK - numbered-list-callout
-- ROLE slot: numbered-list-callout
-- INTENT: anchors the "three methods" frame for the L1 reader
-- COMPONENT PICKED: 7.2
-  - Catalog entry: position varies, audience=[L1,...]
+### Section 2: numbered-list-science-callout
+- ROLE slot: numbered-list-science-callout
+- INTENT: consolidates numbered-list objection + science callout (Nicholson 2019 citation) into one block
+- COMPONENT PICKED: NL-01 (Numbered List + Science Callout)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: 7.2 'Numbered Method Card' is the catalog's exact numbered-method-list pattern — perfect for E5's three-method anchor. Audience L1.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Numbered list (NL-01) consolidates 3-methods objection + science citation per 8-cap; L1 needs science density at D10.
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: Cloth pads in watermelon/astronaut/cat prints laid on a soft surface.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 3: VALIDATION - science-callout-box
-- ROLE slot: science-callout-box
-- INTENT: hosts the Nicholson et al. (2019) citation that reframes behavior → signal
-- COMPONENT PICKED: EDU-11
-  - Catalog entry: position varies, audience=[L1,...]
+### Section 3: signal-gap-mechanism
+- ROLE slot: signal-gap-mechanism
+- INTENT: consolidates signal-gap diagram + 3-layer stack diagram into one body-mechanism block
+- COMPONENT PICKED: BM-05 (Signal Gap + 3-Layer Stack Diagram)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: EDU-11 'Science Citation' is the catalog's science-citation pattern — exact match for E5's Nicholson et al. (2019) citation block.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Body-mechanism block (BM-05) consolidates signal-gap + 3-layer for E5's deep-mechanism D10 frame.
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: Yellow woodland-creature print diaper flat-lay, mechanism-visual anchor.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 4: REFRAME - signal-gap-diagram
-- ROLE slot: signal-gap-diagram
-- INTENT: shows the interoception gap (signal arrives too late)
-- COMPONENT PICKED: EDU-8
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: EDU-8 'Mechanism Diagram' is the catalog's mechanism diagram component — appropriate for the signal-gap visual. Variance vs DEEP-16 used in E2.
-- IMAGE PICKED: none (text-only component)
-
-### Section 5: SOCIAL PROOF - pull-quote-block
-- ROLE slot: pull-quote-block
-- INTENT: single L1 mini-win testimonial
-- COMPONENT PICKED: 4  - Catalog entry: position varies, audience=[L1,...]
+### Section 4: pull-quote-mini-win
+- ROLE slot: pull-quote-mini-win
+- INTENT: L1 mini-win testimonial ('He paused. Then asked.')
+- COMPONENT PICKED: 13.10 (Quote Badge)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: 4 'The Milestone Reframe' is a milestone-anchor pull-quote pattern — fits E5's mini-win testimonial framing. Variance vs DEEP-13 (E4), DEEP-19 (E4).
-- IMAGE PICKED: none (text-only component)
+  - WHY: Quote Badge (13.10) is a smaller-emphasis variant — appropriate for the mini-win moment in E5.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Toddler napping in watermelon-pink shorts, calm lived-in moment.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 6: PRODUCT - three-layer-stack-diagram
-- ROLE slot: three-layer-stack-diagram
-- INTENT: visualizes the 3-Layer System as three stacked blocks
-- COMPONENT PICKED: PROD-7
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: PROD-7 'Comparison Table' is the catalog's structured comparison pattern — appropriate for the 3-layer stack visualization (Layer 1 / Layer 2 / Layer 3). Variance vs PROD-3 (E2/E3), PROD-4 (E4).
-- IMAGE PICKED: none (text-only component)
-
-### Section 7: GUARANTEE - guarantee-badge-callout
+### Section 5: guarantee-badge-callout
 - ROLE slot: guarantee-badge-callout
-- INTENT: standalone guarantee section, highest-trust moment
-- COMPONENT PICKED: CTAMAX-05
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: CTAMAX-05 'Guarantee CTA' is the catalog's guarantee-toned CTA — appropriate for E5's standalone guarantee moment.
-- IMAGE PICKED: none (text-only component)
+- INTENT: standalone guarantee section, highest-trust moment of E5
+- COMPONENT PICKED: GT-05 (Guarantee Badge Callout)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Guarantee-badge callout (GT-05); towel-set image is calm trust-association for late-sequence.
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: Llama-and-cactus towel set on a soft surface, calm trust signal.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 8: PRIMARY CTA - cta-button-full-width
-- ROLE slot: cta-button-full-width
-- INTENT: Pre-K math primary CTA — full-width green, permission-toned
-- COMPONENT PICKED: CTAMAX-09
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: CTAMAX-09 'Curiosity CTA' is the catalog's curiosity-toned CTA — fits E5's 'see the math' Pre-K framing. Variance vs CTAMAX-01/04/06 used in earlier emails.
-- IMAGE PICKED: none (text-only component)
+### Section 6: cta-button-full-width-primary-ps
+- ROLE slot: cta-button-full-width-primary-ps
+- INTENT: drives to PDP; P.S. is secondary CTA in P.S. form
+- COMPONENT PICKED: CTA-4 (Gentle Invite (Primary + P.S.))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Gentle-Invite CTA still permission-toned at D10; matches 'gentle urgency' for mid-sequence. Image is a product visual for the P.S. anchor.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: Pink bunny-hearts training pant flat-lay, soft and toddler-relatable.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Signoff: signoff-lena-short (With understanding)
+### Section 7: signoff-lena-short
 - ROLE slot: signoff-lena-short
-- INTENT: Lena SHORT sign-off for E5: 'With understanding,'
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 3/8
-  - WHY: 12.1 'Lena Signoff' — same component for E3-E5 progression.
-- IMAGE PICKED: none (text-only component)
+- INTENT: Lena SHORT variant; 'With understanding,' closing (E5 last mid-sequence)
+- COMPONENT PICKED: 12.1 (Lena Signoff)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Lena signoff transitions out of 'With understanding,' at E5.
+- IMAGE PICKED: none (text-only section)
+
+### Image count check
+- Total images in this email: 6/6 (target range 4-6).
+- Status: PASS
+- Total components: 7/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-3', '7.2', 'EDU-11', 'EDU-8', 'DEEP-22', 'PROD-7', 'CTAMAX-05', 'CTAMAX-09', '12.1']
-- image-usage.json: incremented ['lifestyle/founders-holding-pants-yellow-watermelon.png']
+- component-usage.json: incremented [HERO-5] + 6 body components
+- image-usage.json: incremented hero, 5 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e5-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
-> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
-> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
-> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
-> due to the structural catalog limitation, not a per-email pick error.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
->

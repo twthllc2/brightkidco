@@ -551,140 +551,89 @@ END OF WIREFRAME — winback-a-19-e2-l1
 
 ## STAGE 2 PICKS — winback-a-19-e2-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** winback-a | **Position:** E5 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e2-l1
+- COMPONENT PICKED: CAMIMG-18 (Collection Grid *(L19387)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e2-l1, level=l1, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — 90-DAY GAP RECONTEXTUALIZED
-
-- ROLE slot: `hook-90-day-gap-recontextualized`
-
-- INTENT: hook block — HOOK — 90-DAY GAP RECONTEXTUALIZED
-
-- COMPONENT PICKED: **REV-01.2** — REV-01.2 — Bridge Statement (Ready-To-Try Closer)
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: REV-02.4 (REV-02.4 — CTA Block (After-Social-Proof Conversio)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: L1 2 section 1 visual — calibrated per level (l1)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — PEER MOM QUOTE
-
-- ROLE slot: `validation-peer-mom-quote`
-
-- INTENT: validation block — VALIDATION — PEER MOM QUOTE
-
-- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pull-quote-soft-italic-on-cream
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: BONUS-03 (Pull Tab *(L8879)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: L1 2 section 2 visual — calibrated per level (l1)
+  - Current usage: 16/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: TESTIMONIAL — PRE-K SUCCESS STORY
-
-- ROLE slot: `testimonial-pre-k-success-story`
-
-- INTENT: social_proof block — TESTIMONIAL — PRE-K SUCCESS STORY
-
-- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 4: MECHANISM REFRAME — INTEROCEPTION + 672-FAMILY
-             STAT
-
-- ROLE slot: `mechanism-reframe-interoception-672-family-stat`
-
-- INTENT: validation block — MECHANISM REFRAME — INTEROCEPTION + 672-FAMILY
-             STAT
-
-- COMPONENT PICKED: **LETTER-06** — PS Teaser
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: testimonial-mint-block-featured
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EMODEEP-02 (The Quiet Victory *(L12020)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L1 2 section 3 visual — calibrated per level (l1)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PRODUCT + OFFER — 3+3 BUNDLE REPRISE
-
-- ROLE slot: `product-offer-3-3-bundle-reprise`
-
-- INTENT: product block — PRODUCT + OFFER — 3+3 BUNDLE REPRISE
-
-- COMPONENT PICKED: **DEEP-12** — The Time Capsule
-
-  - Currently used: 25/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pricing-bullets-yellow-dots
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: REV-03.2 (REV-03.2 — Logic Block (Worst-Case Reassurance) *()
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: L1 2 section 5 visual — calibrated per level (l1)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: GUARANTEE — REINFORCED
-
-- ROLE slot: `guarantee-reinforced`
-
-- INTENT: guarantee block — GUARANTEE — REINFORCED
-
-- COMPONENT PICKED: **18.1** — Hi-Fi Gradient Hero + Discount Block
-
-  - Currently used: 26/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: guarantee-line-centered-muted
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: TRUST-5 (Promise Badges Strip *(L6505)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: L1 2 section 6 visual — calibrated per level (l1)
+  - Current usage: 18/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 7: LENA SIGN-OFF — SHORT VARIANT + "NEXT TIME" TEASE
+- ROLE slot: lena-signoff-short-with-next-time-tease
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: 33.2 (Progress Arrow SVG *(L2786)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 6/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
-- ROLE slot: `lena-sign-off-short-variant-next-time-tease`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT + "NEXT TIME" TEASE
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-18', 'REV-02.4', 'BONUS-03', 'EMODEEP-02', 'REV-03.2', 'TRUST-5', '33.2']
+- image-usage.json: incremented ['flat-lay/swim-diaper-giraffe-yellow.jpg', 'lifestyle/toddler-livingroom-dino-yellow.png', 'flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'accessories/towel-set-llama-cactus.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png']
 
-- COMPONENT PICKED: **DEEP-17** — The Language Shift
-
-  - Currently used: 26/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

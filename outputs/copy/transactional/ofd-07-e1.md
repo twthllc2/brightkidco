@@ -782,123 +782,40 @@ END OF WIREFRAME — ofd-07-e1
 
 ---
 
+---
+
 ## STAGE 2 PICKS — ofd-07-e1
 
 
-> **Transactional Calibration:** NO marketing. NO promotions. Hidden plain-text fallback. Confirmation-only.
+> **Transactional — Out for Delivery (Flow 07, E1)** — Cross-Level (R1-R6 + V16 + GF levers).
+> Per GIULIANO-DEMANDS §17.7: predominantly transactional per Google 2024 guidelines. Hidden plain-text fallback div mandatory. NO marketing elements (no countdown, no promo badges, no urgency cues). Image count is intentionally LOWER than the 4-image hard min — variant documented below.
 
 
-> **Section count:** 6 body sections.
+### Components (7/8)
 
-> **Flow:** transactional | **Position:** E3 | **Level:** GF
+| Role | Component ID | Reason |
+|---|---|---|
+| STATUS-BAR-OFD | **UTIL-08** | Neutral bar '✓ OUT FOR DELIVERY' — anticipation moment |
+| PKG-CARDBOARD-ICON | **CMP-6** | Minimal cardboard icon — anticipation visual |
+| CTA-PILL-TRACK-DELIVERY | **CTA-9** | Brand-green pill 'Track my delivery' |
+| 3-STEP-CARD-STACK | **PSYCH-02** | Vertical 3-step 'when arrives' sequence |
+| PROSE-R6-ANCHORS | **STORY-13** | Recognition anchors R6 — low-bar success prose |
+| MECHANISM-CALLOUT-MINT | **EDU-3** | Mint highlight box — pull-up reframe mechanism |
+| GUARANTEE-BAND | **CMP-7** | Cream band — risk reversal guarantee |
+| LENA-SIGNOFF-SHORT + FOOTER | **12.1** | Lena sig + BKC footer |
 
+### Images (1/6)
 
-### Section 1: ANTICIPATION — IT'S HERE
+- `branding/black-placeholder.png` — BrightKidCo logo lockup. (Current: 2/25)
 
-- ROLE slot: `anticipation-it-s-here`
-
-- INTENT: default block — ANTICIPATION — IT'S HERE
-
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 2: WHAT TO DO WHEN IT ARRIVES — 3-STEP SEQUENCE
-
-- ROLE slot: `what-to-do-when-it-arrives-3-step-sequence`
-
-- INTENT: default block — WHAT TO DO WHEN IT ARRIVES — 3-STEP SEQUENCE
-
-- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 3: WEEK 1 EXPECTATIONS — RECOGNITION ANCHORS
-
-- ROLE slot: `week-1-expectations-recognition-anchors`
-
-- INTENT: validation block — WEEK 1 EXPECTATIONS — RECOGNITION ANCHORS
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 4: GENTLE REMINDER — PULL-UP REFRAME
-
-- ROLE slot: `gentle-reminder-pull-up-reframe`
-
-- INTENT: validation block — GENTLE REMINDER — PULL-UP REFRAME
-
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 5: GUARANTEE REINFORCEMENT
-
-- ROLE slot: `guarantee-reinforcement`
-
-- INTENT: guarantee block — GUARANTEE REINFORCEMENT
-
-- COMPONENT PICKED: **4** — The Pull-Up Villain Card
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 6: SECONDARY CTA — TRACK YOUR DELIVERY (REPEAT)
-
-- ROLE slot: `secondary-cta-track-your-delivery-repeat`
-
-- INTENT: cta block — SECONDARY CTA — TRACK YOUR DELIVERY (REPEAT)
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
+**Image variance (transactional §17.7)**: GIULIANO §17.7 — 1 image (logo). Variance from 4-image min documented.
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6
+- `component-usage.json`: UTIL-08 0 → 1
+- `component-usage.json`: CMP-6 0 → 1
+- `component-usage.json`: CTA-9 2 → 3
+- `component-usage.json`: PSYCH-02 1 → 2
+- `component-usage.json`: STORY-13 1 → 2
+- `component-usage.json`: EDU-3 5 → 6
+- `component-usage.json`: CMP-7 2 → 3
+- `image-usage.json`: `branding/black-placeholder.png` 2 → 3

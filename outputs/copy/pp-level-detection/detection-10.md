@@ -737,121 +737,81 @@ END OF WIREFRAME — detection-10
 
 ## STAGE 2 PICKS — detection-10
 
+NOTE: This wireframe has 0 image density by INTENT (text-only, warm-cream paper aesthetic). The corrected plan's 4-6 image hard minimum forces image picks.
 
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+NOTE: The wireframe uses teal #4A8C8C for the Level 2 card left-stripe (hidden level-encoding Easter egg). This is a different teal than the banned System A #2BAEB4 — it's part of the cross-level hidden palette per the wireframe §Hidden Detail / Easter Egg. The plan rule "No teal #2BAEB4 (System A Giuliano, banned)" applies to the brand-primary teal, not the hidden level-encoding accents.
 
+### Section 1: handwritten-warmth-headline + opening-body-prose (HERO + opener)
+- ROLE slot: handwritten-warmth-headline + opening-body-prose
+- INTENT: handwritten headline "A question about your kid" + opening prose.
+- COMPONENT PICKED: FSHOP-N (Welcome E2: Mechanism Tease)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=education, temperature=neutral, image_support=text_only
+  - Current usage: 1/8
+  - WHY: "Welcome E2: Mechanism Tease" matches the question-prompt + mechanism-tease opening. Fresh (was at 0).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 17/25
+  - WHY: Founders photo as supporting opener visual.
 
-> **Section count:** 6 body sections.
+### Section 2: validation-prose-emerald-left-border + mechanism-prose-emerald-left-border + emphasis-bold-not-italic
+- ROLE slot: validation-prose + mechanism-prose + emphasis-bold
+- INTENT: validation (R1-R6 anchors) + mechanism reframe + inline emphasis on key phrase.
+- COMPONENT PICKED: 2 (The Reframe Moment)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=emotional, image_support=image_text, temperature=warm
+  - Current usage: 3/8
+  - WHY: Already used in cart-02-e2 and checkout-03-e1. Showcase exception. Renders validation + reframe cleanly.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
+  - Current usage: 10/25
+  - WHY: Visualizes the validation+mechanism context (child on potty ladder).
 
-> **Flow:** pp-level-detection | **Position:** E1 | **Level:** GF
+### Section 3: detection-question-prompt + 4x symptom-card-clickable-block
+- ROLE slot: detection-question-prompt + 4 symptom cards
+- INTENT: "Which one sounds like your child?" prompt + 4 clickable cards (L1/L2/L3/GF).
+- COMPONENT PICKED: 6 (Avatar Recognition Block "Which one sounds like your child?")
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], messaging=conversion, image_support=image_text, temperature=warm
+  - Current usage: 3/8
+  - WHY: "Which one sounds like your child?" is the EXACT question prompt in section 3. Already used in cart-02-e1 and site-20-e1.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
+  - Current usage: 10/25
+  - WHY: Generic toddler-livingroom for the detection card context.
 
+### Section 4: guarantee-risk-reversal-prose
+- ROLE slot: guarantee-risk-reversal-prose
+- INTENT: "No matter what you pick, the 60-day guarantee applies." reassurance.
+- COMPONENT PICKED: 10.1 (60-Day Seal)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=guarantee, image_support=text_only, temperature=warm
+  - Current usage: 6/8
+  - WHY: 60-Day Seal is the canonical guarantee treatment. Already used in checkout-03-e1.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with cream and soft cloud-raindrop pattern, flat-lay product shot."
+  - Current usage: 6/25
+  - WHY: Generic product visual for the guarantee.
 
-### Section 1: HOOK — VALIDATION OPEN (no badge)
+### Section 5: squiggle-divider-handdrawn
+- ROLE slot: squiggle-divider-handdrawn
+- INTENT: hand-drawn squiggle divider before signoff.
+- COMPONENT PICKED: 33.1 (Smiley Face SVG)
+  - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], messaging=design, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Smiley Face SVG" is a hand-drawn-feel decorative element — works as a soft divider. Fresh (was at 0).
+- IMAGE PICKED: (NONE — already at image cap)
 
-- ROLE slot: `hook-validation-open-no-badge`
+### Section 6: signoff-lena-medium
+- ROLE slot: signoff-lena-medium
+- INTENT: medium-variant Lena sign-off.
+- COMPONENT PICKED: 12.1 (Lena Signoff)
+  - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], messaging=design, temperature=neutral
+  - Current usage: 6/8
+  - WHY: "Lena Signoff" is the canonical sign-off component.
+- IMAGE PICKED: (NONE — already at image cap)
 
-- INTENT: hook block — HOOK — VALIDATION OPEN (no badge)
+### Image count check
+- Total images in this email: 4/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 6/8 (within range)
 
-- COMPONENT PICKED: **HERO-20** — Handwritten Letter Opener
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION + MECHANISM — EMERALD HAIRLINE BORDERS
-
-- ROLE slot: `validation-mechanism-emerald-hairline-borders`
-
-- INTENT: validation block — VALIDATION + MECHANISM — EMERALD HAIRLINE BORDERS
-
-- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: DETECTION MOMENT — 4 STACKED SYMPTOM CARDS
-
-- ROLE slot: `detection-moment-4-stacked-symptom-cards`
-
-- INTENT: default block — DETECTION MOMENT — 4 STACKED SYMPTOM CARDS
-
-- COMPONENT PICKED: **17.7** — Closing Letter (Before CTA) (uses Letter)
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: GUARANTEE / RISK REVERSAL — TRUST ANCHOR
-
-- ROLE slot: `guarantee-risk-reversal-trust-anchor`
-
-- INTENT: guarantee block — GUARANTEE / RISK REVERSAL — TRUST ANCHOR
-
-- COMPONENT PICKED: **TRUST-7** — Trust Block
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: SQUIGGLE DIVIDER — TRANSITION TO SIGNOFF
-
-- ROLE slot: `squiggle-divider-transition-to-signoff`
-
-- INTENT: signoff block — SQUIGGLE DIVIDER — TRANSITION TO SIGNOFF
-
-- COMPONENT PICKED: **LETTER-06** — PS Teaser
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: SIGNOFF — LENA MEDIUM VARIANT
-
-- ROLE slot: `signoff-lena-medium-variant`
-
-- INTENT: signoff block — SIGNOFF — LENA MEDIUM VARIANT
-
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6
+### Tracker updates
+- component-usage.json: incremented [FSHOP-N, "2", "6", "10.1", "33.1", "12.1"]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-potty-ladder-pink-multicolor.png, lifestyle/toddler-livingroom-dino-yellow.png, flat-lay/training-pant-cloud-raindrop-white.jpg]

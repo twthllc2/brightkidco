@@ -762,246 +762,46 @@ END OF WIREFRAME — faq-21-e1
 
 ---
 
+---
+
 ## STAGE 2 PICKS — faq-21-e1
 
 
-> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
-
-
-> **Section count:** 13 body sections.
-
-> **Flow:** faq-library | **Position:** E1 | **Level:** GF
-
-
-### Section 1: HOOK — WHETHER/OR/IF UNIVERSAL RECOGNITION
-
-- ROLE slot: `hook-whether-or-if-universal-recognition`
-
-- INTENT: hook block — HOOK — WHETHER/OR/IF UNIVERSAL RECOGNITION
-
-- COMPONENT PICKED: **HERO-4** — Story Fragment
-
-  - Currently used: 6/8 (under cap; was OBJ-06 which is L2-only body_mechanism component, not appropriate for hook role in GF)
-  - WHY: by-name position-match. HERO-4 Story Fragment is a hero component appropriate for hook role in GF. Renders as opening story open without mechanism chrome.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 2: VALIDATION — "YOU DIDN'T FAIL"
-
-- ROLE slot: `validation-you-didn-t-fail`
-
-- INTENT: validation block — VALIDATION — "YOU DIDN'T FAIL"
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 3: MECHANISM — NICHOLSON 2019 + INTEROCEPTION
-
-- ROLE slot: `mechanism-nicholson-2019-interoception`
-
-- INTENT: mechanism block — MECHANISM — NICHOLSON 2019 + INTEROCEPTION
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 4: VALIDATION — "49% REALITY CHECK" CALLOUT
-
-- ROLE slot: `validation-49-reality-check-callout`
-
-- INTENT: validation block — VALIDATION — "49% REALITY CHECK" CALLOUT
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 5: PRODUCT REFRAME — BODY-SIGNAL LEARNING LAYER
-
-- ROLE slot: `product-reframe-body-signal-learning-layer`
-
-- INTENT: validation block — PRODUCT REFRAME — BODY-SIGNAL LEARNING LAYER
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 6: WHAT THIS DOESN'T PROMISE / DOES OFFER
-
-- ROLE slot: `what-this-doesn-t-promise-does-offer`
-
-- INTENT: guarantee block — WHAT THIS DOESN'T PROMISE / DOES OFFER
-
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 7: LENA'S STORY — ABSOLUTION VIA PEER
-
-- ROLE slot: `lena-s-story-absolution-via-peer`
-
-- INTENT: validation block — LENA'S STORY — ABSOLUTION VIA PEER
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 8: PRODUCT OFFER + 60-DAY GUARANTEE
-
-- ROLE slot: `product-offer-60-day-guarantee`
-
-- INTENT: product block — PRODUCT OFFER + 60-DAY GUARANTEE
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 9: CTA BUTTON — BRAND-GREEN PILL
-
-- ROLE slot: `cta-button-brand-green-pill`
-
-- INTENT: cta block — CTA BUTTON — BRAND-GREEN PILL
-
-- COMPONENT PICKED: **CTA-2** — Soft Link
-
-  - Currently used: 8/8 (at cap; was OBJ-06 which is L2-only body_mechanism component, not appropriate for CTA role)
-  - WHY: by-name position-match. CTA-2 Soft Link is a CTA-position component appropriate for permission-not-to-buy CTA in FAQ. Renders as soft-link text CTA, no chrome.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 10: PERMISSION-NOT-TO-BUY CLOSE
-
-- ROLE slot: `permission-not-to-buy-close`
-
-- INTENT: cta block — PERMISSION-NOT-TO-BUY CLOSE
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 11: LENA SIGN-OFF — SHORT VARIANT
-
-- ROLE slot: `lena-sign-off-short-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
-
-- COMPONENT PICKED: **12.1** — Lena Signoff (uses Signoff)
-
-  - Currently used: 9/8 (at cap post-substitution; was OBJ-06 which is L2-only body_mechanism component, not appropriate for sign-off role)
-  - WHY: by-name position-match. 12.1 Lena Signoff is the universal (audience=[L1,L2,L3,GF]) signoff_footer component — appropriate for Lena sign-off role in FAQ cross-level. Renders as Lena signature card.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 12: P.S. — SOCIAL PROOF
-
-- ROLE slot: `p-s-social-proof`
-
-- INTENT: social_proof block — P.S. — SOCIAL PROOF
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 13: FOOTER — STATIC
-
-- ROLE slot: `footer-static`
-
-- INTENT: signoff block — FOOTER — STATIC
-
-- COMPONENT PICKED: **UTIL-10** — Legal Text
-
-  - Currently used: 2/8 (under cap; was OBJ-06 which is L2-only body_mechanism component, not appropriate for footer role)
-  - WHY: by-name position-match. UTIL-10 Legal Text is a signoff_footer component appropriate for static footer. Renders as legal text/links + unsubscribe chrome.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
+> **FAQ Objection #1 — Whether/Or/If (autism label concern)** — Cross-Level (R1-R6 + V16 + GF levers).
+> FAQ objection-handling email — gentle, mechanism-first. Components chosen to support objection resolution without pressure. R1 (no labels) preserved throughout.
+
+
+### Components (8/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| PROSE-OPENER-WHETHER-OR-IF | **EMO-5** | Flowing opener — three whether/or/if universal recognition |
+| PROSE-VALIDATION-NOT-FAILED | **EMO-9** | Validation 'you didn't fail' prose |
+| MECHANISM-WITH-CITATION | **EDU-8** | Nicholson 2019 interoception citation mechanism |
+| CALLOUT-49%-MINT | **PSYCH-05** | Mint callout — 49% reality check stat |
+| PRODUCT-3-LAYER-EXPLAIN | **EDU-13** | Body-Signal Learning Layer 3-layer explainer |
+| TWO-LIST-PERMISSION-FRAME | **PSYCH-03** | Permission frame — what this doesn't promise / does offer |
+| PRODUCT-OFFER-BUNDLE | **PROD-8** | 6-pair bundle product offer (reusable — showcase exception) |
+| CTA-PILL-BUNDLE | **CTA-2** | Brand-green pill — bundle CTA |
+| LENA-SIGNOFF-SHORT + PS-SOCIAL-PROOF + FOOTER | **12.1** | Lena sig + social-proof P.S. + footer |
+
+### Images (4/6)
+
+- `lifestyle/toddler-livingroom-dino-yellow.png` — Child in living room with soft dinosaur toy. (Current: 11/25)
+- `flat-lay/training-pant-watermelon-pink.jpg` — Watermelon pink training pant flat-lay. (Current: 7/25)
+- `lifestyle/founders-holding-pants-yellow-watermelon.png` — Two co-founders smiling, holding yellow and watermelon training pants. (Current: 18/25)
+- `accessories/wet-bags-space-zebra-llama.png` — Wet bag with space-zoo pattern. (Current: 5/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 13
+- `component-usage.json`: EMO-5 5 → 6
+- `component-usage.json`: EMO-9 3 → 4
+- `component-usage.json`: EDU-8 5 → 6
+- `component-usage.json`: PSYCH-05 1 → 2
+- `component-usage.json`: EDU-13 2 → 3
+- `component-usage.json`: PSYCH-03 1 → 2
+- `component-usage.json`: PROD-8 2 → 3
+- `component-usage.json`: CTA-2 3 → 4
+- `image-usage.json`: `lifestyle/toddler-livingroom-dino-yellow.png` 11 → 12
+- `image-usage.json`: `flat-lay/training-pant-watermelon-pink.jpg` 7 → 8
+- `image-usage.json`: `lifestyle/founders-holding-pants-yellow-watermelon.png` 18 → 19
+- `image-usage.json`: `accessories/wet-bags-space-zebra-llama.png` 5 → 6

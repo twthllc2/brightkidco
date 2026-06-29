@@ -712,140 +712,97 @@ END OF WIREFRAME — pped-22-e3-l3
 
 ## STAGE 2 PICKS — pped-22-e3-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E18 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e3-l3
+- COMPONENT PICKED: CAMIMG-5 (Gift Guide Section *(L19023)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e3-l3, level=l3, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — "YOU'VE BEEN LOOKING FOR THE WRONG SIGNS"
-
-- ROLE slot: `hook-you-ve-been-looking-for-the-wrong-signs`
-
-- INTENT: hook block — HOOK — "YOU'VE BEEN LOOKING FOR THE WRONG SIGNS"
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: dignity-first-sentence-stack-reframe-opener
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: DEEP-06 (The Whisper Network *(L9272)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: L3 3 section 1 visual — calibrated per level (l3)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: REFRAME TABLE — "WHAT MICRO-WINS LOOK LIKE FOR L3"
-
-- ROLE slot: `reframe-table-what-micro-wins-look-like-for-l3`
-
-- INTENT: validation block — REFRAME TABLE — "WHAT MICRO-WINS LOOK LIKE FOR L3"
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: reframe-table-stacked-vertical-2-columns
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: DEEP-07 (The Evidence Chain *(L9302)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: L3 3 section 2 visual — calibrated per level (l3)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: 5 MICRO-WIN CATEGORIES
-
-- ROLE slot: `5-micro-win-categories`
-
-- INTENT: progress block — 5 MICRO-WIN CATEGORIES
-
-- COMPONENT PICKED: **9** — Journey Map
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 14/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: micro-wins-stacked-list-vertical-5-categories
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: DEEP-09 (The Invisible Struggle *(L9359)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: L3 3 section 3 visual — calibrated per level (l3)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: TRACKING SYSTEM — "DELIBERATELY MINIMAL"
-
-- ROLE slot: `tracking-system-deliberately-minimal`
-
-- INTENT: transactional block — TRACKING SYSTEM — "DELIBERATELY MINIMAL"
-
-- COMPONENT PICKED: **LETTER-09** — Double Column
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: tracking-system-paragraph-stack-with-minimalist-deliverable
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: DEEP-11 (The Guilt Audit *(L9416)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: L3 3 section 4 visual — calibrated per level (l3)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: WHAT THIS MEANS ALONGSIDE YOUR LIFE
-
-- ROLE slot: `what-this-means-alongside-your-life`
-
-- INTENT: default block — WHAT THIS MEANS ALONGSIDE YOUR LIFE
-
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: alongside-your-life-paragraph-stack-with-product-reframe
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PROD-4 (Cross-Section *(L5777)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: L3 3 section 5 visual — calibrated per level (l3)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PEER L3 TESTIMONIAL + TEXT LINK CTA
+- ROLE slot: peer-testimonial-paragraph-stack-with-text-link-cta
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: SP-12 (Community Counter *(L5086)*)
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- ROLE slot: `peer-l3-testimonial-text-link-cta`
+### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) — LENA'S OWN SON'S 
+- ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) — LENA'S OWN SON'S MICRO-WIN
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: 33.2 (Progress Arrow SVG *(L2786)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- INTENT: social_proof block — PEER L3 TESTIMONIAL + TEXT LINK CTA
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-5', 'DEEP-06', 'DEEP-07', 'DEEP-09', 'DEEP-11', 'PROD-4', 'SP-12', '33.2']
+- image-usage.json: incremented ['flat-lay/training-pant-fox-red-white.jpg', 'flat-lay/training-pant-watermelon-pink.jpg', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'lifestyle/toddler-potty-ladder-pink-multicolor.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png']
 
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) — LENA'S OWN SON'S MICRO-WIN
-
-- ROLE slot: `lena-sign-off-medium-variant-lena-s-own-son-s-micro-win`
-
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) — LENA'S OWN SON'S MICRO-WIN
-
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

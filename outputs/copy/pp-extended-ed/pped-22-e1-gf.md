@@ -913,106 +913,81 @@ END OF WIREFRAME — pped-22-e1-gf
 
 ## STAGE 2 PICKS — pped-22-e1-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Level-specific (GF) Calibration:** Applied per gf journey-MASTER.
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e1-gf
+- COMPONENT PICKED: DEEPCAMP-10 (DEEPCAMP-10 — Christmas Morning (Gift-Unwrap Hero) *(L22791))
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e1-gf, level=gf, theme=1. Calibrated per level.
 
-
-> **Section count:** 5 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E1 | **Level:** GF
-
-
-### Section 1: HOOK — "LET ME DESCRIBE SOMETHING I HEAR FROM PARENTS"
-
-- ROLE slot: `hook-let-me-describe-something-i-hear-from-parents`
-
-- INTENT: hook block — HOOK — "LET ME DESCRIBE SOMETHING I HEAR FROM PARENTS"
-
-- COMPONENT PICKED: **HERO-20** — Handwritten Letter Opener
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+### Section 1: HOOK — "LET ME DESCRIBE SOMETHING I HEAR FROM PARE
+- ROLE slot: prose-block-with-universal-symptom-mirror
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORY-05 (Diary Entry — Handwritten-style journal *(L4421)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: GF 1 section 1 visual — calibrated per level (gf)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — IQBAL 2022 STAT CALL-OUT (ELEMENT ①)
-
-- ROLE slot: `validation-iqbal-2022-stat-call-out-element`
-
-- INTENT: validation block — VALIDATION — IQBAL 2022 STAT CALL-OUT (ELEMENT ①)
-
-- COMPONENT PICKED: **DEEP-19** — Signal Analogy
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 16/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: validation-paragraph-stack-with-iqbal-2022-callout
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORY-07 (Dialogue — Text-message conversation story *(L4487)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: GF 1 section 2 visual — calibrated per level (gf)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — INTEROCEPTION + BSL AS RESOLUTION
-
-- ROLE slot: `mechanism-interoception-bsl-as-resolution`
-
-- INTENT: mechanism block — MECHANISM — INTEROCEPTION + BSL AS RESOLUTION
-
-- COMPONENT PICKED: **DEEP-07** — Evidence Chain
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: mechanism-paragraph-stack-with-bsl-resolution
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: ED3 (Interoception Explainer *(L3353)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: GF 1 section 3 visual — calibrated per level (gf)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: CTA + PERMISSION — GF BRIDGE
-
-- ROLE slot: `cta-permission-gf-bridge`
-
-- INTENT: cta block — CTA + PERMISSION — GF BRIDGE
-
-- COMPONENT PICKED: **CTA-12** — Gentle CTA
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: cta-section-with-permission-frame
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: CTA-10 (Countdown Honest *(L6809)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: GF 1 section 4 visual — calibrated per level (gf)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: LENA SIGN-OFF (MEDIUM VARIANT) + P.S.
+- ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + P.S.
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: GF 1 section 5 visual — calibrated per level (gf)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-medium-variant-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) + P.S.
+### Tracker updates
+- component-usage.json: incremented ['DEEPCAMP-10', 'STORY-05', 'STORY-07', 'ED3', 'CTA-10', 'UTIL-09']
+- image-usage.json: incremented ['lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'lifestyle/toddler-potty-ladder-yellow-woodland.png', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/wet-bags-space-zebra-llama.png', 'flat-lay/training-pant-fox-red-white.jpg']
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

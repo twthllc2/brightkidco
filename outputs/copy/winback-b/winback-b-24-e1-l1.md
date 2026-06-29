@@ -492,104 +492,81 @@ END OF WIREFRAME — winback-b-24-e1-l1
 
 ## STAGE 2 PICKS — winback-b-24-e1-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 5 body sections.
-
-> **Flow:** winback-b | **Position:** E4 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e1-l1
+- COMPONENT PICKED: FLOWDEEP-3 (Welcome E3 Decision *(L12540)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e1-l1, level=l1, theme=1. Calibrated per level.
 
 ### Section 1: HOOK — Pre-K Calendar Re-anchor
-
-- ROLE slot: `hook-pre-k-calendar-re-anchor`
-
-- INTENT: hook block — HOOK — Pre-K Calendar Re-anchor
-
-- COMPONENT PICKED: **1** — The Body Signal Concept (Core Mechanism Visual)
-
-  - Currently used: 25/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: EMODEEP-08 (The Patience Meter *(L12189)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: L1 1 section 1 visual — calibrated per level (l1)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — Method-Cycling Reframe
-
-- ROLE slot: `validation-method-cycling-reframe`
-
-- INTENT: validation block — VALIDATION — Method-Cycling Reframe
-
-- COMPONENT PICKED: **LETTER-12** — Fragmented Text
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: validation-prose-with-emerald-hairline-left-border
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EMODEEP-11 (The Future Vision *(L12280)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: L1 1 section 2 visual — calibrated per level (l1)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: OFFER — The 3+3 Bundle Re-Introduction
-
-- ROLE slot: `offer-the-3-3-bundle-re-introduction`
-
-- INTENT: hook block — OFFER — The 3+3 Bundle Re-Introduction
-
-- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
-
-  - Currently used: 26/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pricing-box-mint-background-with-testimonial
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EMODEEP-16 (The Courage Acknowledgment *(L12429)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: L1 1 section 3 visual — calibrated per level (l1)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: GUARANTEE / RISK REVERSAL
-
-- ROLE slot: `guarantee-risk-reversal`
-
-- INTENT: guarantee block — GUARANTEE / RISK REVERSAL
-
-- COMPONENT PICKED: **HERO-8** — Visual Metaphor
-
-  - Currently used: 42/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: guarantee-line-centered-muted
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: PRODEEP-9 (The Return Story *(L10616)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: L1 1 section 4 visual — calibrated per level (l1)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: L1 1 section 5 visual — calibrated per level (l1)
+  - Current usage: 24/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['FLOWDEEP-3', 'EMODEEP-08', 'EMODEEP-11', 'EMODEEP-16', 'PRODEEP-9', 'UTIL-09']
+- image-usage.json: incremented ['lifestyle/toddler-potty-ladder-yellow-woodland.png', 'accessories/book-potty-training-guide.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'lifestyle/founders-holding-pants-yellow-watermelon.png']
 
-- COMPONENT PICKED: **STORYDEEP-14** — The Dictionary Entry
-
-  - Currently used: 42/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

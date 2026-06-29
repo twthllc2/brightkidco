@@ -1098,148 +1098,97 @@ END OF WIREFRAME — pped-22-e3-gf
 
 ## STAGE 2 PICKS — pped-22-e3-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Level-specific (GF) Calibration:** Applied per gf journey-MASTER.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E3 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e3-gf
+- COMPONENT PICKED: CAMIMG-8 (Sale Banner *(L19112)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e3-gf, level=gf, theme=3. Calibrated per level.
 
 ### Section 1: HERO ILLUSTRATION — "THE INVISIBLE BRIDGE"
-
-- ROLE slot: `hero-illustration-the-invisible-bridge`
-
-- INTENT: image_block block — HERO ILLUSTRATION — "THE INVISIBLE BRIDGE"
-
-- COMPONENT PICKED: **STORY-09** — Quiet Witness
-
-  - Currently used: 4/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF hero-illustration-the-invisible-bridge)
-  - WHY: by-name position+audience match. STORY-09 Quiet Witness is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF hero-illustration role.
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 17/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: hero-illustration-invisible-bridge
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: DEEP-12 (The Time Capsule *(L9447)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: GF 3 section 1 visual — calibrated per level (gf)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: LETTER OPENING — "LENA HERE."
-
-- ROLE slot: `letter-opening-lena-here`
-
-- INTENT: hook block — LETTER OPENING — "LENA HERE."
-
-- COMPONENT PICKED: **HERO-7** — Counter-Intuitive Truth
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 16/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: letter-opening-with-drop-cap-and-warm-yellow-bg
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: DEEP-13 (The Reverse Testimonial *(L9478)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: GF 3 section 2 visual — calibrated per level (gf)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: 5 MICRO-SIGNALS LIST — "THE QUIET SIGNALS"
-
-- ROLE slot: `5-micro-signals-list-the-quiet-signals`
-
-- INTENT: default block — 5 MICRO-SIGNALS LIST — "THE QUIET SIGNALS"
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 12/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: micro-signals-list-stacked-with-teal-checkmark-icons
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: DEEP-15 (The Method Graveyard *(L9534)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: GF 3 section 3 visual — calibrated per level (gf)
+  - Current usage: 3/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: PULL-QUOTE MECHANISM BRIDGE
-
-- ROLE slot: `pull-quote-mechanism-bridge`
-
-- INTENT: mechanism block — PULL-QUOTE MECHANISM BRIDGE
-
-- COMPONENT PICKED: **DEEP-21** — Three-Layer Story
-
-  - Currently used: 10/8 (over cap post-substitution; was DEEP-14 Sensory Map which is L2-only body_recognition, not appropriate for GF pull-quote-mechanism-bridge)
-  - WHY: by-name position+audience match. DEEP-21 is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF invisible-bridge mechanism.
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 11/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: pull-quote-on-soft-teal-green-bg
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: 4 (The Pull-Up Villain Card *(L101)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: GF 3 section 4 visual — calibrated per level (gf)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: WHAT TO DO — "WHAT TO DO WITH THIS"
-
-- ROLE slot: `what-to-do-what-to-do-with-this`
-
-- INTENT: default block — WHAT TO DO — "WHAT TO DO WITH THIS"
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: guidance-paragraph-stack-with-permission-frame
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: REV-07 (After Permission Reversal *(L17933)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: GF 3 section 5 visual — calibrated per level (gf)
+  - Current usage: 3/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PERMISSION CLOSE + 60-DAY GUARANTEE
-
-- ROLE slot: `permission-close-60-day-guarantee`
-
-- INTENT: guarantee block — PERMISSION CLOSE + 60-DAY GUARANTEE
-
-- COMPONENT PICKED: **TRUST-5** — Promise Card
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: permission-close-paragraph-stack-with-guarantee
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: EJ3 (Permission Slip *(L3450)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
 ### Section 7: CTA SECTION + LENA SIGN-OFF
+- ROLE slot: cta-button-with-deep-ink-bg-and-secondary-text-link
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: CTADEEP-02 (The Risk Reversal *(L11542)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
-- ROLE slot: `cta-section-lena-sign-off`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — CTA SECTION + LENA SIGN-OFF
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-8', 'DEEP-12', 'DEEP-13', 'DEEP-15', '4', 'REV-07', 'EJ3', 'CTADEEP-02']
+- image-usage.json: incremented ['flat-lay/laundry-bag-llama-cream.png', 'lifestyle/washing-machine-training-pants.png', 'resized/washing-machine.jpg', 'lifestyle/toddler-livingroom-dino-yellow.png', 'resized/toddler-playing.jpg']
 
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

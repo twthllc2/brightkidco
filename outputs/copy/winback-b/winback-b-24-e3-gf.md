@@ -930,141 +930,89 @@ END OF WIREFRAME — winback-b-24-e3-gf
 
 ## STAGE 2 PICKS — winback-b-24-e3-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Winback Calibration:** GENTLE. Permission-not-to-buy. NEVER aggressive.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** winback-b | **Position:** E3 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e3-gf
+- COMPONENT PICKED: DEEPCAMP-12 (DEEPCAMP-12 — Spring Refresh (New-Season Drop) *(L22867)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e3-gf, level=gf, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — Whether...Or...If... + Last Email
-
-- ROLE slot: `hook-whether-or-if-last-email`
-
-- INTENT: hook block — HOOK — Whether...Or...If... + Last Email
-
-- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
-
-  - Currently used: 24/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: EMODEEP-13 (The Self-Compassion Prompt *(L12343)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: GF 3 section 1 visual — calibrated per level (gf)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — You Didn't Fail
-
-- ROLE slot: `validation-you-didn-t-fail`
-
-- INTENT: validation block — VALIDATION — You Didn't Fail
-
-- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Section 3: MECHANISM — What BSL Actually Does + Interoception
-             Can Be Trained
-
-- ROLE slot: `mechanism-what-bsl-actually-does-interoception-can-be-traine`
-
-- INTENT: mechanism block — MECHANISM — What BSL Actually Does + Interoception
-             Can Be Trained
-
-- COMPONENT PICKED: **OBJ-14.2** — OBJ-14.2 — Timeline Week 1-2 (Adjustment Phase)
-
-  - Currently used: 40/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: validation-mint-callout-with-spark-49-and-49-study
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EMODEEP-17 (The Safe Space *(L12459)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: GF 3 section 2 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: MINI-WIN SUCCESS — 6 Mini-Wins (R6)
-
-- ROLE slot: `mini-win-success-6-mini-wins-r6`
-
-- INTENT: progress block — MINI-WIN SUCCESS — 6 Mini-Wins (R6)
-
-- COMPONENT PICKED: **EMO-10** — Patience Meter
-
-  - Currently used: 41/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: low-bar-mini-wins-six-inline-on-cream
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: EMODEEP-14 (The Identity Reframe *(L12367)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: GF 3 section 4 visual — calibrated per level (gf)
+  - Current usage: 19/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: OFFER + GUARANTEE — The Last Invitation
-
-- ROLE slot: `offer-guarantee-the-last-invitation`
-
-- INTENT: guarantee block — OFFER + GUARANTEE — The Last Invitation
-
-- COMPONENT PICKED: **2.2** — Warm Hero
-
-  - Currently used: 8/8 (at cap post-substitution; was 2.3 Teal CTA Hero which is teal/GF-forbidden per Stage 2 audit)
-  - WHY: by-name GF-compatible alternative. Warm Hero preserves the gradient-hero family ordering from 2.3 (Lilac 2.1→Warm 2.2→Teal 2.3) but uses warm tones only — safe for GF. "Last Invitation" tone is grounded by warm gradient + gentle invitation copy; no teal accent.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: offer-prose-warm-cream-with-3-3-bundle-emphasis
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PSYDEEP-1 (The Endowment Effect *(L12789)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: GF 3 section 5 visual — calibrated per level (gf)
+  - Current usage: 21/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: FINAL WORD — The Door Is Open
-
-- ROLE slot: `final-word-the-door-is-open`
-
-- INTENT: default block — FINAL WORD — The Door Is Open
-
-- COMPONENT PICKED: **OBJ-14.4** — OBJ-14.4 — Remember Callout (Timeline Disclaimer)
-
-  - Currently used: 41/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: final-word-prose-warm-cream-lena-two-sons-mirror
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: PSYDEEP-2 (The IKEA Effect *(L12806)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: GF 3 section 6 visual — calibrated per level (gf)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 7: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps-bundle-link
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 8/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['DEEPCAMP-12', 'EMODEEP-13', 'EMODEEP-17', 'EMODEEP-14', 'PSYDEEP-1', 'PSYDEEP-2', 'UTIL-09']
+- image-usage.json: incremented ['resized/washing-machine.jpg', 'flat-lay/swim-diaper-giraffe-yellow.jpg', 'lifestyle/toddler-livingroom-dino-yellow.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'flat-lay/training-pant-penguin-multicolor.jpg']
 
-- COMPONENT PICKED: **EMO-11** — Break Permission
-
-  - Currently used: 42/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

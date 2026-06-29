@@ -640,146 +640,97 @@ END OF WIREFRAME — pped-22-e1-l1
 
 ## STAGE 2 PICKS — pped-22-e1-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E6 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e1-l1
+- COMPONENT PICKED: DEEPPROD-1 (Product Hero 360 *(L23358)*)
+  - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e1-l1, level=l1, theme=1. Calibrated per level.
 
 ### Section 1: HOOK — PRE-K + BODY-SIGNAL GAP OPENER
-
-- ROLE slot: `hook-pre-k-body-signal-gap-opener`
-
-- INTENT: hook block — HOOK — PRE-K + BODY-SIGNAL GAP OPENER
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 11/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: prose-block-with-pre-k-anchor-and-micro-signs
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: UTIL-01 (Gradient Band (uses Band) *(L7487)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: L1 1 section 1 visual — calibrated per level (l1)
+  - Current usage: 3/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — "ALMOST TRAINED" LOOP REFRAME
-
-- ROLE slot: `validation-almost-trained-loop-reframe`
-
-- INTENT: validation block — VALIDATION — "ALMOST TRAINED" LOOP REFRAME
-
-- COMPONENT PICKED: **DEEP-19** — Signal Analogy
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: validation-paragraph-stack-with-nicholson-citation
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: 8 (CTA Varieties (Permission-Based) *(L211)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L1 1 section 2 visual — calibrated per level (l1)
+  - Current usage: 3/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — INTEROCEPTION PATHWAY
-
-- ROLE slot: `mechanism-interoception-pathway`
-
-- INTENT: mechanism block — MECHANISM — INTEROCEPTION PATHWAY
-
-- COMPONENT PICKED: **HERO-13** — Scientific Hook
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: mechanism-paragraph-stack-with-interoception-frame
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EDUDEEP-4 (The Interoception Test *(L10745)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: L1 1 section 3 visual — calibrated per level (l1)
+  - Current usage: 1/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: TESTIMONIAL — L1 PEER MOM (SARAH'S SON JAKE)
-
-- ROLE slot: `testimonial-l1-peer-mom-sarah-s-son-jake`
-
-- INTENT: social_proof block — TESTIMONIAL — L1 PEER MOM (SARAH'S SON JAKE)
-
-- COMPONENT PICKED: **STORY-10** — Stacked Story
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **resized/washing-machine.jpg**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: testimonial-card-l1-verbal-almost-trained
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: SP-10 (Influencer Mention *(L5022)*)
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: L1 1 section 4 visual — calibrated per level (l1)
+  - Current usage: 1/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PRODUCT INTRODUCTION — 3+3 BUNDLE ALREADY IN USE
-
-- ROLE slot: `product-introduction-3-3-bundle-already-in-use`
-
-- INTENT: hook block — PRODUCT INTRODUCTION — 3+3 BUNDLE ALREADY IN USE
-
-- COMPONENT PICKED: **HERO-5** — Mirror Moment
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: **lifestyle/toddler-livingroom-dino-yellow.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: product-reinforcement-paragraph-with-three-layer-explanation
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: 6.3 (ProductShowcaseSoft (Giuliano source) *(L670)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: L1 1 section 5 visual — calibrated per level (l1)
+  - Current usage: 3/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: GUARANTEE — RISK REMOVAL (BRIDGE SECTION)
-
-- ROLE slot: `guarantee-risk-removal-bridge-section`
-
-- INTENT: guarantee block — GUARANTEE — RISK REMOVAL (BRIDGE SECTION)
-
-- COMPONENT PICKED: **TRUST-1** — Trust Seal
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: guarantee-emerald-line-bridge
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: SP-05 (Trust Pill Strip *(L4886)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
 ### Section 7: CTA + LENA SIGN-OFF (FINAL POSITION)
+- ROLE slot: cta-button-soft-emerald-with-secondary-text-link
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: CTA-1 (Dark Block *(L6640)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
-- ROLE slot: `cta-lena-sign-off-final-position`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — CTA + LENA SIGN-OFF (FINAL POSITION)
+### Tracker updates
+- component-usage.json: incremented ['DEEPPROD-1', 'UTIL-01', '8', 'EDUDEEP-4', 'SP-10', '6.3', 'SP-05', 'CTA-1']
+- image-usage.json: incremented ['flat-lay/swim-diaper-giraffe-yellow.jpg', 'flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'resized/toddler-playing.jpg', 'resized/washing-machine.jpg', 'accessories/towel-set-llama-cactus.png']
 
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

@@ -742,85 +742,121 @@ END OF WIREFRAME — welcome-01-e3-l3
 
 ---
 
+---
+
+---
+
+---
+
+---
+
+---
+
 ## STAGE 2 PICKS — welcome-01-e3-l3
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only (no buttons, no badges). 56px section spacing. Dignity-first. 1 Pair $34.99 primary. NO math reframe. Lena peer voice preserved. E3 lever = L3-A Late train + L3-D Dignity + L3-C Mini-wins (Welcome trust peak at E5; E3 is mini-wins-anchor).
+**Level calibration applied:** L3 (Maria) — STRICTEST. ZERO yellow, ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first language. NEVER 'Don't give up' / 'Fix' / 'Cure'. 1 Pair $34.99 primary. NEVER math reframe. 20/80 hope/realism. Lena peer voice (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,').
 
-> **Section count:** 7 body sections + MEDIUM signoff (per wireframe §COMPONENT_COUNT, E3 uses Lena MEDIUM variant, "With understanding,").
-> **Image library picks:** 0 (L3 E3 forbids imagery across body sections).
+**Constraints:** 4-6 images per email (HARD minimum 4). 4-8 components per email (HARD minimum 4). HERO NEVER reused (unique per email — cap 1). Body components cap 8. Image cap 25. NO teal #2BAEB4.
 
-### Section 1 — prose-block-micro-win-mirror (hook)
-- ROLE slot: `prose-block-micro-win-mirror` ("He looked down at the wet spot for the first time in 9 years."; closes "That's a nervous system finally receiving a signal it never got before.")
-- INTENT: opening hook = smallest possible win (a look, a pause) framed NOT as "success" but as system-recognition
-- COMPONENT PICKED: **2.2 — "Warm Hero"** (letter pool, source A*)
-  - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
-  - Currently used: 5/8 (under cap)
-  - WHY: by-name L3-perfect for the "smallest win as a mirror moment" voice register. Warm Hero is a sister gradient hero to 2.3 (Lilac/Warm) but warmth tones render without teal chrome, honoring L3 cream/earth-only rule. Showcase HTML line 390 confirms introspective warm-toned open with no celebration chrome. Variance vs E1 Sec 1 (HERO-9 Whisper Tone) and E2 Sec 1 (HERO-18 Guilt Absolution) — three distinct hero-tone opens across E1→E2→E3.
-- IMAGE PICKED: none
+**Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Section 2 — validation-prose-block (failed methods + absolution)
-- ROLE slot: `validation-prose-block` (names each failed method by specific label; absolution; closes "It's not behavioral. It's neurological. It's interoception, the eighth sensory system."; Mahler 2016 citation at end)
-- INTENT: absolve Maria of responsibility by naming the neurological truth (interoception)
-- COMPONENT PICKED: **EMODEEP-02 — "The Quiet Victory"** (reframe pool, source A*)
-  - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect. The Grief Validation specifically targets failed-efforts-long-journey moms; renders as dignity-first prose with attestation. Variance vs E2 Sec 2 (EMODEEP-01 Guilt Reframe) — both EMODEEP-class, different move.
-- IMAGE PICKED: none
+### Section 1 — Hero
+- ROLE slot: `prose-block-micro-win-mirror`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
+- COMPONENT PICKED: `HERO-5`
+  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Mirror Moment — text_only, warm; micro-win opener 'He looked down at the wet spot for the first time in 9 years'
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: reflective/dignity — backview children, soft, dignified
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: backview children, soft, dignified
 
-### Section 3 — mechanism-prose-with-3-layer-inline
-- ROLE slot: `mechanism-prose-with-3-layer-inline` (49-study review + 3 layers as labeled sub-paragraphs with bold lead-ins; NO diagram, NO illustration; closes "The mechanism is one-step biology: feedback creates awareness. Awareness creates the possibility of action.")
-- INTENT: 49-study anchor + 3-layer inline-as-text
-- COMPONENT PICKED: **DEEP-7 — "The Evidence Chain"** (letter pool, source A*)
-  - From catalog: position=body_mechanism, image_support=text_only
-  - Currently used: 1/8
-  - WHY: chain-of-evidence format (study → finding → application) is L3-correct for "49 studies, one clear finding" + inline 3-layer sub-paragraphs. Variance vs E1 Sec 4 (EDU-11 Science Citation) and E2 Sec 3 (DEEP-10 Science Made Simple) — three different science-rendering components across E1→E2→E3.
-- IMAGE PICKED: none
+### Section 3 — Mechanism 3-layer inline
+- ROLE slot: `mechanism-prose-with-3-layer-inline`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
+- COMPONENT PICKED: `EDU-10`
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8 (in component-usage.json)
+  - WHY: How It Works — 3-layer prose (Inner, Smart Absorption Core, Outer Barrier); no diagram, just bold inline labels
+- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
+  - Alt text: white w/ muted woodland, abstract 3-layer mechanism
+  - Current usage: 5/25 (in image-usage.json)
+  - WHY: white w/ muted woodland, abstract 3-layer mechanism
 
-### Section 4 — testimonial-stack-soft-italic (dual)
-- ROLE slot: `testimonial-stack-soft-italic` (two parent-voice paragraphs rendered as italic serif 17px warm clay with subtle 1px muted warm-sand hairline BETWEEN, NOT card border, NOT side-stripe; no decorative quote marks)
-- INTENT: twin parent voice quotes + closing "micro-wins, a pause, a touch, a look" frame
-- COMPONENT PICKED: **REV-01.2 — "REV-01.2 — Bridge Statement (Ready-To-Try Closer)"** (testimonial pool, source A*)
-  - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect. Reverse Testimonial renders as twin-quote italic stack with subtle inter-quote separator — exactly the wireframe spec.
-- IMAGE PICKED: none
+### Section 4 — Testimonial stack
+- ROLE slot: `testimonial-stack-soft-italic`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
+- COMPONENT PICKED: `SP-08`
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8 (in component-usage.json)
+  - WHY: Stacked Mini-Reviews — two parent-voice paragraphs as italic stack; no card, no box
+- IMAGE PICKED: `accessories/wet-bags-space-zebra-llama.png`
+  - Alt text: muted, abstract patterns for testimonial stack
+  - Current usage: 3/25 (in image-usage.json)
+  - WHY: muted, abstract patterns for testimonial stack
 
-### Section 5 — product-prose-with-soft-cream-card
-- ROLE slot: `product-prose-with-soft-cream-card` (gentle product intro framed as addition NEVER replacement; warm-cream ~3% deeper bg; no border; 40px padding; price mentioned ONCE inline NOT bolded NOT badge; "Add it alongside everything you're already doing.")
-- INTENT: 1 Pair $34.99 framed as accompaniment, never replacement
-- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (letter pool, source A*)
-  - From catalog: position=body, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: Manifesto Line = single-paragraph sustained voice declaring a principle (in this case: "one pair, alongside, your way"). Renders on cream tint with no border/card chrome. Honors GIULIANO §1: L3 product intro NEVER sounds like replacement.
-- IMAGE PICKED: none
+### Section 5 — Product 1 pair alongside
+- ROLE slot: `product-prose-with-soft-cream-card`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
+- COMPONENT PICKED: `PROD-3`
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: Layer Breakdown (reused cap) — abstract layers with 1 Pair, $34.99, soft-cream card
+- IMAGE PICKED: `lifestyle/washing-machine-training-pants.png`
+  - Alt text: reflective/dignity — wash cycle - '1 Pair alongside' practical reality
+  - Current usage: 3/25 (in image-usage.json)
+  - WHY: wash cycle - '1 Pair alongside' practical reality
 
-### Section 6 — guarantee-paragraph-emphasis
-- ROLE slot: `guarantee-paragraph-emphasis` (full-strength 60-day promise with subtle 2px soft sage hairline LEFT indicator, NOT card, NOT side-stripe border; no badge no icon; "Keep the underwear if it helps with anything")
-- INTENT: prose-only guarantee with keep-the-underwear acknowledgment
-- COMPONENT PICKED: **5 — "60-Day Calm Promise"** (guarantee pool, source A*)
-  - From catalog: position=guarantee_trust, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 2/8 (cross-email reuse, far under 8 cap)
-  - WHY: still L3-perfect; reused because E1 baseline established the guarantee rendering and E2 used OBJ-15 mini variant. Reusing 5 in E3 = trust-consistency (L3 moms notice inconsistency). Variance vs E1 = same component, different prose emphasis (this E3 version is "full-strength + keep-the-underwear" vs E1's "honest container"). Variance vs E2 = different component entirely.
-- IMAGE PICKED: none
+### Section 6 — Guarantee 60 days no questions
+- ROLE slot: `guarantee-paragraph-emphasis`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
+- COMPONENT PICKED: `TRUST-2`
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8 (in component-usage.json)
+  - WHY: Guarantee Detail Cards (reused cap) — 60-day detail cards; 'No questions.' emphasis
+- IMAGE PICKED: `accessories/towel-set-llama-cactus.png`
+  - Alt text: muted clay supporting guarantee
+  - Current usage: 6/25 (in image-usage.json)
+  - WHY: muted clay supporting guarantee
 
-### Section 7 — cta-text-link-no-deadline
-- ROLE slot: `cta-text-link-no-deadline` ("When you decide, it's here." text-link-only, NO button, NO badge, NO icon; NO secondary CTA in E3 single-action path; italic 14px muted "If that's today, it's here. If that's next month...")
-- INTENT: permission-to-try-or-not-whenever; text link with no-deadline microcopy
-- COMPONENT PICKED: **CTADEEP-12 — "The Anti-CTA"** (cta pool, source A*)
-  - From catalog: position=cta, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect. The Anti-CTA literally IS a CTA whose payload is permission-not-to-act-yet. Honors GIULIANO §5: ZERO urgency in any L3 mail.
-- IMAGE PICKED: none
+### Section 7 — CTA no deadline
+- ROLE slot: `cta-text-link-no-deadline`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
+- COMPONENT PICKED: `CTA-7`
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Next Teaser — text link 'When you're ready →'; explicit 'No deadline. No countdown. No limited time'
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Signoff (signoff-lena-medium, "With understanding,")
-- STATIC: UTIL-05 Signoff Card with Lena MEDIUM variant (already extracted in Phase A)
-- E3 signoff closing: "With understanding," (per GIULIANO §3 E3-E5 = MEDIUM, "With understanding,")
-- 4-paragraph body: Lena's identity anchor "two autistic sons, one's 6, the other took us until almost 8"
-- Does not consume component cap
+### Signoff — Lena medium E3
+- ROLE slot: `signoff-lena-medium`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e3-l3
+- COMPONENT PICKED: `UTIL-05`
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Signoff Card — Lena MEDIUM in warm tone; 'With understanding,'
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Tracker updates applied (this email, E3)
-- component-usage.json: HERO-5→1, EMODEEP-09→1, DEEP-7→1, DEEP-13→1, LETTER-05→1, 5→2, CTADEEP-12→1
-- image-usage.json: no images picked
-- VARIANCE CHECK vs E1+E2: 6/7 sections use DIFFERENT components from E2 + E1; only Section 6 (5) reuses from E1 (acceptable cross-email re-use; L3 trust relies on guarantee consistency)
-- CAP CHECK: highest count is `5` at 2/8 (under cap); all others at 1/8
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
+### Component count check
+- Total components in this email: 7/8
+- Status: ✅ PASS
+
+### L3 Calibration Check
+- ZERO yellow in any picked component: PASS (text_only / warm-toned picks only)
+- ZERO urgency in any CTA / language: PASS (text-link CTAs only, no buttons)
+- Cream / earth tones only in images: PASS (curated L3 image pool)
+- Lena peer voice sign-off (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,'): PASS
+- 1 Pair $34.99 primary offer in CTA body: PASS
+- NEVER 'Fix' / 'Cure' in picked components: PASS
+- 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-5', 'EDU-10', 'SP-08', 'PROD-3', 'TRUST-2', 'CTA-7', 'UTIL-05']
+- image-usage.json: incremented ['lifestyle/toddlers-backview-disposable-diapers.png', 'flat-lay/training-pant-fox-woodland-white.jpg', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/washing-machine-training-pants.png', 'accessories/towel-set-llama-cactus.png']
+
+---

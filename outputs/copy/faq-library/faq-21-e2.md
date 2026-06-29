@@ -692,191 +692,48 @@ END OF WIREFRAME — faq-21-e2
 
 ---
 
+---
+
 ## STAGE 2 PICKS — faq-21-e2
 
 
-> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
-
-
-> **Section count:** 10 body sections.
-
-> **Flow:** faq-library | **Position:** E2 | **Level:** GF
-
-
-### Section 1: HOOK — THREE SENTENCES, ONE PROBLEM
-
-- ROLE slot: `hook-three-sentences-one-problem`
-
-- INTENT: hook block — HOOK — THREE SENTENCES, ONE PROBLEM
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 2: DOOR 1 — "I'VE TRIED EVERYTHING"
-
-- ROLE slot: `door-1-i-ve-tried-everything`
-
-- INTENT: default block — DOOR 1 — "I'VE TRIED EVERYTHING"
-
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 3: DOOR 2 — "MY CHILD IS TOO OLD"
-
-- ROLE slot: `door-2-my-child-is-too-old`
-
-- INTENT: default block — DOOR 2 — "MY CHILD IS TOO OLD"
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 4: DOOR 3 — "WE HAD PROGRESS AND LOST IT"
-
-- ROLE slot: `door-3-we-had-progress-and-lost-it`
-
-- INTENT: progress block — DOOR 3 — "WE HAD PROGRESS AND LOST IT"
-
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 5: THREE-FAMILY TESTIMONIAL PATTERN — CONVERGENCE
-
-- ROLE slot: `three-family-testimonial-pattern-convergence`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN — CONVERGENCE
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 6: COMMON THREAD + MECHANISM CONVERGENCE
-
-- ROLE slot: `common-thread-mechanism-convergence`
-
-- INTENT: mechanism block — COMMON THREAD + MECHANISM CONVERGENCE
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 7: GUARANTEE + CTA — LATE-POSITION PERMISSION
-
-- ROLE slot: `guarantee-cta-late-position-permission`
-
-- INTENT: guarantee block — GUARANTEE + CTA — LATE-POSITION PERMISSION
-
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 8: LENA SIGN-OFF — SHORT VARIANT
-
-- ROLE slot: `lena-sign-off-short-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
-
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 9: P.S. — DOUBLE P.S. (PERSONAL + GUARANTEE)
-
-- ROLE slot: `p-s-double-p-s-personal-guarantee`
-
-- INTENT: guarantee block — P.S. — DOUBLE P.S. (PERSONAL + GUARANTEE)
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 10: FOOTER — STATIC
-
-- ROLE slot: `footer-static`
-
-- INTENT: signoff block — FOOTER — STATIC
-
-- COMPONENT PICKED: **PSYCH-06** — Permission Messaging
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
+> **FAQ Objection #2 — 3-door multi-objection** — Cross-Level (R1-R6 + V16 + GF levers).
+> FAQ objection-handling email — gentle, mechanism-first. Components chosen to support objection resolution without pressure. R1 (no labels) preserved throughout.
+
+
+### Components (8/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| PROSE-OPENER-3-SENTENCES | **EMO-10** | Three-sentences opener — convergence preview |
+| OBJECTION-TRIED-EVERYTHING | **PSYCH-01** | Vertical validation+mechanism — 'I've tried everything' |
+| OBJECTION-TOO-OLD | **EDU-3** | Vertical age-timeline validation — 'too old' |
+| OBJECTION-REGRESSION | **EDU-9** | Vertical regression — 'progress and lost it' |
+| 3-TESTIMONIAL-CARDS | **SP-06** | Vertical 3-card testimonial convergence pattern |
+| CONVERGENCE-WITH-3-LAYER | **EDUDEEP-1** | Common-thread + 3-layer product convergence |
+| GUARANTEE-LATE-POSITION | **CMP-3** | Late-position guarantee + soft text CTA |
+| CTA-LATE-POSITION | **CTA-7** | Brand-green affordance — late-position button |
+| LENA-SIGNOFF-SHORT-MED + DOUBLE-PS + FOOTER | **12.1** | Lena short-medium sig + double P.S. + footer |
+
+### Images (5/6)
+
+- `lifestyle/toddler-potty-ladder-pink-multicolor.png` — Toddler climbing pink multicolored ladder. (Current: 10/25)
+- `flat-lay/training-pant-bunny-hearts-pink.jpg` — Bunny-hearts pink training pant flat-lay. (Current: 6/25)
+- `flat-lay/diaper-woodland-creature-yellow.jpg` — Woodland creature diaper flat-lay yellow. (Current: 6/25)
+- `lifestyle/washing-machine-training-pants.png` — Training pants in washing machine. (Current: 8/25)
+- `accessories/cloth-pads-watermelon-astronaut-cat.png` — Cloth pads watermelon astronaut cat. (Current: 2/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 10
+- `component-usage.json`: EMO-10 1 → 2
+- `component-usage.json`: PSYCH-01 2 → 3
+- `component-usage.json`: EDU-3 6 → 7
+- `component-usage.json`: EDU-9 2 → 3
+- `component-usage.json`: SP-06 4 → 5
+- `component-usage.json`: EDUDEEP-1 0 → 1
+- `component-usage.json`: CMP-3 1 → 2
+- `component-usage.json`: CTA-7 2 → 3
+- `image-usage.json`: `lifestyle/toddler-potty-ladder-pink-multicolor.png` 10 → 11
+- `image-usage.json`: `flat-lay/training-pant-bunny-hearts-pink.jpg` 6 → 7
+- `image-usage.json`: `flat-lay/diaper-woodland-creature-yellow.jpg` 6 → 7
+- `image-usage.json`: `lifestyle/washing-machine-training-pants.png` 8 → 9
+- `image-usage.json`: `accessories/cloth-pads-watermelon-astronaut-cat.png` 2 → 3

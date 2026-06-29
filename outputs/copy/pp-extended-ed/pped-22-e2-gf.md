@@ -1086,161 +1086,97 @@ END OF WIREFRAME — pped-22-e2-gf
 
 ## STAGE 2 PICKS — pped-22-e2-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Level-specific (GF) Calibration:** Applied per gf journey-MASTER.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E2 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e2-gf
+- COMPONENT PICKED: FLOWIMG-008 (Post-Purchase Welcome *(L19578)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e2-gf, level=gf, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — "IS ANYTHING ACTUALLY CHANGING?"
-
-- ROLE slot: `hook-is-anything-actually-changing`
-
-- INTENT: hook block — HOOK — "IS ANYTHING ACTUALLY CHANGING?"
-
-- COMPONENT PICKED: **HERO-5** — Mirror Moment
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 10/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: prose-block-with-self-doubt-validation
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: LETTER-07 (Greeting Card *(L7937)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: GF 2 section 1 visual — calibrated per level (gf)
+  - Current usage: 4/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: THE PLATEAU — NAMING THE PHASE
-
-- ROLE slot: `the-plateau-naming-the-phase`
-
-- INTENT: default block — THE PLATEAU — NAMING THE PHASE
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: plateau-naming-paragraph-stack-with-2-phase-explanation
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: LETTER-09 (Double Column *(L8000)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: GF 2 section 2 visual — calibrated per level (gf)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — NEURAL BRIDGE FORMATION
-
-- ROLE slot: `mechanism-neural-bridge-formation`
-
-- INTENT: mechanism block — MECHANISM — NEURAL BRIDGE FORMATION
-
-- COMPONENT PICKED: **EDU-7** — Education Block
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: mechanism-paragraph-stack-with-nicholson-2019-cite
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: M2 (Mechanism Diagram (Mobile) *(L2971)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: GF 2 section 3 visual — calibrated per level (gf)
+  - Current usage: 4/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: SIGNAL CATALOG TABLE — 8 MICRO-SIGNALS
-
-- ROLE slot: `signal-catalog-table-8-micro-signals`
-
-- INTENT: default block — SIGNAL CATALOG TABLE — 8 MICRO-SIGNALS
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: signal-catalog-table-stacked-3-columns-8-rows
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: LETTER-10 (Highlighted Passage *(L8036)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: GF 2 section 4 visual — calibrated per level (gf)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: TRACKING SYSTEM — STICKY-NOTE PRACTICAL
+- ROLE slot: tracking-system-paragraph-stack-with-5-tracking-categories
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: LETTER-12 (Fragmented Text *(L8096)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: GF 2 section 5 visual — calibrated per level (gf)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `tracking-system-sticky-note-practical`
-
-- INTENT: transactional block — TRACKING SYSTEM — STICKY-NOTE PRACTICAL
-
-- COMPONENT PICKED: **UTIL-02** — Divider Bar
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Section 6: TIMELINE NORMALIZATION (3 TIERS) + 60-DAY GUARANTEE
-
-- ROLE slot: `timeline-normalization-3-tiers-60-day-guarantee`
-
-- INTENT: guarantee block — TIMELINE NORMALIZATION (3 TIERS) + 60-DAY GUARANTEE
-
-- COMPONENT PICKED: **TRUST-7** — Trust Block
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+### Section 6: TIMELINE NORMALIZATION (3 TIERS) + 60-DAY GUARANTE
+- ROLE slot: timeline-normalization-stacked-paragraphs-with-3-tiers
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: PERS-01 (Level Greeting *(L8129)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
 ### Section 7: PERMISSION CLOSE (ELEMENT ⑥) + LENA SIGN-OFF
+- ROLE slot: permission-close-paragraph-stack-with-text-link
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: REV-07.2 (REV-07.2 — Permission Statement (Solve-This Closer)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
-- ROLE slot: `permission-close-element-lena-sign-off`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — PERMISSION CLOSE (ELEMENT ⑥) + LENA SIGN-OFF
+### Tracker updates
+- component-usage.json: incremented ['FLOWIMG-008', 'LETTER-07', 'LETTER-09', 'M2', 'LETTER-10', 'LETTER-12', 'PERS-01', 'REV-07.2']
+- image-usage.json: incremented ['flat-lay/swim-diaper-giraffe-yellow.jpg', 'accessories/book-potty-training-guide.png', 'accessories/towel-set-llama-cactus.png', 'lifestyle/toddler-rearview-cat-mustard.png', 'accessories/cloth-pads-watermelon-astronaut-cat.png']
 
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Section 8: LENA SIGN-OFF (SHORT VARIANT) + TRACKING GUIDE P.S.
-
-- ROLE slot: `lena-sign-off-short-variant-tracking-guide-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (SHORT VARIANT) + TRACKING GUIDE P.S.
-
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

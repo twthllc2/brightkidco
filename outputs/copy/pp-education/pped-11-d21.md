@@ -752,166 +752,130 @@ END OF WIREFRAME — pped-11-d21
 ```
 
 ---
-
 ## STAGE 2 PICKS — pped-11-d21
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-education | **Position:** E4 | **Level:** GF
-
+> Cross-Level (R1-R6 + V16). Day 21 — Three-Week Check-In. "Wherever your child is on Day 21, here's what's normal." Bridge to PP-Extended Upsell (Flow 12) + PP-Mid Check-In (Flow 13) starting Day 30. NO hard upsell. Soft bridge via "exit options."
+> Pick rationale: UNIQUE hero (HERO-13 — fresh, scientific hook fits three-week reflection + mechanism reminder). Variance vs d0 (HERO-9), d7 (HERO-10), d14 (HERO-11).
 
 ### Section 1: HERO + HEADLINE — INCLUSIVE CHECK-IN OPENER
-
-- ROLE slot: `hero-headline-inclusive-check-in-opener`
-
-- INTENT: checkin block — HERO + HEADLINE — INCLUSIVE CHECK-IN OPENER
-
-- COMPONENT PICKED: **EMODEEP-08** — Soft Check-in
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `hero-three-week-moment` + headline "Three weeks of the Body-Signal Learning Layer."
+- INTENT: child in quiet content moment — reading, sitting calmly, or interacting softly with parent. Real home, soft natural light, neutral tones. Hands visible or side-profile. "Three weeks in, reflective stillness" — neither dramatic nor celebratory.
+- COMPONENT PICKED: **HERO-13 — Scientific Hook**
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, retired=false
+  - Current usage: 0/8 (fresh)
+  - WHY: "Scientific Hook" fits the three-week reflective check-in — opens with the Body-Signal Learning Layer as a science concept. Universal audience. UNIQUE to this email (HERO-13 not used by any other PP-Education email).
+- IMAGE PICKED: `lifestyle/toddler-potty-ladder-pink-multicolor.png`
+  - Alt text: "Child near a colorful pink potty ladder in a calm home setting, soft natural light."
+  - Current usage: 3/25
+  - WHY: Reflective "three-week moment" — child near a familiar potty context (the goal product is connecting to), calm pose, soft natural light. Hands visible. Under cap. Adds visual variety (potty-ladder context).
 
 ### Section 2: RECOGNITION ANCHORS (R2 — 6 SCENARIOS)
-
-- ROLE slot: `recognition-anchors-r2-6-scenarios`
-
-- INTENT: validation block — RECOGNITION ANCHORS (R2 — 6 SCENARIOS)
-
-- COMPONENT PICKED: **DEEP-18** — Celebration Deficit
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `recognition-anchor-list-three-week` (6 dash-separated lines)
+- INTENT: 6 symptom descriptions — paused after accident / nothing / step toward bathroom / pulled at pants / tiny moment / same as week 1. Closing: "If even one of these sounds familiar, the signal is working. Even the 'nothing' version."
+- COMPONENT PICKED: **EMO-11 — Break Permission**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Break Permission" — the closing "even the 'nothing' version" IS giving permission to be at zero progress. Universal audience. Fresh pick.
 
 ### Section 3: VALIDATION — IF NOTHING IN WEEK 3
-
-- ROLE slot: `validation-if-nothing-in-week-3`
-
-- INTENT: validation block — VALIDATION — IF NOTHING IN WEEK 3
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `callout-validation-neurology` (cream card, dark italic)
+- INTENT: cream card holds slow-progress absolution — "If you saw nothing in week 3, that's not failure. That's neurology on its own timeline. Some kids process the sensation in 2 weeks. Some need 8. Both are normal." + "All four of our families had different timelines:" (sets up Three-Family).
+- COMPONENT PICKED: **EDU-7 — Did You Know**
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Did You Know" — visual concept for "Some kids process the sensation in 2 weeks. Some need 8. Both are normal." It's a known-fact callout. Universal audience. Fresh pick. (Different from d0 EDU-2, d7 EDU-8, d14 EDU-13.)
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
-
-- ROLE slot: `three-family-testimonial-pattern-graduated`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
-
-- COMPONENT PICKED: **DEEP-20** — Community Thread
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `testimonial-card-stack-graduated-week3` (3 stacked cream cards, mint separator)
+- INTENT: 3 cards: Sarah (verbal 4yo, "Week 3, he paused. But that pause never happened before.") / Lisa (mixed 6yo, BCBA context, "Week 3, she pulled at her pants after peeing.") / Maria (non-verbal 8yo, "First time in 8 years he noticed. That's enough for now."). Graduated success.
+- COMPONENT PICKED: **SP-07 — Counter-Testimonial**
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Counter-Testimonial" — visual concept of testimonials that counter the "not working" assumption (each family's outcome counters expected failure). Universal audience. Fresh pick. (Different from d0 SP-06, d7 SP-08, d14 SP-13.)
 
 ### Section 5: MECHANISM REMINDER (R5 — TIMELINE FLEXIBILITY)
+- ROLE slot: `mechanism-reminder-card-brief` (cream card, italic body)
+- INTENT: brief mechanism reminder — "The Body-Signal Learning Layer works through repetition. Each 'uh-oh' sensation, sustained for 30-60 seconds, tells the brain: something happened here. Week 3 is when some nervous systems start registering. For others, the pathway is still forming. That takes what it takes."
+- COMPONENT PICKED: **EDU-10 — How It Works**
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "How It Works" — visual concept for the brief mechanism reminder. Universal audience. Fresh pick.
 
-- ROLE slot: `mechanism-reminder-r5-timeline-flexibility`
+### Section 6 + 7 (consolidated): LOW-BAR WINS (R6) + EXIT OPTIONS TRIAGE
+- ROLE slot: `mini-win-checklist-11-expanded` (11 dash-separated lines, mint background) + `exit-options-triage-block` (3 stacked cream cards, mint separator)
+- INTENT: 11 mini-wins (pause / look / hand touch / step / 2 hrs dry / signal or word / less resistance + 4 intermediate) + 3 triage paths (seeing signs / not seeing / unsure).
+- COMPONENT PICKED: **10 — Mini-Win Streak (Progress Tracker)**
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 1/8 (just incremented by d14)
+  - WHY: "Mini-Win Streak" — the 11 wins ARE the streak. Used in d14 already (at 1/8 after d14 increment), but allowed for re-use — product_showcase and image_showcase exception noted in plan, but for body_recognition components the variance goal is "minimize reuse." With 3 PP-Education emails done, picking a 2nd-use here maintains flow consistency without violating the 8-cap.
+- COMPONENT PICKED: **EMO-12 — Hope Gradient**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Hope Gradient" — the 3 triage paths (seeing signs → keep going, not seeing → within range, unsure → resources available) IS a hope gradient from low (nothing yet) to high (signs present). Universal audience. Fresh pick.
 
-- INTENT: mechanism block — MECHANISM REMINDER (R5 — TIMELINE FLEXIBILITY)
+### Section 8 + SIGNOFF: NEXT-TIME LINE + LENA SIGN-OFF (MEDIUM-LONG)
+- ROLE slot: `next-time-tease-pp-mid` (small italic line) + `signoff-lena-medium-long-with-ps` (MEDIUM-LONG Lena sign-off with personal P.S.)
+- INTENT: "Next time: At the one-month mark — your mid-cycle check-in and what's ahead." + Lena MEDIUM-LONG sign-off with personal P.S. (60-day guarantee reminder).
+- COMPONENT PICKED: **12.1 — Lena Signoff**
+  - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 4/8 (before this pick)
+  - WHY: Lena MEDIUM-LONG sign-off — used across all 4 PP-Education emails (d0, d14, d21) as consistent brand voice anchor. Universal audience. At 4/8, well below cap.
 
-- COMPONENT PICKED: **HERO-16** — Mechanism Tease
+### Image count check
+- Total images so far: 1 (hero)
+- Status: NEEDS MORE (HARD minimum 4)
 
-  - Currently used: 4/8
+### Additional images (image augmentation)
+- IMAGE PICKED: `lifestyle/toddler-potty-ladder-yellow-woodland.png`
+  - Alt text: "Child near a yellow woodland-themed potty ladder in a calm home setting."
+  - Current usage: 1/25
+  - WHY: Potty-context lifestyle photo — pairs with d21's hero to reinforce "three weeks in, the system is working." Hands visible. Under cap. Different from the pink-multicolor variant.
+- IMAGE PICKED: `lifestyle/washing-machine-training-pants.png`
+  - Alt text: "Training pants in a washing machine, daily-life routine moment."
+  - Current usage: 1/25
+  - WHY: Routine / consistency theme — fits "your job this week: put the underwear on. Let the body-signal layer do the teaching." Daily-life reminder. Under cap.
+- IMAGE PICKED: `flat-lay/training-pant-cloud-raindrop-white.jpg`
+  - Alt text: "BrightKidCo training pant with cloud and raindrop design in white, flat-lay cream background."
+  - Current usage: 1/25
+  - WHY: Product reference — adds a third distinct design (watermelon/bunny/fox/cloud-raindrop). Under cap.
+- IMAGE PICKED: `lifestyle/toddler-napping-watermelon-pink-shorts.png`
+  - Alt text: "Child resting calmly in a quiet moment, soft natural light."
+  - Current usage: 7/25
+  - WHY: Calm reflective moment — "60 days to decide, your judgment" patience theme. Under cap. Reused (per plan, image library is small, reuse under cap is OK).
 
-- IMAGE PICKED: **resized/washing-machine.jpg**
+### Final image count
+- Total images: **5/6** ✅
 
-  - Currently used: 2/25
+### Final component count
+- Total components: **8/8** ✅
+  - HERO-13 (unique hero, fresh — different from d0 HERO-9, d7 HERO-10, d14 HERO-11)
+  - EMO-11 (recognition / break permission)
+  - EDU-7 (mechanism / did-you-know)
+  - SP-07 (testimonial / counter-testimonial — different from d0 SP-06, d7 SP-08, d14 SP-13)
+  - EDU-10 (mechanism reminder / how-it-works)
+  - 10 (mini-win streak — shared with d14)
+  - EMO-12 (exit-options / hope gradient)
+  - 12.1 (Lena signoff — shared with d0, d14)
 
-- VARIANCE CHECK: differs from prior picks in this email
+### Variance check vs d0, d7, d14
+- Hero: HERO-13 (d0=HERO-9, d7=HERO-10, d14=HERO-11) — DIFFERENT ✅
+- Testimonial: SP-07 (d0=SP-06, d7=SP-08, d14=SP-13) — DIFFERENT ✅
+- Mechanism: EDU-7 + EDU-10 (d0=STORY-09, d7=EDU-8, d14=EDU-13) — DIFFERENT ✅
+- Recognition/anchor: EMO-11 (d0=EMO-2, d7=EMO-9, d14=EMO-10) — DIFFERENT ✅
+- 4 unique testifiers across 4 emails ✅ (variance maintained)
 
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+### Other checks
+- No teal components ✅
+- Cross-level audience ✅
+- No level labels ✅
+- V16 compliant ✅
+- No hard upsell (educational framing only) ✅
+- Soft bridge to extended upsell via "resources designed for the next stage" (not "buy more") ✅
 
+### Tracker updates
+- component-usage.json: HERO-13 +1, EMO-11 +1, EDU-7 +1, SP-07 +1, EDU-10 +1, 10 +1, EMO-12 +1, 12.1 +1
+- image-usage.json: toddler-potty-ladder-pink-multicolor.png +1, toddler-potty-ladder-yellow-woodland.png +1, washing-machine-training-pants.png +1, training-pant-cloud-raindrop-white.jpg +1, toddler-napping-watermelon-pink-shorts.png +1
 
-### Section 6: LOW-BAR WINS (R6 — 11 MINI-WINS)
+---
 
-- ROLE slot: `low-bar-wins-r6-11-mini-wins`
-
-- INTENT: progress block — LOW-BAR WINS (R6 — 11 MINI-WINS)
-
-- COMPONENT PICKED: **STORY-12** — Milestone Tracker
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: EXIT OPTIONS / EXTENDED UPSELL SETUP
-
-- ROLE slot: `exit-options-extended-upsell-setup`
-
-- INTENT: upsell block — EXIT OPTIONS / EXTENDED UPSELL SETUP
-
-- COMPONENT PICKED: **PROD-12** — Product Detail
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **flat-lay/training-pant-bunny-hearts-pink.jpg**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: NEXT-TIME LINE
-
-- ROLE slot: `next-time-line`
-
-- INTENT: next block — NEXT-TIME LINE
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+Email pped-11-d21 picked. Component: 8/8 ✅. Image: 5/6 ✅. Hero: HERO-13 (unique). Status: ✅.

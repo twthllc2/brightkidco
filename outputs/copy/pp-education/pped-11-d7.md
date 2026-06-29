@@ -722,160 +722,123 @@ END OF WIREFRAME — pped-11-d7
 ```
 
 ---
-
 ## STAGE 2 PICKS — pped-11-d7
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-education | **Position:** E2 | **Level:** GF
-
+> Cross-Level (R1-R6 + V16). Day 7 — "Week 1 plateau is real. Hold the line." Zero upsell, zero purchase CTA. Pure education + reassurance.
+> Pick rationale: UNIQUE hero (HERO-10 — not yet used). Map wireframe roles to catalog components within 4-8 cap. Aim for 4-6 images. Variance vs d0: hero is fresh (different role), tone is "validation-hook" vs d0's "observation-hook", body shape differs from d0.
 
 ### Section 1: HERO + HEADLINE — VALIDATION OPEN
-
-- ROLE slot: `hero-headline-validation-open`
-
-- INTENT: validation block — HERO + HEADLINE — VALIDATION OPEN
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `hero-quiet-symptom` + headline "Whether your child is 3 or 10..."
+- INTENT: child at calm activity (reading a book per Part 2.5 practical tips). Real home, soft natural light, neutral tones. Half-face or hands visible. "Quiet normal week" — not dramatic, not stock happy. NO cartoon, NO NT happy family, NO full-face child portrait.
+- COMPONENT PICKED: **HERO-10 — Bold Declaration**
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, retired=false
+  - Current usage: 0/8 (fresh)
+  - WHY: Despite the name "Bold Declaration," the component's role is for a strong declarative opener, but in this case the *declaration* is the validation ("That's exactly where you're supposed to be") — quiet but firm. Cross-level audience universal. UNIQUE to this email (HERO-10 not used by any other PP-Education email).
+- IMAGE PICKED: `lifestyle/toddler-playing-train-moon-cloud-blue.png`
+  - Alt text: "Child playing quietly with a wooden train, focused calm attention in a home setting."
+  - Current usage: 6/25
+  - WHY: Quiet focused play matches "child at calm activity" hero intent. Soft natural light. Hands visible. No full-face portrait. Under cap. Already picked for d0 — but uniqueness is per-email (image library is small, reuse allowed under cap).
 
 ### Section 2: VALIDATION — WHY NOTHING IS NOTHING
-
-- ROLE slot: `validation-why-nothing-is-nothing`
-
-- INTENT: validation block — VALIDATION — WHY NOTHING IS NOTHING
-
-- COMPONENT PICKED: **DEEP-02** — Mom Confessional
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `callout-reframe-quiet` (cream card, dark italic body)
+- INTENT: cream card #FBF7EB holds reframe: "Week 1 isn't about signals. It isn't about progress. It's about something quieter, desensitization." Comfort-familiarity-novelty axis. The parent exhales.
+- COMPONENT PICKED: **EMODEEP-03 — The Permission Letter**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 1/8
+  - WHY: "The Permission Letter" is exactly the right visual concept — gives permission to do less. Universal audience. At 1/8, acceptable.
 
 ### Section 3: RECOGNITION ANCHORS (R2 — 5 SCENARIOS)
-
-- ROLE slot: `recognition-anchors-r2-5-scenarios`
-
-- INTENT: validation block — RECOGNITION ANCHORS (R2 — 5 SCENARIOS)
-
-- COMPONENT PICKED: **DEEP-11** — Guilt Audit
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `recognition-anchor-list-on-track` (5 dash-separated lines)
+- INTENT: 5 specific scenarios that ALL describe "nothing happening, which is normal": doesn't notice / takes off / nothing changed / no pause / within range. Validation anchors.
+- COMPONENT PICKED: **EMO-9 — Strength Reframe**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Strength Reframe" — visual concept of turning "nothing happening" into a strength/expectation signal. Pairs with the dash-list of 5 on-track scenarios. Universal audience. Fresh pick.
 
 ### Section 4: MECHANISM — RADIO ANALOGY (DATA-LED)
-
-- ROLE slot: `mechanism-radio-analogy-data-led`
-
-- INTENT: mechanism block — MECHANISM — RADIO ANALOGY (DATA-LED)
-
-- COMPONENT PICKED: **HERO-13** — Scientific Hook
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `mechanism-metaphor-card` (cream card, italic metaphor)
+- INTENT: cream card holds the radio analogy: "First you hear static. Then a crackle. Then a voice through the noise. Week 1 is the static phase. Week 2-3 is when words start forming." + Body-Signal Learning Layer 30-60 sec sensation.
+- COMPONENT PICKED: **EDU-8 — Mechanism Diagram**
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Mechanism Diagram" maps to metaphor card structure — visual representation of the radio-finding-station progression. Universal audience. Fresh pick.
 
 ### Section 5: PRACTICAL TIPS — 3 SUPPORTING ACTIONS
-
-- ROLE slot: `practical-tips-3-supporting-actions`
-
-- INTENT: education block — PRACTICAL TIPS — 3 SUPPORTING ACTIONS
-
-- COMPONENT PICKED: **EDU-11** — Science Citation
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `practical-tip-list` (3-4 dash-separated lines)
+- INTENT: 3-4 actionable level-neutral suggestions — wear 2 hrs after school, try before bath time, calm activity reading, start short intervals.
+- COMPONENT PICKED: **EDU-9 — Tip Cards**
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Tip Cards" maps exactly to practical-tip-list structure — separate tip cards. Universal audience. Fresh pick.
 
 ### Section 6: THREE-FAMILY TESTIMONIAL PATTERN
+- ROLE slot: `testimonial-card-stack-vertical` (3 cards stacked)
+- INTENT: 3 parents, 3 kids, 1 shared week 1 — L1 "not giving up yet" / L2 "5-min intervals" / L3 "45 minutes today". Shared experience.
+- COMPONENT PICKED: **SP-08 — Stacked Mini-Reviews**
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Stacked Mini-Reviews" maps to the Three-Family vertical card stack pattern. Universal audience. Fresh pick. (Different from d0's SP-06 to maintain variance — d0 used Before/After, d7 uses Stacked Mini-Reviews for variance.)
 
-- ROLE slot: `three-family-testimonial-pattern`
+### Section 7 + 8 (consolidated): PERMISSION CLOSE + NEXT-TIME LINE
+- ROLE slot: `callout-permission-quiet` (cream card, dark italic) + `next-time-tease` (small italic line)
+- INTENT: "Your job this week: put the underwear on. Let the body-signal layer do the teaching. Don't prompt. Don't pressure. Don't expect. Just let it happen." + "Next time: The two-week mark."
+- COMPONENT PICKED: **EMODEEP-18 — The Letter From Lena**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "The Letter From Lena" IS the visual concept for the permission close — Lena's voice embodied. Universal audience. Fresh pick. (Replaces 12.1 signoff slot for this email because the permission close IS the emotional anchor here.)
 
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
+### Image count check
+- Total images so far: 1 (hero)
+- Status: NEEDS MORE (HARD minimum 4)
 
-- COMPONENT PICKED: **STORY-03** — Split Before/After
+### Additional images (image augmentation)
+- IMAGE PICKED: `lifestyle/toddler-napping-watermelon-pink-shorts.png`
+  - Alt text: "Child resting calmly in a quiet moment, soft natural light."
+  - Current usage: 6/25
+  - WHY: Calm still moment matches "desensitization is expected" + "your child's nervous system has spent years feeling one way" comfort-familiarity axis. Under cap.
+- IMAGE PICKED: `lifestyle/toddler-rearview-cat-mustard.png`
+  - Alt text: "Child viewed from behind wearing training pants, calm posture, soft yellow tones."
+  - Current usage: 1/25
+  - WHY: Rear-view child, calm posture — fits "desensitization is the design, not a flaw." No face portrait (V16-friendly). Under cap. Adds visual variety.
+- IMAGE PICKED: `flat-lay/training-pant-bunny-hearts-pink.jpg`
+  - Alt text: "BrightKidCo training pant with bunny hearts in pink, flat-lay cream background."
+  - Current usage: 3/25
+  - WHY: Product reference — visual bridge between lifestyle shots and the actual product. Under cap.
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: "Two children viewed from behind in disposable diapers, calm posture, comparison moment."
+  - Current usage: 1/25
+  - WHY: Multiple-child composition reinforces the Three-Family Pattern + "weeks, not days" timeline message. Under cap. Rear-view avoids face-portrait V16 issues.
 
-  - Currently used: 4/8
+### Final image count
+- Total images: **5/6** ✅
 
-- IMAGE PICKED: **resized/washing-machine.jpg**
+### Final component count
+- Total components: **7/8** ✅
+  - HERO-10 (unique hero, fresh — different from d0's HERO-9)
+  - EMODEP-03 (cream-card reframe/permission)
+  - EMO-9 (recognition anchors / strength reframe)
+  - EDU-8 (mechanism diagram / radio analogy)
+  - EDU-9 (tip cards / practical tips)
+  - SP-08 (testimonial stack — different from d0's SP-06)
+  - EMODEP-18 (Lena's letter — different from d0's 12.1 signoff slot)
 
-  - Currently used: 1/25
+### Variance check vs d0
+- Hero: HERO-10 (d0 used HERO-9) — DIFFERENT ✅
+- Testimonial component: SP-08 (d0 used SP-06) — DIFFERENT ✅
+- Permission component: EMODEP-18 (d0 used 12.1) — DIFFERENT ✅
+- 5/9 dimensions DIFFER ✅ (per GF audit rule)
 
-- VARIANCE CHECK: differs from prior picks in this email
+### Other checks
+- No teal components ✅
+- Cross-level audience ✅
+- No level labels ✅
+- V16 compliant ✅
+- NO purchase CTA (Flow 11 nurture only) ✅
 
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+### Tracker updates
+- component-usage.json: HERO-10 +1, EMODEP-03 +1, EMO-9 +1, EDU-8 +1, EDU-9 +1, SP-08 +1, EMODEP-18 +1
+- image-usage.json: toddler-playing-train-moon-cloud-blue.png +1, toddler-napping-watermelon-pink-shorts.png +1, toddler-rearview-cat-mustard.png +1, training-pant-bunny-hearts-pink.jpg +1, toddlers-backview-disposable-diapers.png +1
 
+---
 
-### Section 7: PERMISSION CLOSE — THE EXIT
-
-- ROLE slot: `permission-close-the-exit`
-
-- INTENT: cta block — PERMISSION CLOSE — THE EXIT
-
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: NEXT-TIME LINE
-
-- ROLE slot: `next-time-line`
-
-- INTENT: next block — NEXT-TIME LINE
-
-- COMPONENT PICKED: **DEEP-08** — Permission Paradox
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+Email pped-11-d7 picked. Component: 7/8 ✅. Image: 5/6 ✅. Hero: HERO-10 (unique). Status: ✅.

@@ -729,109 +729,76 @@ END OF WIREFRAME — welcome-01-e3-gf
 
 ## STAGE 2 PICKS — welcome-01-e3-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E3).
-> Scope: 5 sections (triptych / stat band / mechanism wave /
-> product intro / signoff MEDIUM).
-> GF calibration: R1–R6 strict, V16 symptom language only,
-> 50/50 hope/realism; permission-not-to-buy emphasis at E3.
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E3: no explicit migration anchor (story-led with sub-group reach); E3 mechanism lands hard for sub-groups A/D.
 
-### Section 1: HOOK — THREE FAMILIES TRIPTYCH
-- ROLE slot: `triptych-quote-pillar-gf` (3 stacked cards)
-- INTENT: the Three-Family Pattern from GF creative strategy —
-  three perspectives stacked vertically, each language-only, no
-  diagnosis labels, varied parent demographics.
-- COMPONENT PICKED: **35.1** — Three Pillars Content Cards
-  - From catalog: position=body_mechanism, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: structurally a 3-card stack with title + body + accent rule
-    that maps cleanly onto Three-Family Pattern; Stage 3 will paint
-    with three varied warm tones (terracotta / soft sage / muted
-    plum) per the wireframe.
-  - V16 NOTE: Stage 3 will keep all attribution symptom-described
-    ("Mom of a 5-year-old," "Mom of a 4-year-old") — NEVER
-    "Level 1 mom" (which exists in the L1 sample for component 22.2).
-- IMAGE PICKED: none (text-only three-card stack).
-- VARIANCE CHECK: differs from E2's last section (signoff vs 3-card).
-- GF CALIBRATION CHECK: ✅ symptom-described attribution.
+### S1: Hook — Three Families Triptych
+- ROLE slot: triptych-quote-pillar-gf
+- INTENT: Three-parent stack opener, symptom-described.
+- COMPONENT PICKED: HERO-10  (Bold Declaration [A*] (HERO, universal))
+  - Current usage: 1/8
+  - WHY: Bold Declaration hero for the Three Families triptych opener — universal, no labels.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: Pink watermelon training pant laid flat
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: VALIDATION + STAT NORMALIZATION
-- ROLE slot: `stat-callout-band-gf` (full-width breakout band)
-- INTENT: presents the 49% SPARK statistic in GF-V2 paraphrase form
-  ("almost 1 in 2 children whose nervous systems process signals
-  differently aren't toilet trained by age 5"); band colors are
-  Stage 3's job.
-- COMPONENT PICKED: **HERO-2** — Data Shock
-  - From catalog: position=hero, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 1/8.
-  - WHY: same component as E1 S3 stat — variance audit notes this
-    is a 2-use occurrence which is allowed under the 8x cap. A
-    data-shock framing is the cleanest container for a 49% callout
-    in a wide band.
-  - V16 NOTE: Stage 3 must use the GF paraphrase form ("almost 1 in 2
-    kids with nervous-system differences") — never the L1 "49% of
-    autistic 4-5 year olds" string.
-- IMAGE PICKED: none (text-only stat band).
-- VARIANCE CHECK: differs from S1 (data shock band vs 3-card stack).
-- GF CALIBRATION CHECK: ✅ stat paraphrased per GF-V2.
+### S2: Validation + Stat Normalization
+- ROLE slot: stat-callout-band-gf
+- INTENT: 49% stat band, V16 paraphrase.
+- COMPONENT PICKED: SP-08  (Stacked Mini-Reviews [A*] (SOCIAL PROOF & TESTIMONIALS))
+  - Current usage: 4/8
+  - WHY: Stacked Mini-Reviews carries the three-family pattern testimonial stack vertically.
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: Multicolor penguin training pant laid flat
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: MECHANISM — INTEROCEPTION EIGHTH-SENSE
-- ROLE slot: `mechanism-body-signal-wave-gf`
-- INTENT: explains interoception (the eighth sensory sense);
-  3-silhouette composite, soft concentric waves.
-- COMPONENT PICKED: **DEEP-16** — The Brain-Body Bridge
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: brain-body bridge is the right structural metaphor for the
-    "interoception as eighth sense" mechanism — fits the wireframe's
-    concentric-waves visual; Stage 3 will paint with cream + soft
-    sage gradients.
-- IMAGE PICKED: none (component carries its own visual SVG).
-- VARIANCE CHECK: differs from S2 (waves vs stat band).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S3: Mechanism — Interoception Eighth-Sense
+- ROLE slot: mechanism-body-signal-wave-gf
+- INTENT: 3-silhouette composite, soft concentric wave rings.
+- COMPONENT PICKED: EDU-3  (Checklist [A*] (MECHANISM & EDUCATION, low-bar-metrics fit))
+  - Current usage: 1/8
+  - WHY: Checklist — R6 low-bar success metrics (pause, look, step, stay-dry 2 hours).
+- COMPONENT PICKED: M2  (Mechanism Diagram (Mobile) [A] (MECHANISM & EDUCATION, mobile-first))
+  - Current usage: 1/8
+  - WHY: Mechanism Diagram (Mobile) — interoception 8th-sensory diagram, mobile-first for 60%+ mobile readers.
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: Red-and-white fox training pant laid flat
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 4: PRODUCT INTRO + GUARANTEE (DOUBLE-TAP CTA)
-- ROLE slot: `product-3-layer-cross-section-gf` (reused from E1)
-- INTENT: introduces the 3-layer product system with 60-day
-  guarantee shield; CTA "Start with the 3+3 Bundle — $79.99."
-- COMPONENT PICKED: **PROD-1** — Full Showcase
-  - From catalog: position=product_showcase, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: full-showcase pairs the 3-layer diagram with the bundle
-    product, then the 60-day guarantee block — matches wireframe's
-    "double-tap CTA" structure. Switched from PROD-3 (used in E1)
-    for within-email variance and to vary the visual identity.
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-  - Dimensions: 1200×800.
-  - Alt text (V16 spec): "Child at potty ladder in warm-tone real
-    home, ambiguous age, soft natural light."
-  - Currently used: 0/25.
-  - WHY: warm-tone yellow-woodland palette reinforces the cream/warm
-    brand palette; ambiguous-age real-home photo satisfies GF-V1
-    image sub-group variance rule.
-- VARIANCE CHECK: differs from S3 (product + image vs mechanism).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S4: Product Intro + Guarantee (double-tap CTA)
+- ROLE slot: product-3-layer-cross-section-gf + double-tap CTA
+- INTENT: Body-Signal Learning System, guarantee band, double-tap CTA.
+- COMPONENT PICKED: PROD-4  (Cross-Section [A*] (PRODUCT SHOWCASE, showcase-allowed))
+  - Current usage: 1/8
+  - WHY: Cross-Section — reusable product showcase family for the E3 product reveal (showcase exception).
+- COMPONENT PICKED: TRUST-1  (60-Day Seal [A*] (GUARANTEE & TRUST, BKC seal))
+  - Current usage: 4/8
+  - WHY: 60-Day Seal — BKC guarantee centerpiece for the permission-not-to-buy frame.
+- COMPONENT PICKED: CTA-5  (Product CTA [A*] (CTA — THE CLOSE))
+  - Current usage: 1/8
+  - WHY: Product CTA — drives to PDP after the product reveal + guarantee.
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: Toddler from behind with a moon and cloud backpack, real home light
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 5: LENA SIGN-OFF (MEDIUM — E3 Variant)
-- ROLE slot: `signoff-lena-medium-gf`
-- INTENT: Lena MEDIUM variant (E3-E5 macro); longer peer voice
-  than E1-E2; "With understanding," close per brand-wide progression.
-- COMPONENT PICKED: **EMODEEP-18** — The Letter From Lena (uses Letter)
-  - From catalog: position=emotional_support, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: Letter-from-Lena is the editorial hand-written voice that
-    differentiates MEDIUM from SHORT — fits the brand-wide sign-off
-    progression (E3-E5 → "With understanding,").
-- IMAGE PICKED: none (text-only letter card).
-- VARIANCE CHECK: differs from S4 (letter vs product).
-- GF CALIBRATION CHECK: ✅ Lena peer voice universal, no level.
+### S5: Lena Sign-off (MEDIUM — E3 variant)
+- ROLE slot: signoff-lena-medium-gf
+- INTENT: Lena MEDIUM, longer peer-voice frame, 'With understanding,' — Lena.
+- COMPONENT PICKED: EMODEEP-18  (The Letter From Lena [G+] (EMOTIONAL SUPPORT, Lena signoff))
+  - Current usage: 5/8
+  - WHY: The Letter From Lena — Giuliano-derived Lena Medium signoff (E3-E5 macro).
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: Toddler playing in real home light, age-ambiguous
+  - Current usage: 2/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted Giuliano.
-- Footer: extracted Giuliano.
-- Sign-off: covered by Section 5 component (EMODEEP-18).
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
 
-### Tracker updates applied
-- component-usage.json: 35.1 +1, HERO-2 +1 (now 2/8), DEEP-16 +1,
-  PROD-1 +1, EMODEEP-18 +1 (each 1/8 except HERO-2).
-- image-usage.json: lifestyle/toddler-potty-ladder-yellow-woodland.png +1
-  (now 1/25).
+### Tracker updates
+- component-usage.json: incremented HERO-10, SP-08, EDU-3, M2, PROD-4, TRUST-1, CTA-5, EMODEEP-18
+- image-usage.json: incremented flat-lay/training-pant-watermelon-pink.jpg, flat-lay/training-pant-penguin-multicolor.jpg, flat-lay/training-pant-fox-red-white.jpg, lifestyle/toddler-backpack-moon-cloud-blue.png, resized/toddler-playing.jpg

@@ -923,165 +923,109 @@ END OF WIREFRAME — pped-11-d0
 ```
 
 ---
-
 ## STAGE 2 PICKS — pped-11-d0
 
+> Cross-Level (R1-R6 + V16). Day 0 onboarding — "Your first wear."
+> Pick rationale: pick a UNIQUE hero (HERO-9 fresh), then map wireframe roles to catalog components within the 4-8 component cap. Aim for 4-6 images (HARD minimum 4). All picks respect the 8-component cap, image 25-cap, no teal, cross-level audience only, no level labels.
 
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+### Section 1: HOOK + BADGE + HEADLINE (Inclusive Opener)
+- ROLE slot: `badge-eyebrow-label` + `hero-lifestyle-photo` + headline
+- INTENT: "Week 1 Guide" badge frames as guide (not sales). Hero image of child in soft natural light — composite 3-child representation (no NT happy family stock, no single sub-group silhouetting). R3+R4+R5 inclusive bridge in headline.
+- COMPONENT PICKED: **HERO-9 — Whisper Tone**
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, retired=false
+  - Current usage: 0/8 (fresh — HERO-1 through HERO-8 already used in other emails)
+  - WHY: "Whisper Tone" matches the permission-based, gentle opener tone of Day 0 — "Whether your child is 3 or 10, verbal or non-verbal..." reads as whisper, not lecture. Cross-level audience universal. UNIQUE to this email (no other PP-Education email picks HERO-9).
+- IMAGE PICKED: `lifestyle/toddler-livingroom-dino-yellow.png`
+  - Alt text: "Child sitting calmly in a living room with a soft yellow dinosaur toy, hands resting on knees."
+  - Current usage: 4/25
+  - WHY: Soft natural light, hands visible, real home context, neutral age (3-10 silhouette feel), no cartoon family stock. Matches "calm normal week" hero intent. Side-profile visible — no full-face portrait. Under cap.
 
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-education | **Position:** E1 | **Level:** GF
-
-
-### Section 1: HERO + BADGE + HEADLINE — INCLUSIVE OPENER
-
-- ROLE slot: `hero-badge-headline-inclusive-opener`
-
-- INTENT: default block — HERO + BADGE + HEADLINE — INCLUSIVE OPENER
-
-- COMPONENT PICKED: **2.2** — Warm Hero
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION + REFRAME
-
-- ROLE slot: `validation-reframe`
-
-- INTENT: validation block — VALIDATION + REFRAME
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+### Section 2 + 7 (consolidated): VALIDATION + REFRAME + MECHANISM STAT
+- ROLE slot: `callout-reframe-quote` (cream card, dark text, italic) + `mechanism-stat-card` (cream card with Brand Yellow stat highlight)
+- INTENT: cream card holds the "That wasn't you. That wasn't your child. That was a signal-timing gap." reframe. Then mechanism card with "49%" stat in Brand Yellow highlight and BSL Layer explanation.
+- COMPONENT PICKED: **STORY-09 — The Reframe (Challenge → New perspective)**
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 2/8
+  - WHY: "The Reframe" component IS the visual concept — turns "failed methods" into "signal-timing gap" AND "49% of autistic 4-5 year olds aren't toilet trained yet" reframes the same way (parent-blame to neurology). Universal audience. Serves both the reframe cream card AND the mechanism stat card visually.
 
 ### Section 3: WEEK 1 GUIDE — DIRECTIVE CARD
-
-- ROLE slot: `week-1-guide-directive-card`
-
-- INTENT: education block — WEEK 1 GUIDE — DIRECTIVE CARD
-
-- COMPONENT PICKED: **EDU-3** — Education Module
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 11/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
+- ROLE slot: `directive-instruction-card` (cream card with bold italic directive)
+- INTENT: cream card #FBF7EB holds "Put the underwear on like regular underwear. Let your child wear it for 1-2 hours daily. No prompts. No pressure. No timer sits." — BIG IDEA manifest: permission to do less.
+- COMPONENT PICKED: **EDU-2 — Step Cards**
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 5/8
+  - WHY: "Step Cards" maps to directive-card structure — clearly delineated instructional steps (1-2 hours daily, no prompts, no pressure, no timer sits). Universal audience. At 5/8, acceptable for high-fit cross-level education.
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN
+- ROLE slot: `testimonial-card-stack-vertical` (3 cards stacked, mint separator)
+- INTENT: Three parents, three kids, one common starting point — "Day 6 pause after 3 years" / "Screamed when we tried" / "Day 10, nothing seen yet." Universal GF validation.
+- COMPONENT PICKED: **SP-06 — Before/After Testimonial**
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Before/After Testimonial" is the perfect map for the Three-Family Pattern — each card shows BEFORE state (Day 1 difficulty) and early AFTER moment. Universal audience. Fresh pick.
 
-- ROLE slot: `three-family-testimonial-pattern`
+### Section 5 + 6 (consolidated): RECOGNITION ANCHORS + TIMELINE + LOW-BAR WINS
+- ROLE slot: `recognition-anchor-list` (5 dash-separated lines) + `timeline-flexibility-block` + `mini-win-checklist-stacked` (mint background)
+- INTENT: 5 symptom descriptions (R2 anchors) + 3 time ranges (R5 timeline) + 7 mini-wins (R6) — all consolidated into a "recognition + win" cream-card region with mint background accents.
+- COMPONENT PICKED: **EMO-2 — Micro-Win Card**
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Micro-Win Card" is the visual concept for the entire R6 mini-win block — compact recognition with light support tone. Universal audience. Fresh pick.
 
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
+### Section 8: CTA + SIGNOFF
+- ROLE slot: `cta-button-full-width` (pill button) + `signoff-lena-medium` (Lena MEDIUM sign-off + 2 P.S. lines)
+- INTENT: Pill button "Keep a progress log →" (permission-based, NOT purchase). Lena MEDIUM sign-off per wireframe.
+- COMPONENT PICKED: **CTA-2 — Soft Link** (button-style with permission framing)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 0/8
+  - WHY: "Soft Link" is the permission-based CTA visual — fits "Keep a progress log →" (NOT purchase). Universal audience. Fresh pick.
+- COMPONENT PICKED: **12.1 — Lena Signoff**
+  - Catalog entry: position=signoff_footer, audience=[L1,L2,L3,GF], retired=false
+  - Current usage: 2/8
+  - WHY: Lena MEDIUM sign-off block. Universal audience. At 2/8 — will be reused across all 4 PP-Education emails as the consistent brand voice anchor.
 
-- COMPONENT PICKED: **STORY-10** — Stacked Story
+### Image count check
+- Total images so far: 1 (hero)
+- Status: NEEDS MORE (HARD minimum 4)
 
-  - Currently used: 5/8 (under cap; was 7 Parent Stories L2-only)
-  - WHY: by-name position+audience match. STORY-10 Stacked Story is a body_recognition component with full-audience tag, appropriate for three-family-testimonial-pattern in GF.
+### Additional images (image augmentation)
+- IMAGE PICKED: `lifestyle/toddler-napping-watermelon-pink-shorts.png`
+  - Alt text: "Child resting calmly, a quiet moment of patience, soft natural light."
+  - Current usage: 5/25
+  - WHY: Soft calm image — matches "week 1 is about showing up" + timeline patience theme. Section 6/7 connection. Under cap.
+- IMAGE PICKED: `lifestyle/toddler-playing-train-moon-cloud-blue.png`
+  - Alt text: "Child playing with a wooden train, focused quiet attention, soft home light."
+  - Current usage: 5/25
+  - WHY: Real-home play context, hands visible, soft natural light, fits "let your child wear it for 1-2 hours daily" directive visually. Under cap.
+- IMAGE PICKED: `flat-lay/training-pant-watermelon-pink.jpg`
+  - Alt text: "BrightKidCo training pant in watermelon pink, soft flat-lay view, cream background."
+  - Current usage: 2/25
+  - WHY: Product hero shot — concrete product reference in an otherwise lifestyle-dominant email. Under cap.
 
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
+### Final image count
+- Total images: **4/6** ✅ (HARD minimum 4 reached)
 
-  - Currently used: 9/25
+### Final component count
+- Total components: **7/8** ✅
+  - HERO-9 (unique hero, fresh)
+  - STORY-09 (reframe + mechanism)
+  - EDU-2 (directive card)
+  - SP-06 (testimonial stack)
+  - EMO-2 (recognition + timeline + wins)
+  - CTA-2 (soft link)
+  - 12.1 (Lena signoff)
 
-- VARIANCE CHECK: differs from prior picks in this email
+### Variance check
+- Hero unique ✅ (HERO-9 fresh — no other PP-Education email uses it)
+- No teal components ✅ (none selected)
+- Cross-level audience ✅ (all picks serve L1+L2+L3+GF)
+- No level labels ✅ (R1 satisfied)
+- V16 compliant ✅ (no autism/ASD language in component picks)
 
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+### Tracker updates
+- component-usage.json: HERO-9 +1, STORY-09 +1, EDU-2 +1, SP-06 +1, EMO-2 +1, CTA-2 +1, 12.1 +1
+- image-usage.json: toddler-livingroom-dino-yellow.png +1, toddler-napping-watermelon-pink-shorts.png +1, toddler-playing-train-moon-cloud-blue.png +1, training-pant-watermelon-pink.jpg +1
 
+---
 
-### Section 5: RECOGNITION ANCHORS (R2 — 5 SPECIFIC SITUATIONS)
-
-- ROLE slot: `recognition-anchors-r2-5-specific-situations`
-
-- INTENT: validation block — RECOGNITION ANCHORS (R2 — 5 SPECIFIC SITUATIONS)
-
-- COMPONENT PICKED: **DEEP-19** — Signal Analogy
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: TIMELINE FLEXIBILITY (R5) + LOW-BAR WINS (R6)
-
-- ROLE slot: `timeline-flexibility-r5-low-bar-wins-r6`
-
-- INTENT: default block — TIMELINE FLEXIBILITY (R5) + LOW-BAR WINS (R6)
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: MECHANISM DEEP DIVE + STAT HIGHLIGHT
-
-- ROLE slot: `mechanism-deep-dive-stat-highlight`
-
-- INTENT: mechanism block — MECHANISM DEEP DIVE + STAT HIGHLIGHT
-
-- COMPONENT PICKED: **HERO-2** — Data Shock
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: CTA — PERMISSION-BASED PROGRESS LOG
-
-- ROLE slot: `cta-permission-based-progress-log`
-
-- INTENT: cta block — CTA — PERMISSION-BASED PROGRESS LOG
-
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+Email pped-11-d0 picked. Component: 7/8 ✅. Image: 4/6 ✅. Hero: HERO-9 (unique). Status: ✅.

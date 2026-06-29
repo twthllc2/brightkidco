@@ -707,155 +707,97 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 ## STAGE 2 PICKS — winback-a-19-e2-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** winback-a | **Position:** E11 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e2-l3
+- COMPONENT PICKED: CSHOP-14 (New Colourway *(L25414)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e2-l3, level=l3, theme=2. Calibrated per level.
 
 ### Section 1: OPENING — Lapse Validation (L3 dignity-first)
-
-- ROLE slot: `opening-lapse-validation-l3-dignity-first`
-
-- INTENT: hook block — OPENING — Lapse Validation (L3 dignity-first)
-
-- COMPONENT PICKED: **REV-04.2** — REV-04.2 — Savings Highlight Header (Spending Anchor)
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: opening-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: REV-04.2 (REV-04.2 — Savings Highlight Header (Spending Anch)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: L3 2 section 1 visual — calibrated per level (l3)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: MAUREEN BENNIE LATE-TRAINER STORY
-
-- ROLE slot: `maureen-bennie-late-trainer-story`
-
-- INTENT: social_proof block — MAUREEN BENNIE LATE-TRAINER STORY
-
-- COMPONENT PICKED: **UTIL-03** — Out-Line
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: maureen-bennie-story-block-warm-neutral
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: REV-04.4 (REV-04.4 — Bundle CTA (Get-the-Bundle Button) *(L2)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: L3 2 section 2 visual — calibrated per level (l3)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — 30-60 Seconds of Feedback
-
-- ROLE slot: `mechanism-30-60-seconds-of-feedback`
-
-- INTENT: mechanism block — MECHANISM — 30-60 Seconds of Feedback
-
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
-
-  - Currently used: 35/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-warm-sand-callout-no-green-l3
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: ED3 (Interoception Explainer *(L3353)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L3 2 section 3 visual — calibrated per level (l3)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: REFRAME — "No wrong way to explore this"
-
-- ROLE slot: `reframe-no-wrong-way-to-explore-this`
-
-- INTENT: validation block — REFRAME — "No wrong way to explore this"
-
-- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: reframe-prose-warm-cream-permission
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: 8 (CTA Varieties (Permission-Based) *(L211)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: L3 2 section 4 visual — calibrated per level (l3)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: OFFER — 1 Pair ($34.99), Add Alongside
-
-- ROLE slot: `offer-1-pair-34-99-add-alongside`
-
-- INTENT: offer block — OFFER — 1 Pair ($34.99), Add Alongside
-
-- COMPONENT PICKED: **STORYDEEP-04** — The Day In The Life
-
-  - Currently used: 35/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: offer-prose-1-pair-only-no-bundle-l3
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: REV-06.2 (REV-06.2 — Science Bridge (Science-to-Action Link))
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: L3 2 section 5 visual — calibrated per level (l3)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: GUARANTEE + PERMISSION — 60 Days, Your Judgment
-
-- ROLE slot: `guarantee-permission-60-days-your-judgment`
-
-- INTENT: guarantee block — GUARANTEE + PERMISSION — 60 Days, Your Judgment
-
-- COMPONENT PICKED: **CTAMAX-18** — Permission CTA
-
-  - Currently used: 36/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: guarantee-paragraph-with-permission-closing
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTADEEP-05 (The Permission CTA *(L11623)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
 ### Section 7: CTA — Permission-Framed, Two Soft CTAs
+- ROLE slot: cta-two-text-links-warm-clay-no-buttons
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: CTADEEP-11 (The Expert CTA *(L11786)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- ROLE slot: `cta-permission-framed-two-soft-ctas`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: cta block — CTA — Permission-Framed, Two Soft CTAs
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-14', 'REV-04.2', 'REV-04.4', 'ED3', '8', 'REV-06.2', 'CTADEEP-05', 'CTADEEP-11']
+- image-usage.json: incremented ['accessories/cloth-pads-watermelon-astronaut-cat.png', 'lifestyle/toddler-rearview-cat-mustard.png', 'flat-lay/swim-diaper-unicorn-pink.jpg', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'accessories/potty-targets-stickers-chart.png']
 
-- COMPONENT PICKED: **CTADEEP-05** — The Permission CTA
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Section 8: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
-
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
-
-- COMPONENT PICKED: HERO-8  - Catalog entry: position=hero, audience=['L1','L2','L3','GF'], temperature=warm, messaging=emotional
-  - Current usage: 7/8 (under cap; was M1 'Emotional Hero (Storytelling Open)' which is L2-only)
-  - WHY: HERO-8 Visual Metaphor is a hero component with full-audience tag, appropriate for L3 long-variant sign-off. Replaces L2-only M1 per Stage 2 audit.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

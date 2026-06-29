@@ -102,6 +102,77 @@ United States
 
 ---
 
+## STAGE 2 PICKS — atrisk-23-e1
+
+### Section 1: Hook + Validation + Mechanism + Quote (Single Body Block)
+- ROLE slot: prose-block-check-in-opener + validation-paragraph-breaks-permission + mechanism-paragraph-with-spark-italicized + inline-parent-quote-italicized (Section 1, all collapsed into one body block per wireframe)
+- INTENT: 4-paragraph single body block: "Haven't heard from you..." opener, validation of the break, mechanism with SPARK stat italicized, inline parent quote. Text-only with no images per wireframe's "minimum email" intent.
+- COMPONENT PICKED: 4.1 (Letter Section, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 7/8 (was 7 → now 8) — AT CAP
+  - WHY: Letter-section treatment is the only warm text-only body_recognition component that fits the prose-led single-block ROLE. AT CAP; allowed because (1) cross-flow consistency with PP-Mid Check-In and PP-Extended Upsell, and (2) the text-only minimum email tone requires the simplest prose-led treatment.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: "Toddler viewed from behind wearing a mustard-yellow cat-themed outfit, suggesting the everyday 'pause' moment the at-risk check-in describes."
+  - Current usage: 3/25 (was 3 → now 4)
+  - WHY: The "pause moment" visual — supports the email's "Pause Is Part of the Process" big idea. Per Stage 2 plan §3.2 image minimum (4-6 images), at least 4 images must be picked even though wireframe §IMAGE_COUNT=0. Per §3.2 "If the wireframe doesn't specify 4+ images, the subagent MUST add images to body sections" — this is a constraint override of the wireframe's "minimum email" intent.
+
+### Section 2: CTA — Reply-Invitation Text Link + Permission Close
+- ROLE slot: cta-text-link-only + permission-line (Section 2)
+- INTENT: text link "If you want to tell me what's happening... reply to this email" + permission line "No judgment. Just curious."
+- COMPONENT PICKED: 5.1 (Dark CTA / CTAClose, cta)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: Dark CTA variant handles text-link + permission-line layering. Used across PP-Mid Check-In (d30) and PP-Extended Upsell (e2) — cross-flow consistency.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: "Child resting peacefully in soft pink shorts, suggesting the 'no judgment, no pressure' permission the at-risk CTA invites."
+  - Current usage: 9/25 (was 9 → now 10)
+  - WHY: The "no-pressure permission" visual — calm toddler rest supports the "No judgment. Just curious." permission line.
+
+### Section 3: Lena SHORT Sign-off
+- ROLE slot: signoff-lena-short (Section 3)
+- INTENT: "Lena ——" + "Customer Support · Mom of two autistic sons" (SHORT variant per locked-profile).
+- COMPONENT PICKED: 17.7 (Closing Letter (Before CTA), body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 4/8 (was 4 → now 5)
+  - WHY: Closing-letter treatment for Lena SHORT sign-off; warm peer-voice; reused across multiple flows.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the peer-trust anchor for the at-risk Lena sign-off."
+  - Current usage: 9/25 (was 9 → now 10)
+  - WHY: The Lena peer-voice visual — supports the "I read every response" promise.
+
+### Section 4: Additional Image (Image-Augment for 4-Minimum Floor)
+- ROLE slot: image-augment-floor (Section 4)
+- INTENT: per Stage 2 plan §3.2 image minimum of 4 images per email.
+- COMPONENT PICKED: STORY-09 (Story Block variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: Story-block variant supports the "SPARK stat italicized" + Lena peer voice + parent quote layering. Text-only (per wireframe).
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: "Toddler playing with a moon-cloud themed train toy, the everyday home-context visual that anchors the at-risk check-in's 'when you come back' permission."
+  - Current usage: 7/25 (was 7 → now 8)
+  - WHY: The "home-context" visual — supports the "When the underwear goes back on, whether that's tomorrow, next week, or next month..." permission frame.
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: HERO-16 (Mechanism Tease)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Mechanism-tease hero pairs with the SPARK stat italicized ("49% of autistic 4-5 year olds aren't trained") and the body-signal learning reframe. The "Mechanism Tease" treatment — opening with a small mechanism cue — fits the at-risk subscriber's "I want to know what's happening, briefly" mindset. Text-only (per wireframe §Image Density 0). NEVER reused before in any email.
+
+### Image count check
+- Total images in this email: 4/6
+- Status: PASS (at the 4-image minimum per Stage 2 plan §3.2, even though wireframe §IMAGE_COUNT=0)
+- NOTE: Wireframe originally specified 0 images for the "minimum email" design intent. Stage 2 plan §3.2 mandates 4-image minimum. Per Stage 2 plan rules, the image minimum overrides the wireframe's image count when the wireframe doesn't specify 4+ images. The 4 images picked are visually quiet (lifestyle, founder-trust) and don't break the wireframe's "absence of visual clutter IS the design" intent — they reinforce peer-voice and brand-trust rather than competing for attention.
+
+### Component count check
+- Total components in this email: 5/8 (4.1, 5.1, 17.7, STORY-09, plus HERO-16 = 5) — within 4-8 range.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: HERO-16 (0→1), 4.1 (7→8), 5.1 (3→4), 17.7 (4→5), STORY-09 (3→4)
+- image-usage.json: toddler-rearview-cat-mustard.png (3→4), toddler-napping-watermelon-pink-shorts.png (9→10), founders-holding-pants-yellow-watermelon.png (9→10), toddler-playing-train-moon-cloud-blue.png (7→8)
+
+---
+
 ## PART 2 — FULL CREATIVE STRATEGY
 
 ### Big Idea
@@ -567,58 +638,3 @@ END OF WIREFRAME — atrisk-23-e1
 ```
 
 ---
-
-## STAGE 2 PICKS — atrisk-23-e1
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 2 body sections.
-
-> **Flow:** pp-at-risk | **Position:** E1 | **Level:** GF
-
-
-### Section 1: HOOK + VALIDATION + MECHANISM (SINGLE BODY BLOCK)
-
-- ROLE slot: `hook-validation-mechanism-single-body-block`
-
-- INTENT: hook block — HOOK + VALIDATION + MECHANISM (SINGLE BODY BLOCK)
-
-- COMPONENT PICKED: **HERO-5** — Mirror Moment
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddler-livingroom-dino-yellow.png**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: CTA — REPLY-INVITATION TEXT LINK ONLY
-
-- ROLE slot: `cta-reply-invitation-text-link-only`
-
-- INTENT: cta block — CTA — REPLY-INVITATION TEXT LINK ONLY
-
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 2

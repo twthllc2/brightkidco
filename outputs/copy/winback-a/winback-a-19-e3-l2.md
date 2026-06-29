@@ -681,140 +681,89 @@ END OF WIREFRAME — winback-a-19-e3-l2
 
 ## STAGE 2 PICKS — winback-a-19-e3-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** winback-a | **Position:** E9 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e3-l2
+- COMPONENT PICKED: CSHOP-22 (VIP Reward *(L25652)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e3-l2, level=l2, theme=3. Calibrated per level.
 
 ### Section 1: HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
-
-- ROLE slot: `hook-real-symptom-recognition-l2`
-
-- INTENT: hook block — HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
-
-- COMPONENT PICKED: **REV-08.2** — REV-08.2 — CTA Block (Smart-Choice Button)
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: OBJ-13.4 (OBJ-13.4 — Trust Card Footer (Brand Authority Buil)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: L2 3 section 1 visual — calibrated per level (l2)
+  - Current usage: 16/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: MECHANISM SPECIFICITY (L2 ②)
-
-- ROLE slot: `mechanism-specificity-l2`
-
-- INTENT: mechanism block — MECHANISM SPECIFICITY (L2 ②)
-
-- COMPONENT PICKED: **STORYDEEP-09** — The Map Journey
-
-  - Currently used: 32/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 3: BCBA/OT ACKNOWLEDGMENT + CONVERSATION SCRIPT
-             (L2 ③)
-
-- ROLE slot: `bcba-ot-acknowledgment-conversation-script-l2`
-
-- INTENT: default block — BCBA/OT ACKNOWLEDGMENT + CONVERSATION SCRIPT
-             (L2 ③)
-
-- COMPONENT PICKED: **HERO-15** — Level Callout
-
-  - Currently used: 33/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: mechanism-mint-callout-with-nicholson-citation
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: L2 3 section 2 visual — calibrated per level (l2)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: REALISTIC TIMELINES (L2 ④)
-
-- ROLE slot: `realistic-timelines-l2`
-
-- INTENT: default block — REALISTIC TIMELINES (L2 ④)
-
-- COMPONENT PICKED: **STORYDEEP-10** — The Playlist
-
-  - Currently used: 33/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: timeline-stack-vertical-with-week-ranges-l2
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: REV-05.2 (REV-05.2 — Emotion Block (Story-Outcome Highlight))
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: L2 3 section 4 visual — calibrated per level (l2)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: 60-DAY GUARANTEE — RESETS PER ORDER (L2 ⑤)
-
-- ROLE slot: `60-day-guarantee-resets-per-order-l2`
-
-- INTENT: guarantee block — 60-DAY GUARANTEE — RESETS PER ORDER (L2 ⑤)
-
-- COMPONENT PICKED: **EMO-5** — Realistic Timeline
-
-  - Currently used: 34/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: guarantee-paragraph-with-reset-anchor
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: TRUST-4 (Dashed Policy Quote *(L6476)*)
+  - Catalog entry: position=guarantee_trust, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: L2 3 section 5 visual — calibrated per level (l2)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PERMISSION-NOT-TO-BUY (L2 ⑥) + OFFER
-
-- ROLE slot: `permission-not-to-buy-l2-offer`
-
-- INTENT: cta block — PERMISSION-NOT-TO-BUY (L2 ⑥) + OFFER
-
-- COMPONENT PICKED: **EMODEEP-03** — The Permission Letter (uses Letter)
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: permission-prose-with-secondary-cta-and-microcopy
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTADEEP-13 (The Countdown Honest *(L11837)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: L2 3 section 6 visual — calibrated per level (l2)
+  - Current usage: 17/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 7: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-04 (Footer (Giuliano source) *(L7571)*)
+  - Catalog entry: position=signoff_footer, audience=['L2']
+  - Current usage: 3/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-22', 'OBJ-13.4', '32.1', 'REV-05.2', 'TRUST-4', 'CTADEEP-13', 'UTIL-04']
+- image-usage.json: incremented ['flat-lay/laundry-bag-llama-cream.png', 'resized/toddler-playing.jpg', 'resized/washing-machine.jpg', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-livingroom-dino-yellow.png']
 
-- COMPONENT PICKED: **PSYCH-05** — Curiosity Gap
-
-  - Currently used: 34/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

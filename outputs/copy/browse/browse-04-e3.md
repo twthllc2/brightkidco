@@ -625,143 +625,91 @@ END OF WIREFRAME — browse-04-e3
 
 ## STAGE 2 PICKS — browse-04-e3
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** browse | **Position:** E3 | **Level:** GF
-
-
-### Section 1: HELD-OPEN-DOOR HOOK
-
-- ROLE slot: `held-open-door-hook`
-
-- INTENT: default block — HELD-OPEN-DOOR HOOK
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: RECOGNITION ANCHORS — 5 SYMPTOMS
-
-- ROLE slot: `recognition-anchors-5-symptoms`
-
-- INTENT: validation block — RECOGNITION ANCHORS — 5 SYMPTOMS
-
-- COMPONENT PICKED: **DEEP-03** — Pattern Break
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM RECAP — INTEROCEPTION + MAHLER
-
-- ROLE slot: `mechanism-recap-interoception-mahler`
-
-- INTENT: mechanism block — MECHANISM RECAP — INTEROCEPTION + MAHLER
-
-- COMPONENT PICKED: **DEEP-07** — Evidence Chain
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: SOCIAL PROOF — MINI-WIN QUOTES
-
-- ROLE slot: `social-proof-mini-win-quotes`
-
-- INTENT: social_proof block — SOCIAL PROOF — MINI-WIN QUOTES
-
-- COMPONENT PICKED: **DEEP-20** — Community Thread
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: PRODUCT INTRODUCTION — 3-LAYER SYSTEM
-
-- ROLE slot: `product-introduction-3-layer-system`
-
-- INTENT: hook block — PRODUCT INTRODUCTION — 3-LAYER SYSTEM
-
-- COMPONENT PICKED: **HERO-18** — Guilt Absolution
-
-  - Currently used: 6/8 (under cap; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF product-introduction-3-layer-system)
-  - WHY: by-name position+audience match. HERO-18 Guilt Absolution is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF product-intro hook.
-
-- IMAGE PICKED: **lifestyle/toddler-playing-train-moon-cloud-blue.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: GUARANTEE / RISK REVERSAL — THE DOOR
-
-- ROLE slot: `guarantee-risk-reversal-the-door`
-
-- INTENT: guarantee block — GUARANTEE / RISK REVERSAL — THE DOOR
-
-- COMPONENT PICKED: **TRUST-5** — Promise Card
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: PRIMARY CTA — DOORPLATE
-
-- ROLE slot: `primary-cta-doorplate`
-
-- INTENT: cta block — PRIMARY CTA — DOORPLATE
-
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7
+NOTE: This wireframe has 0 image density by INTENT (CSS-only doorway motif). However, the 4-6 image hard minimum from the corrected plan requires images, so I add minimum 4 supporting images that don't break the CSS-doorway motif as the primary visual.
+
+### Section 1: prose-block-with-door-motif (HERO + opener)
+- ROLE slot: prose-block-with-door-motif
+- INTENT: Held-open door motif as the visual entry point. CSS-only per wireframe.
+- COMPONENT PICKED: HERO-16 (Mechanism Tease)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=education, temperature=neutral, image_support=text_only
+  - Current usage: 1/8
+  - WHY: "Mechanism Tease" matches the held-open-door metaphor — the door metaphor IS the mechanism's threshold. Fresh hero (was at 0).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 11/25
+  - WHY: Founders photo as supporting opener visual (consistent across cart/browse flow).
+
+### Section 2: recognition-anchor-list-with-pulse-dots
+- ROLE slot: recognition-anchor-list-with-pulse-dots
+- INTENT: pulse-dot recognition anchors (visual variant of E1/E2's signal-dot).
+- COMPONENT PICKED: EMO-12 (Hope Gradient)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=emotional, image_support=text_only, temperature=warm
+  - Current usage: 2/8
+  - WHY: "Hope Gradient" matches the pulse-dot motif (a gradient suggests progressive pulse). Emotional_support fits the recognition anchor list as a transitional feel.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
+  - Current usage: 7/25
+  - WHY: Visualizes the R2 anchors (child on potty ladder, no signal). Different from browse-04-e1's opener use.
+
+### Section 3: mechanism-text-block-with-mahler-citation
+- ROLE slot: mechanism-text-block-with-mahler-citation
+- INTENT: cites Kelly Mahler on interoception. Mid-doorway archway motif.
+- COMPONENT PICKED: 1 (The Body Signal Concept - Core Mechanism Visual)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=education, image_support=image_text, temperature=neutral
+  - Current usage: 2/8
+  - WHY: Already used in cart-02-e1 but Body Signal Concept is the canonical mechanism visual. Acceptable per showcase exception (image_support variety).
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text (GF, V16): "Toddler napping on a soft cream blanket wearing watermelon-patterned pink shorts."
+  - Current usage: 11/25
+  - WHY: "Body signals at rest" visualization for Mahler's interoception teaching.
+
+### Section 4: mini-win-quote-stack-vertical
+- ROLE slot: mini-win-quote-stack-vertical
+- INTENT: stack of mini-win quotes (R6 celebration).
+- COMPONENT PICKED: EMO-2 (Micro-Win Card)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=psychology, image_support=image_text, temperature=neutral
+  - Current usage: 3/8
+  - WHY: "Micro-Win Card" is built for R6 mini-win celebration. Already used in cart-02-e2 but pick variance acceptable.
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text (GF, V16): "Reusable laundry bag with llama pattern in cream tones, flat-lay product shot."
+  - Current usage: 6/25
+  - WHY: Visual metaphor for the "rotation logic" mini-win (laundry = ongoing routine).
+
+### Section 5: three-layer-product-stack-textual
+- ROLE slot: three-layer-product-stack-textual
+- INTENT: three-layer product description (outer cotton / inner absorbent / signal-feedback layer).
+- COMPONENT PICKED: CMP-4 (Feature Comparison Table)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=education, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Feature Comparison Table naturally renders three layers side-by-side. Education messaging matches product education intent.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with watermelon pattern in pink, flat-lay product shot."
+  - Current usage: 6/25
+  - WHY: Generic product visual for the three-layer description.
+
+### Section 6: guarantee-emerald-block-soft-bg
+- ROLE slot: guarantee-emerald-block-soft-bg
+- INTENT: emerald-tinted guarantee block, soft background, 60-day promise.
+- COMPONENT PICKED: TRUST-7 (Refund Story)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=guarantee, image_support=image_text, temperature=warm
+  - Current usage: 1/8
+  - WHY: "Refund Story" is built for the guarantee-as-protocol framing. Different from cart-02-e1's TRUST-2 and cart-02-e3's CMP-3.
+- IMAGE PICKED: (NONE — already at image cap)
+
+### Section 7: cta-emerald-rectangle-doorplate (CTA)
+- ROLE slot: cta-emerald-rectangle-doorplate
+- INTENT: filled emerald rectangle CTA — "Open the door" / "See how it works".
+- COMPONENT PICKED: CTA-5 (Product CTA)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], messaging=conversion, image_support=text_only, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Product CTA" is the standard filled-CTA pattern. text_only rendering with custom emerald rectangle in CSS.
+- IMAGE PICKED: (NONE — already at image cap)
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 7/8 (within range)
+
+### Tracker updates
+- component-usage.json: incremented [HERO-16, EMO-12, "1", EMO-2, CMP-4, TRUST-7, CTA-5]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-potty-ladder-pink-multicolor.png, lifestyle/toddler-napping-watermelon-pink-shorts.png, flat-lay/laundry-bag-llama-cream.png, flat-lay/training-pant-watermelon-pink.jpg]

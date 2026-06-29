@@ -751,125 +751,82 @@ END OF WIREFRAME — site-20-e1
 
 ## STAGE 2 PICKS — site-20-e1
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** site-abandonment | **Position:** E1 | **Level:** GF
-
-
-### Section 1: WHETHER...OR...IF... OPENER — UNIVERSAL RECOGNITION
-
-- ROLE slot: `whether-or-if-opener-universal-recognition`
-
-- INTENT: validation block — WHETHER...OR...IF... OPENER — UNIVERSAL RECOGNITION
-
-- COMPONENT PICKED: **DEEP-02** — Mom Confessional
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: HOOK EXPANSION — RECOGNITION ANCHOR STACK
-
-- ROLE slot: `hook-expansion-recognition-anchor-stack`
-
-- INTENT: hook block — HOOK EXPANSION — RECOGNITION ANCHOR STACK
-
-- COMPONENT PICKED: **HERO-5** — Mirror Moment
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: VALIDATION BLOCK — "YOU'RE NOT ALONE" + SPARK STAT
-
-- ROLE slot: `validation-block-you-re-not-alone-spark-stat`
-
-- INTENT: validation block — VALIDATION BLOCK — "YOU'RE NOT ALONE" + SPARK STAT
-
-- COMPONENT PICKED: **DEEP-11** — Guilt Audit
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: MECHANISM EXPLANATION — INTEROCEPTION BRIDGE
-
-- ROLE slot: `mechanism-explanation-interoception-bridge`
-
-- INTENT: mechanism block — MECHANISM EXPLANATION — INTEROCEPTION BRIDGE
-
-- COMPONENT PICKED: **EDU-7** — Education Block
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: THREE-FAMILY TESTIMONIAL PATTERN — SOCIAL PROOF
-
-- ROLE slot: `three-family-testimonial-pattern-social-proof`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN — SOCIAL PROOF
-
-- COMPONENT PICKED: **STORY-11** — Contrast Cards
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: PERMISSION + SOFT CTA — "KEEP EXPLORING"
-
-- ROLE slot: `permission-soft-cta-keep-exploring`
-
-- INTENT: cta block — PERMISSION + SOFT CTA — "KEEP EXPLORING"
-
-- COMPONENT PICKED: **CTA-10** — Soft Button
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6
+NOTE: This wireframe has 0 image density by INTENT (lowest-intent standalone email). The corrected plan's 4-6 image hard minimum forces image picks.
+
+### Section 1: prose-opener-flowing (HERO + opener)
+- ROLE slot: prose-opener-flowing
+- INTENT: "Whether...Or...If..." pattern + 6 recognition anchors.
+- COMPONENT PICKED: 23.1 (Magazine Masthead)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=emotional, temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: "Magazine Masthead" matches the standalone, prose-led opener style (editorial feel). Different from cart/browse/checkout picks. Fresh (was at 0).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 15/25
+  - WHY: Founders photo as supporting opener visual.
+
+### Section 2: prose-block-recognition-stacked
+- ROLE slot: prose-block-recognition-stacked
+- INTENT: extended recognition paragraph with 3 scenarios + tried-everything list.
+- COMPONENT PICKED: 6 (Avatar Recognition Block "Which one sounds like your child?")
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], messaging=conversion, image_support=image_text, temperature=warm
+  - Current usage: 2/8
+  - WHY: Already used in cart-02-e1 but showcase exception. Renders the recognition-anchor list cleanly.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
+  - Current usage: 9/25
+  - WHY: Visualizes "sits 20 min, nothing happens" recognition anchor.
+
+### Section 3: stat-callout-soft
+- ROLE slot: stat-callout-soft
+- INTENT: 49% SPARK stat (Wiggins et al. 2022) — flowing sentence, soft number.
+- COMPONENT PICKED: SP-03 (Stat Row)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Stat Row" naturally fits the 49% SPARK stat. Different from cart/browse/checkout picks.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
+  - Current usage: 9/25
+  - WHY: Generic living-room scene for the stat context.
+
+### Section 4: mechanism-text-block
+- ROLE slot: mechanism-text-block
+- INTENT: interoception explainer, the body's signal-timing.
+- COMPONENT PICKED: 1 (The Body Signal Concept - Core Mechanism Visual)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=education, image_support=image_text, temperature=neutral
+  - Current usage: 3/8
+  - WHY: Already used in cart-02-e1 and browse-04-e3, but Body Signal Concept is the canonical mechanism visual. Showcase exception.
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with fox pattern in woodland white tones, flat-lay product shot."
+  - Current usage: 4/25
+  - WHY: Cream/white pattern product for the mechanism section.
+
+### Section 5: three-testimonial-stack-vertical
+- ROLE slot: three-testimonial-stack-vertical
+- INTENT: Lena/Sofia/Priya testimonials (different from Three-Family pattern).
+- COMPONENT PICKED: SP-08 (Stacked Mini-Reviews)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 7/8
+  - WHY: Stacked Mini-Reviews is built exactly for three stacked testimonial cards. Already used in cart-02-e1 and browse-04-e1.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text (GF, V16): "Toddler playing outdoors on grass wearing a soft disposable diaper, side view."
+  - Current usage: 4/25
+  - WHY: Outdoor scene for testimonials.
+
+### Section 6: cta-text-link-low-aggression
+- ROLE slot: cta-text-link-low-aggression
+- INTENT: "Keep exploring" — softest CTA in the abandonment ladder.
+- COMPONENT PICKED: CTA-2 (Soft Link)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], messaging=conversion, image_support=text_only, temperature=warm
+  - Current usage: 3/8
+  - WHY: Soft Link renders cleanly as the lowest-aggression permission-framed CTA. Already used in cart-02-e3.
+- IMAGE PICKED: (NONE — already at image cap)
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 6/8 (within range)
+
+### Tracker updates
+- component-usage.json: incremented ["23.1", "6", SP-03, "1", SP-08, CTA-2]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-potty-ladder-pink-multicolor.png, lifestyle/toddler-livingroom-dino-yellow.png, flat-lay/training-pant-fox-woodland-white.jpg, lifestyle/toddler-outdoors-grass-disposable-diaper.png]

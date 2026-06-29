@@ -1080,160 +1080,97 @@ END OF WIREFRAME — pped-22-e5-gf
 
 ## STAGE 2 PICKS — pped-22-e5-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Level-specific (GF) Calibration:** Applied per gf journey-MASTER.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E5 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e5-gf
+- COMPONENT PICKED: FLOWDEEP-5 (Welcome E5 Science *(L12568)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e5-gf, level=gf, theme=5. Calibrated per level.
 
 ### Section 1: HERO ILLUSTRATION — "THE WINDING PATH"
-
-- ROLE slot: `hero-illustration-the-winding-path`
-
-- INTENT: image_block block — HERO ILLUSTRATION — "THE WINDING PATH"
-
-- COMPONENT PICKED: **STORY-03** — Split Before/After
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 17/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: hero-illustration-winding-path-with-open-doorway
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: 4.4 (Insight / Mint Block *(L520)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: GF 5 section 1 visual — calibrated per level (gf)
+  - Current usage: 17/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: LETTER OPENING — "LENA HERE. WHEREVER YOU ARE."
-
-- ROLE slot: `letter-opening-lena-here-wherever-you-are`
-
-- INTENT: hook block — LETTER OPENING — "LENA HERE. WHEREVER YOU ARE."
-
-- COMPONENT PICKED: **HERO-18** — Guilt Absolution
-
-  - Currently used: 8/8 (at cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF letter-opening-lena-here-wherever-you-are)
-  - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF letter-opening role.
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 13/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: letter-opening-paragraph-stack-with-wherever-
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: 4.5 (Cream Callout *(L547)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: GF 5 section 2 visual — calibrated per level (gf)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: THE PART NOBODY TELLS YOU — "THE LONG MIDDLE"
-
-- ROLE slot: `the-part-nobody-tells-you-the-long-middle`
-
-- INTENT: default block — THE PART NOBODY TELLS YOU — "THE LONG MIDDLE"
-
-- COMPONENT PICKED: **2** — The Reframe Moment
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: long-middle-paragraph-stack-with-regression-
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: 9.2 (Sticker Reasons *(L867)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: GF 5 section 3 visual — calibrated per level (gf)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: WHAT THE SCIENCE ACTUALLY SHOWS — 3 CITATIONS
+- ROLE slot: research-paragraph-stack-with-3-citations
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: 31.1 (Green Status Pill *(L2641)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: GF 5 section 4 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `what-the-science-actually-shows-3-citations`
-
-- INTENT: mechanism block — WHAT THE SCIENCE ACTUALLY SHOWS — 3 CITATIONS
-
-- COMPONENT PICKED: **HERO-2** — Data Shock
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Section 5: COMMUNITY REINFORCEMENT — "YOU DON'T HAVE TO TRACK THIS ALONE"
-
-- ROLE slot: `community-reinforcement-you-don-t-have-to-track-this-alone`
-
-- INTENT: default block — COMMUNITY REINFORCEMENT — "YOU DON'T HAVE TO TRACK THIS ALONE"
-
-- COMPONENT PICKED: **EJ1** — Before/After Transformation
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+### Section 5: COMMUNITY REINFORCEMENT — "YOU DON'T HAVE TO TRACK
+- ROLE slot: community-reinforcement-paragraph-stack-with-
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: 31.2 (Tracking Info Table *(L2656)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: GF 5 section 5 visual — calibrated per level (gf)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: WHAT "NEXT STEPS" LOOKS LIKE FOR GF FAMILIES
-
-- ROLE slot: `what-next-steps-looks-like-for-gf-families`
-
-- INTENT: next block — WHAT "NEXT STEPS" LOOKS LIKE FOR GF FAMILIES
-
-- COMPONENT PICKED: **DEEP-08** — Permission Paradox
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
+- ROLE slot: next-steps-paragraph-stack-with-3-bulleted-
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: M3 (Testimonial Card (Mobile) *(L2997)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
 ### Section 7: PERMISSION CLOSE + GUARANTEE
+- ROLE slot: permission-close-paragraph-stack-with-guarantee
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: CTA-11 (Permission CTA *(L6828)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
-- ROLE slot: `permission-close-guarantee`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: guarantee block — PERMISSION CLOSE + GUARANTEE
+### Tracker updates
+- component-usage.json: incremented ['FLOWDEEP-5', '4.4', '4.5', '9.2', '31.1', '31.2', 'M3', 'CTA-11']
+- image-usage.json: incremented ['lifestyle/toddler-napping-watermelon-pink-shorts.png', 'flat-lay/swim-diaper-giraffe-yellow.jpg', 'flat-lay/swim-diaper-whale-ocean-blue.jpg', 'lifestyle/toddler-potty-ladder-yellow-woodland.png', 'lifestyle/toddler-rearview-cat-mustard.png']
 
-- COMPONENT PICKED: **5** — 60-Day Calm Promise
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Section 8: CTA + LENA SIGN-OFF
-
-- ROLE slot: `cta-lena-sign-off`
-
-- INTENT: signoff block — CTA + LENA SIGN-OFF
-
-- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ applied
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

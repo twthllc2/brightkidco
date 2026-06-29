@@ -826,157 +826,42 @@ END OF WIREFRAME — order-05-e1
 
 ---
 
+---
+
 ## STAGE 2 PICKS — order-05-e1
 
 
-> **Transactional Calibration:** NO marketing. NO promotions. Hidden plain-text fallback. Confirmation-only.
+> **Transactional — Order Confirmation (Flow 05, E1)** — Cross-Level (R1-R6 + V16 + GF levers).
+> Per GIULIANO-DEMANDS §17.7: predominantly transactional per Google 2024 guidelines. Hidden plain-text fallback div mandatory. NO marketing elements (no countdown, no promo badges, no urgency cues). Image count is intentionally LOWER than the 4-image hard min — variant documented below.
 
 
-> **Section count:** 8 body sections.
+### Components (8/8)
 
-> **Flow:** transactional | **Position:** E1 | **Level:** GF
+| Role | Component ID | Reason |
+|---|---|---|
+| STATUS-BAR-ORDER-CONFIRMED | **UTIL-07** | Neutral bar '✓ ORDER CONFIRMED' with emerald check |
+| RECEIPT-CARD-STRUCTURED | **CMP-4** | Rounded white receipt card on cream — order # + items + ETA |
+| PROSE-WHATS-INSIDE | **EMO-1** | Flat list — what's inside the package |
+| PROSE-WARM-LENA | **EMO-2** | Lena warm-voice prose — two-sons peer mention |
+| PROSE-RECOGNITION-ANCHORS | **STORY-09** | Week-1 recognition anchors — gentle mechanism |
+| ANCHORS-LIST | **STORY-13** | 5-item recognition anchors — bullet variant |
+| GUARANTEE-BAND-CREAM-EMERALD | **CMP-7** | Cream band + emerald hairline left border — risk reversal |
+| CTA-BUTTON-EMERALD-TRACK | **CTA-8** | Full-width emerald button 'Track your order' |
+| LENA-SIGNOFF-SHORT + FOOTER | **12.1** | Lena signature + BKC footer |
 
+### Images (1/6)
 
-### Section 1: TRANSACTIONAL CONFIRMATION — PRIMARY
+- `branding/black-placeholder.png` — BrightKidCo logo lockup, transactional feel. (Current: 0/25)
 
-- ROLE slot: `transactional-confirmation-primary`
-
-- INTENT: transactional block — TRANSACTIONAL CONFIRMATION — PRIMARY
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 2: WHAT'S INSIDE THE PACKAGE
-
-- ROLE slot: `what-s-inside-the-package`
-
-- INTENT: default block — WHAT'S INSIDE THE PACKAGE
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 3: WARM WELCOME — LENA VOICE, SECONDARY
-
-- ROLE slot: `warm-welcome-lena-voice-secondary`
-
-- INTENT: default block — WARM WELCOME — LENA VOICE, SECONDARY
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 4: WEEK 1 EXPECTATIONS — RECOGNITION ANCHORS R2
-
-- ROLE slot: `week-1-expectations-recognition-anchors-r2`
-
-- INTENT: validation block — WEEK 1 EXPECTATIONS — RECOGNITION ANCHORS R2
-
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 5: WHAT TO WATCH FOR — RECOGNITION ANCHORS LIST
-
-- ROLE slot: `what-to-watch-for-recognition-anchors-list`
-
-- INTENT: validation block — WHAT TO WATCH FOR — RECOGNITION ANCHORS LIST
-
-- COMPONENT PICKED: **3** — Micro-Win Celebration
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 6: SOFT CROSS-SELL — SECONDARY, MINIMAL
-
-- ROLE slot: `soft-cross-sell-secondary-minimal`
-
-- INTENT: upsell block — SOFT CROSS-SELL — SECONDARY, MINIMAL
-
-- COMPONENT PICKED: **31.1** — Green Status Pill
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 7: GUARANTEE / RISK REVERSAL
-
-- ROLE slot: `guarantee-risk-reversal`
-
-- INTENT: guarantee block — GUARANTEE / RISK REVERSAL
-
-- COMPONENT PICKED: **31.2** — Tracking Info Table
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 8: SECONDARY CTA — TRACK YOUR ORDER (REPEAT)
-
-- ROLE slot: `secondary-cta-track-your-order-repeat`
-
-- INTENT: cta block — SECONDARY CTA — TRACK YOUR ORDER (REPEAT)
-
-- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
+**Image variance (transactional §17.7)**: GIULIANO §17.7 — transactional, NO marketing. Only BKC logo. Variance from 4-image min documented by user instruction.
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+- `component-usage.json`: UTIL-07 0 → 1
+- `component-usage.json`: CMP-4 1 → 2
+- `component-usage.json`: EMO-1 7 → 8
+- `component-usage.json`: EMO-2 4 → 5
+- `component-usage.json`: STORY-09 6 → 7
+- `component-usage.json`: STORY-13 0 → 1
+- `component-usage.json`: CMP-7 1 → 2
+- `component-usage.json`: CTA-8 2 → 3
+- `image-usage.json`: `branding/black-placeholder.png` 0 → 1

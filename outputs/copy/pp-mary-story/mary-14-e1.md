@@ -1084,142 +1084,91 @@ END OF WIREFRAME — mary-14-e1
 
 ## STAGE 2 PICKS — mary-14-e1
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-mary-story | **Position:** E1 | **Level:** GF
-
-
-### Section 1: OPENER — WHETHER...OR...IF... UNIVERSAL HOOK
-
-- ROLE slot: `opener-whether-or-if-universal-hook`
-
-- INTENT: default block — OPENER — WHETHER...OR...IF... UNIVERSAL HOOK
-
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: MARY'S STORY — VALIDATION THROUGH PEER
-
-- ROLE slot: `mary-s-story-validation-through-peer`
-
-- INTENT: validation block — MARY'S STORY — VALIDATION THROUGH PEER
-
-- COMPONENT PICKED: **DEEP-18** — Celebration Deficit
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: THE MOMENT — THE REALIZATION
-
-- ROLE slot: `the-moment-the-realization`
-
-- INTENT: default block — THE MOMENT — THE REALIZATION
-
-- COMPONENT PICKED: **HERO-3** — Permission Open
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: THE DISCOVERY — THE MISSING PIECE
-
-- ROLE slot: `the-discovery-the-missing-piece`
-
-- INTENT: validation block — THE DISCOVERY — THE MISSING PIECE
-
-- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: THE CONNECTION — THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `the-connection-three-family-testimonial-pattern`
-
-- INTENT: social_proof block — THE CONNECTION — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **DEEP-06** — Whisper Network
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: THE INVITATION — YOU'RE ALREADY ON THE JOURNEY
-
-- ROLE slot: `the-invitation-you-re-already-on-the-journey`
-
-- INTENT: cta block — THE INVITATION — YOU'RE ALREADY ON THE JOURNEY
-
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: CLOSING — THE SHARED MISSION + REPLY INVITATION
-
-- ROLE slot: `closing-the-shared-mission-reply-invitation`
-
-- INTENT: cta block — CLOSING — THE SHARED MISSION + REPLY INVITATION
-
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7
+NOTE: This wireframe has 0 image density by INTENT (text-only founder narrative). The corrected plan's 4-6 image hard minimum forces image picks. I'll add minimum 4 supporting images that don't break the founder-voice weight.
+
+### Section 1: prose-opener-flowing-whether-or-if (HERO + opener)
+- ROLE slot: prose-opener-flowing-whether-or-if
+- INTENT: "Whether your child is 3 or 10..." — Mary S. founder opener.
+- COMPONENT PICKED: CC3 (Curiosity Gap CTA)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=conversion, temperature=neutral, image_support=text_only
+  - Current usage: 1/8
+  - WHY: "Curiosity Gap CTA" matches Mary S.'s story-fragment opener that creates curiosity without forcing action. text_only preserves founder-voice weight. Fresh (was at 0).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 16/25
+  - WHY: Founders photo as supporting opener visual (consistent across the flow).
+
+### Section 2: founder-story-prose-block
+- ROLE slot: founder-story-prose-block
+- INTENT: Mary S.'s personal story — the bathroom-floor moment with her son.
+- COMPONENT PICKED: EMO-8 (Grief Acknowledgment)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=emotional, image_support=text_only, temperature=warm
+  - Current usage: 1/8
+  - WHY: "Grief Acknowledgment" naturally fits the founder's reflective origin story tone.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text (GF, V16): "Toddler climbing a yellow woodland-patterned potty ladder, viewed from behind."
+  - Current usage: 5/25
+  - WHY: Visualizes the founder's story moment (child on potty ladder, waiting).
+
+### Section 3: founder-origin-moment-prose
+- ROLE slot: founder-origin-moment-prose
+- INTENT: "Why I built this" — the origin moment.
+- COMPONENT PICKED: EMO-9 (Strength Reframe)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=emotional, image_support=image_text, temperature=warm
+  - Current usage: 3/8
+  - WHY: "Strength Reframe" matches the founder's "I built this from pain" origin narrative. Already used in cart-02-e2.
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text (GF, V16): "BrightKidCo disposable diaper with woodland-creature pattern in soft yellow, flat-lay product shot."
+  - Current usage: 6/25
+  - WHY: Visualizes what didn't work before the body-signal mechanism was discovered.
+
+### Section 4: mechanism-text-block-founder-voice
+- ROLE slot: mechanism-text-block-founder-voice
+- INTENT: mechanism in Mary's voice — interoception, body-signal, no jargon.
+- COMPONENT PICKED: 1 (The Body Signal Concept - Core Mechanism Visual)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=education, image_support=image_text, temperature=neutral
+  - Current usage: 4/8
+  - WHY: Body Signal Concept is the canonical mechanism visual. Already used in cart-02-e1, browse-04-e3, site-20-e1.
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text (GF, V16): "Reusable training pants hanging in front of an open washing machine in a bright laundry area."
+  - Current usage: 7/25
+  - WHY: Visualizes the rotation-logic that the founder discovered.
+
+### Section 5: three-testimonial-stack-vertical-founder-frame
+- ROLE slot: three-testimonial-stack-vertical-founder-frame
+- INTENT: three-family testimonials in founder frame.
+- COMPONENT PICKED: SP-06 (Before/After Testimonial)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 4/8
+  - WHY: Before/After Testimonial renders cleanly in the founder frame. Already used in cart-02-e3 and checkout-03-e1.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
+  - Current usage: 7/25
+  - WHY: Backview dual-toddler for the founder-framed testimonials.
+
+### Section 6: invitation-paragraph-timeline-flexible
+- ROLE slot: invitation-paragraph-timeline-flexible
+- INTENT: invitation with timeline flexibility (R5).
+- COMPONENT PICKED: EMO-5 (Realistic Timeline)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=story, image_support=text_only, temperature=warm
+  - Current usage: 5/8
+  - WHY: "Realistic Timeline" is built for this R5 flexibility invitation. Already used in browse-04-e2 and checkout-03-e2.
+- IMAGE PICKED: (NONE — already at image cap)
+
+### Section 7: founder-closing-mission-statement
+- ROLE slot: founder-closing-mission-statement
+- INTENT: closing mission statement from Mary S.
+- COMPONENT PICKED: STORYDEEP-03 (The Letter From Future)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story, temperature=warm
+  - Current usage: 5/8
+  - WHY: "Letter From Future" fits the founder's mission-statement framing as a forward-looking letter. Different from cart/browse/checkout picks.
+- IMAGE PICKED: (NONE — already at image cap)
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 7/8 (within range)
+
+### Tracker updates
+- component-usage.json: incremented [CC3, EMO-8, EMO-9, "1", SP-06, EMO-5, STORYDEEP-03]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-potty-ladder-yellow-woodland.png, flat-lay/diaper-woodland-creature-yellow.jpg, lifestyle/washing-machine-training-pants.png, lifestyle/toddlers-backview-disposable-diapers.png]

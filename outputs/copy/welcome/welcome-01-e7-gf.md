@@ -916,88 +916,68 @@ END OF WIREFRAME — welcome-01-e7-gf
 
 ## STAGE 2 PICKS — welcome-01-e7-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E7).
-> Scope: 4 sections (typography hero / deep-mechanism bridge +
-> callout quote / 5 mini-wins + product icons / late CTA + Lena
-> LONG signoff).
-> GF calibration: R1–R6 strict, V16 symptom language only,
-> 50/50 hope/realism; WELCOME10 code expires; permission-not-to-buy
-  framing prominent at E7.
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E7: no explicit migration anchor (E7 is mechanism-clarification, not migration).
 
-### Section 1: HOOK — THE "WHY" QUESTION
-- ROLE slot: `hero-typography-only-gf`
-- INTENT: NO lifestyle photo; typography-only hero on off-white
-  background that opens with the explanation frame.
-- COMPONENT PICKED: **2.2** — Warm Hero
-  - From catalog: position=hero, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: warm-hero is structurally a typography-only hero;
-    Stage 3 will paint with off-white background per wireframe.
-- IMAGE PICKED: none (text-only hero).
-- VARIANCE CHECK: differs from E6 S1 (typography vs lifestyle).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S1: Hook — The 'Why' Question
+- ROLE slot: hero-typography-only-gf
+- INTENT: Typography-driven opening, no lifestyle photo.
+- COMPONENT PICKED: HERO-19  (Timeline Shock [A*] (HERO, universal))
+  - Current usage: 1/8
+  - WHY: Timeline Shock hero for the 'how the body-signal learning actually works' explanation opener.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: Toddler from behind, mustard cat-graphic shirt, soft home light
+  - Current usage: 2/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: VALIDATION + DEEP MECHANISM (MERGED)
-- ROLE slot: `deep-mechanism-bridge-gf` (3 stacked layer cards) +
-  `callout-quote-highlight-gf` (pull-quote after bridge)
-- INTENT: vertical 3-layer bridge SVG + 2 stacked pull-quotes in
-  warm-amber.
-- COMPONENT PICKED: **DEEP-16** — The Brain-Body Bridge (bridge slot,
-  used in E3 S3 — at 1/8) + **4.5** — Cream Callout (callout slot,
-  used in E4 S2 — at 1/8)
-  - WHY (bridge): brain-body bridge fits the deep-mechanism SVG;
-    Stage 3 will layer it with cream body-signal gradient.
-  - WHY (callout): cream callout pairs the layered bridge with a
-    warm-amber pull-quote; Stage 3 will paint with warm-amber accents.
-- IMAGE PICKED: none.
-- VARIANCE CHECK: differs from S1 (mechanism + callout vs hero).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S2: Validation + Deep Mechanism (merged)
+- ROLE slot: deep-mechanism-bridge-gf + callout-quote-highlight-gf
+- INTENT: 3 stacked layer cards + universal pull-quote.
+- COMPONENT PICKED: EDU-2  (Step Cards [A*] (MECHANISM & EDUCATION, 1-2-3-4 BSL sequence))
+  - Current usage: 1/8
+  - WHY: Step Cards — R5 timeline-flexible 1-2-3-4 BSL sequence, 'some kids 2 weeks, others 8'.
+- COMPONENT PICKED: EDU-5  (Infographic [A*] (MECHANISM & EDUCATION, deep visual))
+  - Current usage: 1/8
+  - WHY: Infographic — deep mechanism visual for the body-signal learning layer.
+- COMPONENT PICKED: DEEP-10  (The Science Made Simple [A*] (MECHANISM & EDUCATION, interoception))
+  - Current usage: 1/8
+  - WHY: The Science Made Simple — interoception research paraphrase (Nicholson 2019, Mahler 2020).
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: Cream llama-graphic laundry bag, neutral flat-lay
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: MINI-WIN TESTIMONIALS + PRODUCT + GUARANTEE
-- ROLE slot: `five-mini-win-testimonials-stacked-gf` (5 stacked)
-  + `product-3-layer-icons-gf` (3 simple circular icons)
-- INTENT: 5 stacked mini-win testimonial blocks + 3 stacked
-  circular icons (48px) for the 3+3 bundle.
-- COMPONENT PICKED: **10** — Mini-Win Streak (Progress Tracker)
-  (mini-win slot) + **CTADEEP-01.1** — Product Feature Callout
-  (Single-Benefit Highlight) (icons slot)
-  - Currently used: 0/8 each.
-  - WHY (mini-wins): mini-win-streak visually maps onto the 5
-    stacked mini-win cards; Stage 3 will paint with off-white
-    card backgrounds.
-  - WHY (icons): product-feature-callout structurally supports
-    the 3 simple circular icons; Stage 3 will render three
-    48px circles with muted accent colors.
-- IMAGE PICKED: none.
-- VARIANCE CHECK: differs from S2 (5-card vs 3-stack).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S3: Mini-Win Testimonials + Product + Guarantee
+- ROLE slot: five-mini-win-testimonials-stacked-gf + product-3-layer-icons-gf
+- INTENT: 5 mini-win blocks + 3 circular product icons.
+- COMPONENT PICKED: SP-13  (Review of the Week [A*] (SOCIAL PROOF & TESTIMONIALS))
+  - Current usage: 1/8
+  - WHY: Review of the Week — cross-level mini-win testimonial, R4 verbal/non-verbal dual.
+- COMPONENT PICKED: PROD-9  (Unboxing Experience [A*] (PRODUCT SHOWCASE, showcase-allowed))
+  - Current usage: 1/8
+  - WHY: Unboxing Experience — product in context, showcase-allowed.
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: Cloth pads with watermelon, astronaut, and cat prints, flat-lay
+  - Current usage: 4/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 4: LATE CTA + LENA SIGN-OFF (LONG VARIANT)
-- ROLE slot: late CTA (Button "Try the 3+3 Bundle — $79.99" +
-  same button after guarantee + Lena LONG signoff)
-- INTENT: late CTA + "With care," close per brand-wide
-  progression (E6+ → "With care,").
-- COMPONENT PICKED: **CTA-9** — Floating CTA (CTA slot —
-  button feels "above" the page for late-CTA emphasis; Stage 3
-  will paint with Brand-Green #039902 at 80% saturation) +
-  **OBJ-15.4** — OBJ-15.4 Lena Voice (Lena Closes Objection)
-  (signoff slot — used as LONG signoff; Stage 3 will paint with
-  cream card, longer peer voice).
-  - Currently used: CTA-9 at 0/8; OBJ-15.4 at 0/8.
-  - V16 NOTE: WELCOME10 code expiry copy in late CTA must NOT
-    use "Last chance!" urgency (forbidden cross-level GF phrase);
-    use "This is your last chance to try with the code + guarantee"
-    — copy as written, no escalation.
-- IMAGE PICKED: none (button + signoff).
-- VARIANCE CHECK: differs from S3 (CTA + signoff vs mini-wins).
-- GF CALIBRATION CHECK: ✅ no level labels, no urgency phrases.
+### S4: Late CTA + Lena Sign-off (LONG variant)
+- ROLE slot: (button x 2) + signoff-lena-long-gf
+- INTENT: Late CTA 'Ready to see if the body-signal approach works?' + Lena LONG signoff.
+- COMPONENT PICKED: CTA-12  (Exit Close [A*] (CTA — THE CLOSE, last-call frame))
+  - Current usage: 1/8
+  - WHY: Exit Close — last-call CTA honoring WELCOME10 expiry without Pre-K urgency.
+- COMPONENT PICKED: EMO-7  (You're Not Alone [A*] (EMOTIONAL SUPPORT, peer connection))
+  - Current usage: 1/8
+  - WHY: You're Not Alone — peer connection for the sub-group B-defensive reader.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: Two toddlers from behind, soft home light, neutral posture
+  - Current usage: 6/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted Giuliano.
-- Footer: extracted Giuliano.
-- Sign-off: covered by Section 4 (OBJ-15.4).
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
 
-### Tracker updates applied
-- component-usage.json: 2.2 +1, DEEP-16 +1 (now 2/8 since E3 S3),
-  4.5 +1 (now 2/8), 10 +1, CTADEEP-01.1 +1, CTA-9 +1, OBJ-15.4 +1.
-- image-usage.json: no new images.
+### Tracker updates
+- component-usage.json: incremented HERO-19, EDU-2, EDU-5, DEEP-10, SP-13, PROD-9, CTA-12, EMO-7
+- image-usage.json: incremented lifestyle/toddler-rearview-cat-mustard.png, flat-lay/laundry-bag-llama-cream.png, accessories/cloth-pads-watermelon-astronaut-cat.png, lifestyle/toddlers-backview-disposable-diapers.png, lifestyle/toddler-outdoors-grass-disposable-diaper.png

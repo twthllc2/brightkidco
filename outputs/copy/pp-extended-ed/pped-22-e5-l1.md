@@ -846,108 +846,81 @@ END OF WIREFRAME — pped-22-e5-l1
 
 ## STAGE 2 PICKS — pped-22-e5-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 5 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E10 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e5-l1
+- COMPONENT PICKED: FLOWDEEP-1 (Welcome E1 Hook *(L12513)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e5-l1, level=l1, theme=5. Calibrated per level.
 
 ### Section 1: HOOK — PRE-K TIME + "YOU STILL HAVE TIME"
-
-- ROLE slot: `hook-pre-k-time-you-still-have-time`
-
-- INTENT: hook block — HOOK — PRE-K TIME + "YOU STILL HAVE TIME"
-
-- COMPONENT PICKED: **HERO-7** — Counter-Intuitive Truth
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 10/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: prose-block-with-pre-k-time-marker-and-shifts-validation
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORYDEEP-11 (The Weather Report *(L10120)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: L1 5 section 1 visual — calibrated per level (l1)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — "YOUR CHILD'S PROGRESS IS REAL"
-
-- ROLE slot: `validation-your-child-s-progress-is-real`
-
-- INTENT: validation block — VALIDATION — "YOUR CHILD'S PROGRESS IS REAL"
-
-- COMPONENT PICKED: **DEEP-19** — Signal Analogy
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: **resized/washing-machine.jpg**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: validation-paragraph-stack-with-nicholson-2019-cite
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORYDEEP-12 (The Book Chapter *(L10150)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: L1 5 section 2 visual — calibrated per level (l1)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — SCHOOL READINESS PROTOCOL (3 STEPS)
-
-- ROLE slot: `mechanism-school-readiness-protocol-3-steps`
-
-- INTENT: mechanism block — MECHANISM — SCHOOL READINESS PROTOCOL (3 STEPS)
-
-- COMPONENT PICKED: **DEEP-07** — Evidence Chain
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: step-card-stack-with-numbered-badges
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: STORYDEEP-13 (The Movie Scene *(L10170)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: L1 5 section 3 visual — calibrated per level (l1)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: CTA SECTION (SINGLE PRIMARY BUTTON + GUARANTEE)
+- ROLE slot: cta-button-full-width-with-secondary-text-link
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: CTADEEP-07 (The Commitment Ladder *(L11677)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: L1 5 section 4 visual — calibrated per level (l1)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `cta-section-single-primary-button-guarantee`
+### Section 5: LENA SIGN-OFF (MEDIUM VARIANT) + TEACHER INFO SHEE
+- ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + TEACHER INFO SHEET P.S.
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: 33.1 (Smiley Face SVG *(L2764)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: L1 5 section 5 visual — calibrated per level (l1)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
-- INTENT: guarantee block — CTA SECTION (SINGLE PRIMARY BUTTON + GUARANTEE)
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- COMPONENT PICKED: **TRUST-7** — Trust Block
+### Tracker updates
+- component-usage.json: incremented ['FLOWDEEP-1', 'STORYDEEP-11', 'STORYDEEP-12', 'STORYDEEP-13', 'CTADEEP-07', '33.1']
+- image-usage.json: incremented ['flat-lay/diaper-woodland-creature-yellow.jpg', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/washing-machine-training-pants.png', 'lifestyle/toddler-potty-ladder-pink-multicolor.png', 'lifestyle/toddler-livingroom-dino-yellow.png']
 
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 5: LENA SIGN-OFF (MEDIUM VARIANT) + TEACHER INFO SHEET P.S.
-
-- ROLE slot: `lena-sign-off-medium-variant-teacher-info-sheet-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) + TEACHER INFO SHEET P.S.
-
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

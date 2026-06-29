@@ -585,126 +585,105 @@ SYSTEM B (automatic):
 - ✅ Permission-not-to-buy: 1-sentence permission above sign-off + secondary text link to 1-pair
 
 ======================================================================
-## STAGE 2 PICKS — welcome-01-e3-l2
 
-**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+## STAGE 2 PICKS — e3-l2
 
-**L2 calibration applied:**
-- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
-- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
-- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
-  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
-- 40/60 hope/realism ratio; clinical warmth, not peer-mom
-- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
-- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
-- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
-- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+*L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
+### Section 1: HERO / HEADLINE region (Lena MEDIUM peer disclosure + Iqbal teaser)
+- ROLE slot: HERO / HEADER + HEADLINE BODY (intro to expert-name hook)
+- INTENT: Kelly Mahler hook + Lisa opens with interoception + Lena two-sons disclosure
+- COMPONENT PICKED: HERO-3
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: HERO-3 (Permission Open) — UNIQUE E3 hero. Permission-frame matches E3 risk-reversal Pattern H. E1=E2 used HERO-1/2.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Founder Lena holding BKC yellow-watermelon training pants, Lena MEDIUM peer-disclosure portrait
+  - Current usage: 2/25 (after this pick)
+  - WHY: Founder + toddler photo is E3 peer-disclosure visual signature (Lena introduces 2 sons explicitly)
 
-### Section 1: hook-60day
-- **ROLE slot:** hook-60day
-- **INTENT (from wireframe):** HERO-13 Scientific Hook — 60-day "By your judgment" theme
-- **COMPONENT PICKED:** HERO-13
-  - Name: Scientific Hook *(L4089)*
-  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Hook: HERO-13 Scientific Hook — 60-day "By your judgment" theme
-- **VARIANCE CHECK:** N/A (first section)
+### Section 2: VALIDATION BODY (Kelly Mahler "eighth sensory system" + BCBA named)
+- ROLE slot: VALIDATION BODY (Kelly Mahler + BCBA acknowledgment)
+- INTENT: Name Mahler as interoception researcher (NOT partner); introduce 6-element ① recognition
+- COMPONENT PICKED: 17.7
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: 17.7 recognition body component for Kelly Mahler hook + L2 unlock sentence pending; gentle authority
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in dinosaur-yellow training pants, sensory-aware living room moment
+  - Current usage: 0/25 (after this pick)
+  - WHY: Real toddler moment for BCBA-named validation — the systems coexisting (BCBA protocol + body-signal layer)
 
-### Section 2: validation
-- **ROLE slot:** validation
-- **INTENT (from wireframe):** EMO-7 You're Not Alone — mirror skepticism
-- **COMPONENT PICKED:** EMO-7
-  - Name: You're Not Alone *(L6987)*
-  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Validation: EMO-7 You're Not Alone — mirror skepticism
-- **VARIANCE CHECK:** differs from previous section (HERO-13) — OK
+### Section 3: MINT-BORDERED STAT CALLOUT BOX (Iqbal 19% thirst statistic)
+- ROLE slot: MINT-BORDERED 19% STAT CALLOUT BOX
+- INTENT: Iqbal 2022 — only 19% can recognize thirst. If thirst signal fails, bladder signal will too.
+- COMPONENT PICKED: EDU-11
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 2/8 (after this pick)
+  - WHY: EDU-11 science citation — L2 high-science-visibility. Sets up mechanism over pull-up reframe.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: Potty targets sticker chart visual — sensory-aware reward visual; rewards L2 BCBA routine visibility
+  - Current usage: 0/25 (after this pick)
+  - WHY: Sticker chart anchors the BCBA-recognizable system; softens the science callout with tactile-friendly visual
 
-### Section 3: mechanism
-- **ROLE slot:** mechanism
-- **INTENT (from wireframe):** 17.2 Definition Block (reused from E1)
-- **COMPONENT PICKED:** 17.2
-  - Name: Definition Block *(L1616)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Mechanism: 17.2 Definition Block (reused from E1)
-- **VARIANCE CHECK:** differs from previous section (EMO-7) — OK
+### Section 4: MECHANISM BODY + 3-layer numbered badge grid
+- ROLE slot: MECHANISM BODY (3-layer numbered breakdown)
+- INTENT: 3-layer system in numbered badges — L1 Signal, L2 Smart Abs, L3 Outer. Cross-section blueprint feel.
+- COMPONENT PICKED: EDU-4
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: EDU-4 mechanism-deep for the 3-layer numbered layout (L1/L2/L3 badges)
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: Watermelon pink training pant flat-lay product photo on neutral background
+  - Current usage: 0/25 (after this pick)
+  - WHY: Watermelon-pink product visual pairs with L1 numbered badge ("cotton inner = the signal")
 
-### Section 4: testimonial
-- **ROLE slot:** testimonial
-- **INTENT (from wireframe):** SP-06 Before/After Testimonial — 60-day success
-- **COMPONENT PICKED:** SP-06
-  - Name: Before/After Testimonial *(L4907)*
-  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Testimonial: SP-06 Before/After Testimonial — 60-day success
-- **VARIANCE CHECK:** differs from previous section (17.2) — OK
+### Section 5: TESTIMONIAL — callout-quote-highlight (cream card, 2 L2 parents)
+- ROLE slot: SOCIAL PROOF — 2 callout-quote-highlights (cream card)
+- INTENT: "scheduled sits for 2 years; he never goes on his own" + "I caught him looking down"
+- COMPONENT PICKED: SP-02
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: SP-02 quote-callout for L2-fingerprinted testimonials. Cream card per wireframe.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Toddler napping in watermelon-pink shorts, quiet restorative moment anchors cream-card testimonial
+  - Current usage: 2/25 (after this pick)
+  - WHY: Cream-card testimonial anchor — L2 quiet moment strengthens the "I caught him looking down" narrative
 
-### Section 5: product-intro
-- **ROLE slot:** product-intro
-- **INTENT (from wireframe):** PROD-3 Layer Breakdown (reused from E2)
-- **COMPONENT PICKED:** PROD-3
-  - Name: Layer Breakdown *(L5744)*
-  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Product: PROD-3 Layer Breakdown (reused from E2)
-- **VARIANCE CHECK:** differs from previous section (SP-06) — OK
+### Section 6: PRODUCT INTRO 3-layer numbered badge grid (compact re-mention)
+- ROLE slot: PRODUCT INTRO (3-layer numbered badges, recap)
+- INTENT: L1 Signal Creation / L2 Smart Absorption / L3 Leak Resistance — recap
+- COMPONENT PICKED: 6.2
+  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: 6.2 product_showcase (allowed to reuse). Compact re-mention of 3 layers
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 6: guarantee
-- **ROLE slot:** guarantee
-- **INTENT (from wireframe):** TRUST-1 60-Day Seal (reused)
-- **COMPONENT PICKED:** TRUST-1
-  - Name: 60-Day Seal *(L6385)*
-  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Guarantee: TRUST-1 60-Day Seal (reused)
-- **VARIANCE CHECK:** differs from previous section (PROD-3) — OK
+### Section 7: GUARANTEE trust-anchor-callout + PRIMARY CTA + SECONDARY link + PERMISSION
+- ROLE slot: GUARANTEE + CTA + permission (combined, Pattern H minimalist)
+- INTENT: 60 days, your judgment. "Try it for 60 days" CTA. 1-pair secondary. 1-sentence permission.
+- COMPONENT PICKED: TRUST-1
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: TRUST-1 trust+CTA+permission block. L2 6-element ⑤+⑥ anchored here.
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 7: primary-cta
-- **ROLE slot:** primary-cta
-- **INTENT (from wireframe):** CTAMAX-04 Soft CTA (reused)
-- **COMPONENT PICKED:** CTAMAX-04
-  - Name: Soft CTA *(L16752)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 6/8 (under cap)
-  - **WHY:** CTA: CTAMAX-04 Soft CTA (reused)
-- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
+### Section 8: SIGN-OFF — signoff-lena-medium (FIRST MEDIUM variant: "two autistic sons")
+- ROLE slot: SIGN-OFF MEDIUM
+- INTENT: "I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8."
+- COMPONENT PICKED: 12.2
+  - Catalog entry: position=signoff_footer, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: 12.2 Lena sign-off MEDIUM variant — first "two sons" disclosure
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 8: secondary-text-link
-- **ROLE slot:** secondary-text-link
-- **INTENT (from wireframe):** CTA-2 Soft Link (reused)
-- **COMPONENT PICKED:** CTA-2
-  - Name: Soft Link *(L6658)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 4/8 (under cap)
-  - **WHY:** Secondary: CTA-2 Soft Link (reused)
-- **VARIANCE CHECK:** differs from previous section (CTAMAX-04) — OK
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-### Section 9: permission
-- **ROLE slot:** permission
-- **INTENT (from wireframe):** EMO-1 Permission Slip (reused from E1)
-- **COMPONENT PICKED:** EMO-1
-  - Name: Permission Slip *(L6867)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Permission: EMO-1 Permission Slip (reused from E1)
-- **VARIANCE CHECK:** differs from previous section (CTA-2) — OK
-
-### Section 10: signoff
-- **ROLE slot:** signoff
-- **INTENT (from wireframe):** UTIL-05 Signoff Card — MEDIUM (first MEDIUM appearance)
-- **COMPONENT PICKED:** STORY-07  - Name: Signoff Card
-  - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Signoff: UTIL-05 Signoff Card — MEDIUM (first MEDIUM appearance)
-- **VARIANCE CHECK:** differs from previous section (EMO-1) — OK
-
-### Footer (static — already picked, no work needed)
-- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
-- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `STORY-07` picks above per email's variant
-
-### Tracker updates applied
-- `component-usage.json`: incremented counts for `HERO-13`, `EMO-7`, `17.2`, `SP-06`, `PROD-3`, `TRUST-1`, `CTAMAX-04`, `CTA-2`, `EMO-1`, `UTIL-05`
-
+### Tracker updates
+- component-usage.json: ['HERO-3', '17.7', 'EDU-11', 'EDU-4', 'SP-02', '6.2', 'TRUST-1', '12.2']
+- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-livingroom-dino-yellow.png', 'accessories/potty-targets-stickers-chart.png', 'flat-lay/training-pant-watermelon-pink.jpg', 'lifestyle/toddler-napping-watermelon-pink-shorts.png']

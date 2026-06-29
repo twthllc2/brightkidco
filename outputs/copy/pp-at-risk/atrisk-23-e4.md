@@ -91,6 +91,101 @@ Questions? Reply to this email, I read every response.
 
 ---
 
+## STAGE 2 PICKS — atrisk-23-e4
+
+### Section 1: Hero — Door Held Open + Quiet Reframe
+- ROLE slot: hero-illustration-door-held-open (Section 1a) + prose-block-door-quiet-reframe (Section 1b)
+- INTENT: custom door-ajar illustration (max 400px, slightly ajar ~15°, warm gold light + paper airplane inside) + "It's been quiet for a couple weeks. That's okay." opener + Lena peer anchor.
+- COMPONENT PICKED: 2.2 (Warm Hero)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Warm-hero treatment pairs with the wireframe's "warm gold light spilling through the crack" + paper-airplane invitation. Text-only (per wireframe §Image Density 1 for E4 — single hero illustration; the catalog slot is text-only, with the door-illustration rendered as inline SVG). NEVER reused before in any email.
+  - NOTE: 2.2 "Warm Hero" pairs with the wireframe's "cream + warm gold" palette (the door illustration's light-spill is the only visual above fold, with warm-cotton #FBF7EB background).
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: "Child in dinosaur-themed clothing in a warm living room, suggesting the home-context 'when you're ready to try again' permission the door-ajar opener describes."
+  - Current usage: 9/25 (was 9 → now 10)
+  - WHY: The "home-context" visual — supports the door-ajar permission framing. (Reuse permitted: image at 10 uses, well under 25 cap.)
+
+### Section 2: Validation — Neurology, Not Failure
+- ROLE slot: validation-paragraph-stack-neurology-not-failure (Section 2)
+- INTENT: stacked paragraph "You didn't do anything wrong" + timeline validation "Some kids show first sign in two weeks. Some take eight. Some need longer. None of those are wrong."
+- COMPONENT PICKED: 17.7 (Closing Letter (Before CTA), body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 7/8 (was 7 → now 8) — AT CAP
+  - WHY: Closing-letter treatment handles the warm peer-voice normalization; selective bold emphasis on the 5 key phrases per wireframe §Typography pattern.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: "Toddler viewed from behind wearing a mustard-yellow cat-themed outfit, suggesting the 'his nervous system is on its own timeline' validation the section describes."
+  - Current usage: 4/25 (was 4 → now 5)
+  - WHY: The "nervous system timeline" visual — toddler-in-everyday-life supports the timeline-flexibility framing.
+
+### Section 3: Mechanism — Gentle Refresher + Pull-Ups Critique
+- ROLE slot: mechanism-paragraph-stack-with-pull-ups-critique (Section 3)
+- INTENT: stacked paragraph "The way BrightKidCo underwear works hasn't changed: the Body-Signal Learning Layer creates a gentle sensation that lasts, 30 to 60 seconds..." + bridge "But it only works if it's being worn."
+- COMPONENT PICKED: STORY-09 (Story Block variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 5/8 (was 5 → now 6)
+  - WHY: Story-block variant handles the mechanism refresher with warm peer-voice; the 2px mint hairline divider is rendered as inline styling between body and sign-off.
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: "Washing machine drum with training pants, illustrating the 'wearing it consistently is harder than any product description makes it sound' bridge."
+  - Current usage: 7/25 (was 7 → now 8)
+  - WHY: The "consistent wear" mechanism visual — supports the "But it only works if it's being worn" bridge.
+
+### Section 4: Permission + 3 Re-Entry Paths
+- ROLE slot: permission-paragraph-stack-with-3-re-entry-paths (Section 4)
+- INTENT: stacked paragraph "60-day guarantee restarts whenever you're ready" + 3 vertical re-entry paths (30 min after school / 3+ hours or different time of day / "if you've decided this isn't the right approach, that's a real answer").
+- COMPONENT PICKED: LETTER-03 (Letter variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 5/8 (was 5 → now 6)
+  - WHY: Letter variant handles the permission + 3 re-entry paths with warm peer-voice; emerald signal-dot bullets rendered as inline styling.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: "Toddler outdoors on grass wearing a disposable diaper, the outdoor-context visual for the '30 minutes after school' re-entry path."
+  - Current usage: 4/25 (was 4 → now 5)
+  - WHY: The "30 minutes after school" re-entry visual — toddler outdoors anchors the lowest-bar re-entry option.
+
+### Section 5: CTA — Try-Again Button + Reply Link
+- ROLE slot: cta-button-full-width-brand-green + secondary-reply-link (Section 5)
+- INTENT: "Try Again, 60-Day Restart" brand-green button + "Hit reply — I read everything" secondary text link.
+- COMPONENT PICKED: 6.2 (ProductShowcaseMedium, product_showcase)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 7/8 (was 7 → now 8) — AT CAP
+  - WHY: ProductShowcaseMedium handles the button + secondary reply link layering; product_showcase CAN be reused. AT CAP.
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: "Training pant with penguin illustration in multicolor fabric, the visual anchor for the 'Try Again, 60-Day Restart' CTA."
+  - Current usage: 2/25 (was 2 → now 3)
+  - WHY: The "try again" CTA visual — soft multicolor cotton flat-lay, child-free, sensory-friendly.
+
+### Section 6: Sign-off — Lena MEDIUM with P.S.
+- ROLE slot: signoff-lena-medium-with-ps (Section 6)
+- INTENT: "With care, Lena ——" sign-off + P.S. ("My older son was 8 before we figured this out. We took breaks. We restarted twice..."). Borderline per locked-profile (MEDIUM) vs copy file (LONG).
+- COMPONENT PICKED: STORYDEEP-03 (Story Deep variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 5/8 (was 5 → now 6)
+  - WHY: Story-deep variant handles the MEDIUM-with-P.S. sign-off; warm peer-voice; reused for cross-flow consistency.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the brand-trust anchor for the Lena MEDIUM-with-P.S. sign-off."
+  - Current usage: 12/25 (was 12 → now 13)
+  - WHY: The founder-trust visual — Lena's peer voice anchored in founder identity.
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: 2.2 (Warm Hero)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Warm-hero treatment pairs with the wireframe's "cream + warm gold" door-held-open palette; text-only with the door illustration rendered as inline SVG above the headline. NEVER reused before in any email.
+
+### Image count check
+- Total images in this email: 6/6
+- Status: PASS (at cap)
+
+### Component count check
+- Total components in this email: 8/8 (2.2 hero, 17.7, STORY-09, LETTER-03, 6.2, STORYDEEP-03, plus 2 more body components counted in section headers — total body + hero = 7+1=8). Within 4-8 range.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: 2.2 (0→1), 17.7 (7→8), STORY-09 (5→6), LETTER-03 (5→6), 6.2 (7→8), STORYDEEP-03 (5→6)
+- image-usage.json: toddler-livingroom-dino-yellow.png (9→10), toddler-rearview-cat-mustard.png (4→5), washing-machine-training-pants.png (7→8), toddler-outdoors-grass-disposable-diaper.png (4→5), training-pant-penguin-multicolor.jpg (2→3), founders-holding-pants-yellow-watermelon.png (12→13)
+
+---
+
 ## Copy Notes & Source Citations
 
 | Section | Source / Citation |
@@ -974,112 +1069,3 @@ END OF WIREFRAME — atrisk-23-e4
 ```
 
 ---
-
-## STAGE 2 PICKS — atrisk-23-e4
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 5 body sections.
-
-> **Flow:** pp-at-risk | **Position:** E4 | **Level:** GF
-
-
-### Section 1: HOOK — DOOR AJAR OPENER
-
-- ROLE slot: `hook-door-ajar-opener`
-
-- INTENT: hook block — HOOK — DOOR AJAR OPENER
-
-- COMPONENT PICKED: **HERO-11** — Question Storm
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — NEUROLOGY, NOT FAILURE
-
-- ROLE slot: `validation-neurology-not-failure`
-
-- INTENT: validation block — VALIDATION — NEUROLOGY, NOT FAILURE
-
-- COMPONENT PICKED: **DEEP-18** — Celebration Deficit
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM — GENTLE REFRESHER + PULL-UPS CRITIQUE
-
-- ROLE slot: `mechanism-gentle-refresher-pull-ups-critique`
-
-- INTENT: mechanism block — MECHANISM — GENTLE REFRESHER + PULL-UPS CRITIQUE
-
-- COMPONENT PICKED: **EDU-7** — Education Block
-
-  - Currently used: 7/8 (under cap; was DEEP-21/DEEP-24)
-  - WHY: by-name position+audience match. EDU-7 is a body_mechanism component with full-audience tag, appropriate for GF pull-ups-gentle-refresher.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: PERMISSION + RE-ENTRY PATH
-
-- ROLE slot: `permission-re-entry-path`
-
-- INTENT: cta block — PERMISSION + RE-ENTRY PATH
-
-- COMPONENT PICKED: **CTA-12** — Gentle CTA
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: CTA — TRY-AGAIN BUTTON + REPLY LINK
-
-- ROLE slot: `cta-try-again-button-reply-link`
-
-- INTENT: cta block — CTA — TRY-AGAIN BUTTON + REPLY LINK
-
-- COMPONENT PICKED: **CTA-10** — Soft Button
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

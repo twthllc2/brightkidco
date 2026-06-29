@@ -871,138 +871,97 @@ END OF WIREFRAME — winback-a-19-e1-l1
 
 ## STAGE 2 PICKS — winback-a-19-e1-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** winback-a | **Position:** E4 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e1-l1
+- COMPONENT PICKED: FLOWIMG-003 (Product Reveal *(L19509)*)
+  - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e1-l1, level=l1, theme=1. Calibrated per level.
 
 ### Section 1: HOOK — 90-DAY GAP ACKNOWLEDGMENT
-
-- ROLE slot: `hook-90-day-gap-acknowledgment`
-
-- INTENT: hook block — HOOK — 90-DAY GAP ACKNOWLEDGMENT
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: hook-prose-block-centered
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: M7 (Recognition Block (Mobile) *(L3093)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: L1 1 section 1 visual — calibrated per level (l1)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — INTEROCEPTION AS SLOW BRIDGE
-
-- ROLE slot: `validation-interoception-as-slow-bridge`
-
-- INTENT: validation block — VALIDATION — INTEROCEPTION AS SLOW BRIDGE
-
-- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: prose-block-left-aligned
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EJ1 (Before/After Transformation *(L3405)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: L1 1 section 2 visual — calibrated per level (l1)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM REFRESHER — 3-LAYER BODY-SIGNAL
-
-- ROLE slot: `mechanism-refresher-3-layer-body-signal`
-
-- INTENT: mechanism block — MECHANISM REFRESHER — 3-LAYER BODY-SIGNAL
-
-- COMPONENT PICKED: **HERO-2** — Data Shock
-
-  - Currently used: 24/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: mechanism-callout-light-gray-bg
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: L1 1 section 3 visual — calibrated per level (l1)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: SOCIAL PROOF — TWO L1 TESTIMONIALS
-
-- ROLE slot: `social-proof-two-l1-testimonials`
-
-- INTENT: social_proof block — SOCIAL PROOF — TWO L1 TESTIMONIALS
-
-- COMPONENT PICKED: **REV-08.4** — REV-08.4 — Bundle Value Recap (73% Stat)
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: testimonial-stack-vertical-on-mint
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: EMODEEP-01 (The Guilt Reframe *(L11996)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: L1 1 section 4 visual — calibrated per level (l1)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PRODUCT INTRO + OFFER — 3+3 BUNDLE
-
-- ROLE slot: `product-intro-offer-3-3-bundle`
-
-- INTENT: hook block — PRODUCT INTRO + OFFER — 3+3 BUNDLE
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pricing-box-centered-cream
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: OBJ-14.2 (OBJ-14.2 — Timeline Week 1-2 (Adjustment Phase) *()
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: L1 1 section 5 visual — calibrated per level (l1)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: GUARANTEE — 60-DAY HONEST CONTAINER
-
-- ROLE slot: `guarantee-60-day-honest-container`
-
-- INTENT: guarantee block — GUARANTEE — 60-DAY HONEST CONTAINER
-
-- COMPONENT PICKED: **LETTER-12** — Fragmented Text
-
-  - Currently used: 24/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: guarantee-line-centered-muted
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: TRUST-3 (Covered Checklist Badges *(L6446)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
 ### Section 7: LENA SIGN-OFF — SHORT VARIANT
+- ROLE slot: lena-signoff-short-on-cream
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-10 (Legal Text *(L7739)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
-- ROLE slot: `lena-sign-off-short-variant`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
+### Tracker updates
+- component-usage.json: incremented ['FLOWIMG-003', 'M7', 'EJ1', '32.1', 'EMODEEP-01', 'OBJ-14.2', 'TRUST-3', 'UTIL-10']
+- image-usage.json: incremented ['accessories/book-potty-training-guide.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'flat-lay/diaper-woodland-creature-yellow.jpg', 'flat-lay/training-pant-fox-woodland-white.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg']
 
-- COMPONENT PICKED: **HERO-6** — Identity Statement
-
-  - Currently used: 25/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

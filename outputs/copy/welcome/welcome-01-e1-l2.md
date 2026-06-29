@@ -630,157 +630,114 @@ SYSTEM B (automatic):
 - ✅ Permission-not-to-buy: dedicated section + SHORT sign-off
 
 ======================================================================
-## STAGE 2 PICKS — welcome-01-e1-l2
-
-**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
-
-**L2 calibration applied:**
-- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
-- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
-- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
-  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
-- 40/60 hope/realism ratio; clinical warmth, not peer-mom
-- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
-- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
-- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
-- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
 
 
-### Section 1: hook-mirror
-- **ROLE slot:** hook-mirror
-- **INTENT (from wireframe):** HERO-5 Mirror Moment — text-driven opener
-- **COMPONENT PICKED:** HERO-5
-  - Name: Mirror Moment *(L3904)*
-  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Hook: HERO-5 Mirror Moment — text-driven opener
-- **VARIANCE CHECK:** N/A (first section)
 
-### Section 2: validation-body
-- **ROLE slot:** validation-body
-- **INTENT (from wireframe):** EMO-4 Empathy Block — warm absolution
-- **COMPONENT PICKED:** EMO-4
-  - Name: Empathy Block *(L6924)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Validation: EMO-4 Empathy Block — warm absolution
-- **VARIANCE CHECK:** differs from previous section (HERO-5) — OK
 
-### Section 3: mint-science-callout
-- **ROLE slot:** mint-science-callout
-- **INTENT (from wireframe):** EDU-11 Science Citation — 49% Wiggins
-- **COMPONENT PICKED:** EDU-11
-  - Name: Science Citation *(L5520)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Science callout: EDU-11 Science Citation — 49% Wiggins
-- **VARIANCE CHECK:** differs from previous section (EMO-4) — OK
 
-### Section 4: mechanism-body
-- **ROLE slot:** mechanism-body
-- **INTENT (from wireframe):** 17.2 Definition Block — clean prose definition
-- **COMPONENT PICKED:** 17.2
-  - Name: Definition Block *(L1616)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Mechanism: 17.2 Definition Block — clean prose definition
-- **VARIANCE CHECK:** differs from previous section (EDU-11) — OK
 
-### Section 5: quote-1
-- **ROLE slot:** quote-1
-- **INTENT (from wireframe):** SP2 Review Quote Card — L2 mom quote
-- **COMPONENT PICKED:** SP2
-  - Name: Review Quote Card *(L3208)*
-  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Quote 1: SP2 Review Quote Card — L2 mom quote
-- **VARIANCE CHECK:** differs from previous section (17.2) — OK
 
-### Section 6: quote-2
-- **ROLE slot:** quote-2
-- **INTENT (from wireframe):** EMO-6 Parent Quote — L2 mom quote (variance)
-- **COMPONENT PICKED:** EMO-6
-  - Name: Parent Quote *(L6962)*
-  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Quote 2: EMO-6 Parent Quote — L2 mom quote (variance)
-- **VARIANCE CHECK:** differs from previous section (SP2) — OK
 
-### Section 7: product-teaser
-- **ROLE slot:** product-teaser
-- **INTENT (from wireframe):** 6.3 ProductShowcaseSoft — no aggressive push
-- **COMPONENT PICKED:** 6.3
-  - Name: ProductShowcaseSoft
-  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Product teaser: 6.3 ProductShowcaseSoft — no aggressive push
-- **VARIANCE CHECK:** differs from previous section (EMO-6) — OK
+## STAGE 2 PICKS — e1-l2
 
-### Section 8: realistic-timeline
-- **ROLE slot:** realistic-timeline
-- **INTENT (from wireframe):** EMO-5 Realistic Timeline — 8-12 weeks
-- **COMPONENT PICKED:** EMO-5
-  - Name: Realistic Timeline *(L6941)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Timeline: EMO-5 Realistic Timeline — 8-12 weeks
-- **VARIANCE CHECK:** differs from previous section (6.3) — OK
+*L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
-### Section 9: guarantee
-- **ROLE slot:** guarantee
-- **INTENT (from wireframe):** TRUST-1 60-Day Seal — primary badge
-- **COMPONENT PICKED:** TRUST-1
-  - Name: 60-Day Seal *(L6385)*
-  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Guarantee: TRUST-1 60-Day Seal — primary badge
-- **VARIANCE CHECK:** differs from previous section (EMO-5) — OK
+### Section 1: HERO / HEADLINE region (covers HEADER + HOOK body)
+- ROLE slot: HERO / HEADLINE region (covers HEADER + HOOK body)
+- INTENT: Mechanism tease opener headline + hook body + logo bar
+- COMPONENT PICKED: HERO-1
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/8
+  - WHY: HERO-1 unique hero (zero reuse across L2 emails). Sets mechanism-tease tone for L2 scientific voice
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Founder Lena holding BKC yellow-watermelon training pants, founder portrait peer-disclosure moment
+  - Current usage: 1/25
+  - WHY: Founder Lena + toddler photo is L2 peer-disclosure visual signature; placed ABOVE headline in stack per wireframe
 
-### Section 10: primary-cta
-- **ROLE slot:** primary-cta
-- **INTENT (from wireframe):** CTAMAX-04 Soft CTA — muted-green, soft wording
-- **COMPONENT PICKED:** CTAMAX-04
-  - Name: Soft CTA *(L16752)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 4/8 (under cap)
-  - **WHY:** CTA: CTAMAX-04 Soft CTA — muted-green, soft wording
-- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
+### Section 2: VALIDATION BODY (3-4 sentences, "not your fault")
+- ROLE slot: VALIDATION BODY (3-4 sentences, "not your fault")
+- INTENT: Validate L2 parent: not effort, not BCBA, not timing. Real symptom recognition + BCBA acknowledgment
+- COMPONENT PICKED: 4.1
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 1/8
+  - WHY: 4.1 letter/recognition component for L2 deep-read body text
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: Toddler with backpack wearing moon-cloud-blue training pants during outdoor outing moment
+  - Current usage: 1/25
+  - WHY: Real toddler moment — the validation is about HER child, not abstract. Soft light, no face close-up
 
-### Section 11: secondary-text-link
-- **ROLE slot:** secondary-text-link
-- **INTENT (from wireframe):** CTA-2 Soft Link — sizing guide
-- **COMPONENT PICKED:** CTA-2
-  - Name: Soft Link *(L6658)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Secondary: CTA-2 Soft Link — sizing guide
-- **VARIANCE CHECK:** differs from previous section (CTAMAX-04) — OK
+### Section 3: MINT-BORDERED SCIENCE CALLOUT BOX (interoccption measurable, Wiggins 49%)
+- ROLE slot: MINT-BORDERED SCIENCE CALLOUT BOX (interoccption measurable, Wiggins 49%)
+- INTENT: Visible science citation: Wiggins SPARK + Mahler interoception
+- COMPONENT PICKED: EDU-11
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 1/8
+  - WHY: EDU-11 provides science citation visibility — L2 high-science-visibility calibration
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Toddler napping in watermelon-pink shorts, quiet restorative moment
+  - Current usage: 1/25
+  - WHY: Lifestyle photo anchors science callout in real-world context — body-signal learning happens during real play, not special sessions
 
-### Section 12: permission
-- **ROLE slot:** permission
-- **INTENT (from wireframe):** EMO-1 Permission Slip — L2 paradox lever
-- **COMPONENT PICKED:** EMO-1
-  - Name: Permission Slip *(L6867)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Permission: EMO-1 Permission Slip — L2 paradox lever
-- **VARIANCE CHECK:** differs from previous section (CTA-2) — OK
+### Section 4: MECHANISM BODY (body-signal bladder-to-brain, interoception explained)
+- ROLE slot: MECHANISM BODY (body-signal bladder-to-brain, interoception explained)
+- INTENT: Explain interoception + body signal latency for L2 scientific depth
+- COMPONENT PICKED: 19.2
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 1/8
+  - WHY: 19.2 mechanism-explainer for 'I need to go signal is a body signal' paragraph
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: Toddler playing with wooden train toy wearing moon-cloud-blue training pants, focused play moment
+  - Current usage: 1/25
+  - WHY: Real outing or play moment — mechanism (body-signal) applies to daily life, not just bathroom sessions
 
-### Section 13: signoff
-- **ROLE slot:** signoff
-- **INTENT (from wireframe):** 12.1 Lena Signoff — SHORT variant
-- **COMPONENT PICKED:** 12.1
-  - Name: Lena Signoff
-  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
-  - Currently used: 5/8 (under cap)
-  - **WHY:** Signoff: 12.1 Lena Signoff — SHORT variant
-- **VARIANCE CHECK:** differs from previous section (EMO-1) — OK
+### Section 5: SOCIAL PROOF — 2 callout-quote-highlight (L2 parent quotes)
+- ROLE slot: SOCIAL PROOF — 2 callout-quote-highlight (L2 parent quotes)
+- INTENT: "communicates fine about everything ELSE" + "we tried three years" quotes
+- COMPONENT PICKED: SP-01
+  - Catalog entry: position=body_social_proof, audience=L2
+  - Current usage: 1/8
+  - WHY: SP-01 quote-callout for L2 parent testimonials. Cream card per wireframe
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Footer (static — already picked, no work needed)
-- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
-- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+### Section 6: PRODUCT TEASER + REALISTIC TIMELINE (combined showcase)
+- ROLE slot: PRODUCT TEASER + REALISTIC TIMELINE (combined showcase)
+- INTENT: Body-signal underwear intro + 2-4 weeks / 8-12 weeks timeline
+- COMPONENT PICKED: 6.1
+  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
+  - Current usage: 1/8
+  - WHY: 6.1 product_showcase component. Allowed to be reused per Ayoub brief. Combines product-teaser + timeline to fit 8-cap
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: Pink bunny hearts training pant flat-lay product photo on neutral background
+  - Current usage: 1/25
+  - WHY: Flat-lay product photo shows the 3-layer system named in mechanism+teaser body. Muted palette fits L2 tone
 
-### Tracker updates applied
-- `component-usage.json`: incremented counts for `HERO-5`, `EMO-4`, `EDU-11`, `17.2`, `SP2`, `EMO-6`, `6.3`, `EMO-5`, `TRUST-1`, `CTAMAX-04`, `CTA-2`, `EMO-1`, `12.1`
+### Section 7: GUARANTEE BADGE + PRIMARY CTA + PERMISSION-NOT-TO-BUY (combined trust+close)
+- ROLE slot: GUARANTEE BADGE + PRIMARY CTA + PERMISSION-NOT-TO-BUY (combined trust+close)
+- INTENT: 60-day trust anchor + muted-green CTA button + permission-not-to-buy (L2 element 6)
+- COMPONENT PICKED: EMODEEP-03
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF
+  - Current usage: 1/8
+  - WHY: EMODEEP-03 combines trust+close block. permission-not-to-buy is the L2 element 6 key block
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: Toddler on pink-multicolor potty ladder, real bathroom practice moment
+  - Current usage: 1/25
+  - WHY: Quiet moment anchors the trust+permission block; reinforces "no rush, come back when ready" tone
 
+### Section 8: SIGN-OFF — signoff-lena-short
+- ROLE slot: SIGN-OFF — signoff-lena-short
+- INTENT: Lena SHORT sign-off: real-person peer disclosure
+- COMPONENT PICKED: 12.1
+  - Catalog entry: position=signoff_footer, audience=L1/L2/L3/GF
+  - Current usage: 1/8
+  - WHY: 12.1 Lena sign-off component, SHORT variant per E1 wireframe
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
+
+### Image count check
+- Total images in this email: 6/6
+- Status: ✅ PASS
+
+### Tracker updates
+- component-usage.json: ['HERO-1', '4.1', 'EDU-11', '19.2', 'SP-01', '6.1', 'EMODEEP-03', '12.1']
+- image-usage.json: ['lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'lifestyle/toddler-potty-ladder-pink-multicolor.png']

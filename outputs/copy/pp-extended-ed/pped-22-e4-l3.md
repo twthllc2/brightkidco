@@ -931,123 +931,89 @@ END OF WIREFRAME — pped-22-e4-l3
 
 ## STAGE 2 PICKS — pped-22-e4-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E19 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e4-l3
+- COMPONENT PICKED: CAMIMG-1 (Flash Sale Hero *(L18910)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e4-l3, level=l3, theme=4. Calibrated per level.
 
 ### Section 1: HOOK — "HIS BODY IS GROWING THE WAY IT SHOULD"
-
-- ROLE slot: `hook-his-body-is-growing-the-way-it-should`
-
-- INTENT: hook block — HOOK — "HIS BODY IS GROWING THE WAY IT SHOULD"
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: dignity-first-paragraph-stack-with-growth-mirror
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORYDEEP-02 (The Timeline Spiral *(L9894)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: L3 4 section 1 visual — calibrated per level (l3)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: LATE-TRAINER STORIES (3 INDENTED NARRATIVE BLOCKS)
-
-- ROLE slot: `late-trainer-stories-3-indented-narrative-blocks`
-
-- INTENT: default block — LATE-TRAINER STORIES (3 INDENTED NARRATIVE BLOCKS)
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 10/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: late-trainer-stories-stacked-indented-3-blocks
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORYDEEP-04 (The Day In The Life *(L9939)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: L3 4 section 2 visual — calibrated per level (l3)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: WHAT CHANGES DURING ADOLESCENCE
-
-- ROLE slot: `what-changes-during-adolescence`
-
-- INTENT: default block — WHAT CHANGES DURING ADOLESCENCE
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-paragraph-stack-with-l3-redefinition
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: M2 (Mechanism Diagram (Mobile) *(L2971)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: L3 4 section 3 visual — calibrated per level (l3)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: WHATEVER PROGRESS MEANS — DIGNITY CLOSE
-
-- ROLE slot: `whatever-progress-means-dignity-close`
-
-- INTENT: validation block — WHATEVER PROGRESS MEANS — DIGNITY CLOSE
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: dignity-close-paragraph-stack-with-permission-frame
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: PSYCH-06 (Permission Messaging *(L8611)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: L3 4 section 4 visual — calibrated per level (l3)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: CTA — TEXT LINK WITH PERMISSION FRAME
-
-- ROLE slot: `cta-text-link-with-permission-frame`
-
-- INTENT: cta block — CTA — TEXT LINK WITH PERMISSION FRAME
-
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: cta-text-link-soft-permission-with-secondary-link
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: CTADEEP-03 (The Social Proof Bridge *(L11574)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: L3 4 section 5 visual — calibrated per level (l3)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: LENA SIGN-OFF (LONG VARIANT) + LATE-TRAINER P.S.
+- ROLE slot: floating-feather-easter-egg-grace-element
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: STORYDEEP-05 (The Conversation Thread *(L9965)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- ROLE slot: `lena-sign-off-long-variant-late-trainer-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF (LONG VARIANT) + LATE-TRAINER P.S.
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-1', 'STORYDEEP-02', 'STORYDEEP-04', 'M2', 'PSYCH-06', 'CTADEEP-03', 'STORYDEEP-05']
+- image-usage.json: incremented ['accessories/book-potty-training-guide.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'lifestyle/toddler-rearview-cat-mustard.png', 'flat-lay/training-pant-fox-red-white.jpg']
 
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6

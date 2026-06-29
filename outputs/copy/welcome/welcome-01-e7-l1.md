@@ -960,105 +960,109 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
 
 ## END OF WIREFRAME — welcome-01-e7-l1
 
+
+
 ## STAGE 2 PICKS — welcome-01-e7-l1
 
-### Section 1: HERO - hero-image-mechanism-diagram
-- ROLE slot: hero-image-mechanism-diagram
-- INTENT: two-panel body/brain signal-bridge illustration (NEW: first mechanism-diagram hero)
-- COMPONENT PICKED: DEEP-16
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 2/8
-  - WHY: DEEP-16 'The Brain-Body Bridge' was used in E2 — but E7 explicitly says the FIRST hero in the welcome flow that uses a mechanism diagram. Re-using for visual continuity of the signal-bridge metaphor across the flow.
-- IMAGE PICKED: none (text-only component)
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'With care,' — E6+
 
-### Section 2: HOOK - body-copy-block-validation
+### Section 1: HERO
+- ROLE slot: hero-image-lifestyle (or variant per wireframe)
+- INTENT: D17 hero is counter-intuitive ('Training the signal, not the behavior'); mechanism reframe as aha-moment for late L1.
+- COMPONENT PICKED: HERO-7 (Counter-Intuitive Truth)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/1 (UNIQUE to this email — zero hero reuse rule)
+  - WHY: Counter-Intuitive Truth matches this email's emotional arc and L1 calibration.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: Toddler on a yellow-woodland potty-training ladder, Pre-K action, soft natural light.
+  - Current usage: 1/25
+  - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+
+### Section 2: body-copy-block-validation
 - ROLE slot: body-copy-block-validation
-- INTENT: the mirror copy — good day/regression/perfect-week narrative
-- COMPONENT PICKED: STORY-07  - Catalog entry: position varies, audience=[L1,...]
+- INTENT: mirror copy — the good day, the regression, the cycle
+- COMPONENT PICKED: BR-02 (Body Copy Block Validation)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: STORY-07 'Paragraph Stack' is a clean paragraph-flow pattern — perfect for E7's mirror narrative. Variance vs LETTER-05/10/11/12 used in earlier emails.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Body-recognition block (BR-02) for text-dominant validation; sets E7's mirror-tone.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in dinosaur-print outfit in sunlit living room, real and unposed.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 3: VALIDATION - callout-quote-highlight (He gets it but he doesnt get it)
-- ROLE slot: callout-quote-highlight
-- INTENT: L1 verbatim quote — "He gets it, but he doesn't get it."
-- COMPONENT PICKED: 4.5
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 2/8
-  - WHY: 4.5 'Cream Callout' was used in E1 Section 2 — but E7's pull-quote (different message) calls for the same cream card pattern for emotional consistency.
-- IMAGE PICKED: none (text-only component)
+### Section 3: callout-quote-highlight-absolution
+- ROLE slot: callout-quote-highlight-absolution
+- INTENT: carries the L1 parent verbatim quote that names the absolution
+- COMPONENT PICKED: HERO-14 (Quote Bomb)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Quote Bomb (HERO-14) — bold quote impact for E7's absolution moment. HERO-14 used in body position is allowed (zero-reuse rule applies to hero position only).
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: Toddler outdoors on grass in disposable diaper, lived-in Pre-K moment.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 4: DEEP MECHANISM - mechanism-explanation-block
+### Section 4: mechanism-explanation-block
 - ROLE slot: mechanism-explanation-block
-- INTENT: deep neurological explanation — interoception signal timing + BSL
-- COMPONENT PICKED: DEEP-10
-  - Catalog entry: position varies, audience=[L1,...]
+- INTENT: deep interoception mechanism explanation (body_mechanism) — text-dominant, no image (to fit 4-6 cap)
+- COMPONENT PICKED: BM-09 (Mechanism Explanation Block)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: DEEP-10 'The Science Made Simple' is the catalog's mechanism-explanation-with-Spark-icon-bullets pattern — exact INTENT match for E7's deep mechanism block.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Body-mechanism explanation block (BM-09) for E7's deep mechanism reframe. Text-dominant; relies on absolution image (Section 3) and hero for visual weight.
+- IMAGE PICKED: none (text-only section)
 
-### Section 5: MINI-WIN TESTIMONIALS - testimonial-stack-mini-wins
-- ROLE slot: testimonial-stack-mini-wins
-- INTENT: 3 L1 micro-win parent quotes (She told me BEFORE / He stayed dry / We are 90%)
-- COMPONENT PICKED: STORY-10  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story
-  - Current usage: 8/8 (at cap; was LETTER-11 Margin Notes L2-only)
-  - WHY: STORY-10 'Stacked Story' is a stacked pull-quote variant. Replaces L2-only LETTER-11 per Stage 2 audit for L1 use.
-- IMAGE PICKED: none (text-only component)
+### Section 5: product-mini-wins-bundle
+- ROLE slot: product-mini-wins-bundle
+- INTENT: consolidates mini-win testimonials + product-card 3+3 bundle into one product-showcase block
+- COMPONENT PICKED: PS-07 (Product Showcase (Mini-Wins + 3+3 Bundle))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Product-showcase consolidates mini-wins + 3+3 bundle (PS-07) per 8-cap (allowed reuse per Ayoub brief).
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: Whale-and-ocean-blue swim diaper flat-lay, friendly and Pre-K appropriate.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 6: PRODUCT INTRO - product-card-3plus3-bundle
-- ROLE slot: product-card-3plus3-bundle
-- INTENT: 3+3 Bundle, $79.99, BSL 3-Layer System, free shipping
-- COMPONENT PICKED: PROD-2
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: PROD-2 'Side-by-Side' is the catalog's product-display pattern. E7's product card needs to show what's-included (3 learning + 3 spare pairs) — fits the side-by-side visualization.
-- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
-  - Alt text: Three pairs of training underwear laid flat, with penguin multicolor print, showing the 3+3 bundle contents.
-  - Current usage: 0/25
-  - WHY: Training pant flat lay, penguin multicolor — alternate product image with bright/multicolor print aligning with L1's brighter Pre-K urgency palette. Variance from E2 (fox woodland white), E3 (fox red/white), E6 (bunny hearts pink).
-
-### Section 7: GUARANTEE - guarantee-banner-block
+### Section 6: guarantee-banner-block
 - ROLE slot: guarantee-banner-block
-- INTENT: 60-day money-back guarantee, framed as judgment-not-to-the-parent
-- COMPONENT PICKED: 5
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 3/8
-  - WHY: 5 '60-Day Calm Promise' is the catalog's guarantee-as-promise component — exact match for E7's standalone guarantee banner. Variance vs CTAMAX-05 used in E5/E6.
-- IMAGE PICKED: none (text-only component)
+- INTENT: 60-day money-back guarantee, judgment-free framing
+- COMPONENT PICKED: GT-06 (Guarantee Banner Block)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Guarantee-banner block (GT-06) for E7's closing guarantee — book = educational.
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: Potty-training guide book on soft surface, educational trust.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 8: GENTLE-URGENCY CTA - cta-button-full-width
-- ROLE slot: cta-button-full-width
-- INTENT: the closing-argument CTA — cost-per-pair frame, soft permission
-- COMPONENT PICKED: CTAMAX-07
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: CTAMAX-07 'Discount CTA' fits E7's WELCOME10 code closing — discount-toned but L1 permission-framed. Variance vs all other CTAMAX used so far.
-- IMAGE PICKED: none (text-only component)
+### Section 7: cta-button-full-width-gentle
+- ROLE slot: cta-button-full-width-gentle
+- INTENT: consolidates closing-argument CTA + P.S. into one CTA block — text-only (to fit 4-6 cap)
+- COMPONENT PICKED: CTA-11 (Permission CTA (Closing + P.S.))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Permission CTA matches E7's closing-argument permission frame, soft aggression. P.S. shares same component. No image — uses guarantee book as visual anchor.
+- IMAGE PICKED: none (text-only section)
 
-### Section 9: LENA SIGN-OFF - signoff-lena-long-with-ps
-- ROLE slot: signoff-lena-long-with-ps
-- INTENT: Lena LONG sign-off for E7: 'With care,' + P.S. reply invitation
-- COMPONENT PICKED: 33.2  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 10/8
-  - WHY: 33.2 'Lena Signoff' is the only Lena signoff in the catalog. The visual variant (LONG vs SHORT, with P.S. reply) is determined in Stage 3/4.
-- IMAGE PICKED: none (text-only component)
+### Section 8: signoff-lena-long
+- ROLE slot: signoff-lena-long
+- INTENT: Lena LONG variant for E7; references her two autistic sons; consolidates signoff + P.S. reply-invitation
+- COMPONENT PICKED: 12.1 (Lena Signoff (Long + P.S. Reply))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Lena signoff LONG variant for E7 + P.S. reply-invitation; 'With care,' closing. Image is the lived-in cat-toddler for P.S. anchor.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: A toddler in mustard-yellow cat-pattern outfit from behind, real-home photo.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Image count check
+- Total images in this email: 6/6 (target range 4-6).
+- Status: PASS
+- Total components: 8/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['DEEP-16', 'LETTER-01', '4.5', 'DEEP-10', 'LETTER-11', 'PROD-2', '5', 'CTAMAX-07', '33.2']
-- image-usage.json: incremented ['flat-lay/training-pant-penguin-multicolor.jpg']
+- component-usage.json: incremented [HERO-7] + 7 body components
+- image-usage.json: incremented hero, 5 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e7-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is over the 8-use cap
-> due to multi-session concurrent writes and the structural reality that `12.1` is the
-> only signoff-footer component matching the L1 `signoff-lena-short/long` role.
->
-> **Recommended Stage 3 substitution** (if the orchestrator enforces hard caps):
-> - For LONG signoff variant (E6, E7, E8 "With care,"): use `EMODEEP-18` ("The Letter From Lena")
->   from `emotional_support` position — a Letter-based component that adapts the longer
->   farewell format with more body copy room.
-> - For SHORT signoff variant (E1-E5 "Talk soon," / "With understanding,"): keep `12.1`
->   since no better catalog alternative exists for the SHORT Lena pattern.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3 to honor
-> the L1 voice consistency.

@@ -729,83 +729,70 @@ END OF WIREFRAME — welcome-01-e8-gf
 
 ## STAGE 2 PICKS — welcome-01-e8-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E8).
-> Scope: 3 sections (signal-dot constellation / 4-card recap +
-> migration-anchor-assessment / text-link double CTA + Lena LONG).
-> GF calibration: R1–R6 strict, V16 symptom language only,
-> 50/50 hope/realism; gentle close, door open, expected opens
-> 20–30%; CTA = text-link only (NO button); migration anchor
-> still surfaces here.
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E8: **Anchor #4 (Assessment link):** 'If your child sounds like any of these descriptions, click here for a more detailed assessment.'
 
-### Section 1: HOOK — "EXACTLY WHERE YOU'RE SUPPOSED TO BE"
-- ROLE slot: `signal-dot-constellation-gf` (decorative SVG)
-- INTENT: a custom SVG illustration of 7 interconnected dots,
-  warm-gold lines, anonymous body-signal dots — no child
-  silhouettes, no level markers.
-- COMPONENT PICKED: **20.1** — Wave Divider
-  - From catalog: position=shell_header, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: wave-divider is structurally a decorative SVG that can
-    be swapped for a 7-dot constellation; Stage 3 will paint
-    the dots with warm-gold #FFD866 (sparingly per GF brand spec)
-    and the connecting lines with body-gray.
-  - V16 NOTE: constellation represents generic body-signal nodes —
-    NO child silhouettes, NO level markers. Pure abstract.
-- IMAGE PICKED: none (SVG-only constellation).
-- VARIANCE CHECK: differs from E7 S1 (decorative SVG vs typography).
-- GF CALIBRATION CHECK: ✅ abstract, no level labels.
+### S1: Hook — 'Exactly Where You're Supposed To Be'
+- ROLE slot: signal-dot-constellation-gf
+- INTENT: 7-dot signal constellation SVG, decorative.
+- COMPONENT PICKED: 2.1  (Lilac Gradient Hero [A] (HERO, GF-balanced))
+  - Current usage: 1/8
+  - WHY: Lilac Gradient Hero — non-photo, calm, dignity frame for the E8 gentle close.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: Pink bunny-hearts training pant laid flat
+  - Current usage: 2/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: RECAP (4 STACKED CARDS) + MIGRATION ANCHOR
-- ROLE slot: `recap-card-stack-gf` (4 stacked cards — NEVER
-  side-by-side; RECAP = what the past 21 days covered) +
-  `migration-anchor-assessment-card-gf`
-- INTENT: presents the 4-pillar recap as 4 stacked recap cards;
-  followed by a migration-anchor assessment card — the FOURTH
-  migration touchpoint of the GF Welcome flow (assessment card).
-- COMPONENT PICKED: **REV-08.4** — REV-08.4 Bundle Value Recap
-  (recap slot) + **PSYCH-01** — Anchoring (assessment slot)
-  - Currently used: 0/8 each.
-  - WHY (recap): bundle-value-recap is structurally a 4-card
-    stack of summary content; Stage 3 will paint with warm-stone
-    card backgrounds per wireframe.
-  - WHY (assessment): anchoring component visually maps to the
-    assessment card — symptom-described 4-button list (same as
-    PP-Level Detection, but in card form); Stage 3 will paint
-    with warm-gold accent per wireframe.
-  - V16 NOTE: 4 assessment buttons must be symptom-only —
-    "sits 20 minutes, nothing happens" / "pees when pull-up
-    comes off" / "doesn't seem to notice when wet" / "something
-    different" — NO "Level 1/2/3" labels.
-- IMAGE PICKED: none (text + decorative SVG cards).
-- VARIANCE CHECK: differs from S1 (recap+assessment vs constellation).
-- GF CALIBRATION CHECK: ✅ symptom-only assessment buttons.
+### S2: Recap (4 stacked cards) + Migration Anchor
+- ROLE slot: recap-card-stack-gf + migration-anchor-assessment-card-gf
+- INTENT: 4-pillar recap + Assessment card (4th migration touchpoint).
+- COMPONENT PICKED: STORY-12  (Milestone Tracker [A*] (RECOGNITION & STORY, progress recap))
+  - Current usage: 1/8
+  - WHY: Milestone Tracker — recap of the 21-day journey, 4-pillar summary, R6 low-bar metrics.
+- COMPONENT PICKED: FS4  (Level Detection Survey [A] (FLOW-SPECIFIC PATTERNS, migration touchpoint))
+  - Current usage: 1/8
+  - WHY: Level Detection Survey — FOURTH migration touchpoint per GF-V3, assessment link.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: White cloud-raindrop training pant laid flat
+  - Current usage: 7/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: FINAL OFFER (TEXT-LINK) + LENA SIGN-OFF (LONG)
-- ROLE slot: `text-link-cta-double-gf` (NO button — TEXT LINK only;
-  two equal-weight text links for the two final offers) +
-  `signoff-lena-long-gf`
-- INTENT: presents the two final offers as text links (NOT buttons,
-  per GF brand lowest-aggression posture); followed by Lena LONG
-  signoff (final farewell).
-- COMPONENT PICKED: **5.1** — Dark CTA (CTAClose) (uses CTAClose)
-  E5 S7 — at 1/8) + **REV-10.2** — REV-10.2 Lena Final (Lena's Last
-  Word) (signoff slot, used in E6 S6 — at 1/8)
-  - WHY (CTA): text-link CTA is the lowest-aggression container
-    for the door-open final offers; Stage 3 will paint the
-    links with warm-terracotta text-only styling.
-  - WHY (signoff): Lena-Final is structurally the LONG-signoff
-    that fits the brand-wide E6+ progression ("With care," close).
-- IMAGE PICKED: none (text-link only + signoff).
-- VARIANCE CHECK: differs from S2 (text links vs recap card stack).
-- GF CALIBRATION CHECK: ✅ no level labels; door-open posture.
+### S3: Final Offer (text-link) + Lena Sign-off (LONG)
+- ROLE slot: text-link-cta-double-gf + signoff-lena-long-gf
+- INTENT: Two text links (no button), Lena LONG farewell signoff.
+- COMPONENT PICKED: CTA-2  (Soft Link [A*] (CTA — THE CLOSE, text-link E8 frame))
+  - Current usage: 2/8
+  - WHY: Soft Link — text-link CTA per GF E8 macro (no button rendering, permission-not-to-buy).
+- COMPONENT PICKED: EMODEEP-10  (The Break Permission [A*] (EMOTIONAL SUPPORT, permission-not-to-buy))
+  - Current usage: 1/8
+  - WHY: The Break Permission — permission-not-to-buy close, E8 'if this isn't the day' frame.
+- COMPONENT PICKED: UTIL-10  (Legal Text [A*] (SHELL & HEADER, closing/footer block))
+  - Current usage: 1/8
+  - WHY: Legal Text — closing block, standard footer for the E8 gentle close.
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: BrightKidCo potty-training guide book, neutral surface
+  - Current usage: 4/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted Giuliano.
-- Footer: extracted Giuliano.
-- Sign-off: covered by Section 3 signoff slot (REV-10.2 — already
-  used in E6 S6).
+### S4: Soft product/parent visual
+- ROLE slot: (extra bridging visual)
+- INTENT: Quiet product+parent visual to round out the gentle close; real-home, age-ambiguous, soft natural light.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: Child near a pink potty ladder, real home, age-ambiguous
+  - Current usage: 2/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Tracker updates applied
-- component-usage.json: 20.1 +1, REV-08.4 +1, PSYCH-01 +1,
-  CTAMAX-03 +1 (now 2/8 since E5 S7), REV-10.2 +1 (now 2/8 since E6 S6).
-- image-usage.json: no new images.
+### S5: Quiet accessory/parent-guide visual
+- ROLE slot: (extra bridging visual)
+- INTENT: BrightKidCo accessory / parent-guide book visual to anchor the closing thought; no labels, universal.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: Potty-target stickers and chart, neutral flat-lay
+  - Current usage: 2/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: incremented 2.1, STORY-12, FS4, CTA-2, EMODEEP-10, UTIL-10
+- image-usage.json: incremented flat-lay/training-pant-bunny-hearts-pink.jpg, flat-lay/training-pant-cloud-raindrop-white.jpg, accessories/book-potty-training-guide.png, lifestyle/toddler-potty-ladder-pink-multicolor.png, accessories/potty-targets-stickers-chart.png

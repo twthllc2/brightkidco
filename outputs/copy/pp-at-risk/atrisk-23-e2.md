@@ -99,6 +99,100 @@ You're receiving this because you purchased BrightKidCo products. If you'd like 
 
 ---
 
+## STAGE 2 PICKS — atrisk-23-e2
+
+### Section 1: Hook — Practical Troubleshooting Opener
+- ROLE slot: prose-block-practical-opener (Section 1)
+- INTENT: stacked paragraph "Lena here again" + framing "I hear from a lot of parents around this point" + section announcement "There are three roadblocks that come up most often."
+- COMPONENT PICKED: 17.7 (Closing Letter (Before CTA), body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 5/8 (was 5 → now 6)
+  - WHY: Closing-letter treatment handles the warm "Lena here again" peer voice; warm temperature. 4.1 is at cap; 17.7 is the next-best body_recognition warm option.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: "Toddler outdoors on grass wearing a disposable diaper, the everyday outdoor context the troubleshooting opener describes."
+  - Current usage: 3/25 (was 3 → now 4)
+  - WHY: The "everyday outdoor context" visual — supports the practical-tone opener.
+
+### Section 2: Roadblock 1 Card — Child Won't Wear
+- ROLE slot: troubleshooting-card-sensory-clay (Section 2)
+- INTENT: white card with 6px MUTED CLAY #C46A4D left band, 32px corner-radius, soft warm shadow. Card structure: header / explanation / "What to try" / parent quote.
+- COMPONENT PICKED: 23.2 (Drop Cap Initial Letter, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 7/8 (was 7 → now 8) — AT CAP
+  - WHY: Drop-cap letter treatment handles the roadblock card's prose-led explanation + "What to try" solution; warm peer-voice. AT CAP after this email.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: "Toddler using a pink-multicolor potty ladder, illustrating the 'start with 30-minute intervals' solution the roadblock 1 card describes."
+  - Current usage: 8/25 (was 8 → now 9)
+  - WHY: The "30-minute intervals" solution visual — toddler-on-potty-ladder anchors the gradual ramp-up solution.
+
+### Section 3: Roadblock 2 Card — No Awareness Signs
+- ROLE slot: troubleshooting-card-no-awareness (Section 3)
+- INTENT: white card with MUTED CLAY accent, 32px corner-radius. Card structure: header / "the brain needs time" explanation / "What to try" with consistent wear time / parent quote.
+- COMPONENT PICKED: LETTER-03 (Letter variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: Letter variant handles the roadblock 2 card with warm peer-voice temperature; text-only matches the white card treatment.
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: "Washing machine drum with training pants, illustrating the 'consistent wear, not on-and-off' solution the roadblock 2 card describes."
+  - Current usage: 6/25 (was 6 → now 7)
+  - WHY: The "consistent wear" solution visual — supports the "2-3 hours of uninterrupted wear daily" recommendation.
+
+### Section 4: Roadblock 3 Card — Regression / Setbacks
+- ROLE slot: troubleshooting-card-regression (Section 4)
+- INTENT: white card with MUTED CLAY accent. Card structure: header / "regression is part of the curve" explanation / "What to try" with reframe / parent quote.
+- COMPONENT PICKED: EMO-2 (Emotional variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: Emotional variant handles the regression card's "regression is part of the curve" peer-voice; warm temperature.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: "Child in dinosaur-themed clothing in a warm living room, illustrating the 'regression is part of the curve' reframe."
+  - Current usage: 8/25 (was 8 → now 9)
+  - WHY: The "regression reframe" visual — everyday living-room supports the "setbacks are part of the journey" framing.
+
+### Section 5: Transition + Lena MEDIUM Sign-off
+- ROLE slot: transition-paragraph + signoff-lena-medium (Section 5)
+- INTENT: transition paragraph "If you're feeling stuck, here's what I want you to know" + Lena MEDIUM sign-off (borderline per copy file).
+- COMPONENT PICKED: STORY-09 (Story Block variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 4/8 (was 4 → now 5)
+  - WHY: Story-block variant handles the transition paragraph + Lena MEDIUM sign-off; warm peer-voice.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: "Two co-founders holding up BrightKidCo training pants in a warm, founder-photo style, the brand-trust anchor for the Lena MEDIUM sign-off."
+  - Current usage: 10/25 (was 10 → now 11)
+  - WHY: The founder-trust visual paired with the transition + sign-off.
+
+### Section 6: CTA — Bundle Upgrade (Soft)
+- ROLE slot: cta-button-full-width + subtext (Section 6)
+- INTENT: "If you want to try again with more pairs, the 3+3 Bundle is the bestseller" button + subtext + permission close.
+- COMPONENT PICKED: 6.2 (ProductShowcaseMedium, product_showcase)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 5/8 (was 5 → now 6)
+  - WHY: ProductShowcaseMedium handles the offer + permission close; product_showcase CAN be reused.
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: "Training pant with fox illustration on red and white fabric, the visual anchor for the 'try again with more pairs' bundle offer."
+  - Current usage: 6/25 (was 6 → now 7)
+  - WHY: The bundle-upgrade visual — child-free product flat-lay.
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: HERO-17 (Social Proof Hero)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Social-proof hero pairs with the wireframe's "I hear from a lot of parents around this point" opening — leading with the social-proof cue that "you're not the only one". Text-only (no lifestyle image per wireframe §Image Density 0 for at-risk emails). NEVER reused before in any email.
+
+### Image count check
+- Total images in this email: 6/6
+- Status: PASS (at cap)
+
+### Component count check
+- Total components in this email: 7/8 (17.7, 23.2, LETTER-03, EMO-2, STORY-09, 6.2, plus HERO-17 = 7) — body capped at 6 + 1 hero = 7 total.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: HERO-17 (0→1), 17.7 (5→6), 23.2 (7→8), LETTER-03 (3→4), EMO-2 (3→4), STORY-09 (4→5), 6.2 (5→6)
+- image-usage.json: toddler-outdoors-grass-disposable-diaper.png (3→4), toddler-potty-ladder-pink-multicolor.png (8→9), washing-machine-training-pants.png (6→7), toddler-livingroom-dino-yellow.png (8→9), founders-holding-pants-yellow-watermelon.png (10→11), training-pant-fox-red-white.jpg (6→7)
+
+---
+
 ## PART 2 — FULL CREATIVE STRATEGY
 
 **Design reference:** consolidated-design-skills-trimmed.md (email-design-standards-and-template-build, email-design-master, email-template-library, email-cta-conversion-design)
@@ -914,130 +1008,3 @@ END OF WIREFRAME — atrisk-23-e2
 ```
 
 ---
-
-## STAGE 2 PICKS — atrisk-23-e2
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** pp-at-risk | **Position:** E2 | **Level:** GF
-
-
-### Section 1: HOOK — PRACTICAL TROUBLESHOOTING OPENER
-
-- ROLE slot: `hook-practical-troubleshooting-opener`
-
-- INTENT: hook block — HOOK — PRACTICAL TROUBLESHOOTING OPENER
-
-- COMPONENT PICKED: **HERO-7** — Counter-Intuitive Truth
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: ROADBLOCK 1 CARD — CHILD WON'T WEAR
-
-- ROLE slot: `roadblock-1-card-child-won-t-wear`
-
-- INTENT: default block — ROADBLOCK 1 CARD — CHILD WON'T WEAR
-
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: ROADBLOCK 2 CARD — NO AWARENESS SIGNS
-
-- ROLE slot: `roadblock-2-card-no-awareness-signs`
-
-- INTENT: default block — ROADBLOCK 2 CARD — NO AWARENESS SIGNS
-
-- COMPONENT PICKED: **HERO-3** — Permission Open
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: ROADBLOCK 3 CARD — REGRESSION
-
-- ROLE slot: `roadblock-3-card-regression`
-
-- INTENT: support block — ROADBLOCK 3 CARD — REGRESSION
-
-- COMPONENT PICKED: **EMODEEP-08** — Soft Support
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: TRANSITION PARAGRAPH
-
-- ROLE slot: `transition-paragraph`
-
-- INTENT: default block — TRANSITION PARAGRAPH
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: CTA — DUAL: BUTTON + TEXT LINK
-
-- ROLE slot: `cta-dual-button-text-link`
-
-- INTENT: cta block — CTA — DUAL: BUTTON + TEXT LINK
-
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6

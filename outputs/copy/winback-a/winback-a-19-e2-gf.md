@@ -740,142 +740,81 @@ END OF WIREFRAME — winback-a-19-e2-gf
 
 ## STAGE 2 PICKS — winback-a-19-e2-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Winback Calibration:** GENTLE. Permission-not-to-buy. NEVER aggressive.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** winback-a | **Position:** E2 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e2-gf
+- COMPONENT PICKED: CSHOP-15 (New Collection *(L25442)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e2-gf, level=gf, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — Whether...Or...If... Universal Recognition
-
-- ROLE slot: `hook-whether-or-if-universal-recognition`
-
-- INTENT: hook block — HOOK — Whether...Or...If... Universal Recognition
-
-- COMPONENT PICKED: **EJ1** — Before/After Transformation
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: REV-06.4 (REV-06.4 — Reassurance Strip (60-Day + Free Return)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: GF 2 section 1 visual — calibrated per level (gf)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — Permission to Pause
-
-- ROLE slot: `validation-permission-to-pause`
-
-- INTENT: validation block — VALIDATION — Permission to Pause
-
-- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Section 3: RECOGNITION ANCHORS — Do Any of These Sound
-             Familiar? (R2, R4, R6)
-
-- ROLE slot: `recognition-anchors-do-any-of-these-sound-familiar-r2-r4-r6`
-
-- INTENT: validation block — RECOGNITION ANCHORS — Do Any of These Sound
-             Familiar? (R2, R4, R6)
-
-- COMPONENT PICKED: **UTIL-03** — Out-Line
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: validation-prose-warm-cream
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: REV-08.2 (REV-08.2 — CTA Block (Smart-Choice Button) *(L2084)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: GF 2 section 2 visual — calibrated per level (gf)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: THREE-FAMILY TESTIMONIAL PATTERN (GF Inclusion)
-
-- ROLE slot: `three-family-testimonial-pattern-gf-inclusion`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN (GF Inclusion)
-
-- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Section 5: MECHANISM REMINDER — Why Body-Signal Learning
-             Works Differently
-
-- ROLE slot: `mechanism-reminder-why-body-signal-learning-works-differentl`
-
-- INTENT: mechanism block — MECHANISM REMINDER — Why Body-Signal Learning
-             Works Differently
-
-- COMPONENT PICKED: **DEEP-01** — The Unfinished Study
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: three-family-testimonial-stack-on-cream
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: EMODEEP-05 (The Hope Spectrum *(L12102)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: GF 2 section 4 visual — calibrated per level (gf)
+  - Current usage: 23/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: OFFER + CTA — Try Again, Your Way
-
-- ROLE slot: `offer-cta-try-again-your-way`
-
-- INTENT: cta block — OFFER + CTA — Try Again, Your Way
-
-- COMPONENT PICKED: **CTADEEP-05** — Quiet CTA
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: offer-prose-with-inline-cta-and-microcopy
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTADEEP-12 (The Anti-CTA *(L11811)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: GF 2 section 6 visual — calibrated per level (gf)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 7: LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
+- ROLE slot: lena-signoff-short-with-reply-ps
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: GF 2 section 7 visual — calibrated per level (gf)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-short-variant-reply-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-15', 'REV-06.4', 'REV-08.2', 'EMODEEP-05', 'CTADEEP-12', 'UTIL-09']
+- image-usage.json: incremented ['flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/founders-holding-pants-yellow-watermelon.png', 'lifestyle/toddlers-backview-disposable-diapers.png', 'flat-lay/training-pant-fox-red-white.jpg']
 
-- COMPONENT PICKED: **DEEP-05** — The Before-After-Moment
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

@@ -582,126 +582,107 @@ SYSTEM B (automatic):
 - ✅ Permission-not-to-buy: double-tap CTA has no buy-now button; secondary text link is exploratory ("Explore")
 
 ======================================================================
-## STAGE 2 PICKS — welcome-01-e4-l2
 
-**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+## STAGE 2 PICKS — e4-l2
 
-**L2 calibration applied:**
-- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
-- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
-- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
-  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
-- 40/60 hope/realism ratio; clinical warmth, not peer-mom
-- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
-- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
-- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
-- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+*L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
+### Section 1: HERO / HEADER (regression quote + "that isn't starting over")
+- ROLE slot: HERO HEADER + Hook body (regression opener)
+- INTENT: "We had 3 weeks of success then total regression" + school/home paradox named
+- COMPONENT PICKED: HERO-4
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: HERO-4 (Story Fragment) — UNIQUE E4 hero. Story Fragment suits the regression opener (a story-arc moment)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: Toddler on pink-multicolor potty ladder, regression-cycle visual moment
+  - Current usage: 1/25 (after this pick)
+  - WHY: Potty ladder = regression-cycle visual: sits, climbs, looks down, walks away
 
-### Section 1: hook-regression
-- **ROLE slot:** hook-regression
-- **INTENT (from wireframe):** HERO-14 Quote Bomb (reused from E2) — regression quote
-- **COMPONENT PICKED:** HERO-14
-  - Name: Quote Bomb *(L4114)*
-  - From catalog: position=`hero`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Hook: HERO-14 Quote Bomb (reused from E2) — regression quote
-- **VARIANCE CHECK:** N/A (first section)
+### Section 2: VALIDATION BODY ("regression isn't failure" + BCBA-respect deepest airing)
+- ROLE slot: VALIDATION BODY (regression refame + full BCBA respect)
+- INTENT: Neural pathways still there + "Your BCBA hasn't failed"
+- COMPONENT PICKED: 23.2
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: 23.2 recognition component for "regression is recalibration" + BCBA respect frame
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 2: validation-unlock
-- **ROLE slot:** validation-unlock
-- **INTENT (from wireframe):** LETTER-03 Letter + Pull-Quote (reused from E2)
-- **COMPONENT PICKED:** LETTER-03
-  - Name: Letter + Pull-Quote
-  - From catalog: position=`body_recognition`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Validation+Unlock: LETTER-03 Letter + Pull-Quote (reused from E2)
-- **VARIANCE CHECK:** differs from previous section (HERO-14) — OK
+### Section 3: HERO MICRO-MOMENT IMAGE (mom hand on shoulder during sensory moment)
+- ROLE slot: HERO MICRO-MOMENT IMAGE (full-width single column)
+- INTENT: Real mom + real kid, 5–7, sensory moment. Soft light, no face close-up.
+- COMPONENT PICKED: DEEP-21
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: DEEP-21 micro-moment / expert whisper — DEEP-21 also used in E2 (variance: low) but section pattern (recognition-vs-validation) differs
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in dinosaur-yellow training pants, calm sensory-aware living room moment
+  - Current usage: 1/25 (after this pick)
+  - WHY: Calm sensory-aware moment = the regression-isn't-failure visual signature
 
-### Section 3: mechanism-loop
-- **ROLE slot:** mechanism-loop
-- **INTENT (from wireframe):** EDU-9 Tip Cards — prompt-dependency loop step-by-step
-- **COMPONENT PICKED:** EDU-9
-  - Name: Tip Cards *(L5453)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Mechanism: EDU-9 Tip Cards — prompt-dependency loop step-by-step
-- **VARIANCE CHECK:** differs from previous section (LETTER-03) — OK
+### Section 4: MECHANISM BODY (loop + Iqbal 19% in prose + "childhood phenomenon")
+- ROLE slot: MECHANISM BODY (loop + Iqbal)
+- INTENT: Iqbal 19% + adults show compensation (childhood phenomenon)
+- COMPONENT PICKED: EDU-2
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: EDU-2 step cards / mechanism walk-through (also in E2, OK because mechanism position is shared)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: Toddler with backpack in moon-cloud-blue training pants, outing moment visual
+  - Current usage: 2/25 (after this pick)
+  - WHY: School/home paradox visual — backpack = school, training pants = home body-signal bridge
 
-### Section 4: quote-BCBA-integration
-- **ROLE slot:** quote-BCBA-integration
-- **INTENT (from wireframe):** EMO-6 Parent Quote (reused)
-- **COMPONENT PICKED:** EMO-6
-  - Name: Parent Quote *(L6962)*
-  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Quote 1: EMO-6 Parent Quote (reused)
-- **VARIANCE CHECK:** differs from previous section (EDU-9) — OK
+### Section 5: MINT-BORDERED BCBA-RESPECT CALLOUT (deepest L2 unlock sentence airing)
+- ROLE slot: MINT-BORDERED BCBA-RESPECT CALLOUT
+- INTENT: "Your BCBA has been doing the hard work for years. Body-signal learning is the missing layer their protocol can't address."
+- COMPONENT PICKED: EDU-11
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 3/8 (after this pick)
+  - WHY: EDU-11 science citation. The gravitational center of L2 sequence rendered as BCBA unlock callout.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: Toddler playing with wooden train in moon-cloud-blue training pants, focused play visual
+  - Current usage: 2/25 (after this pick)
+  - WHY: Focused-play visual = the "missing layer" metaphor — signal arrives during focused play
 
-### Section 5: quote-week6
-- **ROLE slot:** quote-week6
-- **INTENT (from wireframe):** SP-08 Stacked Mini-Reviews — different comp for variance
-- **COMPONENT PICKED:** SP-08
-  - Name: Stacked Mini-Reviews *(L4966)*
-  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Quote 2: SP-08 Stacked Mini-Reviews — different comp for variance
-- **VARIANCE CHECK:** differs from previous section (EMO-6) — OK
+### Section 6: SOCIAL PROOF (3 cream-card quotes: regression, prompt-dependency, BCBA limit)
+- ROLE slot: SOCIAL PROOF — 3 callout-quote-highlights (cream cards)
+- INTENT: "He initiated once after 4 years" + prompt-dependency quote + BCBA limit quote
+- COMPONENT PICKED: SP-01
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 2/8 (after this pick)
+  - WHY: SP-01 quote callout — extra usage OK (variance check: only 3 SP-01 across 8 emails, well below cap)
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: Penguin-multicolor training pant flat-lay product photo on neutral background
+  - Current usage: 0/25 (after this pick)
+  - WHY: Penguin-multicolor product visual pairs with cream-card regression-quote moment
 
-### Section 6: product-intro-recap
-- **ROLE slot:** product-intro-recap
-- **INTENT (from wireframe):** PROD-3 Layer Breakdown (reused)
-- **COMPONENT PICKED:** PROD-3
-  - Name: Layer Breakdown *(L5744)*
-  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
-  - Currently used: 3/8 (under cap)
-  - **WHY:** Product: PROD-3 Layer Breakdown (reused)
-- **VARIANCE CHECK:** differs from previous section (SP-08) — OK
+### Section 7: PRODUCT INTRO 3-layer recap logic chain + GUARANTEE + DOUBLE-TAP CTA
+- ROLE slot: PRODUCT INTRO + GUARANTEE + DOUBLE-TAP CTA
+- INTENT: 3-layer logic chain: pee → feel → connect → awareness. 4–8 wks guarantee. "Show your BCBA / Read the science" + "Explore 3+3 Bundle" secondary
+- COMPONENT PICKED: 6.1
+  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
+  - Current usage: 2/8 (after this pick)
+  - WHY: 6.1 product_showcase (allowed reuse). Logic chain fits showcase.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: Cloud raindrop white training pant flat-lay product photo
+  - Current usage: 0/25 (after this pick)
+  - WHY: Cloud-raindrop white product visual — alternate colorway for double-tap CTA cross-sell
 
-### Section 7: guarantee
-- **ROLE slot:** guarantee
-- **INTENT (from wireframe):** TRUST-2 (reused from E2)
-- **COMPONENT PICKED:** TRUST-2
-  - Name: Guarantee Detail Cards *(L6414)*
-  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Guarantee: TRUST-2 (reused from E2)
-- **VARIANCE CHECK:** differs from previous section (PROD-3) — OK
+### Section 8: SIGN-OFF — signoff-lena-medium (two-sons explicit)
+- ROLE slot: SIGN-OFF MEDIUM
+- INTENT: "If your kid is anywhere on this curve…"
+- COMPONENT PICKED: 12.2
+  - Catalog entry: position=signoff_footer, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: 12.2 Lena MEDIUM signoff (two-sons explicit). Variance: not overused.
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 8: cta-double-tap
-- **ROLE slot:** cta-double-tap
-- **INTENT (from wireframe):** CTAMAX-17 Level-Specific CTA — "Show your BCBA" double-tap
-- **COMPONENT PICKED:** CTAMAX-17
-  - Name: Level-Specific CTA *(L17064)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** CTA: CTAMAX-17 Level-Specific CTA — "Show your BCBA" double-tap
-- **VARIANCE CHECK:** differs from previous section (TRUST-2) — OK
+### Image count check
+- Total images in this email: 6/6
+- Status: ✅ PASS
 
-### Section 9: secondary-text-link
-- **ROLE slot:** secondary-text-link
-- **INTENT (from wireframe):** CTA-2 (reused)
-- **COMPONENT PICKED:** CTA-2
-  - Name: Soft Link *(L6658)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 5/8 (under cap)
-  - **WHY:** Secondary: CTA-2 (reused)
-- **VARIANCE CHECK:** differs from previous section (CTAMAX-17) — OK
-
-### Section 10: signoff
-- **ROLE slot:** signoff
-- **INTENT (from wireframe):** UTIL-05 (reused from E3) — MEDIUM
-- **COMPONENT PICKED:** STORY-08  - Name: Signoff Card
-  - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Signoff: UTIL-05 (reused from E3) — MEDIUM
-- **VARIANCE CHECK:** differs from previous section (CTA-2) — OK
-
-### Footer (static — already picked, no work needed)
-- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
-- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `STORY-08` picks above per email's variant
-
-### Tracker updates applied
-- `component-usage.json`: incremented counts for `HERO-14`, `LETTER-03`, `EDU-9`, `EMO-6`, `SP-08`, `PROD-3`, `TRUST-2`, `CTAMAX-17`, `CTA-2`, `UTIL-05`
-
+### Tracker updates
+- component-usage.json: ['HERO-4', '23.2', 'DEEP-21', 'EDU-2', 'EDU-11', 'SP-01', '6.1', '12.2']
+- image-usage.json: ['lifestyle/toddler-potty-ladder-pink-multicolor.png', 'lifestyle/toddler-livingroom-dino-yellow.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/training-pant-penguin-multicolor.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg']

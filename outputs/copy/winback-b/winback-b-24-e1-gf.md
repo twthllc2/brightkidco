@@ -1004,122 +1004,89 @@ END OF WIREFRAME — winback-b-24-e1-gf
 
 ## STAGE 2 PICKS — winback-b-24-e1-gf
 
+GF calibration: R1-R6 strict (NO autism/ASD/Level labels in body copy), 5 sub-groups A-E accommodation, universal symptom framing, 50/50 hope/realism, full brand palette (Cream + Brand-Green + Mint + Amber).
 
-> **Winback Calibration:** GENTLE. Permission-not-to-buy. NEVER aggressive.
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** winback-b | **Position:** E1 | **Level:** GF
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e1-gf
+- COMPONENT PICKED: PRICE-1 (Price Hero *(L16108)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e1-gf, level=gf, theme=1. Calibrated per level.
 
 ### Section 1: GREETING + OBSERVATION
-
-- ROLE slot: `greeting-observation`
-
-- INTENT: hook block — GREETING + OBSERVATION
-
-- COMPONENT PICKED: **REV-09.2** — REV-09.2 — Discount Highlight (Best-Price Header)
-
-  - Currently used: 22/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: greeting-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: BONUS-10 (Envelope Flap *(L9101)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: GF 1 section 1 visual — calibrated per level (gf)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: SYMPTOM BLOCK — 5 Recognition Anchors (R2)
-
-- ROLE slot: `symptom-block-5-recognition-anchors-r2`
-
-- INTENT: validation block — SYMPTOM BLOCK — 5 Recognition Anchors (R2)
-
-- COMPONENT PICKED: **LETTER-06** — PS Teaser
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: recognition-anchors-five-inline-on-cream
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: DEEP-10 (The Science Made Simple *(L9387)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: GF 1 section 2 visual — calibrated per level (gf)
+  - Current usage: 17/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: VALIDATION — The Reframe + 49% SPARK Stat
-
-- ROLE slot: `validation-the-reframe-49-spark-stat`
-
-- INTENT: validation block — VALIDATION — The Reframe + 49% SPARK Stat
-
-- COMPONENT PICKED: **LETTER-12** — Fragmented Text
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: validation-prose-with-spark-stat
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: 31.1 (Green Status Pill *(L2641)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: GF 1 section 3 visual — calibrated per level (gf)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: MECHANISM — 6 Citations + 672-Family Data
-
-- ROLE slot: `mechanism-6-citations-672-family-data`
-
-- INTENT: mechanism block — MECHANISM — 6 Citations + 672-Family Data
-
-- COMPONENT PICKED: **23.1** — Magazine Masthead
-
-  - Currently used: 38/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: mechanism-mint-callout-with-six-citations-and-672-data
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: PRODEEP-1 (The Material Story *(L10375)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: GF 1 section 4 visual — calibrated per level (gf)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: OFFER — 3+3 Bundle + 60-Day Guarantee
-
-- ROLE slot: `offer-3-3-bundle-60-day-guarantee`
-
-- INTENT: guarantee block — OFFER — 3+3 Bundle + 60-Day Guarantee
-
-- COMPONENT PICKED: **STORYDEEP-13** — The Movie Scene
-
-  - Currently used: 38/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
+- ROLE slot: pricing-box-mint-with-rotation-story
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PRODEEP-2 (The Comparison Matrix *(L10407)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: GF 1 section 5 visual — calibrated per level (gf)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
+- ROLE slot: lena-signoff-medium-with-reply-ps
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: UTIL-10 (Legal Text *(L7739)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 7/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (gf)
 
-- ROLE slot: `lena-sign-off-medium-variant-reply-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
+### Tracker updates
+- component-usage.json: incremented ['PRICE-1', 'BONUS-10', 'DEEP-10', '31.1', 'PRODEEP-1', 'PRODEEP-2', 'UTIL-10']
+- image-usage.json: incremented ['lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/diaper-woodland-creature-yellow.jpg', 'resized/washing-machine.jpg', 'flat-lay/swim-diaper-giraffe-yellow.jpg']
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
-
-  - Currently used: 6/8 (under cap; was EMODEEP-15 The Emotional Weather which is L2-only emotional_support component, not appropriate for GF lena-sign-off)
-  - WHY: by-name position+audience match. EMODEEP-01 Quiet Re-engagement is an emotional_support component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF sign-off.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- WINBACK CALIBRATION CHECK: ✅ gentle, permission-not-to-buy
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6

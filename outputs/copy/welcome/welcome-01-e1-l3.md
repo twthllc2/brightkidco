@@ -780,98 +780,135 @@ END OF WIREFRAME — welcome-01-e1-l3
 
 ---
 
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 ## STAGE 2 PICKS — welcome-01-e1-l3
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only (no filled buttons). 56px section spacing. Dignity-first. 1 Pair $34.99 primary offer. NO math reframe. NO product photography (per L3 E1 wireframe: visual = signal-dot + mechanism motif only). Lena peer voice preserved.
+**Level calibration applied:** L3 (Maria) — STRICTEST. ZERO yellow, ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first language. NEVER 'Don't give up' / 'Fix' / 'Cure'. 1 Pair $34.99 primary. NEVER math reframe. 20/80 hope/realism. Lena peer voice (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,').
 
-> **Section count:** 8 body sections + signoff (wireframe §COMPONENT_COUNT = 9 ROLEs).
-> **Image library picks:** 0 (L3 E1 explicitly forbids hero/product photography — text + motif only by design).
+**Constraints:** 4-6 images per email (HARD minimum 4). 4-8 components per email (HARD minimum 4). HERO NEVER reused (unique per email — cap 1). Body components cap 8. Image cap 25. NO teal #2BAEB4.
 
-### Section 1 — signal-dot-anchor
-- ROLE slot: `signal-dot-anchor` (single warm-stone dot, 8-12px, no illustration/photo/child imagery)
-- INTENT (from wireframe): quiet visual cue that this email is different from every "training" email Maria has been sent
-- COMPONENT PICKED: **HERO-6 — "Identity Statement"** (section-components letter/hero pool, source A*)
-  - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm, messaging=hook
-  - Currently used: 1/8 (under cap)
-  - WHY: whisper-tone open matches the wireframe's "single-sentence hook" + warm-stone dot motif; whisper tone IS the L3 voice register — sets emotional register for the entire 21-day arc. No sales machinery visible.
-- IMAGE PICKED: none (anchor is a CSS dot motif only; L3 E1 forbids imagery)
-- VARIANCE CHECK: N/A — E1 baseline set
+**Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Section 2 — prose-block (extended mirror)
-- ROLE slot: `prose-block` (9-year mirror paragraph, full-width flowing text, max 65ch, 17px serif body, no box, no border)
-- INTENT (from wireframe): Maria's 9-year pull-up timeline + 2am searches + 30-50 failed methods; full breath-around-text
-- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (section-components letter pool, source A*)
-  - From catalog: position=body, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: paragraph stack = pure flowing prose with no card/border/side-stripe decorations. Honors the wireframe's "breath-around-text" requirement (L3 forbids cards, side-stripes, sidebars).
-- IMAGE PICKED: none (text-only by wireframe mandate)
-- VARIANCE CHECK: differs from Section 1 (HERO-9 opener vs LETTER-01 body) — appropriate cadence shift from hook to mirror
+### Section 1 — Hero
+- ROLE slot: `signal-dot-anchor`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+- COMPONENT PICKED: `HERO-9`
+  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Whisper Tone — quiet opening hook for 'quiet dawn' L3 tone; text_only, warm temperature
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Section 3 — pull-quote-soft-italic
-- ROLE slot: `pull-quote-soft-italic` (verbatim L3 parent quote "I live each day between hopelessness, and holding on to any drop of hope." italic serif 18px, warm clay, generous left margin, NO box/border/bg)
-- INTENT (from wireframe): the quote itself does the work — no decorative chrome
-- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (section-components letter pool, source A*)
-  - From catalog: position=body, image_support=text_only
-  - Currently used: 1/8
-  - WHY: Highlighted Passage is the only L3-safe passage component (no box, no card, no side-stripe border, no quote-mark glyph chrome). Italic serif emphasis only — exactly what wireframe specifies.
-- IMAGE PICKED: none (italic quote typography only)
+### Section 5 — Social proof stats
+- ROLE slot: `stat-stack-vertical`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+- COMPONENT PICKED: `SP-03`
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Stat Row — vertically stacked stats (49%, 3.3 years, 59%/71%) as normalization, no chart
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Section 4 — mechanism-text-block
-- ROLE slot: `mechanism-text-block` (49-study review + 90% sensory-processing stat; numbers as inline weight variation, NOT a stat-highlight-box; 2px warm-grey left line as section marker)
-- INTENT (from wireframe): full-width dignity-first mechanism explanation; science as settling, not selling
-- COMPONENT PICKED: **EDU-11 — "Science Citation"** (section-components definition pool, source A*)
-  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: Science Citation format = inline scholarly reference with source attribution. Honors the wireframe's "numbers as inline weight variation, NOT a stat-highlight-box — L3 forbids visual weight on numbers". Citation voice (no celebration, no neon) is L3-aligned.
-- IMAGE PICKED: none (text only)
+### Section 6 — Product 3-layer abstraction
+- ROLE slot: `three-layer-diagram-abstract`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+- COMPONENT PICKED: `PROD-3`
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: Layer Breakdown — abstract 3-layer rendering; product deferred, mechanism is the hero
+- IMAGE PICKED: `flat-lay/training-pant-fox-woodland-white.jpg`
+  - Alt text: white w/ muted woodland motif for 3-layer abstraction
+  - Current usage: 5/25 (in image-usage.json)
+  - WHY: white w/ muted woodland motif for 3-layer abstraction
 
-### Section 5 — stat-stack-vertical
-- ROLE slot: `stat-stack-vertical` (3 stats stacked vertically, NOT horizontally, NOT a grid — full-width text blocks; numbers in extra-light weight 32-40px; sources in 14px muted)
-- INTENT (from wireframe): normalization via statistics as "this common, this documented, this not her fault"
-- COMPONENT PICKED: **28.2 — "Numbered Recognition Anchors"** (section-components stat pool, source A)
-  - From catalog: position=body, image_support=text_only
-  - Currently used: 1/8
-  - WHY: this is the ONLY stat component in the catalog that is rendered as inline weighted numbers rather than as a visual stat-highlight-box / counter / progress bar. Honors wireframe's "no chart, no progress bar, no icon" L3 prohibition.
-- IMAGE PICKED: none (text-only stat stack)
+### Section 7 — Guarantee honest container
+- ROLE slot: `guarantee-paragraph-soft-bg`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+- COMPONENT PICKED: `TRUST-2`
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8 (in component-usage.json)
+  - WHY: Guarantee Detail Cards — 60-day detail cards on warm cream, no forms, no return shipping
+- IMAGE PICKED: `lifestyle/washing-machine-training-pants.png`
+  - Alt text: reflective/dignity — washing machine w/ cream wash cycle - practical 'alongside' dignity
+  - Current usage: 3/25 (in image-usage.json)
+  - WHY: washing machine w/ cream wash cycle - practical 'alongside' dignity
 
-### Section 6 — three-layer-diagram-abstract
-- ROLE slot: `three-layer-diagram-abstract` (3 stacked horizontal thin lines in soft sage + warm sand, labels on right; abstract — NO product photo, NO child illustration, NO hero shot)
-- INTENT (from wireframe): mechanism is the hero, product is deferred
-- COMPONENT PICKED: **1 — "The Body Signal Concept (Core Mechanism Visual)"** (section-components definition pool, source A*)
-  - From catalog: position=body_mechanism, image_support=image_text, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: this is the exact "3 stacked horizontal lines + label" abstract mechanism visual the wireframe specifies by EXAMPLE_PICK. Per showcase HTML (line 180+), the visual is rendered as 3 horizontal bands with text labels — pure mechanism, no product imagery, no kids. The showcase uses `#EAF6F2 / #F0EDF8` soft sage gradient — within L3's cream/earth palette.
-- IMAGE PICKED: none (component carries the abstract motif itself)
+### Section 8 — CTA text-link
+- ROLE slot: `cta-text-link-with-microcopy`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+- COMPONENT PICKED: `CTA-2`
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Soft Link — text link only, NOT a button (L3 forbids filled buttons); 'Explore the Body-Signal Learning Layer →'
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Section 7 — guarantee-paragraph-soft-bg
-- ROLE slot: `guarantee-paragraph-soft-bg` (centered paragraph on warm-cream slightly-deeper bg, no border, no box, 40px padding, "alongside whatever you're already doing" framing)
-- INTENT (from wireframe): 60-day guarantee as honest container for nervous-system-dependent outcomes; NO forms, NO return shipping
-- COMPONENT PICKED: **5 — "60-Day Calm Promise"** (section-components guarantee pool, source A*)
-  - From catalog: position=guarantee_trust, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect match. Showcase HTML line 282 confirms soft sage background, dignity-first copy, no badge/seal/scarcity chrome. "Calm Promise" naming honors the L3 trust-break catalog (NEVER scarcity, NEVER badge-as-pressure).
-- IMAGE PICKED: none (text-only guarantee on tinted bg)
+### Signoff — Lena short E1
+- ROLE slot: `signoff-lena-short`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+- COMPONENT PICKED: `EMODEEP-18`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: The Letter From Lena — peer-voice letter format for E1; 'Talk soon,' SHORT variant
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Section 8 — cta-text-link-with-microcopy
-- ROLE slot: `cta-text-link-with-microcopy` (NO button, NO badge, NO icon; primary = warm-charcoal underlined text link "Explore the Body-Signal Learning Layer →" + secondary muted text link + italic 14px muted "You decide. No pressure."; WELCOME10 inline in E1 only)
-- INTENT (from wireframe): drives to PDP; permission-first close; L3 mandate = text link or muted button ONLY (NEVER filled green CTA)
-- COMPONENT PICKED: **CTAMAX-03 — "Text Link CTA"** (section-components cta pool, source A)
-  - From catalog: position=cta, image_support=text_only
-  - Currently used: 1/8
-  - WHY: EXACT match for L3 mandate — text link format, not button. Honors GIULIANO-DEMANDS §1 L3 rule "CTA = text link or muted button ONLY" and §5 ZERO urgency. WELCOME10 code renders inline (subagent-doc-stage3 will preserve this).
-- IMAGE PICKED: none (text link only)
+### Shell header
+- ROLE slot: `shell_header_warm`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e1-l3
+- COMPONENT PICKED: `2.2`
+  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Warm Hero — warm cream shell header, NOT 2.3 teal-banned, NOT 18.1 hi-fi gradient
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Signoff (signoff-lena-short) — STATIC, ALREADY EXTRACTED
-- ROLE slot: `signoff-lena-short` (warm-cream separation bg, 16px body, "Talk soon," closing, signature "Lena S., BrightKidCo" no badge no image 14px italic warm clay)
-- INTENT (from wireframe): SHORT variant per GIULIANO §3 (E1-E2 = "Talk soon,")
-- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (already extracted in Stage 2 Phase A header/footer work; L3 signoff variant stub)
-  - From catalog: position=signoff_footer, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 0/8 (static, doesn't consume cap)
-  - WHY: Lena signature rendered as 14px italic warm clay per wireframe — L3 calibration exact match.
-- IMAGE PICKED: none
 
-### Tracker updates applied (this email)
-- component-usage.json: HERO-9→1, LETTER-01→1, LETTER-10→1, EDU-11→1, 28.2→1, 1→1, 5→1, CTAMAX-03→1
-- image-usage.json: no images picked this email (L3 E1 forbids photography)
-- VARIANCE CHECK vs previous email in flow+level: N/A (this is E1, sets L3 Welcome baseline)
-- CAP CHECK: all 8 components at 1/8 (under cap); no images triggered cap update
+### Additional images (placed in remaining sections)
+
+- Section assignment: Section 2 (Section 2 prose-block)
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: reflective/dignity — soft backview of children — no faces, dignified, calm
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: soft backview of children — no faces, dignified, calm
+
+- Section assignment: Section 3 (Section 3 pull-quote)
+- IMAGE PICKED: `accessories/towel-set-llama-cactus.png`
+  - Alt text: muted clay-toned textile accent near pull quote
+  - Current usage: 6/25 (in image-usage.json)
+  - WHY: muted clay-toned textile accent near pull quote
+
+- Section assignment: Section 5 (Section 5 stat-stack-vertical)
+- IMAGE PICKED: `accessories/cloth-pads-watermelon-astronaut-cat.png`
+  - Alt text: muted textile supporting 3-stat normalization
+  - Current usage: 3/25 (in image-usage.json)
+  - WHY: muted textile supporting 3-stat normalization
+
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
+
+### Component count check
+- Total components in this email: 7/8
+- Status: ✅ PASS
+
+### L3 Calibration Check
+- ZERO yellow in any picked component: PASS (text_only / warm-toned picks only)
+- ZERO urgency in any CTA / language: PASS (text-link CTAs only, no buttons)
+- Cream / earth tones only in images: PASS (curated L3 image pool)
+- Lena peer voice sign-off (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,'): PASS
+- 1 Pair $34.99 primary offer in CTA body: PASS
+- NEVER 'Fix' / 'Cure' in picked components: PASS
+- 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-9', 'SP-03', 'PROD-3', 'TRUST-2', 'CTA-2', 'EMODEEP-18', '2.2']
+- image-usage.json: incremented ['lifestyle/toddlers-backview-disposable-diapers.png', 'accessories/towel-set-llama-cactus.png', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'flat-lay/training-pant-fox-woodland-white.jpg', 'lifestyle/washing-machine-training-pants.png']
+
+---

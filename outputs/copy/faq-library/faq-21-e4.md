@@ -596,157 +596,44 @@ END OF WIREFRAME — faq-21-e4
 
 ---
 
+---
+
 ## STAGE 2 PICKS — faq-21-e4
 
 
-> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** faq-library | **Position:** E4 | **Level:** GF
-
-
-### Section 1: HOOK — THREE QUESTIONS, ONE ROOT
-
-- ROLE slot: `hook-three-questions-one-root`
-
-- INTENT: hook block — HOOK — THREE QUESTIONS, ONE ROOT
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 2: PARTNER OBJECTION — DECISION + GUARANTEE
-
-- ROLE slot: `partner-objection-decision-guarantee`
-
-- INTENT: guarantee block — PARTNER OBJECTION — DECISION + GUARANTEE
-
-- COMPONENT PICKED: **REV-07** — After Permission Reversal
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 3: COST OBJECTION — RISK REMOVAL (L3-SAFE)
-
-- ROLE slot: `cost-objection-risk-removal-l3-safe`
-
-- INTENT: faq block — COST OBJECTION — RISK REMOVAL (L3-SAFE)
-
-- COMPONENT PICKED: **OBJ-15** — FAQ Accordion
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 4: BRAND OBJECTION — MECHANISM + LENA PEER
-
-- ROLE slot: `brand-objection-mechanism-lena-peer`
-
-- INTENT: mechanism block — BRAND OBJECTION — MECHANISM + LENA PEER
-
-- COMPONENT PICKED: **4** — The Pull-Up Villain Card
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 5: COMMON THREAD UNIFICATION
-
-- ROLE slot: `common-thread-unification`
-
-- INTENT: default block — COMMON THREAD UNIFICATION
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 6: SIGN-OFF + INLINE CTA
-
-- ROLE slot: `sign-off-inline-cta`
-
-- INTENT: signoff block — SIGN-OFF + INLINE CTA
-
-- COMPONENT PICKED: **EMODEEP-14** — The Identity Reframe
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 7: P.S. — DOUBLE P.S. (PARTNER SUMMARY + GUARANTEE)
-
-- ROLE slot: `p-s-double-p-s-partner-summary-guarantee`
-
-- INTENT: guarantee block — P.S. — DOUBLE P.S. (PARTNER SUMMARY + GUARANTEE)
-
-- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 8: FOOTER — BRAND SIGNATURE BLOCK
-
-- ROLE slot: `footer-brand-signature-block`
-
-- INTENT: signoff block — FOOTER — BRAND SIGNATURE BLOCK
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
+> **FAQ Objection #4 — Partner / Cost / Brand objections** — Cross-Level (R1-R6 + V16 + GF levers).
+> FAQ objection-handling email — gentle, mechanism-first. Components chosen to support objection resolution without pressure. R1 (no labels) preserved throughout.
+
+
+### Components (7/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| PROSE-HOOK-3-QUOTES | **EMO-4** | Three-quote opener — partner/cost/brand objections |
+| OBJECTION-PARTNER | **PSYCH-03** | Vertical validation — partner/decision objection |
+| OBJECTION-COST | **CMP-2** | Vertical risk-removal — cost objection L3-safe |
+| OBJECTION-BRAND-MECH-PEER | **EDU-14** | Vertical mechanism + Lena peer — brand objection |
+| UNIFICATION-TRUST-REBUILD | **EMODEEP-03** | Common-thread unification prose |
+| LENA-SIGNOFF-MED-INLINE-CTA | **UTIL-10** | Medium Lena sig with inline CTA (signoff_footer role) |
+| DOUBLE-PS-PARTNER-MECH | **TRUST-7** | Double P.S. — partner summary + mechanism |
+| LENA-MED-INLINE + DOUBLE-PS + FOOTER | **UTIL-09** | Footer with signature line |
+
+### Images (4/6)
+
+- `lifestyle/toddler-outdoors-grass-disposable-diaper.png` — Toddler outdoors on grass. (Current: 5/25)
+- `flat-lay/swim-diaper-whale-ocean-blue.jpg` — Whale ocean blue swim diaper flat-lay. (Current: 2/25)
+- `accessories/potty-targets-stickers-chart.png` — Potty targets stickers chart. (Current: 6/25)
+- `accessories/book-potty-training-guide.png` — Potty training guide book. (Current: 3/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+- `component-usage.json`: EMO-4 4 → 5
+- `component-usage.json`: PSYCH-03 2 → 3
+- `component-usage.json`: CMP-2 0 → 1
+- `component-usage.json`: EDU-14 0 → 1
+- `component-usage.json`: EMODEEP-03 3 → 4
+- `component-usage.json`: UTIL-10 0 → 1
+- `component-usage.json`: TRUST-7 1 → 2
+- `image-usage.json`: `lifestyle/toddler-outdoors-grass-disposable-diaper.png` 5 → 6
+- `image-usage.json`: `flat-lay/swim-diaper-whale-ocean-blue.jpg` 2 → 3
+- `image-usage.json`: `accessories/potty-targets-stickers-chart.png` 6 → 7
+- `image-usage.json`: `accessories/book-potty-training-guide.png` 3 → 4

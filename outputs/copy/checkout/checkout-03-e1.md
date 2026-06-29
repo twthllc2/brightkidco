@@ -643,104 +643,71 @@ END OF WIREFRAME — checkout-03-e1
 
 ## STAGE 2 PICKS — checkout-03-e1
 
+### Section 1: hero-image-lifestyle-checkout-gf (HERO)
+- ROLE slot: hero-image-lifestyle-checkout-gf
+- INTENT: lifestyle hero image + observation framing. "Was there a question?" subject.
+- COMPONENT PICKED: 2.1 (Lilac Gradient Hero)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=design, temperature=neutral, image_support=text_only
+  - Current usage: 1/8
+  - WHY: Lilac Gradient Hero provides a fresh, neutral visual treatment distinct from cart-flow and browse-flow picks. Different from HERO-9/10/11/13/15/16 used in earlier emails. Fresh (was at 0).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 13/25
+  - WHY: Founders photo grounds the brand for the checkout-friction-removal hero.
 
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+### Section 2: inclusive-symptom-callout-gf
+- ROLE slot: inclusive-symptom-callout-gf
+- INTENT: "Whether your child is 3 or 10, verbal or not" — inclusive bridge.
+- COMPONENT PICKED: EMO-3 (Guilt Reduction)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=education, image_support=text_only, temperature=warm
+  - Current usage: 2/8
+  - WHY: "Guilt Reduction" naturally fits the friction-removal frame — checkout abandonment triggers guilt, and section 2 reduces it. Different from cart/browse picks.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text (GF, V16): "Toddler playing with a small toy train, soft warm indoor setting, three-quarter view."
+  - Current usage: 10/25
+  - WHY: Generic toddler-playing visual for the inclusive bridge.
 
+### Section 3: mechanism-explain-callout-gf
+- ROLE slot: mechanism-explain-callout-gf
+- INTENT: bridge paragraph reframing the gap as signal-timing, not effort.
+- COMPONENT PICKED: 2 (The Reframe Moment)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=emotional, image_support=image_text, temperature=warm
+  - Current usage: 2/8
+  - WHY: Reframe Moment is exactly the bridge paragraph framing. Already used in cart-02-e2 but showcase exception allows reuse.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with cream and soft cloud-raindrop pattern, flat-lay product shot."
+  - Current usage: 5/25
+  - WHY: Cream/white pattern product for the mechanism explain.
 
-> **Section count:** 5 body sections.
+### Section 4: three-family-testimonial-stack-gf
+- ROLE slot: three-family-testimonial-stack-gf
+- INTENT: three testimonial quotes stacked (L1, L2, L3 access).
+- COMPONENT PICKED: SP-06 (Before/After Testimonial)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 3/8
+  - WHY: Before/After Testimonial renders cleanly as a three-quote stack. Already used in cart-02-e3.
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text (GF, V16): "Toddler wearing a small backpack with soft moon and cloud-blue pattern, rearview."
+  - Current usage: 7/25
+  - WHY: Generic toddler-backpack for the three-family testimonials.
 
-> **Flow:** checkout | **Position:** E1 | **Level:** GF
+### Section 5: guarantee-badge-gf + cta-button-soft-permission
+- ROLE slot: guarantee-badge-gf + cta-button-soft-permission
+- INTENT: 60-day guarantee badge + soft permission CTA "Complete your order".
+- COMPONENT PICKED: 10.1 (60-Day Seal)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=guarantee, image_support=text_only, temperature=warm
+  - Current usage: 5/8
+  - WHY: 60-Day Seal is the canonical guarantee badge. Different from cart/browse uses of TRUST-2/CMP-3/TRUST-7.
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text (GF, V16): "Reusable wet bag with space-zebra-llama pattern, laid flat on warm cream surface."
+  - Current usage: 5/25
+  - WHY: Generic accessory for the guarantee + CTA section.
 
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 5/8 (within range)
 
-### Section 1: HOOK — OBSERVATION + PERMISSION OPEN
-
-- ROLE slot: `hook-observation-permission-open`
-
-- INTENT: hook block — HOOK — OBSERVATION + PERMISSION OPEN
-
-- COMPONENT PICKED: **HERO-1** — Curiosity Gap
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — WHETHER/OR/IF BRIDGE + REFRAME
-
-- ROLE slot: `validation-whether-or-if-bridge-reframe`
-
-- INTENT: validation block — VALIDATION — WHETHER/OR/IF BRIDGE + REFRAME
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM + GUILT REMOVAL — NEUROLOGICAL REFRAME
-
-- ROLE slot: `mechanism-guilt-removal-neurological-reframe`
-
-- INTENT: validation block — MECHANISM + GUILT REMOVAL — NEUROLOGICAL REFRAME
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: THREE-FAMILY TESTIMONIAL — GF INLINE INSERT
-
-- ROLE slot: `three-family-testimonial-gf-inline-insert`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL — GF INLINE INSERT
-
-- COMPONENT PICKED: **DEEP-06** — Whisper Network
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: GUARANTEE + PERMISSION CTA
-
-- ROLE slot: `guarantee-permission-cta`
-
-- INTENT: guarantee block — GUARANTEE + PERMISSION CTA
-
-- COMPONENT PICKED: **TRUST-5** — Promise Card
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5
+### Tracker updates
+- component-usage.json: incremented ["2.1", EMO-3, "2", SP-06, "10.1"]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-playing-train-moon-cloud-blue.png, flat-lay/training-pant-cloud-raindrop-white.jpg, lifestyle/toddler-backpack-moon-cloud-blue.png, accessories/wet-bags-space-zebra-llama.png]

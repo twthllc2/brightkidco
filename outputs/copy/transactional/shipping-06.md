@@ -679,106 +679,42 @@ END OF WIREFRAME — shipping-06
 
 ---
 
+---
+
 ## STAGE 2 PICKS — shipping-06
 
 
-> **Transactional Calibration:** NO marketing. NO promotions. Hidden plain-text fallback. Confirmation-only.
+> **Transactional — Shipment Notification (Flow 06)** — Cross-Level (R1-R6 + V16 + GF levers).
+> Per GIULIANO-DEMANDS §17.7: predominantly transactional per Google 2024 guidelines. Hidden plain-text fallback div mandatory. NO marketing elements (no countdown, no promo badges, no urgency cues). Image count is intentionally LOWER than the 4-image hard min — variant documented below.
 
 
-> **Section count:** 5 body sections.
+### Components (8/8)
 
-> **Flow:** transactional | **Position:** E2 | **Level:** GF
+| Role | Component ID | Reason |
+|---|---|---|
+| STATUS-BAR-SHIPPED | **UTIL-07** | Neutral bar '✓ SHIPPED' with tracking availability note |
+| TRACKING-CALLOUT-CARD | **CMP-5** | Rounded tracking callout card on cream |
+| PKG-JOURNEY-DOTTED-LINE | **PSYCH-01** | SVG dotted cottage-to-doorstep journey |
+| PROSE-3-LAYER-BULLETED | **STORY-02** | Three-layer underwear mechanism bullets |
+| PROSE-CARE-TIP | **EMO-3** | Lena voice care tip prose — wash + maintain |
+| PROSE-WEEK-1 | **EDU-1** | Week-1 expectations — R2 anchors prose |
+| GUARANTEE-BAND | **TRUST-1** | Cream band — risk reversal (variant from order-05) |
+| CTA-PILL-TRACK | **CTA-9** | Brand-green pill 'Track my package' |
+| LENA-SIGNOFF-SHORT + FOOTER | **12.1** | Lena sig + BKC footer |
 
+### Images (1/6)
 
-### Section 1: SHIPMENT NOTIFICATION — PRIMARY TRANSACTIONAL
+- `branding/black-placeholder.png` — BrightKidCo logo lockup. (Current: 1/25)
 
-- ROLE slot: `shipment-notification-primary-transactional`
-
-- INTENT: transactional block — SHIPMENT NOTIFICATION — PRIMARY TRANSACTIONAL
-
-- COMPONENT PICKED: **LETTER-09** — Double Column
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 2: WHAT'S IN THE PACKAGE
-
-- ROLE slot: `what-s-in-the-package`
-
-- INTENT: default block — WHAT'S IN THE PACKAGE
-
-- COMPONENT PICKED: **M3** — Testimonial Card (Mobile)
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 3: WHEN IT ARRIVES — FIRST STEPS
-
-- ROLE slot: `when-it-arrives-first-steps`
-
-- INTENT: signoff block — WHEN IT ARRIVES — FIRST STEPS
-
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 4: WEEK 1 EXPECTATIONS
-
-- ROLE slot: `week-1-expectations`
-
-- INTENT: education block — WEEK 1 EXPECTATIONS
-
-- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
-
-### Section 5: GUARANTEE REINFORCEMENT
-
-- ROLE slot: `guarantee-reinforcement`
-
-- INTENT: guarantee block — GUARANTEE REINFORCEMENT
-
-- COMPONENT PICKED: **EJ1** — Before/After Transformation
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- TX CALIBRATION CHECK: ✅ no marketing, no promotions
-
+**Image variance (transactional §17.7)**: GIULIANO §17.7 — 1 image (logo). Variance from 4-image min documented.
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5
+- `component-usage.json`: UTIL-07 1 → 2
+- `component-usage.json`: CMP-5 1 → 2
+- `component-usage.json`: PSYCH-01 1 → 2
+- `component-usage.json`: STORY-02 0 → 1
+- `component-usage.json`: EMO-3 2 → 3
+- `component-usage.json`: EDU-1 1 → 2
+- `component-usage.json`: TRUST-1 4 → 5
+- `component-usage.json`: CTA-9 1 → 2
+- `image-usage.json`: `branding/black-placeholder.png` 1 → 2

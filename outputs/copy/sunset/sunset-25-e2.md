@@ -1001,157 +1001,46 @@ END OF WIREFRAME — sunset-25-e2
 
 ---
 
+---
+
 ## STAGE 2 PICKS — sunset-25-e2
 
 
-> **Sunset Calibration:** Dignified farewell. NO retention pressure. NO countdown. NO scarcity.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** sunset | **Position:** E2 | **Level:** GF
-
-
-### Section 1: HEADER — "OPEN DOOR" VISUAL EASTER EGG
-
-- ROLE slot: `header-open-door-visual-easter-egg`
-
-- INTENT: image_block block — HEADER — "OPEN DOOR" VISUAL EASTER EGG
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 2: HOOK — "THIS OUR LAST EMAIL"
-
-- ROLE slot: `hook-this-our-last-email`
-
-- INTENT: hook block — HOOK — "THIS OUR LAST EMAIL"
-
-- COMPONENT PICKED: **EMODEEP-14** — Quiet Farewell
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 3: RECOGNITION ANCHORS — R2 BLOCK
-
-- ROLE slot: `recognition-anchors-r2-block`
-
-- INTENT: validation block — RECOGNITION ANCHORS — R2 BLOCK
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 4: VALIDATION + MECHANISM — GENTLE
-
-- ROLE slot: `validation-mechanism-gentle`
-
-- INTENT: validation block — VALIDATION + MECHANISM — GENTLE
-
-- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 5: PERMISSION / GENTLE CLOSE — "STILL HERE"
-
-- ROLE slot: `permission-gentle-close-still-here`
-
-- INTENT: cta block — PERMISSION / GENTLE CLOSE — "STILL HERE"
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 6: LENA SIGN-OFF — LONG VARIANT (FINAL GOODBYE)
-
-- ROLE slot: `lena-sign-off-long-variant-final-goodbye`
-
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT (FINAL GOODBYE)
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 7: P.S. — LATE-TRAINER ANCHOR + 60-DAY STANDING
-
-- ROLE slot: `p-s-late-trainer-anchor-60-day-standing`
-
-- INTENT: guarantee block — P.S. — LATE-TRAINER ANCHOR + 60-DAY STANDING
-
-- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
-
-### Section 8: FOOTER — STATIC
-
-- ROLE slot: `footer-static`
-
-- INTENT: signoff block — FOOTER — STATIC
-
-- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- SUNSET CALIBRATION CHECK: ✅ dignified farewell
-
+> **Sunset E2 — Final goodbye + 60-day standing** — Cross-Level (R1-R6 + V16 + GF levers).
+> Sunset email — dignified farewell respecting the user's choice. NO aggressive CTAs. The CTA on E1 (stay-affirmation) is a permission button, not a push.
+
+
+### Components (7/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| HEADER-OPEN-DOOR-EASTER-EGG | **HERO-23** | Custom fresh hero — open-door easter egg illustration |
+| PROSE-HOOK-PERMISSION | **EMODEEP-17** | Permission-frame hook — 'this is our last email' |
+| RECOGNITION-ANCHORS-R2 | **DEEP-21** | Recognition anchors paragraph with em-dash markers |
+| VALIDATION-MECH-CALLOUT | **EDUDEEP-3** | Mint-callout validation + mechanism prose |
+| PERMISSION-CLOSE-NO-CTA | **PSYCH-11** | Permission close paragraph — no CTA, dignified |
+| LENA-SIGNOFF-LONG-FINAL-GOODBYE | **33.2** | Long-variant final goodbye sig |
+| PS-LATE-TRAINER-60D-STANDING | **TRUSTDEEP-3** | P.S. — late-trainer + 60-day standing offer |
+| LENA-SIGNOFF-LONG-FINAL-GOODBYE + PS-LATE-60D + FOOTER | **33.2** | Final goodbye Lena + late-trainer 60-day P.S. + standard footer |
+
+### Images (5/6)
+
+- `flat-lay/diaper-woodland-creature-yellow.jpg` — Woodland creature yellow diaper flat-lay. (Current: 7/25)
+- `flat-lay/swim-diaper-giraffe-yellow.jpg` — Giraffe swim diaper yellow flat-lay. (Current: 1/25)
+- `flat-lay/swim-diaper-unicorn-pink.jpg` — Unicorn swim diaper pink flat-lay. (Current: 1/25)
+- `flat-lay/swim-diaper-whale-ocean-blue.jpg` — Whale ocean blue swim diaper flat-lay. (Current: 3/25)
+- `lifestyle/toddler-outdoors-grass-disposable-diaper.png` — Toddler outdoors on grass. (Current: 6/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+- `component-usage.json`: HERO-23 0 → 1
+- `component-usage.json`: EMODEEP-17 0 → 1
+- `component-usage.json`: DEEP-21 4 → 5
+- `component-usage.json`: EDUDEEP-3 0 → 1
+- `component-usage.json`: PSYCH-11 0 → 1
+- `component-usage.json`: 33.2 2 → 3
+- `component-usage.json`: TRUSTDEEP-3 0 → 1
+- `image-usage.json`: `flat-lay/diaper-woodland-creature-yellow.jpg` 7 → 8
+- `image-usage.json`: `flat-lay/swim-diaper-giraffe-yellow.jpg` 1 → 2
+- `image-usage.json`: `flat-lay/swim-diaper-unicorn-pink.jpg` 1 → 2
+- `image-usage.json`: `flat-lay/swim-diaper-whale-ocean-blue.jpg` 3 → 4
+- `image-usage.json`: `lifestyle/toddler-outdoors-grass-disposable-diaper.png` 6 → 7

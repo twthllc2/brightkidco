@@ -597,198 +597,95 @@ BrightKidCo · Built for the brain that learns differently.
 
 ---
 
-## STAGE 2 PICKS — review-18-e2
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 10 body sections.
-
-> **Flow:** review-request | **Position:** E2 | **Level:** GF
-
-
-### Section 1: BRIGHTKIDCO LETTERHEAD
-
-- ROLE slot: `brightkidco-letterhead`
-
-- INTENT: default block — BRIGHTKIDCO LETTERHEAD
-
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: SUBJECT + PREVIEW BLOCK
-
-- ROLE slot: `subject-preview-block`
-
-- INTENT: review block — SUBJECT + PREVIEW BLOCK
-
-- COMPONENT PICKED: **REV-09.4** — Review Showcase
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: OPENING — VALIDATION HOOK + UNIVERSAL RECOGNITION
-
-- ROLE slot: `opening-validation-hook-universal-recognition`
-
-- INTENT: hook block — OPENING — VALIDATION HOOK + UNIVERSAL RECOGNITION
-
-- COMPONENT PICKED: **HERO-7** — Counter-Intuitive Truth
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: RECOGNITION ANCHORS, R2
-
-- ROLE slot: `recognition-anchors-r2`
-
-- INTENT: validation block — RECOGNITION ANCHORS, R2
-
-- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: THREE-FAMILY TESTIMONIAL TRIPTYCH
-
-- ROLE slot: `three-family-testimonial-triptych`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL TRIPTYCH
-
-- COMPONENT PICKED: **STORY-09** — Quiet Witness
-
-  - Currently used: 5/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF three-family-testimonial-triptych)
-  - WHY: by-name position+audience match. STORY-09 Quiet Witness is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF testimonial-triptych.
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: GENTLE ASK + CTA BUTTON
-
-- ROLE slot: `gentle-ask-cta-button`
-
-- INTENT: cta block — GENTLE ASK + CTA BUTTON
-
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: PRIMARY CTA BUTTON
-
-- ROLE slot: `primary-cta-button`
-
-- INTENT: cta block — PRIMARY CTA BUTTON
-
-- COMPONENT PICKED: **CTA-12** — Gentle CTA
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: PERMISSION NOT TO REVIEW / SOFT OUT
-
-- ROLE slot: `permission-not-to-review-soft-out`
-
-- INTENT: cta block — PERMISSION NOT TO REVIEW / SOFT OUT
-
-- COMPONENT PICKED: **CTA-10** — Soft Button
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 9: LENA SIGN-OFF, SHORT (Peer-to-Peer, Grateful)
-
-- ROLE slot: `lena-sign-off-short-peer-to-peer-grateful`
-
-- INTENT: signoff block — LENA SIGN-OFF, SHORT (Peer-to-Peer, Grateful)
-
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 10: FOOTER
-
-- ROLE slot: `footer`
-
-- INTENT: signoff block — FOOTER
-
-- COMPONENT PICKED: **PERS-01** — Level Greeting
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 10
+## STAGE 2 PICKS - review-18-e2
+
+**GF cross-level calibration (R1-R6):** D45 review-request follow-up, story-led with 2am-search narrative. R1 symptom language (sits on toilet 20 min nothing happens, plays in wet pull-up without noticing), R2 5 anchors, R4 verbal/non-verbal inclusivity, R6 low-bar success metrics ("he touched the wet spot and looked at me"). Privacy-first text-only design - Stage 2 enforces 4-6 images so I add contextual soft product/lifestyle images. Image count target: 4-6. Component count target: 4-8. Hero UNIQUE to this email.
+
+### Section 1: SUBJECT + PREVIEW HEADLINE (HERO)
+- ROLE slot: hero-validation-hook-band ("Your story matters to someone right now")
+- INTENT: Second-ask re-engagement opener with explicit grace ("if you've been meaning to and haven't gotten to it, I get it"); peer-to-peer Lena voice carries the section.
+- COMPONENT PICKED: 22.3 (Circle Crop Hero) - position=hero, audience=L1/L2/L3/GF, temp=warm
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF, temp=warm, image_support=text_only
+  - Current usage: 0/8 (UNIQUE - fresh)
+  - WHY: "Circle Crop Hero" (22.3) is the last fresh hero variant; warm temp fits the validation-hook tone without alarming the parent; brand-fresh, not yet picked.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Two BrightKidCo founders holding a stack of yellow-and-watermelon potty training pants, candid and warm.
+  - Current usage: 5/25
+  - WHY: Founders-holding-pants visual = Lena/brand trust at the second-ask opener; softens the "asking again" framing by signaling "we're the people behind this"; warm tone.
+
+### Section 2: OPENING - VALIDATION HOOK + UNIVERSAL RECOGNITION
+- ROLE slot: opening-personal-greeting-validation-band (Hey [first_name], + grace-line)
+- INTENT: Personal greeting; grace-line ("I get it. Life with a kid who doesn't feel when they need to go doesn't leave a lot of spare minutes"); bridge to second ask.
+- COMPONENT PICKED: EMO-2 (Micro-Win Card)
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 1/8
+  - WHY: "Micro-Win Card" reframes the second-ask as a small-win opportunity ("the moment you have 2 minutes, that's enough") without pressure.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: A toddler playing on a living room floor with a wooden train, soft natural light, candid.
+  - Current usage: 8/25
+  - WHY: Quiet Pre-K play visual echoes "life with a kid who doesn't feel when they need to go doesn't leave a lot of spare minutes" - this is THEIR moment, gently anchored.
+
+### Section 3: RECOGNITION ANCHORS, R2 (5 anchors)
+- ROLE slot: anchor-list-band-5-bullets (2am-search narrative + 5 mom-relatable anchors)
+- INTENT: "There's a mom somewhere in the middle of her 2am search" + 5 anchors (sits 20 min nothing, plays in wet pull-up, almost trained 3x, can't tell you, pull-ups for years).
+- COMPONENT PICKED: EDU-3 (Checklist)
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 7/8 (cap-safe, 1 left in budget but we are at the limit)
+  - WHY: "Checklist" format consistency across replen + review flows; cap stays under 8.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: A toddler on a pink-multicolor potty ladder, soft home light, candid Pre-K moment.
+  - Current usage: 3/25
+  - WHY: Potty-ladder visual references "sits on the toilet for 20 minutes and nothing happens" anchor without implying failure; warm pink ties to rust CTA.
+
+### Section 4: THREE-FAMILY TESTIMONIAL TRIPTYCH (3 stacked cards with colored left borders)
+- ROLE slot: testimonial-triptych-stacked-cards-colored-borders (L1 amber / L2 teal / L3 sage)
+- INTENT: Three honest-stories - Sarah (almost to staying dry) / Lisa (paused + looked + walked) / Maria (first touch in 9 years).
+- COMPONENT PICKED: SP-13 (Review of the Week)
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 5/8 (cap-safe, 3 left)
+  - WHY: "Review of the Week" continues from review-18-e1 for consistency in this review-request flow.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: A young child in dinosaur-print underpants on a soft living room floor, soft natural light.
+  - Current usage: 8/25
+  - WHY: Home dinosaur visual anchors the testimonial triptych as "the kids behind these stories"; warm ties to amber L1 border accent.
+
+### Section 5: GENTLE ASK + PRIMARY CTA (rust/terracotta #C4764A)
+- ROLE slot: gentle-ask-band + rust-primary-cta-button + permission-not-to-review-soft-out
+- INTENT: "Here's the ask, and it's a small one"; permission-toned ask; permission-not-to-review soft-out.
+- COMPONENT PICKED: CTA-7 (Next Teaser)
+  - Catalog entry: position=cta, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 1/8
+  - WHY: "Next Teaser" CTA fits a peer-toned "share your experience" close that frames the action as a future-facing peer invitation rather than a hard sell.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: BrightKidCo sticker chart and potty-target accessories on a neutral surface.
+  - Current usage: 4/25
+  - WHY: Sticker chart visual echoes the "2-minute review" frame-setting without implying unmet targets; warm neutral surface ties to rust CTA.
+
+### Section 6: PERMISSION NOT TO REVIEW (Soft Out)
+- ROLE slot: permission-not-to-review-soft-out-line + soft-CTA-line
+- INTENT: "And if thisn't the right moment... no hard feelings. This email is the last one you'll get from me on reviews." Permission-rich close.
+- COMPONENT PICKED: EMO-12 (Hope Gradient)
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 1/8
+  - WHY: "Hope Gradient" applies a gentle emotional gradient for the final "whether you leave one or not, I'm glad you gave us a try" close.
+
+### Section 7: LENA SIGN-OFF (SHORT variant, E2 of Flow 18 - peer-to-peer/grateful)
+- ROLE slot: signoff-lena-short-cream-divider (Thanks for being here. + reply delivery signal.)
+- INTENT: Lena SHORT variant for E2 of Flow 18 - peer-to-peer/grateful tone; reply-deliverability reinforcement.
+- COMPONENT PICKED: UTIL-05 (Signoff Card [G+])
+  - Catalog entry: position=signoff_footer, audience=GF, temp=warm (Giuliano source)
+  - Current usage: 6/8 (cap-safe, 2 left)
+  - WHY: Canonical cream-card signoff carries the same peer-tone voice as review-18-e1 for flow consistency.
+
+### Image count check
+- Total images in this email: 5/6 (target range 4-6). 1 hero + 2 hook/reco + 1 testimonial + 1 ask.
+- Status: PASS
+- Total components: 7/8. Status: PASS.
+
+### Hero uniqueness check
+- 22.3 used: 1/1 (this email only). Zero reuse. OK.
+
+### Tracker updates
+- component-usage.json: +1 to [22.3, EMO-2, EDU-3, SP-13, CTA-7, EMO-12, UTIL-05] (post-update: 22.3 1, EMO-2 2, EDU-3 8, SP-13 6, CTA-7 2, EMO-12 2, UTIL-05 7; all at-or-under 8-cap with EDU-3 at the limit)
+- image-usage.json: +1 to [lifestyle/founders-holding-pants-yellow-watermelon.png 6, lifestyle/toddler-playing-train-moon-cloud-blue.png 9, lifestyle/toddler-potty-ladder-pink-multicolor.png 4, lifestyle/toddler-livingroom-dino-yellow.png 9, accessories/potty-targets-stickers-chart.png 5] (all under 25 cap)

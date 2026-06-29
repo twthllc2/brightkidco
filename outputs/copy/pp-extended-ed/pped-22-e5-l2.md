@@ -1078,140 +1078,97 @@ END OF WIREFRAME — pped-22-e5-l2
 
 ## STAGE 2 PICKS — pped-22-e5-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E15 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e5-l2
+- COMPONENT PICKED: FLOWIMG-001 (Welcome Hero *(L19482)*)
+  - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e5-l2, level=l2, theme=5. Calibrated per level.
 
 ### Section 1: HOOK — PLATEAU RECOGNITION MIRROR
-
-- ROLE slot: `hook-plateau-recognition-mirror`
-
-- INTENT: hook block — HOOK — PLATEAU RECOGNITION MIRROR
-
-- COMPONENT PICKED: **HERO-11** — Question Storm
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 12/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: prose-block-with-plateau-recognition-mirror
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORYDEEP-14 (The Dictionary Entry *(L10193)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: L2 5 section 1 visual — calibrated per level (l2)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: MECHANISM — CONSOLIDATION PHASE REFRAME
-
-- ROLE slot: `mechanism-consolidation-phase-reframe`
-
-- INTENT: validation block — MECHANISM — CONSOLIDATION PHASE REFRAME
-
-- COMPONENT PICKED: **DEEP-21** — Expert Whisper
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: mechanism-paragraph-stack-with-consolidation-phase-reframe
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EDUDEEP-4 (The Interoception Test *(L10745)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: L2 5 section 2 visual — calibrated per level (l2)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: 3 PLATEAU CARDS — TROUBLESHOOTING (ELEMENT ④ + L5)
-
-- ROLE slot: `3-plateau-cards-troubleshooting-element-l5`
-
-- INTENT: default block — 3 PLATEAU CARDS — TROUBLESHOOTING (ELEMENT ④ + L5)
-
-- COMPONENT PICKED: **STORY-09** — The Reframe — Challenge → New perspective
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: troubleshooting-card-stack-vertical-3-cards
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: STORYDEEP-15 (The Museum Plaque *(L10215)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: L2 5 section 3 visual — calibrated per level (l2)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: BCBA BRIDGE + VALIDATION (ELEMENT ③)
+- ROLE slot: validation-paragraph-stack-with-bcba-bridge
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: STORYDEEP-16 (The News Article *(L10236)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L2 5 section 4 visual — calibrated per level (l2)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `bcba-bridge-validation-element`
-
-- INTENT: validation block — BCBA BRIDGE + VALIDATION (ELEMENT ③)
-
-- COMPONENT PICKED: **DEEP-21** — Expert Whisper
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 5: AWARENESS SIGNS CHECKLIST + 60-DAY GUARANTEE (ELEMENT ⑤)
-
-- ROLE slot: `awareness-signs-checklist-60-day-guarantee-element`
-
-- INTENT: guarantee block — AWARENESS SIGNS CHECKLIST + 60-DAY GUARANTEE (ELEMENT ⑤)
-
-- COMPONENT PICKED: **TRUST-7** — Trust Block
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+### Section 5: AWARENESS SIGNS CHECKLIST + 60-DAY GUARANTEE (ELEM
+- ROLE slot: awareness-signs-checklist-with-guarantee
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: CMP-10 (6-Month Cost Analysis *(L6347)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: L2 5 section 5 visual — calibrated per level (l2)
+  - Current usage: 4/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: CTA — CONNECTION-BASED (LOW AGGRESSION)
-
-- ROLE slot: `cta-connection-based-low-aggression`
-
-- INTENT: cta block — CTA — CONNECTION-BASED (LOW AGGRESSION)
-
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: cta-text-link-connection-based
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTADEEP-08 (The Story Closer *(L11703)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
 ### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
+- ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-04 (Footer (Giuliano source) *(L7571)*)
+  - Catalog entry: position=signoff_footer, audience=['L2']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `lena-sign-off-medium-variant-double-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
+### Tracker updates
+- component-usage.json: incremented ['FLOWIMG-001', 'STORYDEEP-14', 'EDUDEEP-4', 'STORYDEEP-15', 'STORYDEEP-16', 'CMP-10', 'CTADEEP-08', 'UTIL-04']
+- image-usage.json: incremented ['flat-lay/laundry-bag-llama-cream.png', 'lifestyle/toddlers-backview-disposable-diapers.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'resized/toddler-playing.jpg']
 
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

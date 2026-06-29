@@ -794,192 +794,48 @@ END OF WIREFRAME — faq-21-e6
 
 ---
 
+---
+
 ## STAGE 2 PICKS — faq-21-e6
 
 
-> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
-
-
-> **Section count:** 10 body sections.
-
-> **Flow:** faq-library | **Position:** E6 | **Level:** GF
-
-
-### Section 1: HOOK — THREE QUESTIONS, UNIFYING HEADER
-
-- ROLE slot: `hook-three-questions-unifying-header`
-
-- INTENT: hook block — HOOK — THREE QUESTIONS, UNIFYING HEADER
-
-- COMPONENT PICKED: **22.3** — Circle Crop Hero
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 2: TRAVEL/OUTINGS — PRACTICAL RELIEF
-
-- ROLE slot: `travel-outings-practical-relief`
-
-- INTENT: default block — TRAVEL/OUTINGS — PRACTICAL RELIEF
-
-- COMPONENT PICKED: **PSYDEEP-4** — The Scarcity Story
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 3: POOP-SPECIFIC — UNDERSTANDING
-
-- ROLE slot: `poop-specific-understanding`
-
-- INTENT: default block — POOP-SPECIFIC — UNDERSTANDING
-
-- COMPONENT PICKED: **LETTER-06** — PS Teaser
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 4: COMMUNICATION BARRIERS — HOPE THROUGH MECHANISM
-
-- ROLE slot: `communication-barriers-hope-through-mechanism`
-
-- INTENT: mechanism block — COMMUNICATION BARRIERS — HOPE THROUGH MECHANISM
-
-- COMPONENT PICKED: **23.1** — Magazine Masthead
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 5: UNIFYING REFRAME — THREE CONCERNS, ONE EXPLANATION
-
-- ROLE slot: `unifying-reframe-three-concerns-one-explanation`
-
-- INTENT: validation block — UNIFYING REFRAME — THREE CONCERNS, ONE EXPLANATION
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 6: GUARANTEE / RISK REVERSAL
-
-- ROLE slot: `guarantee-risk-reversal`
-
-- INTENT: guarantee block — GUARANTEE / RISK REVERSAL
-
-- COMPONENT PICKED: **DESDEEP-8** — The Icon Story
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 7: CTA — ZERO-PRESSURE PERMISSION
-
-- ROLE slot: `cta-zero-pressure-permission`
-
-- INTENT: cta block — CTA — ZERO-PRESSURE PERMISSION
-
-- COMPONENT PICKED: **LETTER-12** — Fragmented Text
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 8: LENA SIGN-OFF — LONG VARIANT
-
-- ROLE slot: `lena-sign-off-long-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT
-
-- COMPONENT PICKED: **HERO-8** — Visual Metaphor
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 9: P.S. — DOUBLE P.S. (MEDICAL DEFERRAL + LATE-TRAINER)
-
-- ROLE slot: `p-s-double-p-s-medical-deferral-late-trainer`
-
-- INTENT: signoff block — P.S. — DOUBLE P.S. (MEDICAL DEFERRAL + LATE-TRAINER)
-
-- COMPONENT PICKED: **13.7** — Fragment Letter
-
-  - Currently used: 5/8 (under cap; was 13.10 Quote Badge L2-only)
-  - WHY: by-name position+audience match. 13.7 Fragment Letter is a body_mechanism component with full-audience tag, appropriate for GF p-s-medical-deferral-late-trainer.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 10: FOOTER — STATIC
-
-- ROLE slot: `footer-static`
-
-- INTENT: signoff block — FOOTER — STATIC
-
-- COMPONENT PICKED: **PERS-01** — Level Greeting
-
-  - Currently used: 22/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
+> **FAQ Objection #6 — Travel / Poop / Communication barriers** — Cross-Level (R1-R6 + V16 + GF levers).
+> FAQ objection-handling email — gentle, mechanism-first. Components chosen to support objection resolution without pressure. R1 (no labels) preserved throughout.
+
+
+### Components (8/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| PROSE-HOOK-3-QS-WITH-UNIFIER | **EMODEEP-04** | 3-questions opener with unifier header |
+| OBJECTION-TRAVEL | **PSYCH-07** | Vertical bridge-strategy — travel/outing relief |
+| OBJECTION-POOP | **PSYCH-08** | Vertical two-system mechanism — poop-specific |
+| OBJECTION-COMMUNICATION | **EMO-8** | Vertical no-words-needed — communication barriers |
+| UNIFYING-REFRAME-3-LAYER | **EDUDEEP-2** | Unifying reframe with 3-layer product |
+| GUARANTEE-LOW-BAR | **CMP-8** | Guarantee + low-bar success metrics stack |
+| CTA-ZERO-PRESSURE | **CTA-5** | Zero-pressure single-line CTA — gentle |
+| LENA-SIGNOFF-LONG-FINAL | **33.2** | Long-variant final FAQ signoff |
+| LENA-SIGNOFF-LONG-FINAL + DOUBLE-PS-MEDICAL-LATE + FOOTER | **33.2** | Long Lena sig + double P.S. medical deferral/late-trainer + footer |
+
+### Images (5/6)
+
+- `flat-lay/swim-diaper-giraffe-yellow.jpg` — Giraffe yellow swim diaper flat-lay. (Current: 0/25)
+- `flat-lay/swim-diaper-unicorn-pink.jpg` — Unicorn pink swim diaper flat-lay. (Current: 0/25)
+- `lifestyle/toddler-playing-train-moon-cloud-blue.png` — Toddler playing with train toy. (Current: 10/25)
+- `accessories/towel-set-llama-cactus.png` — Llama-cactus towel set. (Current: 1/25)
+- `flat-lay/pocket-diaper-moon-cloud-blue.jpg` — Moon cloud blue pocket diaper flat-lay. (Current: 1/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 10
+- `component-usage.json`: EMODEEP-04 0 → 1
+- `component-usage.json`: PSYCH-07 0 → 1
+- `component-usage.json`: PSYCH-08 0 → 1
+- `component-usage.json`: EMO-8 1 → 2
+- `component-usage.json`: EDUDEEP-2 0 → 1
+- `component-usage.json`: CMP-8 0 → 1
+- `component-usage.json`: CTA-5 2 → 3
+- `component-usage.json`: 33.2 1 → 2
+- `image-usage.json`: `flat-lay/swim-diaper-giraffe-yellow.jpg` 0 → 1
+- `image-usage.json`: `flat-lay/swim-diaper-unicorn-pink.jpg` 0 → 1
+- `image-usage.json`: `lifestyle/toddler-playing-train-moon-cloud-blue.png` 10 → 11
+- `image-usage.json`: `accessories/towel-set-llama-cactus.png` 1 → 2
+- `image-usage.json`: `flat-lay/pocket-diaper-moon-cloud-blue.jpg` 1 → 2

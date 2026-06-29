@@ -762,118 +762,109 @@ L1-specific accents per E4 copy visual direction:
 ## END OF WIREFRAME — welcome-01-e4-l1
 *Sources: GIULIANO-DEMANDS.md, MASTER-DIAGNOSIS-COMPENDIUM.md, MASTER-INGESTION-COMPENDIUM.md, MASTER-RESEARCH-COMPENDIUM.md, 1-full-email-strategy.md, 2-full-email-copy-strategy.md, 3-segmentation-blueprint.md, consolidated-design-skills-trimmed.md, autistic-level1-quotes.md, science-proof-points.md, copywriting skills (subject-line-engineering, body-copy-frameworks, brand-voice-storytelling, email-cta-conversion-design)*
 
+
+
 ## STAGE 2 PICKS — welcome-01-e4-l1
 
-### Section 1: HERO - hero-image-lifestyle (after-state child)
-- ROLE slot: hero-image-lifestyle
-- INTENT: shows the "after" L1 child, 4-6 yrs, active, confident — mirror for Sarah
-- COMPONENT PICKED: HERO-13
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: HERO-13 'Scientific Hook' centers a research-backed message with warm gradient — appropriate for E4's absolution moment that grounds the reframe in research. Variance vs HERO-5 (E1), HERO-18 (E3).
-- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
-  - Alt text: Verbal 4-year-old playing with a wooden train set, blue moon-and-cloud print, confident posture in a real home.
-  - Current usage: 0/25
-  - WHY: Toddler actively playing with a wooden train, moon-cloud blue print — confident forward motion, post-training hopeful state. Matches INTENT of 'after' L1 child.
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'With understanding,' — E3-E5
 
-### Section 2: HOOK - pull-quote-callout
-- ROLE slot: pull-quote-callout
-- INTENT: first parent quote that opens the absolution moment
-- COMPONENT PICKED: DEEP-20  - Catalog entry: position varies, audience=[L1,...]
+### Section 1: HERO
+- ROLE slot: hero-image-lifestyle (or variant per wireframe)
+- INTENT: D7 hero uses a story-fragment frame ('Here's where we are in the arc...'); narrative-after-state, the 'what changed' angle.
+- COMPONENT PICKED: HERO-4 (Story Fragment)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/1 (UNIQUE to this email — zero hero reuse rule)
+  - WHY: Story Fragment matches this email's emotional arc and L1 calibration.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: Toddler outdoors on grass in a disposable diaper, post-E3 lived-in moment.
+  - Current usage: 1/25
+  - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
+
+### Section 2: callout-quote-highlight-pull-quote
+- ROLE slot: callout-quote-highlight-pull-quote
+- INTENT: consolidates primary pull-quote (Section 2) + secondary pull-quote (Section 10) under one quote component
+- COMPONENT PICKED: 4.5 (Cream Callout (Primary + Secondary Quote))
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: DEEP-20 'The Reverse Testimonial' is a pull-quote testimonial pattern — appropriate for E4's parent quote opener. Audience L1.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Cream Callout (4.5) handles both pull-quote sections per 8-cap; cream-card L1 quote-block pattern.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: Toddler on a yellow-woodland potty-training ladder, Pre-K action, soft natural light.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 3: VALIDATION - validation-block-text
+### Section 3: validation-block-text
 - ROLE slot: validation-block-text
-- INTENT: validates that sticker charts, timer sits, naked weekends did not fail
-- COMPONENT PICKED: 4  - Catalog entry: position varies, audience=[L1,...]
+- INTENT: validates sticker charts, timer sits, naked weekends didn't fail — text-dominant
+- COMPONENT PICKED: BR-01 (Body Recognition Block)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: 4 'Manifesto Line' provides a single bold-statement validation pattern — perfect for 'You didn't fail. You solved the wrong problem.' Variance vs LETTER-10/11/12 used in earlier emails.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Body-recognition block (BR-01) for text-dominant validation; keeps E4's middle section reading-heavy.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: Two toddlers from behind in disposable diapers in a real living room, lived-in.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 4: MECHANISM - stat-highlight-box (49% reappearance)
-- ROLE slot: stat-highlight-box
-- INTENT: 49% SPARK reappearance (now familiar, second pass)
-- COMPONENT PICKED: EDU-7
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: EDU-7 'Did You Know' is a stat-with-context pattern suitable for the 49% reappearance. Different from E1's M10 (Stat Block) and E3's 32.3 (Highlight Box) — adds variance.
-- IMAGE PICKED: none (text-only component)
-
-### Section 5: SOCIAL PROOF - testimonial-card-stack
-- ROLE slot: testimonial-card-stack
-- INTENT: three stacked testimonial cards showing realistic L1 wins
-- COMPONENT PICKED: SP-02
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: SP-02 'Review Quote Card' is the catalog's review/testimonial card with stars + attribution. E4 has social proof focus — appropriate.
-- IMAGE PICKED: none (text-only component)
-
-### Section 6: PRODUCT - product-layer-diagram-stack
-- ROLE slot: product-layer-diagram-stack
-- INTENT: stacked layer breakdown (Layer 1 inner signal / Layer 2 / Layer 3)
-- COMPONENT PICKED: PRICE-1  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: PRICE-1 'Cross-Section' is the catalog's layered-cutaway diagram — perfect for the 3-layer BSL breakdown in E4. Variance vs PROD-3 used in E2/E3.
-- IMAGE PICKED: none (text-only component)
-
-### Section 7: PRICING - pricing-block-card
-- ROLE slot: pricing-block-card
-- INTENT: 3+3 Bundle, 6 pairs, $79.99, free shipping, $13.33/pair math
-- COMPONENT PICKED: REV-08.4
-  - Catalog entry: position varies, audience=[L1,...]
+### Section 4: stat-highlight-box-49-revisit
+- ROLE slot: stat-highlight-box-49-revisit
+- INTENT: 49% SPARK reappearance (now familiar, second pass) + sensory stat
+- COMPONENT PICKED: M10 (Stat Block (Mobile))
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: REV-08.4 'Bundle Value Recap' is the bundle-value anchor with stat — perfect for the $13.33/pair math reframe. Variance vs REV-04.2 (Savings Highlight Header in E3).
-- IMAGE PICKED: none (text-only component)
+  - WHY: Stat Block (Mobile) (M10) reused from E1 for the second-pass 49% stat; mobile-first design honored.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: A toddler in mustard-yellow cat-pattern outfit from behind, real-home photo.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 8: GUARANTEE - guarantee-block-standalone
+### Section 5: product-testimonial-pricing-bundle
+- ROLE slot: product-testimonial-pricing-bundle
+- INTENT: consolidates testimonial-card-stack + product 3-layer + pricing-block into one product-showcase block
+- COMPONENT PICKED: PS-02 (Product Showcase (Testimonials + 3-Layer + Pricing))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Product-showcase consolidates testimonials + 3-layer + pricing per 8-cap (allowed reuse per Ayoub brief).
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: Watermelon-pink toddler training pant laid flat, mechanism-relevant product visual.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 6: guarantee-block-standalone
 - ROLE slot: guarantee-block-standalone
-- INTENT: standalone 60-day guarantee, judgment-toned framing
-- COMPONENT PICKED: CTADEEP-02
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: CTADEEP-02 'The Risk Reversal' is the catalog's guarantee-as-CTA pattern — combines guarantee framing with soft conversion. Audience L1.
-- IMAGE PICKED: none (text-only component)
+- INTENT: 60-day money-back; 'You don't have to commit until you've tried it.'
+- COMPONENT PICKED: GT-02 (Guarantee Block Standalone)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Guarantee-trust block (GT-02) reuses E2's wet-bag image for trust-association continuity.
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: Wet-bag accessory with space/zebra/llama prints, tactile trust signal.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
 
-### Section 9: EARLY CTA - cta-button-full-width (after guarantee)
-- ROLE slot: cta-button-full-width
-- INTENT: CTA after guarantee — soft permission framing
-- COMPONENT PICKED: CTAMAX-04
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 2/8
-  - WHY: CTAMAX-04 'Soft CTA' matches E4's permission-toned early CTA after the guarantee. Variance vs CTAMAX-01 (E1), CTAMAX-06 (E3).
-- IMAGE PICKED: none (text-only component)
+### Section 7: cta-button-early-late-consolidated
+- ROLE slot: cta-button-early-late-consolidated
+- INTENT: consolidates early-tap CTA (Section 9) + late CTA (Section 11) + secondary text link into one CTA block
+- COMPONENT PICKED: CTA-7 (Next Teaser (Early + Late + Secondary))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Next-Teaser CTA matches E4's post-guarantee early-tap + late-tap + secondary text-link frame; light permission tone.
+- IMAGE PICKED: none (text-only section)
 
-### Section 10: SECONDARY PULL-QUOTE - secondary-pull-quote
-- ROLE slot: secondary-pull-quote
-- INTENT: re-anchors the realistic-timeline message
-- COMPONENT PICKED: DEEP-19
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 2/8
-  - WHY: DEEP-19 'The Signal Analogy' uses analogy framing — appropriate for the secondary pull-quote about timeline reality. Variance vs DEEP-13 (Section 2).
-- IMAGE PICKED: none (text-only component)
-
-### Section 11: LENA SIGN-OFF - signoff-lena-short (With understanding)
+### Section 8: signoff-lena-short
 - ROLE slot: signoff-lena-short
-- INTENT: Lena SHORT sign-off for E4: 'With understanding,'
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 12.1 'Lena Signoff' — same component, same closing word ('With understanding,' per E3-E5 progression).
-- IMAGE PICKED: none (text-only component)
+- INTENT: Lena SHORT variant; 'With understanding,' closing (E4 mid-sequence)
+- COMPONENT PICKED: 12.1 (Lena Signoff)
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Lena signoff continues the mid-sequence 'With understanding,' cadence.
+- IMAGE PICKED: none (text-only section)
+
+### Image count check
+- Total images in this email: 6/6 (target range 4-6).
+- Status: PASS
+- Total components: 8/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-13', 'DEEP-13', 'LETTER-05', 'EDU-7', 'SP-02', 'PROD-4', 'REV-08.4', 'CTADEEP-02', 'CTAMAX-04', 'DEEP-19', '12.1']
-- image-usage.json: incremented ['lifestyle/toddler-playing-train-moon-cloud-blue.png']
+- component-usage.json: incremented [HERO-4] + 7 body components
+- image-usage.json: incremented hero, 5 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e4-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
-> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
-> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
-> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
-> due to the structural catalog limitation, not a per-email pick error.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
->

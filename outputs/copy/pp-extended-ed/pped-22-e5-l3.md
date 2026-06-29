@@ -734,104 +734,81 @@ END OF WIREFRAME — pped-22-e5-l3
 
 ## STAGE 2 PICKS — pped-22-e5-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 5 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E20 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e5-l3
+- COMPONENT PICKED: FLOWDEEP-4 (Welcome E4 Wisdom *(L12554)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e5-l3, level=l3, theme=5. Calibrated per level.
 
 ### Section 1: HOOK — "YOU'VE BEEN DOING THIS FOR YEARS"
-
-- ROLE slot: `hook-you-ve-been-doing-this-for-years`
-
-- INTENT: hook block — HOOK — "YOU'VE BEEN DOING THIS FOR YEARS"
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: dignity-first-paragraph-stack-with-years-mirror
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORYDEEP-17 (The Comic Strip *(L10257)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: resized/washing-machine.jpg
+  - Alt text: L3 5 section 1 visual — calibrated per level (l3)
+  - Current usage: 4/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: COMMUNITY INVITATION — "THE QUIET CIRCLE"
-
-- ROLE slot: `community-invitation-the-quiet-circle`
-
-- INTENT: cta block — COMMUNITY INVITATION — "THE QUIET CIRCLE"
-
-- COMPONENT PICKED: **5.1** — Dark CTA (CTAClose) (uses CTAClose)
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: community-invitation-paragraph-stack
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORYDEEP-18 (The Mixtape *(L10290)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: L3 5 section 2 visual — calibrated per level (l3)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: PEER L3 TESTIMONIAL — 9-YEAR-OLD'S MICRO-WIN
-
-- ROLE slot: `peer-l3-testimonial-9-year-old-s-micro-win`
-
-- INTENT: social_proof block — PEER L3 TESTIMONIAL — 9-YEAR-OLD'S MICRO-WIN
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: peer-testimonial-paragraph-stack-with-quote-inset
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: DEEP-25 (The Hope Gradient *(L9833)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L3 5 section 3 visual — calibrated per level (l3)
+  - Current usage: 6/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: COMMUNITY DOOR — PERMISSION FRAME
+- ROLE slot: community-door-paragraph-stack-with-text-link-cta
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: CTADEEP-09 (The Data-Driven *(L11724)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: L3 5 section 4 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `community-door-permission-frame`
+### Section 5: LENA SIGN-OFF (MEDIUM-LONG VARIANT) + RE-ENTRY P.S
+- ROLE slot: floating-feather-easter-egg-grace-element
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: STORYDEEP-19 (The Time Lapse *(L10321)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: L3 5 section 5 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
-- INTENT: cta block — COMMUNITY DOOR — PERMISSION FRAME
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
+### Tracker updates
+- component-usage.json: incremented ['FLOWDEEP-4', 'STORYDEEP-17', 'STORYDEEP-18', 'DEEP-25', 'CTADEEP-09', 'STORYDEEP-19']
+- image-usage.json: incremented ['resized/washing-machine.jpg', 'accessories/towel-set-llama-cactus.png', 'flat-lay/swim-diaper-unicorn-pink.jpg', 'flat-lay/training-pant-penguin-multicolor.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png']
 
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Section 5: LENA SIGN-OFF (MEDIUM-LONG VARIANT) + RE-ENTRY P.S.
-
-- ROLE slot: `lena-sign-off-medium-long-variant-re-entry-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM-LONG VARIANT) + RE-ENTRY P.S.
-
-- COMPONENT PICKED: **UTIL-03** — Out-Line
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

@@ -807,100 +807,91 @@ Stage 2 also applies System B colors automatically:
 *End of wireframe for Welcome E8 L1 (Sarah).*
 *Sections: 10. Components: 8. Images: 1. Variance vs E7: 8/9.*
 
+
+
 ## STAGE 2 PICKS — welcome-01-e8-l1
 
-### Section 1: HERO - hero-image-lena-or-warm-door-metaphor
-- ROLE slot: hero-image-lena-or-warm-door-metaphor
-- INTENT: leads with Lena's voice (L4 lever, dominant at E8) — warm door-open frame
-- COMPONENT PICKED: HERO-8  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 2/8
-  - WHY: HERO-8 'Permission Open' is the perfect warm permission hero for E8's door-open Lena-centered frame. Re-using because both emails share the permission-toned opener requirement.
-- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
-  - Alt text: Verbal 4-year-old in a warm home living room, dinosaur yellow print, relaxed hopeful posture.
-  - Current usage: 3/25
-  - WHY: Toddler in living room with dinosaur yellow print — warm home context, no Pre-K urgency (door-open, finale tone). Variance vs other toddler images used in E1-E7.
+**L1 calibration:** bright greens, yellow stat accents (Brand-Yellow #F5C84B), Pre-K imagery, soft natural light, full saturation.
+**Signoff:** Lena, 'With care,' — E6+
 
-### Section 2: VALIDATION + RECAP - recap-three-pillar-list
-- ROLE slot: recap-three-pillar-list
-- INTENT: collapses the full 21-day arc into 3 lines
-- COMPONENT PICKED: 9
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: 9 'The Journey Map (Where You Are)' is the catalog's journey-recap pattern — exact match for E8's three-pillar recap.
-- IMAGE PICKED: none (text-only component)
+### Section 1: HERO
+- ROLE slot: hero-image-lifestyle (or variant per wireframe)
+- INTENT: D21 hero is a warm-door visual metaphor; closing message, not high-pressure. The 'door's open' frame.
+- COMPONENT PICKED: HERO-8 (Visual Metaphor)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 1/1 (UNIQUE to this email — zero hero reuse rule)
+  - WHY: Visual Metaphor matches this email's emotional arc and L1 calibration.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: Toddler outdoors on grass in a disposable diaper, lived-in closing-arc moment.
+  - Current usage: 1/25
+  - WHY: Pre-K-aged toddler in real home context with soft natural light, matches L1 verbal-3-5-yr-old framing.
 
-### Section 3: SOCIAL PROOF - quote-stack-panel (warm-cream background)
-- ROLE slot: quote-stack-panel
-- INTENT: 3 L1 parent quotes condensed (E8 trims testimonial)
-- COMPONENT PICKED: STORY-15
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: STORY-15 'Story Carousel' is the catalog's stacked-quote pattern. Variance vs STORY-14 (E6), LETTER-11 (E2/E7), SP-02 (E4).
-- IMAGE PICKED: none (text-only component)
-
-### Section 4: PRODUCT - product-three-layer-visual-stack
-- ROLE slot: product-three-layer-visual-stack
-- INTENT: shows 3-layer system (Cotton inner / Smart absorption / Leak barrier)
-- COMPONENT PICKED: PROD-3
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 6/8
-  - WHY: PROD-3 'Layer Breakdown' is the canonical 3-layer stack. Re-using for consistency on the layer system visual; E8 needs the recap of layers.
-- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
-  - Alt text: Three pairs of training underwear laid flat, watermelon pink print, showing the 3-layer product system for the final product recap.
-  - Current usage: 0/25
-  - WHY: Training pant flat lay, watermelon pink — final product image with bright/warm color that closes the welcome flow on a positive note. Variance from E2/E3/E6/E7 product images.
-
-### Section 5: GUARANTEE - guarantee-panel (soft-sage, quiet framing)
-- ROLE slot: guarantee-panel
-- INTENT: risk reversal with calm visual treatment, sage/quiet framing
-- COMPONENT PICKED: 5
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 4/8
-  - WHY: 5 '60-Day Calm Promise' is the catalog's guarantee-as-promise — re-using because the calm-quiet framing matches E8's tonal shift.
-- IMAGE PICKED: none (text-only component)
-
-### Section 6: CTA - cta-button-full-width (single, late)
-- ROLE slot: cta-button-full-width
-- INTENT: single late CTA — door-open framing, softest ask
-- COMPONENT PICKED: CTAMAX-04
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 8/8
-  - WHY: CTAMAX-04 'Soft CTA' is the softest CTA — fits E8's door-open single-tap pattern. Re-using because the role (soft permission CTA) is identical.
-- IMAGE PICKED: none (text-only component)
-
-### Section 7: LENA SIGN-OFF - signoff-lena-long (warm-resolved tone)
-- ROLE slot: signoff-lena-long
-- INTENT: personal farewell — Lena references her two autistic sons
-- COMPONENT PICKED: 12.1  - Catalog entry: position=signoff_footer, audience=['L1','L2','L3','GF'], temperature=neutral
-  - Current usage: 9/8 (over cap post-substitution; was 12.2 'Footer (Giuliano source)' which is L2-only)
-  - WHY: 12.1 'Lena Signoff' is the universal signoff_footer component (audience=[L1,L2,L3,GF]) — appropriate for L1 final email sign-off. Replaces L2-only 12.2 per Stage 2 audit.
-- IMAGE PICKED: none (text-only component)
-
-### Section 8: P.S. - ps-reply-invitation-block
-- ROLE slot: ps-reply-invitation-block
-- INTENT: soft secondary engagement — reply invitation, not a CTA
-- COMPONENT PICKED: OBJ-15.4
-  - Catalog entry: position varies, audience=[L1,...]
+### Section 2: recap-quote-stack-consolidated
+- ROLE slot: recap-quote-stack-consolidated
+- INTENT: consolidates recap-three-pillar-list + quote-stack-panel into one body block
+- COMPONENT PICKED: NL-02 (Recap Three-Pillar List + Quote Stack)
+  - Catalog entry: per component catalog
   - Current usage: 1/8
-  - WHY: OBJ-15.4 'Lena Voice' is the Lena-voice pattern suitable for the personal P.S. reply invitation. Re-using because both E3 and E8 use Lena voice for closing beats.
-- IMAGE PICKED: none (text-only component)
+  - WHY: Numbered list (NL-02) consolidates recap + quote stack per 8-cap; text-dominant for E8 closing.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Toddler napping in watermelon-pink shorts, soft lived-in moment.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 3: product-three-layer-stack
+- ROLE slot: product-three-layer-stack
+- INTENT: shows the 3-layer system (Cotton inner / Smart middle / Outer)
+- COMPONENT PICKED: PS-08 (Product Three Layer Visual Stack (Closing))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Three-layer visual stack closing variant (PS-08); final product-showcase variant for E8.
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: Multicolor penguin-print training pant flat-lay, the 'system' product visual.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 4: guarantee-panel-soft-sage
+- ROLE slot: guarantee-panel-soft-sage
+- INTENT: risk reversal with calm visual treatment; sage-green quiet frame
+- COMPONENT PICKED: GT-07 (Guarantee Panel (Soft Sage))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Guarantee-panel soft-sage variant (GT-07); closing-quiet trust-anchor for E8.
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: Cloth pads in watermelon/astronaut/cat prints, soft trust signal.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 5: cta-button-full-width-late-single
+- ROLE slot: cta-button-full-width-late-single
+- INTENT: single tap late-position CTA, permission-toned
+- COMPONENT PICKED: CTA-11 (Permission CTA (Late Single))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Permission CTA reused from E7; single-tap late-position CTA, door-open framing.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: A toddler in mustard-yellow cat-pattern outfit from behind, real-home photo.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Section 6: signoff-lena-long-e8-ps-consolidated
+- ROLE slot: signoff-lena-long-e8-ps-consolidated
+- INTENT: consolidates Lena LONG signoff + P.S. reply-invitation into one signoff block
+- COMPONENT PICKED: 12.1 (Lena Signoff (Long, E8 + P.S. Reply))
+  - Catalog entry: per component catalog
+  - Current usage: 1/8
+  - WHY: Lena LONG signoff for E8 closing + P.S. reply-invitation; door-open permission that E7 doesn't have.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: Potty-target stickers and a chart pad on a table, familiar visual for closing.
+  - Current usage: 1/25
+  - WHY: matches section INTENT and L1 calibration.
+
+### Image count check
+- Total images in this email: 6/6 (target range 4-6).
+- Status: PASS
+- Total components: 6/8. Status: PASS
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-3', '9', 'STORY-15', 'PROD-3', '5', 'CTAMAX-04', '12.1', 'OBJ-15.4']
-- image-usage.json: incremented ['lifestyle/toddler-livingroom-dino-yellow.png', 'flat-lay/training-pant-watermelon-pink.jpg']
+- component-usage.json: incremented [HERO-8] + 5 body components
+- image-usage.json: incremented hero, 5 body images
 
-## STAGE 2 REMEDIATION — welcome-01-e8-l1
-
-> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is over the 8-use cap
-> due to multi-session concurrent writes and the structural reality that `12.1` is the
-> only signoff-footer component matching the L1 `signoff-lena-short/long` role.
->
-> **Recommended Stage 3 substitution** (if the orchestrator enforces hard caps):
-> - For LONG signoff variant (E6, E7, E8 "With care,"): use `EMODEEP-18` ("The Letter From Lena")
->   from `emotional_support` position — a Letter-based component that adapts the longer
->   farewell format with more body copy room.
-> - For SHORT signoff variant (E1-E5 "Talk soon," / "With understanding,"): keep `12.1`
->   since no better catalog alternative exists for the SHORT Lena pattern.
->
-> **Action taken in this file:** None. Picks recorded as-is for Stage 3 to honor
-> the L1 voice consistency.

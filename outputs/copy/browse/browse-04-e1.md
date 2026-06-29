@@ -578,105 +578,74 @@ END OF WIREFRAME — browse-04-e1
 
 ## STAGE 2 PICKS — browse-04-e1
 
+NOTE: This wireframe has no explicit HERO section (Section 1 is a text-only "Whether...Or...If..." prose opener). Per the 4-8 component hard minimum, I am treating Section 1 as the visual opener (functionally a text-led hero) and assigning a text-only hero component to it. The hero is UNIQUE per email rule.
 
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+### Section 1: prose-block-with-inline-list (HERO + opener)
+- ROLE slot: prose-block-with-inline-list
+- INTENT: "Whether...Or...If..." pattern + 6 recognition anchors. Single flowing sentence + stacked vertical bullet list.
+- COMPONENT PICKED: HERO-13 (Scientific Hook)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=emotional, temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: Scientific Hook matches the opener's mechanism-bridge tone (the prose names the interoception pathway). Text-only — preserves the wireframe's no-image intent for the hook.
+- IMAGE PICKED: (text-only per wireframe; minimal at 0 images in INTENT — but the 4-6 image hard minimum forces image pick. Add accessory that supports R2 anchors below.)
+- IMAGE ADDED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
+  - Current usage: 6/25
+  - WHY: Visualizes the "sits and waits" R2 anchor — child on potty ladder, no signal received. Backview, R1-clean.
 
+### Section 2: validation-paragraph-stack
+- ROLE slot: validation-paragraph-stack
+- INTENT: stack of two short paragraphs naming failed methods + reframe.
+- COMPONENT PICKED: 4 (The Pull-Up Villain Card)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story, image_support=image_text, temperature=warm
+  - Current usage: 1/8
+  - WHY: "Pull-Up Villain" naming pattern fits the "methods couldn't work" framing — pull-ups are explicitly named in the validation paragraph.
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with soft penguin pattern in multicolor tones, flat-lay product shot."
+  - Current usage: 3/25
+  - WHY: Generic training pant visual for the failed-methods context.
 
-> **Section count:** 5 body sections.
+### Section 3: mechanism-text-block-with-inline-citation
+- ROLE slot: mechanism-text-block-with-inline-citation
+- INTENT: names interoception, defines it, cites Barmpagiannis & Baldimtsi 2025.
+- COMPONENT PICKED: PSYCH-02 (Loss Aversion)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], messaging=psychology, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Loss Aversion" fits the citation-anchoring approach — readers "lose" by not knowing about interoception. Body_mechanism position matches.
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text (GF, V16): "Potty training guide book laid flat on a warm cream surface."
+  - Current usage: 2/25
+  - WHY: Supports the "every book that promises 'your child will train 3 days'" reference — the guide book as visual metaphor for what parents have tried.
 
-> **Flow:** browse | **Position:** E1 | **Level:** GF
+### Section 4: testimonial-card-stack-vertical
+- ROLE slot: testimonial-card-stack-vertical
+- INTENT: three testimonial cards stacked vertically, cream background.
+- COMPONENT PICKED: SP-08 (Stacked Mini-Reviews)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 3/8
+  - WHY: Stacked Mini-Reviews is built exactly for three vertical testimonial cards. Already used in cart-02-e1 but pick variance is acceptable per showcase exception.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
+  - Current usage: 4/25
+  - WHY: Backview dual-toddler shot for the three-family testimonials. R1-compliant (no faces).
 
+### Section 5: permission-text-block + cta-text-link-soft
+- ROLE slot: permission-text-block + cta-text-link-soft
+- INTENT: short permission-framed paragraph + soft "Keep reading" text link.
+- COMPONENT PICKED: CTA-3 (Curiosity Code)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], messaging=conversion, image_support=text_only, temperature=neutral
+  - Current usage: 3/8
+  - WHY: Curiosity Code renders cleanly as a soft text-link CTA. Different from cart-02-e3's CTA-2 Soft Link.
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text (GF, V16): "Toddler viewed from behind in mustard yellow shorts, soft warm light, full backview."
+  - Current usage: 4/25
+  - WHY: Generic toddler-rearview for the permission block. R1-clean.
 
-### Section 1: WHETHER...OR...IF... UNIVERSAL HOOK
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 5/8 (within range)
 
-- ROLE slot: `whether-or-if-universal-hook`
-
-- INTENT: default block — WHETHER...OR...IF... UNIVERSAL HOOK
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: VALIDATION — METHODS COULDN'T WORK
-
-- ROLE slot: `validation-methods-couldn-t-work`
-
-- INTENT: validation block — VALIDATION — METHODS COULDN'T WORK
-
-- COMPONENT PICKED: **DEEP-02** — Mom Confessional
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM — INTEROCEPTION BRIDGE
-
-- ROLE slot: `mechanism-interoception-bridge`
-
-- INTENT: mechanism block — MECHANISM — INTEROCEPTION BRIDGE
-
-- COMPONENT PICKED: **DEEP-7** — Evidence Chain
-
-  - Currently used: 2/8 (under cap; was DEEP-24 Sensory Inventory which is L2-only body_recognition component, not appropriate for GF mechanism)
-  - WHY: by-name position+audience match. DEEP-7 Evidence Chain is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mechanism-interoception-bridge.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `three-family-testimonial-pattern`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **STORY-10** — Stacked Story
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: PERMISSION + SOFT CTA
-
-- ROLE slot: `permission-soft-cta`
-
-- INTENT: cta block — PERMISSION + SOFT CTA
-
-- COMPONENT PICKED: **CTA-12** — Gentle CTA
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5
+### Tracker updates
+- component-usage.json: incremented [HERO-13, "4", PSYCH-02, SP-08, CTA-3]
+- image-usage.json: incremented [lifestyle/toddler-potty-ladder-pink-multicolor.png, flat-lay/training-pant-penguin-multicolor.jpg, accessories/book-potty-training-guide.png, lifestyle/toddlers-backview-disposable-diapers.png, lifestyle/toddler-rearview-cat-mustard.png]

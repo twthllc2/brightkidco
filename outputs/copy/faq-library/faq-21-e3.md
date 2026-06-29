@@ -600,157 +600,44 @@ END OF WIREFRAME — faq-21-e3
 
 ---
 
+---
+
 ## STAGE 2 PICKS — faq-21-e3
 
 
-> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** faq-library | **Position:** E3 | **Level:** GF
-
-
-### Section 1: HOOK — THREE SITUATIONS, ONE ROOT
-
-- ROLE slot: `hook-three-situations-one-root`
-
-- INTENT: hook block — HOOK — THREE SITUATIONS, ONE ROOT
-
-- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 2: VALIDATION — "YOUR CHILD IS NOT BEING STUBBORN"
-
-- ROLE slot: `validation-your-child-is-not-being-stubborn`
-
-- INTENT: validation block — VALIDATION — "YOUR CHILD IS NOT BEING STUBBORN"
-
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 3: MECHANISM — THE NERVOUS SYSTEM SIGNAL PATH
-
-- ROLE slot: `mechanism-the-nervous-system-signal-path`
-
-- INTENT: mechanism block — MECHANISM — THE NERVOUS SYSTEM SIGNAL PATH
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 4: SOCIAL PROOF — TESTIMONIAL (SINGLE, NOT THREE)
-
-- ROLE slot: `social-proof-testimonial-single-not-three`
-
-- INTENT: social_proof block — SOCIAL PROOF — TESTIMONIAL (SINGLE, NOT THREE)
-
-- COMPONENT PICKED: **16.3** — Reframe Points as Stickers (2×2 Grid)
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 5: GUARANTEE / RISK REVERSAL
-
-- ROLE slot: `guarantee-risk-reversal`
-
-- INTENT: guarantee block — GUARANTEE / RISK REVERSAL
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 6: CTA + SECONDARY LINK
-
-- ROLE slot: `cta-secondary-link`
-
-- INTENT: cta block — CTA + SECONDARY LINK
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 7: LENA SIGN-OFF — MEDIUM VARIANT
-
-- ROLE slot: `lena-sign-off-medium-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT
-
-- COMPONENT PICKED: **OBJ-01** — Tried Everything Reframe
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 8: FOOTER — STATIC
-
-- ROLE slot: `footer-static`
-
-- INTENT: signoff block — FOOTER — STATIC
-
-- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
+> **FAQ Objection #3 — Three situations, one root (nervous system signal)** — Cross-Level (R1-R6 + V16 + GF levers).
+> FAQ objection-handling email — gentle, mechanism-first. Components chosen to support objection resolution without pressure. R1 (no labels) preserved throughout.
+
+
+### Components (7/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| PROSE-OPENER-3-SYMPTOMS | **EMO-11** | Three-symptom opener — vertical stack |
+| VALIDATION-NOT-STUBBORN | **EMO-12** | Validation 'not being stubborn' + Lena peer |
+| MECH-3-CONTEXTUAL-APPLICATIONS | **EDU-5** | 3-layer mechanism with contextual applications |
+| SINGLE-TESTIMONIAL-CARD | **SP-07** | Single cream-inset testimonial — soft shadow |
+| GUARANTEE-MICRO-WINS | **CMP-1** | Guarantee + micro-wins stack |
+| CTA-BRAND-GREEN | **CTA-7** | Brand-green button + secondary text-link |
+| LENA-SIGNOFF-MEDIUM | **33.2** | Medium-variant Lena signoff — final farewell (signoff_footer role) |
+| LENA-MEDIUM + FOOTER | **33.2** | Lena medium sig + footer (alt: 33.1) |
+
+### Images (4/6)
+
+- `lifestyle/toddler-napping-watermelon-pink-shorts.png` — Toddler napping in watermelon pink shorts. (Current: 13/25)
+- `lifestyle/toddler-rearview-cat-mustard.png` — Child rear-view mustard cat. (Current: 5/25)
+- `lifestyle/toddlers-backview-disposable-diapers.png` — Toddlers backview. (Current: 7/25)
+- `flat-lay/training-pant-penguin-multicolor.jpg` — Penguin multicolored training pant flat-lay. (Current: 3/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+- `component-usage.json`: EMO-11 3 → 4
+- `component-usage.json`: EMO-12 2 → 3
+- `component-usage.json`: EDU-5 0 → 1
+- `component-usage.json`: SP-07 2 → 3
+- `component-usage.json`: CMP-1 0 → 1
+- `component-usage.json`: CTA-7 3 → 4
+- `component-usage.json`: 33.2 0 → 1
+- `image-usage.json`: `lifestyle/toddler-napping-watermelon-pink-shorts.png` 13 → 14
+- `image-usage.json`: `lifestyle/toddler-rearview-cat-mustard.png` 5 → 6
+- `image-usage.json`: `lifestyle/toddlers-backview-disposable-diapers.png` 7 → 8
+- `image-usage.json`: `flat-lay/training-pant-penguin-multicolor.jpg` 3 → 4

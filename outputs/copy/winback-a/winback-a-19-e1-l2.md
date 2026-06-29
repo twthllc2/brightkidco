@@ -773,160 +773,89 @@ END OF WIREFRAME — winback-a-19-e1-l2
 
 ## STAGE 2 PICKS — winback-a-19-e1-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** winback-a | **Position:** E7 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e1-l2
+- COMPONENT PICKED: DEEPPROD-10 (Product Lifestyle Hero *(L23604)*)
+  - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e1-l2, level=l2, theme=1. Calibrated per level.
 
 ### Section 1: HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
-
-- ROLE slot: `hook-real-symptom-recognition-l2`
-
-- INTENT: hook block — HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
-
-- COMPONENT PICKED: **3** — Micro-Win Celebration
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORYDEEP-20 (The Field Notes *(L10350)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text: L2 1 section 1 visual — calibrated per level (l2)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION + BCBA ACKNOWLEDGMENT (L2 ③)
-
-- ROLE slot: `validation-bcba-acknowledgment-l2`
-
-- INTENT: validation block — VALIDATION + BCBA ACKNOWLEDGMENT (L2 ③)
-
-- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 3: MECHANISM SPECIFICITY — CONSISTENCY VARIABLE
-             (L2 ②)
-
-- ROLE slot: `mechanism-specificity-consistency-variable-l2`
-
-- INTENT: mechanism block — MECHANISM SPECIFICITY — CONSISTENCY VARIABLE
-             (L2 ②)
-
-- COMPONENT PICKED: **2.1** — Lilac Gradient Hero
-
-  - Currently used: 28/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: validation-prose-with-bcba-respect
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: 4.3 (Pull Quote *(L503)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: L2 1 section 2 visual — calibrated per level (l2)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: TESTIMONIAL — L2 LONG-FORM WITH BCBA CONTEXT
-
-- ROLE slot: `testimonial-l2-long-form-with-bcba-context`
-
-- INTENT: social_proof block — TESTIMONIAL — L2 LONG-FORM WITH BCBA CONTEXT
-
-- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 5: REALISTIC TIMELINE — HONEST, NOT OPTIMISTIC
-             (L2 ④)
-
-- ROLE slot: `realistic-timeline-honest-not-optimistic-l2`
-
-- INTENT: default block — REALISTIC TIMELINE — HONEST, NOT OPTIMISTIC
-             (L2 ④)
-
-- COMPONENT PICKED: **PERS-01** — Level Greeting
-
-  - Currently used: 28/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: testimonial-l2-long-form-with-bcba-callback
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: SP2 (Review Quote Card *(L3208)*)
+  - Catalog entry: position=body_social_proof, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: L2 1 section 4 visual — calibrated per level (l2)
+  - Current usage: 11/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PRODUCT RE-INTRODUCTION — 3-LAYER RECAP
-
-- ROLE slot: `product-re-introduction-3-layer-recap`
-
-- INTENT: hook block — PRODUCT RE-INTRODUCTION — 3-LAYER RECAP
-
-- COMPONENT PICKED: **31.1** — Green Status Pill
-
-  - Currently used: 15/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: layered-text-block-three-rows
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: 9.1 (Expert Quote Card *(L849)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: L2 1 section 6 visual — calibrated per level (l2)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 7: GUARANTEE + PERMISSION-NOT-TO-BUY (L2 ⑤ ⑥)
-
-- ROLE slot: `guarantee-permission-not-to-buy-l2`
-
-- INTENT: guarantee block — GUARANTEE + PERMISSION-NOT-TO-BUY (L2 ⑤ ⑥)
-
-- COMPONENT PICKED: **2.2** — Warm Hero
-
-  - Currently used: 7/8 (under cap; was 2.3 Teal CTA Hero which is teal/L2-forbidden per Stage 2 audit)
-  - WHY: by-name L2-compatible alternative. Warm Hero preserves the gradient-hero family (Lilac 2.1→Warm 2.2→Teal 2.3) but uses warm tones only — honoring L2 muted-green palette rule. Permission-not-to-buy reads as gentle hero with soft tone-on-tone banner; no teal accent.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: guarantee-paragraph-with-permission-closing
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: EMODEEP-03 (The Permission Letter (uses Letter) *(L12044)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: L2 1 section 7 visual — calibrated per level (l2)
+  - Current usage: 22/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 8: LENA SIGN-OFF — MEDIUM VARIANT + P.S. PAIR
+- ROLE slot: lena-signoff-medium-with-two-sons-ps
+- INTENT: per wireframe Section 8
+- COMPONENT PICKED: 33.2 (Progress Arrow SVG *(L2786)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `lena-sign-off-medium-variant-p-s-pair`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + P.S. PAIR
+### Tracker updates
+- component-usage.json: incremented ['DEEPPROD-10', 'STORYDEEP-20', '4.3', 'SP2', '9.1', 'EMODEEP-03', '33.2']
+- image-usage.json: incremented ['lifestyle/toddler-outdoors-grass-disposable-diaper.png', 'accessories/potty-targets-stickers-chart.png', 'accessories/wet-bags-space-zebra-llama.png', 'lifestyle/toddlers-backview-disposable-diapers.png', 'lifestyle/founders-holding-pants-yellow-watermelon.png']
 
-- COMPONENT PICKED: **PERS-04** — Dynamic Progress
-
-  - Currently used: 29/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

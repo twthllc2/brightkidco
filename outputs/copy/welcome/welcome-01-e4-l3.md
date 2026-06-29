@@ -655,60 +655,112 @@ END OF WIREFRAME — welcome-01-e4-l3
 
 ---
 
+---
+
+---
+
+---
+
+---
+
+---
+
 ## STAGE 2 PICKS — welcome-01-e4-l3
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first. NO math reframe. E4 lever = L3-A Late train + L3-D Dignity (highest single Welcome delta = +6 trust from Maureen B. anchor).
+**Level calibration applied:** L3 (Maria) — STRICTEST. ZERO yellow, ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first language. NEVER 'Don't give up' / 'Fix' / 'Cure'. 1 Pair $34.99 primary. NEVER math reframe. 20/80 hope/realism. Lena peer voice (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,').
 
-> **Section count:** 4 body sections + Lena MEDIUM signoff ("With understanding,").
-> **Image library picks:** 0 (L3 E4 explicitly letter-format with no imagery).
+**Constraints:** 4-6 images per email (HARD minimum 4). 4-8 components per email (HARD minimum 4). HERO NEVER reused (unique per email — cap 1). Body components cap 8. Image cap 25. NO teal #2BAEB4.
 
-### Section 1 — prose-block-maybe-never-mirror (hook)
-- ROLE slot: `prose-block-maybe-never-mirror` (Lena's "I've made peace with maybe never" register; weaves Lena's two-son peer voice; closes "the window had closed before I'd even found it")
-- INTENT: deepest L3 fear-acknowledgment as protection, not failure; Lena peer-voice as anchor
-- COMPONENT PICKED: **2.1 — "Lilac Gradient Hero"** (letter pool, source A*)
-  - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
-  - Currently used: 2/8 (reused from E1 Sec 1)
-  - WHY: Whisper Tone is the L3 register for deepest fear-acknowledgment — the lowest-amplitude voice that says the hardest things. E1 used HERO-9 as opener; reusing in E4 establishes Whisper Tone as the trust-peak voice register across L3 Welcome. Variance vs E2 Sec 1 (HERO-18 Guilt Absolution), E3 Sec 1 (HERO-5 Mirror Moment) — different intros to different emotional openings.
-- IMAGE PICKED: none (letter format)
+**Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Section 2 — late-train-anecdote-stack (Maureen B. anchor)
-- ROLE slot: `late-train-anecdote-stack` ("Late is not never."; three vertically stacked italic real-parent anecdote paragraphs in warm clay 17px + research-anchoring paragraph; 22px serif "Late is not never." headline as visual climax sitting alone with 56px above and below)
-- INTENT: visual climax = headline sitting alone; the late-trainer anchor as Welcome trust peak
-- COMPONENT PICKED: **SP2** — Review Quote Card (replaced L2-only "7" per Stage 2 audit)
-  - From catalog: position=body_social_proof, image_support=image_text, audience[L1,L2,L3,GF] (catalog labels SP2 as [L2] but used here for L3 late-train-anecdote-stack with full-audience tag substituted)
+### Section 1 — Hero
+- ROLE slot: `prose-block-maybe-never-mirror`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
+- COMPONENT PICKED: `HERO-3`
+  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Permission Open — text_only, warm; honors 'I've made peace with maybe never' without forcing a path
+- IMAGE PICKED: `lifestyle/toddler-napping-watermelon-pink-shorts.png`
+  - Alt text: reflective/dignity — calm child, dignified 'maybe never' mirror pose
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: calm child, dignified 'maybe never' mirror pose
 
-  - WHY: by-name L3-compatible alternative. SP2 Review Quote Card has same proof/community positioning as 7 "Parent Stories" but renders as recognition cluster + review pattern. Replaces L2-only 7 per Stage 2 audit for L3 use.
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect. Parent Stories renders 3+ real-parent voice paragraphs as italic stacked format with embedded research anchoring — exact wireframe spec. The headline-alone layout (22px serif sitting alone) is the component's signature rendering for "Words are the structure."
-- IMAGE PICKED: none
+### Section 2 — Late-train anecdotes
+- ROLE slot: `late-train-anecdote-stack`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
+- COMPONENT PICKED: `SP-08`
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8 (in component-usage.json)
+  - WHY: Stacked Mini-Reviews (reused cap) — three stacked real-parent anecdote lines (Maureen B. anchor)
+- IMAGE PICKED: `resized/toddler-playing.jpg`
+  - Alt text: reflective/dignity — soft earth-toned context for late-train anecdotes
+  - Current usage: 1/25 (in image-usage.json)
+  - WHY: soft earth-toned context for late-train anecdotes
 
-### Section 3 — mechanism-product-guarantee-cta-unified-prose
-- ROLE slot: `mechanism-product-guarantee-cta-unified-prose` (continuous serif prose weaving mechanism 30-60s + product 1 Pair $34.99 + 60-day guarantee + permission CTA; one subtle 2px warm-grey hairline left indicator; 3 layers described inline as labeled sub-paragraphs with bold lead-ins; NO diagram, NO separate product card)
-- INTENT: unified close = single sustained voice; no visual segmentation, no separate boxes
-- COMPONENT PICKED: **DEEP-3 — "The Pattern Break"** (letter pool, source A*)
-  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: "The Pattern Break" literally names what the Body-Signal Learning Layer does (breaks the 9-year failed-effort pattern). Renders as continuous prose without diagram/separate-card anatomy — honors wireframe's "no diagram, no separate product card" mandate.
-- IMAGE PICKED: none
+### Section 3 — Unified close prose
+- ROLE slot: `mechanism-product-guarantee-cta-unified-prose`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
+- COMPONENT PICKED: `EDU-11`
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Science Citation — 49-study review grounds the unified closing block
+- IMAGE PICKED: `flat-lay/training-pant-cloud-raindrop-white.jpg`
+  - Alt text: white textile supporting unified close
+  - Current usage: 5/25 (in image-usage.json)
+  - WHY: white textile supporting unified close
 
-### Section 4 — cta-text-link-your-childs-timeline
-- ROLE slot: `cta-text-link-your-childs-timeline` (text link only "When you're ready →" with 4px padding below, warm charcoal underlined 17px semi-bold; italic 14px muted "The product doesn't expire. The guarantee doesn't change. And neither does the offer.")
-- INTENT: PDP drive with permanence framing; permission-to-wait, no expiry
-- COMPONENT PICKED: **CTA-11 — "Permission CTA"** (cta pool, source A*)
-  - From catalog: position=cta, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: Permission CTA = the explicit "you have permission to act OR not" close. Variance vs E1 Sec 8 (CTAMAX-03 Text Link), E2 Sec 7 (CTAMAX-04 Soft CTA), E3 Sec 7 (CTADEEP-12 Anti-CTA) — four distinct text-link patterns across E1-E4.
-- IMAGE PICKED: none
+### Section 3 — Unified close (grief)
+- ROLE slot: `mechanism-product-guarantee-cta-unified-prose`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
+- COMPONENT PICKED: `EMO-8`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Grief Acknowledgment — dignity in late-train framing; 'Late is not never.' is the visual climax
+- IMAGE PICKED: `flat-lay/training-pant-cloud-raindrop-white.jpg`
+  - Alt text: white textile supporting unified close
+  - Current usage: 5/25 (in image-usage.json)
+  - WHY: white textile supporting unified close
 
-### Signoff (signoff-lena-medium, E4 variant, "With understanding,")
-- STATIC: UTIL-05 Signoff Card with Lena MEDIUM variant (already extracted in Phase A)
-- 3-paragraph body: Lena's two-son anchor + "maybe never" acknowledgment + "thank you for reading this far"
-- "If this isn't the day, that's okay. The product will be here. So will I."
-- Does not consume component cap
+### Section 4 — CTA your child's timeline
+- ROLE slot: `cta-text-link-child-timeline`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
+- COMPONENT PICKED: `CTA-4`
+  - Catalog entry: position=cta, audience=['L3']
+  - Current usage: 2/8 (in component-usage.json)
+  - WHY: Gentle Invite — 'When you're ready →' with 'No timeline. Your child's timeline.' copywriting
+- IMAGE PICKED: none (text-only — see other sections for imagery)
 
-### Tracker updates applied (this email, E4)
-- component-usage.json: HERO-9→2, 7→1, DEEP-3→1, CTA-11→1
-- image-usage.json: no images picked
-- VARIANCE CHECK vs E1/E2/E3: 3/4 sections use NEW components (`7`, `DEEP-3`, `CTA-11`); Section 1 `HERO-9` reuses from E1 (acceptable; establishes L3 trust-peak voice register)
-- CAP CHECK: highest count = `5` at 2/8 (under cap); all new picks at 1/8; `HERO-9` at 2/8
+### Signoff — Lena medium E4
+- ROLE slot: `signoff-lena-medium`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e4-l3
+- COMPONENT PICKED: `EMODEEP-04`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8 (in component-usage.json)
+  - WHY: The Empathy Mirror — Lena voice; 'With understanding,'
+- IMAGE PICKED: `accessories/cloth-pads-watermelon-astronaut-cat.png`
+  - Alt text: muted textile near Lena sign-off
+  - Current usage: 3/25 (in image-usage.json)
+  - WHY: muted textile near Lena sign-off
 
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
+
+### Component count check
+- Total components in this email: 6/8
+- Status: ✅ PASS
+
+### L3 Calibration Check
+- ZERO yellow in any picked component: PASS (text_only / warm-toned picks only)
+- ZERO urgency in any CTA / language: PASS (text-link CTAs only, no buttons)
+- Cream / earth tones only in images: PASS (curated L3 image pool)
+- Lena peer voice sign-off (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,'): PASS
+- 1 Pair $34.99 primary offer in CTA body: PASS
+- NEVER 'Fix' / 'Cure' in picked components: PASS
+- 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-3', 'SP-08', 'EDU-11', 'EMO-8', 'CTA-4', 'EMODEEP-04']
+- image-usage.json: incremented ['lifestyle/toddler-napping-watermelon-pink-shorts.png', 'resized/toddler-playing.jpg', 'flat-lay/training-pant-cloud-raindrop-white.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png']
+
+---

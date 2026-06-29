@@ -774,155 +774,97 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 ## STAGE 2 PICKS — winback-b-24-e1-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** winback-b | **Position:** E7 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e1-l2
+- COMPONENT PICKED: FLOWDEEP-11 (Post-Purchase E1 Welcome *(L12650)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e1-l2, level=l2, theme=1. Calibrated per level.
 
 ### Section 1: HOOK — Real Symptom Recognition (L2 ①)
-
-- ROLE slot: `hook-real-symptom-recognition-l2`
-
-- INTENT: hook block — HOOK — Real Symptom Recognition (L2 ①)
-
-- COMPONENT PICKED: **17.7** — Closing Letter (Before CTA) (uses Letter)
-
-  - Currently used: 29/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: hook-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: EMO-7 (You're Not Alone *(L6987)*)
+  - Catalog entry: position=emotional_support, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/wet-bags-space-zebra-llama.png
+  - Alt text: L2 1 section 1 visual — calibrated per level (l2)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — You Didn't Fail (L2 ③)
-
-- ROLE slot: `validation-you-didn-t-fail-l2`
-
-- INTENT: validation block — VALIDATION — You Didn't Fail (L2 ③)
-
-- COMPONENT PICKED: **PERS-01** — Level Greeting
-
-  - Currently used: 20/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: validation-prose-warm-cream-with-bcba-respect
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EMODEEP-15 (The Emotional Weather *(L12395)*)
+  - Catalog entry: position=emotional_support, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: L2 1 section 2 visual — calibrated per level (l2)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — Interoception Gap (L2 ②)
-
-- ROLE slot: `mechanism-interoception-gap-l2`
-
-- INTENT: mechanism block — MECHANISM — Interoception Gap (L2 ②)
-
-- COMPONENT PICKED: **EJ2** — You're Not Alone
-
-  - Currently used: 45/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: mechanism-mint-callout-with-three-citations
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: ED3 (Interoception Explainer *(L3353)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: L2 1 section 3 visual — calibrated per level (l2)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: TESTIMONIAL — Peer L2 Parent Story
-
-- ROLE slot: `testimonial-peer-l2-parent-story`
-
-- INTENT: social_proof block — TESTIMONIAL — Peer L2 Parent Story
-
-- COMPONENT PICKED: **LETTER-06** — PS Teaser
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: pull-quote-slate-blue-left-border-italic-serif
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: 25.3 (Yellow Quote Card (Green Shadow) *(L2239)*)
+  - Catalog entry: position=body_mechanism, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: L2 1 section 4 visual — calibrated per level (l2)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: MECHANISM — BSL Bridges the Gap
-
-- ROLE slot: `mechanism-bsl-bridges-the-gap`
-
-- INTENT: mechanism block — MECHANISM — BSL Bridges the Gap
-
-- COMPONENT PICKED: **2.2** — Warm Hero
-
-  - Currently used: 45/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: layered-text-block-three-rows-bcba-complement
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: BONUS-04 (Wax Seal *(L8909)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: L2 1 section 5 visual — calibrated per level (l2)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: REALISTIC TIMELINES (L2 ④)
-
-- ROLE slot: `realistic-timelines-l2`
-
-- INTENT: default block — REALISTIC TIMELINES (L2 ④)
-
-- COMPONENT PICKED: **STORYDEEP-15** — The Museum Plaque
-
-  - Currently used: 45/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: timeline-stack-vertical-with-week-ranges
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: BONUS-05 (Tape Strip *(L8938)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
 ### Section 7: OFFER — 3+3 Bundle (L2 ⑤ + ⑥)
+- ROLE slot: pricing-box-warm-cream-with-rotation-story
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: BONUS-06 (Paper Tear *(L8973)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `offer-3-3-bundle-l2`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: offer block — OFFER — 3+3 Bundle (L2 ⑤ + ⑥)
+### Tracker updates
+- component-usage.json: incremented ['FLOWDEEP-11', 'EMO-7', 'EMODEEP-15', 'ED3', '25.3', 'BONUS-04', 'BONUS-05', 'BONUS-06']
+- image-usage.json: incremented ['accessories/wet-bags-space-zebra-llama.png', 'accessories/potty-targets-stickers-chart.png', 'flat-lay/training-pant-fox-woodland-white.jpg', 'lifestyle/toddlers-backview-disposable-diapers.png', 'flat-lay/training-pant-fox-red-white.jpg']
 
-- COMPONENT PICKED: **EMO-7** — You're Not Alone
-
-  - Currently used: 46/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Section 8: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
-
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
-
-- COMPONENT PICKED: **HERO-18** — Guilt Absolution
-
-  - Currently used: 46/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8

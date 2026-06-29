@@ -565,159 +565,113 @@ END OF WIREFRAME — cart-02-e2
 
 ## STAGE 2 PICKS — cart-02-e2
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 8 body sections.
-
-> **Flow:** cart | **Position:** E2 | **Level:** GF
-
-
-### Section 1: Hero Testimonial
-
-- ROLE slot: `hero-testimonial`
-
-- INTENT: social_proof block — Hero Testimonial
-
-- COMPONENT PICKED: **STORY-03** — Split Before/After
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: Hook And Anchors
-
-- ROLE slot: `hook-and-anchors`
-
-- INTENT: hook block — Hook And Anchors
-
-- COMPONENT PICKED: **HERO-20** — Handwritten Letter Opener
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: Validation
-
-- ROLE slot: `validation`
-
-- INTENT: validation block — Validation
-
-- COMPONENT PICKED: **DEEP-02** — Mom Confessional
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: Mechanism
-
-- ROLE slot: `mechanism`
-
-- INTENT: mechanism block — Mechanism
-
-- COMPONENT PICKED: **DEEP-07** — Evidence Chain
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: Three Family Proof
-
-- ROLE slot: `three-family-proof`
-
-- INTENT: social_proof block — Three Family Proof
-
-- COMPONENT PICKED: **STORY-05** — Diary Entry
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: First Win Callout
-
-- ROLE slot: `first-win-callout`
-
-- INTENT: default block — First Win Callout
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: Offer And Cta
-
-- ROLE slot: `offer-and-cta`
-
-- INTENT: cta block — Offer And Cta
-
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: Guarantee Strip
-
-- ROLE slot: `guarantee-strip`
-
-- INTENT: guarantee block — Guarantee Strip
-
-- COMPONENT PICKED: **TRUST-5** — Promise Card
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 8
+### Section 1: hero-parent-quote-callout (HERO)
+- ROLE slot: hero-parent-quote-callout
+- INTENT: opens with a single, large, hand-drawn quote mark surrounding "The moment he stands up he pees." — a raw parent voice. Terracotta accent differentiates from E1.
+- COMPONENT PICKED: HERO-10 (Bold Declaration)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=emotional, temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: Bold Declaration matches the oversized quote-glyph hero treatment. The parent-voice subject ("What parents actually say") calls for a declaration-style hero, not whisper. Fresh hero (not used yet).
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text (GF, V16): "Toddler viewed from behind in mustard yellow shorts, soft warm light, full backview."
+  - Current usage: 3/25 (after this pick)
+  - WHY: Backview of toddler supports "The moment he stands up he pees." R1-compliant (no face). Mustard color matches the terracotta accent from the wireframe.
+
+### Section 2: cross-level-recognition-anchor-list
+- ROLE slot: cross-level-recognition-anchor-list
+- INTENT: 5 symptom anchors (sits / doesn't react wet / knows but can't feel / almost trained / been in pull-ups for years).
+- COMPONENT PICKED: EMO-9 (Strength Reframe)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=emotional, image_support=image_text, temperature=warm
+  - Current usage: 1/8
+  - WHY: Strength Reframe visual treatment works as a recognition-anchor list because each anchor can carry a "this isn't your fault" reframe. Different from cart-02-e1's "6" Avatar Recognition Block — picks a different list-pattern component for variance.
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with white and red fox pattern, flat-lay product shot."
+  - Current usage: 5/25
+  - WHY: Fox-pattern product supports the "almost trained" recognition anchor. White/cream/red palette matches the terracotta accent.
+
+### Section 3: validation-block-with-neurology-reframe
+- ROLE slot: validation-block-with-neurology-reframe
+- INTENT: validates the parent's experience and re-frames the gap as neurology, not effort.
+- COMPONENT PICKED: 2 (The Reframe Moment)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=emotional, image_support=image_text, temperature=warm
+  - Current usage: 1/8
+  - WHY: "The Reframe Moment" is the exact match for "validation-block-with-neurology-reframe". Catalog name literally captures the intent.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text (GF, V16): "Two toddlers viewed from behind wearing soft disposable diapers, warm indoor setting."
+  - Current usage: 3/25
+  - WHY: Backview dual-toddler shot supports the validation framing ("you're not alone") without showing faces. R1-clean.
+
+### Section 4: mechanism-explanation-with-science-anchors
+- ROLE slot: mechanism-explanation-with-science-anchors
+- INTENT: cites Kelly Mahler, Nicholson et al. 2019, 49-study review. Three citation tokens rendered as inline pills.
+- COMPONENT PICKED: PSYCH-01 (Anchoring)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], messaging=psychology, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Anchoring" psychology component naturally fits citation-pill rendering — citation tokens are anchor references for the reader. Body_mechanism position perfectly matches the science-anchors INTENT.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text (GF, V16): "Toddler napping on a soft cream blanket wearing watermelon-patterned pink shorts."
+  - Current usage: 7/25
+  - WHY: Visualizes "body signals at rest" — supports the mechanism reframe that the body is constantly sending signals. Pink/cream palette matches the warm theme.
+
+### Section 5: three-testimonial-card-stack-asymmetric
+- ROLE slot: three-testimonial-card-stack-asymmetric
+- INTENT: three cards with VARIED widths creating asymmetric stack. Different from E1's uniform cards.
+- COMPONENT PICKED: VSOCIAL-8 (Community Counter)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_only, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Community Counter renders well as an asymmetric stacked card display. image_only support means the visual treatment varies card widths naturally. Different from cart-02-e1's SP-08 Stacked Mini-Reviews.
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text (GF, V16): "Toddler wearing a small backpack with soft moon and cloud-blue pattern, rearview."
+  - Current usage: 6/25
+  - WHY: Generic toddler-backpack visual supports asymmetric testimonial cards. Moon-cloud-blue pattern complements the cream/emerald palette.
+
+### Section 6: low-bar-success-quote-callout
+- ROLE slot: low-bar-success-quote-callout
+- INTENT: renders "He went today! Once! But he went!" as a stand-alone callout box. Celebrates MINI-WIN (R6).
+- COMPONENT PICKED: EMO-2 (Micro-Win Card)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=psychology, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Micro-Win Card" is built exactly for the R6 mini-win celebration use case. The "He went today!" quote IS a micro-win moment.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with watermelon pattern in pink, flat-lay product shot."
+  - Current usage: 4/25
+  - WHY: Watermelon pattern product for the celebratory micro-win. Pink tone fits the celebratory mood.
+
+### Section 7: offer-block-with-pricing-anchor
+- ROLE slot: offer-block-with-pricing-anchor
+- INTENT: explains the rotation logic (1 pair vs 3+3). Price anchor shown as "$13.33 per pair with the bundle".
+- COMPONENT PICKED: 5 (60-Day Calm Promise)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=guarantee, image_support=image_text, temperature=warm
+  - Current usage: 1/8
+  - WHY: 60-Day Calm Promise messaging variant renders the offer's value framing ("less than half the single-pair price") cleanly with the guarantee implicit. Different from cart-02-e1's CMP-5 (which was about Method Spectrum) — this is the guarantee-anchored value block.
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text (GF, V16): "Reusable laundry bag with llama pattern in cream tones, flat-lay product shot."
+  - Current usage: 2/25
+  - WHY: Supports the rotation-logic implication (3+3 means consistent feedback). Cream llama pattern fits warm palette.
+
+### Section 8: guarantee-statement-block
+- ROLE slot: guarantee-statement-block
+- INTENT: framed guarantee sentence. Smaller than E1's guarantee callout.
+- COMPONENT PICKED: TRUST-1 (60-Day Seal)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=guarantee, image_support=image_text, temperature=neutral
+  - Current usage: 3/8
+  - WHY: 60-Day Seal renders the horizontal strip guarantee cleanly. Different from cart-02-e1's TRUST-2 (Detail Cards) — this is the strip/seal variant.
+- IMAGE PICKED: (NONE for this section — already at image cap with prior sections)
+
+### Image count check
+- Total images in this email: 7/6 (1 over cap)
+- Status: NEEDS ADJUSTMENT
+
+### Adjustment
+- Section 7 image (laundry-bag-llama-cream.png) is most redundant (laundry bag doesn't add to guarantee strip). Drop section 7 image.
+- Section 8 has no image (text-only guarantee strip is correct per wireframe).
+
+### Adjusted image count check
+- Total images in this email: 6/6
+- Status: PASS (hard minimum 4 met, hard cap 6 met)
+- Components: 8/8 (at cap)
+
+### Tracker updates
+- component-usage.json: incremented [HERO-10, EMO-9, "2", PSYCH-01, VSOCIAL-8, EMO-2, "5", TRUST-1]
+- image-usage.json: incremented [lifestyle/toddler-rearview-cat-mustard.png, flat-lay/training-pant-fox-red-white.jpg, lifestyle/toddlers-backview-disposable-diapers.png, lifestyle/toddler-napping-watermelon-pink-shorts.png, lifestyle/toddler-backpack-moon-cloud-blue.png, flat-lay/training-pant-watermelon-pink.jpg]
+- SKIPPED: flat-lay/laundry-bag-llama-cream.png (over-cap)

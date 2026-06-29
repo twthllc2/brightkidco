@@ -628,214 +628,99 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 ---
 
-## STAGE 2 PICKS — review-18-e1
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 11 body sections.
-
-> **Flow:** review-request | **Position:** E1 | **Level:** GF
-
-
-### Section 1: BRIGHTKIDCO LETTERHEAD
-
-- ROLE slot: `brightkidco-letterhead`
-
-- INTENT: default block — BRIGHTKIDCO LETTERHEAD
-
-- COMPONENT PICKED: **REV-02.2** — REV-02.2 — Social Proof Momentum (Family Count Header)
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: SUBJECT + PREVIEW BLOCK
-
-- ROLE slot: `subject-preview-block`
-
-- INTENT: review block — SUBJECT + PREVIEW BLOCK
-
-- COMPONENT PICKED: **REV-09.2** — Review Block
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 8/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: SECTION 1 — HOOK, UNIVERSAL RECOGNITION
-
-- ROLE slot: `section-1-hook-universal-recognition`
-
-- INTENT: validation block — SECTION 1 — HOOK, UNIVERSAL RECOGNITION
-
-- COMPONENT PICKED: **DEEP-03** — Pattern Break
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 6/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: SECTION 2 — RECOGNITION ANCHORS, R2 + R6
-
-- ROLE slot: `section-2-recognition-anchors-r2-r6`
-
-- INTENT: validation block — SECTION 2 — RECOGNITION ANCHORS, R2 + R6
-
-- COMPONENT PICKED: **DEEP-18** — Celebration Deficit
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: SECTION 3 — THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `section-3-three-family-testimonial-pattern`
-
-- INTENT: social_proof block — SECTION 3 — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **STORY-10** — Stacked Story
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: SECTION 4 — LEADING QUESTIONS (REVIEW ASK)
-
-- ROLE slot: `section-4-leading-questions-review-ask`
-
-- INTENT: cta block — SECTION 4 — LEADING QUESTIONS (REVIEW ASK)
-
-- COMPONENT PICKED: **CTA-3** — Curiosity Code
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: SECTION 5 — PRIMARY CTA BUTTON
-
-- ROLE slot: `section-5-primary-cta-button`
-
-- INTENT: cta block — SECTION 5 — PRIMARY CTA BUTTON
-
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 8: SECTION 6 — SECONDARY CTA, TEXT LINK
-
-- ROLE slot: `section-6-secondary-cta-text-link`
-
-- INTENT: cta block — SECTION 6 — SECONDARY CTA, TEXT LINK
-
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 9: NEXT-TIME FORWARD-LOOK
-
-- ROLE slot: `next-time-forward-look`
-
-- INTENT: next block — NEXT-TIME FORWARD-LOOK
-
-- COMPONENT PICKED: **DEEP-08** — Permission Paradox
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 10: SECTION 7 — LENA SIGN-OFF, MEDIUM VARIANT
-
-- ROLE slot: `section-7-lena-sign-off-medium-variant`
-
-- INTENT: signoff block — SECTION 7 — LENA SIGN-OFF, MEDIUM VARIANT
-
-- COMPONENT PICKED: **LETTER-12** — Fragmented Text
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 11: SECTION 8 — FOOTER
-
-- ROLE slot: `section-8-footer`
-
-- INTENT: signoff block — SECTION 8 — FOOTER
-
-- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 11
+## STAGE 2 PICKS - review-18-e1
+
+**GF cross-level calibration (R1-R6):** D30-45 review-request ask. R1 symptom language only, R2 5 anchors, R4 verbal/non-verbal inclusivity ("said wet, showed you with a gesture"), R6 low-bar success metrics ("still watching, still hoping"). Privacy-first text-only design — but Stage 2 enforces 4-6 images, so I add contextual product/lifestyle images at body sections. Image count target: 4-6. Component count target: 4-8. Hero UNIQUE to this email.
+
+### Section 1: SUBJECT + PREVIEW HEADLINE (HERO)
+- ROLE slot: hero-question-hook-band ("Would you recommend us?")
+- INTENT: Honest-question "would you recommend us?" opener; sets the tone as invitation not interrogation; relies on Lena peer-voice throughout body.
+- COMPONENT PICKED: PSYCH-05 (Curiosity Gap, hero-class)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF, temp=warm, image_support=text_only, messaging=emotional, giuliano=quality_approved
+  - Current usage: 0/8 (UNIQUE - fresh; was zero in tracker)
+  - WHY: "PSYCH-05 / Curiosity Gap" is the only fresh hero remaining that fits an emotional question-hook opener ("would you recommend us?"); paired with Lena peer-voice; brand-fresh, not yet picked.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Two BrightKidCo founders holding a stack of yellow-and-watermelon potty training pants, candid and warm.
+  - Current usage: 4/25
+  - WHY: Founders-holding-pants visual anchors the personal brand-trust story; fits the question-hook "would you recommend us" framing where peers ask peers.
+
+### Section 2: SECTION 1 - HOOK (Whether/Or/If Universal Recognition)
+- ROLE slot: hook-whether-or-if-band (R1, R3, R4)
+- INTENT: Inclusive opener that recognizes any shift (2 weeks to 8+, said/showed/looked/paused).
+- COMPONENT PICKED: EMO-1 (Permission Slip)
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 5/8
+  - WHY: "Permission Slip" matches the "if something shifted, even a little, it matters" hook opening.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: A toddler playing on a living room floor with a wooden train, soft natural light, candid.
+  - Current usage: 7/25
+  - WHY: Soft home play moment visualizes the "paused before the accident" anchor tone; calm Pre-K-aged candid.
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: BrightKidCo potty-training guide book on a neutral surface, warm light.
+  - Current usage: 0/25 (FRESH)
+  - WHY: Guide book = BKC authority for the review request; reinforces trust signal that "your review helps another parent"; fresh image maintains variance.
+
+### Section 3: SECTION 2 - RECOGNITION ANCHORS, R2 + R6 (5 anchors)
+- ROLE slot: anchor-list-band-5-bullets-soft-mint-dash
+- INTENT: R2 (5 anchors: pause before accident, look down, pull at pants, dry 2 hours, nothing yet) + R6 "honest story" closer.
+- COMPONENT PICKED: EDU-3 (Checklist)
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 6/8 (cap-safe, 2 left)
+  - WHY: "Checklist" format consistency for R2 anchors across replen + review flows.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: A toddler napping peacefully in pink watermelon-print shorts, calm and homey.
+  - Current usage: 10/25
+  - WHY: Quiet-nap Pre-K visual evokes "stayed dry 2 hours" anchor without implying a clinical outcome; pink ties to watermark print motif.
+
+### Section 4: SECTION 3 - THREE-FAMILY TESTIMONIAL PATTERN (3 blockquotes)
+- ROLE slot: testimonial-stack-3-blockquotes-light-gray-with-thin-rules
+- INTENT: Three honest-stories - "He went from almost to mostly..." / "She finally paused when she felt wetness." / "He's not trained but he felt something..."
+- COMPONENT PICKED: SP-13 (Review of the Week)
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 4/8 (close to cap but safe)
+  - WHY: "Review of the Week" is purpose-built for editorial-picked honest reviews - perfect for a review-request flow that needs authentic voice over polished reviews.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: BrightKidCo sticker chart and potty-target accessories laid out, neutral surface.
+  - Current usage: 3/25
+  - WHY: Sticker chart visual echoes the prompt-to-share-the-journey tone without implying unmet targets; warm surface fits gray-blockquote tint.
+
+### Section 5: SECTION 4 - LEADING QUESTIONS (3 open-ended prompts)
+- ROLE slot: open-questions-block-with-right-arrow-glyph
+- INTENT: Three soft prompts: "What was your child doing before / What changed / What would you tell another parent?" + permission line.
+- COMPONENT PICKED: PSYCH-03 (Social Proof Cascade)
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Social Proof Cascade" pattern repurposes the question-cascade as a peer-prompt structure (3 arrows = 3 cascading prompts that prime the reviewer).
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: Training pants on a washing machine, candid home laundry moment, soft natural light.
+  - Current usage: 1/25
+  - WHY: Laundry-machine visual evokes "your experience" (everyday real-life texture that prompted them to review); soft natural light ties to white-bg editorial layout.
+
+### Section 6: SECTION 5 + 6 - PRIMARY CTA + SECONDARY TEXT LINK
+- ROLE slot: dual-cta-brand-green-primary + secondary-text-link-reply-invitation
+- INTENT: Primary "Share your experience" brand-green button + secondary "Or hit reply and tell me in your own words" text link (reply-deliverability reinforcement).
+- COMPONENT PICKED: CTA-11 (Permission CTA)
+  - Catalog entry: position=emotional_support, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 1/8
+  - WHY: "Permission CTA" frame sets "Share your experience" + "Or hit reply" dual route as a permission-toned close (no hard-CTA energy); warm tone matches PS pattern.
+
+### Section 7: SECTION 7 - LENA SIGN-OFF (MEDIUM variant, E1 of Flow 18)
+- ROLE slot: signoff-lena-medium-cream-divider (Talk soon + P.S.)
+- INTENT: Lena MEDIUM variant for E1 - "your story is exactly what another mom needs to read this week" PS line.
+- COMPONENT PICKED: UTIL-05 (Signoff Card [G+])
+  - Catalog entry: position=signoff_footer, audience=GF, temp=warm (Giuliano source)
+  - Current usage: 5/8 (close to cap but safe)
+  - WHY: Canonical cream-card signoff consistent across replen + review flows.
+
+### Image count check
+- Total images in this email: 5/6 (target range 4-6). 1 hero + 2 hook + 1 anchor + 1 testimonial + 1 leading-questions.
+- Status: PASS
+- Total components: 7/8. Status: PASS.
+
+### Hero uniqueness check
+- PSYCH-05 used: 1/1 (this email only). Zero reuse. OK.
+
+### Tracker updates
+- component-usage.json: +1 to [PSYCH-05, EMO-1, EDU-3, SP-13, PSYCH-03, CTA-11, UTIL-05] (post-update: PSYCH-05 1, EMO-1 6, EDU-3 7, SP-13 5, PSYCH-03 1, CTA-11 2, UTIL-05 6; all under 8-cap)
+- image-usage.json: +1 to [lifestyle/founders-holding-pants-yellow-watermelon.png 5, lifestyle/toddler-playing-train-moon-cloud-blue.png 8, accessories/book-potty-training-guide.png 1, lifestyle/toddler-napping-watermelon-pink-shorts.png 11, accessories/potty-targets-stickers-chart.png 4, lifestyle/washing-machine-training-pants.png 2] (all under 25 cap)

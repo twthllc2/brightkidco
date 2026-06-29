@@ -74,6 +74,20 @@ BrightKidCo
 
 Reply to this email. Lena reads every response.
 
+Talk soon,
+Lena ——
+Customer Support · Mom of two autistic sons
+
+P.S. If you want to see how the body-signal approach works, [link]. No pressure.
+
+## Footer
+
+BrightKidCo
+[Physical Address]
+[Unsubscribe Link]
+
+Reply to this email. Lena reads every response.
+
 ## Source Citations
 - S2 section: Cart E1, 1 Hour (§1.2, lines 401-413)
 - Cross-level framework: Layer 18, R1-R6 calibration rules (§2, rules 1-6)
@@ -487,148 +501,102 @@ END OF WIREFRAME — cart-02-e1
 
 ## STAGE 2 PICKS — cart-02-e1
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** cart | **Position:** E1 | **Level:** GF
-
-
-### Section 1: Hero
-
-- ROLE slot: `hero`
-
-- INTENT: default block — Hero
-
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: Hook
-
-- ROLE slot: `hook`
-
-- INTENT: hook block — Hook
-
-- COMPONENT PICKED: **HERO-11** — Question Storm
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 5/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: Validation
-
-- ROLE slot: `validation`
-
-- INTENT: validation block — Validation
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: Mechanism
-
-- ROLE slot: `mechanism`
-
-- INTENT: mechanism block — Mechanism
-
-- COMPONENT PICKED: **HERO-16** — Mechanism Tease
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: Three Family Proof
-
-- ROLE slot: `three-family-proof`
-
-- INTENT: social_proof block — Three Family Proof
-
-- COMPONENT PICKED: **STORY-09** — Quiet Witness
-
-  - Currently used: 7/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF three-family-proof)
-  - WHY: by-name position+audience match. STORY-09 is a body_recognition component with full-audience tag, appropriate for GF three-family-proof.
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: Product Intro
-
-- ROLE slot: `product-intro`
-
-- INTENT: hook block — Product Intro
-
-- COMPONENT PICKED: **HERO-18** — Guilt Absolution
-
-  - Currently used: 12/8 (over cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF product-intro)
-  - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF product-intro.
-
-- IMAGE PICKED: **lifestyle/toddler-playing-train-moon-cloud-blue.png**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: Guarantee And Cta
-
-- ROLE slot: `guarantee-and-cta`
-
-- INTENT: guarantee block — Guarantee And Cta
-
-- COMPONENT PICKED: **TRUST-7** — Trust Block
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7
+### Section 1: hero-illustration-signal-path (HERO)
+- ROLE slot: hero-illustration-signal-path
+- INTENT: abstract dotted neural line with three glowing nodes (no faces, no level imagery). Sets the visual metaphor for the entire email (signal-path runs through every section).
+- COMPONENT PICKED: HERO-9 (Whisper Tone)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=emotional, temperature=warm, image_support=text_only
+  - Current usage: 1/8 (after this pick)
+  - WHY: Whisper tone is the only hero pattern that matches a permission-framed subject ("You left something, no rush") without pressuring. No child imagery required, matches the signal-path illustration's abstract treatment.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 6/25 (after this pick)
+  - WHY: Founders photo grounds the brand without showing a child (R1: symptom over label). Warm cream palette matches the section-1 signal-path illustration's warm cream background.
+
+### Section 2: hero-quote-callout
+- ROLE slot: hero-quote-callout
+- INTENT: opens with the "your cart's still saved, no rush" sentence as a single callout. Frames the entire email as permission-based, NOT pushy.
+- COMPONENT PICKED: EMO-1 (Permission Slip)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=emotional, image_support=text_only
+  - Current usage: 1/8
+  - WHY: The "Permission Slip" is text-only and matches the permission-framing intent directly. Visual treatment for the single-sentence callout.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with soft bunny-and-heart pattern in pink, flat-lay product shot."
+  - Current usage: 5/25
+  - WHY: Soft pink product flat-lay supports the permission/cart-saving message. R1: no children shown, only the product the cart already contains.
+
+### Section 3: recognition-anchor-list
+- ROLE slot: recognition-anchor-list
+- INTENT: 4 symptom anchors stacked vertically (R2). Renders the "sits 20 min / plays wet / almost trained / never initiates" set.
+- COMPONENT PICKED: 6 (Avatar Recognition Block "Which one sounds like your child?")
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], messaging=conversion, image_support=image_text, temperature=warm
+  - Current usage: 1/8
+  - WHY: Visual treatment is exactly the R2 recognition-anchor pattern. GF-universal, supports V16 symptom-only language.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text (GF, V16): "Toddler climbing a pink and multicolor potty ladder, viewed from behind in a warm living-room setting."
+  - Current usage: 5/25
+  - WHY: Visualizes the "sits 20 minutes, nothing happens" recognition anchor. Backview (no face) supports R1.
+
+### Section 4: mechanism-explanation-block
+- ROLE slot: mechanism-explanation-block
+- INTENT: interoception explainer. One paragraph with the word "signal" rendered in the brand accent.
+- COMPONENT PICKED: 1 (The Body Signal Concept - Core Mechanism Visual)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=education, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Canonical Body-Signal mechanism visual. Matches section 4's interoception-explanation INTENT exactly.
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text (GF, V16): "Potty training targets stickers and progress chart accessory laid flat, warm cream background."
+  - Current usage: 3/25
+  - WHY: Generic accessory visual that supports the mechanism reframe. V16-safe (no labels).
+
+### Section 5: three-testimonial-card-stack
+- ROLE slot: three-testimonial-card-stack
+- INTENT: three cards vertically stacked, each with hairline LEFT emerald border. Three parent stories (Sarah / Lisa / Maria) — symptom-described, no level labels.
+- COMPONENT PICKED: SP-08 (Stacked Mini-Reviews)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 2/8
+  - WHY: Built exactly for three stacked quote cards. Image-text support lets the hairline emerald left border render properly.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text (GF, V16): "Toddler playing outdoors on grass wearing a soft disposable diaper, side view."
+  - Current usage: 4/25
+  - WHY: Generic outdoor toddler visual for Sarah testimonial. Side view, R1-compliant.
+
+### Section 6: product-introduction-block
+- ROLE slot: product-introduction-block
+- INTENT: introduces Body-Signal Learning Layer underwear gently. Product image NOT shown (mechanism email).
+- COMPONENT PICKED: CMP-5 (Method Spectrum Bar)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=guarantee, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Visually positions Body-Signal underwear between pull-ups and traditional training pants — exactly the product-introduction framing this section needs.
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text (GF, V16): "Reusable training pants hanging in front of an open washing machine in a bright laundry area."
+  - Current usage: 4/25
+  - WHY: Supports the rotation-logic implication. No child shown, R1-clean.
+
+### Section 7: guarantee-callout-block
+- ROLE slot: guarantee-callout-block
+- INTENT: framed guarantee sentence, centered, on warm cream background. Sits ABOVE the CTA.
+- COMPONENT PICKED: TRUST-2 (Guarantee Detail Cards)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=product, image_support=image_only, temperature=neutral
+  - Current usage: 2/8
+  - WHY: Renders the 60-day statement with proper trust-badge styling.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with cream and soft cloud-raindrop pattern, flat-lay product shot."
+  - Current usage: 3/25
+  - WHY: Cream/white pattern visual anchors the warm cream guarantee background. Generic product, V16-safe.
+
+### Image count check
+- Total images in this email: 7/6
+- Status: OVER CAP — need to remove 1 image
+
+### Adjustment
+- Remove IMAGE from Section 4 (potty-targets-stickers-chart.png) to bring count to 6/6 (cap)
+
+### Adjusted image count check
+- Total images in this email: 6/6
+- Status: PASS (hard minimum 4 met, hard cap 6 met)
+
+### Tracker updates
+- component-usage.json: incremented [HERO-9, EMO-1, "6", "1", SP-08, CMP-5, TRUST-2]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, flat-lay/training-pant-bunny-hearts-pink.jpg, lifestyle/toddler-potty-ladder-pink-multicolor.png, lifestyle/toddler-outdoors-grass-disposable-diaper.png, lifestyle/washing-machine-training-pants.png, flat-lay/training-pant-cloud-raindrop-white.jpg]
+- SKIPPED: accessories/potty-targets-stickers-chart.png (over-cap)

@@ -549,121 +549,89 @@ END OF WIREFRAME — winback-a-19-e3-l3
 
 ## STAGE 2 PICKS — winback-a-19-e3-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** winback-a | **Position:** E12 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-a-19-e3-l3
+- COMPONENT PICKED: CSHOP-3 (Bestseller Social Proof *(L25080)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-a-19-e3-l3, level=l3, theme=3. Calibrated per level.
 
 ### Section 1: OPENING — Quiet Dignity Acknowledgment
-
-- ROLE slot: `opening-quiet-dignity-acknowledgment`
-
-- INTENT: hook block — OPENING — Quiet Dignity Acknowledgment
-
-- COMPONENT PICKED: **OBJ-15.2** — OBJ-15.2 — Three Guarantees Stack (Money-Back Trio)
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: opening-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: REV-10.2 (REV-10.2 — Lena Final (Lena's Last Word) *(L20994))
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L3 3 section 1 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: MECHANISM REMINDER — The Signal Still Exists
-
-- ROLE slot: `mechanism-reminder-the-signal-still-exists`
-
-- INTENT: mechanism block — MECHANISM REMINDER — The Signal Still Exists
-
-- COMPONENT PICKED: **STORYDEEP-11** — The Weather Report
-
-  - Currently used: 36/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-warm-sand-callout-no-green-l3
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: M2 (Mechanism Diagram (Mobile) *(L2971)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 5/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L3 3 section 2 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: OFFER — 1 Pair ($34.99), Add Alongside
-
-- ROLE slot: `offer-1-pair-34-99-add-alongside`
-
-- INTENT: offer block — OFFER — 1 Pair ($34.99), Add Alongside
-
-- COMPONENT PICKED: **EMO-2** — Micro-Win Card
-
-  - Currently used: 37/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: offer-prose-1-pair-only-no-bundle-l3
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EDU-12 (Comparison Matrix *(L5552)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: L3 3 section 3 visual — calibrated per level (l3)
+  - Current usage: 16/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: GUARANTEE — 60 Days, No Questions, Your Judgment
-
-- ROLE slot: `guarantee-60-days-no-questions-your-judgment`
-
-- INTENT: guarantee block — GUARANTEE — 60 Days, No Questions, Your Judgment
-
-- COMPONENT PICKED: **22.3** — Circle Crop Hero
-
-  - Currently used: 37/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: guarantee-paragraph-with-no-disappointment-anchor
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: TRUST-8 (Trust Icons Row *(L6603)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: L3 3 section 4 visual — calibrated per level (l3)
+  - Current usage: 19/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: CLOSING — Door-Closing Moment
-
-- ROLE slot: `closing-door-closing-moment`
-
-- INTENT: default block — CLOSING — Door-Closing Moment
-
-- COMPONENT PICKED: **STORYDEEP-12** — The Book Chapter
-
-  - Currently used: 37/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: closing-prose-warm-cream-door-closing
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PSYCH-10 (Scarcity (Honest) *(L8727)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: L3 3 section 5 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+- ROLE slot: lena-signoff-long-with-older-son-ps-l3
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: UTIL-10 (Legal Text *(L7739)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 6/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- ROLE slot: `lena-sign-off-long-variant-older-son-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
+### Tracker updates
+- component-usage.json: incremented ['CSHOP-3', 'REV-10.2', 'M2', 'EDU-12', 'TRUST-8', 'PSYCH-10', 'UTIL-10']
+- image-usage.json: incremented ['flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'flat-lay/swim-diaper-unicorn-pink.jpg', 'lifestyle/toddler-potty-ladder-pink-multicolor.png', 'lifestyle/toddler-napping-watermelon-pink-shorts.png', 'accessories/towel-set-llama-cactus.png']
 
-- COMPONENT PICKED: **EMODEEP-06** — The Community Embrace
-
-  - Currently used: 38/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6

@@ -559,230 +559,98 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
 
 ---
 
+
+---
+
 ## STAGE 2 PICKS — repa-15-e1
 
-
-> **Replenish Calibration:** Gentle re-order nudge. Permission-based. NO urgency.
-
-
-> **Section count:** 11 body sections.
-
-> **Flow:** replenish-a | **Position:** E1 | **Level:** GF
-
-
-### Section 1: BRIGHTKIDCO LETTERHEAD
-
-- ROLE slot: `brightkidco-letterhead`
-
-- INTENT: default block — BRIGHTKIDCO LETTERHEAD
-
-- COMPONENT PICKED: **PROD-4** — Product Showcase
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **flat-lay/laundry-bag-llama-cream.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 2: HERO IMAGE BAND
-
-- ROLE slot: `hero-image-band`
-
-- INTENT: image_block block — HERO IMAGE BAND
-
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
-
-  - Currently used: 12/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 3: OPENER HOOK
-
-- ROLE slot: `opener-hook`
-
-- INTENT: default block — OPENER HOOK
-
-- COMPONENT PICKED: **HERO-4** — Story Fragment
-
-  - Currently used: 5/8 (under cap; was PROD-4 which is a product_showcase component, not appropriate for hook role)
-  - WHY: by-name GF-compatible. Story Fragment is a hero component with story/audit messaging — appropriate for opener-hook. Renders as inline story open without product chrome. Variance vs Section 6 (HERO-18) and Section 1 (PROD-4 kept) — three different open-tone templates.
-
-- IMAGE PICKED: **flat-lay/training-pant-fox-red-white.jpg**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 4: RECOGNITION ANCHORS, R2: 3-5 ANCHORS
-
-- ROLE slot: `recognition-anchors-r2-3-5-anchors`
-
-- INTENT: validation block — RECOGNITION ANCHORS, R2: 3-5 ANCHORS
-
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 11/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 5: THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `three-family-testimonial-pattern`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **SP-08** — Stacked Mini-Reviews
-
-  - Currently used: 3/8 (under cap; was PROD-4 which is a product_showcase component, not appropriate for testimonial)
-  - WHY: by-name position-match. SP-08 Stacked Mini-Reviews is a body_social_proof component designed specifically for stacked testimonial patterns. Renders as quote-card mini-stack with soft gray hairline. Variance vs Section 6 (SP-11 Star Cascade) — two distinct testimonial layouts.
-
-- IMAGE PICKED: **flat-lay/training-pant-penguin-multicolor.jpg**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 6: MECHANISM REFRESHER
-
-- ROLE slot: `mechanism-refresher`
-
-- INTENT: mechanism block — MECHANISM REFRESHER
-
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/toddler-playing-train-moon-cloud-blue.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 7: CTA SECTION
-
-- ROLE slot: `cta-section`
-
-- INTENT: cta block — CTA SECTION
-
-- COMPONENT PICKED: **CTADEEP-08** — The Story Closer
-
-  - Currently used: 2/8 (under cap; was PROD-4 which is product_showcase component, not appropriate for CTA role)
-  - WHY: by-name position-match. CTADEEP-08 is a body_cta component with story messaging — converts the social proof into a permission-close CTA. Warm tone preserves replenish-a's permission-based tone. Variance vs Section 8 (CTA-2 Soft Link) — story-driven vs link-driven CTA.
-
-- IMAGE PICKED: **flat-lay/training-pant-cloud-raindrop-white.jpg**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 8: PRIMARY CTA BUTTON
-
-- ROLE slot: `primary-cta-button`
-
-- INTENT: cta block — PRIMARY CTA BUTTON
-
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 9: NEXT-TIME FORWARD-LOOK
-
-- ROLE slot: `next-time-forward-look`
-
-- INTENT: next block — NEXT-TIME FORWARD-LOOK
-
-- COMPONENT PICKED: **HERO-19** — Timeline Shock
-
-  - Currently used: 5/8 (under cap; was PROD-4 which is product_showcase component, not appropriate for forward-look hero role)
-  - WHY: by-name position-match. HERO-19 Timeline Shock is a hero component with story messaging — perfect for "next-time" forward-look teaser. Renders as timeline-acceleration open with momentum not pressure.
-
-- IMAGE PICKED: **flat-lay/swim-diaper-giraffe-yellow.jpg**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 10: LENA SIGN-OFF, SHORT VARIANT
-
-- ROLE slot: `lena-sign-off-short-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF, SHORT VARIANT
-
-- COMPONENT PICKED: **HERO-3** — Permission Open
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Section 11: FOOTER
-
-- ROLE slot: `footer`
-
-- INTENT: signoff block — FOOTER
-
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 11
+**GF cross-level calibration (R1-R6):** NO autism/ASD/Level labels in body. Symptom language only (R1). 3-5 recognition anchors (R2). Age ranges over fixed ages (R3). Verbal/non-verbal inclusivity (R4). Timeline flexibility (R5). Low-bar success metrics (R6). Warm cognac + cream + sage palette. Image count target: 4-6. Component count target: 4-8. Hero UNIQUE to this email.
+
+### Section 1: HERO IMAGE BAND (HERO)
+- ROLE slot: hero-image-lifestyle (warm, child at home in underwear, no full face)
+- INTENT: E1 of 3 (Flow 15, 1-pair buyer, Day 14) — calm two-week-in opener; warm universal home image; sets the tone for the recognition anchors that follow.
+- COMPONENT PICKED: HERO-18 (Guilt Absolution)
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF, temp=warm, image_support=text_only
+  - Current usage: 0/8 (UNIQUE — not yet picked for any other email)
+  - WHY: "Guilt Absolution" hero fits the "you're doing enough" permission-not-to-buy E1 of Replenish-A; absolves the parent who has only used 1 pair; matches Day-14 check-in tone. Fresh pick satisfying zero-reuse rule.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: A young child sitting on a soft living room floor in dinosaur-print underpants, soft natural light, facing away, candid mid-play moment.
+  - Current usage: 4/25
+  - WHY: Real home, candid posture, soft light, universal toddler vibe — matches hero INTENT and GF universal image calibration (V16-safe, no labels).
+
+### Section 2: OPENER HOOK (recognition frame)
+- ROLE slot: opener-hook-universal ("Whether...Or...If..." pattern)
+- INTENT: Inclusive "if/whether" opener that works across L1/L2/L3/GF sub-groups (R1, R3, R4).
+- COMPONENT PICKED: EMO-1 (Permission Slip) — *body_recognition*
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF, temp=warm
+  - Current usage: 0/8
+  - WHY: "Permission Slip" frames the inclusive opener as permission to be at any point in the journey — matches the "Whether...or...if..." universal recognition pattern.
+
+### Section 3: RECOGNITION ANCHORS (R2)
+- ROLE slot: recognition-anchors-cream-band (5 bullets with checkmarks)
+- INTENT: R2 — 3-5 anchors covering pause, pulling at wet, longer wear, gestured wet, no visible change. Diverse sub-group coverage.
+- COMPONENT PICKED: EDU-3 (Checklist) — *body_mechanism*
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Checklist" maps directly to the 5 vertical recognition anchors in the cream band; format fits the wireframe's bullet-list rhythm.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: A young child playing on a living room floor with a wooden train, soft natural light, candid.
+  - Current usage: 5/25
+  - WHY: Candid Pre-K home moment that visually anchors the "30+ minutes tolerance" + "play distraction" pattern of the recognition anchors.
+
+### Section 4: THREE-FAMILY TESTIMONIAL PATTERN (R4, R6)
+- ROLE slot: testimonial-stack-three-cards-cream (Three stacked horizontal cards with cognac quote glyphs)
+- INTENT: Three parents — three kids (verbal 4 / sensory 6 / non-verbal 9) — one common question. Universal truth without labels.
+- COMPONENT PICKED: SP-08 (Stacked Mini-Reviews) — *body_social_proof*
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Stacked Mini-Reviews" is purpose-built for vertically-stacked three-card parent testimonials with varied demographics.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: A pink heart-and-bunny training pant laid flat on a neutral surface, warm light.
+  - Current usage: 3/25
+  - WHY: A neutral product visual grounds the testimonial stack without competing with the parent voices; warm tone matches cognac card backgrounds.
+
+### Section 5: MECHANISM REFRESHER
+- ROLE slot: mechanism-band-inline-svg-wave (Body-Signal Learning Layer, no level labels)
+- INTENT: Plain-language refresh of the interoception mechanism — "30-60 second uh-oh sensation, every time there's wetness" — R1-safe.
+- COMPONENT PICKED: EDU-8 (Mechanism Diagram) — *body_mechanism*
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Mechanism Diagram" pairs naturally with the inline sine-wave SVG already specified in the wireframe; explains the Body-Signal Learning Layer without scientific jargon.
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: A white cloud-and-raindrop training pant laid flat in soft light, calm and quiet.
+  - Current usage: 1/25
+  - WHY: Cloud-rain motif echoes the "signal caught" waveform in the mechanism diagram without literal illustration; V16-safe and universal.
+
+### Section 6: PRIMARY CTA BUTTON (Sage Green)
+- ROLE slot: cta-button-full-width-sage-green + permission-not-to-buy line
+- INTENT: Low-pressure button ("Explore the 3+3 Bundle →") paired with explicit permission to NOT buy. Wires to PDP/bundle page.
+- COMPONENT PICKED: CTA-3 (Curiosity Code) — *cta*
+  - Catalog entry: position=cta, audience=L1/L2/L3/GF, temp=neutral
+  - Current usage: 0/8
+  - WHY: "Curiosity Code" is a permission-toned CTA (frame-setting, not hard sale), matching the Replenish-A "your judgment" + permission-not-to-buy pattern.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: A watermelon-print training pant laid flat on a warm neutral surface, friendly and approachable.
+  - Current usage: 2/25
+  - WHY: Friendly product visual under the offer microcopy, neutral surface lets the green button color carry the visual weight.
+
+### Section 7: LENA SIGN-OFF (SHORT variant, E1)
+- ROLE slot: signoff-lena-short-cream-divider
+- INTENT: Mandatory Lena SHORT variant for E1, "Talk soon," with mom-of-two-sons tag and PS lines. Reply-deliverability signal.
+- COMPONENT PICKED: UTIL-05 (Signoff Card [G+]) — *signoff_footer*
+  - Catalog entry: position=signoff_footer, audience=GF, temp=warm (Giuliano source)
+  - Current usage: 0/8
+  - WHY: Canonical Giuliano-derived cream-card signoff; matches the warm cream-divider sign-off block in the wireframe.
+- IMAGE PICKED: none (text-only section; preserves the deliverability/calm tone of E1 sign-off).
+
+### Image count check
+- Total images in this email: 5/6 (target range 4-6).
+- Status: PASS
+- Total components: 7/8. Status: PASS (Letterhead + Footer sit outside the Stage 2 component count as shell/static blocks).
+
+### Hero uniqueness check
+- HERO-18 used: 1/1 (this email only). Zero reuse. ✅
+
+### Tracker updates
+- component-usage.json: +1 to [HERO-18, EMO-1, EDU-3, SP-08, EDU-8, CTA-3, UTIL-05] (post-update: HERO-18→1; EMO-1, EDU-3, SP-08, EDU-8, CTA-3, UTIL-05 → 1)
+- image-usage.json: +1 to [lifestyle/toddler-livingroom-dino-yellow.png→5, lifestyle/toddler-playing-train-moon-cloud-blue.png→6, flat-lay/training-pant-bunny-hearts-pink.jpg→4, flat-lay/training-pant-cloud-raindrop-white.jpg→2, flat-lay/training-pant-watermelon-pink.jpg→3] (all within 25 cap; max delta = toddler-playing-train 5→6, well under cap)

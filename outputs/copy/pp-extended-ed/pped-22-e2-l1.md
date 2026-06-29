@@ -773,182 +773,97 @@ END OF WIREFRAME — pped-22-e2-l1
 
 ## STAGE 2 PICKS — pped-22-e2-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 9 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E7 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e2-l1
+- COMPONENT PICKED: FS3 (Post-Purchase Welcome *(L3536)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e2-l1, level=l1, theme=2. Calibrated per level.
 
 ### Section 1: HOOK — DIRECT ADDRESS + WEEK-4 TIME MARKER
-
-- ROLE slot: `hook-direct-address-week-4-time-marker`
-
-- INTENT: hook block — HOOK — DIRECT ADDRESS + WEEK-4 TIME MARKER
-
-- COMPONENT PICKED: **HERO-7** — Counter-Intuitive Truth
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 14/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: prose-block-with-direct-address-and-validation
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORY-08 (Origin Story — Brand founding narrative *(L4525)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: L1 2 section 1 visual — calibrated per level (l1)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: REFRAME — "WHAT PROGRESS LOOKS LIKE AT WEEK 4"
-
-- ROLE slot: `reframe-what-progress-looks-like-at-week-4`
-
-- INTENT: validation block — REFRAME — "WHAT PROGRESS LOOKS LIKE AT WEEK 4"
-
-- COMPONENT PICKED: **DEEP-19** — Signal Analogy
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 12/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: bullet-list-stacked-vertical-week-4-micro-signs
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORY-10 (Stacked Story — Vertical card stack narrative *(L4)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: L1 2 section 2 visual — calibrated per level (l1)
+  - Current usage: 10/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM + WHY DOCUMENTATION MATTERS
-
-- ROLE slot: `mechanism-why-documentation-matters`
-
-- INTENT: mechanism block — MECHANISM + WHY DOCUMENTATION MATTERS
-
-- COMPONENT PICKED: **EDU-11** — Science Citation
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: mechanism-paragraph-stack-with-tracking-rationale
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EDU-8 (Mechanism Diagram *(L5414)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 7/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text: L1 2 section 3 visual — calibrated per level (l1)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: WEEK 4 TRACKING CHECKLIST (TACTICAL DELIVERABLE)
-
-- ROLE slot: `week-4-tracking-checklist-tactical-deliverable`
-
-- INTENT: transactional block — WEEK 4 TRACKING CHECKLIST (TACTICAL DELIVERABLE)
-
-- COMPONENT PICKED: **UTIL-07** — Section Header
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: tracking-table-stacked-vertical-not-side-by-side
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: STORY-11 (Contrast Cards — Side-by-side "What they said vs. )
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: L1 2 section 4 visual — calibrated per level (l1)
+  - Current usage: 12/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: WHAT'S NORMAL AT WEEK 4 (PLATEAU NORMALIZATION)
-
-- ROLE slot: `what-s-normal-at-week-4-plateau-normalization`
-
-- INTENT: education block — WHAT'S NORMAL AT WEEK 4 (PLATEAU NORMALIZATION)
-
-- COMPONENT PICKED: **EDU-3** — Education Module
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 11/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: validation-paragraph-stack-with-plateau-reframe
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: STORY-12 (Milestone Tracker — Visual progress tracker *(L465)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: L1 2 section 5 visual — calibrated per level (l1)
+  - Current usage: 13/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PRE-K CONNECTION (LEVER L1-A REINFORCED)
-
-- ROLE slot: `pre-k-connection-lever-l1-a-reinforced`
-
-- INTENT: default block — PRE-K CONNECTION (LEVER L1-A REINFORCED)
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 10/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pre-k-anchor-paragraph-with-nicholson-2019-cite
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: STORY-14 (Micro-Story — Single powerful moment *(L4715)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
 ### Section 7: FORWARD LOOK + SOCIAL-CONTEXT ANSWER
+- ROLE slot: forward-look-paragraph-with-parent-quote
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: BONUS-03 (Pull Tab *(L8879)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
-- ROLE slot: `forward-look-social-context-answer`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: default block — FORWARD LOOK + SOCIAL-CONTEXT ANSWER
+### Tracker updates
+- component-usage.json: incremented ['FS3', 'STORY-08', 'STORY-10', 'EDU-8', 'STORY-11', 'STORY-12', 'STORY-14', 'BONUS-03']
+- image-usage.json: incremented ['lifestyle/toddlers-backview-disposable-diapers.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/diaper-woodland-creature-yellow.jpg', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'lifestyle/toddler-livingroom-dino-yellow.png']
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 8: OFFER BLOCK (P.P.S. + HAIRLINE RULE)
-
-- ROLE slot: `offer-block-p-p-s-hairline-rule`
-
-- INTENT: offer block — OFFER BLOCK (P.P.S. + HAIRLINE RULE)
-
-- COMPONENT PICKED: **HERO-17** — Social Proof Hero
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **flat-lay/training-pant-fox-woodland-white.jpg**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 9: LENA SIGN-OFF (SHORT-MEDIUM VARIANT) + 2 P.S.
-
-- ROLE slot: `lena-sign-off-short-medium-variant-2-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (SHORT-MEDIUM VARIANT) + 2 P.S.
-
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 9

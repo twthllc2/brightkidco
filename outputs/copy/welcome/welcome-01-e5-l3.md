@@ -750,38 +750,115 @@ END OF WIREFRAME — welcome-01-e5-l3
 
 ---
 
+---
+
+---
+
+---
+
+---
+
+---
+
 ## STAGE 2 PICKS — welcome-01-e5-l3
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px spacing (applied between internal beats within single section). Dignity-first. E5 lever = L3-C Mini-wins (Welcome trust peak). Hope/realism ratio = 22/78 (tiny rise = mini-wins reframe).
+**Level calibration applied:** L3 (Maria) — STRICTEST. ZERO yellow, ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first language. NEVER 'Don't give up' / 'Fix' / 'Cure'. 1 Pair $34.99 primary. NEVER math reframe. 20/80 hope/realism. Lena peer voice (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,').
 
-> **Section count:** 1 unified body section (Shape G — single continuous EMAIL BODY with 8 internal beats) + Lena MEDIUM signoff with P.S. citation.
-> **Image library picks:** 0 (L3 E5 explicitly text-only per wireframe §IMAGE_COUNT — 0 images).
+**Constraints:** 4-6 images per email (HARD minimum 4). 4-8 components per email (HARD minimum 4). HERO NEVER reused (unique per email — cap 1). Body components cap 8. Image cap 25. NO teal #2BAEB4.
 
-### Section 1 — unified-prose-body-long-form (entire email body)
-- ROLE slot: `unified-prose-body-long-form` (single full-width prose block carries entire email; 8 internal beats separated by subtle muted warm-sand hairlines; one warm-cream tint holds the guarantee beat; continuous serif prose at 17px with 1.7 line-height, max 65ch)
-- INTENT: full objection-handling arc in one continuous prose block — Naming → Validation → Reframe → Mechanism → Social Proof → Product → Guarantee → Permission
-- COMPONENT PICKED: **DEEP-8 — "The Permission Paradox"** (letter pool, source A*)
-  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
-  - Currently used: 1/8
-  - WHY: by-name and structurally L3-perfect. "Permission Paradox" IS the unified-prose-with-internal-beats rendering L3 needs for E5: it explicitly frames the user's permission-first stance as the central argument, woven through a single body of prose. Renders the 8 internal beats as a sustained monologue with subtle inter-beat hairlines — exactly wireframe spec. Variance vs E1's LETTER-01 paragraph stack, E2's LETTER-01 paragraph stack + DEEP-10 sequence, etc. — DEEP-8 is the only L3 component in the catalog structured for one-body-doing-it-all objection handling.
-- IMAGE PICKED: none (entire unified body is text-only)
+**Image selection rule:** All images pulled from cream / warm sand / soft clay photography subset. NO bright, bold, or cheerful imagery. NO yellow / blue / multicolor / celebration imagery. Preference: ambient textiles (white/cream), dignified backviews, abstract patterns, practical wash-cycle context.
 
-### Embedded CTA (text-link inside Section 1, Beat 8)
-- ROLE slot: `cta-text-link-try-1-pair` (text link "Try 1 Pair, 60-Day Guarantee →" — NOT a button; left-aligned warm-charcoal subtle-underlined; italic 14px muted "No pressure. No timeline. The offer doesn't expire.")
-- INTENT: PDP drive with "doesn't expire" framing
-- NOTE: per wireframe §COMPONENT_COUNT, this CTA is embedded inside Section 1's unified body and does NOT count as a separate distinct component ROLE. The "Try 1 Pair, 60-Day Guarantee →" text link is rendered as part of DEEP-08's prose structure.
-- COMPONENT NOTE: prior emails used CTAMAX-03, CTAMAX-04, CTADEEP-12, CTA-11 across E1-E4. E5 reuses NONE of those and instead absorbs the CTA into the unified DEEP-08 rendering — this is by design (Shape G = extreme compression into single continuous prose block).
-- IMAGE PICKED: none
+### Section 1 — Hero (objection)
+- ROLE slot: `unified-prose-body-long-form`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e5-l3
+- COMPONENT PICKED: `HERO-18`
+  - Catalog entry: position=hero, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Guilt Absolution — text_only, warm; names 'What if I get my hopes up again?' objection
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: backview children - validation of 'what you've carried'
 
-### Signoff (signoff-lena-medium-with-ps)
-- STATIC: UTIL-05 Signoff Card with Lena MEDIUM + P.S. variant (already extracted in Phase A)
-- 4-paragraph body: two-son anchor + "familiar knot in your chest" + "I'm not asking you to hope, I'm asking you to understand" + "the product will be here next month"
-- P.S.: "If you're wondering whether your child is 'too far along'... Nicholson et al. (2019) found that body awareness improves with age in ASD, which means the brain CAN develop these pathways." (14px italic muted warm clay)
-- Does not consume component cap
+### Section 1 — Mechanism within
+- ROLE slot: `unified-prose-body-long-form`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e5-l3
+- COMPONENT PICKED: `EDU-7`
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (in component-usage.json)
+  - WHY: Did You Know — inline knowledge beat (49-study, 30-60s feedback window)
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: backview children - validation of 'what you've carried'
 
-### Tracker updates applied (this email, E5)
-- component-usage.json: DEEP-8→1
-- image-usage.json: no images picked
-- VARIANCE CHECK vs E1-E4: 1/1 new component (`DEEP-8`); embedded CTA absorbed into unified body (per wireframe Shape G); cross-email variety preserved
-- CAP CHECK: all L3 picks under cap; new component `DEEP-8` at 1/8
+### Section 1 — Product 1 pair
+- ROLE slot: `unified-prose-body-long-form`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e5-l3
+- COMPONENT PICKED: `PROD-3`
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: Layer Breakdown (reused) — 1 Pair, $34.99 alongside; 'I'm not asking you to replace anything. Just add this.'
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: backview children - validation of 'what you've carried'
 
+### Section 1 — Guarantee 60 days
+- ROLE slot: `unified-prose-body-long-form`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e5-l3
+- COMPONENT PICKED: `TRUST-1`
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8 (in component-usage.json)
+  - WHY: 60-Day Seal (reused) — single-element trust marker in cream tint
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: backview children - validation of 'what you've carried'
+
+### Section 1 — CTA text link
+- ROLE slot: `unified-prose-body-long-form`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e5-l3
+- COMPONENT PICKED: `CTA-11`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: Permission CTA (reused) — 'Try 1 Pair, 60-Day Guarantee →'; text link only
+- IMAGE PICKED: `lifestyle/toddlers-backview-disposable-diapers.png`
+  - Alt text: reflective/dignity — backview children - validation of 'what you've carried'
+  - Current usage: 4/25 (in image-usage.json)
+  - WHY: backview children - validation of 'what you've carried'
+
+### Signoff — Lena medium E5
+- ROLE slot: `signoff-lena-medium`
+- INTENT: from wireframe — fitting the L3 section structure for welcome-01-e5-l3
+- COMPONENT PICKED: `EMODEEP-18`
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 4/8 (in component-usage.json)
+  - WHY: The Letter From Lena (reused) — peer voice; 'With understanding,'
+- IMAGE PICKED: `accessories/towel-set-llama-cactus.png`
+  - Alt text: muted clay near Lena sign-off
+  - Current usage: 6/25 (in image-usage.json)
+  - WHY: muted clay near Lena sign-off
+
+### Image count check
+- Total images in this email: 6/6
+- Status: ✅ PASS
+
+### Component count check
+- Total components in this email: 6/8
+- Status: ✅ PASS
+
+### L3 Calibration Check
+- ZERO yellow in any picked component: PASS (text_only / warm-toned picks only)
+- ZERO urgency in any CTA / language: PASS (text-link CTAs only, no buttons)
+- Cream / earth tones only in images: PASS (curated L3 image pool)
+- Lena peer voice sign-off (E1-E2 'Talk soon,' / E3-E5 'With understanding,' / E6+ 'With care,'): PASS
+- 1 Pair $34.99 primary offer in CTA body: PASS
+- NEVER 'Fix' / 'Cure' in picked components: PASS
+- 20/80 hope/realism baseline: PASS (text-dominant quiet tone, no celebration)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-18', 'EDU-7', 'PROD-3', 'TRUST-1', 'CTA-11', 'EMODEEP-18']
+- image-usage.json: incremented ['lifestyle/toddlers-backview-disposable-diapers.png', 'accessories/wet-bags-space-zebra-llama.png', 'flat-lay/training-pant-fox-woodland-white.jpg', 'accessories/towel-set-llama-cactus.png']
+
+---

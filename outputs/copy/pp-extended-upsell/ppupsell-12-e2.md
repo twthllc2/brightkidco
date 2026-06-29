@@ -121,6 +121,110 @@ Customer Support · Mom of two autistic sons
 
 ---
 
+## STAGE 2 PICKS — ppupsell-12-e2
+
+### Section 1: Hook — "Whether...Or..." Opener + Question Pivot
+- ROLE slot: prose-block-with-question-pivot (Section 1)
+- INTENT: opener with "Whether your child is 3 or 10, verbal or non-verbal..." + question pivot "The question now isn't 'will it work?' It's 'do I have enough pairs to make it consistent?'"
+- COMPONENT PICKED: 23.2 (Drop Cap Initial Letter, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 2/8 (was 2 → now 3)
+  - WHY: Drop-cap letter treatment gives the prose-led opener a magazine-feature feel; warm temperature matches GF cross-level peer-voice.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: "Toddler playing with a moon-cloud themed train toy, illustrating the everyday childhood activities that coexist with the body-signal learning phase."
+  - Current usage: 5/25
+  - WHY: The opener's "if you're seeing any sign of awareness, you're past the hardest part" visual — toddler-in-play, calm, cross-level safe.
+
+### Section 2: Three-Family Testimonial Pattern
+- ROLE slot: testimonial-card-l1-verbal-rotated + testimonial-card-l2-sensory-bcba-rotated + testimonial-card-l3-non-verbal-rotated + validation-bridge-text-rotation (Section 2)
+- INTENT: 3 stacked cream cards (L1/L2/L3 rotated testimonials) + common-thread bridge about consistency.
+- COMPONENT PICKED: SP-02 (Expert Endorsement, body_social_proof)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 5/8 (was 5 → now 6)
+  - WHY: Expert-endorsement style handles the 3-card stacked testimonial layout with neutral temperature; image+text pairing. Different from SP-01 (used in E1) for variance.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: "Two toddlers viewed from behind wearing disposable diapers, representing the everyday comparison the testimonial parents describe (washing every night with only 2 pairs)."
+  - Current usage: 1/25 (was 1 → now 2)
+  - WHY: The "2 pairs, doing laundry every night" anchor — visual context for the L1 testimonial's "3+3 changed everything" claim.
+
+### Section 3: Mechanism — Why Rotation Matters Neurologically
+- ROLE slot: mechanism-paragraph-stack-with-pull-ups-critique (Section 3)
+- INTENT: 4-paragraph mechanism stack: repetition principle + cost of gaps + pull-ups critique + math reframe.
+- COMPONENT PICKED: EDU-4 (Process Diagram, body_mechanism)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 4/8 (was 4 → now 5)
+  - WHY: Process-diagram style fits the layered mechanism stack (repetition principle → cost of gaps → pull-ups critique → math reframe). Different from EDU-2 (used in E1) for variance.
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: "Training pant with woodland fox illustration on white fabric, illustrating the sensory-friendly cotton material that distinguishes the underwear from pull-ups."
+  - Current usage: 0/25 (NEW)
+  - WHY: The "cotton vs plastic pull-up" critique visual — sensory-friendly cotton flat-lay anchors the L2-pull-up-critique mechanism.
+
+### Section 4: Match-Based Offer — 3 Add-On Paths
+- ROLE slot: offer-list-stacked-vertical-3-paths + guarantee-line-inline (Section 4)
+- INTENT: stacked text block with 3 add-on paths (1-pair → 3+3 / 3+3 → 5+5+Wash Bag / 5+5 → Magic Targets) + inline guarantee line.
+- COMPONENT PICKED: 6.2 (ProductShowcaseMedium, product_showcase)
+  - Catalog entry: position=product_showcase, audience=[L1,L2,L3,GF], temperature=neutral, image_support=image_text
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: ProductShowcaseMedium handles the multi-path offer table; product_showcase CAN be reused. Different from 6.1 (used in E1) for variance.
+- IMAGE PICKED: accessories/laundry-bag-llama-cream.png (alt: flat-lay/laundry-bag-llama-cream.png)
+  - Alt text: "Cream-colored laundry bag with llama illustration, the cross-sell add-on for the 3+3 → 5+5 path."
+  - Current usage: 1/25 (was 1 → now 2)
+  - WHY: The Wash Bag cross-sell visual for path 2 ("If you started with 3+3 → The 5+5 Bundle adds more rotation plus the Wash Bag").
+- IMAGE PICKED: accessories/book-potty-training-guide.png (additional)
+  - Alt text: "A practical potty-training guide book, the e-book add-on referenced in the 5+5 Magic Targets path."
+  - Current usage: 0/25 (NEW)
+  - WHY: Second visual for the same section — reinforces the 3-path add-on offer (Wash Bag for path 2, Book/E-book for path 3).
+
+### Section 5: CTA — Level-Calibrated Match-Based
+- ROLE slot: cta-button-full-width + subtext + permission-close (Section 5)
+- INTENT: "Find my next pair count" button + subtext + "60-day guarantee on every bundle" additional + level-aware CTA aggression.
+- COMPONENT PICKED: 5.1 (Dark CTA / CTAClose, cta)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
+  - Current usage: 1/8 (was 1 → now 2)
+  - WHY: Dark/warm-charcoal CTA variant handles button + subtext + permission-close layering. Different from 12.2 (used in E1) for variance.
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: "Coordinated towel set with llama and cactus illustrations, an accessory add-on for the home environment reinforcing the rotation theme."
+  - Current usage: 0/25 (NEW)
+  - WHY: A soft accessory visual that anchors the CTA section's "Find my next pair count" button — child-free, sensory-friendly.
+
+### Section 6: FAQ — Inline Objection Handling
+- ROLE slot: faq-block-stacked-qa-pairs + permission-close-text (Section 6)
+- INTENT: 3 stacked Q&A pairs (commitment worry / resistance / "will more pairs speed things up?") + permission close.
+- COMPONENT PICKED: STORY-09 (Story Block variant, body_recognition)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 2/8 (was 2 → now 3)
+  - WHY: Story-block variant handles the Q&A pairs + permission close with warm peer-voice temperature. Text-only keeps the FAQ section readable.
+- IMAGE PICKED: none (FAQ section is text-only per readability)
+
+### Section 7: Sign-off + Next-Time Microcopy
+- ROLE slot: next-time-microcopy (Section 7a) + signoff-lena-short (Section 7b)
+- INTENT: "Next time: Your final check-in..." microcopy + Lena SHORT sign-off.
+- COMPONENT PICKED: 17.7 (Closing Letter (Before CTA), body_recognition) — REUSED
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 3/8 (was 3 → now 4)
+  - WHY: Closing-letter treatment for Lena SHORT sign-off; warm peer-voice; already under cap.
+- IMAGE PICKED: none (sign-off block is text-only per Lena brand voice)
+
+### HERO (UNIQUE — never reused)
+- HERO PICKED: HERO-11 (Question Storm)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=warm, image_support=text_only
+  - Current usage: 0/8 (NEW — never used)
+  - WHY: Question-storm hero pairs with this email's question-pivot opener ("The question now isn't 'will it work?' It's 'do I have enough pairs to make it consistent?'"). Text-only hero (no lifestyle image per wireframe). Never reused before in any email.
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (within 4-6 range)
+
+### Component count check
+- Total components in this email: 8/8 (23.2, SP-02, EDU-4, 6.2, 5.1, STORY-09, 17.7, plus HERO-11 = 8 — and Section 4 has 2 images, so component count stays at 7 body + 1 hero = 8) — body capped at 7 to keep total ≤ 8.
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: HERO-11 (0→1), 23.2 (2→3), SP-02 (5→6), EDU-4 (4→5), 6.2 (3→4), 5.1 (1→2), STORY-09 (2→3), 17.7 (3→4)
+- image-usage.json: toddler-playing-train-moon-cloud-blue.png (5→6), toddlers-backview-disposable-diapers.png (1→2), training-pant-fox-woodland-white.jpg (0→1), laundry-bag-llama-cream.png (1→2), book-potty-training-guide.png (0→1), towel-set-llama-cactus.png (0→1)
+
+---
+
 ## PART 2, CREATIVE STRATEGY
 
 ### 2.1 Flow Position & Context
@@ -863,147 +967,3 @@ END OF WIREFRAME — ppupsell-12-e2
 ```
 
 ---
-
-## STAGE 2 PICKS — ppupsell-12-e2
-
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-upsell | **Position:** E2 | **Level:** GF
-
-
-### Section 1: HOOK — "WHETHER...OR..." OPENER + QUESTION PIVOT
-
-- ROLE slot: `hook-whether-or-opener-question-pivot`
-
-- INTENT: hook block — HOOK — "WHETHER...OR..." OPENER + QUESTION PIVOT
-
-- COMPONENT PICKED: **HERO-5** — Mirror Moment
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: THREE-FAMILY TESTIMONIAL PATTERN
-
-- ROLE slot: `three-family-testimonial-pattern`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
-
-- COMPONENT PICKED: **DEEP-20** — Community Thread
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: MECHANISM — WHY ROTATION MATTERS NEUROLOGICALLY
-
-- ROLE slot: `mechanism-why-rotation-matters-neurologically`
-
-- INTENT: mechanism block — MECHANISM — WHY ROTATION MATTERS NEUROLOGICALLY
-
-- COMPONENT PICKED: **HERO-2** — Data Shock
-
-  - Currently used: 3/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: MATCH-BASED OFFER — WHAT TO ADD BASED ON WHERE
-             YOU STARTED
-
-- ROLE slot: `match-based-offer-what-to-add-based-on-where-you-started`
-
-- INTENT: offer block — MATCH-BASED OFFER — WHAT TO ADD BASED ON WHERE
-             YOU STARTED
-
-- COMPONENT PICKED: **PROD-4** — Product Showcase
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **flat-lay/swim-diaper-whale-ocean-blue.jpg**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: CTA — LEVEL-CALIBRATED, MATCH-BASED
-
-- ROLE slot: `cta-level-calibrated-match-based`
-
-- INTENT: cta block — CTA — LEVEL-CALIBRATED, MATCH-BASED
-
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: FAQ — INLINE OBJECTION HANDLING
-
-- ROLE slot: `faq-inline-objection-handling`
-
-- INTENT: faq block — FAQ — INLINE OBJECTION HANDLING
-
-- COMPONENT PICKED: **OBJ-12** — Objection Block
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: NEXT-TIME TEASER
-
-- ROLE slot: `next-time-teaser`
-
-- INTENT: next block — NEXT-TIME TEASER
-
-- COMPONENT PICKED: **DEEP-08** — Permission Paradox
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

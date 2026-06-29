@@ -670,148 +670,97 @@ END OF WIREFRAME — pped-22-e4-l1
 
 ## STAGE 2 PICKS — pped-22-e4-l1
 
+L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 yr, active forward motion, soft natural light).
 
-> **L1 Calibration Applied:** Bright colors. Pre-K imagery where applicable. Hope-forward tone.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E9 | **Level:** L1
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e4-l1
+- COMPONENT PICKED: CAMIMG-3 (New Arrival Hero *(L18968)*)
+  - Catalog entry: position=seasonal_campaign, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e4-l1, level=l1, theme=4. Calibrated per level.
 
 ### Section 1: HOOK — PROMPTING REALITY MIRROR
-
-- ROLE slot: `hook-prompting-reality-mirror`
-
-- INTENT: hook block — HOOK — PROMPTING REALITY MIRROR
-
-- COMPONENT PICKED: **HERO-5** — Mirror Moment
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-
-  - Currently used: 13/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: prose-block-with-daily-reality-mirror
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: DEEP-16 (The Brain-Body Bridge *(L9565)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/pocket-diaper-moon-cloud-blue.jpg
+  - Alt text: L1 4 section 1 visual — calibrated per level (l1)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — "ALMOST TRAINED" → "MOSTLY TRAINED"
-
-- ROLE slot: `validation-almost-trained-mostly-trained`
-
-- INTENT: validation block — VALIDATION — "ALMOST TRAINED" → "MOSTLY TRAINED"
-
-- COMPONENT PICKED: **DEEP-19** — Signal Analogy
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: **lifestyle/toddler-playing-train-moon-cloud-blue.png**
-
-  - Currently used: 7/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: validation-paragraph-stack-with-almost-trained-arc
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: DEEP-17 (The Language Shift *(L9595)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L1 4 section 2 visual — calibrated per level (l1)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — WHY PROMPTING CAN HOLD PROGRESS BACK
+- ROLE slot: mechanism-paragraph-stack-with-prompt-dependency
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: EDUDEEP-4 (The Interoception Test *(L10745)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 3/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: accessories/towel-set-llama-cactus.png
+  - Alt text: L1 4 section 3 visual — calibrated per level (l1)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `mechanism-why-prompting-can-hold-progress-back`
-
-- INTENT: mechanism block — MECHANISM — WHY PROMPTING CAN HOLD PROGRESS BACK
-
-- COMPONENT PICKED: **HERO-16** — Mechanism Tease
-
-  - Currently used: 5/8
-
-- IMAGE PICKED: **lifestyle/founders-holding-pants-yellow-watermelon.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Section 4: PRACTICAL GUIDANCE — 3-PHASE PROMPT-FADING PROTOCOL
-
-- ROLE slot: `practical-guidance-3-phase-prompt-fading-protocol`
-
-- INTENT: default block — PRACTICAL GUIDANCE — 3-PHASE PROMPT-FADING PROTOCOL
-
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+### Section 4: PRACTICAL GUIDANCE — 3-PHASE PROMPT-FADING PROTOCO
+- ROLE slot: phase-list-stacked-vertical-with-time-ranges
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: DEEP-18 (The Celebration Deficit *(L9621)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: flat-lay/swim-diaper-giraffe-yellow.jpg
+  - Alt text: L1 4 section 4 visual — calibrated per level (l1)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PEER-MOM TESTIMONIAL — PROMPT-FADING SUCCESS
-
-- ROLE slot: `peer-mom-testimonial-prompt-fading-success`
-
-- INTENT: social_proof block — PEER-MOM TESTIMONIAL — PROMPT-FADING SUCCESS
-
-- COMPONENT PICKED: STORY-10  - Catalog entry: position varies, audience=[L1,L2,L3,GF]
-  - Current usage: 7/8 (at cap; was 7 'Parent Stories' which is L2-only)
-  - WHY: STORY-10 'Stacked Story' is a body_recognition component with full-audience tag, appropriate for L1 peer-mom-testimonial-prompt-fading-success. Replaces L2-only 7 per Stage 2 audit.
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 11/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: testimonial-card-l1-prompt-fading-success
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: SP1 (Star Rating Row *(L3187)*)
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: L1 4 section 5 visual — calibrated per level (l1)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: PRE-K CONNECTION (LEVER L1-A REINFORCED)
-
-- ROLE slot: `pre-k-connection-lever-l1-a-reinforced`
-
-- INTENT: default block — PRE-K CONNECTION (LEVER L1-A REINFORCED)
-
-- COMPONENT PICKED: **STORY-14** — Micro-Story
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 12/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
+- ROLE slot: pre-k-anchor-paragraph-with-mostly-trained-arc
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: DEEP-19 (The Signal Analogy *(L9649)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
 ### Section 7: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
+- ROLE slot: LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-09 (Social Strip *(L7712)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 2/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l1)
 
-- ROLE slot: `lena-sign-off-medium-variant-double-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF (MEDIUM VARIANT) + DOUBLE P.S.
+### Tracker updates
+- component-usage.json: incremented ['CAMIMG-3', 'DEEP-16', 'DEEP-17', 'EDUDEEP-4', 'DEEP-18', 'SP1', 'DEEP-19', 'UTIL-09']
+- image-usage.json: incremented ['flat-lay/pocket-diaper-moon-cloud-blue.jpg', 'flat-lay/swim-diaper-unicorn-pink.jpg', 'accessories/towel-set-llama-cactus.png', 'flat-lay/swim-diaper-giraffe-yellow.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png']
 
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L1 CALIBRATION CHECK: ✅ bright/pre-k imagery
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

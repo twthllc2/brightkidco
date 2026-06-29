@@ -637,147 +637,94 @@ END OF WIREFRAME — browse-04-e2
 
 ## STAGE 2 PICKS — browse-04-e2
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** browse | **Position:** E2 | **Level:** GF
-
-
-### Section 1: UNIVERSAL RECOGNITION OPENER
-
-- ROLE slot: `universal-recognition-opener`
-
-- INTENT: validation block — UNIVERSAL RECOGNITION OPENER
-
-- COMPONENT PICKED: **DEEP-11** — Guilt Audit
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: THREE-FAMILY TESTIMONIAL BLOCK — TESTIMONIAL 1
-
-- ROLE slot: `three-family-testimonial-block-testimonial-1`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL BLOCK — TESTIMONIAL 1
-
-- COMPONENT PICKED: **STORY-09** — Quiet Witness
-
-  - Currently used: 3/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF three-family-testimonial-testimonial-1)
-  - WHY: by-name position+audience match. STORY-09 Quiet Witness is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF testimonial slot.
-
-- IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
-
-  - Currently used: 1/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: THREE-FAMILY TESTIMONIAL — TESTIMONIAL 2
-
-- ROLE slot: `three-family-testimonial-testimonial-2`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL — TESTIMONIAL 2
-
-- COMPONENT PICKED: **STORY-03** — Split Before/After
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: THREE-FAMILY TESTIMONIAL — TESTIMONIAL 3
-
-- ROLE slot: `three-family-testimonial-testimonial-3`
-
-- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL — TESTIMONIAL 3
-
-- COMPONENT PICKED: **STORY-05** — Diary Entry
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
-
-  - Currently used: 2/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: MECHANISM REVEAL + INTEROCEPTION BRIDGE
-
-- ROLE slot: `mechanism-reveal-interoception-bridge`
-
-- INTENT: mechanism block — MECHANISM REVEAL + INTEROCEPTION BRIDGE
-
-- COMPONENT PICKED: **HERO-16** — Mechanism Tease
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: **resized/toddler-playing.jpg**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: UNIVERSAL CTA + PERMISSION
-
-- ROLE slot: `universal-cta-permission`
-
-- INTENT: cta block — UNIVERSAL CTA + PERMISSION
-
-- COMPONENT PICKED: **CTA-10** — Soft Button
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 7: MIGRATION ANCHORS — GF SUB-GROUPS A-E
-
-- ROLE slot: `migration-anchors-gf-sub-groups-a-e`
-
-- INTENT: signoff block — MIGRATION ANCHORS — GF SUB-GROUPS A-E
-
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7
+NOTE: This wireframe has no explicit HERO section either (Section 1 is the "Whether...Or...If..." prose opener, same pattern as E1). Per the 4-8 component hard minimum and unique hero rule, I'll assign a fresh text-only hero to the opener section.
+
+### Section 1: prose-block-with-inline-list (HERO + opener)
+- ROLE slot: prose-block-with-inline-list
+- INTENT: "Whether...Or...If..." expanded for E2 — adds "diagnosed or still figuring it out" and "verbal or not" cues. 5 recognition anchors.
+- COMPONENT PICKED: HERO-15 (Level Callout)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=emotional, temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: "Level Callout" matches the E2 expansion's "diagnosed or still figuring it out" cue — a level-style callout but in V16-safe language. Fresh hero (was at 0).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 7/25
+  - WHY: Founders photo for the opener (consistent with cart flow). Different from browse-04-e1's potty-ladder image.
+
+### Section 2: testimonial-card-l1-verbal
+- ROLE slot: testimonial-card-l1-verbal
+- INTENT: Sarah testimonial — "almost trained but not quite" mini-win quote in warm-gold italic.
+- COMPONENT PICKED: SP-13 (Review of the Week)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_only, temperature=neutral
+  - Current usage: 5/8
+  - WHY: "Review of the Week" works as a single testimonial card with featured-status styling. image_only support renders the gold-italic mini-win callout cleanly.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with soft bunny-and-heart pattern in pink, flat-lay product shot."
+  - Current usage: 6/25
+  - WHY: Pink bunny-heart pattern for Sarah's L1 testimonial.
+
+### Section 3: testimonial-card-l2-sensory-bcba
+- ROLE slot: testimonial-card-l2-sensory-bcba
+- INTENT: Lisa testimonial with Kelly Mahler "eighth sensory system" reference.
+- COMPONENT PICKED: SP-07 (Counter-Testimonial)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 2/8
+  - WHY: Counter-Testimonial renders well as a featured BCBA-aware parent story. Different from SP-13.
+- IMAGE PICKED: lifestyle/toddler-outdoors-grass-disposable-diaper.png
+  - Alt text (GF, V16): "Toddler playing outdoors on grass wearing a soft disposable diaper, side view."
+  - Current usage: 3/25
+  - WHY: Outdoor scene for Lisa's sensory-BCBA testimonial.
+
+### Section 4: testimonial-card-l3-nonverbal
+- ROLE slot: testimonial-card-l3-nonverbal
+- INTENT: Maria testimonial, "her son was 9.5 when he trained. Late is not never." Maureen Bennie reference.
+- COMPONENT PICKED: VSOCIAL-5 (Star Rating Hero)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Star Rating Hero renders the dignity-first late-trainer story with proper weight.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
+  - Current usage: 8/25
+  - WHY: Generic living-room scene for Maria's L3 testimonial.
+
+### Section 5: mechanism-text-block-with-product-reference
+- ROLE slot: mechanism-text-block-with-product-reference
+- INTENT: full-width text block. Names interoception, cites 49-study review, introduces Body-Signal Learning Layer.
+- COMPONENT PICKED: PSYCH-03 (Social Proof Cascade)
+  - Catalog entry: position=body_mechanism, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Social Proof Cascade body_mechanism component — the cascade of three testimonials above naturally feeds into this mechanism block. Text-only mechanism rendering.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text (GF, V16): "Toddler climbing a yellow woodland-patterned potty ladder, viewed from behind."
+  - Current usage: 5/25
+  - WHY: Mechanism-reveal visual — child on the potty ladder is the "before" of the body-signal mechanism.
+
+### Section 6: cta-text-link (permission)
+- ROLE slot: cta-text-link
+- INTENT: soft text-link CTA "See how it works for kids like yours" + 60-day guarantee.
+- COMPONENT PICKED: CTA-11 (Permission CTA)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=conversion, image_support=text_only, temperature=warm
+  - Current usage: 2/8
+  - WHY: Permission CTA is built for exactly this permission-framed conversion moment. Different from browse-04-e1's CTA-3.
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text (GF, V16): "Reusable cloth pads with watermelon-astronaut-cat pattern, laid flat on warm cream surface."
+  - Current usage: 2/25
+  - WHY: Generic accessory visual for the CTA section. V16-safe.
+
+### Section 7: migration-anchor-stacked-list
+- ROLE slot: migration-anchor-stacked-list
+- INTENT: 3-4 symptom-based story links for GF sub-group D + general framework fallback.
+- COMPONENT PICKED: EMO-5 (Realistic Timeline)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=story, image_support=text_only, temperature=warm
+  - Current usage: 3/8
+  - WHY: Realistic Timeline matches the "Not sure where your child fits? That's okay." permission framing — each anchor offers a real timeline for that child's profile.
+- IMAGE PICKED: (NONE — already at image cap)
+
+### Image count check
+- Total images in this email: 6/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+- Components: 7/8 (within range)
+
+### Tracker updates
+- component-usage.json: incremented [HERO-15, SP-13, SP-07, VSOCIAL-5, PSYCH-03, CTA-11, EMO-5]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, flat-lay/training-pant-bunny-hearts-pink.jpg, lifestyle/toddler-outdoors-grass-disposable-diaper.png, lifestyle/toddler-livingroom-dino-yellow.png, lifestyle/toddler-potty-ladder-yellow-woodland.png, accessories/cloth-pads-watermelon-astronaut-cat.png]

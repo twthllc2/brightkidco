@@ -1006,155 +1006,81 @@ END OF WIREFRAME — welcome-01-e6-gf
 
 ## STAGE 2 PICKS — welcome-01-e6-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E6).
-> Scope: 6 sections (candid hero / cool-blue band + quote /
-> mechanism band + 3-layer table + comparison / 2 quotes /
-> late CTA / signoff MEDIUM→LONG).
-> GF calibration: R1–R6 strict, V16 symptom language only;
-> CRITICAL: PP-Level Detection ALSO fires at Day 14. Per GF §15
-> Welcome E6 and §20 PP-Level Detection, **PP-Level Detection
-> takes priority over Welcome E6** for GF purchasers.
-> (Suppression logic: if `purchased=true` AND `level=gf`,
-> suppress Welcome E6, deliver PP-Level Detection instead.)
-> 50/50 hope/realism; the Three-Family Pattern is the social proof.
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E6: no migration anchor (PP-Level Detection D14 takes priority over Welcome E6 for GF purchasers).
 
-### Section 1: HOOK — PULL-UP REFRAME (PAS PROBLEM)
-- ROLE slot: `hero-lifestyle-candid-gf`
-- INTENT: a candid lifestyle photo of a child playing in BKC
-  underwear; warm natural light, real home; THREE-child composite
-  rule per GF-V1.
-- COMPONENT PICKED: **IMG-09** — Lifestyle Grid (4-Panel)
-  - From catalog: position=body_images, image_support=image_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: 4-panel lifestyle grid gives a real-home composite feel
-    without silhouetting to a single sub-group; Stage 3 will use
-    the strongest panel as the lead hero frame.
-- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
-  - Dimensions: 1200×800.
-  - Alt text (V16 spec): "Toddler in warm-tone real home setting,
-    soft natural light, ambiguous age."
-  - Currently used: 0/25.
-  - WHY: warm-tone ambiguous-age lifestyle image with watermelon-
-    pink accents reinforces the cream/warm palette without
-    silhouetting to any sub-group.
-- VARIANCE CHECK: differs from E5 S1 (typography-only vs lifestyle).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S1: Hook — Pull-Up Reframe (PAS Problem)
+- ROLE slot: hero-lifestyle-candid-gf
+- INTENT: Candid lifestyle photo, real home, no specific age.
+- COMPONENT PICKED: HERO-14  (Quote Bomb [A*] (HERO, universal))
+  - Current usage: 1/8
+  - WHY: Quote Bomb hero for the 'pull-up reframe' PAS opener — symptom-led.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Child napping softly in pink shorts, real home light
+  - Current usage: 6/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: VALIDATION — PULL-UP REFRAME (PAS AGITATE)
-- ROLE slot: `cool-blue-tint-band-gf` + `callout-quote-highlight-gf`
-  (two sub-components, in one section)
-- INTENT: presents the Pull-Up reframe in a cool-blue tinted
-  band; the 49% stat appears in GF-V2 paraphrase form; followed by
-  a GF-universal parent quote callout.
-- COMPONENT PICKED: **20.3** — Gradient Band Variants (band slot)
-  + **DEEP-19** — The Signal Analogy (callout slot)
-  - Currently used: 0/8 each.
-  - WHY (band): gradient-band structurally fits a full-width
-    colored band; Stage 3 will paint with the cool-blue tone
-    (the "old way analytical" zone) specified by the wireframe.
-  - WHY (callout): signal-analogy carries the inline quote callout
-    structure; Stage 3 will pair with terracotta left-border accent
-    for the "She'll pee herself and just keep playing" pull quote.
-  - V16 NOTE: 49% stat uses GF paraphrase form ("almost 1 in 2
-    children whose nervous systems process signals differently")
-    — never the L1 original.
-- IMAGE PICKED: none.
-- VARIANCE CHECK: differs from S1 (band+callout vs lifestyle).
-- GF CALIBRATION CHECK: ✅ V16 paraphrase.
+### S2: Validation — Pull-Up Reframe (PAS Agitate)
+- ROLE slot: cool-blue-tint-band-gf + callout-quote-highlight-gf
+- INTENT: Cool-blue tint band + GF-universal parent quote.
+- COMPONENT PICKED: EMO-3  (Guilt Reduction [A*] (EMOTIONAL SUPPORT, maternal-blame reframe))
+  - Current usage: 1/8
+  - WHY: Guilt Reduction — 'the pull-up isn't the enemy, but it blocks the signal', R1-safe.
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: Pink unicorn swim diaper laid flat
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: MECHANISM — BODY-SIGNAL OPPOSITE-OF-PULL-UPS
-- ROLE slot: `mechanism-pale-green-band-gf` + `product-3-layer-table-gf`
-  + `pullup-vs-bkc-comparison-gf` (three sub-components, in one section)
-- INTENT: pale-green tinted mechanism band (the "new way growth
-  zone") + clean 3-layer system table + vertical stacked cards
-  comparing pull-ups and BKC side-by-side.
-- COMPONENT PICKED: **13.7** — Signal Waves (mechanism band slot) +
-  **PDISP-3** — 3-Layer System Diagram (table slot, used once in
-  E4 S5 — at 1/8) + **PRICE-10** — Price Anchor (comparison slot)
-  - Currently used: 13.7 at 0/8 (one observed_externally tag in
-    tracker — counted here as real use); PDISP-3 at 1/8; PRICE-10
-    at 0/8.
-  - WHY (band): signal-waves component is the textbook
-    decoration for a "pale green" mechanism band; Stage 3 will
-    paint with pale-green #DBFFCD-leaning palette.
-  - WHY (table): 3-layer system diagram is the structural fit
-    for the 3-row table; Stage 3 will paint with alternating
-    row shading per wireframe.
-  - WHY (comparison): price-anchor component's visual hierarchy
-    is reusable as a comparison card structure; Stage 3 will
-    paint with the X (pull-up) / ✓ (BKC) treatments per the
-    wireframe; icon swap in Stage 3.
-  - V16 NOTE: comparison copy must NOT use aggressive sales
-    pressure ("Forever in pull-ups," "Adult diapers"); per
-    wireframe, body uses symptom/feature comparison only.
-- IMAGE PICKED: none (text-driven).
-- VARIANCE CHECK: differs from S2 (3-subcomponent band+table+compare
-  vs band+callout).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S3: Mechanism — Body-Signal Opposite-of-Pull-Ups
+- ROLE slot: mechanism-pale-green-band-gf + product-3-layer-table-gf + pullup-vs-bkc-comparison-gf
+- INTENT: Pale-green band, 3-layer table, pull-up vs BKC vertical comparison.
+- COMPONENT PICKED: EDU-12  (Comparison Matrix [A*] (MECHANISM & EDUCATION, pullup vs BKC))
+  - Current usage: 1/8
+  - WHY: Comparison Matrix — Pull-up vs BKC side-by-side mechanism table.
+- COMPONENT PICKED: PROD-7  (Comparison Table [A*] (PRODUCT SHOWCASE, showcase-allowed))
+  - Current usage: 1/8
+  - WHY: Comparison Table — 3-layer system as a clean table, showcase-allowed.
+- COMPONENT PICKED: PROD-2  (Side-by-Side [A*] (PRODUCT SHOWCASE, showcase-allowed))
+  - Current usage: 1/8
+  - WHY: Side-by-Side — pullup vs BKC visual comparison, showcase-allowed.
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: Ocean-blue whale swim diaper laid flat
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 4: SOCIAL PROOF — TWO QUOTES + GUARANTEE
-- ROLE slot: `two-quote-cards-stacked-gf` (2 stacked quote cards +
-  60-day guarantee shield)
-- INTENT: 2 stacked testimonial cards in warm-cream + 60-Day
-  Guarantee Shield Badge in 150x150px.
-- COMPONENT PICKED: **4** — The Pull-Up Villain Card
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 1/8 (used in E5 S5).
-  - WHY: micro-story fits single-moment 2-card quote stack;
-    Stage 3 will paint the 60-day guarantee badge separately
-    below the cards.
-- IMAGE PICKED: none (text + small SVG shield).
-- VARIANCE CHECK: differs from S3 (quote cards vs mechanism stack).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S4: Social Proof — Two Quotes + Guarantee
+- ROLE slot: two-quote-cards-stacked-gf
+- INTENT: Two stacked testimonial cards in Warm-Cream.
+- COMPONENT PICKED: SP-02  (Expert Endorsement [A*] (SOCIAL PROOF & TESTIMONIALS))
+  - Current usage: 1/8
+  - WHY: Expert Endorsement — soft-authority quote for the social proof section.
+- COMPONENT PICKED: TRUSTDEEP-13.1  (Product Review Card (Single Review Block) [A] (GUARANTEE & TRUST))
+  - Current usage: 1/8
+  - WHY: Product Review Card — single real review block (sub-group B-friendly, no autism label).
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Founders holding a watermelon-yellow training pant, neutral background
+  - Current usage: 1/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 5: LATE CTA
-- ROLE slot: late CTA (Button "Shop the 3+3 Bundle — $79.99
-  Free Shipping" — coral CTA, NOT Brand-Green, signaling "the
-  new way" through warm urgency; secondary text link; P.S.
-  cost comparison.)
-- COMPONENT PICKED: **CTAMAX-04** — Smart CTA
-  - From catalog: position=cta, image_support=image_only,
-    audience=[L1,L2,L3,GF]. Currently used: 1/8.
-  - WHY: smart-CTA component structurally supports the
-    button + secondary-text-link + trust-signal-row combination
-    the wireframe specifies; Stage 3 will paint the button with
-    coral (warm urgency, NOT teal).
-  - V16 NOTE: copy must NOT use "Forever in pull-ups" or
-    "Adult diapers" pressure language (forbidden per GF §11).
-- IMAGE PICKED: none (button+text).
-- VARIANCE CHECK: differs from S4 (CTA vs quote cards).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S5: Late CTA
+- ROLE slot: (button + trust-signal row + easter-egg cost comparison)
+- INTENT: Late CTA 'Try the Body-Signal approach for 60 days.'
+- COMPONENT PICKED: CTA-9  (Floating CTA [A*] (CTA — THE CLOSE, late placement))
+  - Current usage: 1/8
+  - WHY: Floating CTA — late-placement button after the 60-day guarantee.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Toddler in a living room with soft yellow dino play, age-ambiguous
+  - Current usage: 2/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 6: LENA SIGN-OFF (MEDIUM→LONG VARIANT)
-- ROLE slot: `signoff-lena-medium-long-gf`
-- INTENT: Lena MEDIUM→LONG transition signoff — longer peer
-  voice than E3-E5 MEDIUM.
-- COMPONENT PICKED: **REV-10.2** — REV-10.2 Lena Final (Lena's Last Word)
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: Lena-Final is structurally the LONG-leaning signoff
-    that fits the MEDIUM→LONG transition; Stage 3 will paint
-    with cream card.
-- IMAGE PICKED: none (text-only signoff).
-- VARIANCE CHECK: differs from S5 (signoff vs CTA).
-- GF CALIBRATION CHECK: ✅ Lena peer voice universal.
+### S6: Lena Sign-off (MEDIUM→LONG variant)
+- ROLE slot: signoff-lena-medium-long-gf
+- INTENT: Lena MEDIUM→LONG transition signoff, 'With care,' — Lena.
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Suppression note (operational)
-> Per GF §15 Welcome E6 and §20 PP-Level Detection flow, **PP-Level
-> Detection takes priority over Welcome E6** for GF purchasers.
-> When `purchased=true` AND `level=gf` at Day 14, suppress this
-> email and deliver PP-Level Detection flow (flow 09, single email).
-> The picks above are still authored; they remain the asset
-> selection for the non-purchaser recipient of Welcome E6.
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted Giuliano.
-- Footer: extracted Giuliano.
-- Sign-off: covered by Section 6 (REV-10.2).
-
-### Tracker updates applied
-- component-usage.json: IMG-09 +1, 20.3 +1, DEEP-19 +1, 13.7 +1,
-  PDISP-3 +1 (now 2/8), PRICE-10 +1, STORY-14 +1 (now 2/8),
-  CTAMAX-04 +1 (now 2/8), REV-10.2 +1.
-- image-usage.json: lifestyle/toddler-napping-watermelon-pink-shorts.png +1
-  (now 1/25).
+### Tracker updates
+- component-usage.json: incremented HERO-14, EMO-3, EDU-12, PROD-7, PROD-2, SP-02, TRUSTDEEP-13.1, CTA-9
+- image-usage.json: incremented lifestyle/toddler-napping-watermelon-pink-shorts.png, flat-lay/swim-diaper-unicorn-pink.jpg, flat-lay/swim-diaper-whale-ocean-blue.jpg, lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-livingroom-dino-yellow.png

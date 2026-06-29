@@ -755,172 +755,97 @@ END OF WIREFRAME — pped-22-e1-l3
 
 ## STAGE 2 PICKS — pped-22-e1-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 9 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E16 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e1-l3
+- COMPONENT PICKED: FLOW-1 (Welcome Hook *(L7121)*)
+  - Catalog entry: position=flow_specific, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e1-l3, level=l3, theme=1. Calibrated per level.
 
 ### Section 1: HOOK — OBSERVATION AS MIRROR
-
-- ROLE slot: `hook-observation-as-mirror`
-
-- INTENT: hook block — HOOK — OBSERVATION AS MIRROR
-
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: dignity-first-sentence-stack-with-no-headline
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: STORY-01 (Chapter Cards — Book-like story progression *(L429)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/swim-diaper-unicorn-pink.jpg
+  - Alt text: L3 1 section 1 visual — calibrated per level (l3)
+  - Current usage: 3/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — YEARS OF ATTEMPTS REFRAME
-
-- ROLE slot: `validation-years-of-attempts-reframe`
-
-- INTENT: validation block — VALIDATION — YEARS OF ATTEMPTS REFRAME
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: validation-paragraph-stack-with-barmpagiannis-2025-citation
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: STORY-03 (Split Before/After — Visual transformation *(L4356)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: L3 1 section 2 visual — calibrated per level (l3)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: MECHANISM — BSL AS INFORMATION, NOT TRAINING
-
-- ROLE slot: `mechanism-bsl-as-information-not-training`
-
-- INTENT: mechanism block — MECHANISM — BSL AS INFORMATION, NOT TRAINING
-
-- COMPONENT PICKED: **DEEP-16** — Brain-Body Bridge
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-paragraph-stack-with-bsl-information-frame
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: M2 (Mechanism Diagram (Mobile) *(L2971)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: L3 1 section 3 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: PEER TESTIMONIAL — L3 MICRO-WIN (DIGNITY-FIRST)
-
-- ROLE slot: `peer-testimonial-l3-micro-win-dignity-first`
-
-- INTENT: validation block — PEER TESTIMONIAL — L3 MICRO-WIN (DIGNITY-FIRST)
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: peer-testimonial-paragraph-stack-with-dignity-micro-win
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: SP-11 (Star Cascade *(L5053)*)
+  - Catalog entry: position=body_social_proof, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: accessories/potty-targets-stickers-chart.png
+  - Alt text: L3 1 section 4 visual — calibrated per level (l3)
+  - Current usage: 8/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PRODUCT — GENTLE REFRAME (1 PAIR $34.99 ONLY)
-
-- ROLE slot: `product-gentle-reframe-1-pair-34-99-only`
-
-- INTENT: validation block — PRODUCT — GENTLE REFRAME (1 PAIR $34.99 ONLY)
-
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: gentle-product-reframe-paragraph-stack
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: PROD-1 (Full Showcase *(L5682)*)
+  - Catalog entry: position=product_showcase, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: L3 1 section 5 visual — calibrated per level (l3)
+  - Current usage: 9/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: 60-DAY GUARANTEE — DIGNITY-FRAMED RISK REMOVAL
-
-- ROLE slot: `60-day-guarantee-dignity-framed-risk-removal`
-
-- INTENT: validation block — 60-DAY GUARANTEE — DIGNITY-FRAMED RISK REMOVAL
-
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
-
-  - Currently used: 11/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: guarantee-paragraph-dignity-framed
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CMP-9 (Decision Tree *(L6313)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
 ### Section 7: PERMISSION-NOT-TO-BUY CLOSE + L3 PEER QUOTE
+- ROLE slot: permission-close-paragraph-stack-with-l3-peer-quote
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: DEEP-08 (The Permission Paradox *(L9331)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
 
-- ROLE slot: `permission-not-to-buy-close-l3-peer-quote`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: cta block — PERMISSION-NOT-TO-BUY CLOSE + L3 PEER QUOTE
+### Tracker updates
+- component-usage.json: incremented ['FLOW-1', 'STORY-01', 'STORY-03', 'M2', 'SP-11', 'PROD-1', 'CMP-9', 'DEEP-08']
+- image-usage.json: incremented ['flat-lay/swim-diaper-unicorn-pink.jpg', 'flat-lay/training-pant-fox-woodland-white.jpg', 'flat-lay/training-pant-bunny-hearts-pink.jpg', 'accessories/potty-targets-stickers-chart.png', 'flat-lay/training-pant-watermelon-pink.jpg']
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 8/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Section 8: CTA — TEXT LINK ONLY (NO BUTTON)
-
-- ROLE slot: `cta-text-link-only-no-button`
-
-- INTENT: cta block — CTA — TEXT LINK ONLY (NO BUTTON)
-
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
-
-  - Currently used: 9/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Section 9: LENA SIGN-OFF (SHORT VARIANT — TALK SOON,) + P.S.
-
-- ROLE slot: `lena-sign-off-short-variant-talk-soon-p-s`
-
-- INTENT: signoff block — LENA SIGN-OFF (SHORT VARIANT — TALK SOON,) + P.S.
-
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
-
-  - Currently used: 12/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 9

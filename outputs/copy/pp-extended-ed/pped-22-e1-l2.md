@@ -761,138 +761,97 @@ END OF WIREFRAME — pped-22-e1-l2
 
 ## STAGE 2 PICKS — pped-22-e1-l2
 
+L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-element formula (mechanism specificity, BCBA complement, realistic timelines, 60-day guarantee, permission).
 
-> **L2 Calibration Applied:** Muted greens. BCBA acknowledgment. Educational, paced.
-
-
-> **Section count:** 7 body sections.
-
-> **Flow:** pp-extended-ed | **Position:** E11 | **Level:** L2
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for pped-22-e1-l2
+- COMPONENT PICKED: DESDEEP-1 (The Gradient Hero *(L13147)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for pped-22-e1-l2, level=l2, theme=1. Calibrated per level.
 
 ### Section 1: HOOK — "YOU'VE BEEN AT THIS LONG ENOUGH"
-
-- ROLE slot: `hook-you-ve-been-at-this-long-enough`
-
-- INTENT: hook block — HOOK — "YOU'VE BEEN AT THIS LONG ENOUGH"
-
-- COMPONENT PICKED: **HERO-20** — Handwritten Letter Opener
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: prose-block-with-failed-method-acknowledgment
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: 7 (Parent Stories (Emotional Proof) *(L187)*)
+  - Catalog entry: position=body_recognition, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/training-pant-penguin-multicolor.jpg
+  - Alt text: L2 1 section 1 visual — calibrated per level (l2)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: MECHANISM — NICHOLSON 2019 + BCBA COMPLEMENT
-
-- ROLE slot: `mechanism-nicholson-2019-bcba-complement`
-
-- INTENT: mechanism block — MECHANISM — NICHOLSON 2019 + BCBA COMPLEMENT
-
-- COMPONENT PICKED: **EDU-11** — Science Citation
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: mechanism-paragraph-stack-with-nicholson-citation-and-bcba-bridge
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: 32.1 (Mechanism Card (Gradient Top Bar) *(L2700)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/cloth-pads-watermelon-astronaut-cat.png
+  - Alt text: L2 1 section 2 visual — calibrated per level (l2)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: TIMELINE NORMALIZATION (ELEMENT ④)
-
-- ROLE slot: `timeline-normalization-element`
-
-- INTENT: default block — TIMELINE NORMALIZATION (ELEMENT ④)
-
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
-
-  - Currently used: 13/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: timeline-paragraph-stack-with-realistic-ranges
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: 9 (The Journey Map (Where You Are) *(L234)*)
+  - Catalog entry: position=body_recognition, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: flat-lay/swim-diaper-whale-ocean-blue.jpg
+  - Alt text: L2 1 section 3 visual — calibrated per level (l2)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: 60-DAY GUARANTEE (ELEMENT ⑤)
-
-- ROLE slot: `60-day-guarantee-element`
-
-- INTENT: guarantee block — 60-DAY GUARANTEE (ELEMENT ⑤)
-
-- COMPONENT PICKED: **TRUST-5** — Promise Card
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: guarantee-paragraph-stack-with-no-conditions
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: SP-14 (Trust Badges Row *(L5139)*)
+  - Catalog entry: position=guarantee_trust, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: L2 1 section 4 visual — calibrated per level (l2)
+  - Current usage: 5/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: PERMISSION-NOT-TO-BUY (ELEMENT ⑥) + L2 TESTIMONIAL
-
-- ROLE slot: `permission-not-to-buy-element-l2-testimonial`
-
-- INTENT: social_proof block — PERMISSION-NOT-TO-BUY (ELEMENT ⑥) + L2 TESTIMONIAL
-
-- COMPONENT PICKED: **STORY-10** — Stacked Story
-
-  - Currently used: 6/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: permission-paragraph-stack-with-peer-testimonial
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: DEEP-23 (The Permission Slip *(L9772)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
+- IMAGE PICKED: lifestyle/toddler-rearview-cat-mustard.png
+  - Alt text: L2 1 section 5 visual — calibrated per level (l2)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 6: CTA SECTION (LOW AGGRESSION, MULTIPLE PATHS)
-
-- ROLE slot: `cta-section-low-aggression-multiple-paths`
-
-- INTENT: cta block — CTA SECTION (LOW AGGRESSION, MULTIPLE PATHS)
-
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
-
-  - Currently used: 7/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
+- ROLE slot: cta-stack-3-text-links-plus-muted-button
+- INTENT: per wireframe Section 6
+- COMPONENT PICKED: CTA-6 (Social CTA *(L6733)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
 ### Section 7: LENA SIGN-OFF (SHORT VARIANT PER LOCKED-PROFILE)
+- ROLE slot: LENA SIGN-OFF (SHORT VARIANT PER LOCKED-PROFILE)
+- INTENT: per wireframe Section 7
+- COMPONENT PICKED: UTIL-04 (Footer (Giuliano source) *(L7571)*)
+  - Catalog entry: position=signoff_footer, audience=['L2']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l2)
 
-- ROLE slot: `lena-sign-off-short-variant-per-locked-profile`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF (SHORT VARIANT PER LOCKED-PROFILE)
+### Tracker updates
+- component-usage.json: incremented ['DESDEEP-1', '7', '32.1', '9', 'SP-14', 'DEEP-23', 'CTA-6', 'UTIL-04']
+- image-usage.json: incremented ['flat-lay/training-pant-penguin-multicolor.jpg', 'accessories/cloth-pads-watermelon-astronaut-cat.png', 'flat-lay/swim-diaper-whale-ocean-blue.jpg', 'accessories/book-potty-training-guide.png', 'lifestyle/toddler-rearview-cat-mustard.png']
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
-
-  - Currently used: 10/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L2 CALIBRATION CHECK: ✅ muted greens, BCBA acknowledgment
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 7

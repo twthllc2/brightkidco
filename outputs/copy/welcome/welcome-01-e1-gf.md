@@ -753,110 +753,81 @@ VARIANCE_CHECK:
 END OF WIREFRAME — welcome-01-e1-gf
 =================================================================
 ```
+
 ## STAGE 2 PICKS — welcome-01-e1-gf
 
-> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E1).
-> Scope: 5 sections (hero / callout / stat / testimonial / product).
-> GF calibration: R1–R6 strict, V16 symptom language only,
-> 50/50 hope/realism, no autism/ASD/Level 1/2/3 in body copy.
+GF calibration: R1–R6 strict (NO autism/ASD/Level labels in body), V16 symptom language, 5 sub-groups A–E accommodation, WELCOME10 code in subject/preheader, hope/realism 50/50 at entry. Migration anchor per E1: none (anchor #1 lands in E2).
 
-### Section 1: HOOK + INCLUSIVE REFRAME
-- ROLE slot: `hero-image-lifestyle-gf`
-- INTENT (from wireframe): ambiguous-age, three-child composite feel;
-  real home, soft natural light, no stock NT gloss.
-- COMPONENT PICKED: **DEEPIMG-7** — Full-Bleed Lifestyle
-  - From catalog: position=body_images, image_support=image_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: full-bleed lifestyle frame is the cleanest visual for a
-    3-child composite soft natural-light lifestyle opener; serves
-    Groups A/D/E (hope) and Groups B/C (realism) identically.
-- IMAGE PICKED: **lifestyle/toddler-livingroom-dino-yellow.png**
-  - Dimensions: 1200×800 (lifestyle folder).
-  - Alt text (V16 spec): "Child playing in a real home living room,
-    soft natural light, ambiguous age."
-  - Currently used: 0/25.
-  - WHY: real-home, warm tone, varied-age feel; satisfies
-    GF-V1 three-child composite without silhouetting a subgroup.
-- VARIANCE CHECK: E1 is the first GF email — sets baseline.
-- GF CALIBRATION CHECK: ✅ no level labels, V16-safe.
+### S1: Hook + Inclusive Reframe
+- ROLE slot: hero-image-lifestyle-gf
+- INTENT: Inclusive 'if/whether' opener, no specific age, real-home image, 3-child composite rule.
+- COMPONENT PICKED: HERO-6  (Identity Statement [A*] (HERO, universal))
+  - Current usage: 1/8
+  - WHY: GF opener 'if/whether' identity frame, universal across 5 sub-groups, fresh hero not used elsewhere.
+- IMAGE PICKED: lifestyle/toddlers-backview-disposable-diapers.png
+  - Alt text: Two toddlers from behind, soft home light, neutral posture
+  - Current usage: 5/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 2: VALIDATION — UNIVERSAL QUOTE STACK (×2)
-- ROLE slot: `callout-quote-highlight-gf` (stacked, GF universal voice)
-- INTENT: highlight cross-level GF quotes bridging Sub-Group A
-  (Diagnostic Entrants) and Sub-Group D (Overwhelmed Non-Selectors).
-- COMPONENT PICKED: **REV-07.2** — REV-07.2 — Permission Statement (Solve-This Closer)
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: the weeks-pattern ("Week 1 / Week 3") is a structurally
-    repeated quote stack that fits the wireframe's "×2 stacked"
-    requirement; tone is symptom-only and V16-clean as written.
-  - V16 NOTE: attribute to "Real parent (anonymous, GF reader)" —
-    Stage 3 rewrite guard ensures no age-pin or label appears.
-- IMAGE PICKED: none (text-only callout block).
-- VARIANCE CHECK: differs from S1 (image frame vs callout).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S2: Validation — Universal Quote Stack
+- ROLE slot: callout-quote-highlight-gf
+- INTENT: Two stacked universal-GF quotes, no level labels, language-only.
+- COMPONENT PICKED: 4.3  (Pull Quote [A] (RECOGNITION & STORY, universal))
+  - Current usage: 1/8
+  - WHY: Standard pull-quote with left-border accent — matches warm-terracotta callout brief for the validation section.
+- IMAGE PICKED: accessories/book-potty-training-guide.png
+  - Alt text: BrightKidCo potty-training guide book, neutral surface
+  - Current usage: 3/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 3: MECHANISM — INTEROCEPTION REVEAL
-- ROLE slot: `stat-highlight-box-gf`
-- INTENT: highlight 49% SPARK statistic in GF-V2 paraphrase form
-  ("almost 1 in 2 children whose nervous systems process signals
-  differently aren't toilet trained by age 5") — NEVER names autism.
-- COMPONENT PICKED: **HERO-2** — Data Shock
-  - From catalog: position=hero, image_support=text_only,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: data-shock framing is the natural container for the 49%
-    stat; large 48px bold number is in scope; text_only so no image
-    silhouette risk; Stage 3 will paint with Brand-Green #039902.
-  - V16 NOTE: body copy must use the GF paraphrase form, NOT the
-    original L1 "49% of autistic 4-5 year olds" string.
-- IMAGE PICKED: none (text-only stat box).
-- VARIANCE CHECK: differs from S2 (stat number vs quote).
-- GF CALIBRATION CHECK: ✅ stat paraphrased per GF-V2.
+### S3: Mechanism — Interoception Reveal
+- ROLE slot: stat-highlight-box-gf
+- INTENT: 49% stat with V16 override ('nervous systems process signals differently'), Wiggins 2022.
+- COMPONENT PICKED: 21.1  (Large Number Callout [A] (GUARANTEE & TRUST, stat-block))
+  - Current usage: 1/8
+  - WHY: Purpose-built large-number callout for the 49% interoception stat (Wiggins 2022 paraphrase, V16-safe).
+- IMAGE PICKED: flat-lay/training-pant-cloud-raindrop-white.jpg
+  - Alt text: White cloud-raindrop training pant laid flat
+  - Current usage: 6/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 4: SOCIAL PROOF — THREE-PARENT STACK
-- ROLE slot: `testimonial-stack-gf` (3 cards stacked vertically)
-- INTENT: three real parent quotes covering the full symptom
-  spectrum without naming levels; varied parent demographics.
-- COMPONENT PICKED: **STORY-10** — Stacked Story
-  - From catalog: position=body_recognition, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: stacked card narrative is structurally a perfect fit for
-    3 vertical quote cards with attribution and left-border accents;
-    tone is editorial/parent-peer, symptom-only.
-  - V16 NOTE: keep attributions symptom-described ("A parent of
-    a 5-year-old," "A mom of a 4-year-old") — NO Level 1/2/3.
-- IMAGE PICKED: none (text-only three-card stack).
-- VARIANCE CHECK: differs from S3 (narrative cards vs stat).
-- GF CALIBRATION CHECK: ✅ symptom-described attribution only.
+### S4: Social Proof — Three-Parent Stack
+- ROLE slot: testimonial-stack-gf
+- INTENT: Three vertically-stacked parent quotes, no labels, varied parent demographics.
+- COMPONENT PICKED: 7  (Parent Stories (Emotional Proof) [A*] (RECOGNITION & STORY))
+  - Current usage: 1/8
+  - WHY: Parent Stories (Emotional Proof) — built for three vertically-stacked real-parent quotes, the Three-Family pattern.
+- IMAGE PICKED: lifestyle/toddler-napping-watermelon-pink-shorts.png
+  - Alt text: Child napping softly in pink shorts, real home light
+  - Current usage: 5/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Section 5: PRODUCT INTRO + GUARANTEE
-- ROLE slot: `product-3-layer-cross-section-gf` + double-tap CTA
-- INTENT: exploded-view 3-layer system (cotton + smart absorption
-  + barrier); cream background; clean labels; paired with
-  "60 days. By your judgment." badge + "See How It Works" CTAs.
-- COMPONENT PICKED: **PROD-3** — Layer Breakdown
-  - From catalog: position=product_showcase, image_support=image_text,
-    audience=[L1,L2,L3,GF]. Currently used: 0/8.
-  - WHY: layered product diagram is the natural fit for a 3-layer
-    exploded view; Stage 3 will render with cream/cotton-tone palette,
-    terracotta callouts, and the 60-day shield badge.
-- IMAGE PICKED: **flat-lay/laundry-bag-llama-cream.png**
-  - Dimensions: 1200×1200 (cream-toned product flat-lay).
-  - Alt text (V16 spec): "Cream-colored laundry bag, neutral product
-    on warm background — illustrates the body-signal-learning system."
-  - Currently used: 0/25.
-  - WHY: cream-tone product-adjacent flat-lay reinforces the
-    cream/warm palette without competing with mechanism copy.
-- VARIANCE CHECK: differs from S4 (product + image vs social proof).
-- GF CALIBRATION CHECK: ✅ no level labels.
+### S5: Product Intro + Guarantee (double-tap CTA)
+- ROLE slot: product-3-layer-cross-section-gf + double-tap CTA
+- INTENT: Exploded-view 3-layer product, 60-day guarantee, 'See How It Works' button (double-tap).
+- COMPONENT PICKED: PROD-3  (Layer Breakdown [A*] (PRODUCT SHOWCASE, showcase-allowed))
+  - Current usage: 5/8
+  - WHY: Layer Breakdown IS the exploded-view 3-layer cross-section. Showcase exception per Ayoub's brief, reusable.
+- COMPONENT PICKED: CTA-3  (Curiosity Code [A*] (CTA — THE CLOSE))
+  - Current usage: 1/8
+  - WHY: Curiosity Code CTA matches the 'See How It Works' frame-setting button, not a hard sale.
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: Fox-woodland print training pant laid flat, soft white base
+  - Current usage: 6/25
+  - WHY: Matches section intent and GF universal image calibration (V16-safe, no labels).
 
-### Footer (static — already extracted, no work needed)
-- Header: extracted from Giuliano mockup (Stage 2 Task 0).
-- Footer: extracted from Giuliano mockup (Stage 2 Task Z).
-- Sign-off: in copy file body (Lena SHORT variant, E1-E2 macro).
+### Signoff (Lena SHORT — E1)
+- ROLE slot: signoff-lena-short-gf
+- INTENT: Lena SHORT variant, 'Talk soon,' (E1-E2 macro).
+- COMPONENT PICKED: UTIL-05  (Signoff Card [G+] (SHELL & HEADER, Giuliano source))
+  - Current usage: 2/8
+  - WHY: Giuliano source Signoff card — canonical Lena short-variant cream-card signoff for E1.
+- IMAGE PICKED: none (this section is text-only / bridge)
 
-### Tracker updates applied
-- component-usage.json: DEEPIMG-7 +1, DEEP-13 +1, HERO-2 +1,
-  STORY-10 +1, PROD-3 +1 (each now 1/8).
-- image-usage.json: lifestyle/toddler-livingroom-dino-yellow.png +1,
-  flat-lay/laundry-bag-llama-cream.png +1 (each now 1/25).
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS
+
+### Tracker updates
+- component-usage.json: incremented HERO-6, 4.3, 21.1, 7, PROD-3, CTA-3, UTIL-05
+- image-usage.json: incremented lifestyle/toddlers-backview-disposable-diapers.png, accessories/book-potty-training-guide.png, flat-lay/training-pant-cloud-raindrop-white.jpg, lifestyle/toddler-napping-watermelon-pink-shorts.png, flat-lay/training-pant-fox-woodland-white.jpg

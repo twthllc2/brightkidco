@@ -857,226 +857,48 @@ END OF WIREFRAME — faq-21-e5
 
 ---
 
+---
+
 ## STAGE 2 PICKS — faq-21-e5
 
 
-> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
-
-
-> **Section count:** 12 body sections.
-
-> **Flow:** faq-library | **Position:** E5 | **Level:** GF
-
-
-### Section 1: HOOK — THREE SYSTEMS, ONE MISSING PIECE
-
-- ROLE slot: `hook-three-systems-one-missing-piece`
-
-- INTENT: hook block — HOOK — THREE SYSTEMS, ONE MISSING PIECE
-
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 9/8 (over cap post-substitution; was 30.2 Letter-Embedded Quote L2-only)
-  - WHY: by-name position+audience match. HERO-9 Whisper Tone is a hero component with full-audience tag, appropriate for GF hook-three-systems-one-missing-piece.
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 2: QUESTION RECAP — "WHAT'S LEFT?"
-
-- ROLE slot: `question-recap-what-s-left`
-
-- INTENT: faq block — QUESTION RECAP — "WHAT'S LEFT?"
-
-- COMPONENT PICKED: **OBJ-15** — FAQ Accordion
-
-  - Currently used: 4/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 3: LET'S NAME THEM — BCBA, SCHOOL, GI
-
-- ROLE slot: `let-s-name-them-bcba-school-gi`
-
-- INTENT: default block — LET'S NAME THEM — BCBA, SCHOOL, GI
-
-- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 4: HERE'S WHAT CONNECTS ALL THREE
-
-- ROLE slot: `here-s-what-connects-all-three`
-
-- INTENT: default block — HERE'S WHAT CONNECTS ALL THREE
-
-- COMPONENT PICKED: **HERO-10** — Bold Declaration
-
-  - Currently used: 16/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 5: SO WHERE DOES THAT LEAVE YOU?
-
-- ROLE slot: `so-where-does-that-leave-you`
-
-- INTENT: default block — SO WHERE DOES THAT LEAVE YOU?
-
-- COMPONENT PICKED: **PRODEEP-1** — The Material Story
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 6: THREE FAMILIES, THREE SITUATIONS
-
-- ROLE slot: `three-families-three-situations`
-
-- INTENT: default block — THREE FAMILIES, THREE SITUATIONS
-
-- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 7: COMMON THREAD + COMPLEMENT LINES
-
-- ROLE slot: `common-thread-complement-lines`
-
-- INTENT: default block — COMMON THREAD + COMPLEMENT LINES
-
-- COMPONENT PICKED: **HERO-15** — Level Callout
-
-  - Currently used: 17/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 8: WHAT THIS DOESN'T PROMISE / DOES OFFER
-
-- ROLE slot: `what-this-doesn-t-promise-does-offer`
-
-- INTENT: guarantee block — WHAT THIS DOESN'T PROMISE / DOES OFFER
-
-- COMPONENT PICKED: **EDUDEEP-5** — The Brain Map
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 9: PRODUCT OFFER + GUARANTEE + CTA
-
-- ROLE slot: `product-offer-guarantee-cta`
-
-- INTENT: product block — PRODUCT OFFER + GUARANTEE + CTA
-
-- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 10: LENA SIGN-OFF — SHORT VARIANT
-
-- ROLE slot: `lena-sign-off-short-variant`
-
-- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
-
-- COMPONENT PICKED: **PSYCH-05** — Curiosity Gap
-
-  - Currently used: 18/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 11: P.S. — BCBA-COMPLEMENT + 60-DAY CLOSE
-
-- ROLE slot: `p-s-bcba-complement-60-day-close`
-
-- INTENT: guarantee block — P.S. — BCBA-COMPLEMENT + 60-DAY CLOSE
-
-- COMPONENT PICKED: **EDUDEEP-6** — The Developmental Timeline
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
-
-### Section 12: FOOTER — STATIC
-
-- ROLE slot: `footer-static`
-
-- INTENT: signoff block — FOOTER — STATIC
-
-- COMPONENT PICKED: **UTIL-03** — Out-Line
-
-  - Currently used: 19/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
-
+> **FAQ Objection #5 — Three systems (BCBA/School/GI) alignment** — Cross-Level (R1-R6 + V16 + GF levers).
+> FAQ objection-handling email — gentle, mechanism-first. Components chosen to support objection resolution without pressure. R1 (no labels) preserved throughout.
+
+
+### Components (8/8)
+
+| Role | Component ID | Reason |
+|---|---|---|
+| PROSE-OPENER-3-SYSTEMS | **EMODEEP-18** | Puzzle-metaphor opener — three systems framing |
+| QUESTION-QUOTE-CALLOUT | **PSYCH-06** | Mint quote callout — 'what's left?' |
+| 3-PUZZLE-PIECES | **PSYCH-04** | Vertical 3 puzzle pieces — BCBA / School / GI |
+| MECH-3-BULLET-REFRAMES | **EDU-6** | 3-bullet mechanism reframes — applied to 3 systems |
+| 3-TESTIMONIAL-COMPLEMENT | **SP-08** | Vertical 3 testimonial cards — BCBA/school/GI alignment |
+| BRIDGE-3-COMPLEMENT-APHORISMS | **EDU-15** | 3-complement aphorisms bridge prose |
+| PRODUCT-OFFER-BRIDGE-CTA | **PROD-10** | Product offer + bridge CTA (reusable — showcase) |
+| CTA-PILL | **CTA-5** | Brand-green pill — single primary CTA |
+| LENA-SIGNOFF-SHORT + PS-BCBA-60D + FOOTER | **12.1** | Lena sig + BCBA-complement 60-day P.S. + footer |
+
+### Images (5/6)
+
+- `lifestyle/toddler-potty-ladder-yellow-woodland.png` — Yellow woodland potty ladder. (Current: 5/25)
+- `flat-lay/training-pant-fox-red-white.jpg` — Fox red/white training pant. (Current: 7/25)
+- `flat-lay/training-pant-fox-woodland-white.jpg` — Fox woodland white training pant. (Current: 4/25)
+- `flat-lay/training-pant-cloud-raindrop-white.jpg` — Cloud raindrop training pant white. (Current: 6/25)
+- `lifestyle/toddler-backpack-moon-cloud-blue.png` — Toddler backpack moon cloud blue. (Current: 7/25)
 
 ### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 12
+- `component-usage.json`: EMODEEP-18 4 → 5
+- `component-usage.json`: PSYCH-06 0 → 1
+- `component-usage.json`: PSYCH-04 1 → 2
+- `component-usage.json`: EDU-6 0 → 1
+- `component-usage.json`: SP-08 7 → 8
+- `component-usage.json`: EDU-15 0 → 1
+- `component-usage.json`: PROD-10 1 → 2
+- `component-usage.json`: CTA-5 1 → 2
+- `image-usage.json`: `lifestyle/toddler-potty-ladder-yellow-woodland.png` 5 → 6
+- `image-usage.json`: `flat-lay/training-pant-fox-red-white.jpg` 7 → 8
+- `image-usage.json`: `flat-lay/training-pant-fox-woodland-white.jpg` 4 → 5
+- `image-usage.json`: `flat-lay/training-pant-cloud-raindrop-white.jpg` 6 → 7
+- `image-usage.json`: `lifestyle/toddler-backpack-moon-cloud-blue.png` 7 → 8

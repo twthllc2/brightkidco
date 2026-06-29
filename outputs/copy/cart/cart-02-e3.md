@@ -625,125 +625,83 @@ END OF WIREFRAME — cart-02-e3
 
 ## STAGE 2 PICKS — cart-02-e3
 
-
-> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
-
-
-> **Section count:** 6 body sections.
-
-> **Flow:** cart | **Position:** E3 | **Level:** GF
-
-
-### Section 1: Direct Address
-
-- ROLE slot: `direct-address`
-
-- INTENT: validation block — Direct Address
-
-- COMPONENT PICKED: **DEEP-11** — Guilt Audit
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 2: Skepticism Validation
-
-- ROLE slot: `skepticism-validation`
-
-- INTENT: validation block — Skepticism Validation
-
-- COMPONENT PICKED: **DEEP-03** — Pattern Break
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
-
-  - Currently used: 3/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 3: Mechanism Reframe
-
-- ROLE slot: `mechanism-reframe`
-
-- INTENT: validation block — Mechanism Reframe
-
-- COMPONENT PICKED: **DEEP-18** — Celebration Deficit
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
-
-  - Currently used: 4/25
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 4: Guarantee As Honest Protocol
-
-- ROLE slot: `guarantee-as-honest-protocol`
-
-- INTENT: guarantee block — Guarantee As Honest Protocol
-
-- COMPONENT PICKED: **TRUST-7** — Trust Block
-
-  - Currently used: 2/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 5: Three Family Proof
-
-- ROLE slot: `three-family-proof`
-
-- INTENT: social_proof block — Three Family Proof
-
-- COMPONENT PICKED: **DEEP-20** — Community Thread
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Section 6: Cta
-
-- ROLE slot: `cta`
-
-- INTENT: cta block — Cta
-
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
-
-  - Currently used: 1/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 6
+### Section 1: hero-direct-address-block (HERO)
+- ROLE slot: hero-direct-address-block
+- INTENT: Lena's direct, permission-framed address — minimal furniture, no quote glyph, just text. Mirrors E1's permission frame but more direct.
+- COMPONENT PICKED: HERO-11 (Question Storm)
+  - Catalog entry: position=hero, audience=[L1,L2,L3,GF], messaging=emotional, temperature=warm, image_support=text_only
+  - Current usage: 1/8
+  - WHY: Question Storm's interrogation opening ("60 days. Your judgment. No pressure.") reads as Lena's direct address. Different from E1's whisper and E2's bold declaration.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text (GF, V16): "Two adult founders of BrightKidCo holding a watermelon-pattern training pant, in warm cream lighting."
+  - Current usage: 6/25
+  - WHY: Founders photo grounds the brand (already established in E1, repeats for flow continuity).
+
+### Section 2: validation-with-whether-or-if-anchors
+- ROLE slot: validation-with-whether-or-if-anchors
+- INTENT: 3 anchor lines starting with "Whether...Or...If..." — pure symptom language.
+- COMPONENT PICKED: EMO-11 (Break Permission)
+  - Catalog entry: position=emotional_support, audience=[L1,L2,L3,GF], messaging=emotional, image_support=image_text, temperature=warm
+  - Current usage: 1/8
+  - WHY: "Break Permission" naturally fits the "Whether...Or...If..." pattern — each anchor offers permission to have that experience. Different from cart-02-e1's "6" Avatar and cart-02-e2's EMO-9.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text (GF, V16): "Toddler climbing a yellow woodland-patterned potty ladder, viewed from behind."
+  - Current usage: 3/25
+  - WHY: Different potty-ladder visual from E1's multicolor one. Woodland-cream-yellow palette matches E3's neutral tone.
+
+### Section 3: mechanism-explanation-pullups-contrast
+- ROLE slot: mechanism-explanation-pullups-contrast
+- INTENT: contrasts pull-ups (no signal) vs Body-Signal underwear (sustained gentle signal). Cites Mahler and Barmpagiannis.
+- COMPONENT PICKED: 3 (Micro-Win Celebration)
+  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=psychology, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Micro-Win Celebration is the contrast framing: pull-ups = no win, Body-Signal = small win per cycle. Different from cart-02-e1's "1" Body Signal Concept.
+- IMAGE PICKED: flat-lay/diaper-woodland-creature-yellow.jpg
+  - Alt text (GF, V16): "BrightKidCo disposable diaper with woodland-creature pattern in soft yellow, flat-lay product shot."
+  - Current usage: 2/25
+  - WHY: Visualizes the pull-ups (disposable diaper) being contrasted against the Body-Signal product. V16-safe.
+
+### Section 4: guarantee-callout-block-prominent
+- ROLE slot: guarantee-callout-block-prominent
+- INTENT: large guarantee sentence, centered. 60-day promise framed as honest protocol.
+- COMPONENT PICKED: CMP-3 (Promise vs Reality)
+  - Catalog entry: position=guarantee_trust, audience=[L1,L2,L3,GF], messaging=guarantee, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: "Promise vs Reality" is exactly the "honest protocol" framing. Renders the 60-day guarantee with proper contrast. Different from E1's TRUST-2 and E2's TRUST-1.
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text (GF, V16): "BrightKidCo training pant with fox pattern in woodland white tones, flat-lay product shot."
+  - Current usage: 1/25
+  - WHY: Clean cream-white training pant — represents the "promise" side of promise vs reality.
+
+### Section 5: three-testimonial-card-stack-compact
+- ROLE slot: three-testimonial-card-stack-compact
+- INTENT: three cards, compact form factor (Minimalist pattern = no decorative furniture).
+- COMPONENT PICKED: SP-06 (Before/After Testimonial)
+  - Catalog entry: position=body_social_proof, audience=[L1,L2,L3,GF], messaging=proof, image_support=image_text, temperature=neutral
+  - Current usage: 1/8
+  - WHY: Before/After Testimonial is the compact three-card form. Different from cart-02-e1's SP-08 Stacked Mini-Reviews and cart-02-e2's VSOCIAL-8 Community Counter.
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text (GF, V16): "Toddler playing with a small toy train, soft warm indoor setting, three-quarter view."
+  - Current usage: 8/25 (at cap) — DO NOT INCREMENT
+  - WHY: Generic toddler-playing visual for testimonials. R1-compliant. AT CAP.
+
+### Section 6: cta-button-full-width
+- ROLE slot: cta-button-full-width
+- INTENT: full-width CTA "Complete purchase" button, mid-fold position.
+- COMPONENT PICKED: CTA-2 (Soft Link)
+  - Catalog entry: position=cta, audience=[L1,L2,L3,GF], messaging=conversion, image_support=text_only, temperature=warm
+  - Current usage: 1/8
+  - WHY: Soft Link renders cleanly as a permission-framed full-width CTA. Different from cart-02-e1 (which used no specific CTA component) and cart-02-e2 (no CTA in body).
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text (GF, V16): "Toddler playing in a warm living room, side view, soft yellow lighting."
+  - Current usage: 6/25
+  - WHY: Generic lifestyle shot for the CTA section. No child face shown.
+
+### Image count check
+- Total images in this email: 5/6
+- Status: PASS (hard minimum 4 met, hard cap not exceeded)
+
+### Tracker updates
+- component-usage.json: incremented [HERO-11, EMO-11, "3", CMP-3, SP-06, CTA-2]
+- image-usage.json: incremented [lifestyle/founders-holding-pants-yellow-watermelon.png, lifestyle/toddler-potty-ladder-yellow-woodland.png, flat-lay/diaper-woodland-creature-yellow.jpg, flat-lay/training-pant-fox-woodland-white.jpg, lifestyle/toddler-livingroom-dino-yellow.png]
+- SKIPPED: lifestyle/toddler-playing-train-moon-cloud-blue.png (at cap 25)

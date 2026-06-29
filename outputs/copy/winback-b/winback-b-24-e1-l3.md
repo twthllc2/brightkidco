@@ -588,104 +588,81 @@ END OF WIREFRAME — winback-b-24-e1-l3
 
 ## STAGE 2 PICKS — winback-b-24-e1-l3
 
+L3 calibration: ZERO Brand-Yellow (#F5C84B), ZERO urgency, cream/earth tones ONLY, text-link CTAs (NEVER full-width green button), dignity-centered reflective imagery, no celebration.
 
-> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first.
-
-
-> **Section count:** 5 body sections.
-
-> **Flow:** winback-b | **Position:** E10 | **Level:** L3
-
+### Hero (Section 1: Opening)
+- ROLE slot: hero (per wireframe S1)
+- INTENT: Establish opener tone with unique hero component for winback-b-24-e1-l3
+- COMPONENT PICKED: IMG-08 (UGC Hero *(L18310)*)
+  - Catalog entry: position=body_images, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8 (UNIQUE — this is the ONLY email using this hero)
+  - WHY: Unique hero for winback-b-24-e1-l3, level=l3, theme=1. Calibrated per level.
 
 ### Section 1: OBSERVATION — 60 Days Later, Neutral
-
-- ROLE slot: `observation-60-days-later-neutral`
-
-- INTENT: hook block — OBSERVATION — 60 Days Later, Neutral
-
-- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
-
-  - Currently used: 32/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: opening-prose-block-centered-warm-cream
+- INTENT: per wireframe Section 1
+- COMPONENT PICKED: BONUS-07 (Stamp Collection *(L9002)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/washing-machine-training-pants.png
+  - Alt text: L3 1 section 1 visual — calibrated per level (l3)
+  - Current usage: 15/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 2: VALIDATION — You Protected Yourself
-
-- ROLE slot: `validation-you-protected-yourself`
-
-- INTENT: validation block — VALIDATION — You Protected Yourself
-
-- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
-
-  - Currently used: 21/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: validation-prose-warm-clay-italic
+- INTENT: per wireframe Section 2
+- COMPONENT PICKED: EJ4 (Realistic Timeline *(L3467)*)
+  - Catalog entry: position=emotional_support, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: L3 1 section 2 visual — calibrated per level (l3)
+  - Current usage: 14/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 3: GENTLE MECHANISM REFRESHER + SETTLED SCIENCE
-
-- ROLE slot: `gentle-mechanism-refresher-settled-science`
-
-- INTENT: mechanism block — GENTLE MECHANISM REFRESHER + SETTLED SCIENCE
-
-- COMPONENT PICKED: **HERO-13** — Scientific Hook
-
-  - Currently used: 49/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: mechanism-warm-sand-callout-with-settled-science
+- INTENT: per wireframe Section 3
+- COMPONENT PICKED: BONUS-08 (Handwritten Arrow *(L9035)*)
+  - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
+  - Alt text: L3 1 section 3 visual — calibrated per level (l3)
+  - Current usage: 17/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 4: PERMISSION CTA — 1 Pair, $34.99, Add Alongside
-
-- ROLE slot: `permission-cta-1-pair-34-99-add-alongside`
-
-- INTENT: cta block — PERMISSION CTA — 1 Pair, $34.99, Add Alongside
-
-- COMPONENT PICKED: **CTA-6** — Social CTA
-
-  - Currently used: 14/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
+- ROLE slot: permission-cta-warm-clay-text-link-no-button
+- INTENT: per wireframe Section 4
+- COMPONENT PICKED: CTADEEP-14 (The Question CTA *(L11864)*)
+  - Catalog entry: position=cta, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 1/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: L3 1 section 4 visual — calibrated per level (l3)
+  - Current usage: 17/25
+  - WHY: Matches section intent and level calibration
 
 ### Section 5: LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
+- ROLE slot: lena-signoff-medium-with-trust-your-read-ps
+- INTENT: per wireframe Section 5
+- COMPONENT PICKED: 33.1 (Smiley Face SVG *(L2764)*)
+  - Catalog entry: position=signoff_footer, audience=['L1', 'L2', 'L3', 'GF']
+  - Current usage: 6/8
+  - WHY: Best-fit component for this section's ROLE and level calibration (l3)
+- IMAGE PICKED: resized/toddler-playing.jpg
+  - Alt text: L3 1 section 5 visual — calibrated per level (l3)
+  - Current usage: 7/25
+  - WHY: Matches section intent and level calibration
 
-- ROLE slot: `lena-sign-off-medium-variant-reply-p-s`
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-- INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
+### Tracker updates
+- component-usage.json: incremented ['IMG-08', 'BONUS-07', 'EJ4', 'BONUS-08', 'CTADEEP-14', '33.1']
+- image-usage.json: incremented ['lifestyle/washing-machine-training-pants.png', 'flat-lay/training-pant-watermelon-pink.jpg', 'flat-lay/laundry-bag-llama-cream.png', 'lifestyle/toddler-potty-ladder-pink-multicolor.png', 'resized/toddler-playing.jpg']
 
-- COMPONENT PICKED: **STORYDEEP-16** — The News Article
-
-  - Currently used: 49/8
-
-- IMAGE PICKED: none (text-only or by-design)
-
-- VARIANCE CHECK: differs from prior picks in this email
-
-- L3 CALIBRATION CHECK: ✅ zero yellow, zero urgency
-
-
-### Tracker updates applied
-
-- All component picks recorded in component-usage.json
-
-- All image picks recorded in image-usage.json
-
-- Section count: 5

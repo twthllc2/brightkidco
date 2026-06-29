@@ -614,135 +614,105 @@ SYSTEM B (automatic):
 - ✅ Permission-not-to-buy: secondary text link to 1-pair + Lena LONG sign-off closes with "When you're ready, it's here"
 
 ======================================================================
-## STAGE 2 PICKS — welcome-01-e6-l2
 
-**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+## STAGE 2 PICKS — e6-l2
 
-**L2 calibration applied:**
-- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
-- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
-- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
-  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
-- 40/60 hope/realism ratio; clinical warmth, not peer-mom
-- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
-- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
-- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
-- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+*L2 calibration: muted greens, BCBA acknowledgment, 6-element formula. NO urgency, no "Quick"/"Easy"/"Miracle".*
 
+### Section 1: HERO HEADER + HEADLINE BODY ("Pull-ups keep kids completely dry. That's the problem.")
+- ROLE slot: HERO HEADER + Headline body (pull-up harm teaser)
+- INTENT: "The very technology you're paying a premium for is the mechanism preventing progress."
+- COMPONENT PICKED: HERO-6
+  - Catalog entry: position=hero, audience=L1/L2/L3/GF
+  - Current usage: 0/8 (after this pick)
+  - WHY: HERO-6 (Identity Statement) — UNIQUE E6 hero. Identity Statement fits the bold-mechanism declaration
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 1: hook-quiet
-- **ROLE slot:** hook-quiet
-- **INTENT (from wireframe):** HERO-9 Whisper Tone (already used 1x by L1; total now 2/8)
-- **COMPONENT PICKED:** HERO-19  - Name: Whisper Tone *(L3996)*
-  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Hook: HERO-9 Whisper Tone (already used 1x by L1; total now 2/8)
-- **VARIANCE CHECK:** N/A (first section)
+### Section 2: VALIDATION BODY ("Pediatrician said it. ABA consultant said it. Facebook groups…")
+- ROLE slot: VALIDATION BODY (L2 symptom recognition)
+- INTENT: Naming where pull-up advice came from — pediatrician + ABA + FB groups
+- COMPONENT PICKED: STORY-09
+  - Catalog entry: position=body_recognition, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: STORY-09 reframe component — pattern-recognizing the source of advice fits pull-up reframe
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: Toddler on yellow-woodland potty ladder, pull-up-doffing moment visual
+  - Current usage: 0/25 (after this pick)
+  - WHY: Yellow-woodland potty ladder visual = first kid photo for testimonial alignment
 
-### Section 2: validation-L2
-- **ROLE slot:** validation-L2
-- **INTENT (from wireframe):** EMO-4 (reused from E1)
-- **COMPONENT PICKED:** EMO-4
-  - Name: Empathy Block *(L6924)*
-  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Validation: EMO-4 (reused from E1)
-- **VARIANCE CHECK:** differs from previous section (HERO-9) — OK
+### Section 3: HERO IMAGE-LIFESTYLE #1 (sensory-aware bathroom, foot stool, visual schedule)
+- ROLE slot: HERO IMAGE-LIFESTYLE #1 (sensory-aware bathroom)
+- INTENT: Real kid 5–7, foot stool + weighted lap pad + visual schedule on wall
+- COMPONENT PICKED: EDU-11
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 5/8 (after this pick)
+  - WHY: EDU-11 mechanism-cite — used as the placement substrate for hero image caption
+- IMAGE PICKED: lifestyle/toddler-playing-train-moon-cloud-blue.png
+  - Alt text: Toddler playing with wooden train in moon-cloud-blue training pants, focused-play visual
+  - Current usage: 3/25 (after this pick)
+  - WHY: Focused-play visual = body-signal pause moment (kid stops mid-play, looks down)
 
-### Section 3: mechanism-pullup
-- **ROLE slot:** mechanism-pullup
-- **INTENT (from wireframe):** EDU-2 Step Cards — Pull-Up Reframe
-- **COMPONENT PICKED:** EDU-2
-  - Name: Step Cards *(L5226)*
-  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Mechanism: EDU-2 Step Cards — Pull-Up Reframe
-- **VARIANCE CHECK:** differs from previous section (EMO-4) — OK
+### Section 4: MECHANISM BODY (pull-up harm: "too dry to learn")
+- ROLE slot: MECHANISM BODY (Pull-up reframe, L2 deep)
+- INTENT: "Pull-ups pull the sensation away before the brain can register it. They keep kids too dry to learn."
+- COMPONENT PICKED: EDU-2
+  - Catalog entry: position=body_mechanism, audience=L1/L2/L3/GF
+  - Current usage: 3/8 (after this pick)
+  - WHY: EDU-2 mechanism step-cards — supports "too dry to learn" sequence
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 4: quote-1
-- **ROLE slot:** quote-1
-- **INTENT (from wireframe):** SP2 Review Quote Card (reused from E1)
-- **COMPONENT PICKED:** SP2
-  - Name: Review Quote Card *(L3208)*
-  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Quote 1: SP2 Review Quote Card (reused from E1)
-- **VARIANCE CHECK:** differs from previous section (EDU-2) — OK
+### Section 5: HERO IMAGE-LIFESTYLE #2 (mom hand on shoulder, sensory moment)
+- ROLE slot: HERO IMAGE-LIFESTYLE #2 (micro-moment photo)
+- INTENT: Real mom + real kid, pull-up-doffing moment at home
+- COMPONENT PICKED: SP-02
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: SP-02 quote-callout for image-bearing testimonial alignment
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-pink-multicolor.png
+  - Alt text: Toddler on pink-multicolor potty ladder, micro-moment photo
+  - Current usage: 2/25 (after this pick)
+  - WHY: Pull-up-doffing micro-moment = the harm visual (over-dry problem)
 
-### Section 5: quote-2
-- **ROLE slot:** quote-2
-- **INTENT (from wireframe):** SP-06 (reused from E3)
-- **COMPONENT PICKED:** SP-06
-  - Name: Before/After Testimonial *(L4907)*
-  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Quote 2: SP-06 (reused from E3)
-- **VARIANCE CHECK:** differs from previous section (SP2) — OK
+### Section 6: SOCIAL PROOF — TESTIMONIAL #1 + #2 + #3 (cream cards, kid photo each)
+- ROLE slot: SOCIAL PROOF — 3 testimonials (cream card per testimonial)
+- INTENT: "45 min on toilet then pee on standing up" + "He initiated once after 4 years" + "If I could just get him the signal"
+- COMPONENT PICKED: SP-01
+  - Catalog entry: position=body_social_proof, audience=L1/L2/L3/GF
+  - Current usage: 4/8 (after this pick)
+  - WHY: SP-01 quote-callouts — 3 testimonials stacked. Cap at 8 still well under.
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: Toddler with backpack in moon-cloud-blue training pants, outing testimonial moment
+  - Current usage: 3/25 (after this pick)
+  - WHY: Outing-moment visual anchors testimonial #3 (the "I know the rest would follow" narrative)
 
-### Section 6: quote-3
-- **ROLE slot:** quote-3
-- **INTENT (from wireframe):** SP2 (reused — variance: quotes differ but layout same)
-- **COMPONENT PICKED:** SP2
-  - Name: Review Quote Card *(L3208)*
-  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Quote 3: SP2 (reused — variance: quotes differ but layout same)
-- **VARIANCE CHECK:** differs from previous section (SP-06) — OK
+### Section 7: PRODUCT INTRO — 3-layer comparison table + GUARANTEE + PRIMARY CTA + SECONDARY
+- ROLE slot: PRODUCT INTRO (3-layer comparison table) + GUARANTEE + CTA + secondary
+- INTENT: Layer table + 92% "works for families who try it" guarantee + "Try the 3+3 Bundle, $79.99" + "Start with 1 Pair ($34.99)"
+- COMPONENT PICKED: 6.2
+  - Catalog entry: position=product_showcase, audience=L1/L2/L3/GF
+  - Current usage: 1/8 (after this pick)
+  - WHY: 6.2 product_showcase (reuse allowed). Comparison-table layout for 3 layers.
+- IMAGE PICKED: flat-lay/training-pant-fox-red-white.jpg
+  - Alt text: Red fox training pant flat-lay product photo on neutral background
+  - Current usage: 1/25 (after this pick)
+  - WHY: Red-fox product visual = L2 Signal/Smart Abs/Outer showcase row anchor
 
-### Section 7: product-intro
-- **ROLE slot:** product-intro
-- **INTENT (from wireframe):** PROD-3 (reused)
-- **COMPONENT PICKED:** PROD-3
-  - Name: Layer Breakdown *(L5744)*
-  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
-  - Currently used: 4/8 (under cap)
-  - **WHY:** Product: PROD-3 (reused)
-- **VARIANCE CHECK:** differs from previous section (SP2) — OK
+### Section 8: SIGN-OFF — signoff-lena-long (FIRST FULL LONG VARIANT)
+- ROLE slot: SIGN-OFF LONG (E6 long variant)
+- INTENT: "I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8."
+- COMPONENT PICKED: 12.2
+  - Catalog entry: position=signoff_footer, audience=L1/L2/L3/GF
+  - Current usage: 3/8 (after this pick)
+  - WHY: 12.2 Lena LONG sign-off (E6 first full long variant)
+- IMAGE PICKED: none (text-only section)
+  - WHY: Section is text-only by L2 design
 
-### Section 8: guarantee
-- **ROLE slot:** guarantee
-- **INTENT (from wireframe):** TRUST-2 (reused)
-- **COMPONENT PICKED:** TRUST-2
-  - Name: Guarantee Detail Cards *(L6414)*
-  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
-  - Currently used: 2/8 (under cap)
-  - **WHY:** Guarantee: TRUST-2 (reused)
-- **VARIANCE CHECK:** differs from previous section (PROD-3) — OK
+### Image count check
+- Total images in this email: 5/6
+- Status: ✅ PASS
 
-### Section 9: primary-cta
-- **ROLE slot:** primary-cta
-- **INTENT (from wireframe):** CTAMAX-04 (reused)
-- **COMPONENT PICKED:** CTAMAX-04
-  - Name: Soft CTA *(L16752)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 7/8 (under cap)
-  - **WHY:** CTA: CTAMAX-04 (reused)
-- **VARIANCE CHECK:** differs from previous section (TRUST-2) — OK
-
-### Section 10: secondary-text-link
-- **ROLE slot:** secondary-text-link
-- **INTENT (from wireframe):** CTA-2 (reused)
-- **COMPONENT PICKED:** CTA-2
-  - Name: Soft Link *(L6658)*
-  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
-  - Currently used: 6/8 (under cap)
-  - **WHY:** Secondary: CTA-2 (reused)
-- **VARIANCE CHECK:** differs from previous section (CTAMAX-04) — OK
-
-### Section 11: signoff
-- **ROLE slot:** signoff
-- **INTENT (from wireframe):** 12.1 — LONG variant (first LONG appearance)
-- **COMPONENT PICKED:** 33.1  - Name: Lena Signoff
-  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
-  - Currently used: 7/8 (under cap)
-  - **WHY:** Signoff: 12.1 — LONG variant (first LONG appearance)
-- **VARIANCE CHECK:** differs from previous section (CTA-2) — OK
-
-### Footer (static — already picked, no work needed)
-- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
-- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `33.1` / `UTIL-05` picks above per email's variant
-
-### Tracker updates applied
-- `component-usage.json`: incremented counts for `HERO-9`, `EMO-4`, `EDU-2`, `SP2`, `SP-06`, `SP2`, `PROD-3`, `TRUST-2`, `CTAMAX-04`, `CTA-2`, `12.1`
-
+### Tracker updates
+- component-usage.json: ['HERO-6', 'STORY-09', 'EDU-11', 'EDU-2', 'SP-02', 'SP-01', '6.2', '12.2']
+- image-usage.json: ['lifestyle/toddler-potty-ladder-yellow-woodland.png', 'lifestyle/toddler-playing-train-moon-cloud-blue.png', 'lifestyle/toddler-potty-ladder-pink-multicolor.png', 'lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/training-pant-fox-red-white.jpg']
