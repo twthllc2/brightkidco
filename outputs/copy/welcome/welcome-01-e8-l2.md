@@ -417,3 +417,283 @@ For HTML rendering (pre-Klaviyo design exploration):
 
 *End of file, E8 L2 (Lisa) Complete Email Copy & Creative Strategy*
 *Sources: S2 Copy Strategy, Ingestion Compendium, Research Compendium, Segmentation Blueprint, Design Reference, 4 Copywriting Skills*
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l2-8
+
+> **Source sections (from Part 1 copy):** Hook → Validation (recap of 6 elements with ✓ checkmarks) → Desire (3-layer body-signal underwear) → Social Proof (L2 testimonials + stats) → Guarantee → CTA → Sign-off (LONG E8-specific)
+> **Variance baseline:** L2 E7 (10 sections, Pattern C operational depth, explicit 6-Element labels, loop diagram, 3 mini-win testimonials, numbered timeline, "When you're ready" permission CTA, LONG sign-off)
+> **L2 deltas vs E7:** Pattern H (Minimalist farewell) RETURN — the gentlest close in the Welcome sequence; subject pivots to "last email" door-closing hook ("This my last email (for now)"); recap structure with ✓ checkmarks that re-confirms every 6-element delivered in the prior 7 emails; mini stats (92% / 87% / 97.6% / 16,511 reviews) inside social proof; 3-layer body-signal underwear refresher; WARM cream + soft earth palette (warmest Welcome email); LONG sign-off with permission sentence in full form ("If this isn't the day, that's okay. The product will be here next month. So will I."); the SHORTEST Welcome (200–300 words; brevity IS the message); TEXT-LINK-ONLY CTA (no buttons competing for attention); reply-to-this-email is the highest-trust CTA in the brand.
+
+### Variance Check vs L2-E7 (target ≥ 5/9 dimensions different)
+
+| # | Dimension | L2-E7 (previous) | L2-E8 (this wireframe) | Diff? |
+|---|-----------|------------------|------------------------|-------|
+| 1 | Section count + names | 10 (Hook→Validation (①)→Deep Mechanism (②)→BCBA/OT (③)→Realistic Timelines (④)→Mini-Win Testimonials→Product Intro→Guarantee (⑤)→CTA (⑥)→Sign-off) | 7 (Hook→Validation (recap with ✓)→Desire→Social Proof (with stats)→Guarantee→CTA→Sign-off) — explicit numbered labels removed; recap replaces individual element sections | ✅ |
+| 2 | Section pattern (A–H) | **C — Problem-Solution (operational depth)** | **H — Minimalist (farewell)** — Hero (farewell) → Body (Lena's sons) → Text links (replaces buttons) | ✅ |
+| 3 | Image density | 1 (mint-bordered loop diagram) | 0–1 (Lena portrait optional; NO product imagery; NO mint callouts) | ✅ |
+| 4 | Color temperature | Cool (mint loop diagram; white body) | **Warm — Cream + soft earth; minimal mint** (warmest Welcome email; the farewell deserves warmth) | ✅ |
+| 5 | Email length | 600–800 words | 200–300 words (30-second read; brevity IS the message) | ✅ |
+| 6 | Argument structure | Mechanism (operational) + BCBA frame (numbered) | **Door-stays-open + permission (LONG sign-off)** — "I had two L2-like sons. One trained at almost 8. The path is long, but it bends." | ✅ |
+| 7 | Visual rhythm | Mixed (tight around loop diagram 16px, 44px elsewhere) | **Open — 56px gaps; the most generous spacing in the sequence** (whitespace = respect) | ✅ |
+| 8 | CTA position | Single soft (muted-green "When you're ready" button) | **Text link only** — "Reply to this email" / "Visit the FAQ" / "Read the science library" / "Start with 1 Pair" (NO buttons competing) | ✅ |
+| 9 | Subject line type | Mechanism tease in plain language ("The interoception gap, explained simply") | **Lena / peer trust** ("This my last email (for now)") — personal sign-off transferred to subject | ✅ |
+
+**Variance score: 9/9 dimensions differ.** Threshold ≥ 5/9 met.
+
+### Vertical-Stack ASCII Wireframe
+
+```
+┌──────────────────────────────────────────────────────────┐
+│ HEADER (thin, off-white ground; warm tone)               │
+│  Logo bar: BrightKidCo wordmark                         │
+│  From: Lena from BrightKidCo                            │
+│  Subject: This my last email (for now)                  │
+│  Preview: Whatever you decide, the 60-day guarantee      │
+│           still stands.                                  │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  HOOK BODY (2–3 sentences; Lena peer disclosure)        │
+│  "I have two autistic sons. One trained at 6. The        │
+│   other took us until he was almost 8."                  │
+│  "I know what you're going through. Not because I        │
+│   read about it in a research paper. Because I've        │
+│   lived it — the morning carpet cleanups, the            │
+│   'I don't know, I didn't feel it'…"                    │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  VALIDATION / RECAP BODY (5–6 sentences; each 6-        │
+│  element gets a ✓ checkmark; recognition moment          │
+│  re-confirmed)                                           │
+│  "Over the last three weeks, I've walked through every   │
+│   element I know matters for L2 parents like you:"      │
+│                                                          │
+│  ✓ Real symptom recognition                              │
+│    "You've named the failed methods: BCBA protocols,    │
+│     OT sensory work, social stories, scheduled sits,     │
+│     sticker charts, timer prompts. You didn't fail."    │
+│                                                          │
+│  ✓ Mechanism specificity                                 │
+│    "The interoception gap is real. Nicholson et al.      │
+│     (2019) proved it: autistic children show             │
+│     diminished body awareness."                         │
+│                                                          │
+│  ✓ BCBA context                                          │
+│    "Your BCBA built a behavioral foundation. That        │
+│     work matters. Prompt-dependent doesn't mean 'not     │
+│     learning.' It means your child learned to wait       │
+│     for the adult cue instead of feeling the internal    │
+│     signal. The behavioral layer is solid."              │
+│                                                          │
+│  ✓ Realistic timelines                                   │
+│    "4–8 weeks for first consistent signals. Some         │
+│     longer. Some shorter. The 60-day guarantee covers    │
+│     the full learning window."                          │
+│                                                          │
+│  ✓ 60-day guarantee                                      │
+│    "Not a sales tactic. The only honest thing to         │
+│     offer when the outcome depends on your child's       │
+│     nervous system. Try it. By your judgment."           │
+│                                                          │
+│  ✓ Permission-not-to-buy                                 │
+│    "If this isn't the day, that's okay. The product      │
+│     will be here next month. So will I."                 │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  DESIRE BODY (4–5 sentences; 3-layer refresher +        │
+│  mechanism chain recap)                                 │
+│  "Pull-ups keep kids completely dry — the exact          │
+│   mechanism blocking progress."                         │
+│  Layer 1: Soft cotton inner — gentle "uh-oh" sensation  │
+│  Layer 2: Smart absorption — protects without blocking   │
+│  Layer 3: Leak-resistant outer barrier                   │
+│  "The mechanism chain: Child pees → feels the gentle     │
+│   sensation → brain connects 'I peed' → 'I feel it' →   │
+│   'I should use the potty.' Over time, awareness        │
+│   builds."                                              │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SOCIAL PROOF — testimonial + stats cluster             │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He initiated. Once. After 4 years."              │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "If I could just get him the signal, I know the   │  │
+│  │  rest would follow."                              │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+│  [MINT-BORDERED STAT CALLOUT — small, single column]    │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ 92% of parents report clearer body awareness      │  │
+│  │     within 2 weeks.                               │  │
+│  │ 87% reduced pull-up use within 1 month.           │  │
+│  │ 97.6% would recommend BrightKidCo to another parent│  │
+│  │ 16,511 reviews · 4.9★                             │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (mint #DBFFCD border; only mint callout in this email; │
+│   minimal mint usage honors warm-dominant palette)      │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  GUARANTEE — trust-anchor-callout (warm cream card)     │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ 60 days. Your judgment.                           │  │
+│  │ If your child shows no sign of body awareness,    │  │
+│  │ full refund. No forms. No hoops.                  │  │
+│  │ The guarantee isn't a sales tactic. It's the only │  │
+│  │ honest thing to offer when the outcome depends on │  │
+│  │ your child's nervous system.                      │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (cream #FBF7EB; warmest background; longest spacing)   │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [TEXT-LINK CTAs ONLY — NO BUTTONS]                     │
+│  → Reply to this email                                    │
+│  → Visit the FAQ                                          │
+│  → Read the science library                               │
+│  → When you're ready, the 3+3 Bundle is here ($79.99)   │
+│  → Or start with 1 Pair, $34.99                          │
+│  (muted-green link styling; highest-trust CTA in brand: │
+│   the reply-to-this-email invitation)                    │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SIGN-OFF — signoff-lena-long-deeper (E8 LONG VARIANT)  │
+│  "Whatever you choose, thanks for reading this far.     │
+│   If this isn't the day, that's okay. The product       │
+│   will be here next month. So will I."                  │
+│  "I have two autistic sons. I know what it's like when  │
+│   'later' turns into another year. But I also know      │
+│   what it's like to push too early."                    │
+│  "Trust your read."                                     │
+│  With care,                                              │
+│  Lena ——                                                 │
+│                                                          │
+│  Footer: physical address · unsubscribe ·               │
+│          "Reply to this email, Lena reads every         │
+│           response."                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+SYSTEM B (automatic):
+- Backgrounds: warm cream + soft earth (warmest Welcome email); minimal mint (1 small stat callout only)
+- Text: high-contrast dark on warm cream, body 17px
+- ZERO product imagery (Lena portrait optional)
+- CTA: TEXT LINK ONLY (no buttons competing for attention); reply-to-email is highest-trust CTA
+- Spacing: open — 56px section gaps; the most generous spacing in the sequence (whitespace = respect)
+- No countdown timers, no "Quick" / "Easy" / "Limited time" / "Last chance" / "Now or never"
+- Section count ≈ 7 (most stripped-down Welcome; minimalism IS the conversion lever)
+```
+
+**L2 6-Element compliance verified at wireframe level (FINAL RECAP — all 6 confirmed):**
+- ✅ Symptom recognition: recap section ✓ "You've named the failed methods: BCBA protocols, OT sensory work, social stories, scheduled sits, sticker charts, timer prompts. You didn't fail."
+- ✅ Mechanism specificity: recap section ✓ "The interoception gap is real. Nicholson et al. (2019) proved it: autistic children show diminished body awareness." + desire body re-explains 3 layers
+- ✅ BCBA acknowledgment: recap section ✓ "Your BCBA built a behavioral foundation. That work matters. Prompt-dependent doesn't mean 'not learning.'"
+- ✅ Realistic timelines: recap section ✓ "4–8 weeks for first consistent signals. Some longer. Some shorter. The 60-day guarantee covers the full learning window."
+- ✅ 60-day guarantee: dedicated trust-anchor-callout + "By your judgment" + "If your child shows no sign of body awareness, full refund"
+- ✅ Permission-not-to-buy: recap section ✓ + sign-off LONG permission sentence in full form ("If this isn't the day, that's okay. The product will be here next month. So will I.") + text-link-only CTA with no buttons
+
+**Decision point (per journey-l2-MASTER §12.1 E8):** Day 21 — three paths: (1) Purchase within 24–72h (most common L2 conversion); (2) Linger in PP-Education / FAQ / Objection Library; (3) Drop to Winback B at 60d no purchase.
+
+======================================================================
+## STAGE 2 PICKS — welcome-01-e8-l2
+
+**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+
+**L2 calibration applied:**
+- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
+- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
+- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
+  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
+- 40/60 hope/realism ratio; clinical warmth, not peer-mom
+- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
+- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
+- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
+- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+
+
+### Section 1: hook-Lena-peer
+- **ROLE slot:** hook-Lena-peer
+- **INTENT (from wireframe):** HERO-4 Story Fragment — Lena peer disclosure
+- **COMPONENT PICKED:** HERO-4
+  - Name: Story Fragment *(L3882)*
+  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Hook: HERO-4 Story Fragment — Lena peer disclosure
+- **VARIANCE CHECK:** N/A (first section)
+
+### Section 2: recap-6elem
+- **ROLE slot:** recap-6elem
+- **INTENT (from wireframe):** EDU-3 Checklist — 6-element recap with checkmarks
+- **COMPONENT PICKED:** EDU-3
+  - Name: Checklist *(L5259)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Recap: EDU-3 Checklist — 6-element recap with checkmarks
+- **VARIANCE CHECK:** differs from previous section (HERO-4) — OK
+
+### Section 3: desire-3layer
+- **ROLE slot:** desire-3layer
+- **INTENT (from wireframe):** PROD-3 (reused) — 3-layer refresher
+- **COMPONENT PICKED:** PROD-3
+  - Name: Layer Breakdown *(L5744)*
+  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
+  - Currently used: 5/8 (under cap)
+  - **WHY:** Desire: PROD-3 (reused) — 3-layer refresher
+- **VARIANCE CHECK:** differs from previous section (EDU-3) — OK
+
+### Section 4: social-proof-stat
+- **ROLE slot:** social-proof-stat
+- **INTENT (from wireframe):** SP-03 Stat Row — 49% Wiggins anchor + testimonial cluster
+- **COMPONENT PICKED:** SP-03
+  - Name: Stat Row *(L4829)*
+  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Stat: SP-03 Stat Row — 49% Wiggins anchor + testimonial cluster
+- **VARIANCE CHECK:** differs from previous section (PROD-3) — OK
+
+### Section 5: guarantee
+- **ROLE slot:** guarantee
+- **INTENT (from wireframe):** TRUST-2 (reused) — warm cream card
+- **COMPONENT PICKED:** TRUST-2
+  - Name: Guarantee Detail Cards *(L6414)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
+  - Currently used: 3/8 (under cap)
+  - **WHY:** Guarantee: TRUST-2 (reused) — warm cream card
+- **VARIANCE CHECK:** differs from previous section (SP-03) — OK
+
+### Section 6: cta-text
+- **ROLE slot:** cta-text
+- **INTENT (from wireframe):** CTAMAX-03 (reused) — text-link only
+- **COMPONENT PICKED:** CTAMAX-03
+  - Name: Text Link CTA *(L16734)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
+  - Currently used: 6/8 (under cap)
+  - **WHY:** CTA: CTAMAX-03 (reused) — text-link only
+- **VARIANCE CHECK:** differs from previous section (TRUST-2) — OK
+
+### Section 7: signoff
+- **ROLE slot:** signoff
+- **INTENT (from wireframe):** 12.1 (reused) — LONG DEEPER with permission sentence
+- **COMPONENT PICKED:** 12.1
+  - Name: Lena Signoff
+  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
+  - Currently used: 9/8 (at/over cap)
+  - **WHY:** Signoff: 12.1 (reused) — LONG DEEPER with permission sentence
+- **VARIANCE CHECK:** differs from previous section (CTAMAX-03) — OK
+
+### Footer (static — already picked, no work needed)
+- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
+- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
+- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+
+### Tracker updates applied
+- `component-usage.json`: incremented counts for `HERO-4`, `EDU-3`, `PROD-3`, `SP-03`, `TRUST-2`, `CTAMAX-03`, `12.1`
+

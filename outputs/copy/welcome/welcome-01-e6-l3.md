@@ -528,3 +528,468 @@ L3 parents have been sold products that "flash and pulse" for years. Every anima
 
 *End of Welcome E6 L3 (Maria), Copy & Creative Strategy*
 *Total sections: 19 | File intended for: Phase 1 Wireframe + Phase 2 HTML*
+
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l3-6
+
+```
+=================================================================
+WIREFRAME: welcome-01-e6-l3
+Email ID: welcome-01-e6-l3
+Flow: welcome | Position: E6 | Day: 14 | Level: L3 (Maria)
+Avatar: Non-verbal / high support needs, 6-10+ yrs, dignity-first
+Lever: L3-B (Add alongside) — HIGHEST-TRUST Welcome email
+       "This isn't replacing anything. It adds a body-
+        signal layer alongside."
+Sign-off: "With care," (MEDIUM→LONG transition — first
+         use of "With care," in Welcome Flow)
+Cadence: 14-day mark (4-day pause from E5)
+=================================================================
+
+SUBJECT: 60 days to see if anything shifts, no pressure
+PREHEADER: You've relied on pull-ups for years. Here's what
+            no one told you about the signal they block,
+            and why that changes nothing about your
+            child's timeline.
+
+NOTE: L3 calibration. Cream/earth tones only. Zero urgency.
+56px section spacing. Text-link CTAs only (no button for L3).
+Stacked vertically, single column, maximum breathing room.
+Shape G: gentle reframe arc with bespoke Signal Wave
+SVG contraption as the only illustration.
+NO side-by-side. NO hero image. NO product photography.
+Respect Medicaid reality — the offer is "add alongside,"
+not "replace."
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — LENA NAMES MARIA DIRECTLY]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Maria,
+SUBHEADLINE: You've been buying pull-ups for years.
+             Not because you didn't try something else —
+             because nothing else gave you a reason to
+             switch.
+
+[VISUAL ELEMENT]
+ROLE: prose-block-with-direct-address
+INTENT: opens with the avatar's first name (a rare and
+        powerful move for L3 — naming Maria directly
+        signals that this isn't a generic email);
+        rendered as warm clay serif prose at 17px,
+        1.7 line-height, max 65ch; closes with Lena's
+        own pull-up history ("Both my sons were in
+        pull-ups longer than I ever expected") and
+        the transitional line "But here's something
+        I wish someone had told me earlier."
+EXAMPLE_PICK: text-only prose with no decoration;
+              the direct address "Maria," carries
+              all the visual weight
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: SIGNAL WAVE CONTRAPTION — THE ONLY ILLUSTRATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — the wave is the message)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: signal-wave-svg-contraption
+INTENT: a single bespoke SVG illustration — a gentle
+        oscilloscope-style wave that starts as a flat
+        line (years of pull-ups, no signal reaching
+        the brain) and gradually rises into a soft
+        sine wave; rendered as a thin continuous line
+        in muted rose on a warm off-white background,
+        with a subtle glow gradient (opacity ~6%)
+        filling beneath the curve; in the bottom-right
+        corner of the SVG, a single tiny feather
+        (the L3 Easter egg, ~8px wide) floats at very
+        low opacity — "No pressure. Let it land when
+        it lands."
+        Dimensions: ~480px wide × 120px tall, centered
+        between Hook and Pull-Up Reframe sections;
+        the only "illustration" in the email
+EXAMPLE_PICK: bespoke SVG wave with a single feather
+              in the corner; muted rose line on warm
+              off-white; no animation required
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: GENTLE PULL-UP REFRAME — L3 GENTLE VERSION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: He stays too dry to learn.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: pull-up-reframe-prose-gentle
+INTENT: the central L3-gentle pull-up reframe;
+        full-width serif prose at 17px with 1.7
+        line-height; opens with dignity-first
+        acknowledgement ("Pull-ups are designed to
+        do one thing very well: keep your child
+        completely dry"), pivots to the mechanism
+        ("That moisture-wicking technology was
+        engineered for neurotypical kids who can
+        already feel the signal"), and closes with
+        "Not because pull-ups are bad. Because they
+        were built for a different child."
+        Rendered with one subtle 2px soft sage
+        hairline left indicator (NOT a card, NOT a
+        side-stripe border)
+EXAMPLE_PICK: prose-only reframe paragraph with
+              subtle sage hairline; no decorative
+              cross-out, no "vs" comparison chart
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: MECHANISM — 3-LAYER BODY-SIGNAL UNDERWEAR]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The body-signal underwear works differently.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: mechanism-prose-3-step-inline
+INTENT: full-width mechanism explanation framed as
+        "adding" rather than replacing; closes with
+        "Think of it like this: you can't teach a
+        child to recognize a sound they can't hear.
+        But you can turn up the volume." The three
+        mechanism steps are presented as numbered
+        inline beats (1. cotton inner layer, 2.
+        smart absorption core, 3. over time,
+        feedback builds neural pathway) in body
+        text with bold lead-ins — NOT a diagram,
+        NOT an infographic
+EXAMPLE_PICK: continuous prose with three numbered
+              inline beats in bold body weight;
+              no diagram, no chart
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: MICRO-WIN TESTIMONIAL — MARC STORY]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — the quote carries it)
+SUBHEADLINE: — Real parent, BrightKidCo community
+
+[VISUAL ELEMENT]
+ROLE: testimonial-callout-warm-off-white
+INTENT: italic serif at 17px, warm clay, rendered
+        on a warm off-white card background (~one
+        shade deeper than main bg, no box border,
+        just a 12px left inner border in brand
+        blush — NOT a side-stripe border, just a
+        callout mark); closes with attribution
+        below in 14px muted warm clay
+EXAMPLE_PICK: warm off-white callout with 12px
+              left inner border in muted rose,
+              no card box, no quote-mark icon
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: GUARANTEE — "BY YOUR JUDGMENT"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days to see if anything shifts.
+          By your judgment.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: guarantee-paragraph-spaced
+INTENT: full-strength 60-day guarantee paragraph
+        framed as honest off-ramp; rendered as
+        serif body text with extra spacing
+        between paragraphs (24px between, 40px
+        between major sentences); "I can't promise
+        your child will train. Every nervous system
+        is different. What I can promise is this:"
+        followed by the 60-day language
+EXAMPLE_PICK: prose-only guarantee with generous
+              paragraph spacing; no background
+              tint, no border
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: PRIMARY CTA — TEXT-LINK, NO PRESSURE + PS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Add alongside for 60 days, no questions asked.
+SUBHEADLINE: You decide when. You decide if. No pressure.
+
+[VISUAL ELEMENT]
+none (no button, no badge, no icon — text link only)
+
+[CTA]
+PRIMARY:   text link "Add alongside for 60 days,
+                          no questions asked →"
+           centered, muted rose color, bold +
+           underlined, 16px; visual trust over
+           visual push (no filled button — L3
+           forbids buttons in E6)
+INTENT:    drives to PDP
+SECONDARY: none (L3 forbids secondary CTAs)
+MICROCOPY: "You decide when. You decide if. No pressure."
+           (italic, 14px, muted warm clay)
+PS:        "Maureen Bennie's son trained at 9.5 years
+            old. Another family in our community: 8
+            years. Late is not never. Your child's
+            timeline is the only timeline that matters."
+           (italic, 14px, muted warm clay, set
+           below the Lena sign-off with a 1px
+           muted rose hairline above)
+
+56px space above, 56px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA MEDIUM→LONG TRANSITION for E6]
+─────────────────────────────────────────────────────────────────
+Background: warm cream (subtle separation, slightly deeper
+            than main bg)
+Body 15-16px: 4-paragraph MEDIUM→LONG transition sign-off:
+  "I have two autistic sons. One trained at 6. The other
+   took us until he was almost 8."
+  "If your child is anywhere on that curve, if you're
+   still waiting, still hoping, still buying another box
+   of pull-ups because you don't know what else to do,
+   I want you to know this email isn't asking you to
+   stop using them."
+  "It's just information. Your child, your timeline,
+   your decision."
+  "Reply to this email anytime. I read every response.
+   It might take me a day, but I will write back."
+Closing:    "With care,"
+Signature:  "Lena," (Customer Support · Mom of two autistic
+            sons, 14px italic, warm clay)
+P.S.:       "Maureen Bennie's son trained at 9.5 years
+            old. Another family in our community: 8
+            years. Late is not never. Your child's
+            timeline is the only timeline that matters."
+            (italic, 14px, muted warm clay, with
+            1px muted rose hairline above)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo by KING MG LLC
+3833 Powerline Rd, Suite 201, Fort Lauderdale, FL 33309
+No longer want these emails? Unsubscribe | Manage Preferences
+Questions? Reply to this email, Lena reads every response.
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? N/A (no hero
+  by L3 design; section 1 prose opens the visual
+  experience)
+- Section 1 headline visible above 400px? YES (the
+  direct-address "Maria," + pull-up history prose is
+  the first above-fold content)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 0 (no product/lifestyle
+  photography; the Signal Wave is rendered as inline
+  SVG, not an <img> asset, so it does not count toward
+  image density)
+- Image positions: none (SVG contraption embedded in
+  Section 2 markup, not a fetched image)
+- Density category: 0 (text-only with inline SVG wave
+  contraption)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 9
+  - prose-block-with-direct-address (section 1)
+  - signal-wave-svg-contraption (section 2, inline SVG)
+  - pull-up-reframe-prose-gentle (section 3)
+  - mechanism-prose-3-step-inline (section 4)
+  - testimonial-callout-warm-off-white (section 5)
+  - guarantee-paragraph-spaced (section 6)
+  - cta-text-link-no-pressure (section 7)
+  - signoff-lena-medium-to-long-transition (signoff block)
+  - ps-late-is-not-never (post-signoff PS line)
+- Density category: 9 (text-heavy with bespoke SVG
+  contraption and PS line)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 7 (7 body sections including CTA —
+  pull-up reframe focus)
+- Section pattern: G (Hook → Wave contraption →
+  Pull-Up Reframe → Mechanism → Testimonial →
+  Guarantee → CTA, gentle reframe arc)
+- Image density: 0 (inline SVG wave does not count)
+- Color temperature: warm cream + muted rose + soft
+  sage (the "Dawn Before Sunlight" palette — warm
+  off-white bg, deep warm charcoal text, muted rose
+  wave and CTA, soft sage hairline marker)
+- Email length: medium-long (~1002 words per locked-
+  profile)
+- Argument structure: GENTLE REFRAME ARC (Pull-up
+  recognition → Mechanism → Testimonial → Guarantee
+  → Add-alongside permission)
+- Visual rhythm: open (56px gaps per L3 calibration,
+  with extra 24px paragraph spacing in guarantee)
+- CTA position: late (last body section before signoff,
+  with PS below signoff)
+- Subject line type: permission frame ("60 days to see
+  if anything shifts, no pressure")
+
+=================================================================
+VARIANCE_CHECK vs welcome-01-e5-l3:
+1. SECTION COUNT: 7 body sections (E5 was 1 — Shape G
+   extreme compression) ✓ DIFFERENT (expanded arc)
+2. SECTION PATTERN: G — Pull-up reframe focus with
+   bespoke SVG contraption (E5 was G — Objection →
+   Reframe unified single block) ✓ DIFFERENT
+   (reframe subject shift)
+3. IMAGE DENSITY: 0 inline SVG (matches E5 — no <img>
+   photography) — same
+4. COLOR TEMPERATURE: warm cream + muted rose + soft
+   sage "Dawn Before Sunlight" (E5 was warm cream +
+   muted earth "Dawnlight") ✓ DIFFERENT (rose
+   introduced as wave + CTA color)
+5. EMAIL LENGTH: medium-long ~1002 words (E5 was long
+   ~1276) ✓ DIFFERENT (shorter)
+6. ARGUMENT STRUCTURE: gentle reframe arc with
+   pull-up recognition (E5 was objection-handling arc)
+   ✓ DIFFERENT
+7. VISUAL RHYTHM: open 56px (matches E5) — same
+8. CTA POSITION: late, text-link with PS below (E5
+   had late text-link with no PS at section level)
+   ✓ DIFFERENT (PS line introduced)
+9. SUBJECT LINE TYPE: permission frame (E5 was
+   validation hook "The fear you're feeling")
+   ✓ DIFFERENT
+
+   TOTAL DIFFERENCES: 6/9 minimum threshold MET.
+   (Variance driven by: expanded section arc from
+   Shape G single block to 7 discrete sections,
+   pull-up reframe subject, Signal Wave SVG
+   contraption, muted rose palette introduction,
+   direct-address "Maria," opener, MEDIUM→LONG
+   sign-off transition, late-is-not-never PS line)
+
+=================================================================
+END OF WIREFRAME — welcome-01-e6-l3
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — welcome-01-e6-l3
+
+> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first. 1 Pair $34.99 primary. E6 lever = L3-B Add alongside (highest-trust Welcome email). Lena voice with "With care," MEDIUM→LONG transition sign-off.
+
+> **Section count:** 7 body sections + Lena MEDIUM→LONG signoff with PS callback to Maureen B. (Note: PS = LONG variant signature).
+> **Image library picks:** 0 (L3 E6's only visual element is the SVG wave contraption rendered with a CSS/SVG motif in-line; no library photograph is used by wireframe mandate).
+
+### Section 1 — prose-block-with-direct-address (Lena names Maria)
+- ROLE slot: `prose-block-with-direct-address` (opens with "Maria," — rare L3 direct address; weaves Lena's pull-up history; closes "But here's something I wish someone had told me earlier.")
+- INTENT: direct first-name address signals "this isn't a generic email"; Lena peer-voice ground
+- COMPONENT PICKED: **HERO-3 — "Permission Open"** (letter pool, source A*)
+  - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. "Permission Open" = the opening move that explicitly gives the reader permission to be where they are + the writer permission to name them directly. Renders as warm-clay serif prose with no celebration chrome. Variance vs E1 Sec 1 (HERO-9 Whisper), E2 Sec 1 (HERO-18 Guilt Absolution), E3 Sec 1 (HERO-5 Mirror), E4 Sec 1 (HERO-9 Whisper reused), E5 Sec 1 (DEEP-8 unified) — five distinct opening voices by E6.
+- IMAGE PICKED: none (text-only)
+
+### Section 2 — signal-wave-svg-contraption
+- ROLE slot: `signal-wave-svg-contraption` (bespoke oscilloscope-style SVG: flat line → soft sine wave in muted rose on warm off-white; ~480×120px centered; tiny feather 8px at bottom-right as Easter egg)
+- INTENT: the only "illustration" in the email — wave transitioning from no-signal to soft signal
+- COMPONENT PICKED: **13.7 — "Signal Waves"** (letter pool, source A)
+  - From catalog: position=body, image_support=image_text
+  - Currently used: 1/8
+  - WHY: by-name EXACT match for the wireframe's `signal-wave-svg-contraption` ROLE. The component's signature rendering is a continuous wave line on warm off-white — exactly the soft-sine-on-cream visual the wireframe specifies. No color is teal (which would be banned); the muted-rose line falls within L3's cream/earth palette tolerance per the §5 accent ≤10% rule.
+- IMAGE PICKED: none (the component carries its own wave motif; not an external library image)
+
+### Section 3 — pull-up-reframe-prose-gentle
+- ROLE slot: `pull-up-reframe-prose-gentle` (full-width serif prose: "Pull-ups are designed to do one thing very well: keep your child completely dry" → mechanism → "Not because pull-ups are bad. Because they were built for a different child."; one subtle 2px soft sage hairline left indicator)
+- INTENT: central L3-gentle pull-up reframe (dignity-first; no "vs" comparison; no cross-out decoration)
+- COMPONENT PICKED: **EMODEEP-14 — "The Identity Reframe"** (reframe pool, source A*)
+  - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. "The Identity Reframe" specifically targets "this product wasn't built for your child" → "your child deserves one that was" framing. Renders as dignity-first prose with subtle hairline left indicator — exact wireframe spec. Honors GIULIANO §5 Forbidden for Phase 4: no celebration, no cheerleading, no adult diaper sales language. ("Pull-ups aren't bad. They were built for a different child." = the Identity Reframe's voice register.)
+- IMAGE PICKED: none
+
+### Section 4 — mechanism-prose-3-step-inline
+- ROLE slot: `mechanism-prose-3-step-inline` ("you can't teach a child to recognize a sound they can't hear. But you can turn up the volume."; three numbered inline beats with bold lead-ins; NOT a diagram, NOT an infographic)
+- INTENT: 3-layer mechanism as inline numbered beats in body prose
+- COMPONENT PICKED: **DEEP-4 — "The Sensory Description"** (letter pool, source A*)
+  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. "The Sensory Description" = the "you can't teach a child to recognize a sound they can't hear" rendering; sensory-level mechanism prose. Honored wireframe's "no diagram, no chart" mandate by its text-only rendering. Variance vs E2 Sec 3 (DEEP-10), E3 Sec 3 (DEEP-7), E5 Sec 1 (DEEP-8) — DEEP-4 is distinct.
+- IMAGE PICKED: none
+
+### Section 5 — testimonial-callout-warm-off-white (Marc story)
+- ROLE slot: `testimonial-callout-warm-off-white` (italic serif 17px warm clay on warm off-white card bg ~1 shade deeper, no box border, 12px left inner border in muted rose as callout mark; attribution in 14px muted warm clay)
+- INTENT: single real-parent voice in callout form; closes with attribution
+- COMPONENT PICKED: **STORY-14 — "Micro-Story — Single powerful moment"** (story pool, source A*)
+  - From catalog: position=flow_specific, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: Micro-Story = single-most-powerful-moment rendering. The Marc story IS exactly a single powerful moment rendered as italic warm-clay callout. Variance vs E2 Sec 4 (DEEP-22 Milestone Reframe), E3 Sec 4 (DEEP-13 Reverse Testimonial), E4 Sec 2 (7 Parent Stories) — STORY-14 is the single-quote variant distinct from multi-quote stacks.
+- IMAGE PICKED: none
+
+### Section 6 — guarantee-paragraph-spaced
+- ROLE slot: `guarantee-paragraph-spaced` (full-strength 60-day paragraph "I can't promise your child will train. Every nervous system is different. What I can promise is this:"; serif body with extra spacing 24/40px between)
+- INTENT: dignity-first guarantee as honest off-ramp; explicit "I can't promise your child will train" admission (the most L3-honest line in the email)
+- COMPONENT PICKED: **OBJ-15 — "What If I Regret Promise"** (guarantee pool, source A)
+  - From catalog: position=guarantee_trust, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 2/8 (reused from E2 Sec 6)
+  - WHY: by-name perfect match for "What if I regret" framing (== "By your judgment"). The "What If I Regret Promise" = the off-ramp-with-empathy guarantee voice. The honest "I can't promise your child will train" framing aligns with OBJ-15's "no-questions" stance. Reuse from E2 is variance-acceptable since name-fits the wireframe's "By your judgment" spec exactly; component count remains well under cap.
+- IMAGE PICKED: none
+
+### Section 7 — cta-text-link-no-pressure-with-ps
+- ROLE slot: `cta-text-link-no-pressure-with-ps` (text link "Add alongside for 60 days, no questions asked →" centered muted rose bold underlined 16px; PS "Maureen Bennie's son trained at 9.5 years old. Another family in our community: 8 years." with 1px muted rose hairline above)
+- INTENT: permission close + Maureen B. callback as PS
+- COMPONENT PICKED: **CTADEEP-5 — "The Permission CTA"** (cta pool, source A*)
+  - From catalog: position=cta, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. The Permission CTA = the explicit permission-to-act-or-not close with no-deadline framing. Variance vs E1 (CTAMAX-03), E2 (CTAMAX-04), E3 (CTADEEP-12), E4 (CTA-11) — five distinct text-link patterns across E1-E6, all L3-approved.
+- IMAGE PICKED: none
+
+### Signoff (signoff-lena-medium-long-transition, "With care,")
+- STATIC: UTIL-05 Signoff Card with Lena MEDIUM→LONG transition variant (already extracted in Phase A)
+- 4-paragraph body: two-son anchor + "still buying another box of pull-ups" acknowledgment + "It's just information" + "Reply to this email anytime. I read every response."
+- Closing: "With care," (per GIULIANO §3 E6+ = LONG, "With care,")
+- P.S. inside email body (not in signoff): "Maureen Bennie's son trained at 9.5 years old..." (per wireframe Section 7 PS)
+- Does not consume component cap
+
+### Tracker updates applied (this email, E6)
+- component-usage.json: HERO-3→1, EMODEEP-14→1, 13.7→1, DEEP-4→1, STORY-14→1, OBJ-15→2 (from 1), CTADEEP-5→1
+- image-usage.json: no images picked (SVG wave component is self-rendering)
+- VARIANCE CHECK vs E1-E5: 6/7 sections use NEW components (`HERO-3`, `13.7`, `EMODEEP-14`, `DEEP-4`, `STORY-14`, `CTADEEP-5`); Section 6 `OBJ-15` reuses from E2 (variance-acceptable; name-fits "By your judgment" exactly)
+- CAP CHECK: highest count = `5`/`OBJ-15` at 2/8 (under cap); all new picks at 1/8
+

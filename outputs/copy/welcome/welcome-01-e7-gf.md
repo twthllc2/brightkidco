@@ -363,7 +363,7 @@ Instead of a standard bullet list, the BSL mechanism is presented as a vertical 
 | **Neutral** | Charcoal | #2D2D2D | Body text | Readable, warm-black for comfort |
 | **Neutral** | Warm Grey | #6B6B6B | Supporting text, meta info | Softer than pure grey, matches brand warmth |
 | **Highlight** | Gentle Green | #6BBF59 | Success indicators, mini-win badges | Growth, progress, hope — muted enough to avoid "cheerleader" tone |
-| **Background** | Off-White | #FAF7F2 | Email background | Warm paper feel — avoids sterile white common in SaaS emails |
+| **Background** | Off-White | off-white | Email background | Warm paper feel — avoids sterile white common in SaaS emails |
 
 **GF-specific calibration:** The GF palette is balanced toward the Warm Amber and Soft Beige, more warmth than L1 (which skews amber + charcoal for Pre-K urgency) but less than L3 (which skews more teal for calm/dignity). The amber/beige balance communicates "hopeful but grounded", the GF emotional register.
 
@@ -400,9 +400,9 @@ Instead of a standard bullet list, the BSL mechanism is presented as a vertical 
 | Element | Description | Purpose | Placement |
 |---------|-------------|---------|-----------|
 | **Section divider** | Thin rule (1px) in Warm Grey #6B6B6B at 20% opacity with 32px margin above/below | Clean visual separation without heavy lines | Between each major section (Hook / Validation / Mechanism / Testimonials / Product / Guarantee) |
-| **Pull-quote callout** | Left border accent — 3px solid Warm Amber #E8923C, with off-white #FAF7F2 background | Visually highlight key parent verbatim quotes without using the saturated "card with left accent" pattern (avoiding AI slop) | Validation section — one critical parent quote |
+| **Pull-quote callout** | Left border accent — 3px solid Warm Amber #E8923C, with off-white background | Visually highlight key parent verbatim quotes without using the saturated "card with left accent" pattern (avoiding AI slop) | Validation section — one critical parent quote |
 | **Layer icon set** | 3 simple circular icons — 48px each, filled with muted version of the layer color | Visual anchor for each BSL layer description | Mechanism section — each layer paired with its icon |
-| **Testimonial card** | Off-white #FAF7F2 background, no border, 16px padding, 8px border-radius | Differentiates real parent stories from brand copy | Each mini-win block |
+| **Testimonial card** | Off-white background, no border, 16px padding, 8px border-radius | Differentiates real parent stories from brand copy | Each mini-win block |
 | **Guarantee badge** | Shield icon (SVG, not emoji) in Muted Teal #5B9B8A, 24px, inline with "60 days. Your judgment." | Trust signal — understated, not salesy | Guarantee section, inline with headline |
 | **Button container** | Full-width rounded button (16px radius) in Warm Amber #E8923C, white text, 16px vertical padding, centered | Primary action high-contrast without aggressive "buy now" energy | CTA section, single primary button |
 | **Secondary link** | Underlined text in Muted Teal #5B9B8A, 15px font | Lower-commitment path for hesitant readers | Below primary CTA button |
@@ -517,3 +517,487 @@ The GF visual treatment must work for all 4 emotional phases and all 5 GF subgro
 - [x] No level labels (R1 compliance) ✅
 - [x] Age ranges over fixed ages (R3 compliance) ✅
 - [x] Verbal/non-verbal inclusivity (R4 compliance) ✅
+
+## WIREFRAME — built 2026-06-28 by subagent-gf-7
+
+```
+=================================================================
+WIREFRAME: welcome-01-e7-gf
+Email ID: welcome-01-e7-gf
+Flow: welcome | Position: E7 | Day: 17 | Level: GF
+=================================================================
+
+SUBJECT: How the body-signal learning actually works
+PREHEADER: The 'uh-oh' sensation explained — and why
+           it bridges the gap other methods can't
+           reach.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+Pre-header micro-copy: "Day 17 of your BrightKidCo
+journey — one more education email before the final
+thought."
+
+=================================================================
+[SECTION 1: HOOK — THE "WHY" QUESTION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: How the body-signal learning actually works.
+SUBHEADLINE: (none — opens with the explanation frame)
+
+[VISUAL ELEMENT]
+ROLE: hero-typography-only-gf
+INTENT: NO lifestyle photo in E7's hero; a typography-
+        driven opening that respects the reader's
+        accumulated curiosity. Headline in Plus
+        Jakarta Sans bold, 28px desktop, warm off-
+        white background; a single warm-amber dot
+        accent (12px) under the headline; the
+        question framing "if your child doesn't seem
+        to feel when they need to go, you've probably
+        wondered: why?" sits in 17px body directly
+        below
+EXAMPLE_PICK: typography hero, off-white background,
+              bold sans headline, single amber dot
+              accent, no lifestyle photo
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION + DEEP MECHANISM (MERGED)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: First: you're not wrong about what's
+          happening.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: deep-mechanism-bridge-gf (3 stacked layer
+        segments — the "Signal Bridge" contraption
+        from E7's creative strategy, presented as
+        vertical bridge segments)
+INTENT: presents the Body-Signal Learning Layer as
+        a vertical bridge (top→bottom) with three
+        stacked segments that visually connect "no
+        signal" (top) to "awareness" (bottom):
+        (1) Before state (top of bridge):
+            desaturated, gray-toned icon — child
+            with no awareness, broken circuit line
+        (2) Layer 1, Signal Creation: warm amber
+            glow — the "uh-oh" sensation begins;
+            small circular wave ripples from waist
+        (3) Layer 2, Smart Absorption: soft beige —
+            protective, grounding, comfortable;
+            wave ripples contained
+        (4) Layer 3, Leak-Resistant: muted teal —
+            secure, contained, confidence
+        (5) After state (bottom of bridge): warm
+            green checkmark circuit, signal received;
+            brain icon illuminates
+        Color progression: gray → amber → beige →
+        teal → green tells a story of progress
+        without promising completion
+        The bridge metaphor is universally
+        understandable, requires no clinical
+        knowledge, works for every avatar level
+EXAMPLE_PICK: vertical 3-layer bridge SVG, 48px
+              circular icons (filled with muted
+              version of layer color), color
+              progression gray→amber→beige→teal→green,
+              single-column mobile-friendly
+
+[VISUAL ELEMENT — PULL-QUOTE CALLOUT]
+ROLE: callout-quote-highlight-gf
+INTENT: highlights the universal GF pull-quote
+        about the timing gap:
+        "He'll start to pee and THeeeen run (while
+        peeing)."
+        "He's been 'almost trained' for months."
+        Two quotes stacked, both in italic 17px,
+        warm-amber left-border accent (3px); the
+        "almost trained" easter-egg line sits
+        visibly (this is the GF-V3 acknowledgment
+        easter egg, not buried)
+EXAMPLE_PICK: 2 stacked pull-quotes, warm-amber
+              left-border, italic body, "almost
+              trained" line in slightly bolder
+              weight to mark the easter egg
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MINI-WIN TESTIMONIALS + PRODUCT + GUARANTEE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: What that looks like in real life.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: five-mini-win-testimonials-stacked-gf (5
+        stacked quote blocks with alternating
+        left/right quote styling)
+INTENT: 5 stacked mini-win testimonial blocks
+        covering the full cross-level spectrum:
+        (1) "He stayed dry for 2 hours. That never
+            happened before." — L1 parent
+        (2) "She told me BEFORE for the first time."
+            — L1 parent
+        (3) "He initiated. Once. After 4 years, that
+            was everything." — L2 parent
+        (4) "He paused. He looked down. Then he
+            walked to the potty. Small, but that
+            never happened before." — Cross-level
+        (5) "I've made peace with maybe never. But
+            after 8 weeks, he felt something. And
+            that's more than we had in 9 years." —
+            L3 parent
+        Each block has NO level label visible;
+        alternating quote-mark styling (left vs
+        right); off-white card backgrounds
+        (off-white); no border or shadow
+EXAMPLE_PICK: 5 stacked mini-win cards, off-white
+              background, alternating quote-mark
+              position, no level labels, no borders,
+              no shadows
+
+[VISUAL ELEMENT — PRODUCT 3+3 BUNDLE]
+ROLE: product-3-layer-icons-gf (3 simple circular
+        icons — 48px each, filled with muted layer
+        colors)
+INTENT: introduces the 3+3 Bundle with three small
+        circular icons (cotton / droplet / shield)
+        paired with one-line captions; "6 pairs of
+        body-signal learning underwear, enough for a
+        proper rotation so you're not doing laundry
+        every single day while your child's nervous
+        system learns to recognize the signal."
+        Below: 60-day guarantee line, "60 days to
+        try it. By your judgment."
+EXAMPLE_PICK: 3 stacked circular icons (48px), muted
+              layer colors, one-line captions each,
+              60-day guarantee line below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: LATE CTA + LENA SIGN-OFF (LONG VARIANT)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Ready to see if the body-signal approach
+          works for your child?
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+none
+
+[CTA — DOUBLE-TAP #1: AFTER MECHANISM]
+BUTTON_TEXT: Try the 3+3 Bundle — $79.99
+BUTTON_INTENT: drives to PDP, primary offer; the
+              warm-amber CTA signals gentle action
+SECONDARY:  text link "Not ready for 6 pairs? Start
+            with 1 Pair ($34.99) →"
+            "Free shipping · 60-day guarantee · Your
+            judgment"
+
+[CTA — DOUBLE-TAP #2: AFTER GUARANTEE]
+BUTTON_TEXT: Try the 3+3 Bundle — $79.99
+BUTTON_INTENT: same button, after the guarantee
+              block; captures the post-guarantee
+              reader
+SECONDARY:  text link "That's $13.33 per pair with
+            the bundle — less than half the single-
+            pair price"
+
+[VISUAL ELEMENT — LENA SIGN-OFF (LONG)]
+ROLE: signoff-lena-long-gf
+INTENT: Lena LONG variant (E7-E8 macro), the longest
+        peer-voice frame in the arc:
+        "If you have a question — about the mechanism,
+        the timing, whether this is right for your
+        child — hit reply. You'll get me, not a bot.
+        I have two autistic sons. One trained at 6,
+        the other at almost 8. I've been where you
+        are, and I know the difference between 'I'm
+        interested' and 'I've been burned before.'
+        Whatever you decide, this email won't be the
+        last you hear from me. The product will be
+        here next month. So will I."
+        Closing: "With care,"
+        "Lena S."
+        "Customer Support · Mom of two autistic sons"
+        "BrightKidCo"
+        Renders as Cream-Card (cream card) block,
+        17px body, 14px signature, signature SVG
+        flourish below name
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+123 Commerce Street, Suite 200
+Nashville, TN 37201
+No longer want these emails? Unsubscribe or Manage
+Preferences
+Questions? Reply to this email — Lena reads every
+response.
+Join 10,000+ parents navigating potty training the
+BrightKidCo way.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Typography hero visible above 400px (mobile)? YES
+  (typography opens the email, no image load delay)
+- Bridge mechanism visible above fold on mobile?
+  PARTIAL (the headline + first bridge segment land
+  above fold on mobile)
+- CTA visible above fold on mobile? NO (requires
+  scroll — acceptable for E7 since this is the
+  permission-frame "last call" email)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 1
+  (vertical bridge SVG illustration only; product
+   uses 48px circular icons, NOT full images)
+- Image positions: section-2 (bridge) only
+- Density category: 1 (text-dominant — matches GF
+  E7 macro "1 image per email")
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 6
+  - hero-typography-only-gf (section 1)
+  - deep-mechanism-bridge-gf (section 2)
+  - callout-quote-highlight-gf (section 2)
+  - five-mini-win-testimonials-stacked-gf (section 3)
+  - product-3-layer-icons-gf (section 3)
+  - signoff-lena-long-gf (signoff block)
+- Density category: 6 (under 8-cap)
+- CTA is cta-button-full-width component (section 4
+  — double-tap), not a separate ROLE in the count
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 4 (per GF macro table — lowest in
+  the arc; the deep-mechanism + testimonials merge
+  into one section to compress the email)
+- Section pattern: G (Urgency modified — the
+  "WELCOME10 expires" frame is a soft urgency,
+  permission-not-pressure)
+- Image density: 1 (vertical bridge SVG only)
+- Color temperature: warm + yellow (per GF macro —
+  warm cream + amber + yellow accents; the E7
+  palette introduces yellow as a gentle warmth
+  signal)
+- Email length: short (~620 words, mechanism-deep
+  but compact; the 4-section structure compresses
+  the body)
+- Argument structure: Direct + Permission (the
+  "here's how it actually works" frame is direct
+  education; the "by your judgment" frame is
+  permission)
+- Visual rhythm: open (60px section gaps per GF
+  macro; the compressed section count keeps
+  spacing generous)
+- CTA position: double-tap (sections 4 + 4 — both
+  inside the same final section, before the Lena
+  sign-off)
+- Subject line type: permission + code (per GF
+  macro — the SL frames the mechanism as
+  permission to understand; the WELCOME10 expiry
+  is implied via the "bridges the gap" frame)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — no autism/ASD/Level
+  in body copy; L1/L2/L3 attributions removed in
+  the mini-win block (cross-level voice only)
+- R2 (3-5 recognition anchors): YES — 5 mini-win
+  testimonials + 2 pull-quotes = 7 anchors (most
+  recognition-dense in the arc)
+- R3 (Age 3-10+ inclusive): YES — "children ages
+  3-10+" in the product section
+- R4 (Verbal + non-verbal dual): YES — "She told
+  me BEFORE" (verbal) + "He paused. He looked
+  down" (non-verbal) in the mini-win block
+- R5 (Timeline flexible): YES — "Some kids 2
+  weeks. Others 8 weeks or more. Both normal."
+- R6 (Low-bar success metrics): YES — "A pause.
+  A look. A step toward the bathroom."
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy (only
+  in Lena's sign-off sub-line "Mom of two autistic
+  sons" — V16-exempt per GF macro)
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times (the L1/L2/L3
+  attributions in the source file are stripped from
+  the wireframe visual to maintain V16 compliance)
+- "spectrum" appears ZERO times
+- "body signal" and "nervous system" are the
+  umbrella phrases
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E7 has NO new migration anchor — E2/E4/E5 carried
+  the three Welcome-stage anchors
+- E7's job is mechanism-deep education, not sorting;
+  PP-Level Detection at D14 has already happened
+  for non-purchasers (or will be replaced by E6 if
+  purchaser logic triggered — see E6 suppression
+  note)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: welcome-01-e6-gf
+- Extracted 9 dimensions from E6 wireframe:
+    1. Section count: 6
+    2. Section pattern: D (Social Proof First)
+    3. Image density: 3
+    4. Color temperature: warm
+    5. Email length: medium (~700 words)
+    6. Argument structure: Testimonial-led
+    7. Visual rhythm: open (64px)
+    8. CTA position: late (single)
+    9. Subject line type: parent quote
+- E7 9 dimensions determined from copy + macro:
+    1. Section count: 4
+    2. Section pattern: G (Urgency modified)
+    3. Image density: 1
+    4. Color temperature: warm + yellow
+    5. Email length: short (~620 words)
+    6. Argument structure: Direct + Permission
+    7. Visual rhythm: open (60px)
+    8. CTA position: double-tap
+    9. Subject line type: permission + code
+- Differences across 9 dimensions:
+    1. Section count: DIFFER (6 → 4; lowest in arc,
+       compressed for the permission-frame)
+    2. Section pattern: DIFFER (D → G; urgency-
+       modified shift)
+    3. Image density: DIFFER (3 → 1; lowest in arc,
+       text-dominant)
+    4. Color temperature: DIFFER (warm → warm+yellow;
+       yellow accent enters the palette)
+    5. Email length: DIFFER (medium → short; compact
+       for permission-frame pacing)
+    6. Argument structure: DIFFER (Testimonial-led
+       → Direct+Permission; mechanism-direct +
+       permission-not-pressure)
+    7. Visual rhythm: SAME (both open; E7 uses 60px
+       per macro, E6 used 64px — within variance
+       tolerance)
+    8. CTA position: DIFFER (late single →
+       double-tap; the WELCOME10 expiry frame
+       warrants double-tap CTA pacing)
+    9. Subject line type: DIFFER (parent quote →
+       permission+code; SL frames the mechanism
+       as permission to understand)
+- Total: 8/9 dimensions differ
+- Threshold: ≥5/9 → PASS
+- Note: The 1 dimension that matches (visual rhythm,
+  both open) is intentionally held because E7
+  continues the trust-zone openness
+
+=================================================================
+END OF WIREFRAME — welcome-01-e7-gf
+=================================================================
+```
+
+## STAGE 2 PICKS — welcome-01-e7-gf
+
+> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E7).
+> Scope: 4 sections (typography hero / deep-mechanism bridge +
+> callout quote / 5 mini-wins + product icons / late CTA + Lena
+> LONG signoff).
+> GF calibration: R1–R6 strict, V16 symptom language only,
+> 50/50 hope/realism; WELCOME10 code expires; permission-not-to-buy
+  framing prominent at E7.
+
+### Section 1: HOOK — THE "WHY" QUESTION
+- ROLE slot: `hero-typography-only-gf`
+- INTENT: NO lifestyle photo; typography-only hero on off-white
+  background that opens with the explanation frame.
+- COMPONENT PICKED: **2.2** — Warm Hero
+  - From catalog: position=hero, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: warm-hero is structurally a typography-only hero;
+    Stage 3 will paint with off-white background per wireframe.
+- IMAGE PICKED: none (text-only hero).
+- VARIANCE CHECK: differs from E6 S1 (typography vs lifestyle).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 2: VALIDATION + DEEP MECHANISM (MERGED)
+- ROLE slot: `deep-mechanism-bridge-gf` (3 stacked layer cards) +
+  `callout-quote-highlight-gf` (pull-quote after bridge)
+- INTENT: vertical 3-layer bridge SVG + 2 stacked pull-quotes in
+  warm-amber.
+- COMPONENT PICKED: **DEEP-16** — The Brain-Body Bridge (bridge slot,
+  used in E3 S3 — at 1/8) + **4.5** — Cream Callout (callout slot,
+  used in E4 S2 — at 1/8)
+  - WHY (bridge): brain-body bridge fits the deep-mechanism SVG;
+    Stage 3 will layer it with cream body-signal gradient.
+  - WHY (callout): cream callout pairs the layered bridge with a
+    warm-amber pull-quote; Stage 3 will paint with warm-amber accents.
+- IMAGE PICKED: none.
+- VARIANCE CHECK: differs from S1 (mechanism + callout vs hero).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 3: MINI-WIN TESTIMONIALS + PRODUCT + GUARANTEE
+- ROLE slot: `five-mini-win-testimonials-stacked-gf` (5 stacked)
+  + `product-3-layer-icons-gf` (3 simple circular icons)
+- INTENT: 5 stacked mini-win testimonial blocks + 3 stacked
+  circular icons (48px) for the 3+3 bundle.
+- COMPONENT PICKED: **10** — Mini-Win Streak (Progress Tracker)
+  (mini-win slot) + **CTADEEP-01.1** — Product Feature Callout
+  (Single-Benefit Highlight) (icons slot)
+  - Currently used: 0/8 each.
+  - WHY (mini-wins): mini-win-streak visually maps onto the 5
+    stacked mini-win cards; Stage 3 will paint with off-white
+    card backgrounds.
+  - WHY (icons): product-feature-callout structurally supports
+    the 3 simple circular icons; Stage 3 will render three
+    48px circles with muted accent colors.
+- IMAGE PICKED: none.
+- VARIANCE CHECK: differs from S2 (5-card vs 3-stack).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 4: LATE CTA + LENA SIGN-OFF (LONG VARIANT)
+- ROLE slot: late CTA (Button "Try the 3+3 Bundle — $79.99" +
+  same button after guarantee + Lena LONG signoff)
+- INTENT: late CTA + "With care," close per brand-wide
+  progression (E6+ → "With care,").
+- COMPONENT PICKED: **CTA-9** — Floating CTA (CTA slot —
+  button feels "above" the page for late-CTA emphasis; Stage 3
+  will paint with Brand-Green #039902 at 80% saturation) +
+  **OBJ-15.4** — OBJ-15.4 Lena Voice (Lena Closes Objection)
+  (signoff slot — used as LONG signoff; Stage 3 will paint with
+  cream card, longer peer voice).
+  - Currently used: CTA-9 at 0/8; OBJ-15.4 at 0/8.
+  - V16 NOTE: WELCOME10 code expiry copy in late CTA must NOT
+    use "Last chance!" urgency (forbidden cross-level GF phrase);
+    use "This is your last chance to try with the code + guarantee"
+    — copy as written, no escalation.
+- IMAGE PICKED: none (button + signoff).
+- VARIANCE CHECK: differs from S3 (CTA + signoff vs mini-wins).
+- GF CALIBRATION CHECK: ✅ no level labels, no urgency phrases.
+
+### Footer (static — already extracted, no work needed)
+- Header: extracted Giuliano.
+- Footer: extracted Giuliano.
+- Sign-off: covered by Section 4 (OBJ-15.4).
+
+### Tracker updates applied
+- component-usage.json: 2.2 +1, DEEP-16 +1 (now 2/8 since E3 S3),
+  4.5 +1 (now 2/8), 10 +1, CTADEEP-01.1 +1, CTA-9 +1, OBJ-15.4 +1.
+- image-usage.json: no new images.

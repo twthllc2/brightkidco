@@ -390,3 +390,448 @@ GF is the cross-level default, it must work for all five sub-groups simultaneous
 ---
 
 *End of welcome-01-e3-gf.md, Both halves complete.*
+
+## WIREFRAME — built 2026-06-28 by subagent-gf-3
+
+```
+=================================================================
+WIREFRAME: welcome-01-e3-gf
+Email ID: welcome-01-e3-gf
+Flow: welcome | Position: E3 | Day: 3 | Level: GF
+=================================================================
+
+SUBJECT: Almost 1 in 2 kids this age isn't trained
+PREHEADER: The science behind why traditional potty
+           training fails some children, and what
+           actually works.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — THREE FAMILIES TRIPTYCH]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three parents. Three different kids. One
+          common experience.
+SUBHEADLINE: (none — opens with the three-family pattern)
+
+[VISUAL ELEMENT]
+ROLE: triptych-quote-pillar-gf (3 stacked cards in
+        a vertical column — NEVER side-by-side)
+INTENT: the Three-Family Pattern from GF creative
+        strategy, presented as 3 stacked quote cards:
+        (1) "He talks about the potty. He understands
+             the concept. But when it's time to actually
+             go, nothing." — Mom, 5-yr-old (L1 voice)
+        (2) "We've done the OT sensory work, the BCBA
+             protocol, the social stories, the sticker
+             charts. We are stuck." — Mom, 4-yr-old
+             (L2 voice)
+        (3) "He's never shown a single sign of feeling
+             wet or dirty. Not once in all these years."
+             — Mom, 9-yr-old (L3 voice)
+        Each card has its own warm-tinted background
+        (cream / sage / lavender wash) but NO level
+        label visible. The voice-difference is enough
+        for a parent to find their match.
+EXAMPLE_PICK: 3 stacked quote cards, each with a faint
+              colored left border matching the wash
+              (terracotta / sage / plum), italic quote
+              in 17px, attribution in 13px muted
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION + STAT NORMALIZATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The gap is real. Not your fault.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: stat-callout-band-gf (full-width breakout band)
+INTENT: presents the 49% SPARK statistic in the
+        GF-V2 paraphrase form (NEVER "49% of autistic
+        4-5 year olds" — use "almost 1 in 2 children
+        whose nervous systems process signals
+        differently aren't toilet trained by age 5").
+        The stat is rendered as a large visual anchor
+        with the 6:1 comparison (vs typically developing
+        kids) below in smaller text. Full-width band,
+        warm off-white background, terracotta accent
+        line above and below.
+EXAMPLE_PICK: full-width stat band, large 48px bold
+              number, citation "Wiggins et al. 2022"
+              in 12px muted, 6:1 ratio callout below
+              in 16px regular
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM — INTEROCEPTION EIGHTH-SENSE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Why the signal doesn't arrive.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: mechanism-body-signal-wave-gf
+INTENT: explains interoception (the eighth sensory
+        system) using the GF bridge language:
+        "every sticker chart and timer sit assumes your
+        child FEELS the sensation of a full bladder.
+        But for many children whose nervous systems
+        process signals differently, the signal is
+        delayed or absent. It's not defiance. It's
+        neurology. And here's the part that matters:
+        interoception can be trained."
+        The body-signal wave illustration is the
+        signature visual: a simplified child silhouette
+        (gender-neutral, age-ambiguous) with concentric
+        rings radiating from the lower torso, color
+        gradient from cool blue (before) to warm
+        amber (after). GF version overlays THREE faint
+        child silhouettes (different ages) behind the
+        main figure for GF-V1 composite rule.
+EXAMPLE_PICK: 3-silhouette composite, soft concentric
+              wave rings (4-second animated GIF or static
+              fallback), warm cream background, no level
+              labels in the visual
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: PRODUCT INTRO + GUARANTEE (DOUBLE-TAP CTA)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The Body-Signal Learning System.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: product-3-layer-cross-section-gf (reused from E1,
+        same family of component, this time larger)
+INTENT: introduces the 3-layer product system with the
+        cotton inner + smart absorption + leak-resistant
+        outer detail; the cross-section diagram (clean
+        line art, 12px exploded-view gaps) is the
+        educational anchor; labels in 14px muted text;
+        PRODUCT COPY from the source: "creates the
+        gentle 'uh-oh' sensation when wet," "protects
+        furniture without wicking away the signal,"
+        "leak-resistant without the 'too dry' problem."
+
+[CTA — DOUBLE-TAP #1: AFTER PRODUCT REVEAL]
+BUTTON_TEXT: Start with the 3+3 Bundle — $79.99
+BUTTON_INTENT: drives to PDP, primary offer is the 3+3
+              bundle per GF macro
+SECONDARY:  text link "Or start with 1 pair ($34.99)
+            if you want to try before committing"
+
+[GUARANTEE BAND]
+TEXT: "60 days. By your judgment."
+INTENT: trust signal after the product reveal,
+        permission-not-to-buy framing
+
+[CTA — DOUBLE-TAP #2: FINAL CONVERSION CTA]
+BUTTON_TEXT: Start with the 3+3 Bundle — $79.99
+BUTTON_INTENT: same button after the guarantee; the
+              double-tap captures both the post-product
+              click and the post-guarantee click
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: LENA SIGN-OFF (MEDIUM — E3 Variant)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (closing beat, peer voice)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: signoff-lena-medium-gf
+INTENT: Lena MEDIUM variant (E3-E5 macro), the
+        longer peer-voice frame:
+        "I have two autistic sons. One's 6, still
+        working through this. The other took us until
+        he was almost 8. If your kid is anywhere on
+        this curve, whether they talk about it
+        constantly or have never acknowledged being
+        wet, that's normal here. You're not behind.
+        You're not failing. You're exactly where you
+        need to be to find something that actually
+        works differently."
+        Closing: "With understanding, Lena —"
+        Renders as a Cream-Card (cream card) block,
+        17px body, 14px signature
+        No "Mom of two" sub-line in body — Lena voice
+        is universal GF
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, TBD]
+No longer want these emails? Unsubscribe or Manage
+Preferences
+Reply to this email — Lena reads every response.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Triptych quote cards visible above 400px (mobile)?
+  PARTIAL (only the first card lands above fold on
+  mobile; on desktop the headline + first card land
+  above fold)
+- Stat callout band visible above fold on mobile?
+  NO (requires scroll, acceptable for E3)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 2
+  (3-silhouette composite wave + 3-layer cross-section)
+- Image positions: section-3 (mechanism) + section-4
+  (product)
+- Density category: 2 (mid — matches GF E3 macro
+  "2 images per email")
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 6
+  - triptych-quote-pillar-gf (section 1)
+  - stat-callout-band-gf (section 2)
+  - mechanism-body-signal-wave-gf (section 3)
+  - product-3-layer-cross-section-gf (section 4)
+  - cta-button-full-width (section 4 — double-tap)
+  - signoff-lena-medium-gf (signoff block)
+- Density category: 6 (under 8-cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 5 (per GF macro table)
+- Section pattern: A (Classic modified — the triptych
+  hook is the classic A1 opener, but the inline stat
+  band + mechanism + product is the modified Classic
+  flow)
+- Image density: 2 (wave + cross-section)
+- Color temperature: warm (per GF macro — warm sand,
+  cream, sage; the email warms from the cool mechanism
+  zone of E2 toward the warm proof zone of E4-E5)
+- Email length: medium (~860 words, mechanism-deep
+  but not as long as E2)
+- Argument structure: Direct + PAS (Problem: three
+  families stuck → Agitate: the 49% stat → Solve:
+  mechanism + product + guarantee)
+- Visual rhythm: open (60px section gaps per GF macro)
+- CTA position: double-tap (sections 4 + 4 — both inside
+  the product/guarantee section)
+- Subject line type: Permission (per GF macro — the
+  49% stat reads as "permission to name the problem
+  out loud," not a hard-sell data point)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — no autism/ASD/Level in
+  body copy
+- R2 (3-5 recognition anchors): YES — the triptych
+  anchors 3 distinct profiles (timing-aware / method-
+  cycler / no-awareness-ever), each spans a level
+  symptom without naming the level
+- R3 (Age 3-10+ inclusive): YES — triptych spans
+  4, 5, 9 years old; "this age" in SL is universal
+- R4 (Verbal + non-verbal dual): YES — quote (1) is
+  verbal ("He talks about the potty"), quote (3) is
+  non-verbal ("never shown a single sign of feeling")
+- R5 (Timeline flexible): YES — no calendar, no "in 30
+  days," framing is "weeks to months" without pressure
+- R6 (Low-bar success metrics): YES — "first sign of
+  awareness" framing, "pause / look / step" mirror
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "nervous systems that process signals differently"
+  is the umbrella phrase
+- The 49% stat is paraphrased as "almost 1 in 2 kids
+  this age" in the SL (no "autistic" — passes V16)
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E3 has NO migration anchor — only E2/E4/E5 carry
+  the three anchors
+- The Three-Family testimonial pattern (sections 1)
+  carries implicit migration-via-recognition: a parent
+  who reads the triptych and identifies with one of the
+  three stories is, functionally, doing the self-screening
+  that migration eventually formalizes
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: welcome-01-e2-gf
+- Extracted 9 dimensions from E2 wireframe:
+    1. Section count: 7
+    2. Section pattern: C (Problem-Solution)
+    3. Image density: 3
+    4. Color temperature: cool
+    5. Email length: long (~770 words)
+    6. Argument structure: Data-led + Story fragment
+    7. Visual rhythm: tight/open
+    8. CTA position: mid (mechanism-reveal CTA)
+    9. Subject line type: observation + mechanism
+- E3 9 dimensions determined from copy + macro:
+    1. Section count: 5
+    2. Section pattern: A (Classic modified)
+    3. Image density: 2
+    4. Color temperature: warm
+    5. Email length: medium (~860 words)
+    6. Argument structure: Direct + PAS
+    7. Visual rhythm: open (60px)
+    8. CTA position: double-tap
+    9. Subject line type: permission
+- Differences across 9 dimensions:
+    1. Section count: DIFFER (7 → 5; mechanism-centered
+       layout collapses back to Classic A)
+    2. Section pattern: DIFFER (C → A; re-entry to
+       Classic pattern after mechanism reveal)
+    3. Image density: DIFFER (3 → 2; reduced visual
+       complexity, more text-heavy)
+    4. Color temperature: DIFFER (cool → warm; visual
+       shift from "learning zone" to "trust zone")
+    5. Email length: DIFFER (long → medium; mechanism
+       depth contracts)
+    6. Argument structure: DIFFER (Data-led+Story-frag →
+       Direct+PAS; new argument shape)
+    7. Visual rhythm: DIFFER (tight/open → open;
+       unified open rhythm for trust zone)
+    8. CTA position: DIFFER (mid → double-tap; the
+       guarantee + product reveal double-tap pattern)
+    9. Subject line type: DIFFER (observation+mechanism →
+       permission; new SL family)
+- Total: 9/9 dimensions differ (full variance)
+- Threshold: ≥5/9 → PASS
+
+=================================================================
+END OF WIREFRAME — welcome-01-e3-gf
+=================================================================
+```
+
+## STAGE 2 PICKS — welcome-01-e3-gf
+
+> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E3).
+> Scope: 5 sections (triptych / stat band / mechanism wave /
+> product intro / signoff MEDIUM).
+> GF calibration: R1–R6 strict, V16 symptom language only,
+> 50/50 hope/realism; permission-not-to-buy emphasis at E3.
+
+### Section 1: HOOK — THREE FAMILIES TRIPTYCH
+- ROLE slot: `triptych-quote-pillar-gf` (3 stacked cards)
+- INTENT: the Three-Family Pattern from GF creative strategy —
+  three perspectives stacked vertically, each language-only, no
+  diagnosis labels, varied parent demographics.
+- COMPONENT PICKED: **35.1** — Three Pillars Content Cards
+  - From catalog: position=body_mechanism, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: structurally a 3-card stack with title + body + accent rule
+    that maps cleanly onto Three-Family Pattern; Stage 3 will paint
+    with three varied warm tones (terracotta / soft sage / muted
+    plum) per the wireframe.
+  - V16 NOTE: Stage 3 will keep all attribution symptom-described
+    ("Mom of a 5-year-old," "Mom of a 4-year-old") — NEVER
+    "Level 1 mom" (which exists in the L1 sample for component 22.2).
+- IMAGE PICKED: none (text-only three-card stack).
+- VARIANCE CHECK: differs from E2's last section (signoff vs 3-card).
+- GF CALIBRATION CHECK: ✅ symptom-described attribution.
+
+### Section 2: VALIDATION + STAT NORMALIZATION
+- ROLE slot: `stat-callout-band-gf` (full-width breakout band)
+- INTENT: presents the 49% SPARK statistic in GF-V2 paraphrase form
+  ("almost 1 in 2 children whose nervous systems process signals
+  differently aren't toilet trained by age 5"); band colors are
+  Stage 3's job.
+- COMPONENT PICKED: **HERO-2** — Data Shock
+  - From catalog: position=hero, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 1/8.
+  - WHY: same component as E1 S3 stat — variance audit notes this
+    is a 2-use occurrence which is allowed under the 8x cap. A
+    data-shock framing is the cleanest container for a 49% callout
+    in a wide band.
+  - V16 NOTE: Stage 3 must use the GF paraphrase form ("almost 1 in 2
+    kids with nervous-system differences") — never the L1 "49% of
+    autistic 4-5 year olds" string.
+- IMAGE PICKED: none (text-only stat band).
+- VARIANCE CHECK: differs from S1 (data shock band vs 3-card stack).
+- GF CALIBRATION CHECK: ✅ stat paraphrased per GF-V2.
+
+### Section 3: MECHANISM — INTEROCEPTION EIGHTH-SENSE
+- ROLE slot: `mechanism-body-signal-wave-gf`
+- INTENT: explains interoception (the eighth sensory sense);
+  3-silhouette composite, soft concentric waves.
+- COMPONENT PICKED: **DEEP-16** — The Brain-Body Bridge
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: brain-body bridge is the right structural metaphor for the
+    "interoception as eighth sense" mechanism — fits the wireframe's
+    concentric-waves visual; Stage 3 will paint with cream + soft
+    sage gradients.
+- IMAGE PICKED: none (component carries its own visual SVG).
+- VARIANCE CHECK: differs from S2 (waves vs stat band).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 4: PRODUCT INTRO + GUARANTEE (DOUBLE-TAP CTA)
+- ROLE slot: `product-3-layer-cross-section-gf` (reused from E1)
+- INTENT: introduces the 3-layer product system with 60-day
+  guarantee shield; CTA "Start with the 3+3 Bundle — $79.99."
+- COMPONENT PICKED: **PROD-1** — Full Showcase
+  - From catalog: position=product_showcase, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: full-showcase pairs the 3-layer diagram with the bundle
+    product, then the 60-day guarantee block — matches wireframe's
+    "double-tap CTA" structure. Switched from PROD-3 (used in E1)
+    for within-email variance and to vary the visual identity.
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
+  - Dimensions: 1200×800.
+  - Alt text (V16 spec): "Child at potty ladder in warm-tone real
+    home, ambiguous age, soft natural light."
+  - Currently used: 0/25.
+  - WHY: warm-tone yellow-woodland palette reinforces the cream/warm
+    brand palette; ambiguous-age real-home photo satisfies GF-V1
+    image sub-group variance rule.
+- VARIANCE CHECK: differs from S3 (product + image vs mechanism).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 5: LENA SIGN-OFF (MEDIUM — E3 Variant)
+- ROLE slot: `signoff-lena-medium-gf`
+- INTENT: Lena MEDIUM variant (E3-E5 macro); longer peer voice
+  than E1-E2; "With understanding," close per brand-wide progression.
+- COMPONENT PICKED: **EMODEEP-18** — The Letter From Lena (uses Letter)
+  - From catalog: position=emotional_support, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: Letter-from-Lena is the editorial hand-written voice that
+    differentiates MEDIUM from SHORT — fits the brand-wide sign-off
+    progression (E3-E5 → "With understanding,").
+- IMAGE PICKED: none (text-only letter card).
+- VARIANCE CHECK: differs from S4 (letter vs product).
+- GF CALIBRATION CHECK: ✅ Lena peer voice universal, no level.
+
+### Footer (static — already extracted, no work needed)
+- Header: extracted Giuliano.
+- Footer: extracted Giuliano.
+- Sign-off: covered by Section 5 component (EMODEEP-18).
+
+### Tracker updates applied
+- component-usage.json: 35.1 +1, HERO-2 +1 (now 2/8), DEEP-16 +1,
+  PROD-1 +1, EMODEEP-18 +1 (each 1/8 except HERO-2).
+- image-usage.json: lifestyle/toddler-potty-ladder-yellow-woodland.png +1
+  (now 1/25).

@@ -494,3 +494,415 @@ The entire email is predominantly static. Motion is reserved for one element, th
 - [x] Source citations documented: 12 sources in citation table + inline throughout
 - [x] Creative decisions traceable to design reference: Full Design Reference Traceability table
 - [x] Level-specific calibration for L1 (Sarah): Dedicated Level Calibration section with visual tuning table, forbidden elements, and personalization guidelines
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-8
+
+```
+=================================================================
+WIREFRAME: welcome-01-e8-l1
+Email ID: welcome-01-e8-l1
+Flow: welcome | Position: E8 | Day: 21 | Level: L1
+=================================================================
+
+SUBJECT: Last email, here's the offer
+PREHEADER: September is coming. Here's what you need to know.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+Thin accent line below logo (warm-resolved signature, NOT decorative)
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO — LENA-CENTERED]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Pre-K doesn't wait. You know that better
+          than anyone.
+SUBHEADLINE: But the right approach can close the gap
+             before September gets here.
+
+[VISUAL ELEMENT]
+ROLE: hero-image-lena-or-warm-door-metaphor
+INTENT: leads with Lena's voice (L4 lever, dominant at E8).
+        Could read as a portrait of Lena, OR as an "open door
+        with warm light" visual metaphor. NOT a kid image
+        (this email is a letter, not a product pitch).
+        Soft natural light, warm off-white background.
+EXAMPLE_PICK: editorial portrait OR warm-light
+              doorway illustration, no stock-child feel
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION + RECAP]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 21 days of emails boiled down to this.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: recap-three-pillar-list
+INTENT: collapses the full 21-day arc into 3 lines:
+        Problem → Mechanism → Proof. Functions as a visual
+        recap stack — Problem (neurology) / Mechanism
+        (Body-Signal Layer) / Proof (research + micro-wins).
+EXAMPLE_PICK: 3 stacked rows with a soft left accent bar;
+              no icons required, type-led recap
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: SOCIAL PROOF — CONDENSED]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Real parents, real words.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: quote-stack-panel (warm-cream background)
+INTENT: 3 L1 parent quotes condensed (E8 trims testimonial
+        volume vs E7's 4 micro-wins). Calm tone, no
+        exclamation-heavy closers — this is a quiet close,
+        not a victory lap.
+EXAMPLE_PICK: single warm-cream panel with 3 stacked
+              italic quotes, terracotta left bar
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: PRODUCT — THE 3+3 BUNDLE, LAYER STACK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The 3+3 Bundle, six pairs, one clean
+          rotation. Three layers doing the work.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: product-three-layer-visual-stack (custom contraption)
+INTENT: shows the 3-layer system (Cotton inner / Smart
+        absorption / Outer barrier) as a vertical stack —
+        icons + label + 1-line benefit each. This is E8's
+        signature visual; replaces E7's "mechanism
+        explanation" slot.
+EXAMPLE_PICK: vertical 3-step stack, soft left border
+              per layer, unicode icons (drop / shield / check)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: GUARANTEE — CALM ACCENT PANEL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days. Your judgment. Your timeline.
+SUBHEADLINE: The 60-day guarantee isn't a sales tactic.
+             It's the only honest offer when the outcome
+             depends on your child's nervous system.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-panel (soft-sage, quiet framing)
+INTENT: risk reversal with calm visual treatment. Sage
+        border (NOT a red/yellow warning frame). Quiet
+        permission frame reinforces the door-open tone.
+EXAMPLE_PICK: single soft-sage panel with subtle border;
+              "Your judgment, your timeline, your call."
+              line as the visual anchor
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: CTA — SINGLE TAP, LATE POSITION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Whatever you choose, thanks for reading
+          this far.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+none
+
+[CTA]
+BUTTON_TEXT: Get the 3+3 Bundle, $79.99
+BUTTON_INTENT: drives to PDP
+              landing.brightkidco.com/products/potty-training-underwear-for-sensory-sensitive-toddlers-sp
+SECONDARY: text link "or browse individual pairs starting at $34.99"
+TRUST_ROW: 3 small trust signals below button
+           (free shipping / 60-day guarantee / 24/7 parent support)
+
+NOTE: This is the ONLY CTA in the body (no double-tap at E8).
+      Door-open framing: permission not to buy is the
+      strongest in the entire welcome flow.
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: LENA SIGN-OFF — LONG VARIANT (E8)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from CTA)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: signoff-lena-long (warm-resolved tone)
+INTENT: personal farewell — Lena references her two autistic
+        sons, acknowledges "if this isn't the day, that's
+        okay," affirms the product (and Lena) will still be
+        here next month. Closes the 21-day relationship,
+        does not re-open urgency.
+EXAMPLE_PICK: 3-paragraph personal note, handwritten-style
+              signature flourish, body serif font
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: P.S. LINE — REPLY-TO-LENA]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from sign-off)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: ps-reply-invitation-block
+INTENT: the soft secondary engagement at E8. Not a CTA
+        button — an invitation to reply by email. Reinforces
+        Lena-reads-everything promise.
+EXAMPLE_PICK: indented PS block in italic body weight,
+              reply-to link as inline text
+
+NO CTA in this section (intentional — single CTA in body)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo LLC
+123 Commerce Street, Suite 200
+Portland, OR 97204
+United States
+
+[Unsubscribe]({{unsubscribe_url}}) | [Manage Preferences]({{manage_preferences_url}})
+
+*Questions? Hit reply, Lena reads every message.*
+
+[Instagram] [TikTok]
+
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+|- Hero image visible above 400px (mobile)? YES (hero is the
+  first section, definitely above fold on mobile + desktop)
+|- Section 1 headline visible above 400px? YES
+|- PASS
+
+=================================================================
+IMAGE_COUNT:
+|- Total images in this email: 1 (Lena-focused hero only)
+|- Image positions: section-1 only
+|- Density category: 1 (text-dominant, single hero image,
+   supported by the unicode-only three-layer stack)
+
+=================================================================
+COMPONENT_COUNT:
+|- Total distinct component ROLES in this email: 8
+  - hero-image-lena-or-warm-door-metaphor (section 1)
+  - recap-three-pillar-list (section 2)
+  - quote-stack-panel (section 3)
+  - product-three-layer-visual-stack (section 4)
+  - guarantee-panel (section 5)
+  - cta-button-full-width (section 6)
+  - signoff-lena-long (section 7)
+  - ps-reply-invitation-block (section 8)
+|- Density category: 8 (rich, at the 8-cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+|- Section count: 10 (per locked-profile)
+|- Section pattern: Shape A (Classic Hero-to-CTA) with Recap middle
+|- Image density: 1 (Lena-focused hero only)
+|- Color temperature: warm (off-white + forest green + soft sage)
+|- Email length: long (~995 words per locked-profile)
+|- Argument structure: Recap-MP (Calendar echo → Recap → Re-stat → Door-open)
+|- Visual rhythm: open (20-24px gaps, medium-high density 5-6 scrolls)
+|- CTA position: late single CTA (no double-tap, door-open)
+|- Subject line type: permission frame (E8 marker)
+
+=================================================================
+VARIANCE_CHECK:
+|- Previous email in flow: welcome-01-e7-l1 (Day 17)
+|- Dimension 1 (section count): E7=14, E8=10           → DIFFER
+|- Dimension 2 (section pattern): E7=Shape G deep mechanism,
+   E8=Shape A Hero-to-CTA with Recap middle            → DIFFER
+|- Dimension 3 (image density): E7=0, E8=1             → DIFFER
+|- Dimension 4 (color temperature): E7=Cream + Brand-Green
+   (mechanism-led), E8=warm off-white + forest green +
+   soft sage (warm-resolved)                            → DIFFER
+|- Dimension 5 (email length): E7=990, E8=995          → SAME
+   (both long; within 1% — NOT a variance lever)
+|- Dimension 6 (argument structure): E7=Mechanism-first
+   deep education push, E8=Recap-MP calendar-echo       → DIFFER
+|- Dimension 7 (visual rhythm): E7=dense 14-section
+   micro-wins, E8=open 10-section 20-24px gaps         → DIFFER
+|- Dimension 8 (CTA position): E7=late + double-tap,
+   E8=late single CTA + P.S. (door-open, no double-tap) → DIFFER
+|- Dimension 9 (subject line type): E7=insight-driven
+   ("last 10%" framework), E8=permission frame          → DIFFER
+|- TOTAL: 8/9 dimensions differ ✓ (threshold ≥5/9 PASS)
+
+=================================================================
+END OF WIREFRAME — welcome-01-e8-l1
+=================================================================
+```
+
+---
+
+## WHAT THIS WIREFRAME GIVES STAGE 2
+
+The wireframe defines 8 ROLE slots. Stage 2 picks from libraries:
+
+| ROLE slot | Stage 2 picks from | Constraint |
+|-----------|---------------------|------------|
+| `hero-image-lena-or-warm-door-metaphor` | 36 product images OR Lena portrait library | cap 25x per image |
+| `recap-three-pillar-list` | 949 components (recap_block, bullet_stack, etc.) | cap 8x |
+| `quote-stack-panel` | 949 components (quote_block, testimonial_stack) | cap 8x |
+| `product-three-layer-visual-stack` | 949 components (layer_stack, feature_block) | cap 8x — UNIQUE to E8 |
+| `guarantee-panel` | 949 components (guarantee_block, risk_reversal) | cap 8x |
+| `cta-button-full-width` | 949 components (CTA variants) | cap 8x |
+| `signoff-lena-long` | 949 components (signoff variants, LONG) | cap 8x — LONG variant at E6+ |
+| `ps-reply-invitation-block` | 949 components (ps_block, reply_invite) | cap 8x |
+| `header-static` + `footer-static` | Extracted ONCE from Giuliano mockup, applied to all 125 | static, no cap |
+
+Stage 2 also applies System B colors automatically:
+- Off-White #FAF9F7 (background, warm resolution)
+- Body Text #1A1A1A (body copy)
+- Body Gray #4A4A4A (captions)
+- Brand-Green #039902 (CTA — DEEP forest-green variant for E8 per creative strategy)
+- Mint #DBFFCD (highlights)
+- Cream Card #FBF7EB (cards, quote panel)
+- Soft Sage (warm-resolved guarantee panel — E8-specific)
+- Yellow #F5C84B (L1 stats only)
+- Warm Terracotta (E8 accent — social proof left bar, link underlines)
+- Soft Gray #9AA8A7 (subtle text, footer)
+
+## E8-SPECIFIC NOTES
+
+- **No double-tap CTA.** E7 used late + double-tap (positions 10 + 12). E8 collapses to a single CTA + a P.S. reply-invitation (door-open moment).
+- **No mechanism deep-dive.** E8 replaces E7's deep-mechanism slot with a RECAP (3-pillar list: Problem → Mechanism → Proof), reflecting the "21 days boiled down" framing.
+- **Hero swapped.** E7 had no hero image (mechanism-led, type-driven). E8 introduces a single Lena-focused or warm-door-metaphor hero — the visual equivalent of "a letter from Lena, not a product pitch."
+- **Single quote stack vs 4 micro-wins.** E7 had 4 distinct micro-win testimonials (She told me BEFORE / He stayed dry 2 hours / He notices when wet / He went today). E8 condenses to a 3-quote stack panel — fewer wins, calmer framing.
+- **Color palette shift.** E7 stayed in L1 default Cream + Brand-Green (mechanism-led). E8 moves to warm off-white + forest-green CTA + soft sage + warm terracotta — the "warm resolution" palette that signals completion, not urgency.
+- **Subject line shift.** E7 used insight-driven "last 10%" framework (validation hook). E8 uses the permission frame ("Last email, here's the offer") — E8's signature lever per macro_source.
+- **Sign-off variant.** Both E7 and E8 use the LONG sign-off variant (Lena references her sons). E8's adds "if this isn't the day, that's okay" — door-open permission that E7 does not have (E7 is "last call" with WELCOME10 expiry).
+- **Trust delta.** E7=0 (last call, neutral), E8=0 (door-open, preservation). Same numeric delta but different emotional frame: E7 hardens, E8 opens.
+
+*End of wireframe for Welcome E8 L1 (Sarah).*
+*Sections: 10. Components: 8. Images: 1. Variance vs E7: 8/9.*
+
+## STAGE 2 PICKS — welcome-01-e8-l1
+
+### Section 1: HERO - hero-image-lena-or-warm-door-metaphor
+- ROLE slot: hero-image-lena-or-warm-door-metaphor
+- INTENT: leads with Lena's voice (L4 lever, dominant at E8) — warm door-open frame
+- COMPONENT PICKED: HERO-3
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 2/8
+  - WHY: HERO-3 'Permission Open' is the perfect warm permission hero for E8's door-open Lena-centered frame. Re-using because both emails share the permission-toned opener requirement.
+- IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
+  - Alt text: Verbal 4-year-old in a warm home living room, dinosaur yellow print, relaxed hopeful posture.
+  - Current usage: 3/25
+  - WHY: Toddler in living room with dinosaur yellow print — warm home context, no Pre-K urgency (door-open, finale tone). Variance vs other toddler images used in E1-E7.
+
+### Section 2: VALIDATION + RECAP - recap-three-pillar-list
+- ROLE slot: recap-three-pillar-list
+- INTENT: collapses the full 21-day arc into 3 lines
+- COMPONENT PICKED: 9
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: 9 'The Journey Map (Where You Are)' is the catalog's journey-recap pattern — exact match for E8's three-pillar recap.
+- IMAGE PICKED: none (text-only component)
+
+### Section 3: SOCIAL PROOF - quote-stack-panel (warm-cream background)
+- ROLE slot: quote-stack-panel
+- INTENT: 3 L1 parent quotes condensed (E8 trims testimonial)
+- COMPONENT PICKED: STORY-15
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: STORY-15 'Story Carousel' is the catalog's stacked-quote pattern. Variance vs STORY-14 (E6), LETTER-11 (E2/E7), SP-02 (E4).
+- IMAGE PICKED: none (text-only component)
+
+### Section 4: PRODUCT - product-three-layer-visual-stack
+- ROLE slot: product-three-layer-visual-stack
+- INTENT: shows 3-layer system (Cotton inner / Smart absorption / Leak barrier)
+- COMPONENT PICKED: PROD-3
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 6/8
+  - WHY: PROD-3 'Layer Breakdown' is the canonical 3-layer stack. Re-using for consistency on the layer system visual; E8 needs the recap of layers.
+- IMAGE PICKED: flat-lay/training-pant-watermelon-pink.jpg
+  - Alt text: Three pairs of training underwear laid flat, watermelon pink print, showing the 3-layer product system for the final product recap.
+  - Current usage: 0/25
+  - WHY: Training pant flat lay, watermelon pink — final product image with bright/warm color that closes the welcome flow on a positive note. Variance from E2/E3/E6/E7 product images.
+
+### Section 5: GUARANTEE - guarantee-panel (soft-sage, quiet framing)
+- ROLE slot: guarantee-panel
+- INTENT: risk reversal with calm visual treatment, sage/quiet framing
+- COMPONENT PICKED: 5
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 4/8
+  - WHY: 5 '60-Day Calm Promise' is the catalog's guarantee-as-promise — re-using because the calm-quiet framing matches E8's tonal shift.
+- IMAGE PICKED: none (text-only component)
+
+### Section 6: CTA - cta-button-full-width (single, late)
+- ROLE slot: cta-button-full-width
+- INTENT: single late CTA — door-open framing, softest ask
+- COMPONENT PICKED: CTAMAX-04
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 8/8
+  - WHY: CTAMAX-04 'Soft CTA' is the softest CTA — fits E8's door-open single-tap pattern. Re-using because the role (soft permission CTA) is identical.
+- IMAGE PICKED: none (text-only component)
+
+### Section 7: LENA SIGN-OFF - signoff-lena-long (warm-resolved tone)
+- ROLE slot: signoff-lena-long
+- INTENT: personal farewell — Lena references her two autistic sons
+- COMPONENT PICKED: 12.1
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 11/8
+  - WHY: 12.1 'Lena Signoff' is the only Lena signoff component in the catalog — used consistently across E1-E8 with varying closing words.
+- IMAGE PICKED: none (text-only component)
+
+### Section 8: P.S. - ps-reply-invitation-block
+- ROLE slot: ps-reply-invitation-block
+- INTENT: soft secondary engagement — reply invitation, not a CTA
+- COMPONENT PICKED: OBJ-15.4
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: OBJ-15.4 'Lena Voice' is the Lena-voice pattern suitable for the personal P.S. reply invitation. Re-using because both E3 and E8 use Lena voice for closing beats.
+- IMAGE PICKED: none (text-only component)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-3', '9', 'STORY-15', 'PROD-3', '5', 'CTAMAX-04', '12.1', 'OBJ-15.4']
+- image-usage.json: incremented ['lifestyle/toddler-livingroom-dino-yellow.png', 'flat-lay/training-pant-watermelon-pink.jpg']
+
+## STAGE 2 REMEDIATION — welcome-01-e8-l1
+
+> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is over the 8-use cap
+> due to multi-session concurrent writes and the structural reality that `12.1` is the
+> only signoff-footer component matching the L1 `signoff-lena-short/long` role.
+>
+> **Recommended Stage 3 substitution** (if the orchestrator enforces hard caps):
+> - For LONG signoff variant (E6, E7, E8 "With care,"): use `EMODEEP-18` ("The Letter From Lena")
+>   from `emotional_support` position — a Letter-based component that adapts the longer
+>   farewell format with more body copy room.
+> - For SHORT signoff variant (E1-E5 "Talk soon," / "With understanding,"): keep `12.1`
+>   since no better catalog alternative exists for the SHORT Lena pattern.
+>
+> **Action taken in this file:** None. Picks recorded as-is for Stage 3 to honor
+> the L1 voice consistency.

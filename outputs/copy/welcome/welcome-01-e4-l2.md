@@ -407,3 +407,302 @@ This the only place in the email where true L2-level clinical framing sits: the 
 - ✅ 60-day guarantee (Prominent guarantee block with dashed amber border)
 - ✅ Permission-not-to-buy (CTA framed as "Explore", not "Buy Now," not "Shop," not impulse-generating language)
 
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l2-4
+
+> **Source sections (from Part 1 copy):** Hook → Validation → Mechanism → Social Proof → Product Intro → Guarantee → CTA → Sign-off (MEDIUM)
+> **Variance baseline:** L2 E3 (8 sections, Pattern H minimalist risk-reversal, WARM cream card, MEDIUM sign-off, expert-name subject, Iqbal 19% stat)
+> **L2 deltas vs E3:** CRITICAL email — second +2 trust delta. Subject line moves to absolution hook ("What real L2 parents say after 4-8 weeks") pivoting AWAY from expert-name; full L2 unlock sentence gets its deepest airing paired with the prompt-dependency loop; school/home paradox named explicitly ("Went 4/4 today!" at school, no initiation at home); BCBA-respect frame extended ("Your BCBA hasn't failed. The OT hasn't failed. You haven't failed."); Iqbal 19% stat returns + Wiggins 49% implicit; regression-cycle quote ("3 weeks of success then total regression") leads; 4–8 week progression chart Easter egg; signal-bridge + 3-layer cross-section visual contraption; sign-off MEDIUM with explicit "two sons" disclosure.
+
+### Variance Check vs L2-E3 (target ≥ 5/9 dimensions different)
+
+| # | Dimension | L2-E3 (previous) | L2-E4 (this wireframe) | Diff? |
+|---|-----------|------------------|------------------------|-------|
+| 1 | Section count + names | 8 (Hook→Validation→Mechanism→Testimonial→Product Intro→Guarantee→CTA→Sign-off) | 8 (Hook→Validation→Mechanism→Social Proof→Product Intro→Guarantee→CTA→Sign-off) — testimonial still present but anchor shifts to regression cycle | = similar |
+| 2 | Section pattern (A–H) | **H — Minimalist (risk-reversal)** | **C — Problem-Solution (reframe)** — Hero (school/home paradox) → Recognition (regression) → Mechanism (loop) → BCBA-respect (complement) → CTA | ✅ |
+| 3 | Image density | 1 (Lena portrait OR cream-card testimonial) | 2 (one micro-moment photo — "Mom's hand on his shoulder during a sensory moment"; one mint-bordered BCBA-respect callout) — signal-bridge illustration reappears | ✅ |
+| 4 | Color temperature | Warm (cream + mint 60-day frame) | **Cool** (mint #DBFFCD around BCBA callout; white body) — returns to cool for the science deep | ✅ |
+| 5 | Email length | 350–450 words | 700–850 words (3–4 min read; emotional reframe must be earned) | ✅ |
+| 6 | Argument structure | Risk-reversal + permission | **Absolution + wrong-problem reframe + BCBA complement** — "You didn't fail. Your BCBA didn't fail. The approach missed the body-signal piece." | ✅ |
+| 7 | Visual rhythm | Open (44px gaps; generous around 60-day frame) | **Mixed — 44px in body, tight 16px around the BCBA callout** | ✅ |
+| 8 | CTA position | Single soft button only (guarantee in label) | **Double-tap CTA** — "Show your BCBA" / "Read the body-signal science" (BCBA-anchor CTA is L2-unique) | ✅ |
+| 9 | Subject line type | Social proof / expert-name (Mahler) | **Observation hook / absolution** ("What real L2 parents say after 4–8 weeks") — first subject line pivoting to time-bound social proof with absolution undertone | ✅ |
+
+**Variance score: 8/9 dimensions differ.** Threshold ≥ 5/9 met.
+
+### Vertical-Stack ASCII Wireframe
+
+```
+┌──────────────────────────────────────────────────────────┐
+│ HEADER (thin, off-white ground)                          │
+│  Logo bar: BrightKidCo wordmark                         │
+│  From: Lena at BrightKidCo                              │
+│  Subject: What real L2 parents say after 4–8 weeks      │
+│  Preview: "He initiated. Once. After 4 years."          │
+│           A pause, a look, a step. That's the signal…    │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  HOOK BODY (regression quote + 3–4 sentences)           │
+│  "We had 3 weeks of success then total regression."     │
+│  "You've done the BCBA protocol, OT sensory work,        │
+│   social stories, sticker charts, timer sits from       │
+│   9 AM to 6 PM…"                                        │
+│  "That isn't starting over."                            │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  VALIDATION BODY (5–6 sentences)                        │
+│  "Regression isn't failure. It's not starting over.     │
+│   The neural pathways you built over those 3 weeks      │
+│   are still there. His nervous system is                │
+│   recalibrating."                                       │
+│  "Your BCBA hasn't failed. The OT hasn't failed.        │
+│   You haven't failed. Every protocol you've run         │
+│   addressed behavior and compliance…"                   │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [HERO MICRO-MOMENT IMAGE — full-width single column,   │
+│   text above, image below, NEVER side-by-side]          │
+│  hero-image-lifestyle: real mom + real kid, 5–7,        │
+│  in sensory-aware moment (e.g., "Mom's hand on his      │
+│  shoulder during a sensory moment"). Soft light,        │
+│  no face close-ups. alt-text: "calm/sensory-aware."     │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  MECHANISM BODY (5–6 sentences; loop explained)        │
+│  "Here's what the research actually says about this gap."│
+│  Iqbal 19% thirst stat in prose (with brief             │
+│  attribution: "Iqbal 2022 (N=63)").                     │
+│  "This is a childhood phenomenon — adults with ASD      │
+│   show compensation."                                   │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED BCBA-RESPECT CALLOUT — tight 16px       │
+│   around it; the L2 visual signature applied to         │
+│   the BCBA unlock sentence]                             │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "Your BCBA has been doing the hard work for       │  │
+│  │  years. Body-signal learning is the missing layer  │  │
+│  │  their protocol can't address."                    │  │
+│  │                                                    │  │
+│  │  — L2 unlock sentence (in its deepest airing yet)  │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (mint #DBFFCD border; this is the gravitational       │
+│   center of the L2 sequence)                            │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SOCIAL PROOF — callout-quote-highlight (single column, │
+│  cream card; multiple quotes, each with attribution)    │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He initiated. Once. After 4 years."              │  │
+│  │ "A pause. A look down. A step toward the           │  │
+│  │  bathroom. After."                                 │  │
+│  │  — L2 parent, 5 weeks in                           │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He can go to the bathroom with on-the-dot        │  │
+│  │  prompting every hour but he does not care if     │  │
+│  │  he goes on himself."                              │  │
+│  │  — L2 parent (prompt-dependency quote)            │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "BCBA protocol got us to 'sit on the toilet        │  │
+│  │  without melting down.' That's it. No actual       │  │
+│  │  training."                                        │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PRODUCT INTRO BODY (3-layer recap; logic chain at end) │
+│  1. Child pees →                                        │
+│  2. Feels gentle signal →                               │
+│  3. Brain connects "I peed → I feel it → I should       │
+│     use the potty" →                                    │
+│  4. Over time: awareness builds BEFORE the event.       │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  GUARANTEE — trust-anchor-callout (mint callout;        │
+│  realistic timelines stated)                            │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Realistic expectations for L2: 4–8 weeks for the   │  │
+│  │ first consistent signals. Some kids take longer.   │  │
+│  │ Both are normal.                                   │  │
+│  │ The 60-Day Guarantee covers the full learning     │  │
+│  │ window. By your judgment.                          │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [DOUBLE-TAP CTA — two cta-button-soft in stacked row]  │
+│  [ Show your BCBA ]                                      │
+│  [ Read the body-signal science ]                        │
+│  (both muted-green, NOT full-width, 48px min height)    │
+│                                                          │
+│  SECONDARY TEXT LINK                                    │
+│  "Explore the 3+3 Bundle, $79.99"                       │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SIGN-OFF — signoff-lena-medium                         │
+│  "I have two autistic sons. One's 6, still in the       │
+│   middle of it. The other took us until he was          │
+│   almost 8. If your kid is anywhere on this curve…"     │
+│  Lena ——                                                 │
+│                                                          │
+│  Footer: physical address · unsubscribe ·               │
+│          "Reply to this email, Lena reads every         │
+│           response."                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+SYSTEM B (automatic):
+- Backgrounds: warm off-white + cream cards (testimonial) + mint-bordered BCBA callout
+- Text: high-contrast dark on off-white, body 17px
+- Hero micro-moment image: full-width single column (text above, image below)
+- CTA: double-tap muted-green, NOT full-width, 48px min height
+- Spacing: mixed — 44px body, tight 16px around the BCBA callout + 3-layer cross-section
+- No countdown timers, no "Quick" / "Easy" / "your BCBA should have…"
+- Section count ≈ 8 (denser than E3; emotional reframe must be earned)
+```
+
+**L2 6-Element compliance verified at wireframe level:**
+- ✅ Symptom recognition: regression quote + school/home paradox + prompt-dependency quote (3+ matches)
+- ✅ Mechanism specificity: interoception + Iqbal 19% thirst + "childhood phenomenon" + Hample 2020 mention
+- ✅ BCBA acknowledgment: FULL L2 unlock sentence in dedicated mint-bordered callout (deepest airing yet); "Your BCBA hasn't failed" in validation body
+- ✅ Realistic timelines: 4–8 weeks stated + "Some kids take longer" + "60-day covers the full window"
+- ✅ 60-day guarantee: trust-anchor-callout with "By your judgment"
+- ✅ Permission-not-to-buy: double-tap CTA has no buy-now button; secondary text link is exploratory ("Explore")
+
+======================================================================
+## STAGE 2 PICKS — welcome-01-e4-l2
+
+**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+
+**L2 calibration applied:**
+- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
+- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
+- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
+  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
+- 40/60 hope/realism ratio; clinical warmth, not peer-mom
+- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
+- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
+- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
+- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+
+
+### Section 1: hook-regression
+- **ROLE slot:** hook-regression
+- **INTENT (from wireframe):** HERO-14 Quote Bomb (reused from E2) — regression quote
+- **COMPONENT PICKED:** HERO-14
+  - Name: Quote Bomb *(L4114)*
+  - From catalog: position=`hero`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Hook: HERO-14 Quote Bomb (reused from E2) — regression quote
+- **VARIANCE CHECK:** N/A (first section)
+
+### Section 2: validation-unlock
+- **ROLE slot:** validation-unlock
+- **INTENT (from wireframe):** LETTER-03 Letter + Pull-Quote (reused from E2)
+- **COMPONENT PICKED:** LETTER-03
+  - Name: Letter + Pull-Quote
+  - From catalog: position=`body_recognition`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Validation+Unlock: LETTER-03 Letter + Pull-Quote (reused from E2)
+- **VARIANCE CHECK:** differs from previous section (HERO-14) — OK
+
+### Section 3: mechanism-loop
+- **ROLE slot:** mechanism-loop
+- **INTENT (from wireframe):** EDU-9 Tip Cards — prompt-dependency loop step-by-step
+- **COMPONENT PICKED:** EDU-9
+  - Name: Tip Cards *(L5453)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Mechanism: EDU-9 Tip Cards — prompt-dependency loop step-by-step
+- **VARIANCE CHECK:** differs from previous section (LETTER-03) — OK
+
+### Section 4: quote-BCBA-integration
+- **ROLE slot:** quote-BCBA-integration
+- **INTENT (from wireframe):** EMO-6 Parent Quote (reused)
+- **COMPONENT PICKED:** EMO-6
+  - Name: Parent Quote *(L6962)*
+  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 2/8 (under cap)
+  - **WHY:** Quote 1: EMO-6 Parent Quote (reused)
+- **VARIANCE CHECK:** differs from previous section (EDU-9) — OK
+
+### Section 5: quote-week6
+- **ROLE slot:** quote-week6
+- **INTENT (from wireframe):** SP-08 Stacked Mini-Reviews — different comp for variance
+- **COMPONENT PICKED:** SP-08
+  - Name: Stacked Mini-Reviews *(L4966)*
+  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Quote 2: SP-08 Stacked Mini-Reviews — different comp for variance
+- **VARIANCE CHECK:** differs from previous section (EMO-6) — OK
+
+### Section 6: product-intro-recap
+- **ROLE slot:** product-intro-recap
+- **INTENT (from wireframe):** PROD-3 Layer Breakdown (reused)
+- **COMPONENT PICKED:** PROD-3
+  - Name: Layer Breakdown *(L5744)*
+  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
+  - Currently used: 3/8 (under cap)
+  - **WHY:** Product: PROD-3 Layer Breakdown (reused)
+- **VARIANCE CHECK:** differs from previous section (SP-08) — OK
+
+### Section 7: guarantee
+- **ROLE slot:** guarantee
+- **INTENT (from wireframe):** TRUST-2 (reused from E2)
+- **COMPONENT PICKED:** TRUST-2
+  - Name: Guarantee Detail Cards *(L6414)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Guarantee: TRUST-2 (reused from E2)
+- **VARIANCE CHECK:** differs from previous section (PROD-3) — OK
+
+### Section 8: cta-double-tap
+- **ROLE slot:** cta-double-tap
+- **INTENT (from wireframe):** CTAMAX-17 Level-Specific CTA — "Show your BCBA" double-tap
+- **COMPONENT PICKED:** CTAMAX-17
+  - Name: Level-Specific CTA *(L17064)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** CTA: CTAMAX-17 Level-Specific CTA — "Show your BCBA" double-tap
+- **VARIANCE CHECK:** differs from previous section (TRUST-2) — OK
+
+### Section 9: secondary-text-link
+- **ROLE slot:** secondary-text-link
+- **INTENT (from wireframe):** CTA-2 (reused)
+- **COMPONENT PICKED:** CTA-2
+  - Name: Soft Link *(L6658)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
+  - Currently used: 5/8 (under cap)
+  - **WHY:** Secondary: CTA-2 (reused)
+- **VARIANCE CHECK:** differs from previous section (CTAMAX-17) — OK
+
+### Section 10: signoff
+- **ROLE slot:** signoff
+- **INTENT (from wireframe):** UTIL-05 (reused from E3) — MEDIUM
+- **COMPONENT PICKED:** UTIL-05
+  - Name: Signoff Card
+  - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Signoff: UTIL-05 (reused from E3) — MEDIUM
+- **VARIANCE CHECK:** differs from previous section (CTA-2) — OK
+
+### Footer (static — already picked, no work needed)
+- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
+- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
+- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+
+### Tracker updates applied
+- `component-usage.json`: incremented counts for `HERO-14`, `LETTER-03`, `EDU-9`, `EMO-6`, `SP-08`, `PROD-3`, `TRUST-2`, `CTAMAX-17`, `CTA-2`, `UTIL-05`
+

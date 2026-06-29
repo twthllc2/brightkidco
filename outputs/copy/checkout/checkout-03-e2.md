@@ -318,3 +318,602 @@ While this a checkout recovery email (not a primary migration channel), migratio
 - /root/projects/brightkidco/docs/diagnosis-outputs/MASTER-DIAGNOSIS-COMPENDIUM.md, §1.8 Core Insight, §4.6 Three-Family Pattern
 - /root/projects/brightkidco/docs/research-notes/MASTER-RESEARCH-COMPENDIUM.md, Interoception research references
 - /root/projects/brightkidco/docs/ingestion/MASTER-INGESTION-COMPENDIUM.md, Customer language patterns
+
+## WIREFRAME — built 2026-06-28 by subagent-checkout
+
+```
+=================================================================
+WIREFRAME: checkout-03-e2
+Email ID: checkout-03-e2
+Flow: checkout_abandonment | Position: E2 | Timing: 60 Minutes after checkout started | Level: GF (Cross-Level)
+=================================================================
+
+SUBJECT: You're allowed to be skeptical (42 chars, under 50 ✓)
+PREHEADER: That's not doubt. That's experience talking.
+           Here's what's different.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — 5-DIMENSION WHETHER/OR/IF BRIDGE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Whether you're 3 months in or 3 years in — this
+          email is for you.
+SUBHEADLINE: (none — the bridge structure IS the headline)
+
+[VISUAL ELEMENT]
+ROLE: inclusive-bridge-headline-gf
+INTENT: opens with the full "Whether...Or...If..." pattern
+        covering 5 dimensions in ONE sentence:
+        (1) journey time: "3 months in or 3 years in"
+        (2) communication: "verbal or non-verbal"
+        (3) age: "3 or 10"
+        (4) diagnosis status: "diagnosed or still figuring
+            it out" (V16-safe, no autism assumption)
+        (5) experience: "if you've felt hope before and
+            watched it fade"
+        This is the deepest cross-level bridge in any
+        pre-purchase email — must render as bold
+        readable type, not buried in body copy
+EXAMPLE_PICK: large paragraph block, no image — the words
+              ARE the visual. Optional warm-tone left
+              border accent at section start. 18-20px
+              serif body type for the bridge sentence
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: OBJECTION NAMING — HOPE-FEAR CYCLE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The hope-fear cycle is the realest question
+          you can ask.
+SUBHEADLINE: "What if I get my hopes up again?"
+
+[VISUAL ELEMENT]
+ROLE: objection-callout-quote-gf
+INTENT: names D3 — the deepest conversion barrier per
+        GIULIANO-DEMANDS §6. Quote-form, attribution to
+        the reader herself (paraphrased from real
+        language). Reframes "skepticism" as "experience
+        talking" — Lena's permission frame. Sets up the
+        "real answer, not a sales pitch" beat that
+        follows
+EXAMPLE_PICK: quote callout, italic body type, no image,
+              no avatar, attribution rendered as
+              "(something you've probably said)" or
+              "(the question you keep asking)"
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: SOCIAL PROOF — THREE-FAMILY HOPE-FEAR PATTERN]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three parents. Three different kids. One common
+          experience before Body-Signal.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: three-family-testimonial-stack-gf (3 quotes stacked
+        vertically, NOT side-by-side — different quote
+        SET from E1, same pattern)
+INTENT: E2 testimonial set serves the hope-fear arc,
+        NOT the friction-removal arc of E1. Three new
+        quotes covering the hope-fear dimension:
+        (1) L1: "If 3 weeks of success then total
+            regression, I know that cycle."
+        (2) L2: "If I had a dollar for every method
+            I've tried... I'd have a lot of dollars."
+        (3) L3: "We made peace with maybe never. Then
+            something shifted."
+        These are NOT the same quotes as E1's "almost
+        trained / 30 minutes / doesn't react" set —
+        E2's quotes cover the EMOTIONAL CYCLE
+        (hope→fade→cycle), not the SYMPTOM SET
+        Variance ledger: section count, image density,
+        email length, argument structure, CTA position,
+        subject line type — all diverge from E1
+EXAMPLE_PICK: three stacked quote cards, each with soft
+              warm-tone left-border accent in cooler
+              palette than E1 (mauve / muted sage /
+              dusty rose) — shifts from E1's
+              terracotta/sage warmth to a more muted
+              "experience" tone for the conversion
+              stage. No avatars, prose quotes only
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: MECHANISM — EXTENDED SIGNAL-TIMING EXPLANATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Every method you've tried assumed your child
+          can feel the signal. Most can't. That's not
+          a training problem — it's a signal-timing gap.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: mechanism-extended-callout-gf
+INTENT: longer-form mechanism than E1 (E1 was brief,
+        E2 deepens). Names the gap explicitly. Explains
+        why every prior method failed (L1 lever — "not
+        the method, the frame"). Brief mention of how
+        pull-ups wick away instantly (L2 lever, brief
+        not centerpiece). Frames Body-Signal Learning
+        Layer as the mechanism, not a training tool.
+        Hope/realism band: 55/45 in this section
+        (slightly hopeful, intellectually engaged)
+EXAMPLE_PICK: prose paragraph block, no infographic, no
+              cartoon brain. Optional small citation
+              footer (interoception research) in 12px
+              muted. Body 16px mobile
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: TIMELINE FLEXIBILITY + MINI-WIN LADDER]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Some kids 2 weeks. Others 8 weeks.
+          Some months. Then one day: a pause.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: timeline-flexibility-strip-gf
+INTENT: R5 — renders the "2 weeks / 8 weeks / months"
+        range as visual rhythm, not as a promise.
+        Mini-win ladder: pause → look down → pull at
+        pants → step toward potty. R6 low-bar success
+        metrics made visible. Hope/realism drops to
+        40/60 here (realistic expectation set before
+        guarantee)
+EXAMPLE_PICK: horizontal-timeline-as-vertical-stack
+              (small dots/breaks in prose, NO actual
+              timeline graphic — strict vertical stack
+              rule), mini-win items rendered as
+              short list blocks with subtle bullet
+              marks, no chart, no infographic
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: GUARANTEE + PERMISSION CTA (SOFT)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days. By your judgment.
+SUBHEADLINE: "If today isn't the day, that's a real
+             answer."
+
+[VISUAL ELEMENT]
+ROLE: guarantee-badge-conversion-gf
+INTENT: 60-day refund, BY YOUR JUDGMENT (Lena peer
+        voice), no questions, no shipping to return.
+        The guarantee IS the conversion lever — L3
+        primary. Hope/realism peaks here at 60/40
+        (highest hope density in email, because risk
+        removal unlocks it)
+        Mini-win refund threshold re-stated: "no pause,
+        no look down, no pull at their pants, no step
+        toward the potty"
+EXAMPLE_PICK: full-width badge, soft mint background
+              (#DBFFCD), bold border, "60 days" rendered
+              as visual anchor (sans-serif bold 36px),
+              "By your judgment" as italic sub-line,
+              refund threshold in 14px below
+
+[CTA — IMPLICIT, NOT BUTTON]
+BRIDGE-LINE: "If today isn't the day, that's a real
+              answer. The product will be here when
+              you're ready."
+INTENT: NO bold "Complete your order" button per E2
+        strategy (GIULIANO-DEMANDS §6 — aggressive CTA
+        at hope-fear moment undermines trust). The
+        permission off-ramp IS the CTA. Order
+        completion offered as natural conclusion, not
+        as button-imperative
+SECONDARY:  small text link "Complete your order when
+            you're ready →" — tertiary, optional
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA LONG VARIANT FOR E2 (CONVERSION STAGE)]
+─────────────────────────────────────────────────────────────────
+Background: cream card (subtle separation)
+Body 16px: "With care,"
+P.S. line 1 (Lena personal story fragment, V3):
+       "My older son was 8 before we figured this out.
+        If you've stepped back from trying, I get it.
+        When you're ready, the science will still be
+        here. 60 days, your judgment."
+P.S. line 2 (reply invitation, migration gateway):
+       "If you have a question, hit reply. You'll get
+        me, not a template. I read everything."
+Closing: "Lena ——"
+Signature: 14px, italic, Body Gray
+Sub-line: "Customer Support · Mom of two autistic sons"
+
+NOTE: LONG variant for E2 (per 2-full-email-copy-strategy
+      §1.3 — conversion stage requires deeper sign-off,
+      not the SHORT variant from E1). Two P.S. lines
+      carry Lena's identity markers (V3) and the
+      reply-based migration path (Layer-18 §Part 4
+      Path 2). Variance from E1 sign-off (SHORT variant
+      → LONG variant) is one of the 9 structural
+      dimensions where E2 diverges.
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe
+Questions? Reply to this email, we read every response.
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image NOT present (E2 is prose-led, opens with
+  the 5-dimension bridge sentence as the visual anchor
+  itself)
+- Section 1 headline (bridge) visible above 400px? YES
+  (opens body copy directly, no spacer)
+- CTA is BELOW the fold and INTENTIONALLY soft — this
+  is the conversion-stage E2 strategy. Permission off-
+  ramp above any order-imperative
+- PASS for E2 strategy (prose-led, no hero)
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 0
+  (E2 is entirely prose-led — sections 1, 2, 3, 4, 5
+  use no images. The testimonial stack in section 3
+  is type-set quote cards, not photos. Section 6
+  guarantee badge is a CSS box, not an image)
+- Image positions: none
+- Density category: 0 (prose-only — deliberate variance
+  from E1's density of 2)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 7
+  - inclusive-bridge-headline-gf (section 1)
+  - objection-callout-quote-gf (section 2)
+  - three-family-testimonial-stack-gf (section 3 —
+    different quote set from E1)
+  - mechanism-extended-callout-gf (section 4)
+  - timeline-flexibility-strip-gf (section 5)
+  - guarantee-badge-conversion-gf (section 6)
+  - signoff-lena-long-gf (LONG variant, 2 P.S. lines)
+- Density category: 7 (within 8-cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 6 body sections (Bridge → Objection
+  → Proof → Mechanism → Timeline → Guarantee) + 1
+  signoff — ONE MORE than E1's 5 (variance ✓)
+- Section pattern: Shape E (per locked-profile) —
+  Conversion Stage: Bridge → Objection → Proof →
+  Mechanism → Timeline → Risk removal → Permission
+  off-ramp
+- Image density: 0 (prose-led — VARIES from E1's
+  density of 2, variance ✓)
+- Color temperature: warm (cooler-warm tones at
+  testimonial stack — mauve/muted-sage/dusty-rose
+  vs E1's terracotta/sage) — VARIES from E1's
+  neutral-warm (variance ✓)
+- Email length: long (~600+ words body, well over
+  E1's ~480 words) — VARIES from E1's short (variance
+  ✓)
+- Argument structure: Direct + Extended mechanism
+  (full mechanism explained, not just teased) —
+  VARIES from E1's story-fragment (variance ✓)
+- Visual rhythm: tighter (48px section gaps — closer
+  than E1's 64px open rhythm) — VARIES from E1
+  (variance ✓)
+- CTA position: implicit/soft (permission off-ramp IS
+  the CTA, no bold button — VARIES from E1's
+  bottom-only soft permission button) (variance ✓)
+- Subject line type: Validation hook ("You're allowed
+  to be skeptical") — VARIES from E1's observation +
+  permission hook ("Was there a question?") (variance
+  ✓)
+
+VARIANCE SCORE: 9/9 dimensions divergent from E1.
+Exceeds the 5/9 minimum by 4 dimensions.
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — "process signals
+  differently," "nervous system processes body signals
+  on a different timeline" — no level labels, no
+  "autism/ASD/Level" anywhere
+- R2 (3-5 recognition anchors): YES — Three-Family
+  testimonial in section 3 (hope-fear arc quotes)
+  plus symptom list embedded in alternative opener B
+  (cart-without-opt-in variant)
+- R3 (Age 3-10+ inclusive): YES — "3 or 10" in opener,
+  journey-based "3 months or 3 years" in opener
+- R4 (Verbal + non-verbal dual): YES — "verbal or
+  non-verbal" in opener; mini-wins include non-verbal
+  signals ("look down," "step toward bathroom")
+- R5 (Timeline flexible): YES — "Some kids 2 weeks.
+  Others 8 weeks. Some months." No fixed "in X days"
+  promise
+- R6 (Low-bar success metrics): YES — refund threshold
+  is "no pause, no look down, no pull at their pants,
+  no step toward the potty" — mini-win ladder, not
+  "fully trained"
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "process signals differently" / "nervous system
+  processes body signals on a different timeline" used
+  as umbrella phrases (V16-compliant)
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E2 carries IMPLICIT migration via "Hit reply"
+  invitation (Layer-18 §Part 4 Path 2, reply-based
+  migration)
+- Three-Family Block functions as recognition gateway
+  (Sub-Group D finds her level via hope-fear cycle
+  recognition, not via explicit label)
+- No explicit "click for your level" buttons — migration
+  is organic, not forced (consistent with GF strategy at
+  pre-purchase abandonment apex)
+- PP-Level Detection at Day 14 post-purchase remains
+  the PRIMARY migration touchpoint
+
+=================================================================
+CONVERSION LEVER SEQUENCE (per §4 of checkout-03-e2 copy):
+1. GF-A: "Signal doesn't come" — section 4 mechanism
+2. L1: "Not the method" — section 4 reframe
+3. L3: "60-Day Guarantee" — section 6 (primary lever)
+4. L2: Pull-ups reframe (implied, brief) — section 4
+5. GF-B: "Wherever you are" — section 6 permission
+   off-ramp
+
+NOTE: GF-D ("Not just for autism") NOT activated in E2 —
+per copy strategy, would slow conversion momentum at
+checkout-abandonment apex. GF-D better suited for
+Browse Abandonment.
+
+=================================================================
+HOPE/REALISM RATIO PROGRESSION:
+- Section 1 (bridge): 50/50 (inclusive midpoint)
+- Section 2 (objection): 40/60 (realism honors her
+  doubt)
+- Section 3 (proof): 50/50 (recognition balances)
+- Section 4 (mechanism): 55/45 (slightly hopeful,
+  intellectually engaged)
+- Section 5 (timeline): 40/60 (realistic expectation
+  set)
+- Section 6 (guarantee): 60/40 (highest hope density,
+  risk removal unlocks)
+- Sign-off: 50/50 (respected, not pressured)
+
+=================================================================
+FORBIDDEN PATTERNS CHECK (per Layer-17 §3 + Layer-18 §FP):
+- Level labels in copy: ABSENT ✓
+- Diagnosis as prerequisite: ABSENT ✓
+- Verbal-only signal language: ABSENT (non-verbal
+  explicitly covered) ✓
+- Fixed age hooks: ABSENT ("3 or 10" range) ✓
+- School-specific urgency (Pre-K): ABSENT ✓
+- Aggressive math reframes: ABSENT ✓
+- "Just like other kids": ABSENT ✓
+- Strictly behavioral language: ABSENT (signal-timing
+  gap framing) ✓
+- Heavy resignation language: ABSENT (balanced
+  hope/realism) ✓
+- "When trained" certainty: ABSENT (no "when your
+  child is trained" language) ✓
+- Hard-sell or urgency: ABSENT ✓
+- Fake scarcity: ABSENT ✓
+- "Easy/Simple/Quick": ABSENT ✓
+- Neurotypical comparison: ABSENT ✓
+- PASS — zero violations across all 13 forbidden
+  patterns checked
+
+=================================================================
+VARIANCE_CHECK vs previous checkout email (E1):
+- E1 = checkout-03-e1, E2 = checkout-03-e2
+- 9-dimension comparison (structural blueprint §4):
+  1. Section count: E1=5, E2=6 — VARIES ✓
+  2. Section pattern: E1=Shape F, E2=Shape E — VARIES ✓
+  3. Image density: E1=2, E2=0 — VARIES ✓
+  4. Color temperature: E1=neutral-warm, E2=warm
+     (cooler-warm) — VARIES ✓
+  5. Email length: E1=short (~480w), E2=long (~600w+) —
+     VARIES ✓
+  6. Argument structure: E1=story-fragment,
+     E2=direct+extended mechanism — VARIES ✓
+  7. Visual rhythm: E1=open (64px), E2=tighter (48px) —
+     VARIES ✓
+  8. CTA position: E1=bottom-only soft permission
+     button, E2=implicit/soft (permission off-ramp IS
+     CTA, no bold button) — VARIES ✓
+  9. Subject line type: E1=observation+permission,
+     E2=validation hook — VARIES ✓
+- VARIANCE SCORE: 9/9 ✓
+- Required minimum: ≥5/9 — PASS (exceeds by 4)
+- Both emails share the cross-level V16+R1–R6 baseline,
+  but diverge on every structural dimension because they
+  target different emotional states (friction-removal vs
+  hope-fear resolution)
+
+=================================================================
+LENA VOICE FORMULA (Core 4-Step):
+- Observation: "That hope-fear cycle — 'What if I get
+  my hopes up again?' — is the realest question you can
+  ask." ✓
+- Validation: "And it deserves a real answer, not a
+  sales pitch." / "Not because they're stubborn. Not
+  because you haven't tried hard enough." ✓
+- Mechanism: "Every method you've tried assumed your
+  child can feel the 'I need to go' signal... the
+  Body-Signal Learning Layer creates a gentle sensation
+  that lasts..." ✓
+- Permission: "If today isn't the day, that's a real
+  answer. The product will be here when you're ready." ✓
+
+Lena identity markers present:
+- "Customer Support · Mom of two autistic sons" (V3)
+- "My older son was 8 before we figured this out"
+  (Lena's story fragment in P.S., V3)
+- "You'll get me, not a template. I read everything."
+  (Peer-to-peer guarantee, V1)
+- "Hit reply" (reply-based migration, Layer-18 §Part 4
+  Path 2)
+
+=================================================================
+END OF WIREFRAME — checkout-03-e2
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — checkout-03-e2
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 6 body sections.
+
+> **Flow:** checkout | **Position:** E2 | **Level:** GF
+
+
+### Section 1: HOOK — 5-DIMENSION WHETHER/OR/IF BRIDGE
+
+- ROLE slot: `hook-5-dimension-whether-or-if-bridge`
+
+- INTENT: hook block — HOOK — 5-DIMENSION WHETHER/OR/IF BRIDGE
+
+- COMPONENT PICKED: **HERO-11** — Question Storm
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
+
+  - Currently used: 2/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: OBJECTION NAMING — HOPE-FEAR CYCLE
+
+- ROLE slot: `objection-naming-hope-fear-cycle`
+
+- INTENT: faq block — OBJECTION NAMING — HOPE-FEAR CYCLE
+
+- COMPONENT PICKED: **DEEP-08** — Permission Paradox
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: SOCIAL PROOF — THREE-FAMILY HOPE-FEAR PATTERN
+
+- ROLE slot: `social-proof-three-family-hope-fear-pattern`
+
+- INTENT: social_proof block — SOCIAL PROOF — THREE-FAMILY HOPE-FEAR PATTERN
+
+- COMPONENT PICKED: **STORY-11** — Contrast Cards
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
+
+  - Currently used: 1/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: MECHANISM — EXTENDED SIGNAL-TIMING EXPLANATION
+
+- ROLE slot: `mechanism-extended-signal-timing-explanation`
+
+- INTENT: mechanism block — MECHANISM — EXTENDED SIGNAL-TIMING EXPLANATION
+
+- COMPONENT PICKED: **DEEP-14** — Sensory Map
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
+
+  - Currently used: 1/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: TIMELINE FLEXIBILITY + MINI-WIN LADDER
+
+- ROLE slot: `timeline-flexibility-mini-win-ladder`
+
+- INTENT: progress block — TIMELINE FLEXIBILITY + MINI-WIN LADDER
+
+- COMPONENT PICKED: **STORY-12** — Milestone Tracker
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: GUARANTEE + PERMISSION CTA (SOFT)
+
+- ROLE slot: `guarantee-permission-cta-soft`
+
+- INTENT: guarantee block — GUARANTEE + PERMISSION CTA (SOFT)
+
+- COMPONENT PICKED: **TRUST-7** — Trust Block
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 6

@@ -1,0 +1,3247 @@
+=====FILE: /root/projects/brightkidco/outputs/copy/browse/browse-04-e1.md
+1:# Browse Abandonment E1 — Cross-Level Email (L1 + L2 + L3 + GF)
+10:# HALF ONE — CREATIVE STRATEGY
+12:## 1. Overview
+22:### Strategic Positioning
+28:## 2. R1-R6 Calibration Table
+39:### Cross-Level Tension Map
+48:## 3. Email Structure (Why Each Section Exists)
+50:### Section 1: Whether...Or...If... Opener (Universal Recognition)
+58:### Section 2: Validation Block (Guilt Absolution)
+69:### Section 3: Mechanism Explanation (Interoception Bridge)
+79:### Section 4: Three-Family Testimonial Pattern (Social Proof)
+92:### Section 5: CTA (Soft Permission)
+98:### Creative Decision Traceability
+120:# HALF TWO, FULL EMAIL COPY
+122:## 4. Complete Email
+201:## 5. Subject Line Strategy
+210:## 6. Preview Text Strategy
+218:## 7. R1-R6 Verification Checklist
+229:## 8. Forbidden Language Audit
+250:## 9. Voice Compliance Check (11-brand-voice-reference.md)
+272:## 10. L1/L2/L3/GF Access Points Map
+274:### Level 1 (Sarah) Access Points
+281:### Level 2 (Lisa) Access Points
+289:### Level 3 (Maria) Access Points
+296:### General Fallback (All Sub-Groups A-E) Access Points
+305:## 11. Size Check
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/browse/browse-04-e2.md
+1:# Browse Abandonment E2 — Cross-Level Email
+12:# ── HALF 1: CREATIVE STRATEGY ──
+14:## 1. Strategic Intent
+20:## 2. Emotional Arc
+40:## 3. R1-R6 Cross-Level Calibration Mapping
+51:## 4. R1-R6 Application Table (Cross-Level Rules per Browse Abandonment)
+62:## 5. Tonality Calibration (per layer-17)
+75:### Voice Rules Active
+87:### Forbidden Phrases Checked Against This Email
+99:## 6. Subject Line Strategy
+107:## 7. Section Structure Design
+138:## 8. Creative Decisions Traceability
+156:# ── HALF 2: FULL EMAIL COPY ──
+160:## Subject Line
+166:## Preview Text
+172:## Email Body
+174:### SECTION 1: Universal Recognition Opener (R1, R2, R3, R4)
+190:### SECTION 2: Three-Family Testimonial Block (R2, R4, R6)
+225:### SECTION 3: Mechanism Reveal (R5)
+239:### SECTION 4: Universal CTA + Permission (V12)
+253:### SECTION 5: Lena Sign-Off (MEDIUM)
+264:### SECTION 6: Migration Anchors (GF Sub-Groups A-E)
+276:## Design Specifications
+300:## Quality Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/browse/browse-04-e3.md
+1:# Browse Abandonment, E3 | Cross-Level
+3:## Metadata
+13:## PART 1, EMAIL COPY
+15:## Subject Line
+20:## Preview Text
+23:## From Name
+28:## Email Body
+30:### Section 1: Hook
+34:### Section 2: Recognition Anchors (R2 / R1 / R3 / R4)
+46:### Section 3: Mechanism Recap
+52:### Section 4: Social Proof, Mini-Wins (R6)
+67:### Section 5: Product Introduction
+73:### Section 6: Guarantee / Risk Reversal
+77:### Section 7: CTA
+85:## Lena Sign-Off
+96:## Footer
+108:## Source Citations
+121:## PART 2, CREATIVE STRATEGY
+123:### The Big Idea
+127:### Layout Architecture
+138:### Custom Illustration / Contraption
+154:### Color Narrative
+171:### Typography as Design
+188:### Decorative Furniture
+197:### Hidden Detail / Easter Egg
+210:### Motion / Animation (GIF)
+228:### Level Calibration (Visual), Cross-Level
+244:## Source Citations (Creative Strategy)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/cart/cart-02-e1.md
+1:# Cart Abandonment — E1 | Cross-Level (R1-R6)
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Hook
+29:### Section 2: Validation — Recognition Anchors (R2)
+32:### Section 3: Mechanism (R1, R4, R5)
+35:### Section 4: Social Proof — Three-Family Testimonial Pattern (R6)
+46:### Section 5: Product Introduction (Gentle, No Push per S2)
+49:### Section 6: Guarantee / Risk Reversal
+52:### Section 7: CTA
+61:## Lena Sign-Off
+69:## Footer
+77:## Source Citations
+94:## Creative Strategy — Visual Direction
+96:### The Big Idea
+99:### Layout Architecture
+108:### Custom Illustration / Contraption
+118:### Color Narrative
+135:### Typography as Design
+155:### Decorative Furniture
+168:### Hidden Detail / Easter Egg
+180:### Motion / Animation (GIF)
+197:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/cart/cart-02-e2.md
+1:# Cart Abandonment — E2 | Cross-Level (R1-R6)
+3:## Metadata
+13:## Subject Line
+18:## Preview Text
+21:## From Name
+26:## Email Body
+28:### Section 1: Hook
+43:### Section 2: Validation
+49:### Section 3: Mechanism
+57:### Section 4: Testimonial / Social Proof
+71:### Section 5: Offer / Product Introduction
+79:### Section 6: Guarantee / Risk Reversal
+83:### Section 7: CTA
+93:## Lena Sign-Off
+106:## Footer
+114:## Source Citations
+130:# PART 2 — CREATIVE STRATEGY
+132:## Creative Strategy — Visual Direction
+134:### The Big Idea
+137:### Layout Architecture
+145:### Custom Illustration / Contraption
+158:### Color Narrative
+167:### Typography as Design
+177:### Decorative Furniture
+187:### Hidden Detail / Easter Egg
+195:### Motion / Animation (GIF)
+203:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/cart/cart-02-e3.md
+1:# BrightKidCo — Cart Abandonment E3 (Cross-Level)
+8:## HALF 1: EMAIL COPY
+12:### Subject Line
+18:### Preview Text
+23:### Email Body
+79:### Subject Line Variants (backup)
+89:## HALF 2: CREATIVE STRATEGY
+93:### 2.1 Purpose & Position
+106:### 2.2 The Core Tension
+117:### 2.3 Section Structure
+145:### 2.4 R1-R6 Compliance Matrix
+158:### 2.5 Brand Voice Compliance
+180:### 2.6 Hope/Realism Ratio & Tone Calibration
+192:### 2.7 "Whether...Or...If..." Pattern Application
+213:### 2.8 Three-Family Testimonial Pattern (GF)
+228:### 2.9 Design & Visual Specifications
+250:### 2.10 Source Cross-Reference Map
+271:### 2.11 Quality Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/checkout/checkout-03-e1.md
+1:# Checkout Abandonment E1 — Cross-Level Email Copy + Creative Strategy
+12:# HALF 1 — EMAIL COPY (COMPLETE EMAIL)
+53:## Three-Family Testimonial Block (GF Inline Insert)
+78:# HALF 2 — CREATIVE STRATEGY
+82:## 1. Strategic Intent
+95:## 2. Emotional Arc
+114:## 3. R1-R6 Cross-Level Calibration Table
+127:## 4. Voice Calibration (Lena's Voice — 
+128:### 4.1 Lena Voice Formula Applied
+137:### 4.2 Non-Negotiable Principles (11-brand-voice-reference.md §4)
+145:### 4.3 Forbidden Words Check (11-brand-voice-reference.md §6.1)
+155:### 4.4 Tonality Calibration Per Level (Layer-17-Tonality-Calibration.md §2)
+164:### 4.5 Forbidden Checkout-Specific Patterns Avoided (Layer-17-Tonality-Calibration.md §3)
+177:## 5. Sub-Group Accommodation (Layer-21-Sub-Groups.md)
+194:## 6. Design & Structure Decisions
+196:### 6.1 Why "Was there a question?" as Subject Line
+202:### 6.2 Preview Text Strategy
+210:### 6.3 Section Structure (2-full-email-copy-strategy.md §1.3)
+223:### 6.4 The "Whether...Or...If..." Pattern
+235:### 6.5 Three-Family Testimonial Pattern (GF)
+247:### 6.6 Guarantee Positioning
+256:### 6.7 CTA Design
+266:## 7. Creative Decision Traceability
+291:## 8. Success Criteria Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/checkout/checkout-03-e2.md
+1:# Checkout Abandonment E2 — Cross-Level Email Copy
+11:# HALF 1 — EMAIL COPY
+15:## FINAL COPY (All Levels)
+61:## ALTERNATIVE SUBJECT LINE OPTIONS
+73:## SUB-GROUP ALTERNATIVE OPENERS
+88:# HALF 2 — CREATIVE STRATEGY
+92:## FLOW CONTEXT
+100:## PURPOSE
+110:## R1-R6 CALIBRATION APPLICATION
+115:## CROSS-LEVEL CALIBRATION DEPTH BY SUB-GROUP
+125:## THE "WHETHER...OR...IF..." PATTERN APPLICATION
+142:## THREE-FAMILY TESTIMONIAL PATTERN APPLICATION
+146:### The Three Testimonials
+154:### Why This Pattern Works Here
+162:## SUBJECT LINE STRATEGY
+179:## LENA VOICE APPLICATION
+198:## EMOTIONAL ARC
+214:## TONALITY CALIBRATION
+226:## CTA FRAMEWORK
+236:## FORBIDDEN PATTERNS — VERIFICATION CHECKLIST
+255:## CONVERSION LEVER SEQUENCE
+269:## MIGRATION PATH INTEGRATION
+277:## CREATIVE DECISIONS — SOURCE TRACEABILITY
+294:## METRICS TO TRACK
+305:## AUDIT TRAIL
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/faq-library/faq-21-e1.md
+1:# FAQ Objection Library — E1 (Cross-Level)
+15:## CREATIVE STRATEGY — R1-R6 Single Visual Direction (Across All 6 Emails)
+17:### Visual Concept: "The Missing Piece"
+61:## EMAIL COPY — FAQ Objection Library E1 (Cross-Level)
+63:### Subject Line Options
+74:### Preheader Options
+82:### Email Body
+190:## PER-LEVEL CALIBRATION NOTE (Internal — Not in Sending Copy)
+192:### How This Email Satisfies All 6 Cross-Level Calibration Rules
+203:### How Each Level Reads This Email
+236:## OBJECTION HANDLING FRAMEWORK — D1: "I've Tried Everything"
+247:## CONVERSION LEVER SEQUENCE
+258:## METRICS TO TRACK
+270:## DESIGN SPECIFICATION
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/faq-library/faq-21-e2.md
+1:# FAQ/Objection Library — Flow 21 · E2 (Cross-Level)
+12:# PART 1 — FULL EMAIL COPY
+83:# PART 2 — CREATIVE STRATEGY
+87:## Big Idea
+93:## Layout Architecture
+143:## Custom Contraption
+156:## Color Narrative
+170:## Typography
+180:## Decorative Furniture
+190:## Hidden Detail
+205:## Motion (If Animated Email / AMP)
+216:## Level Calibration
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/faq-library/faq-21-e3.md
+1:# FAQ/Objection Library, E3 | Cross-Level
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Hook
+34:### Section 2: Validation
+42:### Section 3: Mechanism Reframe
+56:### Section 4: Social Proof / Testimonial
+64:### Section 5: Guarantee / Risk Reversal
+68:### Section 6: CTA
+74:## Lena Sign-Off
+81:## Footer
+88:## Source Citations
+100:## Creative Strategy, Visual Direction
+102:### The Big Idea
+106:### Layout Architecture
+117:### Custom Illustration / Contraption
+131:### Color Narrative
+144:### Typography as Design
+156:### Decorative Furniture
+167:### Hidden Detail / Easter Egg
+179:### Motion / Animation (GIF)
+192:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/faq-library/faq-21-e4.md
+1:# FAQ/Objection Library — E4 (Cross-Level)
+11:## PART 1 — EMAIL COPY
+13:### Subject Line
+16:### Preheader
+21:### EMAIL BODY
+101:### Brand Signature Block (Footer)
+115:## PART 2 — CREATIVE STRATEGY & CROSS-LEVEL CALIBRATION
+117:### 2.1 Objection Architecture
+125:### 2.2 Cross-Level Calibration Map
+144:### 2.3 Copy Decision Log
+158:### 2.4 Level-Specific Sensitivity Notes
+169:### 2.5 Flow Position Context
+180:### 2.6 Proof Points Used
+191:### 2.7 Emotional Arc
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/faq-library/faq-21-e5.md
+1:# FAQ Objection Library — E5 (Cross-Level)
+15:## CREATIVE STRATEGY — R1-R6 Single Visual Direction (Across All 6 Emails)
+17:### Visual Concept: "The Missing Piece"
+73:## EMAIL COPY — FAQ Objection Library E5 (Cross-Level)
+75:### Subject Line Options
+86:### Preheader Options
+94:### Email Body
+216:## PER-LEVEL CALIBRATION NOTE (Internal — Not in Sending Copy)
+218:### How This Email Satisfies All 6 Cross-Level Calibration Rules
+229:### How Each Level Reads This Email
+261:## OBJECTION HANDLING FRAMEWORK
+263:### Objection B2 — "My BCBA has a protocol. I trust that more."
+274:### Objection NEW-2 — School/IEP/Daycare Pull-Up Policy
+283:### Objection B4 — GI/Medical Withholding
+294:## CONVERSION LEVER SEQUENCE
+305:## METRICS TO TRACK
+317:## DESIGN SPECIFICATION
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/faq-library/faq-21-e6.md
+1:# FAQ/Objection Library E6 — Cross-Level Email Copy + Creative Strategy
+12:# HALF 1 — EMAIL COPY (COMPLETE EMAIL)
+121:# HALF 2 — CREATIVE STRATEGY
+125:## 1. Strategic Intent
+135:## 2. Emotional Arc
+149:## 3. Cross-Level Calibration (R1-R6 Verification)
+162:## 4. Section Structure & Content Strategy
+164:### 4.1 Subject Line Strategy
+174:### 4.2 Preview Text Strategy
+182:### 4.3 Section Structure
+197:### 4.4 Emotional Weight Distribution
+211:### 4.5 Product Positioning
+219:## 5. Voice Application
+221:### 5.1 Lena Voice Rules Applied
+237:### 5.2 Approved Phrases Used
+246:### 5.3 Forbidden Phrases Check
+259:## 6. Hope/Realism Balance
+274:## 7. Science Citations
+285:## 8. Creative Decision Traceability
+312:## 9. Success Criteria Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-at-risk/atrisk-23-e1.md
+1:# PP At-Risk E1 (Cross-Level) — "Haven't heard from you. How's it going?"
+10:## PART 1 — FULL EMAIL COPY
+12:### Sender Configuration
+22:### Email Body
+86:### Copy Notes & Source Citations
+105:## PART 2 — FULL CREATIVE STRATEGY
+107:### Big Idea
+115:### Layout Architecture
+131:### Custom Contraption / Illustration
+139:### Color Narrative
+153:### Typography
+169:### Decorative Furniture
+181:### Hidden Detail / Easter Egg
+187:### Motion / Animation
+195:### Level Calibration
+211:### Design Decisions Traceability
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-at-risk/atrisk-23-e2.md
+1:# PP-Support At-Risk E2 (Cross-Level) — Day 3
+10:## PART 1 — FULL EMAIL COPY
+85:### Copy Notes
+102:## PART 2 — FULL CREATIVE STRATEGY
+108:### Big Idea
+116:### Layout Architecture
+153:### Custom Contraption / Illustration
+168:### Color Narrative
+196:### Typography
+227:### Decorative Furniture
+247:### Hidden Detail / Easter Egg
+257:### Motion / Animation
+274:### Level Calibration (R1-R6 — Cross-Level)
+293:### Quality Gate Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-at-risk/atrisk-23-e3.md
+1:# PP-Support At-Risk E3 (Cross-Level) — Day 7
+11:## PART 1 — FULL EMAIL COPY
+15:### 1.1 METADATA
+29:### 1.2 SUBJECT LINE STRATEGY
+41:### 1.3 PREVIEW TEXT
+49:### 1.4 EMAIL BODY — FULL COPY
+109:### 1.5 FOOTER (STANDARD)
+129:### 1.6 SOURCE CITATIONS
+145:## PART 2 — FULL CREATIVE STRATEGY
+149:### 2.1 BIG IDEA
+162:### 2.2 LAYOUT ARCHITECTURE
+254:### 2.3 CUSTOM CONTRAPTION / ILLUSTRATION
+280:### 2.4 COLOR NARRATIVE
+315:### 2.5 TYPOGRAPHY
+339:### 2.6 DECORATIVE FURNITURE
+361:### 2.7 HIDDEN DETAIL / EASTER EGG
+385:### 2.8 MOTION / ANIMATION
+408:### 2.9 LEVEL CALIBRATION (R1-R6)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-at-risk/atrisk-23-e4.md
+1:# PP At-Risk E4 (Cross-Level) — Full Email Copy + Creative Strategy
+12:# PART 1 — FULL EMAIL COPY
+16:## Subject Line Options (S2, Cross-Level)
+28:## From Name & Email
+36:## Email Body
+72:## Lena Sign-Off
+83:## Footer
+94:## Copy Notes & Source Citations
+117:# PART 2 — FULL CREATIVE STRATEGY
+121:## 1. Big Idea
+133:## 2. Layout Architecture
+205:## 3. Custom Contraption / Central Illustration
+232:## 4. Color Narrative
+255:## 5. Typography
+279:## 6. Decorative Furniture
+302:## 7. Hidden Detail / Easter Egg
+316:## 8. Motion / Animation (Email)
+335:## 9. Level Calibration (R1-R6 Cross-Level Analysis)
+403:## Creative Strategy Source Map
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-direct-upsell/upsell-09-e1.md
+1:# PP-Direct Upsell, E1 | Cross-Level
+3:## Metadata
+13:## Part 1, Email Copy
+15:## Subject Line
+20:## Preview Text
+23:## From Name
+28:## Email Body
+30:### Section 1: Hook
+33:### Section 2: Validation / Content
+36:### Section 3: Product Introduction
+39:### Section 4: Guarantee / Risk Reversal
+44:### Section 5: CTA
+53:## Lena Sign-Off
+56:## Footer
+61:## Source Citations
+74:## Part 2, Creative Strategy
+76:## Creative Strategy, Visual Direction
+78:### The Big Idea
+81:### Layout Architecture
+87:### Custom Illustration / Contraption
+93:### Color Narrative
+105:### Typography as Design
+112:### Decorative Furniture
+119:### Hidden Detail / Easter Egg
+127:### Motion / Animation (GIF)
+132:### Level Calibration (Visual)
+140:### Cross-Level Calibration Verification (R1-R6)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-direct-upsell/upsell-09-e2.md
+1:# PP-Direct Upsell — E2 | Cross-Level (R1-R6)
+3:## Metadata
+13:## Subject Line
+18:## Preview Text
+21:## From Name
+26:## Email Body
+28:### Section 1: Hook
+34:### Section 2: Validation
+40:### Section 3: Mechanism Brief (Why This Item Is Different)
+46:### Section 4: Social Proof / Wrap-Around
+52:### Section 5: Product Introduction
+58:### Section 6: Guarantee / Risk Reversal
+62:### Section 7: CTA
+69:## Lena Sign-Off
+77:## Footer
+87:## Source Citations
+100:## Creative Strategy — Visual Direction
+102:### The Big Idea
+108:### Layout Architecture
+117:### Custom Illustration / Contraption
+127:### Color Narrative
+137:### Typography as Design
+147:### Decorative Furniture
+158:### Hidden Detail / Easter Egg
+168:### Motion / Animation (GIF)
+177:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-education/pped-11-d0.md
+1:# PP-Education D0 (Cross-Level) — Flow 11, E1
+8:# PART 1 — FULL EMAIL COPY
+12:## METADATA
+28:## SUBJECT LINE
+36:## PREVIEW TEXT
+44:## EMAIL BODY
+48:### SECTION 1 — HOOK + VALIDATION (Universal "Whether...Or...If..." Opener)
+58:### SECTION 2 — WEEK 1 GUIDE: WHAT TO EXPECT
+72:### SECTION 3 — THREE-FAMILY TESTIMONIAL PATTERN
+86:### SECTION 4 — RECOGNITION ANCHORS (R2 — 3-5 Specific Situations)
+100:### SECTION 5 — TIMELINE FLEXIBILITY (R5) + LOW-BAR SUCCESS (R6)
+126:### SECTION 6 — MECHANISM DEEP DIVE (WHY THIS WORKS)
+134:### SECTION 7 — CTA (Permission-Based)
+150:### LENA SIGN-OFF (Medium)
+163:### FOOTER
+173:## SOURCE CITATIONS
+193:# PART 2 — FULL CREATIVE STRATEGY
+197:## BIG IDEA
+207:## LAYOUT
+227:## CONTRAPTION (Email Architecture)
+249:## COLOR
+273:## TYPOGRAPHY
+294:## FURNITURE (Graphic Elements & UI Components)
+310:## EASTER EGG (Hidden Experience Layer)
+331:## MOTION (Animation Guidelines)
+354:## LEVEL CALIBRATION (R1-R6 Compliance Matrix)
+356:### R1 — SYMPTOM OVER LABEL ✅
+370:### R2 — 3-5 RECOGNITION ANCHORS ✅
+386:### R3 — AGE RANGES OVER FIXED AGES ✅
+399:### R4 — VERBAL / NON-VERBAL INCLUSIVITY ✅
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-education/pped-11-d14.md
+1:# PP Education D14 — Flow 11, Email 3 (Day 14)
+2:## Two-Week Milestone Check-In: Early Wins & Body-Awareness Reinforcement
+12:# PART 1: FULL EMAIL COPY
+16:## Subject Lines (3 Options)
+22:## Preheaders (3 Options)
+30:## Email Body
+108:# PART 2: CREATIVE STRATEGY, R1-R6 CALIBRATION
+112:## 1. R1 — Symptom Over Label: Compliance Map
+131:## 2. R2 — 3-5 Recognition Anchors: Anchor Map
+151:## 3. R3 — Age Ranges Over Fixed Ages: Compliance Map
+167:## 4. R4 — Verbal/Non-Verbal Inclusivity: Compliance Map
+183:## 5. R5 — Timeline Flexibility: Compliance Map
+204:## 6. R6 — Low-Bar Success Metrics: Compliance Map
+227:## 7. "Whether...Or...If..." Inclusive Framing: Application Map
+258:## 8. Three-Family Testimonial Pattern: Full Application
+280:## 9. Emotional Arc
+326:## 10. CTA Framework
+354:## 11. Forbidden Language Audit
+379:## 12. Lena Voice Compliance
+396:## 13. Send Timing & Placement
+412:## 14. Metrics & Success Criteria
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-education/pped-11-d21.md
+1:# PP-Education D21 (Flow 11, Email 4) — "Three-Week Check-In"
+7:## PART 1 — EMAIL COPY
+97:## PART 2 — CREATIVE STRATEGY
+99:### 2.1 Email Positioning
+112:### 2.2 R1-R6 Calibration Check
+123:### 2.3 "Whether...Or...If..." Pattern Application
+135:### 2.4 Three-Family Testimonial Pattern (GF Inclusion)
+147:### 2.5 GF Sub-Group Compatibility
+157:### 2.6 Sign-Off Rationale
+163:### 2.7 Extended Upsell Setup
+176:### 2.8 Forbidden Language Check
+192:### 2.9 Tone & Energy Calibration
+204:### 2.10 Subject Line Rationale
+214:### 2.11 Section Map
+252:### 2.12 Success Metrics
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-education/pped-11-d7.md
+1:# PP-Education E2 — Day 7 (Flow 11, Cross-Level)
+12:# PART 1: FULL EMAIL COPY
+16:## Subject Line (1 Option, Cross-Level)
+24:## Preheader
+30:## Email Body
+109:# PART 2: CREATIVE STRATEGY
+113:## 2.1 Cross-Level Calibration (R1-R6 Satisfaction Table)
+126:## 2.2 Tonality Calibration by Level
+137:### Per-Level Forbidden Language Checks
+154:## 2.3 Emotional Arc
+180:## 2.4 Subject Line Strategy
+193:## 2.5 CTA Strategy
+206:## 2.6 GF Strategy — Three-Family Testimonial Pattern
+224:## 2.7 Mini-Win Tracking (Set Up for Weeks 2-4)
+242:## 2.8 Lena Sign-Off Strategy (MEDIUM Variant)
+268:## 2.9 Flow Architecture Compliance Check
+284:## 2.10 Forbidden Pattern Audit
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e1-gf.md
+1:# PP-Extended Education — E1-GF (Inclusive)
+10:# PART 1 — FULL EMAIL COPY
+14:## Subject Line
+27:## Email Body
+91:## Footer
+98:## Copy Notes
+115:# PART 2 — CREATIVE STRATEGY
+124:## 1. Big Idea
+134:## 2. Layout Architecture
+136:### 2.1 Email Template Type
+140:### 2.2 Structural Sequence
+191:### 2.3 Responsive Behavior
+200:## 3. Custom Contraption / Illustration
+202:### 3.1 Primary Illustration: "The Body-Signal Highway"
+214:### 3.2 Secondary Illustration: "Signal Comparison"
+228:### 3.3 Product Illustration
+236:## 4. Color Narrative
+238:### 4.1 Brand Color Palette (BrightKidCo Standards)
+251:### 4.2 Dark Mode Adaptations
+263:### 4.3 Color Narrative Arc
+269:## 5. Typography
+271:### 5.1 Font Stack
+278:### 5.2 Typography Scale
+291:### 5.3 Line Length
+297:### 5.4 Typography Mood
+303:## 6. Decorative Furniture
+305:### 6.1 Line Breaks / Section Dividers
+312:### 6.2 Callout Box Styling
+320:### 6.3 Button Design
+332:### 6.4 Bullet / Indicator Styling
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e1-l1.md
+1:# PP-Extended Education — E1 | Level 1 (Sarah)
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Hook
+34:### Section 2: Validation
+42:### Section 3: Mechanism — The Interoception Pathway
+50:### Section 4: Social Proof / Testimonial
+56:### Section 5: Product Introduction
+62:### Section 6: Guarantee / Risk Reversal
+66:### Section 7: CTA
+71:## Lena Sign-Off
+81:## Footer
+90:## Source Citations
+101:## Creative Strategy — Visual Direction
+103:### The Big Idea
+107:### Layout Architecture
+123:### Custom Illustration / Contraption
+137:### Color Narrative
+152:### Typography as Design
+166:### Decorative Furniture
+180:### Hidden Detail / Easter Egg
+192:### Motion / Animation (GIF)
+208:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e1-l2.md
+1:# PP-Extended Education E1 (D22) — L2 (Lisa)
+2:## "The 6-Element Formula in Practice: Naming Failed Methods, Mechanism Depth, BCBA Alignment"
+14:## PART 1 — FULL EMAIL COPY
+81:## PART 2 — CREATIVE STRATEGY (L2-Calibrated)
+85:### 2.1 Tone & Voice Calibration
+99:### 2.2 The 6-Element Formula Compliance Check
+112:### 2.3 Subject Line Strategy
+124:### 2.4 CTA Architecture
+135:### 2.5 Visual & Design Strategy (L2-Calibrated)
+191:### 2.6 Proof Point Distribution
+207:### 2.7 Objections Pre-Emptively Handled
+217:### 2.8 Lena Voice Compliance Check
+230:### 2.9 Forbidden Language Check (L2-Specific)
+244:### 2.10 Science Citations
+251:### 2.11 Mobile Rendering Notes
+262:### 2.12 Success Metrics
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e1-l3.md
+1:# PP-Extended Education E1 (D22) — L3 Maria
+2:## "The gentle path: body-signal learning alongside dignity-centered care."
+12:# PART 1: FULL EMAIL COPY
+16:## SECTION 1: HOOK / OBSERVATION
+28:## SECTION 2: VALIDATION
+40:## SECTION 3: MECHANISM / EDUCATION
+54:## SECTION 4: TESTIMONIAL / SOCIAL PROOF
+68:## SECTION 5: PRODUCT / OFFER (Gentle Reframe)
+82:## SECTION 6: GUARANTEE / RISK REMOVAL
+90:## SECTION 7: CTA
+100:## SECTION 8: LENA SIGN-OFF
+114:# PART 2: CREATIVE STRATEGY — L3 CALIBRATION
+118:## 2.1 Design & Visual Treatment
+131:## 2.2 Tonality Calibration
+146:## 2.3 Forbidden Word Audit
+163:## 2.4 L3-Specific Rules (Enforcement Check)
+180:## 2.5 Subject Line
+190:## 2.6 Emotional Arc (PP-Extended Education E1)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e2-gf.md
+1:# PP-Extended Education E2 (D29) — GF (General Family / Inclusive)
+3:## "Body-Signal Tracking: How to Document and Recognize Growing Awareness — For Every Child's Timeline"
+13:# PART 1 — FULL EMAIL COPY
+35:## The Plateau Nobody Warns You About
+49:## What's Actually Happening During the Plateau
+59:## What Awareness Actually Looks Like (The Small Signs)
+81:## The Tracking System That Actually Helps
+101:## When the Plateau Ends
+115:## Wherever You Are, You're Not Behind
+138:## Footer
+151:# PART 2 — CREATIVE STRATEGY
+155:## 2.1 Email Architecture
+165:## 2.2 The 6-Element Formula Verification
+176:## 2.3 GF Calibration Check
+190:## 2.4 Cross-Level Calibration (R1-R6) Verification
+201:## 2.5 Proof Point Hierarchy Applied
+212:## 2.6 Emotional Lever Activation (5 GF Sub-Groups)
+222:## 2.7 Objection Handling (GF)
+232:## 2.8 Big Idea
+236:## 2.9 Layout Architecture
+249:## 2.10 Custom Contraption / Illustration
+274:## 2.11 Color Narrative
+289:## 2.12 Typography
+305:## 2.13 Decorative Furniture
+316:## 2.14 Hidden Detail / Easter Egg
+328:## 2.15 Motion / Animation
+337:## 2.16 Level Calibration Summary
+350:## 2.17 Lena Sign-Off Variant Used
+363:## 2.18 Creative Decisions Traceable to Design Reference
+379:## 2.19 Science Integrity Notes
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e2-l1.md
+1:# PP-Extended Education — E2 (D29) | L1 Sarah
+2:# "Advanced body-signal tracking: how to document and recognize growing awareness."
+12:## PART 1: FULL EMAIL COPY
+16:### Subject Line
+19:### Preheader
+24:### Body
+96:### Offer Block
+104:## PART 2: CREATIVE STRATEGY
+108:### 2.1 Email Purpose & Position in Flow
+119:### 2.2 L1 Messaging Calibration
+131:### 2.3 Section-by-Section Strategy
+145:### 2.4 Copy Architecture
+166:### 2.5 L1 Visual Calibration — Design Notes
+183:### 2.6 Level-Specific Emotional Levers Deployed
+192:### 2.7 Objection Handling
+201:### 2.8 Proof Points Deployed
+210:### 2.9 Sign-Off Selection
+228:### 2.10 Subject Line Alternatives
+237:### 2.11 Success Metrics
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e2-l2.md
+1:# PP-Extended Education E2 (D29) — L2 (Lisa)
+2:## "Interoception Deep Dive: The Nicholson 2019 Study and What It Means for Your Child's Learning Timeline"
+12:# PART 1 — FULL EMAIL COPY
+32:## What Nicholson et al. 2019 Actually Found
+35:## What Nicholson et al. 2019 Actually Found
+47:## What This Means for Your Child's Learning Timeline
+49:### 1. The current delay is developmental, not fixed.
+53:### 2. External feedback is the missing piece.
+57:### 3. Weeks 4-8 are the neural-rewiring window.
+68:### 4. Prompt-dependency will fade as the internal signal grows.
+74:## Your BCBA and the BSL Layer — Partners, Not Competitors
+90:## Where Your Child Is Right Now Is Normal
+100:## The 60-Day Guarantee Still Stands
+126:# PART 2 — CREATIVE STRATEGY
+130:## 2.1 Email Architecture
+139:## 2.2 The 6-Element Formula Verification
+150:## 2.3 L2 Calibration Check
+163:## 2.4 Proof Point Hierarchy Applied
+173:## 2.5 Emotional Lever Activation
+181:## 2.6 Objection Handling
+189:## 2.7 Part 2 — Creative Direction for Follow-Up (E3, D36)
+191:### E3 (D36) — "Prompt-Dependency Reversal: Strategies for Fading Adult Cues While Building Internal Signals"
+214:## 2.8 Lena Sign-Off Variant Used
+223:## 2.9 Science Integrity Notes
+233:## 2.10 Output Metadata
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e2-l3.md
+1:# PP-Extended Education E2 (D29) — Level 3 (Maria)
+2:## Understanding Hypo-Responsiveness: Why Your Child Doesn't Register Wetness and How BSL Helps
+14:## PART 1: EMAIL COPY
+18:### Section 1 — Hook
+32:### Section 2 — Validation
+48:### Section 3 — Mechanism
+60:### Section 4 — What This Changes
+76:### Section 5 — Product (After Mechanism)
+88:### Section 6 — CTA
+98:### Lena Sign-Off
+111:### Subject Line Options
+124:### Preview Text
+132:## PART 2: CREATIVE STRATEGY
+136:### 2.1 Strategic Purpose
+144:### 2.2 Emotional Arc
+166:### 2.3 L3 Calibration Rules Applied
+186:### 2.4 Section Weight Breakdown (L3 Calibration)
+201:### 2.5 Proof Points Used
+216:### 2.6 Alternative Subject Line Strategy
+228:### 2.7 Risk Mitigation
+240:### 2.8 Success Metrics (L3-Specific)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e3-gf.md
+1:# PP-Extended Education E3 — GF (Inclusive) — Day 36
+11:# PART 1: FULL EMAIL COPY
+15:## Metadata
+31:## Email Body
+120:## Source Citations
+138:# PART 2: FULL CREATIVE STRATEGY
+142:## 1. Big Idea
+156:## 2. Layout Architecture
+158:### Email Structure (Z-Pattern Scan, Mobile-First)
+247:## 3. Custom Contraption / Illustration
+249:### Primary Illustration: "The Invisible Bridge"
+276:## 4. Color Narrative
+278:### Per-Section Color Map
+303:## 5. Typography
+305:### Font Stack (from BrightKidCo design tokens — Layer 32)
+318:### Typographic Hierarchy (vertical)
+346:## 6. Decorative Furniture
+348:### Section Transition Bands
+351:### Signature "Sticker" Card Effect
+357:### Letter Opening Embellishment
+360:### Micro-Signal Icons Strip
+363:### CTA Island
+370:### Decorative Flourish on Sign-Off
+375:## 7. Hidden Detail / Easter Egg
+379:### Implementation
+405:## 8. Motion / Animation
+407:### For HTML Email (Animated GIF / CSS-limited)
+436:## 9. Level Calibration
+438:### GF (General Family) — Inclusive Paradigm
+457:### GF Sub-Group Mapping
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e3-l1.md
+1:# PP-Extended Education E3 (D36) — L1 (Sarah)
+11:# PART 1 — FULL COPY
+15:## Subject Line
+21:## Preview Text
+27:## Body
+69:## CTA Line
+75:## Sign-Off
+86:## Recommended Offer Placement
+96:# PART 2 — CREATIVE STRATEGY
+100:## 1. Strategic Purpose
+112:## 2. Emotional Arc
+146:## 3. Section Structure & Rationale
+162:## 4. L1 Calibration Checklist ✅
+181:## 5. Proof Points & Citations
+192:## 6. Subject Line Rationale
+205:## 7. CTA Strategy
+218:## 8. Success Metrics (Per L1 Segment for This Email)
+230:## 9. Cross-Reference
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e3-l2.md
+1:# CP-094: PP-Extended Education E3 (D36) — L2 (Lisa)
+11:## PART 1 — FULL COPY (S2 Expanded)
+13:### Subject Line
+25:### Body Copy
+156:## PART 2 — CREATIVE STRATEGY
+158:### 2.1 Email Objective
+169:### 2.2 Emotional Arc
+190:### 2.3 L2 6-Element Verification
+201:### 2.4 Forbidden Language Compliance Check
+214:### 2.5 Proof Point Distribution
+224:### 2.6 Visual / Design Notes
+232:### 2.7 CTA Strategy
+242:### 2.8 Part 2 vs Part 1 Differentiation
+252:### 2.9 Success Metrics
+262:### 2.10 Fallback / Alternative Approach
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e3-l3.md
+1:# PP-Extended Education E3 (D36) — L3 Maria
+2:## "Small signs that matter: the micro-wins tracking system"
+13:## PART 1 — EMAIL COPY (L3 Maria)
+15:### Content Blocks
+19:#### PREHEADER (Invisible)
+24:#### SUBJECT LINE
+29:#### BODY COPY
+108:### Lena Sign-Off (Medium Variant — L3 Calibrated)
+114:### Subject Line Variants (A/B)
+122:## PART 2 — CREATIVE STRATEGY
+124:### Strategy Rationale
+166:### Part 2: Creative Approach
+192:## Verification Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e4-gf.md
+1:# PP-Extended Education E4 — GF (Inclusive)
+12:## PART 1 — FULL EMAIL COPY
+16:### Subject Line (S2 Pattern)
+26:### Preview Text
+32:### From Name
+38:### Email Body
+111:### Lena Sign-Off (Medium — Phase 3 Variant)
+122:### Footer
+135:### Source Citations Used
+149:## PART 2 — CREATIVE STRATEGY
+153:### 1. Big Idea
+163:### 2. Layout Architecture
+237:### 3. Custom Contraption / Illustration
+260:### 4. Color Narrative
+284:### 5. Typography
+309:### 6. Decorative Furniture
+325:### 7. Hidden Detail / Easter Egg
+343:### 8. Motion / Animation
+374:### 9. Level Calibration — GF (Inclusive)
+406:### Creative Decisions — Traceability to Design Reference
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e4-l1.md
+1:# PP-Extended Education E4 (D43) — L1 (Sarah)
+2:# "When and how to reduce prompting and build independence."
+11:## PART 1 — FULL EMAIL COPY
+19:### Email Body
+80:## PART 2 — CREATIVE STRATEGY WITH L1 CALIBRATION
+82:### 2.1 Strategic Context
+93:### 2.2 Messaging Architecture
+108:### 2.3 L1 Calibration Details
+124:### 2.4 Forbidden Language Compliance Check
+137:### 2.5 Proof Point Distribution
+147:### 2.6 Subject Line Alternatives
+155:### 2.7 Emotional Arc Alignment
+173:### 2.8 Key Sources Cross-Reference
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e4-l2.md
+1:# PP-Extended Education E4 — Level 2 (Lisa)
+12:## PART 1 — FULL EMAIL COPY
+14:### Subject Line (S2 Pattern: Mechanism Tease with Science Anchor)
+22:### Preview Text
+26:### From Name
+30:### From Email
+36:### Email Body
+118:### Footer
+126:### Source Citations Documented
+139:## PART 2 — FULL CREATIVE STRATEGY
+141:### Big Idea
+151:### Layout Architecture
+210:### Custom Contraption / Illustration
+229:### Color Narrative
+245:### Typography
+262:### Decorative Furniture
+277:### Hidden Detail / Easter Egg
+304:### Motion / Animation (Email Applies on Load)
+316:### Level Calibration (L2-Specific Creative Decisions)
+330:### Creative Decisions Traceable to Design Reference
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e4-l3.md
+1:# PP-Extended Education E4, L3 (Maria)
+3:## Growing Bodies, Growing Awareness: Transitioning Through Adolescence with Dignity
+11:# PART 1, FULL EMAIL COPY
+65:## Source Citations
+78:# PART 2, FULL CREATIVE STRATEGY
+82:## Big Idea
+90:## Layout Architecture
+154:## Custom Contraption / Illustration
+174:## Color Narrative
+204:## Typography
+238:## Decorative Furniture
+256:## Hidden Detail / Easter Egg
+279:## Motion / Animation
+307:## Level Calibration
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e5-gf.md
+1:# BrightKidCo, PP-Extended Education E5 (D50)
+2:## Level: GF (General Fallback, Inclusive)
+14:# PART 1, FULL EMAIL COPY
+18:## Subject Line (S2 GF Pattern)
+30:## Preview Text
+36:## From Name
+43:## Email Body
+61:### The part nobody tells you
+75:### What the science actually shows about continued learning
+85:### You don't have to track this alone
+97:### What "next steps" looks like for GF families
+111:### You're doing more than you think
+123:### [Button: "Continue the body-signal journey, explore the community"]
+157:### Source Citations for Key Claims
+170:# PART 2, FULL CREATIVE STRATEGY
+174:## Big Idea
+182:## Layout Architecture
+199:## Custom Contraption / Illustration
+216:## Color Narrative
+236:## Typography
+256:## Decorative Furniture
+270:## Hidden Detail / Easter Egg
+284:## Motion / Animation
+299:## Level Calibration, GF (General Fallback)
+317:## Source Cross-Reference Index
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e5-l1.md
+1:# PP-Extended Education — E5 (D50): Sarah (L1)
+2:## Flow 22: PP-Extended Education | Level 1 | Day 50 Post-Purchase
+10:# PART 1 — FULL EMAIL COPY
+14:## Email Metadata
+23:## Email Body
+114:# PART 2, CREATIVE STRATEGY
+118:## 1. Big Idea
+126:## 2. Layout Architecture
+171:## 3. Custom Contraption / Illustration
+190:## 4. Color Narrative
+217:## 5. Typography
+243:## 6. Decorative Furniture
+260:## 7. Hidden Detail / Easter Egg
+280:## 8. Motion / Animation
+296:## 9. Level Calibration
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e5-l2.md
+1:# PP-Extended Education E5-L2 (Lisa): When Progress Plateaus
+2:## Troubleshooting & Recovery Protocols
+25:# PART 1 — FULL EMAIL COPY
+29:### FROM NAME
+32:### FROM EMAIL
+35:### SUBJECT LINE
+42:### PREVIEW TEXT
+47:### EMAIL BODY
+78:### The Three Most Common L2 Plateaus — And How to Navigate Each
+143:### FOOTER
+153:# PART 2 — FULL CREATIVE STRATEGY
+157:## 1. BIG IDEA
+168:## 2. LAYOUT ARCHITECTURE
+170:### Email Frame
+175:### Section Breakdown (Top to Bottom)
+271:## 3. CUSTOM CONTRAPTION / ILLUSTRATION
+273:### Illustration 1: "The Brain Road" — Neural Pathway Metaphor
+282:### Illustration 2: "The Signal-Timing Diagram" — Sensory Processing Visualization
+301:## 4. COLOR NARRATIVE
+303:### Primary Palette
+315:### Color Narrative Rationale
+324:## 5. TYPOGRAPHY
+326:### Primary Font Stack
+336:### Typography Rationale
+347:## 6. DECORATIVE FURNITURE
+349:### Divider Lines
+354:### Card Containers
+362:### CTA Button Style
+370:### Background Texture
+376:## 7. HIDDEN DETAIL / EASTER EGG
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-ed/pped-22-e5-l3.md
+1:# PP-Extended Education E5-L3 (Maria)
+2:## Flow 22 — Deep Education for Engaged Long-Term Users
+3:## "Building community: connecting with other L3 parents who understand"
+13:## PART 1 — FULL EMAIL COPY
+15:### Email Metadata
+27:### Email Body
+57:### Lena Sign-Off (Medium-Long variant)
+67:### Footer
+84:### Copy Notes & Source Citations
+100:## PART 2 — FULL CREATIVE STRATEGY
+104:### Big Idea
+112:### Layout Architecture
+129:### Custom Contraption / Illustration
+143:### Color Narrative
+169:### Typography
+190:### Decorative Furniture
+202:### Hidden Detail / Easter Egg
+212:### Motion / Animation
+223:### Level Calibration — L3 (Maria)
+244:### Creative Strategy Sources
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-upsell/ppupsell-12-e1.md
+1:# PP Extended Upsell — E1 (D28): Bundle Upgrade
+11:# PART 1 — EMAIL COPY
+15:## Subject Line (Primary)
+20:## Subject Line (Alternative 1)
+25:## Subject Line (Alternative 2)
+30:## Preheader (Primary)
+33:## Preheader (Alternative 1)
+36:## Preheader (Alternative 2)
+41:## Email Body
+129:## Offer Table by Purchase Tier
+145:# PART 2 — CREATIVE STRATEGY
+149:## Flow Overview
+161:## Section Architecture
+168:## Emotional Arc
+176:## R1-R6 Calibration — Full Verification
+178:### R1: Symptom Over Label ✅
+184:### R2: 3-5 Recognition Anchors ✅
+191:### R3: Age Ranges ✅
+196:### R4: Verbal/Non-Verbal Inclusivity ✅
+202:### R5: Timeline Flexibility ✅
+209:### R6: Low-Bar Success Metrics ✅
+216:## Three-Family Testimonial Pattern — Application ✅
+228:## "Whether...Or...If..." Inclusive Framing ✅
+236:## Tonality Calibration by Level
+249:## Forbidden Language Check ✅
+269:## Offer Compliance by Level
+278:## CTA Compliance
+290:## Lena Sign-Off Compliance
+297:## Cross-Reference to Source Documents
+320:## Success Criteria Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-upsell/ppupsell-12-e2.md
+1:# PP-Extended Upsell E2 (Cross-Level), Flow 12, Day 35
+8:## PART 1, EMAIL COPY
+10:### Subject Line (3 options)
+18:### Preheader (3 options)
+28:### Email Body
+124:## PART 2, CREATIVE STRATEGY
+126:### 2.1 Flow Position & Context
+140:### 2.2 Goal & Primary Objective
+152:### 2.3 Emotional Arc
+178:### 2.4 Level-Specific Calibration (R1-R6 Cross-Level Rules)
+180:#### R1, Symptom Over Label ✅
+187:#### R2, 3-5 Recognition Anchors ✅
+194:#### R3, Age Ranges Over Fixed Ages ✅
+199:#### R4, Verbal/Non-Verbal Inclusivity ✅
+207:#### R5, Timeline Flexibility ✅
+213:#### R6, Low-Bar Success Metrics ✅
+220:### 2.5 Three-Family Testimonial Pattern
+232:### 2.6 "Whether...Or...If..." Inclusive Pattern
+245:### 2.7 Offer Architecture
+257:### 2.8 Objection Handling (Inline)
+267:### 2.9 CTA Strategy
+278:### 2.10 Voice Calibration
+294:### 2.11 Forbidden Language Audit
+312:### 2.12 Proof Points Used
+321:### 2.13 Subject Line Analysis
+331:### 2.14 R1-R6 Compliance Summary
+342:### 2.15 GF Sub-Group Compatibility
+352:### 2.16 Version History
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-extended-upsell/ppupsell-12-e3.md
+1:# PP-Extended Upsell E3 (Flow 12, Email 3) — Day 60
+11:# PART 1 — EMAIL COPY
+15:## Subject Lines (3 Options)
+21:## Preheaders (3 Options)
+29:## Email Body
+139:# PART 2 — CREATIVE STRATEGY
+143:## 1. Email Positioning within Flow 12
+158:## 2. Emotional Arc
+191:## 3. R1-R6 Cross-Level Calibration Table
+204:## 4. Level-Specific Copy Calibration Details
+206:### Level 1 (Sarah)
+216:### Level 2 (Lisa)
+226:### Level 3 (Maria)
+235:### General Fallback (GF)
+247:## 5. Subject Line Strategy
+259:## 6. Preheader Strategy
+271:## 7. Lena Sign-Off Strategy
+287:## 8. Offer Architecture
+299:## 9. Conversion Levers Activated
+313:## 10. Success Metrics
+327:## 11. Cross-Level Compliance Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-level-detection/detection-10.md
+1:# PP-Level Detection — E1 | Cross-Level (GF Only)
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Hook
+33:### Section 2: Validation
+38:### Section 3: Mechanism
+43:### Section 4: Help Us Help You (The Detection Moment)
+56:### Section 5: Guarantee / Risk Reversal
+59:### Section 6: CTA
+63:## Lena Sign-Off
+70:## Footer
+77:## Source Citations
+90:## Creative Strategy — Visual Direction
+92:### The Big Idea
+95:### Layout Architecture
+103:### Custom Illustration / Contraption
+111:### Color Narrative
+121:### Typography as Design
+129:### Decorative Furniture
+138:### Hidden Detail / Easter Egg
+150:### Motion / Animation (GIF)
+156:### Level Calibration (Visual)
+169:## Source Citations (Creative Strategy)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-level-detection/pp-leveldetect-01-e1.md
+1:# PP Level Detection E1 (Flow 14, Email 1)
+11:## PART 1, FULL EMAIL COPY
+15:### METADATA
+30:### SUBJECT LINE
+38:### PREVIEW TEXT
+45:### EMAIL BODY
+107:### SOURCE CITATIONS
+120:## PART 2, FULL CREATIVE STRATEGY
+124:### BIG IDEA
+134:### LAYOUT
+151:### CONTRAPTION
+176:### COLOR
+192:### TYPOGRAPHY
+204:### LEVEL CALIBRATION (R1-R6)
+217:### POST-PURPOSE
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-mary-story/mary-14-e1.md
+1:# PP-Mary S. Story — Flow 14, E1 (Cross-Level)
+10:# PART 1: EMAIL COPY
+14:## Subject Line: "Why I built BrightKidCo — Mary S."
+15:## Preheader: It wasn't a business idea. It was a morning that changed everything.
+19:### OPENER — The Universal Symptom Hook
+35:### MARY'S STORY — The Beginning
+49:### THE MOMENT — The Realization That Changed Everything
+61:### THE DISCOVERY — The Missing Piece
+75:### THE CONNECTION — Different Families, Same Gap
+94:### THE INVITATION — You're Already On the Journey
+112:### CLOSING — The Shared Mission
+128:### P.S.
+134:# PART 2: CREATIVE STRATEGY
+138:## 1. Flow Specification Overview
+155:## 2. Cross-Level Calibration — R1-R6 Application
+157:### R1 — Symptom Over Label ✅
+165:### R2 — 3-5 Recognition Anchors ✅
+181:### R3 — Age Ranges Over Fixed Ages ✅
+190:### R4 — Verbal/Non-Verbal Inclusivity ✅
+201:### R5 — Timeline Flexibility ✅
+217:### R6 — Low-Bar Success Metrics ✅
+236:## 3. The "Whether...Or...If..." Pattern Application
+240:### Structural Level 1 — The Opener (Universal Framing)
+246:### Structural Level 2 — The Connection Section & Closing
+256:### GF Sub-Group Coverage
+268:## 4. Three-Family Testimonial Pattern for GF Inclusion
+270:### How It's Applied
+274:### The Three Anchors
+282:### Three-Family Integration in Founder Narrative
+294:## 5. Voice Strategy — Mary S. (Founder)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-mid-checkin/mid-13-d30.md
+1:# PP Mid Check-In D30, Flow 13, Email 1
+13:# PART 1, FULL EMAIL COPY
+17:## SUBJECT LINE
+24:## PREVIEW TEXT
+32:## EMAIL BODY
+34:### SECTION 1, HOOK (Observation + Universal Recognition)
+48:### SECTION 2, RECOGNITION ANCHORS (R2, 3-5 Specific Situations)
+66:### SECTION 3, VALIDATION (R1, Symptom Over Label)
+82:### SECTION 4, MECHANISM (R5, Timeline Flexibility)
+102:### SECTION 5, THREE-FAMILY TESTIMONIAL PATTERN (GF Inclusion)
+124:### SECTION 6, MINI-WIN GUIDE (R6, Low-Bar Success Metrics)
+147:### SECTION 7, PRACTICAL TIPS (R4, Verbal/Non-Verbal Inclusivity)
+159:### SECTION 8, CTA (Permission Frame)
+176:### LENA SIGN-OFF
+189:### FOOTER
+200:### SOURCE CITATIONS
+228:# PART 2, FULL CREATIVE STRATEGY
+232:## BIG IDEA
+242:## LAYOUT
+279:## CONTRAPTION
+296:## COLOR
+321:## TYPOGRAPHY
+345:## FURNITURE
+399:## EASTER EGG
+411:## MOTION
+431:## LEVEL CALIBRATION, R1-R6 VERIFICATION
+433:### R1, Symptom Over Label ✅
+444:### R2, 3-5 Recognition Anchors ✅
+458:### R3, Age Ranges Over Fixed Ages ✅
+468:### R4, Verbal/Non-Verbal Inclusivity ✅
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-mid-checkin/mid-13-d45.md
+1:# PP Mid Check-In D45, Check-In E2 (Flow 13, Day 45)
+11:## PART 1, FULL EMAIL COPY
+15:### METADATA
+30:### SUBJECT LINE
+40:### PREVIEW TEXT
+49:### EMAIL BODY
+165:### SOURCE CITATIONS
+182:## PART 2, FULL CREATIVE STRATEGY
+186:### BIG IDEA
+196:### LAYOUT
+222:### CONTRAPTION (Email Contraption / Build System)
+261:### COLOR
+283:### TYPOGRAPHY
+298:### FURNITURE (Design Elements / Accents)
+320:### EASTER EGG / RECOGNITION ANCHOR
+332:### MOTION (Animation / Interaction)
+345:### LEVEL CALIBRATION (R1-R6 CROSS-LEVEL COMPLIANCE)
+358:### FORBIDDEN LANGUAGE VERIFICATION
+380:### HOPE/REALISM BALANCE (50/50 FOR CROSS-LEVEL)
+395:### POST-PURCHASE MID STAGE COMPLIANCE
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/pp-mid-checkin/mid-13-d60.md
+1:# PP-Mid Check-In E3 — Day 60 (Cross-Level)
+20:# PART 1: FULL EMAIL COPY
+22:## Metadata
+38:## Subject Line
+46:## Preview Text
+52:## Email Body
+151:## Lena Sign-Off (LONG Variant)
+167:## Footer
+181:## Source Citations
+199:# PART 2: FULL CREATIVE STRATEGY
+201:## Big Idea
+213:## Layout
+280:## Contraption (Mechanism Integration)
+297:## Color
+312:## Typography
+331:## Furniture
+347:## Easter Eggs
+361:## Motion (Animation Strategy)
+379:## Level Calibration — R1-R6 Compliance Matrix
+381:### R1: Symptom Over Label ✅
+393:### R2: 3-5 Recognition Anchors ✅
+407:### R3: Age Ranges Over Fixed Ages ✅
+417:### R4: Verbal / Non-Verbal Inclusivity ✅
+430:### R5: Timeline Flexibility ✅
+444:### R6: Low-Bar Success Metrics ✅
+460:### Cross-Level Hope/Realism Ratios ✅
+469:### Forbidden Language Check ✅
+491:## GF Sub-Group Calibration
+503:## Offer Architecture
+515:## Metrics & Success Criteria
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/replenish-a/repa-15-e1.md
+1:# BrightKidCo — Replenish A E1 (Flow 15, Email 1)
+8:# PART 1: FULL EMAIL COPY
+12:## METADATA
+31:## SUBJECT LINE
+38:## PREVIEW TEXT
+44:## BODY
+101:## LENA SIGN-OFF
+114:## FOOTER
+121:## SOURCE CITATIONS
+143:# PART 2: FULL CREATIVE STRATEGY (R1-R6 Calibrated)
+147:## BIG IDEA
+157:## LAYOUT
+173:## CONTRAPTION (Design Mechanism)
+181:## COLOR
+198:## TYPOGRAPHY
+215:## FURNITURE (Supporting Elements)
+233:## EASTER EGG
+241:## MOTION (Email Animation)
+257:## LEVEL CALIBRATION (R1-R6 Verification)
+268:## CROSS-LEVEL FORBIDDEN LANGUAGE CHECK
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/replenish-a/repa-15-e2.md
+1:# Replenish A E2, Flow 15 · Email 2 (D21)
+10:## PART 1, FULL EMAIL COPY
+14:### METADATA
+30:### SUBJECT LINE
+40:### PREVIEW TEXT
+50:### BODY
+135:### LENA SIGN-OFF (Short Variant)
+147:### FOOTER
+156:### SOURCE CITATIONS
+187:## PART 2, FULL CREATIVE STRATEGY
+191:### R1-R6 CALIBRATION TABLE
+206:### BIG IDEA
+216:### LAYOUT (Desktop & Mobile)
+276:### CONTRAPTION (Interactive Element)
+291:### COLOR PALETTE
+307:### TYPOGRAPHY
+326:### FURNITURE (Supporting Design Elements)
+360:### EASTER EGG (Subtle Brand Detail)
+378:### MOTION / ANIMATION
+392:### LEVEL CALIBRATION (Cross-Level Analysis)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/replenish-a/repa-15-e3.md
+1:# CP-061: Replenish A E3 (Cross-Level) — Flow 15, Email 3
+9:## PART 1: FULL EMAIL COPY
+13:### METADATA
+27:### SUBJECT LINE (12 chars)
+36:### PREVIEW TEXT
+44:### BODY
+113:### CTA
+130:### LENA SIGN-OFF (Medium variant — Email 3 of 3 in flow)
+141:### FOOTER
+151:### SOURCE CITATIONS
+180:## PART 2: FULL CREATIVE STRATEGY
+184:### BIG IDEA
+192:### LAYOUT
+207:### CONTRAPTION
+218:### COLOR
+234:### TYPOGRAPHY
+250:### FURNITURE (UI Elements & Decorations)
+267:### EASTER EGG
+278:### MOTION (Email Animation — Limited)
+290:### LEVEL CALIBRATION (R1-R6 Compliance Check)
+313:### DESIGN NOTES & EDGE CASES
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/replenish-b/repb-16-e1.md
+1:# Replenish B E1, "75-Day Rotation Check-In"
+14:# PART 1, FULL EMAIL COPY
+16:## Metadata
+32:## Subject Line
+42:## Preview Text
+51:## Email Body
+53:### SECTION 1, The "Whether...Or...If..." Opener (Observation + Recognition Anchors)
+63:### SECTION 2, Recognition Anchors Block (R2: 3-5 anchors)
+79:### SECTION 3, The Three-Family Testimonial Pattern (GF Inclusion)
+98:### SECTION 4, Validation + Mechanism Reframe
+114:### SECTION 5, The Rotation Value (Product Context)
+124:### SECTION 6, Low-Pressure CTA
+141:## Lena Sign-Off (Short, E1 in Flow)
+156:## Footer
+172:## Source Citations
+196:# PART 2, FULL CREATIVE STRATEGY
+198:## Big Idea
+210:## Layout
+298:## Contraption
+322:## Color
+347:## Typography
+368:## Furniture (Decorative Elements)
+389:## Easter Egg
+401:## Motion
+425:## Level Calibration (R1-R6 Verification)
+436:### Level-Specific Forbidden Language Audit
+453:### Hope/Realism Ratio per Level
+462:### Segment-Specific Safety (GF Sub-Groups)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/replenish-b/repb-16-e2.md
+1:# Replenish B E2, Flow 16, Email 2 (Cross-Level)
+10:# PART 1, FULL EMAIL COPY
+12:## Metadata
+31:## Subject Line
+35:## Preview Text
+41:## Email Body
+43:### OPENING, Universal Recognition (R1, R3, R4)
+53:### RECOGNITION ANCHORS, The Progress Check (R2, R6)
+71:### THREE-FAMILY TESTIMONIAL PATTERN, Real Parents at 90 Days (GF Inclusion)
+88:### MECHANISM, Why 90 Days Is a Milestone (Mechanism 50%)
+98:### UTILITY, Ready for the Next Size? (CTA 30%)
+113:### GUARANTEE REMINDER
+119:### LENA SIGN-OFF (MEDIUM Variant)
+131:### FOOTER
+146:### §1.1 Source Citations
+169:# PART 2, FULL CREATIVE STRATEGY
+171:## Big Idea
+185:## Layout
+227:## Contraption (Interactive / Embedded Element)
+245:## Color
+260:## Typography
+281:## Furniture (Supporting Design Elements)
+298:## Easter Egg
+308:## Motion (Animation Treatment)
+322:## Level Calibration (R1-R6 Cross-Check)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/replenish-c/repc-17-e1.md
+1:# Replenish C — Email 1 (E1) — Cross-Level
+7:# PART 1: FULL EMAIL COPY
+11:## METADATA
+26:## SUBJECT LINE (under 50 chars)
+34:## EMAIL BODY
+36:### Opener — Universal Recognition (R1, R3, R4)
+42:### Section 2 — Recognition Anchors (R2: 3-5 anchors)
+55:### Section 3 — What Changes at 5 Months
+64:### Section 4 — Product & Offer (No Urgency)
+76:### Section 5 — Three-Family Testimonial Pattern (GF Inclusion)
+88:### Section 6 — CTA (Universal Permission — R1-R6 verified)
+102:## LENA SIGN-OFF (Short — Email 1 of Flow)
+111:## FOOTER
+121:## SOURCE CITATIONS
+141:# PART 2: FULL CREATIVE STRATEGY
+145:## BIG IDEA
+156:## LAYOUT
+172:## CONTRAPTION
+201:## COLOR
+220:## TYPOGRAPHY
+240:## FURNITURE (Design Elements)
+254:## EASTER EGG
+267:## MOTION (if animated HTML email)
+285:## LEVEL CALIBRATION (R1-R6 Audit)
+287:### R1 — Symptom Over Label ✅
+295:### R2 — 3-5 Recognition Anchors ✅
+304:### R3 — Age Ranges Over Fixed Ages ✅
+312:### R4 — Verbal/Non-Verbal Inclusivity ✅
+321:### R5 — Timeline Flexibility ✅
+329:### R6 — Low-Bar Success Metrics ✅
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/replenish-c/repc-17-e2.md
+1:# Replenish C — E2 (Flow 17, Email 2)
+2:## Cross-Level: L1 / L2 / L3 / GF Simultaneously
+14:# PART 1: FULL EMAIL COPY
+18:## METADATA
+33:## SUBJECT LINE
+43:## PREVIEW TEXT
+51:## BODY
+53:### Section 1: Hook — Observation + Recognition Anchors (R2)
+69:### Section 2: Validation + Progress Acknowledgment
+80:### Section 3: Three-Family Testimonial Pattern (GF Inclusion)
+98:### Section 4: What's Next — Reorder + Options
+113:### CTA (Primary)
+121:### CTA (Secondary, Gift Angle)
+128:### Guarantee
+135:### Lena Sign-Off (LONG, Lifecycle Variant)
+150:### FOOTER
+158:## SOURCE CITATIONS
+181:# PART 2: FULL CREATIVE STRATEGY
+185:## BIG IDEA
+193:## LAYOUT
+262:## CONTRAPTION
+281:## COLOR
+307:## TYPOGRAPHY
+333:## FURNITURE
+352:## EASTER EGG
+369:## MOTION
+389:## LEVEL CALIBRATION (R1-R6 VERIFICATION)
+402:## HOPE/REALISM RATIO CALIBRATION
+413:## FORBIDDEN LANGUAGE CHECK
+435:## QUICK-REFERENCE CHECKLIST
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/review-request/review-18-e1.md
+1:# Review Request Flow — Email 1: "Would you recommend us?"
+12:## PART 1: FULL EMAIL COPY
+16:### METADATA
+31:### SUBJECT LINE
+45:### PREVIEW TEXT
+59:### BODY
+170:### SOURCE CITATIONS
+191:## PART 2: FULL CREATIVE STRATEGY
+195:### BIG IDEA
+205:### LAYOUT
+275:### CONTRAPTION (Interactive Element)
+288:### COLOR
+305:### TYPOGRAPHY
+322:### FURNITURE (Visual Elements)
+338:### EASTER EGG (Hidden Element)
+351:### MOTION (Animation Strategy)
+370:### LEVEL CALIBRATION (R1-R6 Verification)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/review-request/review-18-e2.md
+1:# Flow 18: Review Request — Email 2 (E2 · Cross-Level)
+9:## PART 1: FULL EMAIL COPY
+13:### METADATA
+32:### SUBJECT LINE
+46:### PREVIEW TEXT
+55:### BODY
+59:#### OPENING — Validation Hook + Universal Recognition
+69:#### RECOGNITION ANCHORS — R2 (3-5 Anchors)
+84:#### THREE-FAMILY TESTIMONIAL PATTERN — R6 (Low Bar Success) + GF Inclusion
+103:#### THE ASK — Gentle, Grateful, Specific
+117:#### PERMISSION NOT TO BUY / NOT TO REVIEW — Soft Out
+125:#### LENA SIGN-OFF — SHORT (Peer-to-Peer, Grateful)
+134:#### FOOTER
+142:#### SOURCE CITATIONS
+173:## PART 2: FULL CREATIVE STRATEGY
+177:### BIG IDEA
+185:### LAYOUT STRUCTURE
+222:### CONTRAPTION (Design Mechanism)
+235:### COLOR PALETTE
+251:### TYPOGRAPHY
+265:### FURNITURE (Design Elements / Layout Details)
+277:### EASTER EGG
+289:### MOTION / ANIMATION (Email-Safe)
+299:### LEVEL CALIBRATION (R1-R6 Audited)
+329:### HOPE/REALISM RATIO
+344:### CTA PERFORMANCE NOTES
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/site-abandonment/site-20-e1.md
+1:# Site Abandonment E1 — Cross-Level Email (L1 + L2 + L3 + GF)
+10:# HALF ONE — CREATIVE STRATEGY
+12:## 1. Overview
+24:### Strategic Positioning
+41:## 2. R1-R6 Calibration Table
+52:### Cross-Level Tension Map
+62:## 3. Email Structure (Why Each Section Exists)
+64:### Section 1: Whether...Or...If... Opener (Universal Recognition)
+72:### Section 2: Validation Block — "You're Not Alone" (Guilt Absolution)
+83:### Section 3: Mechanism Explanation (Interoception Bridge)
+93:### Section 4: Three-Family Testimonial Pattern (Social Proof)
+106:### Section 5: CTA — Soft Invitation (Permission to Explore)
+114:### Creative Decision Traceability
+139:# HALF TWO, FULL EMAIL COPY
+141:## 4. Complete Email
+214:## 5. Subject Line Strategy
+223:## 6. Preview Text Strategy
+231:## 7. R1-R6 Verification Checklist
+242:## 8. Forbidden Language Audit
+265:## 9. Voice Compliance Check (11-brand-voice-reference.md)
+287:## 10. L1/L2/L3/GF Access Points Map
+289:### Level 1 (Sarah) Access Points
+298:### Level 2 (Lisa) Access Points
+308:### Level 3 (Maria) Access Points
+317:### General Fallback (All Sub-Groups A-E) Access Points
+325:### GF Lever Activation
+337:## 11. Size Check
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/sunset/sunset-25-e1.md
+1:# Sunset E1 — Re-engagement Attempt (Cross-Level)
+12:# PART 1 — FULL EMAIL COPY
+16:## Subject Line
+26:## Preview Text
+32:## From Name
+38:## Email Body
+70:## Lena Sign-Off — MEDIUM Variant
+81:## Footer
+89:### Copy Notes
+115:# PART 2 — FULL CREATIVE STRATEGY
+119:## 1. Big Idea
+129:## 2. Layout Architecture
+199:## 3. Custom Contraption / Illustration
+220:## 4. Color Narrative
+244:## 5. Typography
+274:## 6. Decorative Furniture
+293:## 7. Hidden Detail / Easter Egg
+308:## 8. Motion / Animation
+331:## 9. Level Calibration (R1-R6 Cross-Level)
+350:### Source Citations Log
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/sunset/sunset-25-e2.md
+1:# Sunset E2, Final Goodbye (Cross-Level)
+12:# PART 1, EMAIL COPY
+16:## Subject Line (Permission Frame)
+26:## Preview Text
+35:## From Name
+43:## Body
+45:### SECTION 1: Hook / Observation
+63:### SECTION 2: Recognition Anchors (R2 Block)
+85:### SECTION 3: Validation + Mechanism (Gentle)
+107:### SECTION 4: Permission / Gentle Close
+122:## Lena Sign-Off (LONG, Final Goodbye Variant)
+138:## Footer
+155:## Source Citation Index
+185:# PART 2, CREATIVE STRATEGY
+189:## The Big Idea
+207:## Layout Architecture
+292:## Custom Contraption
+294:### The "Open Door" Visual Easter Egg (Header)
+322:## Color Narrative
+374:## Typography Treatment
+400:## Decorative Furniture
+424:## Hidden Easter Egg
+426:### The "Door Angle" Micro-Detail
+444:## Motion / Animation
+450:### 1. Fade-In on Scroll (Mobile Only)
+461:### 2. Link Hover (Desktop Only)
+471:### What We Explicitly Do NOT Animate:
+487:## Level Calibration
+489:### Cross-Level Calibration Summary (R1–R6)
+502:### Sub-Group Calibration
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/transactional/arrived-08.md
+1:# Arrived & Welcome — E1 | Cross-Level
+3:## Metadata
+13:# PART 1 — EMAIL COPY
+15:## Subject Line
+20:## Preview Text
+23:## From Name
+28:## Email Body
+30:### Section 1: Hook
+37:### Section 2: Validation
+44:### Section 3: Mechanism (Product Introduction within narrative)
+49:### Section 4: What to Expect in Week 1
+56:### Section 5: Guarantee / Risk Reversal
+59:### Section 6: CTA
+66:## Lena Sign-Off
+74:## Footer
+86:## Source Citations
+107:# PART 2 — CREATIVE STRATEGY
+109:## Creative Strategy — Visual Direction
+111:### The Big Idea
+114:### Layout Architecture
+131:### Custom Illustration / Contraption
+147:### Color Narrative
+166:### Typography as Design
+183:### Decorative Furniture
+198:### Hidden Detail / Easter Egg
+209:### Motion / Animation (GIF)
+226:### Level Calibration (Visual)
+245:## Source Citations (Creative Strategy)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/transactional/ofd-07-e1.md
+1:# Out for Delivery — E1 | Cross-Level (R1-R6)
+3:## Metadata
+12:## Subject Line
+17:## Preview Text
+20:## From Name
+25:## Email Body
+27:### Section 1: Anticipation — It's Here
+33:### Section 2: What to Do When It Arrives
+43:### Section 3: What to Expect in Week 1
+51:### Section 4: A Gentle Reminder
+57:### Guarantee / Risk Reversal
+61:### CTA
+66:## Lena Sign-Off
+75:## Footer
+85:## Source Citations
+95:## Creative Strategy — Visual Direction
+97:### The Big Idea
+101:### Layout Architecture
+119:### Custom Illustration / Contraption
+136:### Color Narrative
+150:### Typography as Design
+163:### Decorative Furniture
+177:### Hidden Detail / Easter Egg
+190:### Motion / Animation (GIF)
+204:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/transactional/order-05-e1.md
+1:# Part 1 — Email Copy
+3:# Order Confirmation — E1 | Cross-Level
+5:## Metadata
+14:## Subject Line
+19:## Preview Text
+22:## From Name
+27:## Email Body
+29:### Section 1: Transactional Confirmation (Primary)
+48:### Section 2: Warm Welcome (Secondary, Lena Voice)
+66:### Section 3: What to Watch For (Recognition Anchors — Cross-Level R2)
+77:### Section 4: Bonus Items (Cross-Sell Block — Secondary)
+87:### Section 5: Guarantee / Risk Reversal
+91:### Section 6: CTA
+96:## Lena Sign-Off
+105:## Footer
+113:## Source Citations
+126:# Part 2 — Creative Strategy
+128:## Creative Strategy — Visual Direction
+130:### The Big Idea
+134:### Layout Architecture
+155:### Custom Illustration / Contraption
+165:### Color Narrative
+192:### Typography as Design
+213:### Decorative Furniture
+239:### Hidden Detail / Easter Egg
+251:### Motion / Animation (GIF)
+267:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/transactional/shipping-06.md
+1:# Shipping Notification — E1 | Cross-Level
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Shipment Notification
+31:### Section 2: What's in the Package
+37:### Section 3: When It Arrives — First Steps
+42:### Section 4: What to Expect in Week 1
+47:### Section 5: You Made the Right Decision
+50:## Lena Sign-Off
+57:## Footer
+63:## Source Citations
+78:## Creative Strategy — Visual Direction
+80:### The Big Idea
+83:### Layout Architecture
+100:### Custom Illustration / Contraption
+117:### Color Narrative
+129:### Typography as Design
+142:### Decorative Furniture
+152:### Hidden Detail / Easter Egg
+163:### Motion / Animation (GIF)
+176:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md
+1:# Welcome Flow — E1 | General Family
+5:## Metadata
+21:## Subject Line
+36:## Preview Text
+49:## From Name
+60:## Email Body
+62:### Hook
+71:### Validation
+90:### Mechanism
+101:### Social Proof
+115:### Product Intro
+129:### Guarantee
+134:### CTA
+156:## Lena Sign-Off
+167:## Footer
+178:## Source Citations
+198:# Creative Strategy — Visual Direction
+202:## The Big Idea
+209:## Layout Architecture
+293:## Custom Illustration / Contraption
+321:## Color Narrative
+344:## Typography as Design
+366:## Decorative Furniture
+389:## Hidden Detail / Easter Egg
+407:## Motion / Animation
+443:## Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md
+1:# Welcome Flow, E1 | Level 1 (Sarah)
+5:## Metadata
+25:## Subject Line
+39:## Preview Text
+51:## From Name
+57:## Email Body
+61:### Section 1: Hook
+73:### Section 2: Validation
+87:### Section 3: Mechanism
+95:### Section 4: CTA
+117:## Lena Sign-Off (SHORT, for E1-E2)
+133:## Footer
+152:## Source Citations
+176:# PART 2, CREATIVE STRATEGY: VISUAL DIRECTION
+180:## Creative Strategy, Visual Direction
+184:### The Big Idea
+192:### Layout Architecture
+278:### Custom Illustration / Contraption
+296:### Color Narrative
+325:### Typography as Design
+349:### Decorative Furniture
+367:### Hidden Detail / Easter Egg (Level-Calibrated)
+381:### Motion / Animation (Client-Constraint Aware)
+401:### Level Calibration (Visual)
+430:## Part 2 Source Citations
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md
+1:# Welcome Flow — E1 | Level 2 — Lisa
+5:## Part 1 — Email Copy
+9:### Metadata
+25:### Subject Line
+39:### Preview Text
+52:### From Name
+60:### Email Body
+64:#### Hook
+74:#### Validation
+88:#### Mechanism
+96:#### Social Proof
+112:#### Product Intro (Teaser)
+122:#### Realistic Timeline
+134:#### Guarantee
+144:#### CTA
+167:#### Permission-Not-to-Buy
+181:### Lena Sign-Off (SHORT — E1 Variant)
+189:### Footer
+204:### Source Citations
+225:## Part 2 — Creative Strategy — Visual Direction
+229:### The Big Idea
+237:### Layout Architecture
+288:### Custom Illustration / Contraption
+318:### Color Narrative
+338:### Typography as Design
+374:### Decorative Furniture
+404:### Hidden Detail / Easter Egg (Level-Calibrated)
+424:### Motion / Animation (Client-Constraint Aware)
+445:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md
+1:# Welcome Flow — E1 | Level 3 - Maria
+5:## Part 1 — Email Copy
+9:### Metadata
+26:### Subject Line
+40:### Preview Text
+53:### From Name
+64:### Email Body
+68:#### Hook
+84:#### Validation
+102:#### Mechanism
+116:#### Social Proof
+136:#### Product Intro
+158:#### Guarantee
+176:#### CTA
+194:### Lena Sign-Off
+213:### Footer
+235:### Source Citations
+258:## Part 2 — Creative Strategy
+262:### Creative Strategy — Visual Direction
+266:#### The Big Idea
+278:#### Layout Architecture
+301:#### Custom Illustration / Contraption
+320:#### Color Narrative
+342:#### Typography as Design
+361:#### Decorative Furniture
+378:#### Hidden Detail / Easter Egg
+395:#### Motion / Animation
+414:#### Level Calibration (Visual)
+435:### Design Decisions Traceability
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md
+1:# Welcome Flow — E2 | General Fallback
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Hook — The Universal Reframe
+33:### Section 2: Failed Methods Recognition
+39:### Section 3: Mechanism Deep
+45:### Section 4: CTA
+58:## Lena Sign-Off
+68:## Footer
+74:## Source Citations
+88:## Creative Strategy — Visual Direction
+90:### The Big Idea
+93:### Layout Architecture
+112:### Custom Illustration / Contraption
+121:### Color Narrative
+141:### Typography as Design
+157:### Decorative Furniture
+170:### Hidden Detail / Easter Egg
+181:### Motion / Animation (GIF)
+193:### Level Calibration (Visual) — General Fallback
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md
+1:# Welcome Flow — E2 | Level 1 — Sarah
+3:## Metadata
+23:## Subject Line
+34:## Preview Text
+43:## From Name
+51:## Email Body
+53:### Hook
+60:### Failed Methods Recognition
+73:### Validation
+86:### Mechanism Deep
+97:### Social Proof
+115:### Product Introduction
+130:### Guarantee
+141:### CTA
+162:## Lena Sign-Off
+173:## Footer
+184:## Source Citations
+186:### Primary Strategy Sources
+191:### Compendium Sources
+197:### Synthesis Sources
+204:### Ingestion Files
+207:### Research Files
+210:### Skills Loaded
+220:# Creative Strategy — Visual Direction
+222:## The Big Idea
+230:## Layout Architecture
+246:## Custom Illustration / Contraption
+268:## Color Narrative
+270:### Emotional Arc Through Color — E2 to E4 Progression
+288:## Typography as Design
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md
+1:# Welcome Flow — E2 | Level 2 — Lisa
+5:## Part 1 — Email Copy
+9:## Metadata
+26:## Subject Line
+38:## Preview Text
+46:## From Name
+54:## Email Body
+56:### Hook
+66:### Failed Methods Recognition
+76:### Validation
+90:### Mechanism Deep
+105:### Social Proof
+117:### Product Intro
+130:### Guarantee
+142:### CTA
+160:## Lena Sign-Off (SHORT — E1-E2 variant)
+169:## Footer
+182:## Source Citations
+204:# Part 2 — Creative Strategy
+208:## Creative Strategy — Visual Direction
+212:### The Big Idea (One-Sentence Visual Metaphor)
+222:### Layout Architecture
+240:### Custom Illustration / Contraption
+256:### Color Narrative
+273:### Typography as Design
+293:### Decorative Furniture
+315:### Hidden Detail / Easter Egg (Level-Calibrated)
+329:### Motion / Animation (Client-Constraint Aware)
+352:### Level Calibration (Visual) — Level 2 Specific
+379:## Verification Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md
+1:# Welcome Flow — E2 | Level 3 (Maria)
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Hook
+30:### Section 2: Validation — Failed Methods Recognition
+34:### Section 3: Mechanism Deep
+40:### Section 4: Social Proof — Science as Validation
+44:### Section 5: Product Introduction
+48:### Section 6: Guarantee
+52:### Section 7: CTA
+61:## Lena Sign-Off
+70:## Footer
+79:## Source Citations
+93:## Creative Strategy — Visual Direction
+95:### The Big Idea
+99:### Layout Architecture
+108:### Custom Illustration / Contraption
+118:### Color Narrative
+134:### Typography as Design
+143:### Decorative Furniture
+153:### Hidden Detail / Easter Egg
+159:### Motion / Animation (GIF)
+178:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-gf.md
+1:# Welcome Flow — E3 | General Family
+5:## Part 1 — Email Copy
+9:## Metadata
+25:## Subject Line
+37:## Preview Text
+45:## From Name
+51:## Email Body
+55:### Hook, The Three Families
+70:### Validation, The Gap Is Real, Not Your Fault
+83:### Mechanism, Why the Signal Doesn't Arrive
+92:### Testimonial, What This Looks Like in Real Life
+109:### Product, The Body-Signal Learning System
+126:### Guarantee, No Risk, Your Judgment
+135:### CTA, Your Choice, Your Pace
+152:## Lena Sign-Off (MEDIUM — E3 Variant)
+166:## Footer
+177:## Source Citations
+199:## Part 2 — Creative Strategy — Visual Direction
+203:## Creative Strategy — Visual Direction
+205:### The Big Idea
+214:### Layout Architecture
+235:### Custom Illustration / Contraption
+252:### Color Narrative
+281:### Typography as Design
+311:### Decorative Furniture
+328:### Hidden Detail / Easter Egg (Level-Calibrated)
+341:### Motion / Animation (Client-Constraint Aware)
+372:### Level Calibration (Visual) — GF-Specific
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-l1.md
+1:# Welcome Flow, E3 | Level 1 (Sarah)
+3:## Metadata
+11:## Subject Line
+16:## Preview Text
+19:## From Name
+24:## Email Body
+26:### Section 1: Hook
+30:### Section 2: Validation
+34:### Section 3: Mechanism
+42:### Section 4: Social Proof / Testimonial
+48:### Section 5: Product Introduction
+54:### Section 6: Guarantee / Risk Reversal
+58:### Section 7: CTA
+76:## Lena Sign-Off
+87:## Footer
+105:## Source Citations
+116:## Creative Strategy, Visual Direction
+118:### The Big Idea
+121:### Layout Architecture
+130:### Custom Illustration / Contraption
+141:### Color Narrative
+153:### Typography as Design
+160:### Decorative Furniture
+168:### Hidden Detail / Easter Egg
+171:### Motion / Animation (GIF)
+185:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-l2.md
+1:# Welcome Flow — E3 | Level 2 (Lisa)
+3:## Metadata
+20:# Part 1 — Email Copy
+22:## Subject Line
+34:## Preview Text
+42:## From Name
+48:## Email Body
+50:### Hook
+59:### Validation
+72:### Mechanism
+85:### Testimonial (Social Proof)
+98:### Product Intro
+114:### Guarantee
+127:### CTA
+146:## Lena Sign-Off (MEDIUM — E3 variant)
+160:## Footer
+174:## Source Citations
+194:# Part 2 — Creative Strategy
+196:## Creative Strategy — Visual Direction
+198:### The Big Idea (one-sentence visual metaphor)
+209:### Layout Architecture (beyond single column)
+226:### Custom Illustration / Contraption (unique visual element)
+251:### Color Narrative (hex codes + emotional arc)
+285:### Typography as Design (tracking, contrast, mobile scale)
+313:### Decorative Furniture (dividers, bullets, borders, backgrounds)
+342:### Hidden Detail / Easter Egg (level-calibrated)
+361:### Motion / Animation (client-constraint aware)
+394:### Level Calibration (Visual) (level-specific shifts)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e3-l3.md
+1:# Welcome Flow — E3 | Level 3 — Maria
+5:## Part 1 — Email Copy
+9:## Metadata
+25:## Subject Line
+37:## Preview Text
+45:## From Name
+53:## Email Body
+57:### Hook
+68:### Validation
+81:### Mechanism
+97:### Testimonial
+111:### Product
+127:### Guarantee
+137:### CTA
+151:## Lena Sign-Off
+168:## Footer
+181:## Source Citations
+214:## Part 2 — Creative Strategy — Visual Direction
+218:## Creative Strategy — Visual Direction
+224:### The Big Idea
+234:### Layout Architecture
+254:### Custom Illustration / Contraption
+271:### Color Narrative
+291:### Typography as Design
+313:### Decorative Furniture
+336:### Hidden Detail / Easter Egg
+352:### Motion / Animation
+376:### Level Calibration (Visual)
+395:## Design Reference Sources
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-gf.md
+1:# Welcome Flow — E4 | General Family
+5:## Part 1 — Email Copy
+9:## Metadata
+24:## Subject Line
+35:## Preview Text
+43:## From Name
+49:## Email Body
+51:### Hook
+59:### Validation
+75:### Mechanism
+76:### Mechanism
+86:### Testimonial, Three-Family Pattern
+109:### Product Introduction
+123:### Guarantee
+133:### CTA
+153:## Lena Sign-Off (MEDIUM — E4 variant)
+164:## Footer
+178:## Source Citations
+208:## Part 2 — Creative Strategy: Visual Direction
+212:## The Big Idea (One-Sentence Visual Metaphor)
+218:## Layout Architecture
+230:## Custom Illustration / Contraption (Unique Visual Element)
+238:## Color Narrative (Hex Codes + Emotional Arc)
+258:## Typography as Design (Tracking, Contrast, Mobile Scale)
+277:## Decorative Furniture (Dividers, Bullets, Borders, Backgrounds)
+292:## Hidden Detail / Easter Egg (Level-Calibrated for GF)
+304:## Motion / Animation (Client-Constraint Aware)
+322:## Level Calibration — Visual (GF-Specific Shifts)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-l1.md
+1:# Welcome Flow — E4 | Level 1 (Sarah)
+3:## Metadata
+16:## Subject Line
+26:## Preview Text
+34:## From Name
+40:## Email Body
+42:### Hook
+52:### Validation
+66:### Mechanism
+76:### Social Proof
+91:### Product
+107:### Guarantee
+119:### CTA
+135:## Lena Sign-Off
+151:## Footer
+164:## Source Citations
+183:## Creative Strategy — Visual Direction
+185:### The Big Idea
+195:### Layout Architecture
+216:### Custom Illustration / Contraption
+235:### Color Narrative
+260:### Typography as Design
+287:### Decorative Furniture
+309:### Hidden Detail / Easter Egg
+327:### Motion / Animation
+348:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-l2.md
+1:# Welcome Flow — E4 | Level 2 — Lisa
+5:## Part 1 — Email Copy
+9:## Metadata
+20:## Subject Line
+29:## Preview Text
+38:## From Name
+44:## Email Body
+46:### Hook
+56:### Validation
+66:### Mechanism
+78:### Social Proof
+94:### Product Intro
+109:### Guarantee
+117:### CTA
+131:## Lena Sign-Off (MEDIUM — E3-E5 variant)
+141:## Footer
+152:## Source Citations
+174:## Part 2 — Creative Strategy: Visual Direction
+178:### The Big Idea
+186:### Layout Architecture
+236:### Custom Illustration / Contraption
+271:### Color Narrative
+297:### Typography as Design
+323:### Decorative Furniture
+341:### Hidden Detail / Easter Egg (Level-Calibrated)
+362:### Motion / Animation (Client-Constraint Aware)
+387:### Level Calibration (Visual)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e4-l3.md
+1:# Welcome Flow — E4 | Level 3 — Maria
+5:## Part 1 — Email Copy
+9:## Metadata
+22:## Subject Line
+33:## Preview Text
+43:## From Name
+49:## Email Body
+53:### L3, Maria
+153:## Lena Sign-Off (MEDIUM)
+165:## Footer
+178:## Source Citations
+199:## Part 2 — Creative Strategy — Visual Direction
+203:## The Big Idea
+209:## Layout Architecture
+224:## Custom Illustration / Contraption
+241:## Color Narrative
+264:## Typography as Design
+284:## Decorative Furniture
+302:## Hidden Detail / Easter Egg
+320:## Motion / Animation (Client-Constraint Aware)
+338:## Level Calibration (Visual)
+360:## Output Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-gf.md
+1:# Welcome Flow, E5 (Day 10): Objection Handling
+2:## GF (General Family), Cross-Level Variant
+6:# PART 1, EMAIL COPY
+10:## METADATA
+28:## SUBJECT LINE
+39:## PREVIEW TEXT
+48:## FROM NAME
+57:## EMAIL BODY
+61:### HOOK
+71:### OBJECTION NAMING
+83:### REFRAME
+91:### MECHANISM
+105:### SOCIAL PROOF
+117:### PRODUCT INTRO
+125:### GUARANTEE
+131:### CTA
+143:### LENA SIGN-OFF (MEDIUM)
+155:### FOOTER
+170:### SOURCE CITATIONS
+186:# PART 2, CREATIVE STRATEGY
+190:## THE BIG IDEA
+200:## LAYOUT ARCHITECTURE
+287:## CUSTOM CONTRAPTION
+317:## COLOR NARRATIVE
+342:## TYPOGRAPHY AS DESIGN
+371:## DECORATIVE FURNITURE
+389:## HIDDEN DETAIL / EASTER EGG
+401:## MOTION / ANIMATION
+419:## LEVEL CALIBRATION, GF (GENERAL FAMILY)
+421:### GF Sub-Group Coverage
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-l1.md
+1:# Welcome Flow — E5 (Day 10): Objection Handling
+2:## L1 (Sarah) Variant — Level-Specific Copy
+11:# PART 1 — EMAIL COPY
+15:## METADATA
+29:## SUBJECT LINE
+42:## PREVIEW TEXT
+55:## FROM NAME
+65:## EMAIL BODY
+69:### HOOK
+83:### VALIDATION (Objection Naming)
+99:### REFRAME
+109:### SOCIAL PROOF (Mini-Win)
+119:### PRODUCT INTRO
+138:### GUARANTEE
+152:### CTA
+168:## LENA SIGN-OFF (MEDIUM VARIANT)
+185:## FOOTER
+204:## SOURCE CITATIONS
+222:# PART 2 — CREATIVE STRATEGY
+226:## THE BIG IDEA
+238:## LAYOUT ARCHITECTURE
+323:## CUSTOM CONTRAPTION
+359:## COLOR NARRATIVE
+385:## TYPOGRAPHY AS DESIGN
+407:## DECORATIVE FURNITURE
+432:## HIDDEN DETAIL / EASTER EGG
+446:## MOTION / ANIMATION
+469:## LEVEL CALIBRATION — L1 (SARAH)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-l2.md
+1:# Welcome Flow — E5 (Day 10): Objection Handling
+2:## Level 2 (Lisa) — Level-Specific Copy
+6:# PART 1 — EMAIL COPY
+10:## METADATA
+28:## SUBJECT LINE
+38:## FROM NAME
+44:## EMAIL BODY
+46:### Hook — Mirroring the Skepticism
+58:### Objection Naming — Naming the Real Truth
+68:### Reframe — The Wrong Battle
+82:### Mechanism — The Science of Body-Signal Learning
+102:### Social Proof — Real L2 Parents
+117:### Guarantee — The Only Promise We Make
+125:### CTA
+133:## LENA SIGN-OFF (MEDIUM → LONG)
+155:## FOOTER
+166:## SOURCE CITATIONS
+184:# PART 2 — CREATIVE STRATEGY
+188:## THE BIG IDEA
+200:## LAYOUT ARCHITECTURE
+202:### Mobile-First Single-Column Layout
+272:### Desktop Adaptation
+276:### Section Rhythm
+289:## CUSTOM CONTRAPTION
+291:### The "Bridge Span" Visual Element
+301:## COLOR NARRATIVE
+303:### Emotional Palette for L2 (Lisa)
+319:### Dark Mode Considerations
+329:## TYPOGRAPHY AS DESIGN
+331:### Type System
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e5-l3.md
+1:# Welcome E5, Day 10: "Objection Handling"
+2:## Level 3 (Maria), Dignity-First Variant
+12:## PART 1, EMAIL COPY
+16:### METADATA
+32:### SUBJECT LINE
+46:### PREVIEW TEXT
+59:### FROM NAME
+70:### EMAIL BODY
+74:#### HOOK, Naming the Objection
+88:#### VALIDATION, The Weight of What You've Carried
+100:#### REFRAME, The Gift of Skepticism
+110:#### MECHANISM, How It Actually Works
+120:#### SOCIAL PROOF, In the Voice of Real Parents
+134:#### PRODUCT, 1 Pair, Alongside What You Already Do
+146:#### GUARANTEE, The Only Promise I'll Make
+156:#### CTA, Permission to Decide Later
+168:### LENA SIGN-OFF
+189:### FOOTER
+202:### SOURCE CITATIONS
+220:## PART 2, CREATIVE STRATEGY
+224:### THE BIG IDEA
+236:### LAYOUT ARCHITECTURE
+314:### CUSTOM CONTRAPTION
+338:### COLOR NARRATIVE
+367:### TYPOGRAPHY AS DESIGN
+391:### DECORATIVE FURNITURE
+407:### HIDDEN DETAIL / EASTER EGG
+425:### MOTION / ANIMATION
+439:### LEVEL CALIBRATION, L3 (Maria) Visual
+460:### DESIGN COMPLIANCE CHECKLIST
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-gf.md
+1:# BrightKidCo, Welcome Flow E6 · GF (General Family)
+9:## PART 1, EMAIL COPY
+13:### METADATA
+26:### SUBJECT LINE
+34:### PREVIEW TEXT
+42:### FROM NAME
+48:### EMAIL BODY
+119:### LENA SIGN-OFF
+133:### FOOTER
+144:### SOURCE CITATIONS
+161:## PART 2, CREATIVE STRATEGY
+165:### THE BIG IDEA
+175:### LAYOUT ARCHITECTURE
+263:### CUSTOM CONTRAPTION
+295:### COLOR NARRATIVE
+327:### TYPOGRAPHY AS DESIGN
+351:### DECORATIVE FURNITURE
+383:### HIDDEN DETAIL / EASTER EGG
+403:### MOTION / ANIMATION
+418:### LEVEL CALIBRATION, GF (General Family)
+441:### ADDITIONAL APPENDICES
+445:### APPENDIX A, PARENT LANGUAGE BANK (Cross-Level Universal Quotes for GF)
+466:### APPENDIX B, MOBILE-RESPONSIVE BEHAVIOR SPECS
+483:### APPENDIX C, IMAGE BRIEFS
+497:### APPENDIX D, DARK MODE IMPLEMENTATION
+534:### APPENDIX E, QUALITY CHECKLIST
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-l1.md
+1:# Welcome E6 — Day 14: Pull-Ups Harm + Guarantee Push
+2:## Level 1 (Sarah) — Pre-K Framed
+6:# PART 1 — EMAIL COPY
+10:## METADATA
+26:## SUBJECT LINE
+36:## PREVIEW TEXT
+46:## FROM NAME
+54:## EMAIL BODY
+58:### HOOK
+70:### VALIDATION
+86:### MECHANISM — THE PULL-UP REFRAME (WEAKENED, PRE-K FRAMED)
+103:### SOCIAL PROOF
+117:### PRODUCT INTRO (PRE-K GATE FRAMED)
+125:### GUARANTEE
+139:### CTA
+153:### LENA SIGN-OFF (MEDIUM → LONG TRANSITION)
+164:### FOOTER
+175:### SOURCE CITATIONS
+193:# PART 2 — CREATIVE STRATEGY
+197:## THE BIG IDEA
+207:## LAYOUT ARCHITECTURE
+310:## CUSTOM CONTRAPTION
+328:## COLOR NARRATIVE
+353:## TYPOGRAPHY AS DESIGN
+382:## DECORATIVE FURNITURE
+408:## HIDDEN DETAIL / EASTER EGG
+422:## MOTION / ANIMATION
+440:## LEVEL CALIBRATION — L1 (SARAH)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-l2.md
+1:# Welcome Flow — E6 (Day 14): Pull-Ups Harm L2 + Guarantee Push
+11:## PART 1 — EMAIL COPY
+15:### METADATA
+30:### SUBJECT LINE
+38:### PREVIEW TEXT
+46:### FROM NAME
+52:### EMAIL BODY
+56:#### HOOK
+66:#### VALIDATION (L2-Specific Symptom Recognition)
+76:#### MECHANISM (The Pull-Up Reframe — L2 Deep)
+88:#### SOCIAL PROOF (L2 Parent Language)
+110:#### PRODUCT INTRO (3-Layer Body-Signal Learning System)
+124:#### GUARANTEE
+136:#### CTA
+148:### LENA SIGN-OFF
+165:### FOOTER
+180:### SOURCE CITATIONS
+197:## PART 2 — CREATIVE STRATEGY
+201:### THE BIG IDEA
+209:### LAYOUT ARCHITECTURE
+271:### CUSTOM CONTRAPTION
+287:### COLOR NARRATIVE
+302:### TYPOGRAPHY AS DESIGN
+319:### DECORATIVE FURNITURE
+348:### HIDDEN DETAIL / EASTER EGG
+360:### MOTION / ANIMATION
+377:### LEVEL CALIBRATION (L2 — Lisa)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e6-l3.md
+1:# Welcome Flow, E6 / L3 (Maria)
+7:## PART 1, EMAIL COPY
+9:### Metadata
+24:### Subject Line
+41:### Preview Text
+51:### From Name
+61:### Email Body
+65:#### HOOK
+79:#### GENTLE PULL-UP REFRAME (L3 Gentle Version)
+93:#### MECHANISM
+108:#### MICRO-WIN TESTIMONIAL (L3 Proof)
+116:#### GUARANTEE
+124:#### CTA (Text Link, L3 No-Button Rule per S2 §7.2)
+134:### Lena Sign-Off
+155:### PS Line
+161:### Footer
+174:### Source Citations
+195:## PART 2, CREATIVE STRATEGY
+199:### 1. THE BIG IDEA
+207:### 2. LAYOUT ARCHITECTURE
+306:### 3. CUSTOM CONTRAPTION
+331:### 4. COLOR NARRATIVE
+367:### 5. TYPOGRAPHY AS DESIGN
+399:### 6. DECORATIVE FURNITURE
+445:### 7. HIDDEN DETAIL / EASTER EGG
+464:### 8. MOTION / ANIMATION (GIF)
+501:### LEVEL CALIBRATION (Visual), L3 (Maria)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-gf.md
+1:# Welcome Flow — E7 (Day 17) — GF (General Family)
+2:## "Last Education Push"
+15:# PART 1 — EMAIL COPY
+19:## Metadata
+37:## Subject Line
+50:## Preview Text
+60:## From Name
+68:## Preheader / Header Micro-Copy
+74:## Email Body
+78:### HOOK
+92:### VALIDATION
+110:### DEEP MECHANISM
+130:### MINI-WIN TESTIMONIALS
+155:### PRODUCT INTRO
+169:### GUARANTEE
+179:### CTA
+195:### LENA SIGN-OFF
+210:### FOOTER
+223:### SOURCE CITATIONS
+248:# PART 2, CREATIVE STRATEGY
+252:## The Big Idea
+266:## Layout Architecture
+331:## Custom Contraption
+354:## Color Narrative
+374:## Typography as Design
+398:## Decorative Furniture
+422:## Hidden Detail / Easter Egg
+436:## Motion / Animation
+454:## Level Calibration (Visual)
+498:## Verification Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-l1.md
+1:# Welcome Flow — E7 (L1 Sarah): "Last Education Push"
+10:# PART 1 — EMAIL COPY
+12:## METADATA
+25:## SUBJECT LINE
+33:## PREVIEW TEXT
+42:## FROM NAME
+50:## EMAIL BODY
+52:### HOOK
+62:### VALIDATION
+77:### DEEP MECHANISM
+87:### MINI-WIN TESTIMONIALS
+109:### PRODUCT INTRO
+125:### GUARANTEE
+135:### CALL TO ACTION
+151:### LENA SIGN-OFF
+165:### FOOTER
+178:### SOURCE CITATIONS
+194:# PART 2 — CREATIVE STRATEGY
+196:## THE BIG IDEA
+206:## LAYOUT ARCHITECTURE
+301:## CUSTOM CONTRAPTION
+325:## COLOR NARRATIVE
+347:## TYPOGRAPHY AS DESIGN
+376:## DECORATIVE FURNITURE
+394:## HIDDEN DETAIL / EASTER EGG
+411:## MOTION / ANIMATION
+437:## LEVEL CALIBRATION — VISUAL (L1 SARAH)
+461:## EMOTIONAL ARC — WELCOME E7 L1
+485:## OBJECTION HANDLING — PER SECTION
+498:## PROOF POINT DISTRIBUTION
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-l2.md
+1:# Welcome Flow E7 — Day 17: "Last Education Push"
+2:## Level 2 (Lisa) Variant
+13:# PART 1 — EMAIL COPY
+17:## METADATA
+33:## SUBJECT LINE
+44:## PREVIEW TEXT
+55:## EMAIL BODY
+59:### HOOK
+69:### VALIDATION — Recognising the Real Problem (6-Element ①)
+89:### DEEP MECHANISM — The Interoception Gap (6-Element ②)
+109:### BCBA/OT ACKNOWLEDGMENT — Respecting the Therapy Relationship (6-Element ③)
+121:### REALISTIC TIMELINES — What to Expect (6-Element ④)
+131:### MINI-WIN TESTIMONIALS — Real L2 Parents
+146:### PRODUCT INTRODUCTION — The 3+3 Bundle
+162:### GUARANTEE (6-Element ⑤)
+172:### CTA (6-Element ⑥)
+189:## LENA SIGN-OFF
+206:## FOOTER
+222:## SOURCE CITATIONS
+245:# PART 2 — CREATIVE STRATEGY
+249:## THE BIG IDEA
+261:## LAYOUT ARCHITECTURE
+263:### Pattern: Narrative Arc (Pattern D — Education Push)
+325:### Section Placement Rationale
+340:## CUSTOM CONTRAPTION
+342:### "The Millisecond Visual" — Animated explanation of the interoception delay
+361:## COLOR NARRATIVE
+363:### Emotional Color Arc for E7
+390:## TYPOGRAPHY AS DESIGN
+392:### Primary Font: Questrial (weight 400 only)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-l3.md
+1:# BrightKidCo — Welcome Flow E7 (Day 17): "Last Education Push"
+2:## Level 3 (Maria) — Dignity-First Variant
+6:# PART 1 — EMAIL COPY
+10:## METADATA
+25:## SUBJECT LINE
+37:## PREVIEW TEXT
+45:## FROM NAME
+53:## EMAIL BODY
+57:### HOOK
+67:### DEEP MECHANISM
+77:### MINI-WIN TESTIMONIALS
+95:### GUARANTEE
+107:### CTA
+121:### LENA SIGN-OFF
+128:### FOOTER
+139:### SOURCE CITATIONS
+161:# PART 2 — CREATIVE STRATEGY
+165:## THE BIG IDEA
+181:## LAYOUT ARCHITECTURE
+251:## CUSTOM CONTRAPTION
+253:### Interoception Visualization Diagram
+282:## COLOR NARRATIVE
+302:## TYPOGRAPHY AS DESIGN
+324:## DECORATIVE FURNITURE
+340:## HIDDEN DETAIL / EASTER EGG
+356:## MOTION / ANIMATION
+370:## LEVEL CALIBRATION — L3 (MARIA) — VISUAL
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-gf.md
+1:# Welcome E8 — Day 21: Final Offer / Soft Close
+2:## Level: GF (General Family)
+6:# PART 1 — EMAIL COPY
+10:## METADATA
+26:## SUBJECT LINE
+33:## PREVIEW TEXT
+40:## EMAIL BODY
+44:### HOOK
+52:### RECAP
+65:### MIGRATION ANCHOR
+75:### FINAL CTA
+94:### LENA SIGN-OFF
+110:### FOOTER
+123:### SOURCE CITATIONS
+143:# PART 2 — CREATIVE STRATEGY
+147:## 1. THE BIG IDEA
+153:## 2. LAYOUT ARCHITECTURE
+231:## 3. CUSTOM CONTRAPTION
+245:## 4. COLOR NARRATIVE
+265:## 5. TYPOGRAPHY AS DESIGN
+279:## 6. DECORATIVE FURNITURE
+293:## 7. HIDDEN DETAIL / EASTER EGG
+307:## 8. MOTION / ANIMATION
+326:## 9. LEVEL CALIBRATION — GF (GENERAL FAMILY)
+328:### Why This Calibration
+347:### Visual Calibration vs Other Levels
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-l1.md
+1:# BrightKidCo, Welcome E8: Final Offer / Soft Close
+2:## Level 1 (Sarah), Day 21
+10:# PART 1, EMAIL COPY
+14:## METADATA
+30:## SUBJECT LINE
+42:## PREVIEW TEXT
+53:## FROM NAME
+62:## EMAIL BODY
+66:### HOOK SECTION
+80:### VALIDATION SECTION
+88:### RECAP SECTION
+98:### SOCIAL PROOF SECTION
+110:### PRODUCT INTRO SECTION
+122:### GUARANTEE SECTION
+132:### CALL-TO-ACTION SECTION
+154:### LENA SIGN-OFF
+165:### PS LINE
+171:### FOOTER
+189:### SOURCE CITATIONS
+208:# PART 2, CREATIVE STRATEGY
+212:## THE BIG IDEA
+222:## LAYOUT ARCHITECTURE
+298:## CUSTOM CONTRAPTION
+337:## COLOR NARRATIVE
+361:## TYPOGRAPHY AS DESIGN
+388:## DECORATIVE FURNITURE
+410:## HIDDEN DETAIL / EASTER EGG
+428:## MOTION / ANIMATION
+443:## LEVEL CALIBRATION, L1 (SARAH)
+462:## DESIGN REFERENCE TRACEABILITY
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-l2.md
+1:# Welcome Flow — E8 (Day 21): Final Offer / Soft Close
+2:## Level 2 (Lisa) — Level-Specific Variant
+12:# PART 1 — EMAIL COPY
+16:## METADATA
+36:## SUBJECT LINE
+46:## PREVIEW TEXT
+56:## FROM NAME
+62:## EMAIL BODY
+64:### HOOK (Attention)
+72:### VALIDATION (Interest)
+90:### DESIRE — The body-signal underwear
+103:### SOCIAL PROOF — L2 Parents
+119:### GUARANTEE
+129:### CTA
+149:### LENA SIGN-OFF (E8 LONG Variant)
+162:### FOOTER
+174:### SOURCE CITATIONS
+196:# PART 2 — CREATIVE STRATEGY
+200:## THE BIG IDEA
+210:## LAYOUT ARCHITECTURE
+286:## CUSTOM CONTRAPTION
+326:## COLOR NARRATIVE
+342:## TYPOGRAPHY AS DESIGN
+358:## DECORATIVE FURNITURE
+374:## HIDDEN DETAIL / EASTER EGG
+384:## MOTION / ANIMATION
+400:## LEVEL CALIBRATION — L2 (Lisa) Visual
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e8-l3.md
+1:# Welcome Flow E8 — Day 21: Final Offer / Soft Close
+2:## Level 3 (Maria) — Dignity-First Variant
+6:# PART 1 — EMAIL COPY
+10:## METADATA
+23:## SUBJECT LINE
+33:## PREVIEW TEXT
+42:## FROM NAME
+50:## EMAIL BODY
+52:### HOOK
+64:### RECAP
+76:### FINAL OFFER / CTA
+96:### LENA SIGN-OFF (LONG VARIANT)
+108:### FOOTER
+123:### SOURCE CITATIONS
+150:# PART 2 — CREATIVE STRATEGY
+154:## THE BIG IDEA
+166:## LAYOUT ARCHITECTURE
+236:## CUSTOM CONTRAPTION
+253:## COLOR NARRATIVE
+271:## TYPOGRAPHY AS DESIGN
+289:## DECORATIVE FURNITURE
+305:## HIDDEN DETAIL / EASTER EGG
+325:## MOTION / ANIMATION
+341:## LEVEL CALIBRATION (VISUAL) — L3 (Maria)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e1-gf.md
+1:# Winback Path A — E1 (GF)
+2:## Post-Buyer Re-Engagement · Day 0 · General Fallback
+14:## 1. FULL EMAIL COPY
+16:### Subject Line Options (3)
+24:### Preheader Options (3)
+88:### CTA Options
+102:## 2. CREATIVE STRATEGY
+104:### 2.1 Emotional Arc
+118:### 2.2 Strategy Summary
+124:### 2.3 R1-R6 Calibration Verification
+135:### 2.4 GF Sub-Group Coverage
+145:### 2.5 Forbidden Language Check
+164:### 2.6 Lena Voice Compliance
+187:## 3. OFFER FRAMEWORK
+189:### Primary Offer
+194:### Secondary / Low-Barrier Offer
+198:### Guarantee Language
+203:## 4. CREATIVE BRIEF
+205:### 4.1 Flow Context
+216:### 4.2 Section Structure
+243:### 4.3 Conversion Levers Used
+253:### 4.4 Metrics to Track
+264:### 4.5 A/B Test Ideas
+277:## 5. R1-R6 DEEP CALIBRATION NOTES
+279:### R1 — Symptom Over Label: Full Audit
+291:### R2 — Recognition Anchors: Symptom Coverage Map
+301:### R3 — Age Inclusivity: Audit
+307:### R4 — Verbal/Non-Verbal: Every Instance
+315:### R5 — Timeline Flexibility: Every Instance
+325:### R6 — Low-Bar Success Metrics: Defined Success States
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e1-l1.md
+1:# Winback Path A — E1 | Level 1 (Sarah)
+2:## Flow 19 · Winback A — Post-Buyer Re-engagement
+15:# PART 1 — EMAIL COPY
+19:## METADATA
+35:## SUBJECT LINE
+47:## PREVIEW TEXT
+57:## FROM
+65:## BODY COPY
+69:### HOOK
+79:### VALIDATION
+87:### MECHANISM (Body-Signal Refresher)
+99:### SOCIAL PROOF
+111:### PRODUCT INTRO
+124:### GUARANTEE
+134:### CALL TO ACTION
+153:### LENA SIGN-OFF
+167:### FOOTER
+183:### SOURCE CITATIONS
+211:# PART 2 — CREATIVE STRATEGY
+219:## BIG IDEA
+229:## LAYOUT
+297:## CONTRAPTION / SPECIAL FEATURE
+320:## COLOR PALETTE
+345:## TYPOGRAPHY
+369:## FURNITURE / VISUAL ELEMENTS
+388:## EASTER EGG / DELIGHT ELEMENT
+406:## MOTION / ANIMATION (GIF)
+428:## LEVEL CALIBRATION — L1 (SARAH)
+430:### Master Settings
+448:### L1-Specific Design Decisions
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e1-l2.md
+1:# BrightKidCo — Winback Path A E1 (Flow 19, Email 1)
+8:# PART 1: FULL EMAIL COPY
+12:## METADATA
+33:## SUBJECT LINE
+40:## PREVIEW TEXT
+46:## BODY
+116:## LENA SIGN-OFF
+129:## FOOTER
+136:## SOURCE CITATIONS
+178:# PART 2: FULL CREATIVE STRATEGY (L2 Calibrated)
+182:## BIG IDEA
+192:## LAYOUT
+210:## CONTRAPTION (Design Mechanism)
+222:## COLOR
+240:## TYPOGRAPHY
+259:## FURNITURE (Supporting Elements)
+279:## EASTER EGG
+287:## MOTION (Email Animation)
+303:## L2 CALIBRATION — 6 ELEMENT VERIFICATION
+316:## L2 FORBIDDEN LANGUAGE CHECK
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e1-l3.md
+1:# Winback Path A — E1 L3 (Maria)
+2:## Post-Buyer Re-engagement | 90-Day Lapse | Dignity-First
+16:# PART 1 — EMAIL COPY
+18:## Subject Line (L3 Validation Hook)
+31:## Preheader Options
+44:## Email Copy
+51:### OPENING
+63:### HOOK — Gentle Re-engagement
+75:### VALIDATION — Honor Their Choice
+85:### MECHANISM REMINDER — The Signal, Gently Reframed
+95:### OFFER — 1 Pair ($34.99), Product After Mechanism
+103:### CTA — Permission-Framed
+125:### Pre-Send QA Checklist
+145:# PART 2 — CREATIVE STRATEGY
+147:## 2.1 Visual Direction — L3 Dignity-First
+149:### Core Principle
+152:### Color Palette (from Brand Standards)
+162:### Typography (from Consolidated Design Reference)
+170:### Layout Architecture
+206:### 2.2 Imagery Direction
+226:### 2.3 Image Treatment
+233:### 2.4 CTA Styling
+256:### 2.5 Mobile Optimization
+271:### 2.6 Design Decisions — Traceability
+285:### 2.7 Brand Standard Compliance
+300:## Success Criteria Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e2-gf.md
+1:# Winback Path A — Email 2 (Day 7) — GF (General Fallback)
+12:## PART 1: FULL EMAIL COPY
+16:### METADATA
+34:### SUBJECT LINE
+47:### PREVIEW TEXT
+58:### FROM NAME
+66:### PREHEADER / HEADER MICRO-COPY
+74:### EMAIL BODY
+78:#### HOOK — Universal Recognition (R1, R3, R4)
+88:#### VALIDATION — Permission to Pause (R5)
+98:#### RECOGNITION ANCHORS — Do Any of These Sound Familiar? (R2, R4, R6)
+113:#### THREE-FAMILY TESTIMONIAL PATTERN (GF Inclusion — R2, R4, R6)
+130:#### MECHANISM REMINDER — Why Body-Signal Learning Works Differently (R1)
+140:#### OFFER / CTA — Try Again, Your Way (R5, R6)
+153:#### LENA SIGN-OFF — Winback Variant
+165:### SOURCE CITATIONS
+182:## PART 2: CREATIVE STRATEGY
+186:### STRATEGY SUMMARY
+194:### R1-R6 CROSS-LEVEL CALIBRATION TABLE
+207:### GF SUB-GROUP COVERAGE
+219:### TONALITY & VOICE CALIBRATION
+233:### EMOTIONAL ARC
+260:### PROOF POINTS USED
+270:### MIGRATION ANCHORS
+282:### OFFER ARCHITECTURE
+294:### PERMISSION LANGUAGE (NO GUILT/URGENCY)
+311:### SUBJECT LINE RATIONALE
+317:### SUCCESS METRICS
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e2-l1.md
+1:# Winback Path A — Email 2 · Level 1 (Sarah)
+2:## CP-072: Pre-K Success Story + Updated Offer
+12:## PART 1: FULL EMAIL COPY
+14:### Email Metadata
+27:### Email Body
+88:### Footer
+97:## PART 2: CREATIVE STRATEGY
+99:### 1. Email Overview
+112:### 2. Emotional Arc
+124:### 3. L1 Calibration Notes
+137:### 4. Visual Design Specs (L1 Calibration)
+155:### 5. CTA Strategy
+166:### 6. Objection Handling
+176:### 7. Proof Points Used
+185:### 8. Source Citations
+203:### 9. Success Criteria Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e2-l2.md
+1:# Winback Path A — E2 (Day 7) — L2 (Lisa)
+13:## EMAIL COPY
+15:### Subject Line (3 Options)
+21:### Preview Text (2 Options)
+28:### Email Body
+102:## CREATIVE STRATEGY
+104:### Visual Direction — L2 (Lisa)
+168:## L2 ELEMENT VERIFICATION
+179:## SOURCE CITATIONS
+195:## METADATA
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e2-l3.md
+1:# Winback Path A — E2 (Day 7) | Level 3 — Maria
+10:## SECTION 1: STRATEGIC BRIEF
+12:### 1.1 Purpose
+16:### 1.2 Emotional Arc
+20:### 1.3 L3 Compliance Checklist
+37:## SECTION 2: EMAIL COPY
+39:### Subject Line Options
+49:### Preheader Options
+57:### Email Body
+103:### CTA Button Text
+112:## SECTION 3: CREATIVE STRATEGY
+114:### 3.1 Design Direction
+126:### 3.2 Visual Hierarchy (Top to Bottom)
+175:### 3.3 Design Rules (Non-Negotiable)
+188:### 3.4 Level 3 Guardrails Applied
+205:### 3.5 Conversion Levers Applied
+216:### 3.6 Subject Line Decision
+228:## SECTION 4: QUALITY CHECK
+230:### 4.1 Dignity Test (8 Questions)
+243:### 4.2 L3 Forbidden Language Audit
+262:### 4.3 Winback A2 Voice Compliance
+276:## SECTION 5: TRACKING & METRICS
+278:### 5.1 Success Benchmarks (L3 Winback A)
+288:### 5.2 Klaviyo Tracking
+297:## SECTION 6: VERSION HISTORY
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e3-gf.md
+1:# Winback Path A — E3 (GF): The Door Is Open
+12:## Creative Strategy — R1-R6 Calibration
+14:### Emotional Arc
+17:### R1 — Symptom Over Label ✅
+20:### R2 — 3-5 Recognition Anchors ✅
+28:### R3 — Age Ranges ✅
+31:### R4 — Verbal / Non-Verbal Inclusivity ✅
+34:### R5 — Timeline Flexibility ✅
+37:### R6 — Low-Bar Success Metrics ✅
+40:### "Whether...Or...If..." Bridge
+43:### Winback-Specific Rules
+51:### Word Count: ~420 words (GF medium length)
+52:### Offer: 3+3 Bundle ($79.99) with 60-day guarantee
+53:### Sign-Off: "With care, Lena" (long variant — E6+ and winback rule per GIULIANO-DEMANDS.md §3)
+57:## Email Copy
+119:## Offer / CTA Block
+135:## Design & Rendering Notes
+150:## R1-R6 Compliance Checklist
+171:## Metrics to Track
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e3-l1.md
+1:# BrightKidCo — Winback Path A E3 L1 (Sarah)
+11:# PART 1: FULL EMAIL COPY
+15:## METADATA
+31:## SUBJECT LINE
+46:## PREVIEW TEXT
+60:## BODY
+62:### Section 1 — Hook: Acknowledgment + Observation (R1, R3, R5)
+74:### Section 2 — Validation: Absolve the Guilt (R2, R6)
+88:### Section 3 — The Pre-K Window (L1-Specific Urgency Anchor)
+104:### Section 4 — Pre-K Success Story: Testimonial (R1, R6)
+114:### Section 5 — Offer: 3+3 Bundle with Urgency + Permission (R6)
+140:### Section 6 — Lena Sign-Off (Long Variant — Winback/Phase 4)
+163:### Section 7 — Footer
+174:## SOURCE CITATIONS
+207:## PART 2: FULL CREATIVE STRATEGY (L1 Calibrated)
+211:## BIG IDEA
+231:## LAYOUT
+313:## CONTRAPTION (Interactive Element)
+325:## COLOR
+345:## TYPOGRAPHY
+363:## FURNITURE (Visual Elements)
+380:## EASTER EGG (Hidden Element)
+392:## MOTION (Animation Strategy)
+413:## LEVEL CALIBRATION (L1-Specific Verification)
+435:### CROSS-LEVEL FORBIDDEN LANGUAGE CHECK (L1-Specific)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e3-l2.md
+1:# Winback Path A — E3 (Day 14) | Level 2 — Lisa
+26:# PART 1: FULL EMAIL COPY
+30:## EMAIL BODY
+32:### [HOOK — Real Symptom Recognition (L2 Element ①)]
+42:### [MECHANISM SPECIFICITY (L2 Element ②)]
+54:### [BCBA/OT ACKNOWLEDGMENT (L2 Element ③)]
+64:### [REALISTIC TIMELINES (L2 Element ④)]
+74:### [60-DAY GUARANTEE (L2 Element ⑤)]
+82:### [PERMISSION-NOT-TO-BUY (L2 Element ⑥)]
+93:## SUBJECT LINE & PREVIEW
+102:## LENA SIGN-OFF
+113:## 6 L2 ELEMENTS VERIFICATION
+126:## OBJECTION HANDLING
+137:## OFFER FRAMING
+147:# PART 2: CREATIVE STRATEGY
+151:## VISUAL CALIBRATION — L2 SPECIFIC
+155:### Primary Image Direction
+170:### Secondary Image Direction
+176:### Alt-Text Description (V23 Compliant)
+182:## DESIGN NOTES
+196:### CTA Button Copy
+203:## EMOTIONAL ARC (WITHIN THIS EMAIL)
+221:## L2 VOICE CALIBRATION CHECKLIST (per 11-brand-voice-reference.md §10.2)
+233:## FORBIDDEN LANGUAGE CHECK
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-a/winback-a-19-e3-l3.md
+1:# Winback Path A — E3 (L3 — Maria)
+14:## EMAIL COPY
+16:### PREHEADER
+22:### BODY
+34:### WHAT THE BODY-SIGNAL LEARNING LAYER DOES
+46:### 1 PAIR — $34.99
+57:### THE GUARANTEE
+67:### CLOSING
+84:## CREATIVE STRATEGY
+86:### Emotional Arc
+94:### Tonality Settings
+106:### Subject Line Rationale
+110:### Section Structure
+129:### Offer Rationale
+133:### Key L3 Compliance Checks
+146:### Proof Points Referenced
+152:### Source Cross-Reference
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e1-gf.md
+1:# CP-116: Winback B E1-GF (Inclusive)
+12:## PART 1, EMAIL COPY
+14:### Subject Line
+20:### Preview Text
+26:### From Name
+30:### From Address
+35:### BODY
+37:#### Greeting
+49:#### Section 1: Observation, The Symptom Block (5 Recognition Anchors)
+75:#### Section 2: Validation, The Reframe (4 sentences)
+95:#### Section 3: Mechanism, What's Actually Happening (7 sentences)
+125:#### Section 4: Permission, Gentle Re-engagement (4 sentences)
+147:#### Section 5: The Wrap, Secondary Doubt Handling (2-4 sentences)
+160:#### CTA
+175:#### Lena Sign-Off (Long, Winback Variant)
+196:#### Footer
+208:### Source Citations
+255:## PART 2, CREATIVE STRATEGY
+257:### The Big Idea
+289:### Layout Architecture
+381:### Custom Contraption
+419:### Color Narrative
+449:### Typography Treatment
+481:### Decorative Furniture
+507:### Hidden Easter Egg
+534:### Motion / Animation
+568:### Level Calibration, GF (Inclusive, All Levels)
+595:## Verification Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e1-l1.md
+1:# Winback Path B — E1 | L1 (Sarah)
+3:## PART 1 — EMAIL COPY
+7:## Metadata
+15:## Subject Line
+20:## Preview Text
+23:## From Name
+28:## Email Body
+30:### Section 1: Hook
+33:### Section 2: Validation
+36:### Section 3: Offer — The 3+3 Bundle
+48:### Section 4: Guarantee / Risk Reversal
+51:### Section 5: CTA
+61:## Lena Sign-Off
+72:## Footer
+81:## Source Citations
+94:## PART 2 — CREATIVE STRATEGY
+98:## Creative Strategy — Visual Direction
+100:### The Big Idea
+103:### Layout Architecture
+110:### Custom Illustration / Contraption
+119:### Color Narrative
+127:### Typography as Design
+135:### Decorative Furniture
+144:### Hidden Detail / Easter Egg
+148:### Motion / Animation (GIF)
+158:### Level Calibration (Visual) — L1 (Sarah)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e1-l2.md
+1:# Winback Path B — E1 | Level 2 (Lisa)
+2:## Day 60 — Never-Bought Re-engagement
+9:## PART 1: EMAIL COPY
+11:### Subject Line
+18:### Preview Text
+23:### Email Body
+95:### Lena Sign-Off
+105:## PART 2: CREATIVE STRATEGY
+107:### 1. Strategy Overview
+120:### 2. Section Structure & Rationale
+126:#### 2.1 Hook — Real Symptom Recognition (Element ① of 6)
+131:#### 2.2 Validation — Absolving Guilt (Element ③ of 6)
+137:#### 2.3 Mechanism Refresher — Interoception Science (Element ② of 6)
+144:#### 2.4 New Testimonial — Peer L2 Parent (Element ② directive fulfillment)
+150:#### 2.5 Deep Mechanism — 3-Layer BSL System
+156:#### 2.6 Realistic Timelines (Element ④ of 6)
+161:#### 2.7 Offer — 3+3 Bundle (Element ⑤ of 6)
+167:#### 2.8 Permission-Not-to-Buy (Element ⑥ of 6)
+172:#### 2.9 Lena Sign-Off
+178:### 3. Level Calibration Verification
+196:### 4. Visual/Design Specifications
+210:#### Design Forbidden List (L2)
+217:### 5. Science Citation Table
+226:### 6. Testimonial Sourcing
+233:### 7. Subject Line Rationale
+243:### 8. Emotional Arc
+262:### 9. CTA Rationale
+270:### 10. Objection Handling Map
+281:### 11. Cross-Reference Source Map
+306:### 12. Success Criteria Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e1-l3.md
+1:# Winback Path B — E1 (L3 — Maria)
+11:## PART 1 — EMAIL COPY
+15:### Subject Line
+23:### Email Body
+63:### Lena Sign-Off (L3 — Medium Variant)
+76:### CTA Button
+83:## PART 2 — CREATIVE STRATEGY
+87:### Strategic Rationale
+99:### Level Calibration — L3 (Maria)
+115:### Section-by-Section Breakdown
+117:#### 1. Observation (Paragraphs 1-2)
+129:#### 2. Validation (Paragraphs 3-5)
+142:#### 3. Gentle Mechanism Refresher (Paragraphs 6-9)
+156:#### 4. Permission CTA (Final Section)
+173:### Offer Architecture
+185:### Subject Line Rationale
+203:### Lena Sign-Off Rationale
+218:### Visual & Design Recommendations
+233:### Success Criteria Verification
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e2-gf.md
+1:# CP-120: Winback B E2-GF (Inclusive)
+2:## Winback Path B — Email 2 of 3 · General Fallback (All Levels)
+3:## Flow Position: 24 of 25 · Phase 3 · Day 67
+15:# PART 1 — EMAIL COPY
+19:## METADATA
+47:## EMAIL BODY
+51:### SECTION 1 — HOOK (Universal Recognition — Cross-Level "Whether...Or...If..." Pattern)
+89:### SECTION 2 — NEW SCIENCE CITATION (The "Updated Offer" Anchor)
+105:### SECTION 3 — UPDATED OFFER / RISK REMOVAL (The "Updated Offer" per S2 §1.21)
+119:### SECTION 4 — TESTIMONIAL / SOCIAL PROOF (Three-Family Pattern per L18 §3)
+136:### SECTION 5 — LENA SIGN-OFF (Long Variant — Winback per S2 §1.21 and Brand Voice §9.2)
+151:### SECTION 6 — FOOTER
+165:### SOURCE CITATIONS — PART 1
+201:# PART 2 — CREATIVE STRATEGY
+205:## 2.1 THE BIG IDEA
+215:## 2.2 EMOTIONAL ARC
+243:## 2.3 LAYOUT ARCHITECTURE
+245:### Desktop Layout (600px wide)
+339:### Mobile Layout (320px wide — stacked single-column)
+350:## 2.4 CUSTOM CONTRAPTION
+352:### The "Neural Germination" Visual System
+383:## 2.5 COLOR NARRATIVE
+385:### GF Inclusive Palette
+408:## 2.6 TYPOGRAPHY TREATMENT
+410:### Font Stack
+426:### Typography Rationale
+435:## 2.7 DECORATIVE FURNITURE
+437:### Structural Elements (Visible in Email)
+448:### Decorative Elements (Not Visible — Hidden)
+456:### GF-Specific Decorative Rules
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e2-l1.md
+1:# Winback Path B — Flow 24 · E2 · Day 67
+2:## L1 (Sarah) — Never-Bought Winback
+12:## EMAIL COPY
+14:### From Name
+17:### Subject Line
+23:### Preview Text
+30:### Email Body
+95:### Footer
+108:## CREATIVE STRATEGY
+110:### Big Idea
+122:### Layout
+180:### Contraption
+202:### Color
+223:### Typography
+241:### Furniture
+263:### Easter Egg
+278:### Motion
+294:### Level Calibration (L1 — Sarah)
+321:## SOURCE CITATION INDEX
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e2-l2.md
+1:# BrightKidCo — Winback B E2-L2 (Lisa) | Day 67
+14:# PART 1 — EMAIL COPY
+18:## Subject Line
+23:## Preview Text
+26:## From Name
+31:## Email Body
+35:### SECTION 1, HOOK: 60 Days Later, Same Problem?
+47:### SECTION 2, NEW SCIENCE: What We've Learned Since You Joined
+71:### SECTION 3, WHAT THIS MEANS FOR YOUR CHILD (Realistic Timeline)
+89:### SECTION 4, BCBA CONTEXT: Complement, Don't Replace
+105:### SECTION 5, UPDATED OFFER + GUARANTEE
+123:### SECTION 6, A WORD FROM ANOTHER L2 MOM
+135:### SECTION 7, PERMISSION: What If Today Isn't the Day?
+151:### LENA SIGN-OFF (MEDIUM-LONG Variant, Winback B-E2, mid-flow)
+166:### FOOTER
+174:## Source Citations — Part 1
+189:# PART 2 — CREATIVE STRATEGY
+193:## The Big Idea
+205:## Layout Architecture
+207:### Email Structure (Mobile-First)
+291:### Section Flow Logic
+302:### CTA Placement
+311:## Custom Contraption
+313:### The "Missing Input" Feedback Loop Diagram
+357:## Color Narrative
+359:### L2 Palette: Muted, Scientific, Non-Urgent
+378:## Typography Treatment
+380:### Font Stack
+395:### Typography Rules
+408:## Decorative Furniture
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e2-l3.md
+1:# Winback B — E2 (Day 67) — Level 3 (Maria — Dignity-First Parent)
+22:## PART 1 — EMAIL COPY
+24:### Subject Line
+30:### Preview Text
+33:### From Name
+36:### From Email
+41:### Body
+85:### Lena Sign-Off (LONG variant — Winback / Phase 4)
+94:### Footer
+104:### Source Citations (Part 1)
+136:## PART 2 — CREATIVE STRATEGY
+138:### The Big Idea
+148:### Layout Architecture
+239:### Custom Contraption
+272:### Color Narrative
+293:### Typography Treatment
+321:### Decorative Furniture
+347:### Hidden Easter Egg
+363:### Motion / Animation
+393:### Level Calibration (L3 — Maria, Dignity-First Parent)
+420:### Cross-Reference: Winback B Flow Position
+435:### Production Notes
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e3-gf.md
+1:# Winback B — E3 (GF — Inclusive / All Levels)
+10:## PART 1 — EMAIL COPY
+14:### Subject Line
+18:### Preview Text
+21:### From Name
+24:### From Email
+29:### Body
+127:### Lena Sign-Off (LONG Variant — Winback Final)
+139:### Footer (Transactional Compliance)
+148:### CTA Button
+154:### Source Citations (All Claims)
+184:## PART 2 — CREATIVE STRATEGY
+188:### The Big Idea
+199:### Layout Architecture
+297:### Custom Contraption
+316:### Color Narrative
+341:### Typography Treatment
+366:### Decorative Furniture
+383:### Hidden Easter Egg
+406:### Motion / Animation
+425:### Level Calibration — GF (Inclusive / All Levels)
+447:### Verification Checklist
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e3-l1.md
+1:# Winback Path B, E3 (Sarah/L1), Day 74
+15:## PART 1, EMAIL COPY (Full Body)
+17:### Subject Line (47 chars)
+23:### Preview Text (92 chars)
+29:### From Name
+35:### Body
+71:### CTA
+83:### Lena Sign-Off, LONG Variant (Winback)
+102:### Footer
+118:### Source Citations
+170:## PART 2, CREATIVE STRATEGY
+172:### The Big Idea
+189:### Layout Architecture
+284:### Custom Contraption
+306:### Color Narrative
+331:### Typography Treatment
+366:### Decorative Furniture
+397:### Hidden Easter Egg
+412:### Motion/Animation
+433:### Level Calibration, L1 (Sarah, Pre-K Parent)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e3-l2.md
+1:# Winback Path B, E3 (Day 74), L2 (Lisa / BCBA-Professional Parent)
+12:# PART 1, EMAIL COPY
+16:## Subject Line (under 50 characters)
+23:## Preview Text
+29:## From Name
+36:## BODY
+40:### SECTION 1, HOOK (2-4 sentences)
+50:### SECTION 2, VALIDATION + FAILED-METHOD NAMING (2-5 sentences)
+60:### SECTION 3, MECHANISM REFRESHER + SCIENCE (3-8 sentences)
+74:### SECTION 4, BCBA ACKNOWLEDGMENT + NEW TESTIMONIAL (5-10 sentences)
+88:### SECTION 5, REALISTIC TIMELINES + GUARANTEE (2-4 sentences)
+96:### SECTION 6, PERMISSION-NOT-TO-BUY + FINAL CTA (1-3 sentences)
+107:### SECTION 7, LENA SIGN-OFF
+120:### FOOTER
+134:### SOURCE CITATIONS
+171:# PART 2, CREATIVE STRATEGY
+175:## 1. THE BIG IDEA
+187:## 2. LAYOUT ARCHITECTURE
+189:### Mobile-First Top-to-Bottom Layout (600px max-width)
+289:## 3. CUSTOM CONTRAPTION
+291:### "The Honest-Signal Closure Module"
+307:## 4. COLOR NARRATIVE
+309:### L2 Calibration: Restrained, Credible, Clinical-Warm
+334:## 5. TYPOGRAPHY TREATMENT
+336:### Questrial Weight 400, The Only Typeface
+351:### Key Typography Decisions for L2
+365:## 6. DECORATIVE FURNITURE
+369:### 1. Signal Bar (top of email)
+372:### 2. Hairline Dividers
+375:### 3. Quote Mark (Testimonial Section)
+---BLANK---
+=====FILE: /root/projects/brightkidco/outputs/copy/winback-b/winback-b-24-e3-l3.md
+1:# Winback Path B — E3 (Day 74) — Level 3 (Maria)
+2:## "The Final Invitation — Dignity-First Close"
+17:# PART 1 — EMAIL COPY
+21:### SUBJECT LINE
+27:### PREVIEW TEXT
+31:### FROM NAME
+35:### FROM EMAIL
+41:### BODY
+135:### SOURCE CITATIONS — COMPLETE
+174:# PART 2 — CREATIVE STRATEGY
+178:### THE BIG IDEA
+194:### LAYOUT ARCHITECTURE
+272:### CUSTOM CONTRAPTION
+300:### COLOR NARRATIVE
+320:### TYPOGRAPHY TREATMENT
+363:### DECORATIVE FURNITURE
+419:### HIDDEN EASTER EGG
+445:### MOTION / ANIMATION
+475:### LEVEL CALIBRATION
+530:### CALIBRATION CHECKLIST — FULL VERIFICATION
+---BLANK---

@@ -467,3 +467,411 @@ It is visible only on desktop (1200px+ viewport width) and only to someone who i
 - [x] Level calibration correct for Maria (L3): zero urgency, dignity-first, maximum breathing room ✓
 - [x] No placeholder, stub, or "to be determined" in either half ✓
 - [x] File size requirement: Yes, substantial (both halves fully realized)
+
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l3-1
+
+```
+=================================================================
+WIREFRAME: welcome-01-e1-l3
+Email ID: welcome-01-e1-l3
+Flow: welcome | Position: E1 | Day: 0 | Level: L3 (Maria)
+Avatar: Non-verbal / high support needs, 6-10+ yrs, dignity-first
+Lever: L4 (Lena) | Sign-off: "Talk soon,"
+=================================================================
+
+SUBJECT: After years of trying, here's what we know
+PREHEADER: He's never shown a sign of feeling wet.
+            That's not failure, it's neurology.
+
+NOTE: L3 calibration. Cream/earth tones only. Zero urgency.
+56px section spacing. Text-link or muted-button CTAs only.
+Stacked vertically, single column, maximum breathing room.
+NO product photography. NO side-by-side. NO hero image.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: SIGNAL ANCHOR — OPENING HOOK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "He's never shown a single sign of feeling
+          wet or dirty in all these years."
+SUBHEADLINE: (none — single-sentence hook)
+
+[VISUAL ELEMENT]
+ROLE: signal-dot-anchor
+INTENT: a single faint warm-stone dot in the upper-right of
+        the section (8-12px diameter, warm sand at very low
+        opacity); no illustration, no product photo, no
+        child imagery — just a quiet visual cue that this
+        email is different from every "training" email
+        Maria has been sent
+EXAMPLE_PICK: muted warm circle, organic, no glow,
+              no animation cues; placed in margin
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: HOOK EXPANSION — LONG MIRROR]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from anchor)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: prose-block
+INTENT: extended mirror paragraph(s) — Maria's 9-year
+        pull-up timeline, the 2am searches, the bookmarked
+        pages, the products tried; rendered as full-width
+        flowing text in warm clay, max 65ch line length,
+        light-weight serif body at 17px desktop / 16px mobile
+EXAMPLE_PICK: text-only block; no callout box; no
+              side-stripe border (forbidden); just
+              breath-around-text
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: VALIDATION — DIGNITY-FIRST REFRAME]
+─────────────────────────────────────────────────────────────────
+HEADLINE: That's not failure. That's his nervous system.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: pull-quote-soft-italic
+INTENT: contains the verbatim L3 parent quote
+        "I live each day between hopelessness, and holding
+        on to any drop of hope."
+        — set in italic serif at 18px, warm clay color,
+        generous left margin (no box, no border, no
+        background tint); the quote itself does the work
+EXAMPLE_PICK: italic text-only pull-quote with extra
+              leading, no decorative quote marks
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: MECHANISM — GENTLE NEUROLOGICAL REFRAME]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Body signal differences in autism are real
+          and measurable.
+SUBHEADLINE: A 2025 systematic review of 49 studies
+             confirms it. This is settled science.
+
+[VISUAL ELEMENT]
+ROLE: mechanism-text-block
+INTENT: full-width text block explaining the body-signal
+        gap in plain, dignity-first language; the >90%
+        sensory-processing stat appears as inline weight
+        variation (NOT a stat-highlight-box — L3 forbids
+        visual weight on numbers); 2px left vertical line
+        in warm grey as a quiet section marker
+EXAMPLE_PICK: text-only mechanism paragraph with subtle
+              2px left indicator (NOT a side-stripe border);
+              no icon, no diagram, no infographic
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: SOCIAL PROOF — STATISTICS AS NORMALIZATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Here's what the science says about children
+          like yours.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: stat-stack-vertical
+INTENT: three statistics stacked vertically (NOT horizontally,
+        NOT in a grid), each as a full-width text block with
+        the number set in extra-light weight at 32-40px and
+        the source line in 14px muted below; numbers include:
+        "49% of autistic 4-5 year olds are not yet toilet
+        trained (CDC-funded, N=743)"
+        "Autistic children take an average of 3.3 years to
+        complete toilet training"
+        "59% cannot reliably communicate the need to urinate.
+        71% cannot communicate the need to defecate"
+EXAMPLE_PICK: vertically stacked, no chart, no progress bar,
+              no icon — just three calm number-led paragraphs
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: PRODUCT INTRO — ABSTRACT 3-LAYER DESCRIPTION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The Body-Signal Learning Layer is designed
+          for exactly this gap.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: three-layer-diagram-abstract
+INTENT: three stacked horizontal thin lines (NOT a product
+        photo, NOT a child illustration, NOT a hero shot)
+        representing the three layers of the Body-Signal
+        Learning Layer, each labeled with text on the right;
+        rendered in soft sage and warm sand lines, very
+        subtle, very abstract — the product is deferred,
+        the mechanism is the hero
+EXAMPLE_PICK: thin horizontal lines in muted sage with
+              text labels; no product imagery
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: GUARANTEE — 60-DAY HONEST CONTAINER]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days. Your judgment.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: guarantee-paragraph-soft-bg
+INTENT: single centered paragraph on a warm cream background
+        (slightly deeper than main bg, no border, no box);
+        explains the 60-day guarantee as an honest container
+        for nervous-system-dependent outcomes; explicitly
+        mentions no forms, no return shipping; framed as
+        "alongside whatever you're already doing" — never
+        replacement
+EXAMPLE_PICK: warm cream tint paragraph block, centered
+              text, no border, generous padding (40px)
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: PRIMARY CTA — TEXT-LINK + OFFER MICROCOPY]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You decide what's right for your child.
+          No pressure.
+SUBHEADLINE: 1 Pair, $34.99, 60-Day Guarantee
+
+[VISUAL ELEMENT]
+none (no button, no badge, no icon)
+
+[CTA]
+PRIMARY:   text link "Explore the Body-Signal Learning Layer →"
+           left-aligned, warm charcoal, subtle underline,
+           16px medium weight; NOT a filled button
+INTENT:    drives to PDP
+SECONDARY: text link "Learn more about how it works →"
+           (smaller, muted, below primary)
+MICROCOPY: "You decide what's right for your child. No pressure."
+           (italic, 14px, muted warm clay)
+NOTE:      WELCOME10 code appears here in E1 only (per L3
+           Welcome rules); rendered inline in italic muted
+           text, NOT as a highlighted badge
+
+56px space above, 56px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA SHORT VARIANT for E1]
+─────────────────────────────────────────────────────────────────
+Background: warm cream (subtle separation, slightly deeper
+            than main bg)
+Body 16px: "Thanks for being here. If you have a question,
+            hit reply. You'll get me — not a template,
+            not a bot. I read everything."
+Closing:    "Talk soon,"
+Signature:  "Lena S., BrightKidCo" (no badge, no image,
+            14px italic, warm clay)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe | Manage Preferences
+Questions? Reply to this email, Lena reads every response.
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? N/A (L3 has no
+  hero image by design; section 1 signal-dot-anchor opens
+  the visual experience)
+- Section 1 headline visible above 400px? YES (single-
+  sentence hook is the first thing above fold)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 0 (L3 forbids hero/product
+  photography; the email is text-and-motif-only)
+- Image positions: none
+- Density category: 0 (text-dominant, single motif element)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 9
+  - signal-dot-anchor (section 1)
+  - prose-block (section 2)
+  - pull-quote-soft-italic (section 3)
+  - mechanism-text-block (section 4)
+  - stat-stack-vertical (section 5)
+  - three-layer-diagram-abstract (section 6)
+  - guarantee-paragraph-soft-bg (section 7)
+  - cta-text-link-with-microcopy (section 8)
+  - signoff-lena-short (signoff block)
+- Density category: 9 (text-heavy, but well within
+  L3's "text is oxygen" principle)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 8 (8 body sections including CTA — long
+  arc to honor 9-year journey)
+- Section pattern: A (Hook→Validation→Mechanism→Social Proof
+  →Product→Guarantee→CTA, expanded)
+- Image density: 0 (no images — pure text + motif)
+- Color temperature: warm cream/earth only (warm ivory
+  background, warm clay text, warm sand accent, soft sage
+  mechanism line, muted terracotta if any)
+- Email length: long (~2200 words per locked-profile)
+- Argument structure: PAS-light (Mirror→Absolve→Gentle
+  Mechanism → Permission-not-to-buy)
+- Visual rhythm: open (56px gaps per L3 calibration —
+  maximum breathing room)
+- CTA position: late (last body section before signoff)
+- Subject line type: validation (years-of-trying mirror)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: NONE (this is E1 L3,
+  first in flow)
+- Baseline set. N/9 = N/A. (Stage 1 baseline established
+  for future variance reconciliation by welcome-01-e2-l3
+  onward.)
+- Note: E1 is the longest Welcome email in any level; this
+  honors L3's dignity-first ethos by giving Maria every
+  piece of recognition, science, and permission in a
+  single 21-day-arc-opening email.
+
+=================================================================
+END OF WIREFRAME — welcome-01-e1-l3
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — welcome-01-e1-l3
+
+> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only (no filled buttons). 56px section spacing. Dignity-first. 1 Pair $34.99 primary offer. NO math reframe. NO product photography (per L3 E1 wireframe: visual = signal-dot + mechanism motif only). Lena peer voice preserved.
+
+> **Section count:** 8 body sections + signoff (wireframe §COMPONENT_COUNT = 9 ROLEs).
+> **Image library picks:** 0 (L3 E1 explicitly forbids hero/product photography — text + motif only by design).
+
+### Section 1 — signal-dot-anchor
+- ROLE slot: `signal-dot-anchor` (single warm-stone dot, 8-12px, no illustration/photo/child imagery)
+- INTENT (from wireframe): quiet visual cue that this email is different from every "training" email Maria has been sent
+- COMPONENT PICKED: **HERO-9 — "Whisper Tone"** (section-components letter/hero pool, source A*)
+  - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm, messaging=hook
+  - Currently used: 1/8 (under cap)
+  - WHY: whisper-tone open matches the wireframe's "single-sentence hook" + warm-stone dot motif; whisper tone IS the L3 voice register — sets emotional register for the entire 21-day arc. No sales machinery visible.
+- IMAGE PICKED: none (anchor is a CSS dot motif only; L3 E1 forbids imagery)
+- VARIANCE CHECK: N/A — E1 baseline set
+
+### Section 2 — prose-block (extended mirror)
+- ROLE slot: `prose-block` (9-year mirror paragraph, full-width flowing text, max 65ch, 17px serif body, no box, no border)
+- INTENT (from wireframe): Maria's 9-year pull-up timeline + 2am searches + 30-50 failed methods; full breath-around-text
+- COMPONENT PICKED: **LETTER-01 — "Paragraph Stack"** (section-components letter pool, source A*)
+  - From catalog: position=body, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: paragraph stack = pure flowing prose with no card/border/side-stripe decorations. Honors the wireframe's "breath-around-text" requirement (L3 forbids cards, side-stripes, sidebars).
+- IMAGE PICKED: none (text-only by wireframe mandate)
+- VARIANCE CHECK: differs from Section 1 (HERO-9 opener vs LETTER-01 body) — appropriate cadence shift from hook to mirror
+
+### Section 3 — pull-quote-soft-italic
+- ROLE slot: `pull-quote-soft-italic` (verbatim L3 parent quote "I live each day between hopelessness, and holding on to any drop of hope." italic serif 18px, warm clay, generous left margin, NO box/border/bg)
+- INTENT (from wireframe): the quote itself does the work — no decorative chrome
+- COMPONENT PICKED: **LETTER-10 — "Highlighted Passage"** (section-components letter pool, source A*)
+  - From catalog: position=body, image_support=text_only
+  - Currently used: 1/8
+  - WHY: Highlighted Passage is the only L3-safe passage component (no box, no card, no side-stripe border, no quote-mark glyph chrome). Italic serif emphasis only — exactly what wireframe specifies.
+- IMAGE PICKED: none (italic quote typography only)
+
+### Section 4 — mechanism-text-block
+- ROLE slot: `mechanism-text-block` (49-study review + 90% sensory-processing stat; numbers as inline weight variation, NOT a stat-highlight-box; 2px warm-grey left line as section marker)
+- INTENT (from wireframe): full-width dignity-first mechanism explanation; science as settling, not selling
+- COMPONENT PICKED: **EDU-11 — "Science Citation"** (section-components definition pool, source A*)
+  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: Science Citation format = inline scholarly reference with source attribution. Honors the wireframe's "numbers as inline weight variation, NOT a stat-highlight-box — L3 forbids visual weight on numbers". Citation voice (no celebration, no neon) is L3-aligned.
+- IMAGE PICKED: none (text only)
+
+### Section 5 — stat-stack-vertical
+- ROLE slot: `stat-stack-vertical` (3 stats stacked vertically, NOT horizontally, NOT a grid — full-width text blocks; numbers in extra-light weight 32-40px; sources in 14px muted)
+- INTENT (from wireframe): normalization via statistics as "this common, this documented, this not her fault"
+- COMPONENT PICKED: **28.2 — "Numbered Recognition Anchors"** (section-components stat pool, source A)
+  - From catalog: position=body, image_support=text_only
+  - Currently used: 1/8
+  - WHY: this is the ONLY stat component in the catalog that is rendered as inline weighted numbers rather than as a visual stat-highlight-box / counter / progress bar. Honors wireframe's "no chart, no progress bar, no icon" L3 prohibition.
+- IMAGE PICKED: none (text-only stat stack)
+
+### Section 6 — three-layer-diagram-abstract
+- ROLE slot: `three-layer-diagram-abstract` (3 stacked horizontal thin lines in soft sage + warm sand, labels on right; abstract — NO product photo, NO child illustration, NO hero shot)
+- INTENT (from wireframe): mechanism is the hero, product is deferred
+- COMPONENT PICKED: **1 — "The Body Signal Concept (Core Mechanism Visual)"** (section-components definition pool, source A*)
+  - From catalog: position=body_mechanism, image_support=image_text, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: this is the exact "3 stacked horizontal lines + label" abstract mechanism visual the wireframe specifies by EXAMPLE_PICK. Per showcase HTML (line 180+), the visual is rendered as 3 horizontal bands with text labels — pure mechanism, no product imagery, no kids. The showcase uses `#EAF6F2 / #F0EDF8` soft sage gradient — within L3's cream/earth palette.
+- IMAGE PICKED: none (component carries the abstract motif itself)
+
+### Section 7 — guarantee-paragraph-soft-bg
+- ROLE slot: `guarantee-paragraph-soft-bg` (centered paragraph on warm-cream slightly-deeper bg, no border, no box, 40px padding, "alongside whatever you're already doing" framing)
+- INTENT (from wireframe): 60-day guarantee as honest container for nervous-system-dependent outcomes; NO forms, NO return shipping
+- COMPONENT PICKED: **5 — "60-Day Calm Promise"** (section-components guarantee pool, source A*)
+  - From catalog: position=guarantee_trust, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect match. Showcase HTML line 282 confirms soft sage background, dignity-first copy, no badge/seal/scarcity chrome. "Calm Promise" naming honors the L3 trust-break catalog (NEVER scarcity, NEVER badge-as-pressure).
+- IMAGE PICKED: none (text-only guarantee on tinted bg)
+
+### Section 8 — cta-text-link-with-microcopy
+- ROLE slot: `cta-text-link-with-microcopy` (NO button, NO badge, NO icon; primary = warm-charcoal underlined text link "Explore the Body-Signal Learning Layer →" + secondary muted text link + italic 14px muted "You decide. No pressure."; WELCOME10 inline in E1 only)
+- INTENT (from wireframe): drives to PDP; permission-first close; L3 mandate = text link or muted button ONLY (NEVER filled green CTA)
+- COMPONENT PICKED: **CTAMAX-03 — "Text Link CTA"** (section-components cta pool, source A)
+  - From catalog: position=cta, image_support=text_only
+  - Currently used: 1/8
+  - WHY: EXACT match for L3 mandate — text link format, not button. Honors GIULIANO-DEMANDS §1 L3 rule "CTA = text link or muted button ONLY" and §5 ZERO urgency. WELCOME10 code renders inline (subagent-doc-stage3 will preserve this).
+- IMAGE PICKED: none (text link only)
+
+### Signoff (signoff-lena-short) — STATIC, ALREADY EXTRACTED
+- ROLE slot: `signoff-lena-short` (warm-cream separation bg, 16px body, "Talk soon," closing, signature "Lena S., BrightKidCo" no badge no image 14px italic warm clay)
+- INTENT (from wireframe): SHORT variant per GIULIANO §3 (E1-E2 = "Talk soon,")
+- COMPONENT PICKED: **UTIL-05 — "Signoff Card (uses Signoff)"** (already extracted in Stage 2 Phase A header/footer work; L3 signoff variant stub)
+  - From catalog: position=signoff_footer, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 0/8 (static, doesn't consume cap)
+  - WHY: Lena signature rendered as 14px italic warm clay per wireframe — L3 calibration exact match.
+- IMAGE PICKED: none
+
+### Tracker updates applied (this email)
+- component-usage.json: HERO-9→1, LETTER-01→1, LETTER-10→1, EDU-11→1, 28.2→1, 1→1, 5→1, CTAMAX-03→1
+- image-usage.json: no images picked this email (L3 E1 forbids photography)
+- VARIANCE CHECK vs previous email in flow+level: N/A (this is E1, sets L3 Welcome baseline)
+- CAP CHECK: all 8 components at 1/8 (under cap); no images triggered cap update

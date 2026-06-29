@@ -501,4 +501,429 @@ The easter egg: when an L1 parent reads "three methods," she thinks *"how did sh
 
 ---
 
+## WIREFRAME — built 2026-06-28 by subagent-5
+
+```
+=================================================================
+WIREFRAME: welcome-01-e5-l1
+Email ID: welcome-01-e5-l1
+Flow: welcome | Position: E5 | Day: 10 | Level: L1
+=================================================================
+
+SUBJECT: What if I've tried everything?
+PREHEADER: Three methods. Zero results. Here's what every method missed.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO]
+─────────────────────────────────────────────────────────────────
+HEADLINE: What if I've tried everything?
+SUBHEADLINE: Three methods. Zero results. Here's what every method missed.
+
+[VISUAL ELEMENT]
+ROLE: hero-image-lifestyle
+INTENT: shows a parent + child in a warm, candid moment — the
+        "exhausted but still searching" parent Sarah recognizes,
+        natural light, genuine, not stock
+EXAMPLE_PICK: lifestyle photo of parent and child, warm home
+              setting, soft window light, authentic moment
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: HOOK — OBJECTION NAMING]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from hero)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: numbered-list-callout
+INTENT: anchors the "three methods" frame for the L1 reader,
+        the precise number that mirrors her lived experience
+        (Oh Crap, sticker charts, timer sits)
+EXAMPLE_PICK: a typographic list block naming the three methods,
+              warm treatment, set against the cream background
+NOTE: The "three" is the easter-egg calibration for L1. Stage 2
+      decides whether to render this as a list or a stacked
+      caption block.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: VALIDATION — SCIENCE ANCHOR]
+─────────────────────────────────────────────────────────────────
+HEADLINE: First: you didn't fail.
+SUBHEADLINE: Those methods didn't fail either. They just couldn't
+             work for your child.
+
+[VISUAL ELEMENT]
+ROLE: science-callout-box
+INTENT: hosts the Nicholson et al. (2019) citation that reframes
+        the failure as a neurological signal-timing gap, not a
+        parenting failure
+EXAMPLE_PICK: callout box with amber-warm tinted background,
+              thin accent left border, citation in mono
+              treatment, body in serif
+NOTE: This is the FIRST science callout in the email. Sets the
+      treatment for any subsequent callouts (Stage 2 may vary
+      this for variance or keep it consistent).
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: REFRAME — MECHANISM BRIDGE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: So when you ask "why would this be different?",
+          the answer is the mechanism.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: signal-gap-diagram
+INTENT: shows the interoception gap (signal arrives too late) and
+        how the Body-Signal Learning Layer bridges it with a
+        sustained 30-60 second sensation
+EXAMPLE_PICK: a 2-panel comparison diagram, panel 1 = broken
+              signal (gap), panel 2 = BSL bridge (signal path),
+              hand-drawn / illustrated-children's-book aesthetic,
+              warm tones, not clinical
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: SOCIAL PROOF — MINI-WIN]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from reframe)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: pull-quote-block
+INTENT: hosts the single L1 mini-win testimonial ("He paused.
+        Then he looked down. Then he walked to the potty.")
+EXAMPLE_PICK: centered pull quote, large opening quotation mark
+              in accent color behind the text, name/attribution
+              below in muted warm grey
+NOTE: L1 calibration = ONE quote only (L2 needs 2-3, L3 needs
+      zero or one dignified reference).
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: PRODUCT — 3-LAYER SYSTEM EDUCATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Here's how the 3-Layer System works:
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: three-layer-stack-diagram
+INTENT: visualizes the 3-Layer System as three stacked blocks
+        (Signal Creation / Smart Absorption / Leak Barrier)
+        with labels and brief spec callouts
+EXAMPLE_PICK: three stacked rounded rectangles in graduated
+              tones with labels "Layer 1, Signal Creation",
+              "Layer 2, Smart Absorption", "Layer 3, Leak
+              Barrier", each with a 1-2 line spec callout
+NOTE: NO illustrations of actual underwear. The parent
+      imagines her child.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: GUARANTEE — RISK REVERSAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You don't have to believe me.
+SUBHEADLINE: 60 days to try. By your judgment.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-badge-callout
+INTENT: the standalone guarantee section, the highest-trust
+        block in the email, gives skeptical L1 the permission
+        structure to act
+EXAMPLE_PICK: outlined typographic badge containing "60" +
+              guarantee body text, soft sage background panel,
+              centered, generous internal padding
+NOTE: Standalone before CTA. Critical for skeptical L1.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: CTA — PRIMARY + P.S.]
+─────────────────────────────────────────────────────────────────
+HEADLINE: See if the 3+3 Bundle closes the gap before Pre-K
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+none
+
+[CTA]
+BUTTON_TEXT: See if the 3+3 Bundle closes the gap before Pre-K
+BUTTON_INTENT: drives to PDP
+              landing.brightkidco.com/products/potty-training-underwear-for-sensory-sensitive-toddlers-sp
+SECONDARY: text link "Explore the science behind it" (small, muted)
+
+[P.S.]
+P.S. TEXT: Pre-K is coming. If September is your target, Day 10
+           of the Welcome Flow is when most parents who go on
+           to succeed place their first order. The 3+3 Bundle
+           ($79.99, free shipping) gives your child 6 pairs of
+           consistent daily wear. 60-day guarantee means you
+           decide if it worked.
+P.S. INTENT: secondary CTA in P.S. form, soft re-anchor of
+            calendar urgency + bundle detail + guarantee
+
+NOTE: DOUBLE-TAP CTA pattern (primary button + P.S. secondary
+      mention). Approved L1 CTA pattern for long emails.
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA MEDIUM VARIANT]
+─────────────────────────────────────────────────────────────────
+Background: subtle separation tone
+Body 17px: "I have two autistic sons. One trained at 6. The
+            other took us until he was almost 8. I know what
+            it's like to read an email like this and think
+            'I've heard this before.' Your skepticism is
+            legitimate. So is the science. If you've got a
+            question, hit reply. You'll get me, not a template,
+            not a bot. I read everything."
+Closing: "With care,"
+Signature: "Lena —" (handwritten-italic treatment, 20px)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe | Manage Preferences
+Questions? Reply to this email, Lena reads every response.
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+|- Hero image visible above 400px (mobile)? YES (hero is the
+|  first section, definitely above fold on mobile + desktop)
+|- Section 1 headline visible above 400px? YES
+|- PASS
+
+=================================================================
+IMAGE_COUNT:
+|- Total images in this email: 4 (hero + signal-gap diagram +
+|  3-layer stack diagram + decorative element, or hero + 3
+|  layer visual panels depending on Stage 2 composition)
+|- Image positions: section 1 (hero), section 4 (signal-gap),
+|  section 6 (3-layer stack), optional section 5/7 accent
+|- Density category: 4 (information-dense, image-supported)
+
+=================================================================
+COMPONENT_COUNT:
+|- Total distinct component ROLES in this email: 8
+|  - hero-image-lifestyle (section 1)
+|  - numbered-list-callout (section 2)
+|  - science-callout-box (section 3)
+|  - signal-gap-diagram (section 4)
+|  - pull-quote-block (section 5)
+|  - three-layer-stack-diagram (section 6)
+|  - guarantee-badge-callout (section 7)
+|  - cta-button-full-width + ps-cta-secondary (section 8)
+|  - signoff-lena-medium (signoff block)
+|- Density category: 8 (rich, at the 8-cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+|- Section count: 8 (long but tight, consolidated from the
+|  copy's 11-section spec to a reader-facing 8-section flow)
+|- Section pattern: G (Urgency-Driven) — calendar math +
+|  mechanism deep + pricing
+|- Image density: 4 (hero + 3 product/science diagrams,
+|  highest in welcome flow)
+|- Color temperature: warm + Cream base + Brand-Green layer
+|  callouts (CTA color shifts to Brand-Green for the
+|  product-emphasis sections, contrast vs E4's Mint
+|  mechanism accent)
+|- Email length: long (~430 word body + signoff + PS, the
+|  longest in the welcome flow per journey spec, 1,186
+|  words total)
+|- Argument structure: MP-product (Calendar urgency → 3-layer
+|  deep → Realistic timeline → Pricing)
+|- Visual rhythm: mixed (hero wide + body tight + product
+|  diagrams get breathing room — informationally dense email
+|  with intentional visual variation)
+|- CTA position: double-tap (primary button + P.S. secondary,
+|  approved L1 pattern for long emails)
+|- Subject line type: objection-hook (question mirror, names
+|  the skepticism before the reader has to raise it)
+
+=================================================================
+VARIANCE_CHECK against welcome-01-e4-l1:
+|- Dimension 1 (Section count): E4=11, E5=8          DIFFERS
+|- Dimension 2 (Section pattern): E4=C, E5=G         DIFFERS
+|- Dimension 3 (Image density): E4=2, E5=4          DIFFERS
+|- Dimension 4 (Color temperature): E4=Mint, E5=Brand-Green  DIFFERS
+|- Dimension 5 (Email length): E4=1029, E5=1186     DIFFERS
+|- Dimension 6 (Argument structure): E4=MP-absolution, E5=MP-product  DIFFERS
+|- Dimension 7 (Visual rhythm): E4=tight-with-breathing, E5=mixed  DIFFERS
+|- Dimension 8 (CTA position): E4=triple-tap, E5=double-tap  DIFFERS
+|- Dimension 9 (Subject line type): E4=identity-mirror parent-quote,
+|                                   E5=objection-hook question  DIFFERS
+|- TOTAL DIFFERENCES: 9/9
+|- Status: PASS (>= 5/9 required)
+
+=================================================================
+END OF WIREFRAME — welcome-01-e5-l1
+=================================================================
+```
+
+---
+
+## WHAT THIS WIREFRAME GIVES STAGE 2
+
+The wireframe defines 8 ROLE slots plus signoff and P.S. Stage 2 picks from libraries:
+
+| ROLE slot | Stage 2 picks from | Constraint |
+|-----------|---------------------|------------|
+| `hero-image-lifestyle` | 36 product images (11 in lifestyle/) | cap 25x per image |
+| `numbered-list-callout` | 949 components (list_block, body_recognition) | cap 8x |
+| `science-callout-box` | 949 components (stat_callout, fact_box) | cap 8x |
+| `signal-gap-diagram` | 949 components (diagram, illustration) | cap 8x |
+| `pull-quote-block` | 949 components (quote_block, testimonial) | cap 8x |
+| `three-layer-stack-diagram` | 949 components (product_diagram, anatomy) | cap 8x |
+| `guarantee-badge-callout` | 949 components (guarantee_callout, badge) | cap 8x |
+| `cta-button-full-width` + `ps-cta-secondary` | 949 components (CTA variants) | cap 8x |
+| `signoff-lena-medium` | 949 components (signoff variants) | cap 8x |
+| `header-static` + `footer-static` | Extracted ONCE from Giuliano mockup, applied to all 125 | static, no cap |
+
+Stage 2 also applies System B colors automatically:
+- Brand-Green #039902 (CTAs, accents)
+- Mint #DBFFCD (highlights)
+- Cream Card #FBF7EB (cards)
+- Yellow #F5C84B (L1 stats only)
+- Dark Text #1A1A1A (body)
+- Body Gray #4A4A4A (captions)
+- Off-White #FAF9F7 (background)
+- Soft Gray #9AA8A7 (subtle text)
+
+---
+
 *End of document, Welcome E5 L1 (Sarah)*
+
+## STAGE 2 PICKS — welcome-01-e5-l1
+
+### Section 1: HERO - hero-image-lifestyle (parent+child)
+- ROLE slot: hero-image-lifestyle
+- INTENT: shows parent + child in warm candid moment — Pre-K readiness frame
+- COMPONENT PICKED: HERO-3
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: HERO-3 'Permission Open' provides the warm, permission-toned opening suitable for E5's parent+child frame. Variance vs HERO-5/13/18 used in E1/E3/E4.
+- IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
+  - Alt text: Mother and child in a warm home moment, holding a pair of training pants with a yellow watermelon print, hopeful posture.
+  - Current usage: 0/25
+  - WHY: Founders holding product (a mom + child warm moment with the product) — fits E5's parent+child warm candid requirement. Different from other toddler-only lifestyle images used in E1-E4.
+
+### Section 2: HOOK - numbered-list-callout
+- ROLE slot: numbered-list-callout
+- INTENT: anchors the "three methods" frame for the L1 reader
+- COMPONENT PICKED: 7.2
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: 7.2 'Numbered Method Card' is the catalog's exact numbered-method-list pattern — perfect for E5's three-method anchor. Audience L1.
+- IMAGE PICKED: none (text-only component)
+
+### Section 3: VALIDATION - science-callout-box
+- ROLE slot: science-callout-box
+- INTENT: hosts the Nicholson et al. (2019) citation that reframes behavior → signal
+- COMPONENT PICKED: EDU-11
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: EDU-11 'Science Citation' is the catalog's science-citation pattern — exact match for E5's Nicholson et al. (2019) citation block.
+- IMAGE PICKED: none (text-only component)
+
+### Section 4: REFRAME - signal-gap-diagram
+- ROLE slot: signal-gap-diagram
+- INTENT: shows the interoception gap (signal arrives too late)
+- COMPONENT PICKED: EDU-8
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: EDU-8 'Mechanism Diagram' is the catalog's mechanism diagram component — appropriate for the signal-gap visual. Variance vs DEEP-16 used in E2.
+- IMAGE PICKED: none (text-only component)
+
+### Section 5: SOCIAL PROOF - pull-quote-block
+- ROLE slot: pull-quote-block
+- INTENT: single L1 mini-win testimonial
+- COMPONENT PICKED: DEEP-22
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: DEEP-22 'The Milestone Reframe' is a milestone-anchor pull-quote pattern — fits E5's mini-win testimonial framing. Variance vs DEEP-13 (E4), DEEP-19 (E4).
+- IMAGE PICKED: none (text-only component)
+
+### Section 6: PRODUCT - three-layer-stack-diagram
+- ROLE slot: three-layer-stack-diagram
+- INTENT: visualizes the 3-Layer System as three stacked blocks
+- COMPONENT PICKED: PROD-7
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: PROD-7 'Comparison Table' is the catalog's structured comparison pattern — appropriate for the 3-layer stack visualization (Layer 1 / Layer 2 / Layer 3). Variance vs PROD-3 (E2/E3), PROD-4 (E4).
+- IMAGE PICKED: none (text-only component)
+
+### Section 7: GUARANTEE - guarantee-badge-callout
+- ROLE slot: guarantee-badge-callout
+- INTENT: standalone guarantee section, highest-trust moment
+- COMPONENT PICKED: CTAMAX-05
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: CTAMAX-05 'Guarantee CTA' is the catalog's guarantee-toned CTA — appropriate for E5's standalone guarantee moment.
+- IMAGE PICKED: none (text-only component)
+
+### Section 8: PRIMARY CTA - cta-button-full-width
+- ROLE slot: cta-button-full-width
+- INTENT: Pre-K math primary CTA — full-width green, permission-toned
+- COMPONENT PICKED: CTAMAX-09
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: CTAMAX-09 'Curiosity CTA' is the catalog's curiosity-toned CTA — fits E5's 'see the math' Pre-K framing. Variance vs CTAMAX-01/04/06 used in earlier emails.
+- IMAGE PICKED: none (text-only component)
+
+### Signoff: signoff-lena-short (With understanding)
+- ROLE slot: signoff-lena-short
+- INTENT: Lena SHORT sign-off for E5: 'With understanding,'
+- COMPONENT PICKED: 12.1
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 3/8
+  - WHY: 12.1 'Lena Signoff' — same component for E3-E5 progression.
+- IMAGE PICKED: none (text-only component)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-3', '7.2', 'EDU-11', 'EDU-8', 'DEEP-22', 'PROD-7', 'CTAMAX-05', 'CTAMAX-09', '12.1']
+- image-usage.json: incremented ['lifestyle/founders-holding-pants-yellow-watermelon.png']
+
+## STAGE 2 REMEDIATION — welcome-01-e5-l1
+
+> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
+> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
+> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
+> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
+> due to the structural catalog limitation, not a per-email pick error.
+>
+> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
+>

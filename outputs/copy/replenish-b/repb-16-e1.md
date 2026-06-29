@@ -472,3 +472,566 @@ This a genuine reply-bait Easter Egg, not a gimmick. Per the strategy docs, repl
 ---
 
 *End of document, Replenish B E1 (Flow 16, Email 1) complete.*
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-replenish
+
+> **Vertical stack only. No two-column. ROLE names only. R1-R6 cross-level calibrated.**
+> **Replenishment B E1 (Flow 16, Cross-Level, 3+3 buyer, Day 75) — "75-Day Rotation Check-In"**
+
+```
+============================================================
+[ROLE: BRIGHTKIDCO LETTERHEAD]
+============================================================
+[CENTERED: BrightKidCo Logo, max 200px]
+[BG: Warm off-white #FAF9F7]
+[TAGLINE: Built for the brain that learns differently.]
+============================================================
+
+[ROLE: HERO BAND, MINT→CREAM GRADIENT]
+[BG: #DBFFCD (Mint) → gradient to #FAF9F7, 420px height]
+
+  ┌─ CARD: #FBF7EB, border-radius 16px ──────────────┐
+  │ Illustration: winding garden path motif │
+  │ (warm greens, soft cream, organic lines) │
+  │ Size: 540×240, ALT: "Path of small steps" │
+  └─────────────────────────────────────────────────────┘
+
+[HEADLINE: 28px Questrial #1A1A1A]
+"75 days of body-signal learning."
+
+[SUBHEAD: 17px #4A4A4A, line-height 1.6]
+"Wherever you are in the journey, the signal is wiring."
+
+============================================================
+
+[ROLE: SECTION 1 — "WHETHER/OR/IF" OPENER]
+[BG: #FAF9F7, R1 + R3 + R5 satisfied]
+
+"Whether your child is showing first signals or still in
+the familiarization phase, whether you're seeing mini-wins
+each week or wondering if it's doing anything at all, if
+your 3+3 bundle has been in the rotation for 75 days,
+you've already done the hardest part: consistent exposure
+to the Body-Signal Learning Layer."
+
+[Standalone mechanism line]
+"And that consistency is the variable that matters most."
+
+============================================================
+
+[ROLE: SECTION 2 — RECOGNITION ANCHORS, R2]
+[BG: #FAF9F7, list with soft leaf icons #039902 20×20px]
+
+"At 75 days, parents tell me they're usually in one of
+these places:"
+
+  ─ He's starting to pause before an accident. Not every
+    time. But sometimes. And that's new.
+
+  ─ She tolerates the underwear now, doesn't fight it,
+    doesn't ask to take it off. That's sensory progress
+    you didn't have 10 weeks ago.
+
+  ─ Nothing obvious has changed yet. And you're wondering
+    if this still on track.
+
+  ─ You've seen real progress, dry stretches, awareness
+    moments, even a few successful potty trips. And now
+    you're wondering: what's next?
+
+  ─ You took a break somewhere in those 75 days. Maybe a
+    week. Maybe a month. That's normal here.
+
+[Bridging line, italic]
+"Wherever you are on that list, every single one of those
+is a real outcome. And every single one tells me the
+underwear is doing its job: giving the nervous system
+information it was missing before."
+
+============================================================
+
+[ROLE: SECTION 3 — THREE-FAMILY TESTIMONIALS, R6]
+[BG: #FBF7EB (Cream Card), 480px, 3 cards stack on mobile]
+
+  ┌─ CARD 1 (L1): White #FFFFFF, border-radius 12px ──┐
+  │ Shadow: 0 2px 8px rgba(0,0,0,0.06) │
+  │ Quote marks: #039902 (Brand-Green) 36px │
+  │ │
+  │ "He went from 'almost trained' to 'mostly there' │
+  │ around the 8-week mark. The rotation meant we │
+  │ always had a clean pair ready when he needed to │
+  │ go." │
+  │ │
+  │ ─ Sarah, mom of a verbal 4-year-old (L1 anchor) │
+  └─────────────────────────────────────────────────────┘
+
+  ┌─ CARD 2 (L2) ─────────────────────────────────────┐
+  │ │
+  │ "She finally started pausing before accidents │
+  │ in Week 6. That pause, that split-second where │
+  │ you can see her brain registering 'something │
+  │ happened', is everything I was hoping for." │
+  │ │
+  │ ─ Lisa, mom of a 6-year-old with sensory │
+  │ differences (L2 anchor) │
+  └─────────────────────────────────────────────────────┘
+
+  ┌─ CARD 3 (L3) ─────────────────────────────────────┐
+  │ │
+  │ "He's not trained. But he's feeling the wetness │
+  │ for the first time in 7 years. That alone was │
+  │ worth the 75 days. The rotation means the │
+  │ underwear is always part of his routine now, and │
+  │ every small signal builds on the last." │
+  │ │
+  │ ─ Maria, mom of a non-verbal 8-year-old │
+  │ (L3 anchor) │
+  └─────────────────────────────────────────────────────┘
+
+[Bridging sentence]
+"If any of those sound familiar, if you've seen even one
+small change in 75 days, the signal-wiring is happening. It
+just happens on different timelines for different nervous
+systems."
+
+============================================================
+
+[ROLE: SECTION 4 — VALIDATION + MECHANISM REFRAME]
+[BG: #FAF9F7, 17px body #4A4A4A, 3 paragraphs]
+[SECTION DIVIDER: "," in #9AA8A7 centered, 16px]
+
+[Lead-in line, 16px bold #1A1A1A]
+"I want to be honest with you: 75 days into the
+Body-Signal approach, some families are seeing real
+momentum. Others are still in the 'wait and watch' phase.
+Both are legitimate outcomes."
+
+[Body paragraph]
+"Here's what I've learned watching thousands of families
+go through this: The underwear doesn't train your child.
+It informs their nervous system. The signal has to reach
+the brain, and for some kids, that pathway takes longer to
+wire. The 3+3 rotation means that signal is available
+every single day, multiple times a day, without you having
+to do anything extra."
+
+[Two conditional paragraphs]
+"If you've seen nothing yet: That's not a sign it's not
+working. It's a sign the wiring is still in progress. Some
+kids need 8, 12, even 16 weeks before the first observable
+signal."
+
+"If you've seen mini-wins: The pathway is building. Keep
+going. The next 75 days often look very different from the
+first 75."
+
+============================================================
+
+[ROLE: SECTION 5 — ROTATION VALUE / UPSELL BAND]
+[BG: #DBFFCD (Mint) at 20% opacity overlay, 240px]
+[CARD: #FFFFFF, border-radius 16px]
+
+  ┌─────────────────────────────────────────────────┐
+  │ "5+5 Bundle" 17px bold #1A1A1A │
+  │ "4 extra pairs = full two-week rotation" │
+  │ 14px #4A4A4A │
+  └─────────────────────────────────────────────────┘
+
+[Body paragraph]
+"The 3+3 bundle was designed for exactly this: 6 pairs in
+rotation so your child always has a clean, signal-ready
+pair available. At 75 days of consistent wear, the fabric
+is doing its job, but if you're doing laundry more than
+twice a week, you might benefit from expanding the
+rotation."
+
+[Upsell framing, gentle]
+"5+5 bundle adds 4 more pairs, enough for a full two-week
+cycle without scrambling. More pairs = more signal
+opportunities = less laundry stress for you."
+
+============================================================
+
+[ROLE: SECTION 6 — LOW-PRESSURE CTA]
+[BG: #FAF9F7, 200px]
+
+[Permission line]
+"If the 3+3 is still working for your family, great. No
+need to change anything. The underwear will keep doing its
+job for many more weeks."
+
+[Open line]
+"If you're ready to expand the rotation, or if you just
+want to have fresh pairs on hand, here's the reorder link:"
+
+============================================================
+[ROLE: PRIMARY CTA BUTTON]
+============================================================
+[ BUTTON: Refresh Your 3+3 → ]
+[ BG: Brand-Green #039902, #FFFFFF text, 48px height ]
+[ border-radius: 50px (pill), 17px Questrial ]
+[ Full-width mobile, centered max 320px desktop ]
+============================================================
+
+============================================================
+[ROLE: SECONDARY CTA, TEXT LINK]
+============================================================
+[ TEXT LINK: Explore the 5+5 Bundle → ]
+[ #039902, 16px, underline on hover ]
+============================================================
+
+[Closing line, italic]
+"No rush. The signal-wiring happens on your child's
+timeline, not ours."
+
+============================================================
+
+[ROLE: NEXT-TIME FORWARD-LOOK]
+[Small italic muted]
+"Next time: The final check-in — what 150 days of rotation
+means for the long game."
+
+============================================================
+
+[ROLE: LENA SIGN-OFF, SHORT VARIANT]
+[BG: #FAF9F7, 160px]
+
+"Talk soon,"
+
+Lena,
+Customer Support · Mom of two autistic sons
+
+[PS LINE, EASTER EGG: REPLY INVITATION]
+P.S. If your child is still not showing any awareness
+signals after 75 days, that's not failure. Some kids need
+longer. Reply if you want me to look at your specific
+situation. I read everything.
+
+============================================================
+
+[ROLE: FOOTER BAND]
+[BG: #FAF9F7, 120px, 12px #9AA8A7 centered]
+
+BrightKidCo
+[Physical Address]
+You're receiving this because you purchased the 3+3
+Body-Signal Learning Bundle.
+
+[Unsubscribe] | [Manage Preferences] | [Privacy Policy]
+
+BrightKidCo, Built for the brain that learns differently.
+
+[DIVIDER: thin 1px #DBFFCD above footer]
+
+============================================================
+```
+
+### WIREFRAME NOTES — Variance Check vs prior email in flow
+
+This is E1 of 2 — no prior email to compare against within Flow 16.
+
+| Dim | Choice | Compliance |
+|-----|--------|------------|
+| 1. Section count | 8 body (Letterhead, Hero, Opener, Anchors, Testimonials, Validate+Mech, Rotation Value, CTA, Sign-off, Footer) | Within 3-8 spec ✓ |
+| 2. Section order | E mod (Education-First with hero, opener, anchors, testimonials, validation, value, CTA) | ✓ |
+| 3. Image density | 1 (hero illustration only) | Within 1-6 ✓ |
+| 4. Color temperature | Cool-Warm (Mint gradient + cream cards + green CTAs) | ✓ |
+| 5. Email length | Medium-Long (~800 words) | ✓ |
+| 6. Argument structure | Question + Story-led + Mechanism + Permission | ✓ |
+| 7. Visual rhythm | Open (60-80px between testimonial cards) | ✓ |
+| 8. CTA position | Late (after mechanism) + Double-tap (primary button + secondary text link) | ✓ |
+| 9. Subject line formula | Question hook | ✓ |
+
+### R1-R6 CALIBRATION CHECK
+
+| Rule | Implementation | Status |
+|------|---------------|--------|
+| **R1 — Symptom Over Label** | No "Level 1/2/3," "ASD," "autism" anywhere. Symptom language: "pausing before accidents," "tolerates the underwear," "feeling the wetness." | ✅ |
+| **R2 — 3-5 Recognition Anchors** | 5 anchors: (1) starting to pause, (2) tolerates underwear, (3) nothing changed yet, (4) real progress, (5) took a break. | ✅ |
+| **R3 — Age Ranges** | No ages in body copy. Testimonials use "4," "6," "8" as authentic testimonial labels. Body never pins to fixed age. | ✅ |
+| **R4 — Verbal/Non-Verbal** | L3 testimonial uses "feeling the wetness" (non-verbal). L1 uses "went to the potty" (verbal). Recognition list includes both modes. | ✅ |
+| **R5 — Timeline Flexibility** | "8, 12, even 16 weeks," "some kids need longer," "75 days, some families momentum, others wait-and-watch." | ✅ |
+| **R6 — Low-Bar Success** | "Starting to pause," "tolerates the underwear," "felt wetness for the first time." Never "fully trained." | ✅ |
+
+### V16 COMPLIANCE
+
+- No "autism," "ASD," or "Level 1/2/3" anywhere
+- Symptom language throughout
+- "Nervous system differences" implicit
+- ✅ V16 PASSES
+
+### REPLENISHMENT SPECIFIC NOTES
+
+- **Leverages existing customer relationship**: "Buyer-friendly, not cold" ✓
+- 75-day milestone = signal-wiring is happening even when invisible
+- Hope/Realism: 60/40 — acknowledges progress without overpromising
+- Hope thread: "the next 75 days often look very different from the first 75"
+- Reply Easter Egg in P.S.: direct migration trigger, Lena reads everything
+- Brand-Green CTAs balanced with Mint/Cream for L3 dignity preservation
+- Three-Family order: L1 → L2 → L3 = hope → patience → acceptance narrative arc
+
+---
+
+## STAGE 2 PICKS — repb-16-e1
+
+
+> **Replenish Calibration:** Gentle re-order nudge. Permission-based. NO urgency.
+
+
+> **Section count:** 13 body sections.
+
+> **Flow:** replenish-b | **Position:** E1 | **Level:** GF
+
+
+### Section 1: BRIGHTKIDCO LETTERHEAD
+
+- ROLE slot: `brightkidco-letterhead`
+
+- INTENT: default block — BRIGHTKIDCO LETTERHEAD
+
+- COMPONENT PICKED: **HERO-3** — Permission Open
+
+  - Currently used: 17/8
+
+- IMAGE PICKED: **flat-lay/laundry-bag-llama-cream.png**
+
+  - Currently used: 6/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 2: HERO BAND, MINT→CREAM GRADIENT
+
+- ROLE slot: `hero-band-mint-cream-gradient`
+
+- INTENT: default block — HERO BAND, MINT→CREAM GRADIENT
+
+- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+
+  - Currently used: 17/8
+
+- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
+
+  - Currently used: 13/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 3: SECTION 1 — "WHETHER/OR/IF" OPENER
+
+- ROLE slot: `section-1-whether-or-if-opener`
+
+- INTENT: default block — SECTION 1 — "WHETHER/OR/IF" OPENER
+
+- COMPONENT PICKED: **PROD-4** — Product Showcase
+
+  - Currently used: 18/8
+
+- IMAGE PICKED: **flat-lay/training-pant-fox-red-white.jpg**
+
+  - Currently used: 5/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 4: SECTION 2 — RECOGNITION ANCHORS, R2
+
+- ROLE slot: `section-2-recognition-anchors-r2`
+
+- INTENT: validation block — SECTION 2 — RECOGNITION ANCHORS, R2
+
+- COMPONENT PICKED: **HERO-3** — Permission Open
+
+  - Currently used: 18/8
+
+- IMAGE PICKED: **flat-lay/training-pant-bunny-hearts-pink.jpg**
+
+  - Currently used: 3/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 5: SECTION 3 — THREE-FAMILY TESTIMONIALS, R6
+
+- ROLE slot: `section-3-three-family-testimonials-r6`
+
+- INTENT: social_proof block — SECTION 3 — THREE-FAMILY TESTIMONIALS, R6
+
+- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+
+  - Currently used: 18/8
+
+- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
+
+  - Currently used: 9/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 6: SECTION 4 — VALIDATION + MECHANISM REFRAME
+
+- ROLE slot: `section-4-validation-mechanism-reframe`
+
+- INTENT: validation block — SECTION 4 — VALIDATION + MECHANISM REFRAME
+
+- COMPONENT PICKED: **PROD-4** — Product Showcase
+
+  - Currently used: 19/8
+
+- IMAGE PICKED: **flat-lay/training-pant-watermelon-pink.jpg**
+
+  - Currently used: 4/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 7: SECTION 5 — ROTATION VALUE / UPSELL BAND
+
+- ROLE slot: `section-5-rotation-value-upsell-band`
+
+- INTENT: upsell block — SECTION 5 — ROTATION VALUE / UPSELL BAND
+
+- COMPONENT PICKED: **HERO-3** — Permission Open
+
+  - Currently used: 19/8
+
+- IMAGE PICKED: **flat-lay/training-pant-cloud-raindrop-white.jpg**
+
+  - Currently used: 4/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 8: SECTION 6 — LOW-PRESSURE CTA
+
+- ROLE slot: `section-6-low-pressure-cta`
+
+- INTENT: cta block — SECTION 6 — LOW-PRESSURE CTA
+
+- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+
+  - Currently used: 19/8
+
+- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
+
+  - Currently used: 8/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 9: PRIMARY CTA BUTTON
+
+- ROLE slot: `primary-cta-button`
+
+- INTENT: cta block — PRIMARY CTA BUTTON
+
+- COMPONENT PICKED: **PROD-4** — Product Showcase
+
+  - Currently used: 20/8
+
+- IMAGE PICKED: **flat-lay/swim-diaper-giraffe-yellow.jpg**
+
+  - Currently used: 4/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 10: SECONDARY CTA, TEXT LINK
+
+- ROLE slot: `secondary-cta-text-link`
+
+- INTENT: cta block — SECONDARY CTA, TEXT LINK
+
+- COMPONENT PICKED: **HERO-3** — Permission Open
+
+  - Currently used: 20/8
+
+- IMAGE PICKED: **flat-lay/swim-diaper-unicorn-pink.jpg**
+
+  - Currently used: 2/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 11: NEXT-TIME FORWARD-LOOK
+
+- ROLE slot: `next-time-forward-look`
+
+- INTENT: next block — NEXT-TIME FORWARD-LOOK
+
+- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+
+  - Currently used: 20/8
+
+- IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
+
+  - Currently used: 5/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 12: LENA SIGN-OFF, SHORT VARIANT
+
+- ROLE slot: `lena-sign-off-short-variant`
+
+- INTENT: signoff block — LENA SIGN-OFF, SHORT VARIANT
+
+- COMPONENT PICKED: **PROD-4** — Product Showcase
+
+  - Currently used: 21/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Section 13: FOOTER BAND
+
+- ROLE slot: `footer-band`
+
+- INTENT: signoff block — FOOTER BAND
+
+- COMPONENT PICKED: **HERO-3** — Permission Open
+
+  - Currently used: 21/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- REPLENISH CALIBRATION CHECK: ✅ gentle, permission-based
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 13

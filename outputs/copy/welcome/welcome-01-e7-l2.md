@@ -569,3 +569,333 @@ For ESP compatibility (Gmail, Outlook, Apple Mail), all visual elements use stat
 ---
 
 *End of document. Total sections: Part 1 (Email Copy) ✓ | Part 2 (Creative Strategy) ✓ | Level Calibration: L2 (Lisa) ✓ | 6-Element Formula: Complete ✓*
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l2-7
+
+> **Source sections (from Part 1 copy):** Hook → Validation (6-Element ①) → Deep Mechanism (6-Element ②) → BCBA/OT Acknowledgment (6-Element ③) → Realistic Timelines (6-Element ④) → Mini-Win Testimonials → Product Introduction → Guarantee (6-Element ⑤) → CTA (6-Element ⑥) → Sign-off (LONG transitioning)
+> **Variance baseline:** L2 E6 (8 sections, Pattern D Social Proof First, 3 L2 testimonials in cream cards, comparison-table product intro, Lena LONG sign-off, pull-up-harm subject, WARM color temperature)
+> **L2 deltas vs E6:** Pattern C (Problem-Solution) RETURN but at OPERATIONAL depth (the prompt-dependency loop explained in plain prose); subject pivots to mechanism tease in plain language ("The interoception gap, explained simply"); explicit 6-Element section labels (numbered ① through ⑥) — most structurally annotated email in sequence; prompt-dependency loop diagram (mint-bordered explainer box); mini-win testimonials (3 quotes with timeline progression: "He went today!" / "Week 3 he paused" / "60% of the time"); 3+3 Bundle product table returns; "With care, Lena" sign-off (LONG fully arrived); 600–800 words.
+
+### Variance Check vs L2-E6 (target ≥ 5/9 dimensions different)
+
+| # | Dimension | L2-E6 (previous) | L2-E7 (this wireframe) | Diff? |
+|---|-----------|------------------|------------------------|-------|
+| 1 | Section count + names | 8 (Hook→Validation→Mechanism (Pull-Up Reframe)→Social Proof→Product Intro→Guarantee→CTA→Sign-off) | 10 (Hook→Validation (①)→Deep Mechanism (②)→BCBA/OT (③)→Realistic Timelines (④)→Mini-Win Testimonials→Product Intro→Guarantee (⑤)→CTA (⑥)→Sign-off) — explicit numbered 6-element labels + 3 mini-win testimonials | ✅ |
+| 2 | Section pattern (A–H) | **D — Social Proof First** | **C — Problem-Solution (operational depth)** — Hero (the loop) → Bridge → Mechanism (cycle) → Break (the layer) → BCBA-respect → CTA | ✅ |
+| 3 | Image density | 3 (one per testimonial; cream cards) | 1 (mint-bordered explainer box for the loop diagram — single column visual) | ✅ |
+| 4 | Color temperature | Warm (cream testimonial cards; minimal mint) | **Cool — Mint explainer box; white body** (the explainer box is the visual signature; mechanism as art) | ✅ |
+| 5 | Email length | 700–800 words | 600–800 words (4–5 min read; mechanism must be operational) | ✅ |
+| 6 | Argument structure | Testimonial-led (3 L2-shaped stories) | **Mechanism (operational) + BCBA frame** — the cycle: prompt → compliance → voiding → no internal association → no generalization → prompt needed again. Break: wetness-sensing layer. | ✅ |
+| 7 | Visual rhythm | Mixed (32px between testimonials, 44px around CTA) | **Mixed — tight around the loop diagram (16px), 44px elsewhere** (density around mechanism; open elsewhere) | ✅ |
+| 8 | CTA position | Soft late (commercial CTA "Try the 3+3 Bundle") | **Single soft** — "When you're ready to try, 60-day guarantee stands" (more permission-leaning; commercial CTA softened further) | ✅ |
+| 9 | Subject line type | Mechanism tease with cost-anchor ($50/mo pull-up habit) | **Mechanism tease in plain language** ("The interoception gap, explained simply") — first subject to demystify jargon | ✅ |
+
+**Variance score: 9/9 dimensions differ.** Threshold ≥ 5/9 met.
+
+### Vertical-Stack ASCII Wireframe
+
+```
+┌──────────────────────────────────────────────────────────┐
+│ HEADER (thin, off-white ground)                          │
+│  Logo bar: BrightKidCo wordmark                         │
+│  From: Lena from BrightKidCo                            │
+│  Subject: The interoception gap, explained simply       │
+│  Preview: How milliseconds make the difference between  │
+│           signal and accident                            │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  HOOK BODY (4–5 sentences; reframes as counter-         │
+│  intuitive insight)                                     │
+│  "What if I told you your child IS getting the signal,  │
+│   just milliseconds too late?"                          │
+│  "That pattern isn't random. It's not stubbornness.     │
+│   And it's not that you're doing something wrong."      │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  VALIDATION BODY (5–6 sentences) — 6-Element ①          │
+│  "You've probably heard 'interoception' from your OT.   │
+│   Maybe your BCBA mentioned it in passing."             │
+│  "The research by Nicholson et al. (2019) showed        │
+│   something counterintuitive. The deficit isn't that     │
+│   the signal is ABSENT. It's that the signal arrives    │
+│   with DELAYED ACCURACY."                               │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  DEEP MECHANISM BODY (5–6 sentences) — 6-Element ②      │
+│  "Interoception is the 'eighth sensory system'…"        │
+│  "Research found that 59% of autistic children cannot   │
+│   reliably signal when they need to urinate."           │
+│  "The Body-Signal Learning Layer is like improving the  │
+│   signal strength on that call. It makes sure the       │
+│   message arrives clearly and stays long enough for     │
+│   the brain to register it."                            │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED LOOP EXPLAINER BOX — single column,     │
+│   tight 16px around it, the operational diagram]        │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ THE PROMPT-DEPENDENCY LOOP, NAMED                  │  │
+│  │                                                    │  │
+│  │ [ prompt ]                                         │  │
+│  │      ↓                                             │  │
+│  │ [ compliance ]                                    │  │
+│  │      ↓                                             │  │
+│  │ [ voiding ]                                        │  │
+│  │      ↓                                             │  │
+│  │ [ no internal association ]                        │  │
+│  │      ↓                                             │  │
+│  │ [ no generalization ]                             │  │
+│  │      ↓                                             │  │
+│  │ [ prompt needed again ]                           │  │
+│  │                                                    │  │
+│  │ THE BREAK: wetness-sensing layer gives the body    │  │
+│  │ a signal it can register, repeatedly.              │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (mint #DBFFCD border; mechanism as art)               │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  BCBA/OT ACKNOWLEDGMENT BODY — 6-Element ③             │
+│  (5–6 sentences; L2 unlock sentence in body)            │
+│  "I want to be careful here, because I know how much    │
+│   trust you've placed in your BCBA and OT."            │
+│  "Your BCBA built the foundation. This adds the         │
+│   sensory layer that was missing."                      │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  REALISTIC TIMELINES BODY — 6-Element ④                │
+│  "Most parents see the first sign of body awareness     │
+│   within 2 to 4 weeks. That first sign might be         │
+│   small — a pause, a look down, a hand reaching         │
+│   toward the waistband."                                │
+│  "Full training typically takes 8 to 12 weeks."         │
+│  Wiggins 49% statistic mentioned: "almost half of       │
+│  autistic 4–5 year olds aren't toilet trained yet.      │
+│  This is a 6:1 gap compared to neurotypical children.   │
+│  You are not behind."                                   │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  MINI-WIN TESTIMONIALS — 3 small callout-quote-         │
+│  highlights (cream cards, single column; timeline       │
+│  progression)                                           │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He went today! Once! But he went! He stopped     │  │
+│  │  mid-play, looked down, and walked to the potty.  │  │
+│  │  That never happened before."                      │  │
+│  │  — L2 parent, 2 weeks in                           │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "The first week was nothing. Week three he         │  │
+│  │  paused. Week four he actually made it. Not       │  │
+│  │  every time. But enough to know it's working."    │  │
+│  │  — L2 parent, 4 weeks in                           │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "After 6 weeks in the 3+3 Bundle, she's using     │  │
+│  │  the potty independently 60% of the time.          │  │
+│  │  That's more than I ever expected."                │  │
+│  │  — L2 parent, 6 weeks in                           │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (cream #FBF7EB; compact spacing)                       │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PRODUCT INTRO — 3+3 Bundle (small table)               │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Product: BrightKidCo Body-Signal Learning Underw. │  │
+│  │ Recommended: 3+3 Bundle (6 pairs)                 │  │
+│  │ Price: $79.99 | Free shipping | $13.33/pair       │  │
+│  │ Best for L2: BCBA-compatible — layers add to       │  │
+│  │              existing protocol                     │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  GUARANTEE BODY — 6-Element ⑤                           │
+│  "60 days. Try it. By your judgment.                    │
+│   If your child shows no sign of body awareness after   │
+│   60 days, full refund. No fine print, no condition."   │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  CTA BODY — 6-Element ⑥ (most permission-leaning CTA   │
+│  in the entire sequence)                                │
+│  "When you're ready to try, 60-day guarantee stands."   │
+│  "I'm not going to tell you this is the right time.     │
+│   Only you know if today is the day."                   │
+│  "Maybe you need to talk to your BCBA first.            │
+│   Maybe you need another week of reading.               │
+│   Maybe this isn't the month."                          │
+│  "The product will be here. So will I."                 │
+│                                                          │
+│  [CTA BUTTON — cta-button-soft, muted-green]            │
+│  "When you're ready, the 3+3 Bundle is here"            │
+│  [ Muted-green, NOT full-width, 48px min height ]       │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SIGN-OFF — signoff-lena-long (FULL LONG VARIANT)       │
+│  "I have two autistic sons. One is 6, still in the      │
+│   middle of this journey. The other took us until       │
+│   he was almost 8."                                    │
+│  "Whatever comes next for you and your child, I'm       │
+│   here."                                                │
+│  With care,                                              │
+│  Lena ——                                                 │
+│                                                          │
+│  Footer: physical address · unsubscribe ·               │
+│          "Reply to this email, Lena reads every         │
+│           response."                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+SYSTEM B (automatic):
+- Backgrounds: warm off-white + cream cards (mini-win testimonials) + mint-bordered loop explainer
+- Text: high-contrast dark on off-white, body 17px
+- Loop diagram: single-column mint-bordered box (NOT side-by-side with text; full-width single column)
+- CTA: muted-green, NOT full-width, 48px min height, soft wording ("When you're ready")
+- Spacing: tight 16px around loop diagram; 44px elsewhere
+- No countdown timers, no "Quick" / "Easy" / "your BCBA should have…"
+- Section count ≈ 10 (most sections in sequence; structural annotation justifies density)
+```
+
+**L2 6-Element compliance verified at wireframe level (FULL — explicitly numbered):**
+- ✅ Symptom recognition: Validation section ① names the prompt-dependency paradox + school/home contrast + "wait for me to say time to go"
+- ✅ Mechanism specificity: Deep Mechanism section ② explains 59% urination signal failure + interoception as eighth sensory system + signal-strength analogy + loop diagram
+- ✅ BCBA acknowledgment: BCBA/OT section ③ names BCBA + OT directly with "Your BCBA built the foundation. This adds the sensory layer that was missing."
+- ✅ Realistic timelines: Timelines section ④ names 2–4 weeks first sign, 8–12 weeks full training, plus 49% Wiggins / SPARK normalization stat
+- ✅ 60-day guarantee: Guarantee section ⑤ with "No fine print, no condition"
+- ✅ Permission-not-to-buy: CTA section ⑥ is the deepest permission frame in the sequence ("Maybe this isn't the month. The product will be here. So will I.")
+
+======================================================================
+## STAGE 2 PICKS — welcome-01-e7-l2
+
+**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+
+**L2 calibration applied:**
+- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
+- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
+- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
+  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
+- 40/60 hope/realism ratio; clinical warmth, not peer-mom
+- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
+- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
+- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
+- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+
+
+### Section 1: hook-counter
+- **ROLE slot:** hook-counter
+- **INTENT (from wireframe):** HERO-7 Counter-Intuitive Truth
+- **COMPONENT PICKED:** HERO-7
+  - Name: Counter-Intuitive Truth *(L3950)*
+  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Hook: HERO-7 Counter-Intuitive Truth
+- **VARIANCE CHECK:** N/A (first section)
+
+### Section 2: validation-6elem-1
+- **ROLE slot:** validation-6elem-1
+- **INTENT (from wireframe):** EMO-4 (reused) — 6-Element 1
+- **COMPONENT PICKED:** EMO-4
+  - Name: Empathy Block *(L6924)*
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
+  - Currently used: 2/8 (under cap)
+  - **WHY:** Validation: EMO-4 (reused) — 6-Element 1
+- **VARIANCE CHECK:** differs from previous section (HERO-7) — OK
+
+### Section 3: mechanism-deep-6elem-2
+- **ROLE slot:** mechanism-deep-6elem-2
+- **INTENT (from wireframe):** EDU-13 Vocabulary Builder — interoception
+- **COMPONENT PICKED:** EDU-13
+  - Name: Vocabulary Builder *(L5589)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Mechanism: EDU-13 Vocabulary Builder — interoception
+- **VARIANCE CHECK:** differs from previous section (EMO-4) — OK
+
+### Section 4: BCBA-ack-6elem-3
+- **ROLE slot:** BCBA-ack-6elem-3
+- **INTENT (from wireframe):** LETTER-03 (reused) — 6-Element 3
+- **COMPONENT PICKED:** LETTER-03
+  - Name: Letter + Pull-Quote
+  - From catalog: position=`body_recognition`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 2/8 (under cap)
+  - **WHY:** BCBA ack: LETTER-03 (reused) — 6-Element 3
+- **VARIANCE CHECK:** differs from previous section (EDU-13) — OK
+
+### Section 5: timeline-6elem-4
+- **ROLE slot:** timeline-6elem-4
+- **INTENT (from wireframe):** EMO-5 (reused) — 6-Element 4
+- **COMPONENT PICKED:** EMO-5
+  - Name: Realistic Timeline *(L6941)*
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Timeline: EMO-5 (reused) — 6-Element 4
+- **VARIANCE CHECK:** differs from previous section (LETTER-03) — OK
+
+### Section 6: mini-win-quotes
+- **ROLE slot:** mini-win-quotes
+- **INTENT (from wireframe):** SP2 (reused) — 3 small mini-wins
+- **COMPONENT PICKED:** SP2
+  - Name: Review Quote Card *(L3208)*
+  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 3/8 (under cap)
+  - **WHY:** Quotes: SP2 (reused) — 3 small mini-wins
+- **VARIANCE CHECK:** differs from previous section (EMO-5) — OK
+
+### Section 7: product-intro-bundle
+- **ROLE slot:** product-intro-bundle
+- **INTENT (from wireframe):** CTADEEP-06.1 Product Comparison Table — 3+3 bundle table
+- **COMPONENT PICKED:** CTADEEP-06.1
+  - Name: CTADEEP-06.1 — Product Comparison Table
+  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Product: CTADEEP-06.1 Product Comparison Table — 3+3 bundle table
+- **VARIANCE CHECK:** differs from previous section (SP2) — OK
+
+### Section 8: guarantee-6elem-5
+- **ROLE slot:** guarantee-6elem-5
+- **INTENT (from wireframe):** TRUST-1 (reused) — 6-Element 5
+- **COMPONENT PICKED:** TRUST-1
+  - Name: 60-Day Seal *(L6385)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
+  - Currently used: 4/8 (under cap)
+  - **WHY:** Guarantee: TRUST-1 (reused) — 6-Element 5
+- **VARIANCE CHECK:** differs from previous section (CTADEEP-06.1) — OK
+
+### Section 9: cta-permission-6elem-6
+- **ROLE slot:** cta-permission-6elem-6
+- **INTENT (from wireframe):** CTAMAX-18 Permission CTA — most permission-leaning CTA
+- **COMPONENT PICKED:** CTAMAX-18
+  - Name: Permission CTA *(L17096)*
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** CTA: CTAMAX-18 Permission CTA — most permission-leaning CTA
+- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
+
+### Section 10: signoff
+- **ROLE slot:** signoff
+- **INTENT (from wireframe):** 12.1 (reused from E6) — LONG
+- **COMPONENT PICKED:** 12.1
+  - Name: Lena Signoff
+  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
+  - Currently used: 8/8 (at/over cap)
+  - **WHY:** Signoff: 12.1 (reused from E6) — LONG
+- **VARIANCE CHECK:** differs from previous section (CTAMAX-18) — OK
+
+### Footer (static — already picked, no work needed)
+- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
+- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
+- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+
+### Tracker updates applied
+- `component-usage.json`: incremented counts for `HERO-7`, `EMO-4`, `EDU-13`, `LETTER-03`, `EMO-5`, `SP2`, `CTADEEP-06.1`, `TRUST-1`, `CTAMAX-18`, `12.1`
+

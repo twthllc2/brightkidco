@@ -279,3 +279,704 @@ This a cross-level transactional email. The creative strategy is designed to ser
 - **Timeline flexibility (R5):** "Some kids show awareness in 2 weeks. Others need 8 weeks. Both normal."
 - **Low-bar success (R6):** First win might be "a pause, a look down, a walk toward the bathroom", not "fully trained."
 
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-transactional
+
+```
+=================================================================
+WIREFRAME: order-05-e1
+Email ID: order-05-e1
+Flow: Order Confirmation (Flow 05)
+Position: E1, Immediate (within 1 min of purchase) | Day: 0
+Level: Cross-Level (R1-R6 calibration, all 4 levels + GF)
+Lever: L4 (Lena) | Sign-off: Lena SHORT variant
+Subject: "Your order is confirmed, here's what's next"
+Preheader: "Your BrightKidCo order is locked in. Here's what
+            your first week looks like, and what to expect
+            when the package lands."
+=================================================================
+
+NOTE: TRANSACTIONAL EMAIL. Per GIULIANO-DEMANDS §17.7, must be
+predominantly transactional per Google 2024 guidelines. Hidden
+plain-text fallback div mandatory. Table-based layout, inline
+CSS, 600px max width. ONE soft cross-sell (Wash Bag) is the only
+permitted secondary content. NO countdown, NO promo badges, NO
+urgency cues, NO level-specific imagery. R1-R6 calibration
+preserved throughout.
+
+SENDER: "Lena from BrightKidCo" <orders@send.brightkidco.com>
+REPLY-TO: support@brightkidco.com (always)
+TRANSPORT: send.brightkidco.com, click.brightkidco.com tracked
+
+Vertically stacked, single column. No side-by-side. No two-column.
+MINIMAL visual treatment — transactional feel, not marketing.
+Transaction block dominates the upper half; warm Lena welcome +
+soft cross-sell sit below.
+
+=================================================================
+[HEADER — STATIC BKC LOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all transactional sends
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[STATUS HEADER — ORDER CONFIRMATION BANNER]
+─────────────────────────────────────────────────────────────────
+ROLE: status-bar-order-confirmed
+INTENT: a thin horizontal bar above the receipt card, full
+        width, neutral-grey background (#F5F4F1) with a single
+        emerald check (✓ #039902) + the verbatim confirmation
+        line "Order confirmed". This is the EMAIL HEADER for
+        transactional Flow 05 — not a hero, not a banner ad.
+        Set in Questrial 14px / 600 weight, charcoal #2D2D2D,
+        uppercase letter-spacing 0.04em. Functions as the
+        "this is a status email" indicator.
+EXAMPLE_PICK:
+  ┌───────────────────────────────────────────────────┐
+  │  ✓  ORDER CONFIRMED                                │
+  └───────────────────────────────────────────────────┘
+
+NO countdown. NO "Hurry" / "Limited time" / promo badges.
+NO "Welcome to" marketing framing.
+
+48px space below the status bar before the receipt card
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: TRANSACTIONAL CONFIRMATION — PRIMARY]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Your order is confirmed ✓"
+          (Questrial 22px desktop / 20px mobile, 600 weight,
+           warm charcoal #2D2D2D)
+SUBHEADLINE: "Thank you, your order is placed and being
+              prepped." (Questrial 16px, body color)
+
+NO HERO IMAGE. This is a transactional receipt — the receipt
+card IS the visual focus.
+
+[VISUAL ELEMENT — RECEIPT CARD]
+ROLE: receipt-card-structured
+INTENT: a rounded white card (8px radius, hairline border
+        #E5E5E5) on the cream email canvas (#FAF9F7). Sharp
+        contrast against cream signals "this is official."
+        No emerald inside the receipt card — emerald is
+        reserved for the warm half below. Tabular data in
+        Courier New 14px / monospace, order details in
+        Questrial 15px. Generous negative space. Receipt
+        card signals "transaction complete, this is the
+        official record."
+EXAMPLE_PICK:
+  ┌───────────────────────────────────────────────────┐
+  │  YOUR ORDER                                        │
+  │                                                    │
+  │  3+3 Body-Signal Learning Layer Bundle (6 pairs)   │
+  │                                                    │
+  │  Order #:  BKC-[ORDER_NUMBER]                      │
+  │  Ship to:  [SHIPPING_ADDRESS]                      │
+  │  Est. delivery:  [DELIVERY_DATE]                   │
+  │                                                    │
+  │  ────────────────────────────────────────────      │
+  │  Tracking: You'll receive a shipping notification  │
+  │  with tracking as soon as it leaves our facility.  │
+  │  Usually within 1-2 business days.                 │
+  └───────────────────────────────────────────────────┘
+
+Single-column receipt layout. No two-column. Items, metadata,
+and tracking note stacked vertically inside the card.
+
+[VISUAL ELEMENT — TRACKING CTA]
+ROLE: cta-button-emerald
+INTENT: full-width "Track your order" button on cream canvas,
+        below the receipt card. Rounded 8px, emerald #039902
+        background, white text, Questrial 16px / 600 weight.
+        Single CTA, single position. NOT promotional, NOT
+        upsell — links to /account/orders (post-purchase
+        account page).
+EXAMPLE_PICK:
+  ┌───────────────────────────────────────────────────┐
+  │              Track your order                       │
+  └───────────────────────────────────────────────────┘
+
+48px space above this section, 24px below
+
+SECTION 1 IS THE TRANSACTIONAL ANCHOR. Above the fold.
+Predominantly transactional per §17.7.
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: WHAT'S INSIDE THE PACKAGE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "What's inside your package"
+          (Questrial 17px / 600 weight, warm charcoal,
+           with 3px emerald #039902 hairline left border)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-flat-list
+INTENT: a short, neutral summary of the box contents, set as
+        a vertical list with signal-dot bullets (small filled
+        emerald circles, 6px diameter, 4px spacing to text).
+        No illustration, no product photo. Text only. Body
+        16px / line-height 1.7.
+EXAMPLE_PICK:
+  • 6 pairs of Body-Signal Learning Layer underwear
+    (mix of sizes selected)
+  • Quick-start guide, one page, no fluff
+
+40px space above, 32px below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[VISUAL DIVIDER — EMERALD SQUIGGLE]
+─────────────────────────────────────────────────────────────────
+A single hand-drawn SVG squiggle (~600px wide, 2px stroke,
+emerald #039902 at 70% opacity). NOT a horizontal rule.
+Marks the transactional → warm transition.
+
+24px above, 24px below
+
+=================================================================
+[SECTION 3: WARM WELCOME — LENA VOICE, SECONDARY]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Welcome to the family, for real."
+          (Questrial 20px / 600 weight, warm charcoal)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-warm-lena
+INTENT: short, personal paragraph from Lena. Acknowledges
+        the parent's specific moment ("hit 'place order'").
+        Brief mention of her own journey (two autistic sons,
+        one trained at 6, one at almost 8). Body 16px /
+        line-height 1.8 (breathing room for the warm half).
+        NO CTA here — this is connection, not conversion.
+EXAMPLE_PICK:
+  "That moment when you hit 'place order,' I know what
+  was on your mind. Whether your child says 'I need to go'
+  after it's already happened, or doesn't react to being
+  wet at all, or walks around in a wet pull-up like
+  nothing's wrong, you've taken a step that matters.
+  I've been where you are."
+
+40px above, 24px below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: WEEK 1 EXPECTATIONS — RECOGNITION ANCHORS R2]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Week 1, what to expect"
+          (Questrial 17px / 600 weight, emerald left border)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-recognition-anchors
+INTENT: short paragraph framing week 1 expectations. Pull-up
+        → BSL contrast (R2 anchor). Body 16px / 1.8 line.
+EXAMPLE_PICK:
+  "Put the underwear on your child for 1-2 hours at home.
+  Don't prompt. Don't ask. Don't set a timer. Just let
+  them wear it and go about your normal day. The Body-
+  Signal Learning Layer creates a gentle 30-60 second
+  'uh-oh' sensation that gives the brain time to register:
+  something happened. Pull-ups and regular underwear don't
+  do this. That's the whole difference."
+
+40px above, 24px below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: WHAT TO WATCH FOR — RECOGNITION ANCHORS LIST]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "What to watch for over the next few weeks"
+          (Questrial 17px / 600 weight, emerald left border)
+
+[VISUAL ELEMENT]
+ROLE: recognition-anchors-list-bulleted
+INTENT: a 5-item list of mini-wins (R2 + R6 calibration).
+        Signal-dot bullets (6px emerald). Each anchor spans
+        at least 2 levels (L1/L2/L3 find themselves). Body
+        15px / 1.6 line. R5 timeline flexibility follows.
+EXAMPLE_PICK:
+  • Your child pausing mid-play and looking down
+    (that's the signal landing)
+  • Pulling at their pants in awareness
+    (the first time they notice)
+  • Saying "wet" or showing you with a gesture
+    (any acknowledgment counts)
+  • Staying dry 2 hours instead of 30 minutes
+    (small but real progress)
+  • Walking toward the bathroom, even after the fact
+
+Then a single closing paragraph: "Some kids show awareness
+in 2 weeks. Others need 8 weeks. Both are normal. Your
+child's timeline is the right timeline." (R5)
+
+40px above, 24px below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: SOFT CROSS-SELL — SECONDARY, MINIMAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "While you're waiting"
+          (Questrial 17px / 600 weight, with caveat framing
+           "while you're waiting for delivery" — not upsell)
+
+[VISUAL ELEMENT]
+ROLE: accessory-cross-sell-soft-stack
+INTENT: TWO accessory items stacked vertically as text rows
+        (NOT product cards, NOT side-by-side). Each row:
+        item name (Questrial 15px / 600), one-line benefit
+        (body 14px), price ($14.99 / $24.99 in muted #6B6B6B).
+        Both labeled "Optional add-on, not essential" with
+        explicit permission framing (R12 + permission-not-to-
+        buy). Text-link CTA, NOT a button — "Add the Wash
+        Bag ($14.99)" links to /products/wash-bag.
+EXAMPLE_PICK:
+  Wash Bag ($14.99)
+  Keeps the learning signal strong, wash after wash. Toss
+  your BKC pairs in this bag and wash as usual.
+  → Add the Wash Bag ($14.99)
+
+  Mattress Protector ($24.99)
+  For nighttime body-signal learning. A protected mattress
+  means zero stress about accidents while the learning
+  continues.
+  → Add the Mattress Protector ($24.99)
+
+  "Both are optional add-ons, not essentials. Your 6-pair
+  bundle is all you need to start."
+
+ONLY ONE CROSS-SELL CTA permitted in the body, per §17.7
+"predominantly transactional" rule. Selected: Wash Bag
+text link (the higher-trust lever per locked-profile).
+
+48px above, 32px below
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: GUARANTEE / RISK REVERSAL]
+─────────────────────────────────────────────────────────────────
+[VISUAL ELEMENT]
+ROLE: guarantee-band-cream-emerald-border
+INTENT: full-width cream band (#FAF9F7 slightly deeper than
+        canvas), 3px emerald #039902 hairline left border,
+        20px padding-left. Body 16px / 600 weight on the
+        first line, regular weight below. NO banner image,
+        NO confetti, NO urgency treatment.
+EXAMPLE_PICK:
+  ┌───────────────────────────────────────────────────┐
+  │  60 days to try it. By your judgment.              │
+  │  If it doesn't work for your child, full refund.   │
+  │  No forms. No hoops. Just email us and we          │
+  │  handle it.                                        │
+  └───────────────────────────────────────────────────┘
+
+48px above, 32px below
+NO additional CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: SECONDARY CTA — TRACK YOUR ORDER (REPEAT)]
+─────────────────────────────────────────────────────────────────
+[VISUAL ELEMENT]
+ROLE: cta-button-emerald-repeated
+INTENT: the same "Track your order" CTA repeats at the
+        bottom of the email, below the cross-sell and
+        guarantee, for users who scroll past the receipt
+        card. Same styling as Section 1 CTA. NOT a
+        secondary offer — same link, repeated for
+        convenience.
+
+32px above, 48px below
+
+=================================================================
+[SIGNOFF — LENA SHORT VARIANT]
+─────────────────────────────────────────────────────────────────
+Background: warm cream (#FAF9F7), subtle separation from
+            main canvas
+Body 16px:   "Thanks for trusting us with your order.
+             If you have a question, about the product,
+             the washing instructions, what to expect,
+             hit reply. You'll get me, not a template,
+             not a bot. I read everything."
+Closing:     "Talk soon,"
+Signature:   "Lena ——"
+Tagline:     "Customer Support · Mom of two autistic sons"
+             (14px italic, warm clay #6B6B6B)
+
+NO P.S. on this email — the cross-sell + guarantee cover
+the post-body function. The transactional cleanness is
+preserved.
+
+=================================================================
+[FOOTER — STANDARD BKC TRANSACTIONAL FOOTER]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+orders@send.brightkidco.com
+
+If you'd rather not hear from us, you can unsubscribe here.
+
+Reply to this email. Lena reads every response.
+© 2026 BrightKidCo. All rights reserved.
+
+─────────────────────────────────────────────────────────────────
+[HIDDEN PLAIN-TEXT FALLBACK — MANDATORY §17.7]
+─────────────────────────────────────────────────────────────────
+Below the visible HTML body, a hidden <div
+style="display:none; max-height:0; overflow:hidden;
+mso-hide:all;"> block contains a verbatim plain-text
+version of the email. Mail clients with images disabled,
+screen readers, and the Gmail text-only view all fall
+back to this content. Per GIULIANO §17.7: HIDDEN
+PLAIN-TEXT FALLBACK DIV MANDATORY.
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Status bar "ORDER CONFIRMED" visible above 400px
+  (mobile)? YES (status bar is the first element after
+  the BKC logo, ~80px tall total)
+- H1 "Your order is confirmed ✓" visible above 400px?
+  YES (next 80px of vertical)
+- Receipt card fully visible above 400px (desktop)?
+  YES on desktop (receipt card fits within first 480px
+  with status bar); partial on mobile (user scrolls)
+- "Track your order" CTA visible above 400px?
+  YES (sits below the receipt card, ~280px from top)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 1 (BKC logo, ~60px tall)
+- Image positions: header only
+- Density category: 1 (text-dominant, single logo)
+- Note: NO hero image, NO product photo, NO lifestyle
+  imagery. Transactional emails are text-and-receipt
+  dominated per §17.7
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 11
+  - status-bar-order-confirmed (status header)
+  - receipt-card-structured (section 1, primary
+    transactional block)
+  - cta-button-emerald (section 1 + section 8, repeated)
+  - prose-block-flat-list (section 2, what's inside)
+  - divider-squiggle-emerald (transactional → warm divider)
+  - prose-block-warm-lena (section 3, Lena voice)
+  - prose-block-recognition-anchors (section 4, week 1)
+  - recognition-anchors-list-bulleted (section 5,
+    R2 + R6)
+  - accessory-cross-sell-soft-stack (section 6, single
+    permitted cross-sell: Wash Bag)
+  - guarantee-band-cream-emerald-border (section 7,
+    D3 / 60-day)
+  - signoff-lena-short (signoff block)
+  - footer-static-bkc-transactional (footer block)
+  - hidden-plain-text-fallback (mandatory §17.7)
+- Density category: 11 (transactional-density, single
+  logo only, the receipt card + cross-sell text do
+  the visual work, not images)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 8 (8 body sections + signoff + footer)
+- Section pattern: H-Modified-Transactional (Status
+  Confirmation → Receipt Card → What's Inside →
+  Warm Welcome → Week 1 → Recognition Anchors →
+  Soft Cross-Sell → Guarantee → Signoff)
+- Image density: 1 (BKC logo only, no product, no hero)
+- Color temperature: neutral transactional (cream
+  canvas #FAF9F7, white receipt card #FFFFFF, charcoal
+  text #2D2D2D, emerald accent #039902 used only on
+  CTA button + signal-dot bullets + emerald hairline
+  dividers — minimal palette, transactional feel)
+- Email length: medium (~450 words across sections)
+- Argument structure: TRANSACTIONAL (receipt dominates
+  upper half; warm education is secondary and bottom-
+  weighted; cross-sell is a single soft text-link, NOT
+  a banner)
+- Visual rhythm: tight upper half (receipt + CTA,
+  ~480px to first scroll on desktop), open lower half
+  (warm sections get 40-48px breathing room, line-height
+  1.8 for warmth)
+- CTA position: dual (above-fold: Track your order on
+  receipt card; below-fold: same Track your order +
+  one Wash Bag text link — single cross-sell only)
+- Subject line type: transactional observation hook
+  ("Your order is confirmed, here's what's next" —
+  announces the event + signals followup; no urgency,
+  no emoji, no promotion)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: NONE (Flow 05 is
+  the first post-purchase touchpoint; no E0 in this
+  flow; baseline set for any downstream transactional
+  flow comparison)
+- Baseline established (single-position flow).
+- Variance expectations for Flow 06/07/08 wireframes:
+  - Status header changes from "ORDER CONFIRMED" to
+    "SHIPPED" (Flow 06) → "OUT FOR DELIVERY" (Flow 07)
+    → "DELIVERED" (Flow 08). Same neutral-grey
+    background, same emerald check, same Questrial
+    14px / 600 weight styling.
+  - Receipt card collapses to a tracking callout card
+    (Flow 06: tracking number + ETA; Flow 07: tracking
+    link + delivery day; Flow 08: replaced by "It's
+    here. Now what?" unboxing moment).
+  - Cross-sell block REMOVED in Flow 06/07/08 (per
+    S2 §1.6: "NO cross-sells"; §1.7 Flow 08 permits
+    only a SINGLE upsell if 1-pair buyer, not all
+    shipments — base cross-sell is OFF for the
+    majority).
+  - Warm welcome section in Flow 06/07/08 compresses
+    from full-section to inline (mechanism education
+    folded into "what to expect" prose).
+  - Lena sign-off variant shifts:
+    Flow 05: SHORT ("Talk soon, Lena")
+    Flow 06: SHORT ("Talk soon, Lena" + P.S.)
+    Flow 07: SHORT ("Talk soon, Lena" + P.S.)
+    Flow 08: MEDIUM ("With understanding, Lena"
+       + dual P.S.)
+- This is the baseline for downstream transactional
+  variance comparisons.
+
+=================================================================
+CROSS-LEVEL CALIBRATION CONFIRMATION:
+R1 (symptom over label): No "autism," "ASD," "Level 1/2/3"
+    anywhere. "Pull-ups" and "regular underwear" are
+    mechanism framing, not diagnostic labels ✓
+R2 (3-5 recognition anchors): 5 anchors in Section 5
+    spanning all levels (pause = L1/L2, pants pull = all
+    levels, saying "wet" = verbal children, dry 2hr = L1,
+    walking toward bathroom = L2/L3) ✓
+R3 (age ranges): NO age numbers anywhere. "First week,"
+    "weeks or years" framing only ✓
+R4 (verbal + non-verbal inclusivity): "Saying 'wet' or
+    showing you with a gesture" — both modalities paired ✓
+R5 (timeline flexibility): "Some kids show awareness in
+    2 weeks. Others need 8 weeks. Both are normal" ✓
+R6 (low-bar success metrics): All anchors are mini-wins
+    (pause, look, gesture, dry 2hr). NO "trained,"
+    "fully potty," "no more accidents" ✓
+
+GF LEVERS ACTIVATED:
+  GF-A "you're not alone" — Lena's two-sons peer mention
+       ✓
+  GF-B mechanism-first no label gate — "Body-Signal
+       Learning Layer creates a gentle 30-60 second
+       'uh-oh' sensation" before any outcome framing ✓
+  GF-C age/timeline inclusivity — "2 weeks or 8 weeks,
+       both are normal" ✓
+  GF-D "not just for autism" — symptoms only, no labels ✓
+  GF-E explicit permission — "Both are optional add-ons,
+       not essentials" ✓
+
+HOPE/REALISM LANDING: 50/50 (per locked-profile: "Tone
+50/50 hope/realism, neutral transactional")
+
+FORBIDDEN LANGUAGE AUDIT: PASS
+  No "easy," "simple," "quick," "guaranteed" (as promise),
+  "miracle," "cure," "fix," "solve," "your child will
+  train," "just like other kids," "shop now," "buy,"
+  "order" (in marketing sense), exclamation marks except
+  the single ✓ in H1, "Pre-K," "school deadline,"
+  "subscribe," "register," "complete your profile,"
+  countdown timers, urgency badges, promo codes.
+
+=================================================================
+TECHNICAL CONSTRAINTS (§17.7):
+- Table-based layout ✓ (HTML <table> wrapper, single
+  600px-wide column, all nested tables inline)
+- Inline CSS ✓ (no <style> blocks beyond @keyframes for
+  Apple Mail motion; critical CSS lives inline on every
+  element)
+- Max width 600px ✓ (single column at 600px; mobile
+  responsive collapse at 480px breakpoint via media
+  query; padding 20px mobile / 32px desktop)
+- Hidden plain-text fallback div ✓ (mandatory, see
+  above)
+- Image-to-text ratio ~5:95 (one logo, text-dominant)
+  ✓
+- Mobile collapse ✓ (all sections stack, CTAs become
+  full-width 48px+ touch targets, cross-sell text links
+  stay text links, font scales down 1-2px per element)
+- From: "Lena from BrightKidCo" <orders@send.brightkidco.com>
+  ✓ (transactional sender)
+- Reply-to: support@brightkidco.com ✓
+- Unsubscribe link in footer ✓
+- Physical address in footer ✓
+
+=================================================================
+END OF WIREFRAME — order-05-e1
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — order-05-e1
+
+
+> **Transactional Calibration:** NO marketing. NO promotions. Hidden plain-text fallback. Confirmation-only.
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** transactional | **Position:** E1 | **Level:** GF
+
+
+### Section 1: TRANSACTIONAL CONFIRMATION — PRIMARY
+
+- ROLE slot: `transactional-confirmation-primary`
+
+- INTENT: transactional block — TRANSACTIONAL CONFIRMATION — PRIMARY
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 2: WHAT'S INSIDE THE PACKAGE
+
+- ROLE slot: `what-s-inside-the-package`
+
+- INTENT: default block — WHAT'S INSIDE THE PACKAGE
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 3: WARM WELCOME — LENA VOICE, SECONDARY
+
+- ROLE slot: `warm-welcome-lena-voice-secondary`
+
+- INTENT: default block — WARM WELCOME — LENA VOICE, SECONDARY
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 4: WEEK 1 EXPECTATIONS — RECOGNITION ANCHORS R2
+
+- ROLE slot: `week-1-expectations-recognition-anchors-r2`
+
+- INTENT: validation block — WEEK 1 EXPECTATIONS — RECOGNITION ANCHORS R2
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 5: WHAT TO WATCH FOR — RECOGNITION ANCHORS LIST
+
+- ROLE slot: `what-to-watch-for-recognition-anchors-list`
+
+- INTENT: validation block — WHAT TO WATCH FOR — RECOGNITION ANCHORS LIST
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 5/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 6: SOFT CROSS-SELL — SECONDARY, MINIMAL
+
+- ROLE slot: `soft-cross-sell-secondary-minimal`
+
+- INTENT: upsell block — SOFT CROSS-SELL — SECONDARY, MINIMAL
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 7: GUARANTEE / RISK REVERSAL
+
+- ROLE slot: `guarantee-risk-reversal`
+
+- INTENT: guarantee block — GUARANTEE / RISK REVERSAL
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 8: SECONDARY CTA — TRACK YOUR ORDER (REPEAT)
+
+- ROLE slot: `secondary-cta-track-your-order-repeat`
+
+- INTENT: cta block — SECONDARY CTA — TRACK YOUR ORDER (REPEAT)
+
+- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8

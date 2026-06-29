@@ -461,3 +461,265 @@ This NOT the design for L2 (more muted, more science-driven) or L3 (dignity-firs
 
 *End of File, Welcome E1 L1 (Sarah)*
 *Total size: 32KB | Both parts complete | Zero placeholders*
+## WIREFRAME — built 2026-06-28 by subagent-1
+
+```
+=================================================================
+WIREFRAME: welcome-01-e1-l1
+Email ID: welcome-01-e1-l1
+Flow: welcome | Position: E1 | Day: 0 | Level: L1
+=================================================================
+
+SUBJECT: He talks about it but won't do it
+PREHEADER: His brain and bladder are sending messages on different
+           frequencies. Here's what that means.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO]
+─────────────────────────────────────────────────────────────────
+HEADLINE: He talks about the potty
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: hero-image-lifestyle
+INTENT: shows the kid Sarah recognizes (verbal, 3-5 yrs,
+        hopeful posture, real home setting, not stock photo);
+        mirrors her own child in a Pre-K-aged context
+EXAMPLE_PICK: lifestyle photo of kid 3-5 yrs, hopeful
+              posture, real home, soft natural light,
+              no stock-photo gloss
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: HOOK QUOTE — STOP-THE-SCROLL CALLOUT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from hero)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: callout-quote-highlight
+INTENT: highlights the parent quote that stops the scroll
+        ("He says 'I need to pee' AFTER it's already
+        happened."); mirrors the L1 timing-problems voice
+EXAMPLE_PICK: visual callout box containing the verbatim
+              parent quote from copy file
+NOTE: This is the FIRST callout in the email. Sets the
+      callout style for subsequent callouts (Stage 2 may
+      vary this for variance or keep it consistent).
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: VALIDATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: This isn't your fault. And it's not his.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: callout-quote-highlight (variant — same family as
+        Section 2 OR different for variance)
+INTENT: highlights the second parent quote
+        ("He has a perfect week, then a month of accidents.");
+        the inconsistent-performance L1 marker phrase,
+        carrying the absolution beat
+EXAMPLE_PICK: callout box, same style as Section 2 OR
+              different (Stage 2 decides for variance)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: MECHANISM — INTEROCEPTION REVEAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from validation)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: stat-highlight-box
+INTENT: highlights the >90% sensory-processing stat that
+        anchors the mechanism reframe (Ben-Sasson et al.,
+        2009; Leekam et al., 2007); supports the L1 claim
+        that "it's not behavior, it's signal-timing"
+EXAMPLE_PICK: visual box containing
+              ">90% of autistic children have sensory
+              processing differences" with citation
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: CTA + P.S.]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Let's explore what's really happening
+          with his body signals.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+none
+
+[CTA]
+BUTTON_TEXT: See How Body-Signal Learning Works
+BUTTON_INTENT: drives to PDP
+              landing.brightkidco.com/products/potty-training-
+              underwear-for-sensory-sensitive-toddlers-sp
+SECONDARY:  text link "Read the science behind it →"
+P.S.:       "*That's $13.33 per pair with the bundle — less
+             than half the single-pair price.*"
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA SHORT VARIANT for E1]
+─────────────────────────────────────────────────────────────────
+Background: Off-White #FAF9F7 (subtle separation)
+Body 16px: "Thanks for being here. If you have a question,
+            hit reply. You'll get me — not a template,
+            not a bot. I read everything."
+Closing: "Talk soon,"
+Signature: "Lena —," (em-dash, 14px, italic, Body Gray)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe
+Questions? Reply to this email, we read every response.
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? YES (hero is the
+  first section, definitely above fold on mobile + desktop)
+- Section 1 headline visible above 400px? YES
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 1 (hero only)
+- Image positions: section-1 only
+- Density category: 1 (text-dominant, single hero image)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 5
+  - hero-image-lifestyle (section 1)
+  - callout-quote-highlight (sections 2 AND 3 — same role,
+    could be same or different component)
+  - stat-highlight-box (section 4)
+  - cta-button-full-width (section 5)
+  - signoff-lena-short (signoff block)
+- Density category: 5 (rich, but not over the 8-cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 5 (4 body sections + 1 CTA section)
+- Section pattern: A (Hero→Validation→Mechanism→CTA standard)
+- Image density: 1
+- Color temperature: warm (per L1 calibration)
+- Email length: medium (~990 words)
+- Argument structure: PAS (Problem→Absolve→Solve)
+- Visual rhythm: tight (40px gaps per L1 calibration)
+- CTA position: late (last section)
+- Subject line type: observation
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: NONE (this is E1, first in
+  flow, baseline set for variance tracking downstream)
+- Differences across 9 dimensions: N/A (no prior email)
+- Note: Stage 1 baseline established for future variance
+  reconciliation by welcome-01-e2-l1 onward.
+
+=================================================================
+END OF WIREFRAME — welcome-01-e1-l1
+=================================================================
+```
+## STAGE 2 PICKS — welcome-01-e1-l1
+
+### Section 1: hero-image-lifestyle
+- ROLE slot: hero-image-lifestyle
+- INTENT: lifestyle photo of verbal 3-5 yr, hopeful posture, real home, Pre-K context
+- COMPONENT PICKED: HERO-5
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: HERO-5 'Mirror Moment' is a text-first hero with warm gradient background that matches L1 cream-warm palette. Per journey-l1 MASTER, hero role is mirror; the text + subhead structure sets the empathy tone. Lifestyle photo carries the visual recognition separately.
+- IMAGE PICKED: lifestyle/toddler-potty-ladder-yellow-woodland.png
+  - Alt text: Verbal 3-year-old at a yellow wooden potty ladder in a real home, hopeful posture, soft natural light.
+  - Current usage: 0/25
+  - WHY: Toddler at potty ladder, yellow woodland print — active forward motion, real home setting, hopeful posture. Matches INTENT: verbal 3-5 yr, hopeful, Pre-K-relevant imagery (potty context).
+
+### Section 2: callout-quote-highlight
+- ROLE slot: callout-quote-highlight
+- INTENT: parent quote that stops the scroll — timing-problems voice
+- COMPONENT PICKED: 4.5
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: Cream Callout (#FFFDF6 background) matches L1 Cream Card #FBF7EB spec exactly. Italic parent quote block with soft border. This is the FIRST callout — sets the style for subsequent callouts.
+- IMAGE PICKED: none (text-only component)
+
+### Section 3: callout-quote-highlight (variant)
+- ROLE slot: callout-quote-highlight (variant)
+- INTENT: second parent quote — inconsistent-performance L1 marker, absolution beat
+- COMPONENT PICKED: LETTER-10
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: LETTER-10 'Highlighted Passage' gives variance vs Section 2's Cream Callout. Italic pull-quote with strong typographic highlight; fits the absolution voice of E1's validation section without repeating the callout style.
+- IMAGE PICKED: none (text-only component)
+
+### Section 4: stat-highlight-box
+- ROLE slot: stat-highlight-box
+- INTENT: >90% sensory-processing stat anchor (L1 yellow stat accent per L1 spec)
+- COMPONENT PICKED: M10
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: M10 'Stat Block' centers a big number with citation underneath. L1 calls for yellow stat accents (#F5C84B) and high stat prominence in the mechanism section — this stat block pattern renders the >90% number as a clear visual anchor.
+- IMAGE PICKED: none (text-only component)
+
+### Section 5: cta-button-full-width
+- ROLE slot: cta-button-full-width
+- INTENT: full-width Brand-Green CTA, soft permission, drives to PDP
+- COMPONENT PICKED: CTAMAX-01
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: CTAMAX-01 'Primary CTA' is the canonical full-width CTA with conversion messaging, audience L1. L1 spec: full-width, Brand-Green #039902, 48px+ height, soft permission framing. Matches.
+- IMAGE PICKED: none (text-only component)
+
+### Signoff: signoff-lena-short
+- ROLE slot: signoff-lena-short
+- INTENT: Lena's SHORT sign-off for E1: 'Talk soon,'
+- COMPONENT PICKED: 12.1
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: 12.1 'Lena Signoff' is the catalog's only Lena signoff component. Signoff audience L1. Includes avatar + name + role + handwritten 'Lena' signature — matches Lena SHORT variant requirements.
+- IMAGE PICKED: none (text-only component)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-5', '4.5', 'LETTER-10', 'M10', 'CTAMAX-01', '12.1']
+- image-usage.json: incremented ['lifestyle/toddler-potty-ladder-yellow-woodland.png']
+
+## STAGE 2 REMEDIATION — welcome-01-e1-l1
+
+> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
+> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
+> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
+> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
+> due to the structural catalog limitation, not a per-email pick error.
+>
+> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
+>

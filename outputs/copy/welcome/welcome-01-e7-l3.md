@@ -393,3 +393,379 @@ This creative strategy is calibrated specifically for the Maria segment. Here is
 *End of File*
 
 *Output location: /root/projects/brightkidco/outputs/copy/welcome/welcome-01-e7-l3.md*
+
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l3-7
+
+```
+=================================================================
+WIREFRAME: welcome-01-e7-l3
+Email ID: welcome-01-e7-l3
+Flow: welcome | Position: E7 | Day: 17 | Level: L3 (Maria)
+Avatar: Non-verbal / high support needs, 6-10+ yrs, dignity-first
+Lever: L3-D (Dignity) — "His autism isn't being treated.
+       His nervous system is being supported."
+Sign-off: "With care," (LONG variant — E7+)
+Cadence: 17-day mark (7-day pause from E6 — slowest gap)
+=================================================================
+
+SUBJECT: Training wheels for the nervous system
+PREHEADER: A gentle explanation of how body-signal learning
+            actually works, no pressure, no promises.
+
+NOTE: L3 calibration. Cream/earth tones only. Zero urgency.
+56px section spacing. Text-link CTAs only.
+Stacked vertically, single column, maximum breathing room.
+Shape G: deep mechanism + mini-wins arc with bespoke
+interoception diagram as the only illustration.
+NO side-by-side. NO hero image. NO product photography.
+No push. No urgency. Gentle presence.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — NEUTRAL OBSERVATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: He doesn't realize he needs to go.
+          He doesn't realize he's gone.
+SUBHEADLINE: (none — single-sentence observation)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-neutral-observation
+INTENT: opens with the most clinical, neutral statement
+        of the body-signal gap — no judgment, no
+        blame, no fear; rendered as warm clay serif
+        prose at 17px, 1.7 line-height, max 65ch;
+        closes with "His nervous system processes
+        body signals on a different frequency, one
+        where the 'I need to go' message arrives too
+        late or doesn't arrive at all."
+EXAMPLE_PICK: text-only paragraph; no decoration;
+              no signal-dot motif (this is the
+              quietest opening in the entire
+              Welcome flow)
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: DEEP MECHANISM — THE 49-STUDY ANCHOR + INTEROCEPTION DIAGRAM]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Think of it like training wheels for the
+          nervous system.
+SUBHEADLINE: The Body-Signal Learning Layer creates a
+             gentle sensation that lasts.
+
+[VISUAL ELEMENT]
+ROLE: deep-mechanism-prose-with-inline-diagram
+INTENT: full-width mechanism explanation opening with
+        the 49-study citation (Barmpagiannis &
+        Baldimtsi, 2025) and Mahler (2016)
+        "eighth sensory system" framing; includes
+        an inline custom interoception diagram
+        rendered as a hand-drawn line-art
+        visualization showing the gap between brain
+        and bladder, and the BSL Layer bridging
+        that gap; the diagram is rendered as
+        inline SVG with warm charcoal linework on
+        the cream background — NOT a clinical or
+        medical illustration; soft dashed lines
+        for the gap, soft rounded rectangle for
+        the BSL bridge (warm earth tones); the
+        "training wheels" metaphor is set as the
+        H2, with the italics of the metaphor
+        serving as the visual lift
+EXAMPLE_PICK: continuous serif prose with one inline
+              SVG interoception diagram; warm charcoal
+              linework on cream bg; soft dashed lines
+              for the gap, no hard breaks
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MINI-WIN TESTIMONIALS — DUAL PARAGRAPH BLOCK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Other L3 parents have seen the smallest shifts.
+          And here, those shifts matter.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: mini-win-testimonials-stacked
+INTENT: two italic-serif parent quotes at 17px,
+        warm clay, each as its own paragraph
+        with subtle 1px muted warm-sand hairline
+        between (NOT a card border, NOT a side-
+        stripe); first quote: "He looked down at
+        the wet spot for the first time in 9
+        years." Second quote: "He has 30 words.
+        Bathroom isn't one of them. But yesterday,
+        he paused mid-step and looked down." Each
+        quote is followed by a 2-sentence dignity-
+        first reflection that frames the moment as
+        "the first page of a new chapter" or "the
+        first ripple in water that's been still
+        for years." Closes with: "They aren't
+        promises. They're signals, the first
+        signals, delivered by a brain that's finally
+        getting the information it needs."
+EXAMPLE_PICK: two stacked italic paragraphs with
+              subtle muted sand hairlines between;
+              no card box, no decorative quote marks
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: GUARANTEE — 60 DAYS REINFORCEMENT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days. Your judgment.
+SUBHEADLINE: Sixty days to see if it shifts anything.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-paragraph-soft-bg-warm
+INTENT: full-strength 60-day guarantee paragraph
+        framed as "you've done enough. you've tried
+        enough. our job is to make something that
+        works with his brain, not against it";
+        rendered on a slightly deeper warm cream
+        tint (~5% deeper than main bg, no border,
+        40px padding, centered text); closes with
+        "60 days. Your judgment."
+EXAMPLE_PICK: warm cream tint block, centered text,
+              no border box, generous padding
+
+56px space above, 56px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: PRIMARY CTA — TEXT-LINK, NO RUSH]
+─────────────────────────────────────────────────────────────────
+HEADLINE: When you're ready, it's here.
+SUBHEADLINE: 1 Pair, $34.99, No rush.
+
+[VISUAL ELEMENT]
+none (no button, no badge, no icon — text link only)
+
+[CTA]
+PRIMARY:   text link "One Pair, See If It Shifts Anything →"
+           centered, muted terracotta color, bold,
+           underlined, 17px; explicit no-rush
+           framing; NOT a filled button (L3
+           forbids buttons in E7)
+INTENT:    drives to PDP
+SECONDARY: none (L3 forbids secondary CTAs)
+MICROCOPY: "Every purchase is backed by our 60-day
+            gentle guarantee." (italic, 14px,
+            muted warm clay)
+NOTE:      price mentioned once above the CTA link,
+           NOT bolded, NOT in a badge
+
+56px space above, 56px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA LONG VARIANT for E7]
+─────────────────────────────────────────────────────────────────
+Background: warm cream (subtle separation, slightly deeper
+            than main bg)
+Body 15-16px: brief LONG variant sign-off (E7 is the
+              shortest LONG — most is in PS):
+  "If this isn't the day, that's okay. The product
+   will be here next month. So will I."
+Closing:    "With care,"
+Signature:  "Lena —" (Customer Support · Mom of two
+            autistic sons, 14px italic, warm clay;
+            hand-drawn SVG signature flourish in
+            dusty rose below the typed name)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+123 Commerce Street, Suite 200
+Portland, OR 97201
+No longer want these emails? Unsubscribe | Manage Preferences
+Questions? Reply to this email, Lena reads every response.
+[Hidden Detail / Easter Egg]
+*(You made it to the bottom of Welcome Email 7. If you've
+read all of them, thank you for trusting us with your
+attention.)*
+(italic, 10px, warm grey — pure recognition, no ask,
+rendered between the physical address and unsubscribe
+link as an acknowledgment, NOT a marketing line)
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? N/A (no hero
+  by L3 design; section 1 prose opens the visual
+  experience)
+- Section 1 headline visible above 400px? YES (the
+  neutral observation "He doesn't realize..." is the
+  first above-fold content)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 0 (no product/lifestyle
+  photography; the interoception diagram is rendered
+  as inline SVG, not an <img> asset, so it does not
+  count toward image density)
+- Image positions: none (SVG contraption embedded in
+  Section 2 markup, not a fetched image)
+- Density category: 0 (text-only with inline SVG
+  diagram)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 7
+  - prose-block-neutral-observation (section 1)
+  - deep-mechanism-prose-with-inline-diagram
+    (section 2, inline SVG)
+  - mini-win-testimonials-stacked (section 3)
+  - guarantee-paragraph-soft-bg-warm (section 4)
+  - cta-text-link-no-rush (section 5)
+  - signoff-lena-long-with-svg-flourish (signoff block)
+  - footer-easter-egg-recognition (footer level — pure
+    recognition, no ask)
+- Density category: 7 (text-heavy with bespoke inline
+  SVG diagram and footer easter egg)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 5 (5 body sections including CTA —
+  deepest mechanism + mini-wins arc)
+- Section pattern: G (Hook → Deep Mechanism + Diagram →
+  Mini-Win Testimonials → Guarantee → CTA, deep dignity
+  focus)
+- Image density: 0 (inline SVG diagram does not count)
+- Color temperature: warm cream + warm earth + muted
+  terracotta (the L3 mini-wins palette — soft, muted,
+  non-clinical; "Warm earth tones that signal safety,
+  patience, and time")
+- Email length: medium (~838 words per locked-profile)
+- Argument structure: DEEP DIGNITY ARC (Neutral
+  Observation → Mechanism → Mini-Win Testimonials →
+  Guarantee → No-Rush Permission)
+- Visual rhythm: open (56px gaps per L3 calibration)
+- CTA position: late (last body section before signoff)
+- Subject line type: curiosity gap + benefit metaphor
+  ("Training wheels for the nervous system")
+
+=================================================================
+VARIANCE_CHECK vs welcome-01-e6-l3:
+1. SECTION COUNT: 5 body sections (E6 was 7)
+   ✓ DIFFERENT (more compressed arc)
+2. SECTION PATTERN: G — Deep dignity with interoception
+   diagram (E6 was G — Pull-up reframe with Signal
+   Wave) ✓ DIFFERENT (subject shift)
+3. IMAGE DENSITY: 0 inline SVG (matches E6) — same
+4. COLOR TEMPERATURE: warm cream + warm earth + muted
+   terracotta (E6 was warm cream + muted rose + soft
+   sage "Dawn Before Sunlight") ✓ DIFFERENT
+   (terracotta + warm earth shift)
+5. EMAIL LENGTH: medium ~838 words (E6 was medium-long
+   ~1002) ✓ DIFFERENT (shorter)
+6. ARGUMENT STRUCTURE: deep dignity arc with mini-wins
+   (E6 was gentle pull-up reframe arc) ✓ DIFFERENT
+7. VISUAL RHYTHM: open 56px (matches E6) — same
+8. CTA POSITION: late, text-link (matches E6) — same
+9. SUBJECT LINE TYPE: curiosity gap + benefit metaphor
+   "Training wheels" (E6 was permission frame "60 days
+   to see if anything shifts") ✓ DIFFERENT
+
+   TOTAL DIFFERENCES: 6/9 minimum threshold MET.
+   (Variance driven by: compressed 5-section arc,
+   interoception diagram subject, mini-wins focus,
+   terracotta + warm earth palette, deepest-mechanism
+   language, LONG sign-off continues with SVG signature
+   flourish, footer easter egg introduction)
+
+=================================================================
+END OF WIREFRAME — welcome-01-e7-l3
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — welcome-01-e7-l3
+
+> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only. 56px section spacing. Dignity-first. E7 lever = L3-D Dignity (deepens trust meaningfully if it lands; flips -15 trust if any "fix"/"cure" sneaks in). Hope/realism ratio = 18/82 (slight dip from E6 — "dignity deep confronts the cost").
+
+> **Section count:** 5 body sections + Lena LONG signoff ("With care,"; +PS deferred to body because LONG variant).
+> **Image library picks:** 0 (L3 E7 wireframe §IMAGE_COUNT = 0; the only visual is an inline SVG interoception diagram embedded as prose, not a photograph).
+
+### Section 1 — prose-block-neutral-observation (hook)
+- ROLE slot: `prose-block-neutral-observation` (quietest opening in entire Welcome flow — no judgment, no blame, no fear; closes "His nervous system processes body signals on a different frequency")
+- INTENT: clinical-neutral observation as the dignity-deepest opening
+- COMPONENT PICKED: **HERO-7 — "Counter-Intuitive Truth"** (stat pool, source A*)
+  - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. "Counter-Intuitive Truth" = the move that names what most people don't yet see (the body-signal gap is neurological, not behavioral). Variance vs E1 Sec 1 (HERO-9), E2 Sec 1 (HERO-18), E3 Sec 1 (HERO-5), E4 Sec 1 (HERO-9 reused), E5 Sec 1 (DEEP-8), E6 Sec 1 (HERO-3) — six distinct opening voices across E1-E6; HERO-7 is the seventh by E7.
+- IMAGE PICKED: none (text-only)
+
+### Section 2 — deep-mechanism-prose-with-inline-diagram
+- ROLE slot: `deep-mechanism-prose-with-inline-diagram` (49-study anchor + Mahler 2016 interoception "eighth sensory system" + inline SVG interoception diagram: warm-charcoal linework on cream, soft dashed lines for the gap, soft rounded rectangle for the BSL bridge; "training wheels" metaphor as H2)
+- INTENT: the deepest mechanism email in L3 Welcome — interoception at its core
+- COMPONENT PICKED: **DEEP-19 — "The Signal Analogy"** (letter pool, source A*)
+  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. "The Signal Analogy" = the move that translates the body-signal gap into one powerful familiar metaphor (here: training wheels). Inline SVG support for the interoception diagram is part of the component's design pattern. Variance vs E2 (DEEP-10), E3 (DEEP-7), E4 (DEEP-3), E5 (DEEP-8), E6 (DEEP-4) — DEEP-19 is the only L3-safe component specifically designed for analogy-based mechanism explanation.
+- IMAGE PICKED: none (component embeds inline SVG diagram)
+
+### Section 3 — mini-win-testimonials-stacked (dual)
+- ROLE slot: `mini-win-testimonials-stacked` (two italic-serif parent quotes "He looked down at the wet spot for the first time in 9 years." + "He has 30 words. Bathroom isn't one of them. But yesterday, he paused mid-step and looked down."; each followed by 2-sentence dignity-first reflection; subtle 1px muted warm-sand hairlines between)
+- INTENT: stacked mini-wins framed as "signals, the first signals"
+- COMPONENT PICKED: **SP-08 — "Stacked Mini-Reviews"** (testimonial pool, source A*)
+  - From catalog: position=body_social_proof, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. "Stacked Mini-Reviews" = the exact stack-of-two-italic-quotes-rendering with subtle inter-quote separator that the wireframe specifies. Variance vs E3 Sec 4 (DEEP-13 Reverse Testimonial — twin quotes with attribution), E4 Sec 2 (7 Parent Stories — three or more), E6 Sec 5 (STORY-14 Micro-Story — single quote) — four distinct testimonial-stack archetypes used across L3 Welcome. SP-08 is the dedicated stacked-2-quotes variant.
+- IMAGE PICKED: none
+
+### Section 4 — guarantee-paragraph-soft-bg-warm
+- ROLE slot: `guarantee-paragraph-soft-bg-warm` ("you've done enough. you've tried enough. our job is to make something that works with his brain, not against it"; centered text on warm cream tint ~5% deeper bg, no border, 40px padding; closes "60 days. Your judgment.")
+- INTENT: full-strength guarantee with empathy acknowledgment
+- COMPONENT PICKED: **5 — "60-Day Calm Promise"** (guarantee pool, source A*)
+  - From catalog: position=guarantee_trust, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 3/8 (reused from E1, E3; now 3 of 8 cap)
+  - WHY: by-name perfect match across all three guarantee uses in L3 Welcome (E1, E3, E7). The 60-Day Calm Promise is the trust anchor that L3 mothers need to see repeatedly reinforced; the "Calm" naming honors the L3 "no urgency" mandate. Reused because wireframe's guarantee-paragraph-soft-bg-warm spec maps directly to 5's rendering. Cap-protected (3/8 well under 8 limit). Variance vs E2 Sec 6 (OBJ-15 mini variant), E6 Sec 6 (OBJ-15 By your judgment variant) — different guarantee-class components in those slots.
+- IMAGE PICKED: none
+
+### Section 5 — cta-text-link-no-rush
+- ROLE slot: `cta-text-link-no-rush` (text link "One Pair, See If It Shifts Anything →" centered muted terracotta bold underlined 17px; price mentioned once above NOT bolded NOT badge; italic 14px "Every purchase is backed by our 60-day gentle guarantee.")
+- INTENT: PDP drive with "see if it shifts anything" framing (curiosity-not-urgency)
+- COMPONENT PICKED: **CC4 — "Soft Close CTA"** (cta pool, source A)
+  - From catalog: position=cta, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. "Soft Close" = a CTA whose proximity-to-close is gentle, curiosity-driven, and explicitly without urgency. "See if it shifts anything" curiosity hook is exactly the Soft Close voice register. Variance vs E1 (CTAMAX-03), E2 (CTAMAX-04), E3 (CTADEEP-12), E4 (CTA-11), E5 (DEEP-8 unified), E6 (CTADEEP-5) — six distinct text-link patterns; CC4 is the seventh.
+- IMAGE PICKED: none
+
+### Signoff (signoff-lena-long, E7 shortest LONG variant)
+- STATIC: UTIL-05 Signoff Card with Lena LONG variant (already extracted in Phase A)
+- Brief body: "If this isn't the day, that's okay. The product will be here next month. So will I."
+- Closing: "With care," (per GIULIANO §3 E6+ = LONG, "With care,")
+- Hand-drawn SVG signature flourish in dusty rose below typed name (E7-specific touch)
+- Does not consume component cap
+
+### Tracker updates applied (this email, E7)
+- component-usage.json: HERO-7→1, DEEP-19→1, SP-08→1, 5→3 (from 2), CC4→1
+- image-usage.json: no images picked (inline SVG embedded in DEEP-19)
+- VARIANCE CHECK vs E1-E6: 4/5 sections use NEW components (`HERO-7`, `DEEP-19`, `SP-08`, `CC4`); Section 4 `5` reuses from E1+E3 (variance-acceptable; name-fits guarantee-reinforcement role)
+- CAP CHECK: highest count = `5` at 3/8 (under cap); all other L3 picks at 1/8 or 2/8
+

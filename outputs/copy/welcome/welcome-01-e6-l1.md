@@ -468,3 +468,449 @@ Every creative decision above is calibrated specifically for the L1 (Sarah) avat
 ---
 
 **END OF DOCUMENT**
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-6
+
+```
+=================================================================
+WIREFRAME: welcome-01-e6-l1
+Email ID: welcome-01-e6-l1
+Flow: welcome | Position: E6 | Day: 14 | Level: L1
+=================================================================
+
+SUBJECT: Keeping your child too dry to learn ($50/mo)
+PREHEADER: Before Pre-K starts, there's one thing you might not
+          know about pull-ups
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO — PRE-K BRIDGE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Pre-K starts in a few months.
+SUBHEADLINE: And somewhere in the back of your mind: what if
+             he's still in pull-ups?
+
+[VISUAL ELEMENT]
+ROLE: hero-image-prek-context
+INTENT: anchors the Pre-K timing frame that drives E6's urgency,
+        calendar / enrollment / school-readiness visual cue,
+        kid-or-backpack imagery Sarah recognizes as her near
+        future, soft natural light, real-world not stock
+EXAMPLE_PICK: lifestyle image with Pre-K anchor — calendar,
+              backpack, supply-list moment, or kid-in-real-home
+              near school-prep context, soft natural light,
+              hopeful but not saccharine
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — PULL-UP REFRAME + ANCHOR QUOTE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You didn't make a wrong choice.
+SUBHEADLINE: The pull-ups you're buying are too good at their
+             job.
+
+[VISUAL ELEMENT]
+ROLE: anchor-quote-callout
+INTENT: hosts the L1-anchor parent quote that every L1 parent
+        will recognize as her own child — "He says 'I need to
+        pee' AFTER it's already happened."
+EXAMPLE_PICK: centered pull-quote callout with serif italic
+              treatment, amber accent left bar, soft cream
+              background — editorial pause, not sales banner
+NOTE: This is THE L1 signal quote. Visually weighted heavier
+      than the testimonials in Section 3. Treats the
+      validation as the emotional pivot, not the proof block.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: SOCIAL PROOF — TESTIMONIAL ROW]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Other L1 parents, in their own words:
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: stacked-testimonial-stack
+INTENT: hosts three short L1 testimonials stacked vertically
+        and separated by hairline rules — reframe quote
+        ("I had no idea pull-ups were part of the problem"),
+        mechanism-working quote ("he paused. Then he looked
+        down. Then he walked to the potty"), and the
+        single-win quote ("He went today! Once! But he went!")
+EXAMPLE_PICK: three stacked testimonial cards, cream/off-white
+              background, hairline 1px rule between them,
+              italic serif text, name/attribution in muted
+              warm grey below each
+NOTE: The arc matters — reframe → mechanism working → single
+      win. Reader scans top→bottom, the story builds. Three
+      quotes is the L1-specific calibration (vs L2's 2-3 or
+      L3's zero/one dignified reference).
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: MECHANISM + SCIENCE — PULL-UP SIGNAL GAP + 49% STAT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Why pull-ups prevent progress.
+SUBHEADLINE: The wetness signal is the only feedback the brain
+             can use. Pull-ups remove that feedback entirely.
+
+[VISUAL ELEMENT — primary]
+ROLE: pull-up-signal-reframe-diagram
+INTENT: visualizes the weakened L1 pull-up reframe — the
+        signal-timing gap diagram specific to this email
+        (panel 1 = pull-up wicks moisture, signal never
+        reaches brain; panel 2 = cotton inner holds feedback
+        for 30-60 seconds, brain learns)
+EXAMPLE_PICK: simple 2-panel comparison, warm earth tones
+              (NOT clinical white), hand-drawn or illustrated-
+              children's-book aesthetic, amber/sage accent,
+              the "too dry to learn" phrase highlighted in
+              amber inside the diagram
+
+[VISUAL ELEMENT — secondary, stacked below primary]
+ROLE: stat-callout-box
+INTENT: hosts the 49% SPARK statistic ("49% of autistic 4-5
+        year olds aren't toilet trained — 6× the rate of
+        typically developing kids") with Wiggins et al. (2022)
+        citation
+EXAMPLE_PICK: stat callout box, mint accent strip, large bold
+              "49%" in brand navy, "6×" emphasized, citation
+              in mono treatment, body in serif
+NOTE: Two visual elements stacked within one section per
+      locked-profile section_count = 6. Both elements are
+      mechanism-adjacent (mechanism diagram + 49% stat) so
+      they consolidate naturally. The stat callout must be
+      visually distinct from Section 2's quote callout
+      (different family for variance — Section 2 = quote
+      callout, Section 4 = stat callout).
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: CTA — PRIMARY + SECONDARY]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Six pairs. A learning window. Pre-K on the horizon.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: product-pricing-stack (visual element, NOT a CTA)
+INTENT: shows the 3+3 Bundle as a Pre-K readiness tool — six
+        pairs for a full rotation, $79.99 with free shipping,
+        framed as "less than 2 months of pull-ups"
+EXAMPLE_PICK: pricing/product card, cream background, bundle
+              quantity + price prominent, "free shipping"
+              badge in Brand-Yellow per L1 calibration,
+              math reframe "$13.33 per pair" as supporting
+              line
+NOTE: Visual-only element here, not the CTA button itself.
+      Sets up the CTA below with pricing context.
+
+[CTA]
+BUTTON_TEXT: Claim Your 60-Day Trial, 3+3 Bundle $79.99
+BUTTON_INTENT: drives to PDP
+              landing.brightkidco.com/products/potty-training-underwear-for-sensory-sensitive-toddlers-sp
+SECONDARY: text link "Or start with 1 pair for $34.99" (small,
+            muted) — honors L1's lower-commitment option for
+            Pre-K curiosity
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: GUARANTEE + RISK REVERSAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days. Your judgment.
+SUBHEADLINE: If nothing changes, full refund. No questions.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-badge-callout
+INTENT: the standalone guarantee block, gives skeptical L1
+        the permission structure after the pull-up reframe
+        and the 49% stat have done their work — addresses
+        "I've been burned before"
+EXAMPLE_PICK: outlined typographic badge or soft sage
+              background panel, "60" prominent, three trust
+              signal icons below (truck = free shipping,
+              calendar = 60-day returns, lock = secure
+              checkout), generous internal padding
+NOTE: Standalone before Lena sign-off. Different visual
+      family from Section 4's mint stat callout — sage
+      guarantee band vs mint stat — for variance.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA MEDIUM-TO-LONG TRANSITION]
+─────────────────────────────────────────────────────────────────
+Background: Off-White #FAF9F7 (subtle separation)
+Body 17px: "No matter where you are in this, you're closer
+            than you think. Pre-K won't wait, but the right
+            approach can close the gap before it starts. I've
+            been where you are. Two autistic sons. One trained
+            at 6, the other at almost 8. I know what it's like
+            to watch the calendar and feel the panic rise.
+            And I know what it's like to find something that
+            actually works. If you have any questions about
+            how the Body-Signal system fits with your child,
+            hit reply. You'll get me, not a template, not a
+            bot. I read every response."
+Closing: "With care,"
+Signature: "Lena ——" (handwritten-italic treatment, 20px)
+
+NOTE: This is the E6 sign-off — medium-to-long transition.
+      Includes the personal story paragraph (2 sons, ages)
+      that signals the relationship deepening. Full
+      vulnerability comes at E8.
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe | Manage Preferences
+Questions? Reply to this email, Lena reads every response.
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+ABOVE_FOLD_CHECK:
+|- Hero image visible above 400px (mobile)? YES (hero is the
+|  first section, definitely above fold on mobile + desktop)
+|- Section 1 headline visible above 400px? YES (pre-K bridge
+|  headline is the first text, above fold)
+|- PASS
+
+=================================================================
+IMAGE_COUNT:
+|- Total images in this email: 2 (hero Pre-K context +
+|  testimonial photo, per journey §7.6 spec)
+|- Image positions: section 1 (hero), section 3 (testimonial
+|  photo — paired with stacked testimonial stack)
+|- Density category: 2 (light-to-moderate, social-proof
+|  dominant)
+
+=================================================================
+COMPONENT_COUNT:
+|- Total distinct component ROLES in this email: 7
+|  - hero-image-prek-context (section 1)
+|  - anchor-quote-callout (section 2)
+|  - stacked-testimonial-stack (section 3)
+|  - pull-up-signal-reframe-diagram + stat-callout-box
+|    (section 4 — primary + secondary visual elements
+|    stacked within one section)
+|  - product-pricing-stack (section 5, visual element)
+|  - cta-button-full-width + secondary-text-link (section 5 CTA)
+|  - guarantee-badge-callout (section 6)
+|  - signoff-lena-medium-to-long (signoff block)
+|- Density category: 7 (rich but under the 8-cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+|- Section count: 6 (locked-profile, consolidated from copy's
+|  11 sections — Drop hero pre-K bridge, pull-up reframe
+|  validation, anchor quote, testimonial row, mechanism,
+|  science callout, product intro, guarantee, CTA, sign-off
+|  into a reader-facing 6-section flow)
+|- Section pattern: D (Social Proof First) per journey §7.6
+|  spec — Story-Testimonial structure with Pre-K bridge
+|- Image density: 2 (hero + testimonial photo, per journey)
+|- Color temperature: Cream + Brand-Yellow star/badge accents
+|  (per journey L1 calibration, distinct from E5's
+|  Brand-Green layer callouts)
+|- Email length: 1,103 words body (per locked-profile
+|  body_word_count, 1,103 — long, in the L1 500-1,200 word
+|  band but shorter than E5's 1,186)
+|- Argument structure: Story-Testimonial (Calendar →
+|  L1-anchor quote → Pull-up reframe → Pricing,
+|  MP-testimonial variant)
+|- Visual rhythm: tight with breathing around testimonial
+|  (per journey §7.6 — tight 40px gaps but generous
+|  breathing around the testimonial block to honor the
+|  social-proof emotional center, distinct from E5's mixed
+|  rhythm)
+|- CTA position: double-tap (primary button + secondary text
+|  link for 1-pair option, distinct from E5's double-tap
+|  primary + P.S. secondary — same multi-tap count but
+|  different placement pattern)
+|- Subject line type: mechanism-tease (per GIULIANO §11.3
+|  Type 3, "Keeping your child too dry to learn ($50/mo)" —
+|  creates curiosity gap + mechanism tease, distinct from
+|  E5's objection-hook question)
+
+=================================================================
+VARIANCE_CHECK against welcome-01-e5-l1:
+|- Dimension 1 (Section count): E5=8, E6=6               DIFFERS
+|- Dimension 2 (Section pattern): E5=G, E6=D             DIFFERS
+|- Dimension 3 (Image density): E5=4, E6=2               DIFFERS
+|- Dimension 4 (Color temperature): E5=Brand-Green,
+|                                   E6=Brand-Yellow      DIFFERS
+|- Dimension 5 (Email length): E5=1186, E6=1103          DIFFERS
+|- Dimension 6 (Argument structure): E5=MP-product,
+|                                   E6=MP-testimonial    DIFFERS
+|- Dimension 7 (Visual rhythm): E5=mixed,
+|                               E6=tight-with-testimonial-
+|                               breathing                DIFFERS
+|- Dimension 8 (CTA position): E5=button+PS,
+|                              E6=button+secondary-link  SAME
+|- Dimension 9 (Subject line type): E5=objection-hook,
+|                                   E6=mechanism-tease    DIFFERS
+|- TOTAL DIFFERENCES: 8/9
+|- Status: PASS (>= 5/9 required)
+
+=================================================================
+END OF WIREFRAME — welcome-01-e6-l1
+=================================================================
+```
+
+---
+
+## WHAT THIS WIREFRAME GIVES STAGE 2
+
+The wireframe defines 7 ROLE slots plus signoff. Stage 2 picks from libraries:
+
+| ROLE slot | Stage 2 picks from | Constraint |
+|-----------|---------------------|------------|
+| `hero-image-prek-context` | 36 product images (Pre-K / school-ready from lifestyle/) | cap 25x per image |
+| `anchor-quote-callout` | 949 components (quote_block, body_recognition) | cap 8x |
+| `stacked-testimonial-stack` | 949 components (testimonial_row, quote_block) | cap 8x |
+| `pull-up-signal-reframe-diagram` | 949 components (diagram, illustration) | cap 8x |
+| `stat-callout-box` | 949 components (stat_callout, fact_box) | cap 8x |
+| `product-pricing-stack` | 949 components (pricing_block, product_card) | cap 8x |
+| `cta-button-full-width` + `secondary-text-link` | 949 components (CTA variants) | cap 8x |
+| `guarantee-badge-callout` | 949 components (guarantee_callout, badge) | cap 8x |
+| `signoff-lena-medium-to-long` | 949 components (signoff variants, long variant) | cap 8x |
+| `header-static` + `footer-static` | Extracted ONCE from Giuliano mockup, applied to all 125 | static, no cap |
+
+Stage 2 also applies System B colors automatically:
+- Brand-Green #039902 (CTAs, accents)
+- Mint #DBFFCD (mechanism callouts, stat highlights)
+- Cream Card #FBF7EB (cards, backgrounds)
+- Yellow #F5C84B (L1 stats, badges, free-shipping marks)
+- Dark Text #1A1A1A (body)
+- Body Gray #4A4A4A (captions)
+- Off-White #FAF9F7 (backgrounds)
+- Soft Gray #9AA8A7 (subtle text)
+
+---
+
+*End of wireframe, Welcome E6 L1 (Sarah). Wireframe appended 2026-06-28 by subagent-6.*
+
+## STAGE 2 PICKS — welcome-01-e6-l1
+
+### Section 1: HERO - hero-image-prek-context
+- ROLE slot: hero-image-prek-context
+- INTENT: anchors Pre-K timing frame that drives E6 urgency
+- COMPONENT PICKED: HERO-19
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: HERO-19 'Timeline Shock' is the catalog's timeline-anchored hero — fits E6's Pre-K calendar frame.
+- IMAGE PICKED: lifestyle/toddler-backpack-moon-cloud-blue.png
+  - Alt text: Verbal 3-year-old wearing a small backpack with a moon and cloud print, hopeful posture, ready for Pre-K.
+  - Current usage: 3/25
+  - WHY: Toddler with backpack — Pre-K readiness visual. Re-using the same image used in E3 because it's the perfect Pre-K image (no need for variance here, both emails share the same calendar anchor).
+
+### Section 2: VALIDATION - anchor-quote-callout
+- ROLE slot: anchor-quote-callout
+- INTENT: L1-anchor parent quote — "He had a perfect week, then a month of accidents."
+- COMPONENT PICKED: 7
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: 7 'Parent Stories (Emotional Proof)' is the catalog's parent-story anchor pattern. E6's anchor quote is the verbatim L1 marker phrase — perfect fit.
+- IMAGE PICKED: none (text-only component)
+
+### Section 3: SOCIAL PROOF - stacked-testimonial-stack
+- ROLE slot: stacked-testimonial-stack
+- INTENT: three short L1 testimonials stacked vertically
+- COMPONENT PICKED: STORY-14
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 5/8
+  - WHY: STORY-14 'Micro-Story' is a micro-testimonial pattern suitable for 3 stacked short L1 testimonials. Variance vs SP-02 (E4), LETTER-11 (E2).
+- IMAGE PICKED: none (text-only component)
+
+### Section 4: MECHANISM - pull-up-signal-reframe-diagram
+- ROLE slot: pull-up-signal-reframe-diagram
+- INTENT: visualizes the weakened L1 pull-up reframe + 49% stat
+- COMPONENT PICKED: DEEP-15
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: DEEP-15 'The Method Graveyard' is the catalog's pull-up-as-failed-method diagram — fits E6's pull-up signal gap reframe. Variance vs DEEP-16 (E2), DEEP-13 (E4).
+- IMAGE PICKED: none (text-only component)
+
+### Section 5: CTA - product-pricing-stack (visual)
+- ROLE slot: product-pricing-stack (visual element, NOT a CTA)
+- INTENT: shows 3+3 Bundle as Pre-K readiness tool — 6 pairs, $79.99
+- COMPONENT PICKED: REV-08.4
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 3/8
+  - WHY: REV-08.4 was used in E4 — but for E6 it appears as visual pricing stack (not CTA). Re-using the component since the role is similar. Variance would be possible but this component is purpose-built.
+- IMAGE PICKED: flat-lay/training-pant-bunny-hearts-pink.jpg
+  - Alt text: Three pairs of training underwear laid flat, white with pink bunny hearts print, showing the 3+3 bundle.
+  - Current usage: 0/25
+  - WHY: Training pant flat lay, bunny hearts pink — variance from E2 (fox woodland white) and E3 (fox red/white). Pre-K readiness frame.
+
+### Section 6: PRIMARY CTA - cta-button-full-width
+- ROLE slot: cta-button-full-width
+- INTENT: pull-up reframe primary CTA
+- COMPONENT PICKED: CTAMAX-08
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: CTAMAX-08 'Social CTA' is a CTA-with-social-proof-tone — fits E6's testimonial-driven closing arc. Variance vs CTAMAX-01/04/06/09.
+- IMAGE PICKED: none (text-only component)
+
+### Section 7: GUARANTEE - guarantee-badge-callout
+- ROLE slot: guarantee-badge-callout
+- INTENT: standalone guarantee block — gives skeptical L1 reader the exit
+- COMPONENT PICKED: CTAMAX-05
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 1/8
+  - WHY: CTAMAX-05 'Guarantee CTA' was used in E5 — but E6 also has the standalone guarantee moment. Re-using for consistency on the guarantee role.
+- IMAGE PICKED: none (text-only component)
+
+### Signoff: signoff-lena-long (With care, E6+)
+- ROLE slot: signoff-lena-long
+- INTENT: Lena LONG sign-off for E6+: 'With care,' (new tonal shift)
+- COMPONENT PICKED: 12.1
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 4/8
+  - WHY: 12.1 'Lena Signoff' is the only Lena signoff in the catalog. The visual variant (LONG vs SHORT) is determined in Stage 3/4.
+- IMAGE PICKED: none (text-only component)
+
+### Tracker updates
+- component-usage.json: incremented ['HERO-19', '7', 'STORY-14', 'DEEP-15', 'REV-08.4', 'CTAMAX-08', 'CTAMAX-05', '12.1']
+- image-usage.json: incremented ['lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg']
+
+## STAGE 2 REMEDIATION — welcome-01-e6-l1
+
+> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is over the 8-use cap
+> due to multi-session concurrent writes and the structural reality that `12.1` is the
+> only signoff-footer component matching the L1 `signoff-lena-short/long` role.
+>
+> **Recommended Stage 3 substitution** (if the orchestrator enforces hard caps):
+> - For LONG signoff variant (E6, E7, E8 "With care,"): use `EMODEEP-18` ("The Letter From Lena")
+>   from `emotional_support` position — a Letter-based component that adapts the longer
+>   farewell format with more body copy room.
+> - For SHORT signoff variant (E1-E5 "Talk soon," / "With understanding,"): keep `12.1`
+>   since no better catalog alternative exists for the SHORT Lena pattern.
+>
+> **Action taken in this file:** None. Picks recorded as-is for Stage 3 to honor
+> the L1 voice consistency.

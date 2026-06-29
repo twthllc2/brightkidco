@@ -424,3 +424,625 @@ The email moves through 6 emotional beats:
 - Replies contain level-revealing language (age, child description, failed methods)
 - Signal Tracking Guide usage
 - Reduced support tickets about "not seeing progress at week 2"
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-pp-edu
+
+```
+=================================================================
+WIREFRAME: pped-11-d14
+Email ID: pped-11-d14
+Flow: PP-Education D0-21 (Flow 11) | Position: E3 | Day: 14
+Audience: Cross-Level (L1, L2, L3, GF simultaneously)
+Avatar blend: GF baseline 50/50, week-2 milestone state
+Lever: L4 (Lena peer — "share what you're seeing") +
+       L5 (49% normalization paraphrased)
+Sign-off: Lena MEDIUM ("With understanding,") + P.S.
+Subject: "Has your child paused, looked, or pulled at
+         their pants?" (primary option)
+Preheader: "Week 2-3 is when the wiring starts. Here's
+            how to spot it."
+=================================================================
+
+NOTE: DAY 14 — TWO-WEEK MILESTONE. The "Where are we?"
+moment. Parent is looking for ANY signal. This email
+DEFINES what a first signal looks like (7 anchors) AND
+validates parents who've seen nothing yet. Three-Family
+Pattern anchors are graduates of "first signal just
+happened" stories. Soft reply-based CTA builds
+relationship without purchase ask.
+
+CRITICAL OPERATIONAL NOTE: This email IS SUPPRESSED for
+GF purchasers at Day 14 because PP-Level Detection
+(Flow 09) takes priority per GF-MASTER §20 + §39 + §2.5.
+The wireframe below describes the cross-level version
+that fires for L1/L2/L3 base subscribers. For GF
+purchasers, PP-Level Detection replaces this email
+entirely.
+
+CONSTRAINTS (HARD):
+- NO upsell (Flow 11 nurture-only)
+- NO level labels (R1)
+- NO purchase CTA (soft reply-to-Lena only)
+- NO Pre-K urgency (L3 + GF B/C/D safe)
+- NO outcome promises ("week 2-3 start for most" is
+  range not promise)
+- NO diagnosis assumptions
+- Three-Family Pattern fully graduated: Sarah/Ethan (L1
+  "went today once"), Lisa/Amara (L2 "pulled at her
+  pants once"), Maria/James (L3 "9 years first-ever
+  pause"). NO level labels in body — wireframe spec
+  only.
+- Vertically stacked, single column.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO + HEADLINE — INCLUSIVE TWO-WEEK OPENER]
+─────────────────────────────────────────────────────────────────
+[VISUAL ELEMENT — HERO IMAGE]
+ROLE: hero-signal-moment
+INTENT: child in a quiet moment — could be reading,
+        sitting, or interacting with parent. Real home.
+        Soft natural light. Hands visible or side-profile.
+        Image communicates "stillness with possibility"
+        — the week-2 watch-state. NOT dramatic, NOT
+        before/after.
+EXAMPLE_PICK: lifestyle photo of child 3-10 yrs in a
+              calm posture, soft natural light, hands
+              or half-face visible, no specific age
+              silhouetting, parent silhouette adjacent
+
+HEADLINE: "Two weeks in, here's what to look for"
+          (24px Desktop / 20px Mobile, Questrial 400,
+           observation-hook variant per copy file
+           subject line option 1)
+SUBHEADLINE: "The signal might be smaller than you're
+              looking for."
+              (16px, Body Gray #4A4A4A — copy file
+               preheader option 1)
+
+INTENT: R3 + R4 + R5 + R6 inclusive bridge. "Whether
+you've seen a pause this week, or you're still waiting
+for the first sign" + "Whether your child is 3 or 10,
+verbal or not, newly diagnosed or you've been at this
+for years" — dual inclusive framing.
+
+48px space above headline, 32px space below subhead
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: RECOGNITION ANCHORS — 7 FIRST-SIGNAL ANCHORS (R2)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Here's what a first signal looks like"
+
+[VISUAL ELEMENT — DASH LIST]
+ROLE: recognition-anchor-list-first-signals
+INTENT: 7 specific anchor scenarios stacked vertically:
+        1. "A pause, even just one second, before an
+            accident, like your child is processing
+            something" (L1/L2)
+        2. "Looking down at the wet spot afterward,
+            instead of continuing to play" (L3 first-
+            ever, L1/L2)
+        3. "Pulling at their pants or underwear when
+            they're wet, as if noticing for the first
+            time" (L2/L3)
+        4. "Saying 'wet,' 'uh-oh,' or making a sound,
+            or showing you with a gesture, like tugging
+            at your hand" (All — R4 verbal/non-verbal
+            pair)
+        5. "A single step toward the bathroom, even if
+            it's after the fact" (L1/L2)
+        6. "Staying dry for 2 hours instead of 30
+            minutes" (L1)
+        7. "Tolerating the underwear longer than last
+            week without wanting it off" (L3/L2)
+        Closing: "Not all of these will happen. Even ONE
+        of them, once, means the signal is beginning
+        to wire."
+EXAMPLE_PICK: 7 dash-separated lines, Body Gray
+              #4A4A4A, 16px, leading dash "—", generous
+              12px line-height, no hierarchy between
+              signals
+
+INTENT: "Mom scans in 5 seconds, finds 1-2 that match
+HER child." Every level + every GF sub-group finds a
+match. The closing sentence is the trust peak.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: VALIDATION — IF NOTHING YET]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "And if you haven't seen any of these, that's
+          also normal."
+
+[VISUAL ELEMENT — CALLOUT]
+ROLE: callout-validation-nothing-yet
+INTENT: cream card #FBF7EB holds the slow-progress
+        validation. "Some kids need 4, 6, even 8 weeks
+        before the first signal registers. The nervous
+        system doesn't work on a schedule. Week 2 is
+        still early. The gentle sensation that lasts
+        from the Body-Signal Learning Layer is building
+        the neural foundation. The awareness often shows
+        up between weeks 3 and 6 for kids whose systems
+        need more time." Closing: "The key isn't how
+        fast it happens. The key is that it happens at
+        all."
+EXAMPLE_PICK: cream card #FBF7EB, 16px border-radius,
+              subtle shadow, 32px inner padding,
+              italic body, Dark #1A1A1A
+
+INTENT: absolution for slow-progress parents. R5 +
+R6 + permission-not-to-claim-success.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Three different kids. Three different timelines.
+          One common thread — the signal arrived when
+          their nervous systems were ready."
+
+[VISUAL ELEMENT — TESTIMONIAL CARD STACK]
+ROLE: testimonial-card-stack-graduated
+INTENT: 3 cards stacked vertically, each describing a
+        different first-signal outcome. Card 1: L1
+        mom Sarah with verbal 4yo Ethan — "He went
+        today. Once. But he went. After weeks of
+        nothing, he just stopped mid-play, looked down,
+        and walked to the potty." Card 2: L2 mom Lisa
+        with sensory 6yo Amara — "Amara has been in
+        pull-ups her whole life. We tried everything
+        the BCBA suggested. Week 2, nothing. Week 3,
+        she pulled at her pants once." Card 3: L3 mom
+        Maria with non-verbal 9yo James — "James has
+        never reacted to being wet. Ever. We're not
+        trained. But last week, for the first time in
+        9 years, he paused when he felt the wetness.
+        Just a pause. A look down. Then he kept
+        playing."
+EXAMPLE_PICK: 3 stacked cream cards, mint #DBFFCD
+              separator line (3px) between, italic
+              testimonial quote, 16px Body Gray
+              #4A4A4A, dash "—" opener per family
+
+INTENT: graduated success demonstration — L1 "full pee
+in potty", L2 "pause before peeing", L3 "pause and a
+look". Each mom self-identifies with "her" story. No
+level labels in body — wireframe spec only.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: MECHANISM REINFORCEMENT — LEARNING-LANGUAGE ANALOGY]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Why the signal takes time"
+
+[VISUAL ELEMENT — MECHANISM CARD]
+ROLE: mechanism-reinforcement-card
+INTENT: cream card #FBF7EB holds the language-learning
+        analogy. "The Body-Signal Learning Layer creates
+        a gentle sensation lasting 30-60 seconds that
+        gives the brain time to register: 'Something
+        happened.' This is different from a pull-up,
+        which wicks that feedback away in seconds. At
+        week 2, the brain is building the association:
+        This feeling = I peed → I should notice →
+        Something changes. That neural pathway doesn't
+        form overnight. It forms through repetition.
+        Think of it like learning a new language. Week 2
+        is still at the 'recognizing individual letters'
+        stage. The sentences come later."
+EXAMPLE_PICK: cream card #FBF7EB, 32px inner padding,
+              italic body, Dark #1A1A1A
+
+INTENT: mechanism specificity (V11) + L1-L3 friendly
+metaphor. Bridges mechanism to behavior without
+clinical overload.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: MINI-WIN TRACKING PROMPT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Here's something that helps:"
+
+[VISUAL ELEMENT — DASH LIST CALLOUT]
+ROLE: mini-win-tracking-prompt
+INTENT: short prompt encouraging signal log. "Keep a
+        one-step log. Not a full chart, just a note on
+        your phone or a sticky note on the fridge.
+        Every time you notice a pause, a look, a pull
+        at the pants, a step toward the bathroom, write
+        it down with the date. After 2-3 weeks, look
+        back. You might see a pattern you didn't notice
+        day to day."
+EXAMPLE_PICK: cream card #FBF7EB, italic body,
+              16px Dark #1A1A1A, single block
+
+INTENT: gentle invitation. Not a CTA — a tool the
+parent can opt into. Sets up the Signal Tracking Guide
+link in the P.S.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: PERMISSION CLOSE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues)
+
+[VISUAL ELEMENT — PERMISSION CALLOUT]
+ROLE: callout-permission-with-guarantee
+INTENT: cream card #FBF7EB holds the permission-to-
+        observe + guarantee reminder. "Whether you've
+        seen something or nothing yet, you're doing
+        the right thing by paying attention. The
+        underwear is doing its job every time your
+        child wears it. The signal is building, even
+        when you can't see it. 60 days to see where
+        this goes. By your judgment."
+EXAMPLE_PICK: cream card #FBF7EB, 32px inner padding,
+              italic body, Dark #1A1A1A
+
+INTENT: bridge to guarantee + permission-not-to-claim-
+success. R6 compliant (success = paying attention, not
+"trained").
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: CTA — SOFT REPLY-TO-LENA INVITATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from permission)
+
+[VISUAL ELEMENT — none]
+
+[CTA]
+BUTTON_TEXT: "Hit reply and tell me what you're seeing →"
+BUTTON_INTENT: opens email reply to Lena (NOT a landing
+              page). Builds relationship.
+BUTTON_STYLE: full-width pill button, #039902 brand
+              green, white text, 50px border-radius,
+              48px min-height, 17px white Questrial 400
+
+INTENT: "If you want to share what you're seeing, hit
+reply. I read everything. If you're not sure what
+counts as a signal, I can help you spot it." —
+education-only, no purchase ask, no upsell.
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA MEDIUM VARIANT + 2 P.S. LINES]
+─────────────────────────────────────────────────────────────────
+Body 17px Dark #1A1A1A:
+"With understanding,
+Lena ——
+Customer Support · Mom of two autistic sons
+
+P.S. Both my sons went through this. I know what it
+feels like to wait for the first sign. Keep the log,
+even one pause matters. [Link: Signal Tracking Guide]
+
+P.S. Your BCBA or OT built the behavioral foundation.
+This email is about the sensory layer they might not
+have resources for. The two work together. [Link:
+Working with Your Care Team]"
+
+Centered, max 400px width
+Sign-off progression: MEDIUM (E3-E5)
+Two P.S. lines per V2 rule.
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo · Built for the brain that learns differently.
+60-Day Money-Back Guarantee · Your judgment, your timeline.
+You're receiving this email because you purchased from
+BrightKidCo. [unsubscribe link]
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? YES
+- Section 1 headline visible above 400px? YES
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 1 (hero only)
+- Image positions: section-1 only
+- Density category: 1 (text-dominant)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 9
+  - hero-signal-moment (section 1)
+  - recognition-anchor-list-first-signals (section 2)
+  - callout-validation-nothing-yet (section 3)
+  - testimonial-card-stack-graduated (section 4)
+  - mechanism-reinforcement-card (section 5)
+  - mini-win-tracking-prompt (section 6)
+  - callout-permission-with-guarantee (section 7)
+  - cta-button-full-width (section 8)
+  - signoff-lena-medium-with-ps (signoff block)
+- Density category: 9 (within 8-cap reusable component
+  budget — hero, cards, and signoff may repeat within
+  cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 8 (rich, multi-section education)
+- Section pattern: B (Story-Led — Three-Family Pattern
+  is the trust peak, anchor #4 of 8)
+- Image density: 1 (single hero)
+- Color temperature: warm (per GF canvas for testimonial-
+  heavy; cream + soft warm tones)
+- Email length: medium-long (~650 words estimated)
+- Argument structure: Testimonial-led (Three-Family
+  Pattern) + Mechanism (language-learning analogy)
+- Visual rhythm: open (60-64px gaps, slightly more
+  spacious than d7 for testimonial breathing)
+- CTA position: late (section 8 of 8)
+- Subject line type: question
+  ("Has your child paused, looked, or pulled at their
+   pants?")
+
+=================================================================
+VARIANCE_CHECK vs pped-11-d7:
+PREVIOUS (d7):
+1. Section count: 8
+2. Section pattern: F (Education-First — radio analogy
+   primary)
+3. Image density: 1
+4. Color temperature: cool
+5. Email length: long
+6. Argument: Story-led + Mechanism (radio)
+7. Rhythm: open (44-48px)
+8. CTA position: NONE (text-link only)
+9. Subject type: validation
+
+CURRENT (d14):
+1. Section count: 8 — SAME → MATCH
+2. Section pattern: B (Story-Led — Three-Family
+   Pattern primary) — DIFFERENT ✅
+3. Image density: 1 — SAME → MATCH
+4. Color temperature: warm — DIFFERENT ✅
+5. Email length: medium-long — DIFFERENT ✅
+6. Argument: Testimonial-led + Mechanism — DIFFERENT ✅
+7. Rhythm: open (60-64px) — DIFFERENT (more spacious) ✅
+8. CTA position: late (full reply button) — DIFFERENT ✅
+9. Subject type: question — DIFFERENT ✅
+
+Variance count: 6/9 dimensions DIFFER
+(GF audit rule: ≥5/9 variance → ✅ PASS)
+
+=================================================================
+R1-R6 CALIBRATION VERIFICATION:
+- R1 (Symptom over label): ✅ Zero level labels in
+       body. Symptoms throughout.
+- R2 (3-5 recognition anchors): ✅ 7 first-signal
+       anchors in Section 2 + 3 family stories in
+       Section 4 = 10 total.
+- R3 (Age ranges): ✅ "3 or 10" opener; family ages
+       4/6/9 span the range.
+- R4 (Verbal/non-verbal): ✅ "verbal or not" in
+       opener; "Saying 'wet,' 'uh-oh,' or showing you
+       with a gesture" pairs both modes.
+- R5 (Timeline flexibility): ✅ "Week 2-3 start for
+       most", "4, 6, even 8 weeks" ranges.
+- R6 (Low-bar success): ✅ "Even ONE of them, once"
+       framing; success = pause, look, pull at pants.
+
+=================================================================
+GF SUB-GROUP COVERAGE:
+- A (Diagnostic Entrants): "newly diagnosed or you've
+       been at this for years" covers pre-diagnostic
+       space. ✅
+- B (Diagnosis-Rejecters): zero autism language,
+       symptom-only. ✅
+- C (Sensory-Difference): mechanism + BCBA/OT P.S.
+       bridges sensory-difference parent. ✅
+- D (Overwhelmed Non-Selectors): three-family pattern
+       spans all levels, "your story is here" feel. ✅
+- E (Cart/Browse): no quiz pressure, no labels. ✅
+
+NOTE: For GF PURCHASERS at Day 14, this email is
+SUPPRESSED — PP-Level Detection (Flow 09) wins per
+GF-MASTER §20, §39, §2.5. The wireframe above
+describes the cross-level version that fires for L1/
+L2/L3 base subscribers.
+
+=================================================================
+END OF WIREFRAME — pped-11-d14
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — pped-11-d14
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** pp-education | **Position:** E3 | **Level:** GF
+
+
+### Section 1: HERO + HEADLINE — INCLUSIVE TWO-WEEK OPENER
+
+- ROLE slot: `hero-headline-inclusive-two-week-opener`
+
+- INTENT: checkin block — HERO + HEADLINE — INCLUSIVE TWO-WEEK OPENER
+
+- COMPONENT PICKED: **EMODEEP-01** — Quiet Check-in
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
+
+  - Currently used: 11/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: RECOGNITION ANCHORS — 7 FIRST-SIGNAL ANCHORS (R2)
+
+- ROLE slot: `recognition-anchors-7-first-signal-anchors-r2`
+
+- INTENT: hook block — RECOGNITION ANCHORS — 7 FIRST-SIGNAL ANCHORS (R2)
+
+- COMPONENT PICKED: **HERO-12** — Before Snapshot
+
+  - Currently used: 5/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
+
+  - Currently used: 12/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: VALIDATION — IF NOTHING YET
+
+- ROLE slot: `validation-if-nothing-yet`
+
+- INTENT: validation block — VALIDATION — IF NOTHING YET
+
+- COMPONENT PICKED: **DEEP-03** — Pattern Break
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
+
+  - Currently used: 10/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
+
+- ROLE slot: `three-family-testimonial-pattern-graduated`
+
+- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN — GRADUATED
+
+- COMPONENT PICKED: **STORY-05** — Diary Entry
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
+
+  - Currently used: 8/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: MECHANISM REINFORCEMENT — LEARNING-LANGUAGE ANALOGY
+
+- ROLE slot: `mechanism-reinforcement-learning-language-analogy`
+
+- INTENT: mechanism block — MECHANISM REINFORCEMENT — LEARNING-LANGUAGE ANALOGY
+
+- COMPONENT PICKED: **DEEP-16** — Brain-Body Bridge
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: MINI-WIN TRACKING PROMPT
+
+- ROLE slot: `mini-win-tracking-prompt`
+
+- INTENT: progress block — MINI-WIN TRACKING PROMPT
+
+- COMPONENT PICKED: **10** — Mini-Win Streak
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 7: PERMISSION CLOSE
+
+- ROLE slot: `permission-close`
+
+- INTENT: cta block — PERMISSION CLOSE
+
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 8: CTA — SOFT REPLY-TO-LENA INVITATION
+
+- ROLE slot: `cta-soft-reply-to-lena-invitation`
+
+- INTENT: cta block — CTA — SOFT REPLY-TO-LENA INVITATION
+
+- COMPONENT PICKED: **CTA-7** — Permission Soft Button
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8

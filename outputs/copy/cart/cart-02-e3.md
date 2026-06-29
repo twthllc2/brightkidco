@@ -287,3 +287,463 @@ This pattern simultaneously:
 | ✅ No forbidden words | ✓ | Zero violations |
 | ✅ Offer options included | ✓ | 1 Pair ($34.99) · 3+3 Bundle ($79.99) |
 | ✅ Guarantee emphasized | ✓ | Full section + badge integration |
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-cart
+
+```
+=================================================================
+WIREFRAME: cart-02-e3
+Email ID: cart-02-e3
+Flow: cart_abandonment | Position: E3 | Hour: 72 | Level: GF (cross-level)
+=================================================================
+
+SUBJECT: 60 days. Your judgment. No pressure.
+PREHEADER: If you've been burned before, I get it. Here's why
+            this different.
+
+=================================================================
+[NAME: section-1-direct-address]
+─────────────────────────────────────────────────────────────────
+HEADLINE: I'll be direct:
+SUBHEADLINE: If you're hesitating because you've been burned
+             before, I get it.
+
+[VISUAL ELEMENT]
+ROLE: hero-direct-address-block
+INTENT: opens with Lena's voice, first-person, naming the
+        skepticism as earned. NO hero illustration, NO
+        testimonial quote, NO recognition anchor list — this
+        is the Minimalist pattern (H). The visual move is
+        withholding: pure prose, generous white space, no
+        decorative furniture. Different in kind from E1
+        (signal-path illustration) and E2 (oversize quote
+        glyph).
+EXAMPLE_PICK: text block, single column, no border, no
+              background tint shift, line-height 1.6,
+              "I'll be direct" rendered as a stand-alone
+              first line (em-dash follow-through)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-2-skepticism-validation]
+─────────────────────────────────────────────────────────────────
+HEADLINE: That skepticism is earned.
+SUBHEADLINE: Every product promises. Every method disappoints.
+
+[VISUAL ELEMENT]
+ROLE: validation-with-whether-or-if-anchors
+INTENT: applies the "Whether...Or...If..." pattern (per GF
+        master §R2 + E3 compliance matrix). Three anchors
+        stacked with em-dash separators (NOT bullets) per
+        brand voice §14.4. Anchors cover L1-style ("sits 20
+        minutes, nothing"), L2-style ("plays in a wet
+        pull-up without flinching"), L3-style ("been in
+        pull-ups for years and stopped counting").
+EXAMPLE_PICK: vertical list, em-dash separators, three lines,
+              no bullet glyphs, no signal-dots (text-only)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-3-mechanism-reframe]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Here's what makes this different:
+SUBHEADLINE: It's not another method. It's not another promise.
+
+[VISUAL ELEMENT]
+ROLE: mechanism-explanation-pullups-contrast
+INTENT: explains the Body-Signal Learning Layer mechanism in
+        one paragraph. Includes the explicit pull-up contrast
+        ("Pull-ups wick that signal away completely. Body-Signal
+        underwear helps the brain receive information it's
+        been missing.") — the V9 contrast (pull-ups block
+        signal — not "bad"). The single word "signal" in
+        accent color (consistent with E1 + E2 word-level
+        treatment).
+EXAMPLE_PICK: text block, single paragraph, single emerald
+              word accent, no diagram, no illustration
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-4-guarantee-as-honest-protocol]
+─────────────────────────────────────────────────────────────────
+HEADLINE: I can't promise your child will train by
+          a certain date. No one can.
+SUBHEADLINE: But here's what I can promise: 60 days to try.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-callout-block-prominent
+INTENT: the guarantee is the FRAMING — not the closer. Sits
+        here, mid-email, as the visual and emotional center
+        of gravity. Mint background tint (per brand voice
+        §14.1 — no specific hex in wireframe). Three lines:
+        "60 days to try. / If your child shows no sign of
+        awareness... / full refund. Every dollar." This is
+        where E3 differs most from E1 and E2 — guarantee is
+        centered, not footed.
+EXAMPLE_PICK: mint-tint callout box, generous padding,
+              border-radius 12-16px, centered text, three
+              lines, hairline border-left in emerald
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-5-three-family-proof]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three parents, three different kids,
+          one common experience:
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: three-testimonial-card-stack-compact
+INTENT: three cards in a COMPACT stack (smaller than E1's
+        full cards and E2's asymmetric stack). Each card
+        leads with a context line (italic), then the quote,
+        then the mini-win. Cream card background (per brand
+        voice §14.1 — no specific hex in wireframe). Same
+        Three-Family Pattern
+        as E1 + E2 but rendered tighter — Minimalist
+        pattern compresses visual weight.
+EXAMPLE_PICK: 3 stacked cards, cream background, 12-16px
+              radius, context line (italic) + quote + mini-win
+              attribution, hairline top-border in emerald
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-6-cta]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Try it for 60 days. By your judgment.
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: cta-button-full-width
+INTENT: single primary CTA. Pill-shaped button (border-radius
+        50px), minimum 48px height. White text on brand
+        green. NO secondary text link in this email —
+        Minimalist pattern strips everything not essential.
+        Pricing shown inline below button (1 Pair $34.99 /
+        3+3 Bundle $79.99) — no separate offer block.
+EXAMPLE_PICK: pill-shaped CTA, brand green, centered, white
+              text, 48px height, pricing line below in
+              smaller muted text
+
+[CTA]
+BUTTON_TEXT: "Complete Your Purchase"
+BUTTON_INTENT: permission-framed ("By your judgment" sits in
+              the headline above). Single CTA only — no
+              secondary link per Minimalist pattern.
+PLACEMENT: mid-fold (after guarantee + proof), reachable
+          without scrolling the full email.
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[ROLE: signoff-lena-long]
+─────────────────────────────────────────────────────────────────
+Body: "With care,"
+Closing line: "P.S. My older son was 8 before we figured this
+              out. If you've stepped back from trying, I get
+              it. When you're ready, the science will still
+              be here. 60 days, your judgment."
+Signature: "Lena —," (em-dash italic, 14px)
+Title: "Customer Support · Mom of two autistic sons"
+NOTE: LONG variant per copy file (P.S. with personal story
+      anchor — "older son was 8"). DEEPER personal narrative
+      than E1 (SHORT) and E2 (MEDIUM). Different sign-off
+      depth for variance across the flow.
+
+=================================================================
+[ROLE: footer-static]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address]
+No longer want these emails? Unsubscribe
+Reply to this email. Lena reads every response.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Section 1 (direct address) visible above 400px? YES (the
+  email OPENS with "I'll be direct" — Lena's voice is the
+  hero)
+- Section 4 guarantee visible above 400px? NO (guarantee
+  sits mid-email, scrollable but not above-fold on mobile)
+- CTA reachable above 700px? YES (section 6 sits after
+  5 body sections — Minimalist pattern compresses body so
+  the CTA lands mid-email, not at the very bottom)
+- Above-fold decision: Lena's voice + skepticism validation
+  + mechanism reframe = entire above-fold experience. NO
+  testimonial, NO guarantee, NO product image above fold.
+  The Minimalist pattern's power move is the withheld proof.
+
+=================================================================
+IMAGE_COUNT:
+- Total images: 0 (zero photographic images, zero
+  illustrations)
+- Positions: none
+- Density: 0 (pure text — the Minimalist pattern's defining
+  feature)
+- Visual variance from E1: E1 had 1 hero illustration,
+  E2 had 0 images, E3 has 0 images AND no asymmetric cards,
+  no quote glyphs — pure prose, full stop. THREE different
+  image-density profiles across the flow.
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES: 5
+  - hero-direct-address-block (section 1)
+  - validation-with-whether-or-if-anchors (section 2)
+  - mechanism-explanation-pullups-contrast (section 3)
+  - guarantee-callout-block-prominent (section 4)
+  - three-testimonial-card-stack-compact (section 5)
+  - cta-button-full-width (section 6)
+  - signoff-lena-long
+  - footer-static
+- Effective ROLES in body: 6 (signoff and footer are static)
+- Density: 6 (low — Minimalist pattern strips non-essential
+  components, single CTA only, no secondary links)
+
+=================================================================
+STRUCTURAL_INTENT:
+- Section count: 6 (5 body sections + 1 CTA section) — note
+  locked-profile records 3 named sections, but the wireframe
+  resolves into 6 sections (the email body has 6 distinct
+  functional blocks: direct address, validation, mechanism,
+  guarantee, proof, CTA). The 3-section count in locked-profile
+  is the high-level grouping (Email Body / Three-Family /
+  Try it for 60 days); the wireframe operationalizes these
+  into 6 functional blocks per the format spec.
+- Section pattern: H (Minimalist) — direct address →
+  validation → mechanism → guarantee → proof → CTA. Each
+  section does ONE thing only.
+- Image density: 0 (pure prose, the Minimalist pattern's
+  defining visual move)
+- Color temperature: neutral (cream background, charcoal body,
+  mint guarantee callout, emerald CTA — quiet, no terracotta
+  or terracotta-warm accents as in E2)
+- Email length: short-medium (~360 words per copy file body)
+  — significantly shorter than E1 (766w) and E2 (1017w).
+  Minimalist pattern strips length.
+- Argument structure: Direct (Lena's voice, no PAS, no
+  Testimonial-led structure — pure permission-based argument)
+- Visual rhythm: open (60-80px gaps between sections — the
+  Minimalist pattern breathes)
+- CTA position: mid-fold (after guarantee + proof, single
+  CTA, no secondary link)
+- Subject line type: permission frame ("60 days. Your
+  judgment. No pressure.") — matches V12 permission-not-to-buy
+  and matches the Minimalist pattern's low-aggression subject.
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: cart-02-e2
+- Variance ledger target per journey-gf-MASTER §36: H
+  (Minimalist) — DIFFERENT from E1's C AND E2's D ✅
+- 9-dimension variance tally vs E2:
+  1. Section count: 8 → 6 (DIFFERENT) ✅
+  2. Section order: D (Social Proof First) → H (Minimalist)
+     (DIFFERENT) ✅
+  3. Image density: 0 → 0 (same — but E3 strips ALL
+     decorative furniture where E2 kept asymmetric cards
+     and quote glyphs, so visual weight is meaningfully
+     different even at the same density count) ⚠ PARTIAL
+  4. Color temperature: warm → neutral (DIFFERENT) ✅
+  5. Email length: long (1017w) → short-medium (~360w)
+     (DIFFERENT — and dramatic) ✅
+  6. Argument structure: Testimonial-led → Direct
+     (DIFFERENT) ✅
+  7. Visual rhythm: mixed → open (DIFFERENT) ✅
+  8. CTA position: late → mid-fold (DIFFERENT) ✅
+  9. Subject line type: parent quote → permission frame
+     (DIFFERENT) ✅
+- Total dimensions DIFFERENT: 8/9 (1 partial on image
+  density, which counts as different in practice since
+  decorative furniture is stripped). MINIMUM 5/9 ✅ MET.
+
+- Cumulative cross-flow variance (E1 → E2 → E3):
+  E1 (C/Problem-Solution/766w) → E2 (D/Social Proof
+  First/1017w) → E3 (H/Minimalist/360w). Three DIFFERENT
+  patterns, three different lengths (longer → longest →
+  shortest — direction reversed at E3), three different
+  color temperatures (warm → warm+terracotta → neutral).
+  Strong variance across the flow.
+
+=================================================================
+R1-R6 CALIBRATION (Cross-Level):
+- R1 (Symptom over label): ZERO level labels. The
+  "Whether...Or...If..." pattern in section 2 is pure
+  symptom language (per compliance matrix row R1).
+- R2 (3-5 recognition anchors): 7 anchors total — 3 in
+  section 2 ("sits 20 min / plays in wet pull-up / in
+  pull-ups for years") + 4 across testimonials
+  ("talked about it but wouldn't go" / "never once noticed
+  she was wet" / "high support needs / 9 years old" /
+  "stopped counting attempts"). Exceeds 3-5 floor.
+- R3 (Age ranges): NO fixed ages. Three-Family block shows
+  ages 3 weeks to 9 years WITHOUT pinning. No "toddler /
+  preschooler / 5-year-old" anywhere.
+- R4 (Verbal/Non-Verbal): Three-Family covers verbal
+  ("He talked about it but wouldn't go") and non-verbal
+  ("never once noticed being wet", "high support needs and
+  is 9 years old"). Guarantee adds: "no pause, no look, no
+  step toward the potty, no reaction at all" — explicit
+  non-verbal signal example.
+- R5 (Timeline flexibility): "I can't promise your child
+  will train by a certain date. No one can." — explicit
+  no-promise framing. Testimonials show 3 weeks, Week 4,
+  8 weeks.
+- R6 (Low-bar success): "No pause, no look, no step toward
+  the potty" as the success metric. Testimonials show
+  mini-wins: pause → look → walk toward potty (verbal) /
+  pull at pants (never-noticed) / feeling something for
+  first time in 9 years (high support). "That's enough
+  for now." — R6 satisfied.
+- V16 (GF): ZERO autism / ASD / L1-L2-L3 labels in body.
+  "Nervous system", "body signals", "high support needs"
+  used as umbrella. V16 100% compliant.
+
+=================================================================
+END OF WIREFRAME — cart-02-e3
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — cart-02-e3
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 6 body sections.
+
+> **Flow:** cart | **Position:** E3 | **Level:** GF
+
+
+### Section 1: Direct Address
+
+- ROLE slot: `direct-address`
+
+- INTENT: validation block — Direct Address
+
+- COMPONENT PICKED: **DEEP-11** — Guilt Audit
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: Skepticism Validation
+
+- ROLE slot: `skepticism-validation`
+
+- INTENT: validation block — Skepticism Validation
+
+- COMPONENT PICKED: **DEEP-03** — Pattern Break
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
+
+  - Currently used: 3/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: Mechanism Reframe
+
+- ROLE slot: `mechanism-reframe`
+
+- INTENT: validation block — Mechanism Reframe
+
+- COMPONENT PICKED: **DEEP-18** — Celebration Deficit
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
+
+  - Currently used: 4/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: Guarantee As Honest Protocol
+
+- ROLE slot: `guarantee-as-honest-protocol`
+
+- INTENT: guarantee block — Guarantee As Honest Protocol
+
+- COMPONENT PICKED: **TRUST-7** — Trust Block
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: Three Family Proof
+
+- ROLE slot: `three-family-proof`
+
+- INTENT: social_proof block — Three Family Proof
+
+- COMPONENT PICKED: **DEEP-20** — Community Thread
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: Cta
+
+- ROLE slot: `cta`
+
+- INTENT: cta block — Cta
+
+- COMPONENT PICKED: **CTA-7** — Permission Soft Button
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 6

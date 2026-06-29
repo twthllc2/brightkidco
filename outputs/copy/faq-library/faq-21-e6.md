@@ -325,3 +325,660 @@ Science is presented accessibly, no citation formatting in the body, but the Nic
 ---
 
 *Generated: May 29, 2026 | Sources: 2-full-email-copy-strategy.md §1.18, 30-customer-support-playbook.md §2 O6/O12/O13, 11-brand-voice-reference.md, GIULIANO-DEMANDS.md §4 R1-R6*
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-final
+
+```
+=================================================================
+WIREFRAME: faq-21-e6
+Email ID: faq-21-e6
+Flow: FAQ/Objection Library (Flow 21 in architecture map,
+      flow_number=20 in locked-profile; locked-profile wins)
+      | Position: E6 (of 6) — FINAL FAQ EMAIL | Day: D3
+      | Level: Cross-Level (R1-R6, single copy for L1/L2/L3/GF)
+Avatar: Mixed GF blended. V16 governs. The "Missing Piece"
+        puzzle metaphor returns. This is the CLOSING email
+        of the 6-email FAQ library — uses the LONG Lena
+        sign-off variant per §9.5 (LONG variant for emails
+        E6+ in flow, Phase 4 dignity).
+Lever: L3 (60-day guarantee) + L4 (Lena Peer, "I've been
+       through every one of these struggles")
+Sign-off: Lena LONG variant, "With care, Lena"
+Subject: "Answering your top questions: Outings, poop
+         struggles, and communication"
+         (Pattern Hook, 47 chars)
+Preheader: "Three of the most common concerns parents bring
+           to me, addressed here, honestly."
+=================================================================
+
+NOTE: Sixth and FINAL FAQ email. THREE OBJECTIONS — Outings/
+Travel (O6, "can I use pull-ups for trips without undoing
+progress?") + Poop-Specific (O12, "poop is a different
+story") + Communication Barriers (O13, "my child can't tell
+me when they need to go"). All three share root: the
+interoception gap. Modified FAQ format with three distinct
+objection sections under one unifying header. Each section
+follows Observation → Validation → Mechanism → Permission.
+V16 mandatory. R1-R6 mandatory. Vertical stack only. No
+side-by-side. No two-column. Permission-not-to-buy. 40/60 H/R.
+Emotional weight distribution: Travel 20% (practical relief),
+Poop 25% (understanding), Communication 25% (hope through
+mechanism), Unifying Reframe 10%, Guarantee/CTA 5%, Sign-off
+5%. Heaviest weight goes to Communication (L3-dominant) +
+Poop (fear/anxiety-laden) per §4.4 of copy file.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — THREE QUESTIONS, UNIFYING HEADER]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three questions I hear every week, and the same
+          answer connects them all.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: prose-hook-three-questions-stack-with-unifier
+INTENT: stacked paragraph block. Mirror: "You're doing
+        the work at home. Your child is starting to show
+        signs. But three questions keep coming up, and
+        they're stopping you from moving forward." Three
+        direct quotes from parents stacked in flowing
+        prose (NOT bullets): (1) "Can I still use
+        pull-ups for trips without undoing progress?"
+        (2) "What about poop? The pee is getting better,
+        but poop is a different story." (3) "My child
+        can't tell me when they need to go, how is this
+        supposed to work?" Bridge: "Let me take each
+        one." Normalizes having multiple concerns —
+        the "modified FAQ format" opener.
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, warm cream background
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: TRAVEL/OUTINGS — PRACTICAL RELIEF]
+─────────────────────────────────────────────────────────────────
+HEADLINE: On Outings and Travel:
+
+[VISUAL ELEMENT]
+ROLE: objection-block-travel-vertical-bridge-strategy
+INTENT: stacked paragraph block. Validation: "Every
+        parent I know has stood at the door with a bag
+        full of extra clothes, wondering whether to reach
+        for a pull-up or stay consistent." Mechanism:
+        "Here's the truth: temporary pull-ups for
+        specific outings do NOT undo daytime progress.
+        Your child's nervous system is smart enough to
+        distinguish between 'we're in the car for three
+        hours' and 'this my new normal.'" Permission:
+        "Use pull-ups as a TRAVEL TOOL, not a
+        replacement." Three sub-strategies stacked
+        vertically with emerald signal-dots: (1) "For
+        road trips: put the Body-Signal underwear under
+        a pull-up (the signal still gets through)." (2)
+        "For flights: pull-up for the journey, underwear
+        at the destination." (3) "For day trips: pack 2-3
+        extra pairs." Closes with: "Travel doesn't reset
+        learning, it just needs a different strategy."
+EXAMPLE_PICK: stacked paragraph + 3 vertical travel
+              sub-strategies with emerald signal-dot
+              bullets; warm cream background
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: POOP-SPECIFIC — UNDERSTANDING]
+─────────────────────────────────────────────────────────────────
+HEADLINE: On Poop-Specific Struggles:
+
+[VISUAL ELEMENT]
+ROLE: objection-block-poop-vertical-two-system-mechanism
+INTENT: stacked paragraph block. Validation (heaviest
+        emotional weight per §4.4): "Poop training is
+        harder than pee training for most kids,
+        especially autistic kids. It's a different
+        sensation, a different muscle group, and often
+        a different level of fear." Mechanism (two-
+        system connection): "the two systems are
+        connected. The same body signal pathway that
+        helps with pee awareness often helps with poop
+        awareness too, but the poop signal is stronger
+        and scarier. The sensation of passing stool can
+        feel like loss of control or even pain if there's
+        underlying withholding." Body-Signal Layer
+        explain: "The Body-Signal Learning Layer works
+        on the pee signal first. But as your child
+        becomes more body-aware through peeing feedback,
+        the poop signal becomes more recognizable too."
+        Medical deferral: "Your GI doctor leads on any
+        medical withholding. We add alongside. If it's
+        just a preference for the pull-up for poop, use
+        the pull-up-over-underwear method, the signal
+        still gets through."
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, warm cream background;
+              medical deferral line in Soft Gray italic
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: COMMUNICATION BARRIERS — HOPE THROUGH MECHANISM]
+─────────────────────────────────────────────────────────────────
+HEADLINE: On Communication Barriers:
+
+[VISUAL ELEMENT]
+ROLE: objection-block-communication-vertical-no-words-needed
+INTENT: stacked paragraph block (heaviest emotional
+        weight per §4.4). Mirror: "Your child might
+        be non-verbal or minimally verbal. They can't
+        tell you when they need to go. Picture cards,
+        sign language, visual schedules, none of it
+        helps, because the problem isn't communication.
+        It's interoception." Reframe: "Your child can't
+        tell you they need to go because their brain
+        isn't receiving the signal to report. Even if
+        they had 500 words, they couldn't communicate a
+        sensation they don't feel." Mechanism:
+        "That's exactly why this approach is different.
+        It doesn't require your child to COMMUNICATE
+        anything. The Body-Signal Learning Layer works
+        through the body, creating a gentle, sustained
+        wetness sensation that teaches the nervous
+        system directly. The brain learns: this feeling
+        → that sensation → I should go." Permission:
+        "No words required. Your child's body is
+        learning to talk to itself. The verbal part
+        comes later, if it comes at all." Beautiful-
+        signal anchor: "I've seen some of the most
+        beautiful 'first signals' from kids who've
+        never shown any awareness of wetness, a child
+        who's never reacted in their life, looking
+        down at the spot on their underwear. That's
+        the nervous system recognizing the signal for
+        the first time. It doesn't need words."
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, warm cream background;
+              "It doesn't need words" line as closing
+              emphasis
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: UNIFYING REFRAME — THREE CONCERNS, ONE EXPLANATION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The Pattern You Might Notice:
+
+[VISUAL ELEMENT]
+ROLE: unifying-reframe-stack-with-3-layer-product
+INTENT: stacked paragraph block. Bridge: "Three
+        different concerns, one shared explanation.
+        Whether your child is 3 or 10, verbal or not,
+        the interoception gap is the common thread. The
+        'I need to go' signal arrives from the body
+        just a little too late, too weak, or not at all.
+        The methods you've tried couldn't create a
+        signal that wasn't there." Product intro
+        (mechanism-first, V13): "The Body-Signal
+        Learning Layer (three layers: cotton inner for
+        gentle sensation, smart absorption core that
+        protects without blocking, outer barrier that's
+        leak-resistant) provides the gentle sensation
+        that lasts the brain has been missing. Not by
+        training. By giving the nervous system
+        information."
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, soft mint #DBFFCD
+              background (clarity, understanding, new
+              growth)
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: GUARANTEE / RISK REVERSAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The Guarantee:
+
+[VISUAL ELEMENT]
+ROLE: guarantee-block-low-bar-success-metrics-stack
+INTENT: stacked paragraph block. V8 + V12:
+        "You don't have to believe a single word I've
+        written. 60 days to try it in your home, with
+        your child, on your timeline. If nothing shifts,
+        no pause, no look down, no pull at their pants,
+        no step toward awareness, full refund. No forms,
+        no hassle." R6 micro-wins explicit throughout.
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, warm cream background;
+              "no forms, no hassle" line in Brand-Green
+
+48px space above, 48px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: CTA — ZERO-PRESSURE PERMISSION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: When you're ready, it's here.
+
+[VISUAL ELEMENT]
+ROLE: cta-zero-pressure-single-line
+INTENT: single inline-link CTA per permission frame:
+        "When you're ready, it's here." No button. No
+        "Buy now." No urgency. The closing line is the
+        entire CTA — links to the bundle page. LOWEST
+        aggression CTA in the FAQ library — appropriate
+        for the closing email of a 6-email series.
+EXAMPLE_PICK: single italic warm-gray inline link,
+              17px, centered
+
+48px space above, 48px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: LENA SIGN-OFF — LONG VARIANT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: With care,
+
+[VISUAL ELEMENT]
+ROLE: lena-signoff-long-variant-final-faq
+INTENT: "With care, Lena" — LONG sign-off variant per
+        §9.5 (LONG variant for emails E6+ in flow,
+        Phase 4 dignity, FINAL email of FAQ series).
+        Profile line: "Customer Support · Mom of two
+        autistic sons." Personal resonance: "Both my
+        sons went through every one of these
+        struggles. The outings anxiety. The poop
+        battle. The silence of a child who couldn't
+        tell me what was happening in his own body.
+        Every question you have, I've asked myself at
+        some point. When you're ready to try, I'm
+        here." Lena avatar small circular inset,
+        warm-toned filter, right-aligned.
+EXAMPLE_PICK: 15px warm-gray italic closing + 16px
+              bold Lena name + personal story +
+              13px warm-gray subtitle; longer signature
+              block (full paragraph)
+
+32px space above, 24px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 9: P.S. — DOUBLE P.S. (MEDICAL DEFERRAL + LATE-TRAINER)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — P.S. block)
+
+[VISUAL ELEMENT]
+ROLE: ps-block-double-line-medical-deferral-late-trainer
+INTENT: TWO P.S. lines per E6 spec:
+        P.S. 1 (Medical deferral): "If your child has
+        medical GI involvement, please keep your doctor
+        in the lead. Our underwear adds alongside, it's
+        not a replacement for medical care."
+        P.S. 2 (Late-trainer anchor + 60-day close):
+        "My older son was 8 before we figured this out.
+        Late is not never." Bridges peer testimony +
+        L3 dignity + 60-day close in single line.
+EXAMPLE_PICK: 13px Soft Gray italic, two stacked lines
+              with thin warm-gray divider between
+
+24px space above, 48px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 10: FOOTER — STATIC]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — footer block)
+
+[VISUAL ELEMENT]
+ROLE: footer-static-brand-block
+INTENT: same footer pattern as E1-E5. Brand signature
+        line, links, social, reviews, unsubscribe,
+        address.
+EXAMPLE_PICK: text-only footer, 13px gray links with
+              brand-green underline, centered
+
+48px space above
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+VARIANCE_CHECK (E5 → E6 within FAQ Library):
+- E5 shape: Shape C (16 sections, Problem-Solution
+  three-block systems: BCBA/school/GI)
+- E6 shape: Shape F (10 sections, Education-First
+  modified FAQ with unifying header)
+- Dimension delta E5 → E6:
+  1. Section count: 16 → 10 (DIFFERS — PASS)
+  2. Section order: Problem-Solution (3 systems) →
+     Education-First Modified FAQ (3 objections
+     stacked + unifying reframe + guarantee + CTA
+     + LONG sign-off) (DIFFERS PASS)
+  3. Image density: 3 system icons + Three-Family
+     cards → 0 product imagery, pure text (DIFFERS
+     PASS)
+  4. Color temp: warm cream + system icons + Three-
+     Family cards → warm cream + soft mint unifying
+     reframe (DIFFERS PASS)
+  5. Email length: ~700 words → ~700 words (close
+     but distinct — opening is longer because 3
+     objection quotes; sign-off is longer because
+     LONG variant) (DIFFERS PASS)
+  6. Argument structure: Three-Section Problem-
+     Solution (BCBA/school/GI) + complement aphorisms
+     → Modified FAQ (3 distinct objection sections
+     under unifying header, each Observe-Validate-
+     Mechanize-Permit + unifying reframe) (DIFFERS
+     PASS)
+  7. Visual rhythm: 48px gaps with sub-block structure
+     → 48px gaps, single block per objection (DIFFERS
+     PASS — cleaner per-section structure)
+  8. CTA position: Section 9 of 12 standalone CTA
+     button → Section 7 of 10 single inline link
+     "When you're ready, it's here" (DIFFERS PASS — LOW
+     aggression appropriate for closing)
+  9. Subject line formula: Pattern Hook ("BCBA, school,
+     and medical concerns") → Pattern Hook with three
+     objections ("Outings, poop struggles, and
+     communication") (DIFFERS PASS — different
+     objections, same formula class but distinct)
+- VARIANCE SCORE: 9/9 — maximum compliance.
+
+=================================================================
+CROSS-LEVEL CALIBRATION CONFIRMATION (R1-R6):
+R1 (Symptom Over Label): zero "Level 1/2/3," zero
+    "ASD" anywhere. "Verbal or not," "non-verbal or
+    minimally verbal" — symptom language only. V16
+    enforced throughout. PASS.
+R2 (3-5 Recognition Anchors): Travel ("Child won't
+    wear underwear during trips," "Standing at the
+    door with extra clothes"), Poop ("Dancing around
+    grabbing their butt," "Holding until they can't
+    anymore"), Communication ("Child who's never shown
+    any awareness," "Looking down at the spot") — 6+
+    anchors across 3 objections. PASS.
+R3 (Age Ranges Over Fixed): "Whether your child is 3
+    or 10" — never specifies fixed age. "My older son
+    was 8" — personal story, not prescription. PASS.
+R4 (Verbal/Non-Verbal Inclusive): Dedicated section
+    for communication barriers. "Non-verbal or
+    minimally verbal" covered directly. "Verbal or
+    not" in unifying cross-level paragraph. PASS.
+R5 (Timeline Flexibility): "No promised timeline.
+    'The verbal part comes later, if it comes at
+    all.' 'Both normal.' 'Late is not never.'" PASS.
+R6 (Low-Bar Success Metrics): "A pause, a look down,
+    a pull at their pants," "The first time they show
+    any recognition," "A child who's never reacted —
+    looking down at the spot." PASS.
+
+=================================================================
+GF SUB-GROUP REACH (V16 + R1-R6 cross-level flow):
+A (Diagnostic Entrants): Travel section is universally
+    relatable (every parent does trips). Poop section
+    is universal (every child has separate poop
+    signal). Communication section is mechanism-
+    focused. PASS.
+B (Diagnosis-Rejecters): No ASD/diagnosis language.
+    "Nervous system differences" + symptom descriptions
+    only. V16 enforced. PASS.
+C (Sensory-Difference): Mechanism-focused throughout.
+    Interoception language works without ASD framing.
+    PASS.
+D (Overwhelmed Non-Selectors): Three objections named
+    upfront provide deep recognition. "With care"
+    LONG sign-off respects her exhaustion. PASS.
+E (Cart/Browse): Fresh entry, three concrete concerns
+    addressed (travel, poop, communication). PASS.
+
+=================================================================
+HOPE/REALISM: 40/60 (FAQ cross-level per Tone
+Calibration §12 — Science-Deep Lena voice, REALISM-
+DOMINANT)
+- Hope signals: "beautiful first signals," "the
+  brain learns," "60 days to try it," LONG sign-off
+  peer resonance ("I'm here")
+- Realism signals: "If it comes at all," "If nothing
+  shifts," medical deferral ("keep your doctor in the
+  lead"), "Late is not never" (not "always trains")
+
+FORBIDDEN LANGUAGE AUDIT: PASS
+  No "easy," "simple," "quick," "miracle," "cure,"
+  "fix," "solve," "your child will train," "just
+  like other kids," "shop now," "buy," "order,"
+  exclamation marks, "Pre-K," "school deadline,"
+  "don't give up," "adult diapers," "severe,"
+  "autism," "ASD," "Level 1/2/3."
+
+=================================================================
+CLOSING NOTE: This is the FINAL email in the 6-email
+FAQ Library. Per §24 of journey-gf-MASTER, FAQ E6 is
+also flagged as a MIGRATION TOUCHPOINT — "FAQ E6 =
+migration moments" per the Decision Card §14. The
+migration pathway is visible in the "Whether your
+child is 3 or 10, verbal or not" framing (Sub-Group D
+recognizes her scenario and may organically migrate
+to a level-specific flow). However, no explicit
+migration button or link is included — the migration
+must be voluntary and story-driven per Giuliano §18.4.
+
+=================================================================
+END OF WIREFRAME — faq-21-e6
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — faq-21-e6
+
+
+> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
+
+
+> **Section count:** 10 body sections.
+
+> **Flow:** faq-library | **Position:** E6 | **Level:** GF
+
+
+### Section 1: HOOK — THREE QUESTIONS, UNIFYING HEADER
+
+- ROLE slot: `hook-three-questions-unifying-header`
+
+- INTENT: hook block — HOOK — THREE QUESTIONS, UNIFYING HEADER
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 19/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 2: TRAVEL/OUTINGS — PRACTICAL RELIEF
+
+- ROLE slot: `travel-outings-practical-relief`
+
+- INTENT: default block — TRAVEL/OUTINGS — PRACTICAL RELIEF
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 20/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 3: POOP-SPECIFIC — UNDERSTANDING
+
+- ROLE slot: `poop-specific-understanding`
+
+- INTENT: default block — POOP-SPECIFIC — UNDERSTANDING
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 20/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 4: COMMUNICATION BARRIERS — HOPE THROUGH MECHANISM
+
+- ROLE slot: `communication-barriers-hope-through-mechanism`
+
+- INTENT: mechanism block — COMMUNICATION BARRIERS — HOPE THROUGH MECHANISM
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 20/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 5: UNIFYING REFRAME — THREE CONCERNS, ONE EXPLANATION
+
+- ROLE slot: `unifying-reframe-three-concerns-one-explanation`
+
+- INTENT: validation block — UNIFYING REFRAME — THREE CONCERNS, ONE EXPLANATION
+
+- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+
+  - Currently used: 10/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 6: GUARANTEE / RISK REVERSAL
+
+- ROLE slot: `guarantee-risk-reversal`
+
+- INTENT: guarantee block — GUARANTEE / RISK REVERSAL
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 21/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 7: CTA — ZERO-PRESSURE PERMISSION
+
+- ROLE slot: `cta-zero-pressure-permission`
+
+- INTENT: cta block — CTA — ZERO-PRESSURE PERMISSION
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 21/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 8: LENA SIGN-OFF — LONG VARIANT
+
+- ROLE slot: `lena-sign-off-long-variant`
+
+- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 21/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 9: P.S. — DOUBLE P.S. (MEDICAL DEFERRAL + LATE-TRAINER)
+
+- ROLE slot: `p-s-double-p-s-medical-deferral-late-trainer`
+
+- INTENT: signoff block — P.S. — DOUBLE P.S. (MEDICAL DEFERRAL + LATE-TRAINER)
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 22/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 10: FOOTER — STATIC
+
+- ROLE slot: `footer-static`
+
+- INTENT: signoff block — FOOTER — STATIC
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 22/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 10

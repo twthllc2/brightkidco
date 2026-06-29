@@ -468,3 +468,319 @@ This L2 variant follows R1 (symptom-based language for body signal, not autism l
 ---
 
 *End of file, Part 1 (Email Copy) + Part 2 (Creative Strategy) complete.*
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l2-1
+
+> **Source sections (from Part 1 copy):** Hook → Validation → Mechanism → Social Proof → Product Intro (Teaser) → Realistic Timeline → Guarantee → CTA → Permission-Not-to-Buy → Sign-off (SHORT)
+> **Variance baseline:** L1 E1 wireframe structure (tiered awareness, single-column stack, full-width CTA, observation hook)
+> **L2 deltas vs L1 baseline:** deeper recognition (3+ failed methods + BCBA named), mint-bordered science callout (no L1 cream card), mechanism-first framing, MUTED-GREEN CTA (not full-width, NOT bright), Lena MEDIUM-style peer disclosure in sign-off, longer copy (1252 words), "Talk soon," SHORT sign-off.
+
+### Variance Check vs L1 baseline (target ≥ 5/9 dimensions different)
+
+| # | Dimension | L1 Baseline (E1) | L2 E1 (this wireframe) | Diff? |
+|---|-----------|-------------------|------------------------|-------|
+| 1 | Section count + names | 4 (Hook→Validation→Mechanism→CTA) | 10 (Hook→Validation→Mechanism→Social Proof→Product Teaser→Timeline→Guarantee→CTA→Permission→Sign-off) | ✅ |
+| 2 | Section pattern (A–H) | Pattern D (Hero text-only) | Pattern D + 6-element preamble (recognition → mechanism → BCBA → timeline → guarantee → permission) | ✅ |
+| 3 | Image density | 0–1 (logo only) | 0–1 (logo + optional signal-path SVG inline) | = same |
+| 4 | Color temperature | Warm (cream + mint) | Cool (mint #DBFFCD dominant on white; cream NOT used yet) | ✅ |
+| 5 | Email length | 250–350 words | 1,252 words (mechanism-dense, deep-read posture) | ✅ |
+| 6 | Argument structure | Mirror → mechanism tease | Mirror + 3+ failed methods named + interoception named + BCBA acknowledgment + permission | ✅ |
+| 7 | Visual rhythm | Open (44px gaps, generous) | Open (44px gaps; tight 16px around mint callout box only) | ✅ |
+| 8 | CTA position | Late single soft button | Late single soft button + secondary text link (size guide) | = same |
+| 9 | Subject line type | Observation hook (behavior-based) | Mechanism tease ("Why every method failed, neurology, not effort") | ✅ |
+
+**Variance score: 7/9 dimensions differ.** Threshold ≥ 5/9 met.
+
+### Vertical-Stack ASCII Wireframe
+
+```
+┌──────────────────────────────────────────────────────────┐
+│ HEADER (thin, off-white ground)                          │
+│  Logo bar: BrightKidCo wordmark, small, calm            │
+│  From: Lena from BrightKidCo                            │
+│  Subject: Why every method failed, neurology, not effort│
+│  Preview: The signal from bladder to brain doesn't …    │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  HEADLINE (display, single column, generous leading)     │
+│  "Why every method failed"                               │
+│  [Optional: inline signal-path SVG (left), but on        │
+│   mobile this collapses UNDER the headline. Single      │
+│   column, never side-by-side.]                          │
+│                                                          │
+│  HOOK BODY (3–4 sentences, no CTA, no image)            │
+│  "You've tried the BCBA protocol, OT sensory work,       │
+│  social stories, sticker charts, timer sits…"            │
+│  "Nothing changed."                                      │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  VALIDATION BODY (3–4 sentences)                        │
+│  "It's not that you didn't try hard enough."            │
+│  "It's that every method you tried assumed your         │
+│  child can FEEL when they need to go."                  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED SCIENCE CALLOUT BOX]                     │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Interoception is measurable.                       │  │
+│  │ "49% of autistic 4-5 year olds are not            │  │
+│  │  toilet trained."                                  │  │
+│  │  Source: SPARK / Wiggins et al. 2022              │  │
+│  │  Mechanism: body signal arrives late, weak, or    │  │
+│  │  not at all.                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (mint-bordered frame; mint #DBFFCD background)         │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  MECHANISM BODY (3–4 sentences, no image)               │
+│  "The 'I need to go' signal is a body signal…           │
+│  for many autistic children, that message doesn't       │
+│  arrive in time, or at all."                            │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SOCIAL PROOF — callout-quote-highlight (single column)  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He communicates fine about everything ELSE        │  │
+│  │  but cannot tell me he needs to pee…"              │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "We tried on and off for probably three years…"    │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (Cream-card #FBF7EB background, mint left accent)       │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PRODUCT TEASER BODY (3–4 sentences)                    │
+│  "BrightKidCo exists because every method started       │
+│  from the wrong assumption…"                             │
+│  "Layer 1 uses a gentle sensation that lasts,           │
+│  30–60 seconds of feedback."                            │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  REALISTIC TIMELINE BODY (3–4 sentences)                │
+│  "First signs of body awareness within 2–4 weeks."      │
+│  "Full awareness development usually takes 8–12 weeks.  │
+│  Some children take longer. That's not failure."        │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  GUARANTEE BADGE — trust-anchor-callout                  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Try it for 60 days. By your judgment.              │  │
+│  │ If it doesn't work for your family, full refund.   │  │
+│  │ No forms. No hoops.                                │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (muted-green border, cream-tint background)            │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [PRIMARY CTA — cta-button-full-width]                  │
+│  "Try Our 60-Day Approach, Start with the 3+3 Bundle"   │
+│  [ Muted-green fill, NOT full-width, 48px min height,   │
+│   12–16px border-radius, soft shadow ]                  │
+│                                                          │
+│  SECONDARY TEXT LINK                                    │
+│  "Or browse our sizing guide to see if BKC fits…"       │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PERMISSION-NOT-TO-BUY (3–4 sentences, full paragraph)  │
+│  "This email might not be for you right now…"           │
+│  "If today isn't the day, save this email.              │
+│   Come back when you're ready."                         │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SIGN-OFF — signoff-lena-short                          │
+│  "Thanks for being here. If you have a question,        │
+│   hit reply. You'll get me, not a template…"            │
+│  Talk soon,                                              │
+│  Lena ——                                                 │
+│                                                          │
+│  Footer: physical address · unsubscribe ·               │
+│          "Reply to this email, Lena reads every         │
+│           response."                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+SYSTEM B (automatic):
+- Backgrounds: warm off-white + cream cards + mint-bordered science callout
+- Text: high-contrast dark (#1A1A1A) on off-white, body 17px (mobile 16px)
+- CTA: muted-green (desaturated), NOT full-width, 48px min height, soft shadow
+- Spacing: 44px section gaps, tight 16px around mint callout box
+- No countdown timers, no exclamation cascade, no "Quick" / "Easy" / "Miracle"
+- Section count ≈ 10 (significantly denser than L1's 4 — keeps L2's deep-reading posture)
+```
+
+**L2 6-Element compliance verified at wireframe level:**
+- ✅ Symptom recognition: 3+ failed methods named (BCBA protocol, OT sensory, social stories, sticker charts, timer sits)
+- ✅ Mechanism specificity: interoception explained in mint-bordered callout (Mahler, Wiggins 49% SPARK)
+- ✅ BCBA acknowledgment: implicit ("your BCBA" named in hook list; not yet full L2 unlock sentence — that lands E2)
+- ✅ Realistic timelines: 2–4 weeks / 8–12 weeks shown
+- ✅ 60-day guarantee: trust-anchor-callout box
+- ✅ Permission-not-to-buy: dedicated section + SHORT sign-off
+
+======================================================================
+## STAGE 2 PICKS — welcome-01-e1-l2
+
+**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+
+**L2 calibration applied:**
+- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
+- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
+- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
+  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
+- 40/60 hope/realism ratio; clinical warmth, not peer-mom
+- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
+- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
+- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
+- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+
+
+### Section 1: hook-mirror
+- **ROLE slot:** hook-mirror
+- **INTENT (from wireframe):** HERO-5 Mirror Moment — text-driven opener
+- **COMPONENT PICKED:** HERO-5
+  - Name: Mirror Moment *(L3904)*
+  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Hook: HERO-5 Mirror Moment — text-driven opener
+- **VARIANCE CHECK:** N/A (first section)
+
+### Section 2: validation-body
+- **ROLE slot:** validation-body
+- **INTENT (from wireframe):** EMO-4 Empathy Block — warm absolution
+- **COMPONENT PICKED:** EMO-4
+  - Name: Empathy Block *(L6924)*
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Validation: EMO-4 Empathy Block — warm absolution
+- **VARIANCE CHECK:** differs from previous section (HERO-5) — OK
+
+### Section 3: mint-science-callout
+- **ROLE slot:** mint-science-callout
+- **INTENT (from wireframe):** EDU-11 Science Citation — 49% Wiggins
+- **COMPONENT PICKED:** EDU-11
+  - Name: Science Citation *(L5520)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 2/8 (under cap)
+  - **WHY:** Science callout: EDU-11 Science Citation — 49% Wiggins
+- **VARIANCE CHECK:** differs from previous section (EMO-4) — OK
+
+### Section 4: mechanism-body
+- **ROLE slot:** mechanism-body
+- **INTENT (from wireframe):** 17.2 Definition Block — clean prose definition
+- **COMPONENT PICKED:** 17.2
+  - Name: Definition Block *(L1616)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Mechanism: 17.2 Definition Block — clean prose definition
+- **VARIANCE CHECK:** differs from previous section (EDU-11) — OK
+
+### Section 5: quote-1
+- **ROLE slot:** quote-1
+- **INTENT (from wireframe):** SP2 Review Quote Card — L2 mom quote
+- **COMPONENT PICKED:** SP2
+  - Name: Review Quote Card *(L3208)*
+  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Quote 1: SP2 Review Quote Card — L2 mom quote
+- **VARIANCE CHECK:** differs from previous section (17.2) — OK
+
+### Section 6: quote-2
+- **ROLE slot:** quote-2
+- **INTENT (from wireframe):** EMO-6 Parent Quote — L2 mom quote (variance)
+- **COMPONENT PICKED:** EMO-6
+  - Name: Parent Quote *(L6962)*
+  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Quote 2: EMO-6 Parent Quote — L2 mom quote (variance)
+- **VARIANCE CHECK:** differs from previous section (SP2) — OK
+
+### Section 7: product-teaser
+- **ROLE slot:** product-teaser
+- **INTENT (from wireframe):** 6.3 ProductShowcaseSoft — no aggressive push
+- **COMPONENT PICKED:** 6.3
+  - Name: ProductShowcaseSoft
+  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Product teaser: 6.3 ProductShowcaseSoft — no aggressive push
+- **VARIANCE CHECK:** differs from previous section (EMO-6) — OK
+
+### Section 8: realistic-timeline
+- **ROLE slot:** realistic-timeline
+- **INTENT (from wireframe):** EMO-5 Realistic Timeline — 8-12 weeks
+- **COMPONENT PICKED:** EMO-5
+  - Name: Realistic Timeline *(L6941)*
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Timeline: EMO-5 Realistic Timeline — 8-12 weeks
+- **VARIANCE CHECK:** differs from previous section (6.3) — OK
+
+### Section 9: guarantee
+- **ROLE slot:** guarantee
+- **INTENT (from wireframe):** TRUST-1 60-Day Seal — primary badge
+- **COMPONENT PICKED:** TRUST-1
+  - Name: 60-Day Seal *(L6385)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Guarantee: TRUST-1 60-Day Seal — primary badge
+- **VARIANCE CHECK:** differs from previous section (EMO-5) — OK
+
+### Section 10: primary-cta
+- **ROLE slot:** primary-cta
+- **INTENT (from wireframe):** CTAMAX-04 Soft CTA — muted-green, soft wording
+- **COMPONENT PICKED:** CTAMAX-04
+  - Name: Soft CTA *(L16752)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
+  - Currently used: 4/8 (under cap)
+  - **WHY:** CTA: CTAMAX-04 Soft CTA — muted-green, soft wording
+- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
+
+### Section 11: secondary-text-link
+- **ROLE slot:** secondary-text-link
+- **INTENT (from wireframe):** CTA-2 Soft Link — sizing guide
+- **COMPONENT PICKED:** CTA-2
+  - Name: Soft Link *(L6658)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
+  - Currently used: 2/8 (under cap)
+  - **WHY:** Secondary: CTA-2 Soft Link — sizing guide
+- **VARIANCE CHECK:** differs from previous section (CTAMAX-04) — OK
+
+### Section 12: permission
+- **ROLE slot:** permission
+- **INTENT (from wireframe):** EMO-1 Permission Slip — L2 paradox lever
+- **COMPONENT PICKED:** EMO-1
+  - Name: Permission Slip *(L6867)*
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Permission: EMO-1 Permission Slip — L2 paradox lever
+- **VARIANCE CHECK:** differs from previous section (CTA-2) — OK
+
+### Section 13: signoff
+- **ROLE slot:** signoff
+- **INTENT (from wireframe):** 12.1 Lena Signoff — SHORT variant
+- **COMPONENT PICKED:** 12.1
+  - Name: Lena Signoff
+  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
+  - Currently used: 5/8 (under cap)
+  - **WHY:** Signoff: 12.1 Lena Signoff — SHORT variant
+- **VARIANCE CHECK:** differs from previous section (EMO-1) — OK
+
+### Footer (static — already picked, no work needed)
+- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
+- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
+- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+
+### Tracker updates applied
+- `component-usage.json`: incremented counts for `HERO-5`, `EMO-4`, `EDU-11`, `17.2`, `SP2`, `EMO-6`, `6.3`, `EMO-5`, `TRUST-1`, `CTAMAX-04`, `CTA-2`, `EMO-1`, `12.1`
+

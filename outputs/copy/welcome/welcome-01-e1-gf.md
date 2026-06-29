@@ -457,4 +457,406 @@ In the bottom-right corner of the page, just above the footer and rendered at 5%
 | **Contraption complexity** | 3-element | 2-element (simplify) | GF includes audiences who may be newly arrived (sub-group A) — the simplest visual metaphor for "signal not received." The signal bridge + 3-layer illustration, but no secondary interactive elements. |
 | **Inclusive language in visual** | "Your child" | "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or wondering" | Visual version of the inclusive framing pattern. If a heading image is used (GIF), this text appears on it. |
 
-*
+|*
+## WIREFRAME — built 2026-06-28 by subagent-gf-1
+
+```
+=================================================================
+WIREFRAME: welcome-01-e1-gf
+Email ID: welcome-01-e1-gf
+Flow: welcome | Position: E1 | Day: 0 | Level: GF
+=================================================================
+
+SUBJECT: Your child might not feel the signal
+PREHEADER: Whether they're 3 or 10, verbal or non-verbal, if
+           they don't feel when they need to go, here's why.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK + INCLUSIVE REFRAME]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Whether your child is just starting to show signs,
+          or you've been at this for years with every method
+          you can find online…
+SUBHEADLINE: (none — opens with the if/whether framing)
+
+[VISUAL ELEMENT]
+ROLE: hero-image-lifestyle-gf
+INTENT: shows a child the GF reader recognizes across all
+        five sub-groups — no specific age, no diagnostic
+        markers; real home setting, soft natural light;
+        THREE-child composite rule (varied ages, varied
+        presentations) per GF-V1 image calibration
+EXAMPLE_PICK: lifestyle photo composite (or single
+              ambiguous-age child, soft posture), real
+              home, no stock NT happy-family gloss
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — UNIVERSAL QUOTE STACK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: This isn't your fault. And it's not his.
+SUBHEADLINE: (none — section flows from hook)
+
+[VISUAL ELEMENT]
+ROLE: callout-quote-highlight-gf (×2 stacked, GF
+        universal voice — no level labels)
+INTENT: highlights the cross-level GF quotes that bridge
+        Sub-Group A (Diagnostic Entrants) and Sub-Group D
+        (Overwhelmed Non-Selectors):
+        (1) "He doesn't have full bladder awareness yet."
+        (2) "She'll pee herself and just keep playing in
+             the puddle."
+        (3) "I feel like a failure because he's still in
+             pull-ups."
+        The third-family pattern from GF creative strategy:
+        three perspectives stacked vertically, each
+        language-only, no diagnosis labels.
+EXAMPLE_PICK: callout box, warm-terracotta left-border
+              accent, large quote text, attribution in
+              13px muted warm-gray
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM — INTEROCEPTION REVEAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The problem isn't motivation or behavior.
+          It's neurology.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: stat-highlight-box-gf
+INTENT: highlights the 49% SPARK statistic — but rendered
+        with GF-V2 override (V16 wins): NEVER uses the
+        phrase "49% of autistic 4-5 year olds" visually;
+        instead uses universal "almost 1 in 2 children
+        whose nervous systems process signals differently
+        aren't toilet trained by age 5." Full-width box,
+        bold border per GF Creative Strategy calibration.
+EXAMPLE_PICK: large stat box, 49% rendered as visual
+              anchor (sans-serif bold, 48px desktop),
+              with Wiggins et al. 2022 citation in 12px
+              muted text below
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: SOCIAL PROOF — THREE-PARENT STACK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three parents, three kids, one missing signal.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: testimonial-stack-gf (3 cards stacked vertically,
+        NOT side-by-side)
+INTENT: displays three real parent quotes — covers the
+        full symptom spectrum without naming levels:
+        (1) Early-30s GF parent, child 5: "These past
+            three years have been hell…"
+        (2) Late-30s GF parent, child 4: "I absolutely
+            lost it. I yelled at him and smacked his butt…"
+        (3) GF parent, child 6: "He does great at ABA but
+            won't go near the potty at home…"
+EXAMPLE_PICK: three quote cards, each with a left-border
+              accent in varying warm tones (terracotta /
+              soft sage / muted plum), avatar circle in
+              soft color wash (no stock photos), GF rule
+              of varied parent demographics honored
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: PRODUCT INTRO + GUARANTEE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: We designed something different.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: product-3-layer-cross-section-gf
+INTENT: shows the Body-Signal Learning System in an
+        exploded-view cross-section (cotton inner + smart
+        absorption core + gentle outer barrier); avoids
+        any cartoonish mascot; neutral product photo on
+        cream/warm background; illustrates "the underwear
+        that creates the signal" — direct mechanism tie.
+EXAMPLE_PICK: clean exploded-view SVG of the 3 layers,
+              neutral background, callout labels in
+              14px muted text (no alarmist red, no
+              clinical blue)
+
+[CTA — DOUBLE-TAP #1: ABOVE-THE-FOLD CURIOSITY CTA]
+BUTTON_TEXT: See How It Works
+BUTTON_INTENT: drives to PDP — captures the E1 frame-
+              setting curiosity click, NOT a sale yet
+SECONDARY:  text link "If you're ready to explore →"
+
+[CTA — DOUBLE-TAP #2: BOTTOM CTA BEFORE LENA]
+BRIDGE-LINE: "If this sounds familiar, keep reading."
+BUTTON_TEXT: See How It Works
+BUTTON_INTENT: second CTA placement — same button,
+              captures the reader who scrolls past the
+              hero; below the guarantee so trust precedes
+              action
+SECONDARY:  WELCOME10 code is NOT shown in body — it
+              lives in the subject line and preheader
+              zone per GF E1 macro
+
+[GUARANTEE BADGE]
+TEXT: "60 days. By your judgment."
+INTENT: low-pressure trust signal embedded in the same
+        section as the CTAs, permission-not-to-buy
+        framing
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA SHORT VARIANT for E1-E2 GF]
+─────────────────────────────────────────────────────────────────
+Background: cream card (subtle separation)
+Body 16px: "Thanks for being here. If you have a question,
+            hit reply. You'll get me — not a template,
+            not a bot. I read everything."
+Closing: "Talk soon,"
+Signature: "Lena ——" (em-dash, 14px, italic, Body Gray)
+
+NOTE: GF macro mandates Lena SHORT variant for E1-E2.
+      No "Mom of two" sub-line yet (that arrives E3+).
+      No migration anchor in E1 (first anchor lands in
+      E2 per GF-V3 anchor rotation).
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe
+Questions? Reply to this email, we read every response.
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? YES (hero is the
+  first section, definitely above fold on mobile + desktop)
+- Section 1 headline visible above 400px? YES (headline
+  begins the body copy directly, no spacer)
+- Section 5 (product) above fold on desktop only — mobile
+  requires scroll, which is acceptable for E1
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 2
+  (hero lifestyle composite + product 3-layer cross-section)
+- Image positions: section-1 (hero) + section-5 (product)
+- Density category: 2 (mid — matches GF baseline)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 6
+  - hero-image-lifestyle-gf (section 1)
+  - callout-quote-highlight-gf (sections 2 + 4 — same
+    role family, varied by attribution tone)
+  - stat-highlight-box-gf (section 3)
+  - product-3-layer-cross-section-gf (section 5)
+  - cta-button-curiosity (section 5 — double-tap inside
+    the same section: above-the-fold + bottom)
+  - signoff-lena-short-gf (signoff block)
+- Density category: 6 (under 8-cap)
+- Note: Guarantee badge is rendered inline within the
+  CTA section's trust-signal row, not as a separate
+  component role.
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 5 (4 body sections + 1 CTA section that
+  also holds guarantee + double-tap CTA, per GF macro
+  table)
+- Section pattern: A (Classic — Hook → Validation →
+  Mechanism → Proof → CTA)
+- Image density: 2 (hero + product)
+- Color temperature: neutral (per GF E1 macro — opens with
+  warm cream/terracotta + soft sage accents, not yet warm
+  or cool — the Welcome sequence warms as it progresses
+  toward E6)
+- Email length: short (~620 words, under 800 per macro)
+- Argument structure: Direct + Story fragment (the "if this
+  sounds familiar" beat lands as the closing thought)
+- Visual rhythm: open (64px section gaps per GF macro)
+- CTA position: double-tap (sections 5 + 6 — same button,
+  above-the-fold + bottom)
+- Subject line type: observation + code (per GF macro:
+  "Your child might not feel the signal" is the symptom
+  observation; WELCOME10 referenced via preheader zone)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — no "autism/ASD/Level"
+  anywhere in body or visible copy
+- R2 (3-5 recognition anchors): YES — 4 anchors visible
+  (peeing-in-puddle, pull-ups-failure, ABA-vs-home, the
+  "you've tried everything" general)
+- R3 (Age 3-10+ inclusive): YES — "Whether your child is
+  3 or 10" in preheader + opener
+- R4 (Verbal + non-verbal dual): YES — "verbal or
+  non-verbal" appears in preheader; both modes implied in
+  social proof ("He talks about the potty" + "ABA but
+  won't go near")
+- R5 (Timeline flexible): YES — no calendar, no "in 30
+  days" framing
+- R6 (Low-bar success metrics): YES — pause/look/step
+  language in copy, mirror in CTA framing
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "nervous system processes signals differently" used as
+  the umbrella phrase instead
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E1 has NO migration anchor — first anchor lands in E2
+- E2 will carry the L1-style anchor ("sits 20 minutes,
+  nothing happens")
+- E4 will carry the L2-style anchor
+- E5 will carry the L3-style anchor
+- E8 will carry the bridge/recap assessment link
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: NONE (this is E1, first in
+  flow, baseline set for GF variance tracking downstream)
+- Note: Stage 1 baseline established for future variance
+  reconciliation by welcome-01-e2-gf onward.
+
+=================================================================
+END OF WIREFRAME — welcome-01-e1-gf
+=================================================================
+```
+## STAGE 2 PICKS — welcome-01-e1-gf
+
+> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E1).
+> Scope: 5 sections (hero / callout / stat / testimonial / product).
+> GF calibration: R1–R6 strict, V16 symptom language only,
+> 50/50 hope/realism, no autism/ASD/Level 1/2/3 in body copy.
+
+### Section 1: HOOK + INCLUSIVE REFRAME
+- ROLE slot: `hero-image-lifestyle-gf`
+- INTENT (from wireframe): ambiguous-age, three-child composite feel;
+  real home, soft natural light, no stock NT gloss.
+- COMPONENT PICKED: **DEEPIMG-7** — Full-Bleed Lifestyle
+  - From catalog: position=body_images, image_support=image_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: full-bleed lifestyle frame is the cleanest visual for a
+    3-child composite soft natural-light lifestyle opener; serves
+    Groups A/D/E (hope) and Groups B/C (realism) identically.
+- IMAGE PICKED: **lifestyle/toddler-livingroom-dino-yellow.png**
+  - Dimensions: 1200×800 (lifestyle folder).
+  - Alt text (V16 spec): "Child playing in a real home living room,
+    soft natural light, ambiguous age."
+  - Currently used: 0/25.
+  - WHY: real-home, warm tone, varied-age feel; satisfies
+    GF-V1 three-child composite without silhouetting a subgroup.
+- VARIANCE CHECK: E1 is the first GF email — sets baseline.
+- GF CALIBRATION CHECK: ✅ no level labels, V16-safe.
+
+### Section 2: VALIDATION — UNIVERSAL QUOTE STACK (×2)
+- ROLE slot: `callout-quote-highlight-gf` (stacked, GF universal voice)
+- INTENT: highlight cross-level GF quotes bridging Sub-Group A
+  (Diagnostic Entrants) and Sub-Group D (Overwhelmed Non-Selectors).
+- COMPONENT PICKED: **DEEP-13** — The Reverse Testimonial
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: the weeks-pattern ("Week 1 / Week 3") is a structurally
+    repeated quote stack that fits the wireframe's "×2 stacked"
+    requirement; tone is symptom-only and V16-clean as written.
+  - V16 NOTE: attribute to "Real parent (anonymous, GF reader)" —
+    Stage 3 rewrite guard ensures no age-pin or label appears.
+- IMAGE PICKED: none (text-only callout block).
+- VARIANCE CHECK: differs from S1 (image frame vs callout).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 3: MECHANISM — INTEROCEPTION REVEAL
+- ROLE slot: `stat-highlight-box-gf`
+- INTENT: highlight 49% SPARK statistic in GF-V2 paraphrase form
+  ("almost 1 in 2 children whose nervous systems process signals
+  differently aren't toilet trained by age 5") — NEVER names autism.
+- COMPONENT PICKED: **HERO-2** — Data Shock
+  - From catalog: position=hero, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: data-shock framing is the natural container for the 49%
+    stat; large 48px bold number is in scope; text_only so no image
+    silhouette risk; Stage 3 will paint with Brand-Green #039902.
+  - V16 NOTE: body copy must use the GF paraphrase form, NOT the
+    original L1 "49% of autistic 4-5 year olds" string.
+- IMAGE PICKED: none (text-only stat box).
+- VARIANCE CHECK: differs from S2 (stat number vs quote).
+- GF CALIBRATION CHECK: ✅ stat paraphrased per GF-V2.
+
+### Section 4: SOCIAL PROOF — THREE-PARENT STACK
+- ROLE slot: `testimonial-stack-gf` (3 cards stacked vertically)
+- INTENT: three real parent quotes covering the full symptom
+  spectrum without naming levels; varied parent demographics.
+- COMPONENT PICKED: **STORY-10** — Stacked Story
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: stacked card narrative is structurally a perfect fit for
+    3 vertical quote cards with attribution and left-border accents;
+    tone is editorial/parent-peer, symptom-only.
+  - V16 NOTE: keep attributions symptom-described ("A parent of
+    a 5-year-old," "A mom of a 4-year-old") — NO Level 1/2/3.
+- IMAGE PICKED: none (text-only three-card stack).
+- VARIANCE CHECK: differs from S3 (narrative cards vs stat).
+- GF CALIBRATION CHECK: ✅ symptom-described attribution only.
+
+### Section 5: PRODUCT INTRO + GUARANTEE
+- ROLE slot: `product-3-layer-cross-section-gf` + double-tap CTA
+- INTENT: exploded-view 3-layer system (cotton + smart absorption
+  + barrier); cream background; clean labels; paired with
+  "60 days. By your judgment." badge + "See How It Works" CTAs.
+- COMPONENT PICKED: **PROD-3** — Layer Breakdown
+  - From catalog: position=product_showcase, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: layered product diagram is the natural fit for a 3-layer
+    exploded view; Stage 3 will render with cream/cotton-tone palette,
+    terracotta callouts, and the 60-day shield badge.
+- IMAGE PICKED: **flat-lay/laundry-bag-llama-cream.png**
+  - Dimensions: 1200×1200 (cream-toned product flat-lay).
+  - Alt text (V16 spec): "Cream-colored laundry bag, neutral product
+    on warm background — illustrates the body-signal-learning system."
+  - Currently used: 0/25.
+  - WHY: cream-tone product-adjacent flat-lay reinforces the
+    cream/warm palette without competing with mechanism copy.
+- VARIANCE CHECK: differs from S4 (product + image vs social proof).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Footer (static — already extracted, no work needed)
+- Header: extracted from Giuliano mockup (Stage 2 Task 0).
+- Footer: extracted from Giuliano mockup (Stage 2 Task Z).
+- Sign-off: in copy file body (Lena SHORT variant, E1-E2 macro).
+
+### Tracker updates applied
+- component-usage.json: DEEPIMG-7 +1, DEEP-13 +1, HERO-2 +1,
+  STORY-10 +1, PROD-3 +1 (each now 1/8).
+- image-usage.json: lifestyle/toddler-livingroom-dino-yellow.png +1,
+  flat-lay/laundry-bag-llama-cream.png +1 (each now 1/25).

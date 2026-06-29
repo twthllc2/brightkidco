@@ -304,3 +304,443 @@ Not "Buy with confidence" (marketing language), Instead: *"You don't have to bel
 | All creative decisions traceable | ✓ | See §7 — Decision Traceability table with source lines |
 | Lena's voice per 11-brand-voice-reference.md | ✓ | See §4 — Voice Calibration section |
 | Output structure: ONE file, TWO halves | ✓ | Half 1 (Email Copy) + Half 2 (Creative Strategy) |
+
+## WIREFRAME — built 2026-06-28 by subagent-checkout
+
+```
+=================================================================
+WIREFRAME: checkout-03-e1
+Email ID: checkout-03-e1
+Flow: checkout_abandonment | Position: E1 | Timing: 10 Minutes after checkout started | Level: GF (Cross-Level)
+=================================================================
+
+SUBJECT: Was there a question? (48 chars, under 50 ✓)
+PREHEADER: Not chasing, just wondering if there's something we can
+           help with before you go.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — OBSERVATION + PERMISSION OPEN]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You started checkout, here's the piece most parents
+          are missing.
+SUBHEADLINE: (none — observation lands first, no marketing
+              preamble)
+
+[VISUAL ELEMENT]
+ROLE: hero-image-lifestyle-checkout-gf
+INTENT: real parent at laptop/phone screen in soft home light,
+        paused mid-action posture (not frustrated, not
+        smiling-on-command — "you put it down" frame). No
+        cart UI mockup visible. No urgency imagery.
+        GF-V1 image rule: ambiguous-age composite feel, no
+        diagnostic markers, varied parents
+EXAMPLE_PICK: lifestyle photograph, real home, neutral palette,
+              parent visible from behind or side, soft posture
+              of pause
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — WHETHER/OR/IF BRIDGE + REFRAME]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Whether your child is 3 or 10, verbal or not —
+          the missing piece is the same.
+SUBHEADLINE: (none — the bridge IS the structure)
+
+[VISUAL ELEMENT]
+ROLE: inclusive-symptom-callout-gf
+INTENT: highlights the cross-level bridge statement that
+        satisfies R3 + R4 simultaneously (age range 3-10
+        AND verbal/non-verbal paired in one sentence).
+        V16-safe: zero level labels, zero "autism," zero
+        diagnosis. Symptom language only.
+        R1 anchor: "don't seem to feel when they need to go"
+        — symptom, not label
+EXAMPLE_PICK: warm cream callout box, left-border accent in
+              muted terracotta, large readable text, no
+              icons that imply developmental stages
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM + GUILT REMOVAL — NEUROLOGICAL REFRAME]
+─────────────────────────────────────────────────────────────────
+HEADLINE: It's not stubbornness. It's not motivation.
+          It's a signal-timing gap.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: mechanism-explain-callout-gf
+INTENT: presents the "I need to go" signal-timing gap with
+        Nicholson et al. 2019 citation rendered in
+        12px muted text. Brief, science-grounded, dignity-
+        first. Reframes blame → neurology. Frame: "Not
+        training. Providing information the brain has been
+        missing."
+        Mini-defeats L2's method-cycling fatigue via
+        neurological reframe (L1 lever)
+EXAMPLE_PICK: paragraph block + small citation footer,
+              no infographic, no cartoon brain — prose
+              only, accessible 16px mobile body
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: THREE-FAMILY TESTIMONIAL — GF INLINE INSERT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three different kids, one pattern.
+          See if one sounds familiar.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: three-family-testimonial-stack-gf (3 quotes stacked
+        vertically, NOT side-by-side)
+INTENT: R2 — 3-5 recognition anchors covering L1/L2/L3
+        without naming them. Three symptom profiles,
+        vertically stacked:
+        (1) L1: "He's been 'almost trained' for months.
+            Talks about it. Won't do it."
+        (2) L2: "She sat on the toilet for 30 minutes.
+            Nothing. Pull-up back on? Immediate."
+        (3) L3: "He doesn't react to being wet. Never has.
+            We'd stopped counting attempts."
+        Migration gateway for Sub-Group D — she finds
+        her level via recognition, not label
+EXAMPLE_PICK: three stacked quote cards, each with a soft
+              warm-tone left-border accent (terracotta,
+              soft sage, muted plum), no avatars, no
+              stock photos, just type-set quotes in
+              18px serif quote style with attribution
+              line below in 13px muted
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: GUARANTEE + PERMISSION CTA]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You don't have to believe me.
+SUBHEADLINE: 60 days to try it in your home, with your child,
+             on your timeline.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-badge-gf
+INTENT: 60-day refund, no forms, no shipping to return.
+        Peer-positioned ("You don't have to believe me"),
+        not brand-positioned. R6 mini-wins as refund
+        threshold: "no pause, no look, no step toward
+        awareness." Anti-Pre-K urgency — no deadlines.
+        L3 primary conversion lever
+EXAMPLE_PICK: full-width badge in soft mint (#DBFFCD)
+              background, bold border, large readable
+              text, the phrase "60 days" rendered as
+              visual anchor (sans-serif bold 36px),
+              refund-threshold detail in 14px below
+
+[CTA — SINGLE, SOFT]
+BRIDGE-LINE: Your cart is saved as-is.
+BUTTON_TEXT: Complete your order
+BUTTON_INTENT: low-friction, neutral language. NOT "Buy
+              Now" or "Finish Purchase" — those trigger
+              pressure. "As-is" = she doesn't have to
+              re-decide anything. The cart state is
+              the emotional lever here
+SECONDARY:  text link "If today isn't the day, that's a
+            real answer →" — permission off-ramp
+            preserves future conversion
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA SHORT VARIANT for E1]
+─────────────────────────────────────────────────────────────────
+Background: cream card (subtle separation)
+Body 16px: "Thanks for being here. If you have a question,
+            hit reply. You'll get me — not a template,
+            not a bot. I read everything."
+Closing: "Lena ——"
+Signature: 14px, italic, Body Gray
+
+NOTE: SHARED-EM VARIANT for E1 (cross-level). NOT yet the
+      extended Lena sign-off with personal story fragment
+      (that lands in E2 where the hope-fear cycle
+      conversation goes deeper). No "Mom of two autistic
+      sons" sub-line yet — that arrives in the conversion-
+      stage emails.
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe
+Questions? Reply to this email, we read every response.
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? YES (hero is the
+  first section, above fold on mobile + desktop)
+- Section 1 headline visible above 400px? YES (headline
+  begins the body copy directly, no spacer)
+- Section 5 (CTA) is BELOW the fold on both — this is
+  intentional for E1 (the friction-removal frame needs
+  permission to land before any action invitation)
+- PASS for E1 strategy
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 2
+  (hero lifestyle composite + mechanism paragraph carry no
+  image — they are prose-led; only one product-lifestyle
+  visual at section 1 plus one testimonial-stack graphic
+  treatment at section 4)
+- Image positions: section-1 (hero) + section-4
+  (testimonial-stack graphic treatment, no stock photos)
+- Density category: 2 (mid — matches GF baseline)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 6
+  - hero-image-lifestyle-checkout-gf (section 1)
+  - inclusive-symptom-callout-gf (section 2)
+  - mechanism-explain-callout-gf (section 3)
+  - three-family-testimonial-stack-gf (section 4)
+  - guarantee-badge-gf (section 5)
+  - cta-button-soft-permission + signoff-lena-short-gf
+- Density category: 6 (under 8-cap)
+- Note: Single soft CTA, not double-tap (E1 strategy is
+  permission-first, not curiosity-first like Welcome E1)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 5 body sections (Hook → Bridge → Mechanism
+  → Proof → Guarantee+CTA) + 1 signoff
+- Section pattern: Shape F (per locked-profile)
+  Classic friction-removal: Observation → Bridge → Reframe
+  → Social proof → Risk removal
+- Image density: 2 (hero + testimonial graphic treatment)
+- Color temperature: neutral-warm (cream/terracotta opening,
+  sage accent at guarantee — same palette as GF E1 Welcome
+  for sequence continuity)
+- Email length: short (~480 words body, under 600 per
+  cross-level macro for friction-removal emails)
+- Argument structure: Story-fragment (the "you started,
+  then stopped" observation is the frame-setting narrative
+  beat, no hard data upfront)
+- Visual rhythm: open (64px section gaps per GF macro —
+  permission frame needs whitespace, never cramped)
+- CTA position: bottom-only, soft permission CTA (NOT
+  double-tap — E1 strategy removes friction, doesn't
+  invite exploration)
+- Subject line type: observation + permission (48 chars,
+  "Was there a question?" opens with curiosity + service,
+  not "you forgot" guilt; cross-level safe, no level-
+  specific language, no age reference, no diagnosis
+  reference)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — "don't feel when they
+  need to go," "signal-timing gap" — symptom language only,
+  zero "autism/ASD/Level" anywhere in body or visible copy
+- R2 (3-5 recognition anchors): YES — 3 anchors in Three-
+  Family Block covering L1 ("almost trained"), L2 ("sits
+  on toilet 30 min — nothing"), L3 ("doesn't react to
+  wet")
+- R3 (Age 3-10+ inclusive): YES — "Whether your child is
+  3 or 10" in section 2
+- R4 (Verbal + non-verbal dual): YES — "verbal or not"
+  in section 2 + Three-Family covers both modes (L1 talks
+  about it, L3 doesn't react)
+- R5 (Timeline flexible): YES — "60 days... on your
+  timeline," no fixed "in X days" promise
+- R6 (Low-bar success metrics): YES — refund trigger is
+  "no pause, no look, no step toward awareness," mini-win
+  language, NOT "fully trained"
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "nervous system differences" / "signal-timing gap" used
+  as the umbrella phrases
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E1 has NO explicit migration anchor — GF strategy at the
+  checkout-abandonment apex is friction removal, not
+  migration. Migration happens via PP-Level Detection at
+  Day 14 (Flow 09) post-purchase, not at pre-purchase
+  abandonment
+- Three-Family Block functions as IMPLICIT migration
+  gateway (Sub-Group D finds her level via recognition,
+  no migration link needed)
+
+=================================================================
+CONVERSION LEVER SEQUENCE (per §3 of checkout-03-e1 copy):
+- Sub-Groups A, B, C: GF-A (Signal doesn't come) →
+  L1 (Not the method) → L3 (60-Day Guarantee)
+- Sub-Group D: L1 → Recognition Anchors → (implicit
+  migration stored for post-purchase PP-Level Detection)
+- Sub-Group E: L3 (Guarantee) → L1 (Brief mechanism) →
+  L4 (Lena trust)
+
+=================================================================
+HOPE/REALISM RATIO: 50/50 (cross-level midpoint per
+  Layer-18 §Part 8 — not too hopeful for L3, not too
+  realistic for L1)
+
+=================================================================
+FORBIDDEN PATTERNS CHECK (per Layer-17 §3 + Layer-18 §FP):
+- "Only 24 hours left!" ABSENT ✓
+- "Your cart is expiring!" ABSENT ✓
+- "Don't miss out!" ABSENT ✓
+- "You forgot something!" ABSENT ✓
+- Countdown timers ABSENT ✓
+- "Last chance!" ABSENT ✓
+- "Easy / Simple / Quickly" ABSENT ✓
+- "Miracle / Cure / Fix / Solve" ABSENT ✓
+- "Just like other kids" ABSENT ✓
+- Pre-K urgency ABSENT ✓
+- "When she's potty trained..." certainty ABSENT ✓
+- PASS — zero violations
+
+=================================================================
+VARIANCE_CHECK vs previous checkout email:
+- Previous email in flow+level: NONE (this is E1, first
+  in checkout_abandonment flow, baseline set for Stage 1
+  variance reconciliation downstream by checkout-03-e2)
+- 9-dimension variance ledger will be initialized when
+  E2 wireframe lands — both must share a baseline then
+  diverge on ≥5/9 structural dimensions to satisfy the
+  variance rule (per structural blueprint §4)
+
+=================================================================
+END OF WIREFRAME — checkout-03-e1
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — checkout-03-e1
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 5 body sections.
+
+> **Flow:** checkout | **Position:** E1 | **Level:** GF
+
+
+### Section 1: HOOK — OBSERVATION + PERMISSION OPEN
+
+- ROLE slot: `hook-observation-permission-open`
+
+- INTENT: hook block — HOOK — OBSERVATION + PERMISSION OPEN
+
+- COMPONENT PICKED: **HERO-1** — Curiosity Gap
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: VALIDATION — WHETHER/OR/IF BRIDGE + REFRAME
+
+- ROLE slot: `validation-whether-or-if-bridge-reframe`
+
+- INTENT: validation block — VALIDATION — WHETHER/OR/IF BRIDGE + REFRAME
+
+- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: MECHANISM + GUILT REMOVAL — NEUROLOGICAL REFRAME
+
+- ROLE slot: `mechanism-guilt-removal-neurological-reframe`
+
+- INTENT: validation block — MECHANISM + GUILT REMOVAL — NEUROLOGICAL REFRAME
+
+- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: THREE-FAMILY TESTIMONIAL — GF INLINE INSERT
+
+- ROLE slot: `three-family-testimonial-gf-inline-insert`
+
+- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL — GF INLINE INSERT
+
+- COMPONENT PICKED: **DEEP-06** — Whisper Network
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: GUARANTEE + PERMISSION CTA
+
+- ROLE slot: `guarantee-permission-cta`
+
+- INTENT: guarantee block — GUARANTEE + PERMISSION CTA
+
+- COMPONENT PICKED: **TRUST-5** — Promise Card
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 5

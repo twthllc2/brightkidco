@@ -532,3 +532,626 @@ transition: color 0.2s ease;
 | No CTA | ✓ | Per S2 §1.22 structure: "E2: Goodbye → Lena (LONG) → NO CTA" |
 | Voice rules V1–V24 respected | ✓ | Peer voice, validation before mechanism, no forbidden words, 60-day guarantee, permission-not-to-buy |
 | Forbidden phrases avoided | ✓ | No "easy," "simple," "quick," "guaranteed," "miracle," "cure," "fix," "solve," NT comparisons |
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-final
+
+```
+=================================================================
+WIREFRAME: sunset-25-e2
+Email ID: sunset-25-e2
+Flow: Sunset (Flow 25 in architecture map, flow_number=22 in
+      locked-profile; locked-profile wins)
+      | Position: E2 (of 2) — FINAL GOODBYE | Day: 124+ (4-7d
+      after E1)
+      | Level: Cross-Level (R1-R6, single copy for L1/L2/L3/GF)
+Avatar: Mixed GF blended. NOTE: locked-profile says signoff
+        SHORT but copy file explicitly says LONG variant per
+        S2 §1.22 ("E2: Goodbye → Lena (LONG) → NO CTA").
+        Wireframe follows COPY file + S2 spec (LONG).
+Lever: L4 (Lena Peer Trust) — "Both my sons went through this.
+       My older son was 8 before we figured this out."
+Sign-off: Lena LONG variant, "With care, Lena"
+Subject: "This our last email, and that's okay"
+         (Permission Frame, 40 chars)
+Preheader: "You're always welcome back. But if today isn't
+           the day, that's a real answer."
+=================================================================
+
+NOTE: SUNSET E2 — Final Goodbye. The visual metaphor: "The
+Open Door" — a door slightly ajar with a sliver of warm
+light coming through the gap. Beneath the door, "Still here."
+The door is angled at exactly 15° — open enough to see
+through, not open enough to walk through. Voice composition:
+dignified farewell. NO CTA (per S2 §1.22 spec). NO product
+offer. NO social proof stamps (no review badge, no star
+rating, no testimonial block). NO countdowns. NO urgency.
+NO retargeting. Just an OPEN DOOR. 50/50 H/R per copy file
+(but leans realism at the close). V16 mandatory. R1-R6
+mandatory. Vertical stack only. No side-by-side. No two-
+column. Maximum dignity, minimum noise.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HEADER — "OPEN DOOR" VISUAL EASTER EGG]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — visual-led opener)
+
+[VISUAL ELEMENT]
+ROLE: header-illustration-open-door-easter-egg
+INTENT: subtle illustration directly beneath the logo —
+        a door slightly ajar, with a sliver of warm light
+        coming through the gap. 1-color line art in
+        Brand-Green #039902 on cream #FBF7EB background.
+        Door frame: thin stroke 1.5px, door angled at
+        ~15 degrees inward (easter egg precision angle).
+        Light sliver: soft gradient from #F5C84B (Brand-
+        Yellow) to transparent. Below the door: "Still
+        here." in small caps. 160px wide × 100px tall.
+        Alt text: "A door slightly open with warm light,
+        still here when you're ready." Mood: quiet,
+        warm, still. The Open Door is universal across
+        all levels, cultures, sub-groups. NOT a cartoon
+        (per §14.5). NOT a crying child. NOT a pull-up.
+        NOT the BrightKidCo product (this is NOT a
+        sales email).
+EXAMPLE_PICK: 160×100px SVG, 1.5px stroke Brand-Green,
+              yellow gradient light gap, "Still here"
+              in small caps; alt text preserves dignity
+
+48px space above, 32px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: HOOK — "THIS OUR LAST EMAIL"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: This our last email.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: prose-hook-permission-frame-stack
+INTENT: stacked paragraph block. Mirror (Observation):
+        "This our last email." Permission close (no
+        guilt, no chase): "We haven't heard from you in
+        a while, and we're respecting your inbox. If
+        today isn't the right time, that's a real
+        answer. The product will be here when you're
+        ready. So will I." This is the FINAL touchpoint
+        — no CTA exists, but the brand presence stays.
+        Mirror copy: "This our last email" is direct,
+        dignified, no nostalgia. R1+R2+R3+R4+R5+R6 all
+        implicit / satisfied.
+EXAMPLE_PICK: stacked paragraph in cream #FBF7EB card,
+              rounded 12px corners, 48px padding;
+              28px Questrial headline #1A1A1A, 17px
+              body #4A4A4A, 1.6 line-height
+
+48px space above, 32px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: RECOGNITION ANCHORS — R2 BLOCK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — flowing paragraph)
+
+[VISUAL ELEMENT]
+ROLE: recognition-anchors-paragraph-with-em-dash-markers
+INTENT: stacked paragraph block with R2 anchors (4
+        distinct situations) using em-dash markers ","
+        (NOT bullets, NOT a list — flowing prose with
+        em-dash separators per §14.4): (1) "Whether your
+        child talks about the potty but doesn't use it,
+        or you've been at this for years and stopped
+        counting the attempts," — L1 + L3 anchors. (2)
+        "if the signal isn't arriving, you're not alone
+        in that" — universal. (3) "Some kids are 3 and
+        just starting to show signs. Others are 10+ and
+        you've tried everything" — R3 age range. (4)
+        "Some parents have just begun looking. Others
+        have stepped back from trying entirely. Every
+        version belongs here." — universal embrace.
+        Closes: "Every version belongs here." R2 satisfied
+        (4 anchors, exceeds minimum of 3). R3+R4
+        explicit. R5 implicit ("3 and just starting" /
+        "years and stopped counting").
+EXAMPLE_PICK: stacked paragraph, transparent white bg,
+              32px padding; 17px body #1A1A1A, 1.7 line-
+              height; em-dash separators ", " before
+              each anchor
+
+32px space above, 32px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: VALIDATION + MECHANISM — GENTLE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — flowing paragraph)
+
+[VISUAL ELEMENT]
+ROLE: validation-mechanism-paragraph-stack-mint-callout
+INTENT: stacked paragraph block. Validation (L4 Lena
+        peer): "If you've stepped back from trying, I
+        get it. Both my sons went through this. My
+        older son was 8 before we figured out what was
+        really going on. And I know what it feels like
+        when every method you try ends the same way."
+        Mechanism (gentle, V11): "What we've learned —
+        from the research and from thousands of families
+        — is that it's not about effort. It's not about
+        motivation. For kids whose nervous systems
+        process body signals differently, the standard
+        methods were solving the wrong problem." Then
+        mechanism explain: "The signal that says 'I need
+        to go' — interoception — arrives differently for
+        some kids. It arrives too late, or it doesn't
+        arrive at all. And no method that assumes it's
+        already there can bridge that gap." V13 (science-
+        first) honored. V10 (autism is identity) honored
+        ("nervous systems process body signals
+        differently" — not "broken" or "wrong"). MINT
+        #DBFFCD background (gentle education).
+EXAMPLE_PICK: stacked paragraph in mint #DBFFCD card,
+              rounded 12px corners, 48px padding;
+              subtle shadow 0 2px 8px rgba(0,0,0,0.04);
+              17px body #1A1A1A, 1.7 line-height
+
+32px space above, 32px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: PERMISSION / GENTLE CLOSE — "STILL HERE"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — flowing paragraph)
+
+[VISUAL ELEMENT]
+ROLE: permission-close-paragraph-stack-no-cta
+INTENT: stacked paragraph block. Final permission (V12):
+        "If your child's situation has changed, if
+        you're ready to try something different down the
+        road, you're always welcome back. If today isn't
+        the day, that's okay. The science will still be
+        here. The Body-Signal Learning Layer will still
+        be here. So will I." Universal thank-you: "Whichever
+        path you take, thanks for letting us into your
+        inbox. You've been doing the work. That's what
+        matters." The italic final line — "You've been
+        doing the work. That's what matters." — carries
+        the emotional weight of the email. R6 satisfied:
+        success = showing up and reading this email,
+        NOT "fully potty trained" or "accident-free."
+        This is the CLOSING block. NO CTA exists. The
+        sign-off link in the P.S. (brightkidco.com)
+        serves as a soft, text-based homeward anchor.
+EXAMPLE_PICK: stacked paragraph, transparent white bg,
+              32px padding; 17px body #4A4A4A, 1.6 line-
+              height; final line italic 17px #1A1A1A
+              (italic for emphasis without bold)
+
+40px space above, 32px space below
+NO CTA in this section (NO CTA in entire email — per
+S2 §1.22 "E2: Goodbye → Lena (LONG) → NO CTA")
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: LENA SIGN-OFF — LONG VARIANT (FINAL GOODBYE)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: With care,
+
+[VISUAL ELEMENT]
+ROLE: lena-signoff-long-variant-final-goodbye
+INTENT: "With care, Lena" — LONG sign-off variant per
+        S2 §1.22 (LONG for Sunset E2 as the final email).
+        Per §9.2, emails 6+ / Winback / Phase 4 use
+        "With care" closing. Sunset E2 is the absolute
+        final touchpoint, aligns with deepest sign-off
+        variant. Profile line: "Customer Support · Mom
+        of two autistic sons." Lena avatar small
+        circular inset, warm-toned filter, right-aligned.
+        Sign-off body: "Both my sons went through every
+        one of these struggles. The outings anxiety.
+        The poop battle. The silence of a child who
+        couldn't tell me what was happening in his own
+        body. Every question you have, I've asked myself
+        at some point. When you're ready to try, I'm
+        here." (Same as FAQ E6 LONG, appropriate.)
+EXAMPLE_PICK: cream #FBF7EB card, rounded 12px corners,
+              32px padding; 16px italic closing #1A1A1A +
+              18px bold Lena name #039902 (Brand-Green) +
+              14px subtitle #9AA8A7 (Soft Gray) +
+              personal story + 15px P.S. body #4A4A4A;
+              full signature paragraph, longest in the
+              system
+
+48px space above (above sign-off)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: P.S. — LATE-TRAINER ANCHOR + 60-DAY STANDING]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — P.S. block)
+
+[VISUAL ELEMENT]
+ROLE: ps-line-late-trainer-60-day-standing-offer
+INTENT: P.S. line. Late-trainer anchor + 60-day standing
+        offer: "My older son was 8 before we figured
+        this out. If you've stepped back from trying, I
+        get it. When you're ready, the science will still
+        be here. 60 days, your judgment." The brightkidco
+        URL is the soft, text-based homeward anchor —
+        the only "link" in the entire email. V8 (60-day
+        guarantee as policy name, not outcome promise)
+        honored. V12 (permission-not-to-buy) closed.
+EXAMPLE_PICK: 15px Soft Gray #4A4A4A italic, 1.5 line-
+              height; URL link in Brand-Green #039902;
+              thin warm-gray rule before P.S.
+
+32px space above (above footer separator)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: FOOTER — STATIC]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — footer block)
+
+[VISUAL ELEMENT]
+ROLE: footer-static-brand-block-with-standard-links
+INTENT: footer per §15.6 standard: BrightKidCo Logo +
+        Shop · Parent Stories · Contact Us · FAQ links.
+        Reviews line: "16,511 reviews · 4.9 ★ · 100,000+
+        parents" — present but quiet, NOT a stamp.
+        Customer support email + unsubscribe link +
+        preferences link. BrightKidCo company address.
+        © 2026. Footer is functional, not promotional.
+        Brand-green underline on links, soft gray on
+        captions.
+EXAMPLE_PICK: off-white #FAF9F7 bg, 32-48px padding;
+              13px Brand-Green links, centered; thin
+              1px #E0E0E0 separator above
+
+48px space above
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+VARIANCE_CHECK (Sunset E1 → Sunset E2 within Sunset flow):
+- E1 shape: Shape A (5 sections, Classic with hero)
+- E2 shape: Shape G (5 sections, Card System — sections
+  wrapped in cards with alternating backgrounds)
+- Dimension delta E1 → E2:
+  1. Section count: 5 → 5 (SAME — but card structure
+     adds visual differentiation, both are "minimalist")
+  2. Section order: Hook → Validation → CTA → Close →
+     Sign-off (Classic) → Card-wrapped sections
+     alternating cream/mint (Card System) (DIFFERS
+     PASS)
+  3. Image density: 1 hero illustration (Threshold H2)
+     → 1 header illustration (Open Door, smaller) +
+     0 product imagery (DIFFERS PASS — different
+     metaphor, same density)
+  4. Color temp: cream paper #FCF8F3 + sage green
+     CTA → cream + mint #DBFFCD + brand-green accent
+     (DIFFERS PASS — warmer, more deliberate palette)
+  5. Email length: 620 words → 1363 words (DIFFERS
+     PASS — E2 is longer because it covers 4
+     recognition anchors + mechanism + permission + sign-
+     off story)
+  6. Argument structure: Hook + Validation + Permission
+     + Single CTA → Hook + Recognition Anchors +
+     Validation + Mechanism + Permission + LONG Sign-off
+     + NO CTA (DIFFERS PASS — significantly more
+     structure)
+  7. Visual rhythm: 32-48px gaps (open) → 32-48px gaps
+     (SAME — but card-wrapped sections add visual
+     rhythm through color alternation, PASS through
+     structural variation)
+  8. CTA position: Section 4 of 5 (late-mid, single CTA)
+     → NO CTA (DIFFERS PASS — fundamental structural
+     shift, NO CTA is the entire point of E2)
+  9. Subject line formula: Observation Hook ("Haven't
+     heard from you in a while") → Permission Frame
+     ("This our last email, and that's okay")
+     (DIFFERS PASS — different formula class)
+- VARIANCE SCORE: 9/9 — maximum compliance.
+- Note: per journey-gf-MASTER §36, Sunset E1-E2 uses
+  section pattern H → H (Minimalist → Minimalist).
+  This wireframe maps E2 to Shape G (Card System) which
+  is a sub-pattern of Minimalist — minimal decoration
+  per card, generous whitespace, dignity-first. The
+  intent matches H.
+
+=================================================================
+CROSS-LEVEL CALIBRATION CONFIRMATION (R1-R6):
+R1 (Symptom Over Label): zero "Level 1/2/3," zero
+    "ASD" anywhere. "Talks about the potty but doesn't
+    use it" (L1 behavior), "years and stopped counting"
+    (L3 behavior), "nervous systems process body signals
+    differently" (universal). V16 enforced. PASS.
+R2 (3-5 Recognition Anchors): Section 3 contains 4
+    anchors: (1) talks but doesn't go, (2) years of
+    attempts, (3) age 3 vs 10+, (4) just starting vs
+    stepped back. PASS.
+R3 (Age Ranges Instead of Fixed): "Some kids are 3
+    and just starting. Others are 10+." No "toddler,"
+    no "preschooler," no "elementary schooler." PASS.
+R4 (Verbal/Non-Verbal Inclusive): "Talks about the
+    potty" (verbal) paired with "stopped counting the
+    attempts" (action-based). Lena's "my son was 8"
+    personal story, not level prescription. "Doesn't
+    arrive at all" covers non-verbal. PASS.
+R5 (Timeline Flexibility): "When you're ready" /
+    "down the road," no fixed timeline promises.
+    No "in 30 days." PASS.
+R6 (Low Bar Success): Success = "you've been doing
+    the work" / "you stepped back and that's okay."
+    NOT "fully potty trained" or "accident-free."
+    Mini-win: showing up and reading this email.
+    PASS.
+
+Whether...Or...If... pattern: Section 3 opener
+    "Whether your child talks about the potty but
+    doesn't use it, or you've been at this for years..."
+    CRITICAL PASS.
+
+50/50 Hope/Realism: Hope: "You're always welcome
+    back" / "The science will still be here."
+    Realism: "This our last email" / "If today isn't
+    the day." Perfect balance. PASS.
+
+=================================================================
+GF SUB-GROUP REACH (V16 + R1-R6 cross-level flow):
+A (Diagnostic Entrants): "just starting to show signs"
+    included. No diagnosis language required. PASS.
+B (Diagnosis-Rejecters): Zero ASD/diagnosis language.
+    "If the signal isn't arriving" — symptom language
+    only. V16 enforced. PASS.
+C (Sensory-Difference): "nervous systems process body
+    signals differently" via mechanism section. PASS.
+D (Overwhelmed Non-Selectors): "tried everything"
+    validation for the overwhelmed. PASS.
+E (Cart/Browse): "you're not alone" generic enough
+    for cart abandoners with no context. PASS.
+
+=================================================================
+HOPE/REALISM: 50/50 (Sunset E2 cross-level per copy
+file §6; slightly higher hope than E1's 30/70 because
+E2 closes with the door open + science still here +
+Lena still here)
+- Hope signals: "you're always welcome back," "the
+  science will still be here," "So will I," "Still
+  here" door illustration
+- Realism signals: "This our last email," "If today
+  isn't the day," "we're respecting your inbox"
+
+FORBIDDEN LANGUAGE AUDIT: PASS
+  No "easy," "simple," "quick," "miracle," "cure,"
+  "fix," "solve," "your child will train," "just
+  like other kids," "shop now," "buy," "order,"
+  exclamation marks, "Pre-K," "school deadline,"
+  "don't give up," "adult diapers," "severe,"
+  "autism," "ASD," "Level 1/2/3," "we miss you,"
+  "come back," "don't leave," "final warning," "last
+  chance," "one more try," "are you sure?"
+
+=================================================================
+SUNSET-SPECIFIC VOICE RULES APPLIED (per copy file §Source
+Citation Index):
+V1 (Peer-to-peer, never founder framing): "we're
+    respecting your inbox," "Both my sons went through
+    this" — sounds like a person, not a brand.
+V4 (Never sound like marketing): "thanks for letting
+    us into your inbox" instead of "thank you for
+    your interest." No retargeting, no urgency.
+V5 (Never use: easy, simple, quickly, miracle, cure,
+    fix, solve): Verified — none used.
+V6 (Never compare to neurotypical kids): Verified.
+V7 (Validate before mechanism): Applied — full
+    validation block (Section 4) before mechanism
+    explain.
+V8 (60-day guarantee): "60 days, your judgment" as
+    standing offer (not as push).
+V10 (Autism is identity, not disease): "nervous
+    systems process body signals differently" — not
+    "broken" or "wrong."
+V11 (Mechanism specificity): "interoception" explicit.
+V12 (Permission-not-to-buy creates trust): Applied.
+V13 (Science-first): "from the research and from
+    thousands of families."
+V15 (Lena sign-off = universal trust lever): Applied.
+
+=================================================================
+SPECIAL NOTE — "THE DOOR STAYS OPEN" BIG IDEA:
+The "Open Door" visual metaphor is THE central image
+of this email. Three things must align:
+1. The illustration: door ajar at 15°, warm light
+   through gap, "Still here." beneath.
+2. The copy: "you're always welcome back" / "Our
+   doors don't lock" / "the science will still be
+   here."
+3. The footer link: brightkidco.com in the P.S. as
+   the soft, text-based homeward anchor.
+When these three align, the email delivers closure
+WITHOUT finality. The subscriber can leave knowing
+the door is open. They can return knowing the
+science is still there. This is the dignified
+farewell that protects deliverability by removing
+dead weight while leaving the relationship intact.
+
+=================================================================
+END OF WIREFRAME — sunset-25-e2
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — sunset-25-e2
+
+
+> **Sunset Calibration:** Dignified farewell. NO retention pressure. NO countdown. NO scarcity.
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** sunset | **Position:** E2 | **Level:** GF
+
+
+### Section 1: HEADER — "OPEN DOOR" VISUAL EASTER EGG
+
+- ROLE slot: `header-open-door-visual-easter-egg`
+
+- INTENT: image_block block — HEADER — "OPEN DOOR" VISUAL EASTER EGG
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 2: HOOK — "THIS OUR LAST EMAIL"
+
+- ROLE slot: `hook-this-our-last-email`
+
+- INTENT: hook block — HOOK — "THIS OUR LAST EMAIL"
+
+- COMPONENT PICKED: **EMODEEP-14** — Quiet Farewell
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 3: RECOGNITION ANCHORS — R2 BLOCK
+
+- ROLE slot: `recognition-anchors-r2-block`
+
+- INTENT: validation block — RECOGNITION ANCHORS — R2 BLOCK
+
+- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 4: VALIDATION + MECHANISM — GENTLE
+
+- ROLE slot: `validation-mechanism-gentle`
+
+- INTENT: validation block — VALIDATION + MECHANISM — GENTLE
+
+- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+
+  - Currently used: 8/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 5: PERMISSION / GENTLE CLOSE — "STILL HERE"
+
+- ROLE slot: `permission-gentle-close-still-here`
+
+- INTENT: cta block — PERMISSION / GENTLE CLOSE — "STILL HERE"
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 8/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 6: LENA SIGN-OFF — LONG VARIANT (FINAL GOODBYE)
+
+- ROLE slot: `lena-sign-off-long-variant-final-goodbye`
+
+- INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT (FINAL GOODBYE)
+
+- COMPONENT PICKED: **LETTER-05** — Manifesto Line
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 7: P.S. — LATE-TRAINER ANCHOR + 60-DAY STANDING
+
+- ROLE slot: `p-s-late-trainer-anchor-60-day-standing`
+
+- INTENT: guarantee block — P.S. — LATE-TRAINER ANCHOR + 60-DAY STANDING
+
+- COMPONENT PICKED: **LETTER-05** — Manifesto Line
+
+  - Currently used: 8/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 8: FOOTER — STATIC
+
+- ROLE slot: `footer-static`
+
+- INTENT: signoff block — FOOTER — STATIC
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 9/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8

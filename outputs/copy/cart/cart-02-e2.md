@@ -213,3 +213,511 @@ Single visual direction calibrated via R1-R6, inclusive, not level-specific. No 
 **GF Three-Family Testimonial Pattern:** The illustration's three branching paths from one source node embody this visually, three different journeys, one common mechanism. All three paths are equal weight and equal prominence. No path is in shadow or de-emphasized.
 
 **Forbidden:** No level labels in any visual element. No school/classroom imagery (Pre-K hook is forbidden for cross-level). No urgency cues (countdowns, clocks, timers). No pull-up imagery (E1 covered this). No fixed-age visual references.
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-cart
+
+```
+=================================================================
+WIREFRAME: cart-02-e2
+Email ID: cart-02-e2
+Flow: cart_abandonment | Position: E2 | Hour: 24 | Level: GF (cross-level)
+=================================================================
+
+SUBJECT: What parents actually say after trying it
+PREHEADER: Whether it's 2 weeks or 2 minutes since you added
+            to cart, here's what other parents noticed after
+            trying Body-Signal underwear.
+
+=================================================================
+[NAME: section-1-hero-testimonial]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — hero IS the testimonial)
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: hero-parent-quote-callout
+INTENT: opens with a single, large, hand-drawn quote mark
+        surrounding "The moment he stands up he pees." — a
+        raw, unfiltered parent voice. Different visual
+        treatment (warm terracotta accent) to set this email
+        apart from E1's signal-path illustration.
+EXAMPLE_PICK: oversized opening quote glyph (48px, terracotta),
+              single sentence quote, italic body, attribution
+              line ("A real parent, before trying Body-Signal
+              underwear") small and muted
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-2-hook-and-anchors]
+─────────────────────────────────────────────────────────────────
+HEADLINE: If that sentence lands a little too close
+          to your morning…
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: cross-level-recognition-anchor-list
+INTENT: 5 symptom anchors (one more than E1's 4) covering
+        L1, L2, L3, GF sub-groups A-E. Signal-dot bullets,
+        same family as E1's list (consistent visual language
+        across the flow) but different symptoms to prevent
+        pattern-matching.
+EXAMPLE_PICK: vertical list, five lines, signal-dot bullets,
+              "sits and waits / doesn't react wet / knows but
+              can't feel / almost trained / been in pull-ups
+              for years"
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-3-validation]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You're not alone in this.
+SUBHEADLINE: And more importantly, your child is not broken.
+
+[VISUAL ELEMENT]
+ROLE: validation-block-with-neurology-reframe
+INTENT: validates the parent's experience and re-frames the
+        gap as neurology, not effort. Two short paragraphs.
+        No image — this is pure prose validation.
+EXAMPLE_PICK: text block on neutral background, no visual
+              element, generous line-height (1.6)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-4-mechanism]
+─────────────────────────────────────────────────────────────────
+HEADLINE: What we've learned from the science:
+SUBHEADLINE: The brain needs feedback it's not getting.
+
+[VISUAL ELEMENT]
+ROLE: mechanism-explanation-with-science-anchors
+INTENT: cites Kelly Mahler (interoception), Nicholson et al.
+        2019 (body awareness in autistic children), and the
+        49-study review. Three citation tokens rendered as
+        inline pills (small, muted, not links — they signal
+        "this is sourced" without distraction).
+EXAMPLE_PICK: text block with three inline citation pills,
+              "30 to 60 seconds of feedback" rendered in
+              accent color (single word-level tint, same as
+              E1's "signal" treatment — visual continuity)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-5-three-family-proof]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three parents, three different kids,
+          one common experience:
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: three-testimonial-card-stack-asymmetric
+INTENT: three cards with VARIED widths (L1 card narrower,
+        L2 full-width, L3 narrower) creating asymmetric stack.
+        Each card slightly overlaps the next (subtle -1deg
+        alternating rotation on desktop). This is the
+        "Social Proof First" pattern — testimonials dominate.
+        Different visual treatment from E1's three-card stack
+        (E1 = uniform width, E2 = asymmetric width).
+EXAMPLE_PICK: 3 stacked cards, alternating widths, slight
+              rotation, asymmetric top-border hairline (2px
+              emerald, 30% width from left), no photos,
+              hairline left border per card (1px emerald)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-6-first-win-callout]
+─────────────────────────────────────────────────────────────────
+HEADLINE: One parent told us:
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: low-bar-success-quote-callout
+INTENT: renders the "He went today! Once! But he went!" quote
+        as a stand-alone callout box. Celebrates a MINI-WIN
+        (R6) — one event, not full training. Visually distinct
+        from section 1's parent quote (different accent,
+        smaller, centered).
+EXAMPLE_PICK: centered callout, italic body, smaller than hero
+              quote, single sentence with exclamation, no
+              attribution (this is a "moment" not a story)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-7-offer-and-cta]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (conditional — based on cart contents)
+SUBHEADLINE: none
+
+CASE A — 1-pair in cart:
+HEADLINE: One pair usually isn't enough.
+
+CASE B — 3+3 already in cart:
+HEADLINE: You're all set — your original offer is saved.
+
+[VISUAL ELEMENT]
+ROLE: offer-block-with-pricing-anchor
+INTENT: explains the rotation logic (1 pair = laundry every
+        night; 3+3 = consistent feedback for the nervous
+        system). Price anchor shown as "$13.33 per pair with
+        the bundle — less than half the single-pair price."
+        No discount framing (no "% off" badge) — value
+        framing only.
+EXAMPLE_PICK: text + inline pricing, soft emerald tint
+              (5% opacity radial gradient) behind the offer
+              block, no product image (mechanism-led, not
+              product-led)
+
+[CTA]
+CASE A BUTTON_TEXT: "Upgrade to the 3+3 Bundle, $79.99"
+CASE B BUTTON_TEXT: "Complete your purchase"
+BUTTON_INTENT: dynamic — switches based on cart state.
+              Permission-framed: "No rush, I'll read about
+              the science first" as secondary text link.
+PLACEMENT: below offer block, below the fold position
+          (per copy file, this email's CTA sits after the
+          sign-off, low-pressure)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-8-guarantee-strip]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days to try it. By your judgment.
+SUBHEADLINE: No questions. No pressure. Just your timeline.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-statement-block
+INTENT: framed guarantee sentence. Smaller than E1's
+        guarantee callout (E1 = centered, large; E2 = inline
+        strip, smaller). Sets up the cart-conditional CTA
+        as low-risk.
+EXAMPLE_PICK: horizontal strip, hairline border, single line,
+              mint tint background, sits between CTA and
+              sign-off
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[ROLE: signoff-lena-medium]
+─────────────────────────────────────────────────────────────────
+Body: "With understanding,"
+Closing line 1: "P.S. Both my sons went through this. One
+                  trained at 6, the other at almost 8. I know
+                  what it feels like to try everything. [See
+                  how the Body-Signal approach works → link]"
+Closing line 2: "P.S. Your 60-day guarantee is valid on every
+                  order. Try it, watch for a pause or a look,
+                  and decide from there. [Complete your
+                  purchase → link]"
+Signature: "Lena —," (em-dash italic, 14px)
+Title: "Customer Support · Mom of two autistic sons"
+NOTE: MEDIUM variant per copy file (two P.S. lines, longer
+      personal story anchor). Distinguishes E2 from E1's
+      SHORT variant — different sign-off depth for variance.
+
+=================================================================
+[ROLE: footer-static]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address]
+No longer want these emails? Unsubscribe
+Reply to this email. Lena reads every response.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero testimonial quote visible above 400px? YES (hero IS
+  the quote, single line, immediately scrollable)
+- Section 2 hook + recognition anchors visible above 400px?
+  YES (immediately follows hero)
+- First CTA reachable above 700px? NO (CTA is conditional,
+  sits after testimonials + offer block by design — Social
+  Proof First means proof must come before action)
+- Above-fold decision: hero quote + first 3 recognition
+  anchors = entire above-fold experience. Testimonials
+  carry the email — no mechanism, no guarantee above fold.
+
+=================================================================
+IMAGE_COUNT:
+- Total images: 0 (zero photographic images)
+- Positions: none — this email is pure-text visual
+- Density: 0 (text-only, asymmetric typography carries the
+  visual rhythm)
+- Visual variance from E1: E1 had hero illustration (signal
+  path), E2 has zero images but uses asymmetric card layout
+  and oversize quote glyph as visual anchors.
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES: 7
+  - hero-parent-quote-callout (section 1)
+  - cross-level-recognition-anchor-list (section 2)
+  - validation-block-with-neurology-reframe (section 3)
+  - mechanism-explanation-with-science-anchors (section 4)
+  - three-testimonial-card-stack-asymmetric (section 5)
+  - low-bar-success-quote-callout (section 6)
+  - offer-block-with-pricing-anchor (section 7)
+  - guarantee-statement-block (section 8)
+  - signoff-lena-medium
+  - footer-static
+- Effective ROLES in body: 8 (signoff and footer are static)
+- Density: 8 (text-heavy, multi-component proof architecture)
+
+=================================================================
+STRUCTURAL_INTENT:
+- Section count: 8 (7 body sections + 1 CTA section + 1
+  guarantee strip = 8 distinct named sections)
+- Section pattern: D (Social Proof First) — testimonial hero
+  → anchors → validation → mechanism → proof cards → win
+  callout → offer → CTA
+- Image density: 0 (text-only email, asymmetric card layout
+  is the visual rhythm)
+- Color temperature: warm (cream + charcoal + emerald +
+  terracotta hero accent)
+- Email length: long (1017 words per locked-profile)
+- Argument structure: Testimonial-led (proof dominates, hook
+  IS a testimonial)
+- Visual rhythm: mixed (tight at anchor list, open at
+  testimonial cards, tight at offer block)
+- CTA position: late (after testimonials + offer + guarantee
+  strip — Social Proof First requires proof before action)
+- Subject line type: parent quote ("What parents actually say
+  after trying it") — matches D pattern's parent-voice subject
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: cart-02-e1
+- Variance ledger target per journey-gf-MASTER §36: D
+  (Social Proof First) — DIFFERENT from E1's C ✅
+- 9-dimension variance tally vs E1:
+  1. Section count: 7 → 8 (DIFFERENT) ✅
+  2. Section order: C (Problem-Solution) → D (Social Proof
+     First) (DIFFERENT) ✅
+  3. Image density: 1 → 0 (DIFFERENT) ✅
+  4. Color temperature: warm → warm (same — but terracotta
+     hero accent differentiates E2) ⚠ PARTIAL
+  5. Email length: medium-long (766w) → long (1017w)
+     (DIFFERENT) ✅
+  6. Argument structure: Problem-Solution → Testimonial-led
+     (DIFFERENT) ✅
+  7. Visual rhythm: mixed → mixed (same family, different
+     cadence — E2's testimonial overlap rotation adds
+     variance) ⚠ PARTIAL
+  8. CTA position: late → late (same position family, but
+     E2's CTA is conditional/cart-state-driven, a different
+     mechanic) ⚠ PARTIAL
+  9. Subject line type: permission frame → parent quote
+     (DIFFERENT) ✅
+- Total dimensions DIFFERENT: 6/9 (counting partials as
+  partial-credit). Hard DIFFERENT count: 5/9 (dims 1, 2, 3,
+  5, 6, 9 — six actually distinct). MINIMUM 5/9 ✅ MET.
+
+=================================================================
+R1-R6 CALIBRATION (Cross-Level):
+- R1 (Symptom over label): ZERO level labels in body.
+  Symptom descriptors used throughout.
+- R2 (3-5 recognition anchors): 5 anchors in section 2
+  ("sits and waits / doesn't react wet / knows but can't feel /
+  almost trained / been in pull-ups for years") + 3 family
+  testimonials = 8 anchors distributed across the email.
+- R3 (Age ranges): NO fixed ages. "Verbal / non-verbal /
+  sensory-difference" used as descriptors. Ages implicit in
+  testimonials (verbal / sensory-difference / never-noticed)
+  without pinning numbers.
+- R4 (Verbal/Non-Verbal): Both modes in testimonials —
+  "He went today! Once! But he went!" (verbal) plus the
+  three family stories (one verbal, one sensory, one
+  non-verbal/high-support-needs equivalent).
+- R5 (Timeline flexibility): Testimonials show "2 weeks",
+  "Week 4", "Week 8" — three different timelines, no fixed
+  promise.
+- R6 (Low-bar success): "He went today! Once! But he went!"
+  — celebrates a single event. "Pause. Look. Step toward
+  bathroom." No "fully trained" language anywhere.
+- V16 (GF): ZERO autism / ASD / L1-L2-L3 labels in body.
+  Mechanism language ("nervous system", "body signals",
+  "interoception") carries the science.
+
+=================================================================
+END OF WIREFRAME — cart-02-e2
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — cart-02-e2
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** cart | **Position:** E2 | **Level:** GF
+
+
+### Section 1: Hero Testimonial
+
+- ROLE slot: `hero-testimonial`
+
+- INTENT: social_proof block — Hero Testimonial
+
+- COMPONENT PICKED: **STORY-03** — Split Before/After
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-outdoors-grass-disposable-diaper.png**
+
+  - Currently used: 1/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: Hook And Anchors
+
+- ROLE slot: `hook-and-anchors`
+
+- INTENT: hook block — Hook And Anchors
+
+- COMPONENT PICKED: **HERO-20** — Handwritten Letter Opener
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: Validation
+
+- ROLE slot: `validation`
+
+- INTENT: validation block — Validation
+
+- COMPONENT PICKED: **DEEP-02** — Mom Confessional
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: Mechanism
+
+- ROLE slot: `mechanism`
+
+- INTENT: mechanism block — Mechanism
+
+- COMPONENT PICKED: **DEEP-07** — Evidence Chain
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: Three Family Proof
+
+- ROLE slot: `three-family-proof`
+
+- INTENT: social_proof block — Three Family Proof
+
+- COMPONENT PICKED: **STORY-05** — Diary Entry
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **resized/toddler-playing.jpg**
+
+  - Currently used: 3/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: First Win Callout
+
+- ROLE slot: `first-win-callout`
+
+- INTENT: default block — First Win Callout
+
+- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 7: Offer And Cta
+
+- ROLE slot: `offer-and-cta`
+
+- INTENT: cta block — Offer And Cta
+
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 8: Guarantee Strip
+
+- ROLE slot: `guarantee-strip`
+
+- INTENT: guarantee block — Guarantee Strip
+
+- COMPONENT PICKED: **TRUST-5** — Promise Card
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8

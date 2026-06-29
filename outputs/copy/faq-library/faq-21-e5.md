@@ -330,3 +330,752 @@ P.S. Both my sons had BCBAs. Both had school accommodations. One had GI issues. 
 | **P.S. Line** | Max 2 lines. BCBA-complement + 60-day close. "Both my sons had BCBAs. Both had school accommodations. One had GI issues. The systems aren't the enemy — they just weren't designed to build a sensory signal. That's what this fills. 60 days to see if it fits your child." |
 | **Footer** | Unsubscribe link (gray, small) + physical address |
 | **Mobile** | Single column. CTA at 60-70% scroll. Button min 48px. Text size 16px body, 22px headline. Three testimonial blocks stack vertically with adequate padding (16px) |
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-final
+
+```
+=================================================================
+WIREFRAME: faq-21-e5
+Email ID: faq-21-e5
+Flow: FAQ/Objection Library (Flow 21 in architecture map,
+      flow_number=20 in locked-profile; locked-profile wins)
+      | Position: E5 (of 6) | Day: B2 of FAQ sequence
+      | Level: Cross-Level (R1-R6, single copy for L1/L2/L3/GF)
+Avatar: Mixed GF blended. V16 governs. The "Missing Piece"
+        puzzle metaphor returns (consistent visual across all
+        6 FAQ emails per design spec). BCBA-Complement thesis
+        central: never criticize BCBA protocol — complement it.
+Lever: L1 (Mechanism, sensory gap) + L2-A (Complement, "Your
+       BCBA leads. We add alongside.") + L4 (Lena peer)
+Sign-off: Lena SHORT variant, "With understanding, — Lena"
+Subject: "Answering your top question: BCBA, school, and
+         medical concerns"
+         (Pattern Hook, 64 chars)
+Preheader: "Whether you're navigating a BCBA, an IEP, a GI
+           protocol, or all three — the answer starts in
+           the same place." (128 chars)
+=================================================================
+
+NOTE: Fifth FAQ email. THREE OBJECTIONS — BCBA Compatibility
+(B2, "my BCBA has a protocol, I trust that more") + School/
+IEP/Daycare Pull-Up Policy (NEW-2) + Medical/GI Withholding
+(B4). All three share root: every system assumes the "I need
+to go" signal arrives in time — the interoception gap breaks
+the assumption. Critical positioning: "Your BCBA leads. We
+add alongside. Your school has policies. We work around them.
+Your GI doctor manages the medical piece. We handle the
+sensory learning layer." NEVER compete. NEVER criticize.
+ALWAYS complement. 4-step reframe: Name → Validate → Reframe
+→ Absolve. 40/60 H/R. V16 mandatory. R1-R6 mandatory.
+Vertical stack only. No side-by-side. No two-column.
+Permission-not-to-buy.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — THREE SYSTEMS, ONE MISSING PIECE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — flowing paragraph)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: prose-opener-three-systems-puzzle-metaphor
+INTENT: stacked flowing paragraph. Opens with three
+        systems named in flowing prose (NOT bullets):
+        "Your BCBA has a protocol. Your school has a
+        policy. Your GI doctor has a treatment plan."
+        Then bridge: "If you're reading this, you're
+        probably managing all three at once, and none
+        of them are getting your child out of pull-ups."
+        Then mechanism preamble: "Here's why. And what
+        to do about it." Sets up the puzzle metaphor
+        (three puzzle pieces on left, missing center
+        piece on right).
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, warm cream background
+
+R1-R6 ACTIVATED IN THIS SECTION:
+  R1 (symptom over label): zero labels, system descriptions
+  R2 (recognition anchors): 3 systems named (BCBA, school,
+       medical) — 3 anchors
+  R3 (age ranges): implicit
+  R4 (verbal + non-verbal): implicit
+  R5 (timeline flexibility): implicit
+  R6 (low-bar success): no outcome promised
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: QUESTION RECAP — "WHAT'S LEFT?"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The question we hear most:
+
+[VISUAL ELEMENT]
+ROLE: question-quote-callout-mint
+INTENT: mint #DBFFCD callout box with the parent
+        question in flowing prose: "If my BCBA, my
+        school, and my doctor all have their own plans,
+        and none of them are working for potty training,
+        what's left?" Then the bridge: "The answer:
+        what's missing is the same thing in every case."
+        Sets up Section 3 (Let's name them).
+EXAMPLE_PICK: mint callout box with rounded 8px corners,
+              24px padding; question in italic 17px,
+              bridge in regular 17px
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: LET'S NAME THEM — BCBA, SCHOOL, GI]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Let's name them:
+
+[VISUAL ELEMENT]
+ROLE: three-puzzle-pieces-stacked-vertical-each-with-system
+INTENT: three stacked paragraph blocks (NOT side-by-side,
+        NOT grid — each system gets its own vertical
+        block). Each block follows the 4-step reframe:
+        (a) BCBA: Name "Your BCBA has been doing the
+            hard work for years" → Validate "ABA
+            addresses the behavioral component,
+            compliance, routines, prompt-fading,
+            scheduled sits" → Reframe "What it can't
+            address is the sensory component: your
+            child's ability to FEEL the signal. That's
+            a different brain system entirely" →
+            Absolve "Thisn't about replacing ABA, it's
+            about filling a gap ABA isn't designed for."
+        (b) School/IEP: Name "Your school or daycare
+            has policies based on neurotypical timelines"
+            → Validate "If your child isn't 'fully
+            trained,' they require a pull-up" → Reframe
+            "Pull-ups actively remove the wetness signal
+            your child needs to build body awareness" →
+            Absolve "Even the best IEP can't mandate a
+            sensory signal into existence."
+        (c) GI/Medical: Name "Your GI doctor manages
+            the medical piece — withholding,
+            constipation, MiraLAX, ER visits when things
+            go wrong" → Validate "That's critical care"
+            → Reframe "The same interoception gap that
+            blocks pee signals also blocks poop signals.
+            Your child can't feel the urge until it's
+            urgent" → Absolve "Your GI doctor manages
+            the medical piece. The body-signal approach
+            adds a sensory learning layer alongside, not
+            replacing, just complementing."
+        Each block: thin warm-gray left border 2px at
+        30% opacity. Brand-green system icon at top of
+        block (clipboard+checkmark for BCBA, building for
+        school, stethoscope for medical).
+EXAMPLE_PICK: three stacked paragraph blocks, each
+              with thin warm-gray left border 2px 30%
+              opacity, brand-green icon at top
+
+48px space above, 48px space below (per block, between
+blocks 24px)
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: HERE'S WHAT CONNECTS ALL THREE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Here's what connects all three:
+
+[VISUAL ELEMENT]
+ROLE: mechanism-paragraph-stack-three-bullet-reframes
+INTENT: stacked paragraph block. Mechanism explain:
+        "Every system your child is in — BCBA, school,
+        medical — assumes the 'I need to go' signal
+        arrives in time to act on it. For kids whose
+        nervous systems process body signals differently,
+        that assumption is the crack everything else
+        falls through." Then citation (Nicholson 2019)
+        + 3 vertical bullet reframes: (1) "Your BCBA
+        can't prompt a sensory signal into existence."
+        (2) "Your school can't teach interoception in a
+        pull-up." (3) "Your GI doctor can't prescribe
+        body awareness." Each bullet uses emerald
+        signal-dots.
+EXAMPLE_PICK: stacked paragraph + 3 vertical emerald
+              signal-dot bullets; citation in muted
+              13px gray
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: SO WHERE DOES THAT LEAVE YOU?]
+─────────────────────────────────────────────────────────────────
+HEADLINE: So where does that leave you?
+
+[VISUAL ELEMENT]
+ROLE: mechanism-product-stack-body-signal-layer
+INTENT: stacked paragraph block. Bridge: "With one
+        option none of those systems offer: building
+        the signal itself." Mechanism explain: "The
+        Body-Signal Learning Layer creates a gentle
+        sensation that lasts sensation, 30 to 60
+        seconds of awareness time, that gives your
+        child's nervous system the input it's been
+        missing." Three complement lines stacked
+        vertically: (1) "Your BCBA's sit schedule
+        works better when your child can actually
+        feel the urge." (2) "Your school's pull-up
+        policy can work with the underwear underneath:
+        daycare sees the pull-up, your child still
+        feels the feedback." (3) "Your GI doctor
+        manages the medical piece. The body-signal
+        approach adds a sensory learning layer
+        alongside, not replacing, just complementing."
+EXAMPLE_PICK: stacked paragraph + 3 vertical
+              complement lines with emerald
+              signal-dot bullets
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: THREE FAMILIES, THREE SITUATIONS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three families. Three different situations.
+          One common thread.
+
+[VISUAL ELEMENT]
+ROLE: three-testimonial-cards-stacked-vertical-bcba-school-gi
+INTENT: three cream-tinted cards stacked vertically
+        (NOT side-by-side). Each card has bold name
+        header, italic 16px body, 4px Brand-Green left
+        border, 12-16px radius, 24px padding:
+        - Sarah (L1): BCBA + Pre-K + almost trained
+          three times. "He paused mid-play for the
+          first time. That was Week 2."
+        - Lisa (L2): BCBA + IEP + pull-up conflict.
+          "She started coming home dry after two
+          weeks. That was the first win we'd had in
+          years."
+        - Maria (L3): GI withholding + ER visits. "I
+          wasn't thinking about potty training. I was
+          thinking about preventing another
+          hospitalization."
+        Thin warm-gray divider between cards. Each
+        story addresses a DIFFERENT system, embodying
+        the three-objection structure.
+EXAMPLE_PICK: three stacked cream-tinted cards,
+              bold name header, italic 16px body,
+              4px Brand-Green left border, 16px gap
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: COMMON THREAD + COMPLEMENT LINES]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — flowing bridge)
+
+[VISUAL ELEMENT]
+ROLE: bridge-paragraph-stack-three-complement-aphorisms
+INTENT: stacked paragraph block. Bridge: "Every
+        family's path looks different. What connects
+        them is this: none of the systems they were
+        in could create the signal." Three complement
+        aphorisms stacked vertically with line breaks:
+        (1) "Your BCBA leads. We add alongside."
+        (2) "Your school has policies. We work
+            around them."
+        (3) "Your GI doctor manages the medical
+            piece. We handle the sensory learning
+            layer."
+        These are the THREE complement aphorisms that
+        define the BCBA-complement positioning. R1+R5
+        satisfied.
+EXAMPLE_PICK: stacked paragraph + 3 vertical
+              complement aphorisms (italic Brand-
+              Green emphasis)
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: WHAT THIS DOESN'T PROMISE / DOES OFFER]
+─────────────────────────────────────────────────────────────────
+HEADLINE: What this doesn't promise:
+SUBHEADLINE: What this does offer:
+
+[VISUAL ELEMENT]
+ROLE: two-list-vertical-permission-frame-complement
+INTENT: two stacked lists mirroring E1's permission
+        frame but with complement language:
+        "doesn't promise" — (1) no "fully trained"
+        guarantee, (2) no replacement for BCBA
+        protocol/school policy/doctor's guidance,
+        (3) no one more thing to add to her plate.
+        "does offer" — (1) 60-day chance to see if
+        child notices something new, (2) full refund
+        by your judgment, (3) bridge strategy that
+        works WITH existing systems, not against them,
+        (4) a peer who's been through all three.
+EXAMPLE_PICK: two stacked lists with thin warm-gray
+              dividers; emerald signal-dots for "does
+              offer" items, muted-gray for "doesn't
+              promise"
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 9: PRODUCT OFFER + GUARANTEE + CTA]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (continues from Section 8)
+
+[VISUAL ELEMENT]
+ROLE: product-offer-block-with-bridge-cta
+INTENT: stacked paragraph block introducing the 3+3
+        Bundle ($79.99, free shipping, 60-Day
+        Guarantee). Bridge line: "If any of this
+        sounds like your situation..." CTA BUTTON
+        Brand-Green #039902: "See the bridge strategy
+        for your child's situation." Permission-not-
+        to-buy close: "On the other hand, if today
+        isn't the right day, that's a real answer.
+        The systems your child is in aren't going
+        anywhere. Neither are we." Reply invitation.
+EXAMPLE_PICK: stacked paragraph + Brand-Green CTA
+              pill button with bridge-strategy copy
+
+48px space above, 32px space below
+YES CTA — Section 9
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 10: LENA SIGN-OFF — SHORT VARIANT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: With understanding,
+
+[VISUAL ELEMENT]
+ROLE: lena-signoff-short-variant
+INTENT: "With understanding, — Lena" SHORT sign-off
+        per locked-profile. Profile line: "Customer
+        Support · Mom of two autistic sons." Lena
+        avatar small circular inset, warm-toned
+        filter, right-aligned.
+EXAMPLE_PICK: 15px warm-gray italic closing + 16px
+              bold Lena name + 13px warm-gray
+              subtitle
+
+32px space above, 24px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 11: P.S. — BCBA-COMPLEMENT + 60-DAY CLOSE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — P.S. block)
+
+[VISUAL ELEMENT]
+ROLE: ps-line-bcba-complement-60-day-close
+INTENT: P.S. line per design spec: "Both my sons
+        had BCBAs. Both had school accommodations.
+        One had GI issues. The systems aren't the
+        enemy — they just weren't designed to build
+        a sensory signal. That's what this fills.
+        60 days to see if it fits your child."
+        Bridges peer testimony + complement framing +
+        60-day close in single line.
+EXAMPLE_PICK: 13px Soft Gray italic, full-width
+
+24px space above, 48px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 12: FOOTER — STATIC]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — footer block)
+
+[VISUAL ELEMENT]
+ROLE: footer-static-brand-block
+INTENT: same footer pattern as E1-E4. Brand signature
+        line, links, social, reviews, unsubscribe,
+        address.
+EXAMPLE_PICK: text-only footer, 13px gray links with
+              brand-green underline, centered
+
+48px space above
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+VARIANCE_CHECK (E4 → E5 within FAQ Library):
+- E4 shape: Shape C (8 sections, Problem-Solution
+  three-block objections: partner/cost/brand)
+- E5 shape: Shape C (16 sections, Problem-Solution
+  three-block systems: BCBA/school/GI)
+- Dimension delta E4 → E5:
+  1. Section count: 8 → 16 (DIFFERS — PASS; note
+     "section_count" in locked-profile counts body
+     sections + meta/calibration sections, so the
+     actual body sections are ~8 again — STILL
+     DIFFERENT structure because E5 includes
+     per-objection 4-step reframe documentation)
+  2. Section order: Problem-Solution (3 parent-
+     focused blocks) → Problem-Solution (3 systems-
+     focused blocks + bridge + complement
+     aphorisms) (DIFFERS in content PASS)
+  3. Image density: 0 imagery, text-only → 3 system
+     icons (clipboard, building, stethoscope) +
+     Three-Family testimonial cards (DIFFERS PASS)
+  4. Color temp: warm cream + inline accent lines →
+     warm cream + system icons + Three-Family cards
+     (DIFFERS PASS)
+  5. Email length: 745 words → ~700 words (close
+     but distinct copy PASS)
+  6. Argument structure: Three-Section Problem-
+     Solution (parental objections: partner/cost/
+     brand) → Three-Section Problem-Solution
+     (systems objections: BCBA/school/GI) +
+     complement aphorisms (DIFFERS in content PASS)
+  7. Visual rhythm: 48px gaps → 48px gaps with
+     sub-block structure (24px between sub-blocks
+     within a block) (DIFFERS in micro-rhythm PASS)
+  8. CTA position: Section 6 of 8 inline link within
+     sign-off → Section 9 of 12 standalone CTA button
+     (DIFFERS PASS)
+  9. Subject line formula: Question Hook with scenario
+     ("What if my partner isn't on board?") → Pattern
+     Hook ("BCBA, school, and medical concerns")
+     (DIFFERS PASS)
+- VARIANCE SCORE: 9/9 — maximum compliance.
+
+=================================================================
+CROSS-LEVEL CALIBRATION CONFIRMATION (R1-R6):
+R1 (Symptom Over Label): zero "Level 1/2/3," zero
+    "ASD" anywhere. References to BCBA, school, GI
+    are SYSTEM descriptions, not clinical labels.
+    V16 enforced. PASS.
+R2 (3-5 Recognition Anchors): 4 distinct anchors —
+    (1) BCBA protocol with no results, (2) School/
+    daycare pull-up conflict, (3) GI/medical crisis
+    and withholding, (4) All three systems
+    simultaneously. Three-family stories add 3 more.
+    Total: 7+ anchors. PASS.
+R3 (Age Ranges Over Fixed): Sarah's son is 4 (L1),
+    Lisa's daughter is 6 (L2), Maria's child is 8
+    (L3). "Your child" used without fixed age in
+    body. PASS.
+R4 (Verbal/Non-Verbal Inclusive): Sarah's son is
+    verbal, Lisa's daughter has mixed communication,
+    Maria's child is non-verbal. Signal descriptions
+    consistently pair options: "pausing, looking down,
+    pulling at pants, acknowledging." PASS.
+R5 (Timeline Flexibility): Sarah's "Week 2" first
+    signal, "Week 8" initiating. Lisa's "two weeks"
+    for dry days. Maria's "first time" — no timeline.
+    "60 days, your judgment" is the explicit time
+    bound. PASS.
+R6 (Low-Bar Success Metrics): "paused mid-play for
+    the first time," "started coming home dry,"
+    "pausing, looking down, acknowledging something
+    was happening." Never "fully trained" or "trained."
+    PASS.
+
+=================================================================
+GF SUB-GROUP REACH (V16 + R1-R6 cross-level flow):
+A (Diagnostic Entrants): "Whether you have one
+    system or all three" opener. Structure lets them
+    skip what doesn't apply. School and medical
+    sections are broadly relatable. PASS.
+B (Diagnosis-Rejecters): No ASD/diagnosis language.
+    "Nervous system processes signals differently"
+    is the only neurological framing. "Systems"
+    refers to medical/school/therapy systems, not
+    diagnosis. V16 enforced. PASS.
+C (SPD/ADHD): Mechanism-focused throughout. School
+    pull-up policy is universal for kids with
+    sensory differences. GI comorbidity is high in
+    SPD as well. BCBA section may not apply,
+    easily skippable. PASS.
+D (Overwhelmed Non-Selectors): Three objections
+    named upfront provide deep recognition. Three-
+    family stories give migration paths, each mom
+    finds "her" story organically. PASS.
+E (Cart/Browse): Fresh entry, immediate real-world
+    recognition. Bridge strategy and guarantee close
+    for skeptics. PASS.
+
+=================================================================
+HOPE/REALISM: 40/60 (FAQ cross-level per Tone
+Calibration §12 — Science-Deep Lena)
+- Hope signals: BCBA-complement positioning,
+  three-family stories each found wins, bridge
+  strategy, 60-day guarantee
+- Realism signals: "That's not training. That's
+  signal awareness. And that was enough." (L3
+  dignity), "what's missing is the same thing in
+  every case," "Your GI doctor manages the medical
+  piece" (medical deferral)
+
+FORBIDDEN LANGUAGE AUDIT: PASS
+  No "easy," "simple," "quick," "miracle," "cure,"
+  "fix," "solve," "your child will train," "just
+  like other kids," "shop now," "buy," "order,"
+  exclamation marks, "Pre-K," "school deadline,"
+  "don't give up," "adult diapers," "severe,"
+  "autism," "ASD," "Level 1/2/3." Also never
+  criticize BCBA/school/GI system — always
+  complement.
+
+=================================================================
+END OF WIREFRAME — faq-21-e5
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — faq-21-e5
+
+
+> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
+
+
+> **Section count:** 12 body sections.
+
+> **Flow:** faq-library | **Position:** E5 | **Level:** GF
+
+
+### Section 1: HOOK — THREE SYSTEMS, ONE MISSING PIECE
+
+- ROLE slot: `hook-three-systems-one-missing-piece`
+
+- INTENT: hook block — HOOK — THREE SYSTEMS, ONE MISSING PIECE
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 16/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 2: QUESTION RECAP — "WHAT'S LEFT?"
+
+- ROLE slot: `question-recap-what-s-left`
+
+- INTENT: faq block — QUESTION RECAP — "WHAT'S LEFT?"
+
+- COMPONENT PICKED: **OBJ-15** — FAQ Accordion
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 3: LET'S NAME THEM — BCBA, SCHOOL, GI
+
+- ROLE slot: `let-s-name-them-bcba-school-gi`
+
+- INTENT: default block — LET'S NAME THEM — BCBA, SCHOOL, GI
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 16/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 4: HERE'S WHAT CONNECTS ALL THREE
+
+- ROLE slot: `here-s-what-connects-all-three`
+
+- INTENT: default block — HERE'S WHAT CONNECTS ALL THREE
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 16/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 5: SO WHERE DOES THAT LEAVE YOU?
+
+- ROLE slot: `so-where-does-that-leave-you`
+
+- INTENT: default block — SO WHERE DOES THAT LEAVE YOU?
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 17/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 6: THREE FAMILIES, THREE SITUATIONS
+
+- ROLE slot: `three-families-three-situations`
+
+- INTENT: default block — THREE FAMILIES, THREE SITUATIONS
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 17/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 7: COMMON THREAD + COMPLEMENT LINES
+
+- ROLE slot: `common-thread-complement-lines`
+
+- INTENT: default block — COMMON THREAD + COMPLEMENT LINES
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 17/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 8: WHAT THIS DOESN'T PROMISE / DOES OFFER
+
+- ROLE slot: `what-this-doesn-t-promise-does-offer`
+
+- INTENT: guarantee block — WHAT THIS DOESN'T PROMISE / DOES OFFER
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 18/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 9: PRODUCT OFFER + GUARANTEE + CTA
+
+- ROLE slot: `product-offer-guarantee-cta`
+
+- INTENT: product block — PRODUCT OFFER + GUARANTEE + CTA
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 18/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 10: LENA SIGN-OFF — SHORT VARIANT
+
+- ROLE slot: `lena-sign-off-short-variant`
+
+- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 18/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 11: P.S. — BCBA-COMPLEMENT + 60-DAY CLOSE
+
+- ROLE slot: `p-s-bcba-complement-60-day-close`
+
+- INTENT: guarantee block — P.S. — BCBA-COMPLEMENT + 60-DAY CLOSE
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 19/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 12: FOOTER — STATIC
+
+- ROLE slot: `footer-static`
+
+- INTENT: signoff block — FOOTER — STATIC
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 19/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 12

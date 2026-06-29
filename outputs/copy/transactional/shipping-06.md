@@ -192,3 +192,593 @@ Single visual direction calibrated via R1-R6, inclusive, not level-specific. No 
 - R5 (Timeline Flexibility): ✅ "3-7 business days" + "some 2 weeks, others 8" for awareness timeline
 - R6 (Low-Bar Success): ✅ "If your child pauses for a moment... even once, that's the signal starting to wire"
 
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-transactional
+
+```
+=================================================================
+WIREFRAME: shipping-06
+Email ID: shipping-06
+Flow: Shipping Notification (Flow 06)
+Position: E1, Triggered when shipment is created in Shopify
+          | Day: 0 (post-fulfillment)
+Level: Cross-Level (R1-R6 calibration, all 4 levels + GF)
+Lever: L4 (Lena) | Sign-off: Lena SHORT variant + P.S.
+Subject: "Your Body-Signal underwear is on its way!"
+Preheader: "Tracking number inside. Here's what to expect
+            when your package arrives."
+=================================================================
+
+NOTE: TRANSACTIONAL EMAIL. Per GIULIANO-DEMANDS §17.7, must be
+predominantly transactional per Google 2024 guidelines. Hidden
+plain-text fallback div mandatory. Table-based layout, inline
+CSS, 600px max width. NO cross-sells per S2 §1.6 ("NO
+promotional content"). NO countdown, NO promo badges, NO
+urgency cues. R1-R6 calibration preserved. Warm + functional
+tonality (75/25 hope/realism per copy file).
+
+SENDER: "Lena from BrightKidCo" <orders@send.brightkidco.com>
+REPLY-TO: support@brightkidco.com (always)
+TRANSPORT: send.brightkidco.com, click.brightkidco.com tracked
+
+Vertically stacked, single column. No side-by-side. No two-column.
+The tracking callout card replaces the order receipt card. A
+small package-journey SVG line gives visual structure without
+promotional weight.
+
+=================================================================
+[HEADER — STATIC BKC LOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all transactional sends
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[STATUS HEADER — SHIPPED]
+─────────────────────────────────────────────────────────────────
+ROLE: status-bar-shipped
+INTENT: a thin horizontal bar above the tracking callout, full
+        width, neutral-grey background (#F5F4F1) with a single
+        emerald check (✓ #039902) + the verbatim "Shipped"
+        status line. Set in Questrial 14px / 600 weight,
+        charcoal #2D2D2D, uppercase letter-spacing 0.04em.
+        Functions as the "this is a status email" indicator.
+EXAMPLE_PICK:
+  ┌───────────────────────────────────────────────────┐
+  │  ✓  SHIPPED                                        │
+  └───────────────────────────────────────────────────┘
+
+NO countdown. NO "Hurry" / "Limited time" / promo badges.
+NO urgency framing. This is fulfillment status, not a sales
+message.
+
+48px space below the status bar before the tracking callout
+
+=================================================================
+[SECTION 1: SHIPMENT NOTIFICATION — PRIMARY TRANSACTIONAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Your order shipped!"
+          (Questrial 22px desktop / 20px mobile, 600 weight,
+           warm charcoal #2D2D2D)
+SUBHEADLINE: "Tracking number below so you can follow the
+              package as it makes its way to you."
+              (Questrial 16px, body color)
+
+NO HERO IMAGE. Tracking callout card IS the visual focus.
+
+[VISUAL ELEMENT — TRACKING CALLOUT CARD]
+ROLE: tracking-callout-card-rounded
+INTENT: a rounded card (12px radius), cream fill (#F9F7F4)
+        with hairline emerald border (#039902 at 50% opacity,
+        1px stroke). Sits on the email canvas. Tracking
+        number rendered in monospace ('SF Mono', 'Courier
+        New', monospace) for scannability. ETA window in
+        warm clay body color. Tracking number is the
+        transactional payload — "here is your proof."
+EXAMPLE_PICK:
+  ┌───────────────────────────────────────────────────┐
+  │  Tracking number                                   │
+  │  1Z999AA10123456784                                │
+  │                                                     │
+  │  Estimated delivery:  Arrives in 3-7 business days  │
+  │  Carrier:  [CARRIER_NAME]                           │
+  └───────────────────────────────────────────────────┘
+
+Single-column callout. Tracking number, ETA, carrier stacked
+vertically. Generous internal padding (24px).
+
+[VISUAL ELEMENT — PACKAGE JOURNEY LINE]
+ROLE: package-journey-dotted-line-svg
+INTENT: a thin horizontal dotted SVG path running across the
+        email body just below the tracking callout. Three
+        small icons connected by dots: 🏭 warehouse (left,
+        small, charcoal #6B6B6B) → 📍 in transit (center,
+        slightly larger, emerald #039902 at 60% opacity, the
+        one-hop-easter-egg per copy file creative strategy)
+        → 🏠 home (right, charcoal #6B6B6B with a soft amber
+        #E8B84B glow). The 📍 dot pulses gently on Apple
+        Mail via CSS @keyframes (2s cubic-bezier scale
+        1.0 → 1.15 → 1.0, opacity 0.6 → 1.0). Static
+        fallback on Gmail/Outlook (dot still visible, just
+        not animated). Below each icon, a 10px caption:
+        "Warehouse" / "In Transit" / "Your Home". Caption
+        color: warm grey #6B6B6B.
+EXAMPLE_PICK:
+  🏭 · · · · · 📍 · · · · · 🏠
+  Warehouse   In Transit   Your Home
+
+24px above this element, 32px below
+NO CTA in this section
+
+SECTION 1 IS THE TRANSACTIONAL ANCHOR. Above the fold.
+Predominantly transactional per §17.7.
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[VISUAL DIVIDER — HAND-DRAWN EMERALD SQUIGGLE]
+─────────────────────────────────────────────────────────────────
+A single hand-drawn SVG squiggle (~600px wide, 2px stroke,
+emerald #039902 at 30% opacity). NOT a horizontal rule.
+Marks the transactional → warm transition. Softer opacity
+than Flow 05's squiggle (transactional energy is lighter
+here — fulfillment, not celebration).
+
+32px above, 32px below
+
+=================================================================
+[SECTION 2: WHAT'S IN THE PACKAGE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "What's in your package"
+          (Questrial 17px / 600 weight, warm charcoal,
+           with 3px emerald #039902 hairline left border)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-three-layer-bulleted
+INTENT: short list of the 3-layer BSL system using
+        signal-wave bullets (12px × 12px small emerald dots
+        with a trailing wave). Body 15px / 1.6 line. NO
+        product photo, NO exploded-view diagram — text only.
+        The creative strategy calls for a 3-layer exploded-
+        view SVG; for the ASCII wireframe, the verbal
+        description stands in for the diagram.
+EXAMPLE_PICK:
+  Your package from BrightKidCo contains your Body-Signal
+  Learning Layer underwear, designed with three layers:
+
+  ~ A cotton inner layer that creates a gentle, sustained
+    signal
+  ~ A smart absorption layer that protects without blocking
+    the feedback
+  ~ A leak-resistant outer barrier
+
+40px space above, 32px below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: WHEN IT ARRIVES — FIRST STEPS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "When it arrives"
+          (Questrial 17px / 600 weight, with 4px soft amber
+           left border #E8B84B to signal "this is practical,
+           not persuasive" — visually distinct from emerald-
+           bordered education sections)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-care-tip
+INTENT: short paragraph on wash-before-first-wear + 1-2hr
+        wear protocol. Body 16px / 1.7 line. Warm cream
+        tint behind (very subtle, #FBF7EB on cream canvas)
+        so the tip reads as a "soft amber-tinted practical
+        block," distinct from educational prose. NO emoji,
+        NO step-list treatment, NO numbered procedure —
+        plain flowing prose per transactional tonality.
+EXAMPLE_PICK:
+  "Wash the underwear before first use, cold water, gentle
+  cycle, no fabric softener. The Body-Signal Layer works
+  best when the cotton is clean and absorbent.
+
+  Then let your child wear them for 1-2 hours at home.
+  Don't prompt. Don't pressure. Let the sensation do the
+  teaching."
+
+40px above, 32px below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: WEEK 1 EXPECTATIONS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "What to expect in week 1"
+          (Questrial 17px / 600 weight, emerald left border)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-week-1-expectations
+INTENT: 2-3 sentences framing week 1 as awareness, not
+        progress. R5 timeline flexibility ("some kids 2
+        weeks, others 8"). R6 low-bar success ("If your
+        child pauses for a moment when they feel wet,
+        even once, that's the signal starting to wire").
+        Body 16px / 1.8 line. NO bullets — flowing prose.
+EXAMPLE_PICK:
+  "Week 1 is about familiarity, not progress. Your child
+  might not react at all at first, that's normal. The
+  nervous system needs time to recognize a new sensation.
+  Some kids show first awareness in 2 weeks. Others need
+  8 weeks. Both are normal.
+
+  The goal in the first week isn't the potty. It's
+  awareness. If your child pauses for a moment when they
+  feel wet, even once, that's the signal starting to wire."
+
+48px above, 40px below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: GUARANTEE REINFORCEMENT]
+─────────────────────────────────────────────────────────────────
+[VISUAL ELEMENT]
+ROLE: guarantee-band-cream-emerald-border
+INTENT: full-width cream band (#FAF9F7 slightly deeper than
+        canvas), 3px emerald #039902 hairline left border,
+        20px padding-left. Body 16px / 600 weight on first
+        line, regular weight below. NO banner image, NO
+        confetti, NO urgency treatment.
+EXAMPLE_PICK:
+  ┌───────────────────────────────────────────────────┐
+  │  60 days to try it. By your judgment.              │
+  │  The guarantee isn't a sales tactic. It's the only │
+  │  honest thing to offer when the outcome depends    │
+  │  on your child's nervous system. If you don't see │
+  │  the shifts you're hoping for, you get every       │
+  │  dollar back.                                       │
+  └───────────────────────────────────────────────────┘
+
+48px above, 40px below
+NO additional CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA SHORT VARIANT + P.S.]
+─────────────────────────────────────────────────────────────────
+Background: warm cream (#FAF9F7), subtle separation from
+            main canvas. A thin emerald hairline rule
+            (1px at 30% opacity, full-width) above the
+            signoff — Lena sign-off divider.
+Body 16px:   "Talk soon,"
+Signature:   "Lena ——"
+Tagline:     "Customer Support · Mom of two autistic sons"
+             (14px italic, warm clay #6B6B6B)
+
+P.S. (single short line, peer-voice, NOT promotional):
+  "Both my sons went through this. I know what it feels
+  like to wait for a package that might change everything.
+  Take your time when it arrives. — Lena"
+
+The P.S. carries the R12 / permission-not-to-buy echo
+implicitly ("take your time"). No CTA in the P.S.
+
+=================================================================
+[FOOTER — STANDARD BKC TRANSACTIONAL FOOTER]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+orders@send.brightkidco.com
+
+If you'd rather not hear from us, you can unsubscribe here.
+
+Reply to this email. Lena reads every response.
+© 2026 BrightKidCo. All rights reserved.
+
+─────────────────────────────────────────────────────────────────
+[HIDDEN PLAIN-TEXT FALLBACK — MANDATORY §17.7]
+─────────────────────────────────────────────────────────────────
+Below the visible HTML body, a hidden <div
+style="display:none; max-height:0; overflow:hidden;
+mso-hide:all;"> block contains a verbatim plain-text
+version of the email. Mail clients with images disabled,
+screen readers, and the Gmail text-only view all fall
+back to this content. Per GIULIANO §17.7: HIDDEN
+PLAIN-TEXT FALLBACK DIV MANDATORY.
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Status bar "SHIPPED" visible above 400px (mobile)? YES
+  (status bar is the first element after the BKC logo,
+  ~80px tall total)
+- H1 "Your order shipped!" visible above 400px? YES
+  (next 80px of vertical)
+- Tracking callout card visible above 400px? YES
+  (callout sits directly below the H1 + subhead,
+  ~280px from top)
+- Tracking number legible above fold? YES on desktop
+  (tracking number + ETA inside card fit by 360px)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 2 (BKC logo + package
+  journey SVG with three icons)
+- Image positions: header (logo) + section 1 (journey
+  line)
+- Density category: 2 (text-dominant with one small
+  inline illustration)
+- Note: NO hero image, NO product photo, NO lifestyle
+  imagery. Transactional emails are text-dominant per
+  §17.7
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 11
+  - status-bar-shipped (status header)
+  - tracking-callout-card-rounded (section 1, primary
+    transactional block)
+  - package-journey-dotted-line-svg (section 1,
+    illustrative path)
+  - divider-squiggle-emerald-soft (transactional →
+    warm divider)
+  - prose-block-three-layer-bulleted (section 2,
+    what's in package)
+  - prose-block-care-tip-amber-tinted (section 3,
+    when it arrives)
+  - prose-block-week-1-expectations (section 4, R5 + R6)
+  - guarantee-band-cream-emerald-border (section 5,
+    D3 / 60-day)
+  - signoff-lena-short-with-ps (signoff block)
+  - footer-static-bkc-transactional (footer block)
+  - hidden-plain-text-fallback (mandatory §17.7)
+- Density category: 11 (transactional-density, low-
+  imagery, prose-led)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 5 (5 body sections + signoff + footer)
+- Section pattern: H-Modified-Transactional (Status
+  Confirmation → Tracking Callout → What's Inside →
+  When It Arrives → Week 1 → Guarantee → Signoff)
+- Image density: 2 (BKC logo + journey line SVG; NO
+  product, NO hero)
+- Color temperature: warm cream transactional
+  (warmer-cream canvas #F9F7F4, emerald accent
+  #039902 used only on tracking-callout border +
+  signal-wave bullets + squiggle divider, soft amber
+  #E8B84B accent on "when it arrives" left border +
+  home-icon glow, charcoal #2C2C2C body text)
+- Email length: short-medium (~340 words across
+  sections — copy is dense but compressed)
+- Argument structure: TRANSACTIONAL (tracking callout
+  + journey line dominate the upper half; warm education
+  + guarantee are bottom-weighted; NO cross-sells)
+- Visual rhythm: tight upper half (status bar + tracking
+  card + journey line in ~440px), open lower half
+  (warm sections get 40-48px breathing room, line-height
+  1.7-1.8 for warmth)
+- CTA position: NONE (no button CTA — the email is
+  pure fulfillment per S2 §1.6; the "action" is waiting
+  and watching the package arrive, not clicking)
+- Subject line type: transactional observation hook
+  ("Your Body-Signal underwear is on its way!" —
+  announces the event; exclamation mark is status-
+  appropriate, not promotional)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: order-05-e1 (Flow 05,
+  Order Confirmation, also Cross-Level)
+- Baseline comparison established.
+- Variance from order-05-e1:
+  - Status header text changes: "ORDER CONFIRMED" →
+    "SHIPPED" (same styling, same emerald ✓, same
+    neutral-grey bg)
+  - Receipt card → tracking callout card (rounded 12px
+    cream-on-canvas, hairline emerald border vs Flow 05's
+    white-on-canvas with grey hairline border). Tracking
+    number replaces order line items.
+  - Cross-sell block REMOVED (per S2 §1.6 "NO cross-sells"
+    for Flow 06/07/08; Flow 05 was the one permitted
+    exception, and even there it was soft)
+  - Was-in-package section ADDS the 3-layer list (Flow 05
+    had a flat "6 pairs + quick-start guide" list; Flow
+    06 deepens it into the mechanism because parents now
+    have the physical product in transit and want to
+    understand the layers)
+  - Tracking CTA REMOVED (Flow 05 had "Track your order"
+    twice; Flow 06 has NO button CTA — the tracking
+    number IS the transactional payload, displayed inline
+    as text in the callout, no need for a button)
+  - Lena sign-off variant: same SHORT form ("Talk soon,
+    Lena") but Flow 06 ADDS a P.S. (Flow 05 had no P.S.;
+    Flow 06's P.S. is peer-voice empathy, not promotional)
+  - Pacing: Flow 06 is SHORTER overall (no cross-sell
+    section, no second CTA) — fulfillment-only is the
+    leanest transactional email in this sequence
+- This is the BASELINE for the shipping-trilogy variance
+  (Flow 06 / 07 / 08 share the warm pattern; only the
+  status header text, the top-of-email card, and the
+  warm-half emphasis shift across them).
+
+=================================================================
+CROSS-LEVEL CALIBRATION CONFIRMATION:
+R1 (symptom over label): No "autism," "ASD," "Level 1/2/3"
+    anywhere. "Cotton inner layer," "leak-resistant outer
+    barrier" — mechanism framing only ✓
+R2 (3-5 recognition anchors): N/A — transactional email
+    per Layer-18 transactional table (recognition anchors
+    not required for fulfillment); the copy file does
+    include R6 mini-win ("pauses for a moment when they
+    feel wet, even once") ✓
+R3 (age ranges): "Your child" — no age numbers anywhere ✓
+R4 (verbal + non-verbal inclusivity): N/A transactional;
+    no communication-mode assumptions ✓
+R5 (timeline flexibility): "Some kids show first awareness
+    in 2 weeks. Others need 8 weeks. Both are normal" ✓
+R6 (low-bar success metrics): "If your child pauses for
+    a moment... even once, that's the signal starting to
+    wire" ✓
+
+GF LEVERS ACTIVATED:
+  GF-A "you're not alone" — Lena's two-sons P.S. ("Both
+       my sons went through this") ✓
+  GF-B mechanism-first no label gate — 3-layer list
+       uses product mechanism, not diagnostic framing ✓
+  GF-C age/timeline inclusivity — "2 weeks or 8 weeks,
+       both are normal" ✓
+  GF-D "not just for autism" — symptoms only, no labels ✓
+  GF-E permission implicit — "Take your time when it
+       arrives" P.S. ✓
+
+HOPE/REALISM LANDING: 50/50 → 60/40 toward hope (warm
+anticipation energy in lower half; R5 + R6 framing
+softens without overpromising)
+
+FORBIDDEN LANGUAGE AUDIT: PASS
+  No "easy," "simple," "quick," "guaranteed" (as promise),
+  "miracle," "cure," "fix," "solve," "your child will
+  train," "just like other kids," "shop now," "buy,"
+  "order" (in marketing sense), countdown timers, urgency
+  badges, promo codes, "limited time," "act now," "don't
+  miss out," "subscribe," "register," "complete your
+  profile."
+
+=================================================================
+TECHNICAL CONSTRAINTS (§17.7):
+- Table-based layout ✓ (HTML <table> wrapper, single
+  600px-wide column, all nested tables inline)
+- Inline CSS ✓ (no <style> blocks beyond @keyframes for
+  Apple Mail motion on the journey-line 📍 dot; critical
+  CSS lives inline on every element)
+- Max width 600px ✓ (single column at 600px; mobile
+  responsive collapse at 480px breakpoint via media
+  query; padding 24px mobile / 32px desktop)
+- Hidden plain-text fallback div ✓ (mandatory, see
+  above)
+- Image-to-text ratio ~10:90 (one logo + one small SVG
+  illustration; otherwise text-dominant) ✓
+- Mobile collapse ✓ (all sections stack, tracking callout
+  becomes full-width with 24px side padding, journey line
+  icons scale down, font scales down 2px per element)
+- From: "Lena from BrightKidCo" <orders@send.brightkidco.com>
+  ✓ (transactional sender)
+- Reply-to: support@brightkidco.com ✓
+- Unsubscribe link in footer ✓
+- Physical address in footer ✓
+
+=================================================================
+END OF WIREFRAME — shipping-06
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — shipping-06
+
+
+> **Transactional Calibration:** NO marketing. NO promotions. Hidden plain-text fallback. Confirmation-only.
+
+
+> **Section count:** 5 body sections.
+
+> **Flow:** transactional | **Position:** E2 | **Level:** GF
+
+
+### Section 1: SHIPMENT NOTIFICATION — PRIMARY TRANSACTIONAL
+
+- ROLE slot: `shipment-notification-primary-transactional`
+
+- INTENT: transactional block — SHIPMENT NOTIFICATION — PRIMARY TRANSACTIONAL
+
+- COMPONENT PICKED: **LETTER-09** — Double Column
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 2: WHAT'S IN THE PACKAGE
+
+- ROLE slot: `what-s-in-the-package`
+
+- INTENT: default block — WHAT'S IN THE PACKAGE
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 8/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 3: WHEN IT ARRIVES — FIRST STEPS
+
+- ROLE slot: `when-it-arrives-first-steps`
+
+- INTENT: signoff block — WHEN IT ARRIVES — FIRST STEPS
+
+- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
+
+  - Currently used: 8/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 4: WEEK 1 EXPECTATIONS
+
+- ROLE slot: `week-1-expectations`
+
+- INTENT: education block — WEEK 1 EXPECTATIONS
+
+- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+
+  - Currently used: 8/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Section 5: GUARANTEE REINFORCEMENT
+
+- ROLE slot: `guarantee-reinforcement`
+
+- INTENT: guarantee block — GUARANTEE REINFORCEMENT
+
+- COMPONENT PICKED: **UTIL-01** — Gradient Band
+
+  - Currently used: 9/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- TX CALIBRATION CHECK: ✅ no marketing, no promotions
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 5

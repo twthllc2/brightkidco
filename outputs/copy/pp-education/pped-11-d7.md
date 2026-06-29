@@ -299,3 +299,583 @@ Lena ——
 | Countdown timers / fake scarcity | ✅ Absent | Not relevant to education email. |
 | "Don't give up!" | ✅ Absent | "Keep going" — factual encouragement, not cheerleading. |
 | Pre-K deadline | ✅ Absent | Would violate R3 (age-specific) and GF sub-group B/C/D inclusivity. |
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-pp-edu
+
+```
+=================================================================
+WIREFRAME: pped-11-d7
+Email ID: pped-11-d7
+Flow: PP-Education D0-21 (Flow 11) | Position: E2 | Day: 7
+Audience: Cross-Level (L1, L2, L3, GF simultaneously)
+Avatar blend: GF baseline 50/50, week-1 plateau state
+Lever: L1 (Mechanism: radio analogy + repetition) +
+       L4 (Lena — week 1 vulnerability)
+Sign-off: Lena MEDIUM ("With understanding,")
+Subject: "If nothing happened in week 1, that's exactly
+         right" (49 chars)
+Preheader: "Your child's nervous system is doing exactly
+            what it needs to right now. Here's what
+            Week 2 looks like."
+=================================================================
+
+NOTE: "HOLD THE LINE" — REASSURANCE FOR THE WEEK-1 PLATEAU.
+The parent is 7 days in, has seen little or no visible
+change. Confusion + doubt is the entry state. This email
+REFRAMES "nothing" as "desensitization" — expected phase,
+not failure. Zero upsell. Zero purchase CTA. Pure
+education + reassurance.
+
+CONSTRAINTS (HARD):
+- NO upsell (Day 7 education-only)
+- NO level labels (R1)
+- NO purchase CTA whatsoever (Flow 11 = nurture, not
+  sales). The only "action" requested is continued
+  consistent wear without pressure.
+- ZERO urgency (Day 7 is too early for urgency per
+  Part 2.3 timing)
+- NO "week 1 must show results" framing
+- V16-compliant throughout (no autism/ASD language)
+- Lena sign-off MEDIUM variant per E3-E5 pattern
+- Vertically stacked, single column. No side-by-side.
+  The Three-Family Pattern stacks vertically.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO + HEADLINE — VALIDATION OPEN]
+─────────────────────────────────────────────────────────────────
+[VISUAL ELEMENT — HERO IMAGE]
+ROLE: hero-quiet-symptom
+INTENT: child at calm activity (reading a book per
+        Part 2.5 practical tips). Real home, soft
+        natural light, neutral tones. Half-face or
+        hands visible. Image communicates "quiet
+        normal week" — not dramatic, not stock happy.
+        NO cartoon, NO NT happy family, NO full-face
+        child portrait.
+EXAMPLE_PICK: lifestyle photo of child 3-10 yrs reading
+              a book or quiet play, soft natural light,
+              hands or side-profile visible, no specific
+              age silhouetting
+
+HEADLINE: "Whether your child is 3 or 10, verbal or not,
+          diagnosed or wondering, if they've been wearing
+          the Body-Signal underwear for a week and you're
+          sitting here thinking, 'Is anything happening?'"
+          (24px Desktop / 20px Mobile, Questrial 400)
+SUBHEADLINE: "I want you to hear this: That's exactly
+              where you're supposed to be."
+              (16px, Body Gray #4A4A4A)
+
+INTENT: opener pattern bridges R3 (age), R4 (verbal/non-
+verbal), and journey length (R5). "Diagnosed or wondering"
+specifically covers GF Sub-Groups A (no diagnosis), B
+(rejects labels), C (non-ASD), D (has but didn't share),
+E (unknown). The closing question re-frames "nothing
+happened" from failure to expected phase.
+
+48px space above headline, 32px space below subhead
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — WHY NOTHING IS NOTHING]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from hero)
+
+[VISUAL ELEMENT — CALLOUT REFLECTION]
+ROLE: callout-reframe-quiet
+INTENT: cream card #FBF7EB, holds the reframe: "Week 1
+        isn't about signals. It isn't about progress.
+        It's about something quieter, desensitization."
+        Followed by the comfort-familiarity reframe.
+        This is the moment the parent exhales.
+EXAMPLE_PICK: cream card #FBF7EB, 16px border-radius,
+              subtle shadow, 32px inner padding,
+              italic body, Dark #1A1A1A
+
+INTENT: comfort-familiarity-familiarity-novelty axis.
+"Your child's nervous system has spent years feeling
+one way in their underwear. Dry. Comfortable. Familiar.
+Now there's a new sensation. And the brain's first job
+isn't to act on it. It's to stop ignoring it. That
+takes time."
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: RECOGNITION ANCHORS (R2 — 5 SCENARIOS)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "If you're seeing any of these, you're on track:"
+
+[VISUAL ELEMENT — DASH LIST]
+ROLE: recognition-anchor-list-on-track
+INTENT: 5 specific scenarios that ALL describe "nothing
+        happening, which is normal":
+        1. "Your child doesn't seem to notice the underwear
+            at all"
+        2. "They take it off after a few minutes"
+        3. "They're going about their day like nothing
+            changed"
+        4. "You haven't seen a single pause, look, or
+            signal"
+        5. (implicit via email) "All of that is normal"
+        Closing: "Expected. Right on schedule."
+EXAMPLE_PICK: 4-5 dash-separated lines, Body Gray
+              #4A4A4A, 16px, generous 12px line-height
+              between, leading dash "—" (NOT bullets)
+
+INTENT: validation anchors. Every parent finds herself in
+the list. The list reframes "nothing" as the expected
+trajectory. Pre-empts the "is it working?" question
+for the next 7 days.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: MECHANISM — RADIO ANALOGY (DATA-LED)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Why the brain needs repetition, not results"
+
+[VISUAL ELEMENT — METAPHOR CALLOUT]
+ROLE: mechanism-metaphor-card
+INTENT: cream card #FBF7EB holds the radio analogy:
+        "Think of it like a radio finding a station. First
+        you hear static. Then a crackle. Then a voice
+        through the noise. Week 1 is the static phase.
+        Week 2-3 is when words start forming." The
+        metaphor makes the neurological concept
+        accessible without clinical overload.
+EXAMPLE_PICK: cream card #FBF7EB, italic metaphor in
+              Dark #1A1A1A, supporting mechanism body
+              text in Body Gray #4A4A4A
+
+INTENT: mechanism specificity without V-rule violation.
+"The Body-Signal Learning Layer creates a gentle
+sensation lasting 30-60 seconds after every accident.
+But the brain doesn't know what to do with it yet —
+it's a new input. Week 1 is the 'reception' phase."
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: PRACTICAL TIPS — 3 SUPPORTING ACTIONS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Three ways to support the Week 1-2 transition:"
+
+[VISUAL ELEMENT — DASH LIST]
+ROLE: practical-tip-list
+INTENT: 3-4 actionable, level-neutral suggestions to
+        support the transition (per Part 2.2 Tips).
+        1. "Wear for 2 hours after school or therapy,
+            when the bladder is naturally fuller, the
+            signal has more to work with"
+        2. "Try before bath time, the bathroom context
+            helps the brain connect sensation to location"
+        3. "Wear during a calm activity like reading a
+            favorite book, a quiet nervous system
+            receives new signals more easily"
+        4. "Start with short intervals (30-60 minutes)
+            if your child resists, build up tolerance
+            gradually"
+EXAMPLE_PICK: 3-4 dash-separated lines, Body Gray
+              #4A4A4A, 16px, leading dash "—"
+
+INTENT: low-commitment suggestions. NO pressure to
+implement all three. Gives the parent agency without
+adding tasks to her week.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: THREE-FAMILY TESTIMONIAL PATTERN]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Three parents. Three different kids. One shared
+          week 1:"
+
+[VISUAL ELEMENT — TESTIMONIAL CARD STACK]
+ROLE: testimonial-card-stack-vertical
+INTENT: 3 cards stacked vertically, each labeled with
+        the level family in italics (no level label in
+        the visible card — the label is in the wireframe
+        spec for Stage 2 understanding only). Real age
+        and context anchor each story:
+        Card 1: L1 mom — verbal, 4, "almost trained"
+                ("not giving up yet")
+        Card 2: L2 mom — sensory, 6, BCBA involved
+                ("starting with 5-minute intervals")
+        Card 3: L3 mom — non-verbal, 8, high support
+                ("45 minutes, day 1 was instant-off")
+EXAMPLE_PICK: 3 stacked cream cards, mint #DBFFCD
+              separator line (3px) between, italic
+              testimonial quote, 16px Body Gray
+              #4A4A4A, dash "—" opener per family
+
+INTENT: "If any of these sound familiar, you're exactly
+where you should be. The timeline isn't the same for
+every kid. But the mechanism is."
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: PERMISSION CLOSE — THE EXIT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from family)
+
+[VISUAL ELEMENT — CALLOUT PERMISSION]
+ROLE: callout-permission-quiet
+INTENT: cream card #FBF7EB holds the permission-to-do-
+        less message: "If you're wondering whether this
+        working, the honest answer is: you won't know
+        in week 1. And that's not a flaw. That's the
+        design. Week 2-3 is when the first signals start
+        for most kids. A pause. A look down. A step
+        toward the bathroom after the fact. A pull at
+        the pants. Those are the first words in a new
+        language the brain is learning to speak."
+EXAMPLE_PICK: cream card #FBF7EB, italic body, Dark
+              #1A1A1A, generous 32px padding
+
+INTENT: "Your job this week: put the underwear on. Let
+the body-signal layer do the teaching. Don't prompt.
+Don't pressure. Don't expect. Just let it happen."
+
+NO CTA in this section (this IS the call to action —
+to NOT act)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: NEXT-TIME LINE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (none — single line)
+
+[VISUAL ELEMENT — NEXT-TIME TEASE]
+ROLE: next-time-tease
+INTENT: "Next time: The two-week mark — what to look
+        for and what's totally normal."
+EXAMPLE_PICK: small 14px italic line, Body Gray
+              #4A4A4A, separator dash above
+
+INTENT: bridges to d14 email without forcing urgency.
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA MEDIUM VARIANT (Week-1 vulnerability)]
+─────────────────────────────────────────────────────────────────
+Body 17px Dark #1A1A1A:
+"I have two autistic sons. One's 6, still in the middle
+of it. The other took us until he was almost 8. I
+remember week 1 with both of them, wondering, waiting,
+hoping the first week would show something. It didn't.
+But week 3 did.
+
+You're not behind. You're not doing it wrong.
+The underwear is working, even when it doesn't look
+like it.
+
+With understanding,
+Lena ——"
+
+Centered, max 400px width
+Subtitle: "Customer Support · Mom of two autistic sons"
+Sign-off progression: MEDIUM per brand rule (E3-E5)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo · Built for the brain that learns differently.
+60-Day Money-Back Guarantee · Your judgment, your timeline.
+You're receiving this email because you purchased from
+BrightKidCo. [unsubscribe link]
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? YES
+- Section 1 headline visible above 400px? YES (24px
+  headline + subhead stack above fold)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 1 (hero only — single
+  quiet-symptom lifestyle photo)
+- Image positions: section-1 only
+- Density category: 1 (text-dominant, single hero image)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 8
+  - hero-quiet-symptom (section 1)
+  - callout-reframe-quiet (section 2)
+  - recognition-anchor-list-on-track (section 3)
+  - mechanism-metaphor-card (section 4)
+  - practical-tip-list (section 5)
+  - testimonial-card-stack-vertical (section 6)
+  - callout-permission-quiet (section 7)
+  - next-time-tease (section 8)
+  - signoff-lena-medium (signoff block)
+- Density category: 8 (within cap)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 8 (rich, multi-section education)
+- Section pattern: F (Education-First — radio analogy
+  + mechanism deep before close)
+- Image density: 1 (text-dominant, single hero)
+- Color temperature: cool (per GF canvas for mechanism
+  + science-heavy; cream + soft grey dominates)
+- Email length: long (~700 words estimated)
+- Argument structure: Story-led (Three-Family Pattern)
+  + Mechanism (radio analogy)
+- Visual rhythm: open (44-48px gaps per GF canvas)
+- CTA position: NONE — this email has NO purchase CTA.
+  Permission close IS the only "action" (do less).
+  Text-link only at most (e.g., reply-to-Lena).
+- Subject line type: validation
+  ("If nothing happened in week 1, that's exactly
+   right" — anti-hook reframe)
+
+=================================================================
+VARIANCE_CHECK vs pped-11-d0:
+PREVIOUS (d0):
+1. Section count: 8
+2. Section pattern: F (Education-First)
+3. Image density: 2
+4. Color temperature: neutral
+5. Email length: long
+6. Argument: Data-led (SPARK stat) + Story frag
+7. Rhythm: open (44-48px)
+8. CTA position: late (section 8 of 8)
+9. Subject type: observation
+
+CURRENT (d7):
+1. Section count: 8 — SAME → counts as variance MATCH
+2. Section pattern: F — SAME → MATCH
+3. Image density: 1 — DIFFERENT ✅
+4. Color temperature: cool — DIFFERENT ✅
+5. Email length: long — SAME → MATCH
+6. Argument: Story-led + Mechanism — DIFFERENT ✅
+7. Rhythm: open — SAME → MATCH
+8. CTA position: NONE — DIFFERENT (text-link only) ✅
+9. Subject type: validation — DIFFERENT ✅
+
+Variance count: 5/9 dimensions DIFFER
+(GF audit rule: ≥5/9 variance → ✅ PASS)
+
+=================================================================
+R1-R6 CALIBRATION VERIFICATION:
+- R1 (Symptom over label): ✅ Zero level labels.
+       Three-Family Pattern internal to wireframe spec
+       only; visible body uses symptoms throughout.
+- R2 (3-5 recognition anchors): ✅ 5 anchors in
+       Section 3 ("on track" list).
+- R3 (Age ranges): ✅ "3 or 10" opener, ages 4/6/8
+       in family stories.
+- R4 (Verbal/non-verbal): ✅ "verbal or not" in
+       opener; non-verbal signals ("pause, look down,
+       step toward bathroom, pull at pants") in
+       permission close.
+- R5 (Timeline flexibility): ✅ "Week 2-3" range,
+       "The timeline isn't the same for every kid."
+- R6 (Low-bar success): ✅ success = tolerance,
+       pause, awareness — never "fully trained."
+
+=================================================================
+GF SUB-GROUP COVERAGE:
+- A (Diagnostic Entrants): "diagnosed or wondering"
+       covers pre-diagnostic space. ✅
+- B (Diagnosis-Rejecters): zero autism language,
+       symptom-only. ✅
+- C (Sensory-Difference): mechanism works cross-
+       diagnosis. ✅
+- D (Overwhelmed Non-Selectors): three-family
+       pattern spans all levels. ✅
+- E (Cart/Browse): no quiz pressure, no labels. ✅
+
+=================================================================
+END OF WIREFRAME — pped-11-d7
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — pped-11-d7
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** pp-education | **Position:** E2 | **Level:** GF
+
+
+### Section 1: HERO + HEADLINE — VALIDATION OPEN
+
+- ROLE slot: `hero-headline-validation-open`
+
+- INTENT: validation block — HERO + HEADLINE — VALIDATION OPEN
+
+- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: VALIDATION — WHY NOTHING IS NOTHING
+
+- ROLE slot: `validation-why-nothing-is-nothing`
+
+- INTENT: validation block — VALIDATION — WHY NOTHING IS NOTHING
+
+- COMPONENT PICKED: **DEEP-02** — Mom Confessional
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: RECOGNITION ANCHORS (R2 — 5 SCENARIOS)
+
+- ROLE slot: `recognition-anchors-r2-5-scenarios`
+
+- INTENT: validation block — RECOGNITION ANCHORS (R2 — 5 SCENARIOS)
+
+- COMPONENT PICKED: **DEEP-11** — Guilt Audit
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: MECHANISM — RADIO ANALOGY (DATA-LED)
+
+- ROLE slot: `mechanism-radio-analogy-data-led`
+
+- INTENT: mechanism block — MECHANISM — RADIO ANALOGY (DATA-LED)
+
+- COMPONENT PICKED: **HERO-13** — Scientific Hook
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: PRACTICAL TIPS — 3 SUPPORTING ACTIONS
+
+- ROLE slot: `practical-tips-3-supporting-actions`
+
+- INTENT: education block — PRACTICAL TIPS — 3 SUPPORTING ACTIONS
+
+- COMPONENT PICKED: **EDU-11** — Science Citation
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: THREE-FAMILY TESTIMONIAL PATTERN
+
+- ROLE slot: `three-family-testimonial-pattern`
+
+- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
+
+- COMPONENT PICKED: **STORY-03** — Split Before/After
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: **resized/washing-machine.jpg**
+
+  - Currently used: 1/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 7: PERMISSION CLOSE — THE EXIT
+
+- ROLE slot: `permission-close-the-exit`
+
+- INTENT: cta block — PERMISSION CLOSE — THE EXIT
+
+- COMPONENT PICKED: **CTA-11** — Quiet CTA
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 8: NEXT-TIME LINE
+
+- ROLE slot: `next-time-line`
+
+- INTENT: next block — NEXT-TIME LINE
+
+- COMPONENT PICKED: **DEEP-08** — Permission Paradox
+
+  - Currently used: 5/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8

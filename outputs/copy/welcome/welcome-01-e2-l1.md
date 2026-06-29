@@ -374,3 +374,421 @@ Within the Mechanism Deep section callout, the letter "g" in "Interoception Gap"
 
 **End of Document, Welcome Flow E2 | Level 1, Sarah**
 **BrightKidCo, Built for the brain that learns differently.**
+
+## WIREFRAME — built 2026-06-28 by subagent-2
+
+```
+=================================================================
+WIREFRAME: welcome-01-e2-l1
+Email ID: welcome-01-e2-l1
+Flow: welcome | Position: E2 | Day: 1 | Level: L1
+=================================================================
+
+SUBJECT: The real reason Oh Crap didn't work
+PREHEADER: You didn't fail. The method assumes your child
+           feels the 'I need to go' signal, here's what's
+           really happening.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — FAILED METHODS RECOGNITION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Oh Crap stressed you both out. Sticker charts
+          didn't stick. Timer sits became a battle.
+SUBHEADLINE: (none — the headline IS the hook, lists 3 named
+             methods to stop the scroll)
+
+[VISUAL ELEMENT]
+ROLE: callout-quote-highlight (variant — different family from
+       E1's section-2 callout for variance)
+INTENT: highlights the cluster of failed methods by listing
+        them as recognizable nouns ("Oh Crap," "sticker
+        charts," "timer sits"); the callout style echoes
+        the "we see you" recognition beat — Sarah's
+        lived experience, not abstract validation
+EXAMPLE_PICK: callout box with named-method bullet list
+              (3 coral bullets, soft cream background) — a
+              different visual variant than E1's quote
+              callout to create flow-level variance
+NOTE: This is the FIRST section of E2 (not a continuation of
+      E1's hero). Establishes E2's callout family for the
+      remainder of the email.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — "YOU DIDN'T FAIL. THE METHODS DID."]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You didn't fail. The methods did.
+SUBHEADLINE: (none — the line is the section's anchor)
+
+[VISUAL ELEMENT]
+ROLE: callout-quote-highlight (PULL-QUOTE variant — heaviest
+       typographic weight in the email)
+INTENT: the validation anchor of E2; visually presents the
+        "you didn't fail" line as a stand-alone pull-quote
+        with high typographic weight (Plus Jakarta Sans
+        20px Medium per locked-profile typography spec);
+        this is the moment of the mechanism click — the
+        "aha" gets its own visual container
+EXAMPLE_PICK: pull-quote callout box with coral left-border,
+              larger type than surrounding body, generous
+              vertical padding — distinct from E1's
+              validation callout to mark progression
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM DEEP — INTEROCEPTION GAP]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The "I need to go" signal doesn't arrive
+          in time. That's called the interoception gap.
+SUBHEADLINE: (none — headline IS the mechanism reveal)
+
+[VISUAL ELEMENT]
+ROLE: mechanism-diagram-3-frame (NEW ROLE for E2 — the
+       Signal Bridge micro-illustration referenced in
+       the creative strategy)
+INTENT: a custom 3-frame illustration unique to E2:
+        Frame 1 (Problem) — fragmented signal dots
+        dissolving mid-gap; Frame 2 (Reframe) — the gap
+        labeled "Interoception Gap"; Frame 3 (Solution
+        Tease) — a warm golden arc bridges the gap,
+        suggesting the 3-layer system within the arc;
+        abstract child silhouette on left (no face, no
+        features, allows projection per L1 visual
+        recognition rules)
+EXAMPLE_PICK: 3-frame SVG illustration (hand-drawn digital
+              style, 2-3px line weights, limited palette of
+              Warm Sand + Soft Coral + Deep Navy per
+              creative strategy, single SVG with
+              responsive breakpoints — desktop horizontal,
+              mobile stacked vertical)
+NOTE: This is E2's signature visual element. Different
+      from E1's hero-image-lifestyle (which showed a kid
+      in a real home); this is the mechanism diagram.
+      The contrast creates flow-level visual variance.
+
+[CTA — DOUBLE-TAP #1: HERO CTA, ABOVE THE FOLD OF THIS SECTION]
+BUTTON_TEXT: See the Body-Signal System in Action
+BUTTON_INTENT: drives to PDP — captures the "aha" moment
+              when the interoception reframe clicks
+              landing.brightkidco.com/products/potty-training-
+              underwear-for-sensory-sensitive-toddlers-sp
+SECONDARY: text link "Learn how 6 pairs build the
+           learning rotation →" (small, muted)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: SOCIAL PROOF — PARENT QUOTE STACK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Real parents describe it exactly like this:
+SUBHEADLINE: (none — the section opens directly into quotes)
+
+[VISUAL ELEMENT]
+ROLE: callout-quote-highlight (×3 stacked, testimonial
+       card variant — different visual family from
+       sections 1 and 2 for within-email variance)
+INTENT: three verbatim L1 parent quotes about timing
+        problems ("He says 'I need to pee' AFTER it's
+        already happened." / "Some days he's great,
+        other days zero." / "Is this interoception or
+        stubbornness?"); each quote gets its own
+        testimonial card (white card on warm-sand
+        background, italic Source Serif 4 per
+        typography spec); the stack format differs from
+        E1's single quote callout — the triple quote
+        rhythm mirrors the "other moms say it too"
+        validation beat that E2 needs more of
+EXAMPLE_PICK: three stacked testimonial cards, white #FFFFFF
+              on warm-sand #F5EDE6 background, 1px #EADED7
+              border, 16px border-radius, subtle box
+              shadow, italic serif body text
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: PRODUCT INTRO + GUARANTEE + CTA]
+─────────────────────────────────────────────────────────────────
+HEADLINE: BrightKidCo underwear is built around one job:
+          teach the brain to feel the signal before
+          it's too late.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: product-intro-callout (3-layer breakdown box)
+INTENT: presents the 3-layer product system as a labeled
+        breakdown (Layer 1: Cotton Inner — soft "uh-oh"
+        sensation; Layer 2: Smart Absorption — protects
+        without blocking the learning signal; Layer 3:
+        Leak-Resistant Barrier — outer protection); each
+        layer labeled with its functional purpose, the
+        callout style separates the product intro from
+        the surrounding body copy
+EXAMPLE_PICK: 3-layer product breakdown box (cream card
+              background, three labeled rows, coral
+              accent for layer numbers)
+
+[GUARANTEE CALLOUT — within same section, follows product]
+ROLE: guarantee-callout-box
+INTENT: the 60-day guarantee framed as the "honest thing"
+        when the outcome depends on a child's nervous
+        system; visually anchored as a distinct
+        sub-callout within the section (cream card,
+        bold lead line, smaller body); pre-empts the
+        "what if it doesn't work" objection before the
+        final CTA
+EXAMPLE_PICK: cream guarantee box with bold lead "60 days.
+              By your judgment." and body copy beneath;
+              coral left-border accent matching the
+              validation pull-quote style
+
+[CTA — DOUBLE-TAP #2: BOTTOM CTA, AFTER GUARANTEE]
+BUTTON_TEXT: Shop the 3+3 Bundle, $79.99, Free Shipping
+BUTTON_INTENT: drives to PDP / add-to-cart
+              landing.brightkidco.com/products/potty-training-
+              underwear-for-sensory-sensitive-toddlers-sp
+P.S.: "*That's $13.33 per pair with the bundle — less
+      than half the single-pair price.*"
+SECONDARY: text link "Learn how 6 pairs build the
+           learning rotation →" (small, muted)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA SHORT VARIANT for E2]
+─────────────────────────────────────────────────────────────────
+Background: Off-White #FAF9F7 (subtle separation)
+Body 16px: "Thanks for being here. If you have a question,
+            hit reply. You'll get me — not a template,
+            not a bot. I read everything."
+Closing: "Talk soon,"
+Signature: "Lena —," (em-dash, 14px, italic, Body Gray)
+NOTE: SHORT sign-off variant per locked-profile (E1-E2
+      use SHORT to keep momentum through the mechanism
+      click). Same sign-off block as E1 — consistency is
+      intentional in the E1-E2 window per Lena voice
+      calibration.
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe
+Questions? Reply to this email, we read every response.
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Section 1 (Hook) visible above 400px (mobile)? YES (the
+  failed-methods hook is the first content section, no
+  large hero image like E1 had — text opens directly)
+- Section 1 headline visible above 400px? YES
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 2 (mechanism diagram + product
+  3-layer breakdown; NO lifestyle hero image like E1)
+- Image positions: section-3 (mechanism diagram),
+  section-5 (product intro callout)
+- Density category: 2 (balanced — text-dominant but two
+  supporting visuals)
+- Variance note: E1 had 1 image (hero only, lifestyle photo).
+  E2 has 0 lifestyle photos and 2 informational diagrams.
+  This is a deliberate shift — E2's job is the mechanism
+  click, not emotional mirror, so the visual weight moves
+  from "kid Sarah recognizes" to "the explanation she
+  needs."
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 7
+  - callout-quote-highlight (section 1 — failed methods
+    bullet variant)
+  - callout-quote-highlight (section 2 — pull-quote
+    variant)
+  - mechanism-diagram-3-frame (section 3 — NEW ROLE,
+    signature E2 visual)
+  - callout-quote-highlight (section 4 — testimonial card
+    variant, ×3 stacked)
+  - product-intro-callout (section 5 — 3-layer breakdown)
+  - guarantee-callout-box (section 5 — sub-callout)
+  - cta-button-full-width (sections 3 and 5 — double-tap)
+  - signoff-lena-short (signoff block)
+- Density category: 7 (rich, near 8-cap — appropriate for
+  E2's role as the mechanism-click email in the flow)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 5 (Hook, Validation, Mechanism Deep,
+  Social Proof, Product+CTA — 5 reader-facing sections)
+- Section pattern: C (Problem-Solution / Mechanism-Centered)
+- Image density: 2 (mechanism diagram + product intro,
+  no lifestyle hero)
+- Color temperature: warm (per L1 calibration — same as
+  E1; warmth is the L1 baseline, not a variance lever)
+- Email length: long (~1085 words per locked-profile)
+- Argument structure: MP-deep (Mirror → Failed Methods →
+  Mechanism → Re-frame → Third Option → Permission-Toned
+  CTA — the L1-specific innovation that distinguishes
+  E2 from E1's PAS-light)
+- Visual rhythm: mixed (tight body copy with breathing
+  around the mechanism diagram and CTA band)
+- CTA position: double-tap (mid after mechanism click in
+  section 3 + late after guarantee in section 5; explicitly
+  different from E1's single late CTA)
+- Subject line type: mechanism (vs E1's observation hook)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: welcome-01-e1-l1
+- Extracted 9 dimensions from E1 wireframe:
+    1. Section count: 5
+    2. Section pattern: A (Hero→Validation→Mechanism→CTA)
+    3. Image density: 1 (lifestyle hero)
+    4. Color temperature: warm
+    5. Email length: medium (~990 words)
+    6. Argument structure: PAS (Problem→Absolve→Solve)
+    7. Visual rhythm: tight
+    8. CTA position: late (single)
+    9. Subject line type: observation
+- E2 9 dimensions determined from copy + locked-profile:
+    1. Section count: 5
+    2. Section pattern: C (Problem-Solution / Mechanism-
+       Centered)
+    3. Image density: 2 (no lifestyle hero, mechanism +
+       product diagrams)
+    4. Color temperature: warm
+    5. Email length: long (~1085 words)
+    6. Argument structure: MP-deep (Mirror → Failed
+       Methods → Mechanism → Re-frame → Third Option)
+    7. Visual rhythm: mixed (tight body, breathing
+       around diagrams)
+    8. CTA position: double-tap (mid + late)
+    9. Subject line type: mechanism ("The real reason
+       Oh Crap didn't work")
+- Differences across 9 dimensions:
+    1. Section count: SAME (both 5)
+    2. Section pattern: DIFFER (A → C)
+    3. Image density: DIFFER (1 → 2; lifestyle hero → mechanism
+       diagram + product intro)
+    4. Color temperature: SAME (warm per L1 baseline)
+    5. Email length: DIFFER (medium → long)
+    6. Argument structure: DIFFER (PAS → MP-deep)
+    7. Visual rhythm: DIFFER (tight → mixed)
+    8. CTA position: DIFFER (late → double-tap)
+    9. Subject line type: DIFFER (observation → mechanism)
+- Total: 6/9 differences
+- Threshold: ≥5/9 → PASS
+- Note: The 3 dimensions that match (section count, color
+  temperature, both at L1 baseline) are intentionally
+  held constant because they reflect Sarah's avatar-level
+  constraints, not email-specific intent. The 6
+  dimensions that differ are precisely the levers E2
+  needs to shift to deliver the mechanism-click moment:
+  - Pattern change (A→C) puts the mechanism at the center
+  - Image density shift moves visual weight from "kid
+    Sarah recognizes" to "the explanation she needs"
+  - Length increase accommodates the deeper mechanism
+  - Argument shift to MP-deep enables the named-failed-
+    methods beat that E1 didn't have
+  - Rhythm mixed creates breathing room for the diagram
+  - Double-tap CTA captures both the "aha" moment and
+    the risk-removed moment
+  - Subject shift from observation to mechanism names the
+    failed method in the inbox
+
+=================================================================
+END OF WIREFRAME — welcome-01-e2-l1
+=================================================================
+```
+
+## STAGE 2 PICKS — welcome-01-e2-l1
+
+### Section 1: HOOK - callout-quote-highlight (failed methods)
+- ROLE slot: callout-quote-highlight (variant)
+- INTENT: lists failed methods Sarah recognizes (Oh Crap, sticker charts, timer sits)
+- COMPONENT PICKED: 9.2
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: 9.2 'Sticker Reasons' is a recognition-callout pattern built for listing named items — perfect for naming failed methods without emotional bullet damage. Variance vs E1's cream callout.
+- IMAGE PICKED: none (text-only component)
+
+### Section 2: VALIDATION - callout-quote-highlight (pull-quote)
+- ROLE slot: callout-quote-highlight (PULL-QUOTE variant)
+- INTENT: the validation anchor — "You didn't fail. The methods did."
+- COMPONENT PICKED: 4.4
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: 4.4 'Insight / Mint Block' uses mint background #E8F5EC, matching L1 spec for mechanism callouts (Mint #DBFFCD). Pull-quote with eyebrow + insight structure.
+- IMAGE PICKED: none (text-only component)
+
+### Section 3: MECHANISM DEEP - mechanism-diagram-3-frame
+- ROLE slot: mechanism-diagram-3-frame
+- INTENT: custom 3-frame body/brain signal-bridge illustration
+- COMPONENT PICKED: DEEP-16
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: DEEP-16 'The Brain-Body Bridge' is a mechanism diagram specifically for interoception signal timing — exact INTENT match. Audience L1.
+- IMAGE PICKED: none (text-only component)
+
+### Section 4: SOCIAL PROOF - callout-quote-highlight (x3 stacked)
+- ROLE slot: callout-quote-highlight (x3 stacked, testimonial)
+- INTENT: three L1 parent quotes about timing/inconsistency
+- COMPONENT PICKED: LETTER-11
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: LETTER-11 'Margin Notes' provides stacked pull-quote variant suitable for 3 stacked testimonials with attribution margins. Variance vs earlier callouts.
+- IMAGE PICKED: none (text-only component)
+
+### Section 5: PRODUCT INTRO - product-intro-callout (3-layer breakdown)
+- ROLE slot: product-intro-callout (3-layer breakdown box)
+- INTENT: presents 3-layer product system as labeled callout
+- COMPONENT PICKED: PROD-3
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: PROD-3 'Layer Breakdown' is the catalog's exact 3-layer product breakdown component. Audience L1, messaging=product. Direct match.
+- IMAGE PICKED: flat-lay/training-pant-fox-woodland-white.jpg
+  - Alt text: Three pairs of training underwear laid flat, white with fox-woodland print, showing the 3-layer product system.
+  - Current usage: 0/25
+  - WHY: Training pant flat lay, fox woodland white — fits product introduction of the 3-layer system without being overly colorful; aligns with L1 warm/cream palette.
+
+### Signoff: signoff-lena-short
+- ROLE slot: signoff-lena-short
+- INTENT: Lena SHORT sign-off for E2: 'Talk soon,'
+- COMPONENT PICKED: 12.1
+  - Catalog entry: position varies, audience=[L1,...]
+  - Current usage: 0/8
+  - WHY: 12.1 'Lena Signoff' is the catalog's Lena signoff component. Used for E1 (signoff = 'Talk soon,' per E1-E2 progression).
+- IMAGE PICKED: none (text-only component)
+
+### Tracker updates
+- component-usage.json: incremented ['9.2', '4.4', 'DEEP-16', 'LETTER-11', 'PROD-3', '12.1']
+- image-usage.json: incremented ['flat-lay/training-pant-fox-woodland-white.jpg']
+
+## STAGE 2 REMEDIATION — welcome-01-e2-l1
+
+> **NOTE (added 2026-06-29):** The component `12.1 Lena Signoff` is the only
+> signoff-footer component in the catalog that matches the L1 `signoff-lena-short`
+> role. Re-using it across E1-E5 is correct per the L1 sign-off progression rule
+> (E1-E2 "Talk soon," → E3-E5 "With understanding,"). The 8-use cap is exceeded
+> due to the structural catalog limitation, not a per-email pick error.
+>
+> **Action taken in this file:** None. Picks recorded as-is for Stage 3.
+>

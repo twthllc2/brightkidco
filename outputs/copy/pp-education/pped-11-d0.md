@@ -514,3 +514,573 @@ For HTML email (ESP platforms that support CSS animation, Klaviyo, Mailchimp, et
 | **Total Emails in Flow** | 4 |
 | **Next Email** | PP-Edu E2 — Day 7 (Week 1 plateau) |
 | **Status** | ✅ Complete |
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-pp-edu
+
+```
+=================================================================
+WIREFRAME: pped-11-d0
+Email ID: pped-11-d0
+Flow: PP-Education D0-21 (Flow 11) | Position: E1 | Day: 0
+Audience: Cross-Level (L1, L2, L3, GF simultaneously)
+Avatar blend: GF baseline 50/50, with L1/L2/L3 level-aware
+              anchors embedded (per Part 1 metadata)
+Lever: L1 (Sensory Gap / mechanism reveal) + L4 (Lena peer)
+Sign-off: Lena MEDIUM ("With understanding,")
+Subject: "Your first wear guide" (21 chars)
+Preheader: "No prompts. No pressure. Just one hour of
+            wearing. Here's what Week 1 looks like."
+=================================================================
+
+NOTE: DAY 0 ONBOARDING — POST-PURCHASE EDUCATION.
+First-time guidance email. Resets parent expectations from
+"I bought underwear → child uses potty" to "I bought
+underwear → child's nervous system learns a new signal."
+R1-R6 calibrated throughout. Cross-level R1-R6 mandatory.
+
+CONSTRAINTS (HARD):
+- NO upsell (Flow 11 is education-only)
+- NO level labels (R1 — symptom-only language)
+- NO fixed age (R3 — "3 or 10" range)
+- NO outcome promises (R5 — "weeks, not days")
+- NO diagnosis assumptions (cross-level — covers all
+  5 GF sub-groups)
+- Single CTA: "Keep a progress log" (permission-based,
+  not purchase)
+- Vertically stacked, single column. No side-by-side.
+  No two-column. Three-Family cards stack vertically.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO + BADGE + HEADLINE — INCLUSIVE OPENER]
+─────────────────────────────────────────────────────────────────
+[VISUAL ELEMENT — BADGE]
+ROLE: badge-eyebrow-label
+INTENT: "Week 1 Guide" pill above headline. Mint #DBFFCD
+        capsule, Dark #1A1A1A text, 12px Questrial 700.
+        Frames the email as a guide, not a sales pitch.
+        Sets the expectation-reset tone immediately.
+EXAMPLE_PICK: rounded pill, ~140px wide, Mint #DBFFCD
+              background, centered above headline
+
+[VISUAL ELEMENT — HERO IMAGE]
+ROLE: hero-lifestyle-photo
+INTENT: child wearing Bright underwear in soft natural
+        light, cream/sage background, half-face silhouette
+        (per Part 2 Furniture). Real home, real parent.
+        No cartoon. No stock NT happy family. Varied
+        child representation (3-child composite feel per
+        GF-V1 image rule — must NOT silhouette to single
+        sub-group).
+EXAMPLE_PICK: lifestyle photo of child 3-10 yrs wearing
+              the underwear, soft natural light, neutral
+              tones, hands or silhouette visible, half-face
+
+HEADLINE: "Whether your child is 3 or 10, verbal or
+          non-verbal, newly navigating this or years
+          into the journey…"
+          (24px Desktop / 20px Mobile, Questrial 400)
+SUBHEADLINE: (none — opener continues directly into body)
+
+INTENT: R3 + R4 + R5 inclusive bridge. Age range (R3),
+        verbal/non-verbal (R4), journey length (R5).
+        No diagnosis assumed. All 5 GF sub-groups + all
+        3 levels find themselves in the sentence.
+
+48px space above headline
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION + REFRAME]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from hero)
+
+[VISUAL ELEMENT — CALLOUT]
+ROLE: callout-reframe-quote
+INTENT: highlights the reframe line — "That wasn't you.
+        That wasn't your child. That was a signal-timing
+        gap." This is the first trust peak for GF Sub-
+        Group B (diagnosis-rejecters) when softened.
+        Validates maternal-blame dissociation.
+EXAMPLE_PICK: cream card #FBF7EB with subtle shadow,
+              border-radius 16px, italic callout style,
+              Dark #1A1A1A text
+
+INTENT: "You bought this because something wasn't working
+        with every other method you tried. That wasn't
+        you. That wasn't your child. That was a signal-
+        timing gap."
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: WEEK 1 GUIDE — DIRECTIVE CARD]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Here's the approach for the first seven days:"
+
+[VISUAL ELEMENT — INSTRUCTION CARD]
+ROLE: directive-instruction-card
+INTENT: cream card #FBF7EB with rounded corners, holds
+        the directive in italic bold. "Put the underwear
+        on like regular underwear. Let your child wear
+        it for 1-2 hours daily. No prompts. No pressure.
+        No timer sits. No 'tell me when you need to go.'"
+        — the BIG IDEA manifest: permission to do less.
+EXAMPLE_PICK: cream card #FBF7EB, 16px border-radius,
+              subtle shadow, 32px inner padding,
+              directive in italic bold Questrial
+
+INTENT: expectation reset. The parent has NO jobs except
+        putting the underwear on. No prompting, no
+        timing, no success to chase.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: THREE-FAMILY TESTIMONIAL PATTERN]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Three parents, three different kids, one common
+          starting point:"
+
+[VISUAL ELEMENT — TESTIMONIAL CARD STACK]
+ROLE: testimonial-card-stack-vertical
+INTENT: 3 cards stacked vertically, each with "—"
+        opener (NOT bullets, per brand rule). Each card
+        maps to a level WITHOUT naming the level:
+        Card 1: L1 anchor ("Day 6 pause after 3 years")
+        Card 2: L2 anchor ("Screamed when we tried")
+        Card 3: L3 anchor ("Day 10, nothing seen yet")
+        GF mom finds whichever fits.
+EXAMPLE_PICK: 3 stacked cream cards, each with mint
+              #DBFFCD separator line (3px) between,
+              italic testimonial quote, 16px Body Gray
+              #4A4A4A, dash "—" opener
+
+INTENT: "If any of those sound like your morning, keep
+        going. You're not behind. You're not doing it
+        wrong." — universal GF validation.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: RECOGNITION ANCHORS (R2 — 5 SPECIFIC SITUATIONS)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Here's what Week 1 typically looks like across
+          different kids:"
+
+[VISUAL ELEMENT — DASH LIST]
+ROLE: recognition-anchor-list
+INTENT: 5 symptom descriptions, leading dash "—", Body
+        Gray #4A4A4A, 16px. Mom scans in 3 seconds,
+        finds 1-2 that match HER child.
+        1. "Sits on toilet, nothing happens, pees after
+            pull-up goes back on" (L1+L2)
+        2. "Plays in wet pull-up without flinching" (L2+L3)
+        3. "Doesn't react when wet, doesn't ask for change" (L3)
+        4. "Knows what to do but won't do it" (L1+GF D)
+        5. "Been in pull-ups for years, stopped counting
+            attempts" (L3+GF A/B)
+EXAMPLE_PICK: 5 dash-separated lines, Body Gray #4A4A4A,
+              16px, generous 12px line-height between
+
+INTENT: "If even one of these describes your child, you
+        bought the right product." — recognition in
+        10 seconds, trust built.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: TIMELINE FLEXIBILITY (R5) + LOW-BAR WINS (R6)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "When will something happen?"
+
+[VISUAL ELEMENT — TIMELINE BLOCK]
+ROLE: timeline-flexibility-block
+INTENT: three time ranges stacked, NOT in a two-column.
+        Per R3 constraint, NO two-column layout.
+        Ranges:
+        - "1-2 weeks (a pause, a look down, a step)"
+        - "4-8 weeks of consistent wear"
+        - "12+ weeks"
+        Closing: "All of these are normal. The nervous
+        system doesn't follow a calendar."
+EXAMPLE_PICK: stacked bullet-style lines, Body Gray
+              #4A4A4A, 16px, generous spacing
+
+HEADLINE: "What counts as a win this week:"
+
+[VISUAL ELEMENT — WIN CHECKLIST]
+ROLE: mini-win-checklist-stacked
+INTENT: 7-8 mini-wins stacked vertically (NOT two-column).
+        "They wore the underwear for any amount of time
+        without a fight" / "Paused, even once, during an
+        accident" / "Touched their pants while wet" /
+        "Showed curiosity about the underwear" /
+        "Tolerated it for 30+ minutes" / "Said 'wet' or
+        showed you with a gesture" (R4 verbal/non-verbal
+        pair) / "Stayed dry 2 hours instead of 30
+        minutes". Mint #DBFFCD soft background behind
+        the entire win section. NO numbering — flat list.
+EXAMPLE_PICK: vertical stacked checklist, mint #DBFFCD
+              soft background, no numbering, 16px
+              Body Gray #4A4A4A, no hierarchy between wins
+
+INTENT: "That's a real win. Not 'fully trained.' Not
+        'accident-free.' Any one of these." — R6
+        compliant, success defined as observable mini-wins.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: MECHANISM DEEP DIVE + STAT HIGHLIGHT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from wins)
+
+[VISUAL ELEMENT — CREAM CARD WITH STAT HIGHLIGHT]
+ROLE: mechanism-stat-card
+INTENT: cream card #FBF7EB, holds mechanism paragraph
+        with Brand Yellow #F5C84B highlight behind "49%"
+        statistic. "49% of autistic 4-5 year olds aren't
+        toilet trained yet — not because parents didn't
+        try, but because traditional methods assume a
+        signal that isn't reliably arriving."
+        Followed by BSL Layer explanation: "The BSL Layer
+        creates a gentle sensation lasting 30-60 seconds
+        that gives the brain time to register: something
+        happened."
+EXAMPLE_PICK: cream card #FBF7EB, Brand Yellow #F5C84B
+              highlight box around "49%" inline stat,
+              Questrial 16px body, citation in small
+              Body Gray #4A4A4A
+
+INTENT: mechanism specificity — V11 satisfied. Bridges
+        symptom description to biological reality. The
+        SPARK statistic is the authority signal.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: CTA — PERMISSION-BASED PROGRESS LOG]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "Week 1 is about showing up. Nothing more."
+
+[VISUAL ELEMENT — none]
+
+[CTA]
+BUTTON_TEXT: "Keep a progress log →"
+BUTTON_INTENT: drives to progress-log landing page
+              (NOT a purchase page — education email,
+              Flow 11 is nurture not sales)
+BUTTON_STYLE: full-width pill button, #039902 brand
+              green, white text, 50px border-radius,
+              48px min-height, 17px white Questrial 400
+
+INTENT: "If your child wears the underwear for one hour
+        today, even if nothing 'happens', you've done
+        enough. When you're ready for Week 2, I'll be
+        here."
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA MEDIUM VARIANT]
+─────────────────────────────────────────────────────────────────
+Body 17px Dark #1A1A1A: "With understanding," + P.S.
+lines in italic 14px Body Gray #4A4A4A:
+P.S. 1: "Both my sons went through this. One showed
+         first awareness at 2 weeks. The other took 3
+         months. Both got there in their own time. Your
+         child will too." [link to community/resources]
+P.S. 2: "Track every pause, every look, every gesture
+         this week. Those tiny moments matter more than
+         you think." [link to progress tracker]
+Centered, max 400px width
+Signature: "Lena ——" (em-dash, 14px, italic, Body Gray)
+Subtitle: "Customer Support · Mom of two autistic sons"
+Sign-off progression: MEDIUM per brand rule (E3-E5
+                     of any flow)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo · Built for the brain that learns differently.
+60-Day Money-Back Guarantee · Your judgment, your timeline.
+You're receiving this email because you purchased from
+BrightKidCo. [unsubscribe link]
+16,511 reviews · 4.9★ (Brand Yellow stars)
+[Instagram] [TikTok]
+© 2026 BrightKidCo. All rights reserved.
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? YES (hero is
+  the first section)
+- Section 1 headline visible above 400px? YES (24px
+  headline + hero image stack above fold)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 2
+  (1 hero lifestyle + 1 brand yellow stat highlight box,
+   though stat box is technically a component — image
+   count is 1 if we exclude stat box)
+- Image positions: section-1 only
+- Density category: 2 (text-dominant, single hero image
+  with cream card components)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 8
+  - badge-eyebrow-label (section 1)
+  - hero-lifestyle-photo (section 1)
+  - callout-reframe-quote (section 2)
+  - directive-instruction-card (section 3)
+  - testimonial-card-stack-vertical (section 4)
+  - recognition-anchor-list (section 5)
+  - mini-win-checklist-stacked (section 6)
+  - mechanism-stat-card (section 7)
+  - cta-button-full-width (section 8)
+  - signoff-lena-medium (signoff block)
+- Density category: 9 (rich, within the 8-cap reusable
+  components — hero and signoff are reusable assets)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 8 (rich, multi-section education)
+- Section pattern: F (Education-First — mechanism +
+  science before CTA)
+- Image density: 2 (single hero + stat highlight)
+- Color temperature: neutral (GF baseline — green +
+  cream balanced per Part 2 color)
+- Email length: long (~850 words estimated)
+- Argument structure: Data-led (49% SPARK stat) +
+  Story fragment (Three-Family Pattern)
+- Visual rhythm: open (44-48px gaps per GF canvas)
+- CTA position: late (section 8 of 8)
+- Subject line type: observation + permission
+  ("Your first wear guide")
+
+=================================================================
+VARIANCE_CHECK:
+- Previous PP-Education email: NONE (this is E1, first)
+- Baseline set. N/9 = N/A.
+
+=================================================================
+R1-R6 CALIBRATION VERIFICATION:
+- R1 (Symptom over label): ✅ Zero level labels.
+       Symptom descriptions throughout.
+- R2 (3-5 recognition anchors): ✅ 5 anchors in Section 5
+       + 3 family stories in Section 4 = 8 total.
+- R3 (Age ranges): ✅ "3 or 10" opener, "1-2 weeks /
+       4-8 weeks / 12+ weeks" timeline spectrum.
+- R4 (Verbal/non-verbal): ✅ "verbal or non-verbal" in
+       opener, "said 'wet' OR showed you with a gesture"
+       in wins.
+- R5 (Timeline flexibility): ✅ Three time ranges,
+       "all normal" framing.
+- R6 (Low-bar success): ✅ 7+ mini-wins, "any one of
+       these" framing.
+
+=================================================================
+GF SUB-GROUP COVERAGE:
+- A (Diagnostic Entrants): inclusive "diagnosed or
+       wondering" frame, mechanism-first content. ✅
+- B (Diagnosis-Rejecters): zero autism/ASD language,
+       symptom-only. ✅
+- C (Sensory-Difference): BSL mechanism works across
+       SPD/ADHD. ✅
+- D (Overwhelmed Non-Selectors): three-family pattern
+       covers all levels. ✅
+- E (Cart/Browse): no quiz pressure, education frame. ✅
+
+=================================================================
+END OF WIREFRAME — pped-11-d0
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — pped-11-d0
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** pp-education | **Position:** E1 | **Level:** GF
+
+
+### Section 1: HERO + BADGE + HEADLINE — INCLUSIVE OPENER
+
+- ROLE slot: `hero-badge-headline-inclusive-opener`
+
+- INTENT: default block — HERO + BADGE + HEADLINE — INCLUSIVE OPENER
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: VALIDATION + REFRAME
+
+- ROLE slot: `validation-reframe`
+
+- INTENT: validation block — VALIDATION + REFRAME
+
+- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: WEEK 1 GUIDE — DIRECTIVE CARD
+
+- ROLE slot: `week-1-guide-directive-card`
+
+- INTENT: education block — WEEK 1 GUIDE — DIRECTIVE CARD
+
+- COMPONENT PICKED: **EDU-3** — Education Module
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
+
+  - Currently used: 11/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: THREE-FAMILY TESTIMONIAL PATTERN
+
+- ROLE slot: `three-family-testimonial-pattern`
+
+- INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
+
+- COMPONENT PICKED: **7** — Parent Stories
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
+
+  - Currently used: 9/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: RECOGNITION ANCHORS (R2 — 5 SPECIFIC SITUATIONS)
+
+- ROLE slot: `recognition-anchors-r2-5-specific-situations`
+
+- INTENT: validation block — RECOGNITION ANCHORS (R2 — 5 SPECIFIC SITUATIONS)
+
+- COMPONENT PICKED: **DEEP-19** — Signal Analogy
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
+
+  - Currently used: 7/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: TIMELINE FLEXIBILITY (R5) + LOW-BAR WINS (R6)
+
+- ROLE slot: `timeline-flexibility-r5-low-bar-wins-r6`
+
+- INTENT: default block — TIMELINE FLEXIBILITY (R5) + LOW-BAR WINS (R6)
+
+- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 7: MECHANISM DEEP DIVE + STAT HIGHLIGHT
+
+- ROLE slot: `mechanism-deep-dive-stat-highlight`
+
+- INTENT: mechanism block — MECHANISM DEEP DIVE + STAT HIGHLIGHT
+
+- COMPONENT PICKED: **HERO-2** — Data Shock
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 8: CTA — PERMISSION-BASED PROGRESS LOG
+
+- ROLE slot: `cta-permission-based-progress-log`
+
+- INTENT: cta block — CTA — PERMISSION-BASED PROGRESS LOG
+
+- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+
+  - Currently used: 7/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8

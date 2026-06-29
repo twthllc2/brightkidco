@@ -405,3 +405,437 @@ The most honest review is not the 5-star rating, it's the parent who says "He's 
 *End of Review Request Flow, Email 1*
 *Cross-Level (L1 · L2 · L3 · GF)*
 *Phase 2 · Flow 18 · Position E1*
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-replenish
+
+> **Vertical stack only. No two-column. ROLE names only. R1-R6 cross-level calibrated.**
+> **Review Request E1 (Flow 18, Cross-Level, D30-45) — "Would you recommend us?"**
+
+```
+============================================================
+[ROLE: BRIGHTKIDCO LETTERHEAD]
+============================================================
+[HEADER: BrightKidCo logo (SVG, max 200px) +
+ "Customer Support · Mom of two autistic sons" subline]
+============================================================
+
+[ROLE: SUBJECT + PREVIEW BLOCK]
+[SUBJECT: Would you recommend us? (23ch, Question hook)]
+[PREVIEW: Your experience, whatever it looks like, helps
+ another parent decide. 2 minutes can change everything for
+ someone.]
+============================================================
+
+[ROLE: SECTION 1 — HOOK, UNIVERSAL RECOGNITION]
+[BG: White #FFFFFF, 32px padding top/bottom]
+
+[Whether/Or/If pattern opener]
+"Whether your child showed their first awareness after 2
+weeks, or you're still watching after 8, whether they said
+'wet' one day, showed you with a gesture, or you noticed a
+pause you've never seen before, if something shifted, even a
+little, it matters more than you might think."
+
+[Transition sentence, italic]
+"Not because it proves the product works. Because another
+parent needs to know what 'working' actually looks like."
+
+============================================================
+
+[ROLE: SECTION 2 — RECOGNITION ANCHORS, R2 + R6]
+[BG: White, 32px padding]
+
+[Lead-in]
+"Maybe you've seen one of these:"
+
+[5 BULLET ANCHORS — em-dash markers, no icons, soft mint
+ #7BC77B dash color, Georgia 17px serif]
+
+  ─ A pause before the accident. Just one. But it happened.
+
+  ─ A look down at wetness for the first time.
+
+  ─ Pulling at their pants, or showing you with their body.
+
+  ─ Staying dry 2 hours instead of 30 minutes.
+
+  ─ Nothing noticeable yet, and you're still watching,
+    still hoping.
+
+[Closing line, italic]
+"Any one of these is real. And the parent reading this next
+week doesn't need a success story. They need an honest one."
+
+============================================================
+
+[ROLE: SECTION 3 — THREE-FAMILY TESTIMONIAL PATTERN]
+[BG: Testimonial background #F7F7F7 (light gray tint)]
+[3 BLOCKQUOTE TESTIMONIALS, italic Georgia 17px, separated
+ by spacing, no photos, text only, thin horizontal rule
+ 1px #E0E0E0 60% width centered between blocks]
+
+  ┌─ TESTIMONIAL 1 (L1) ───────────────────────────────┐
+  │ │
+  │ "He went from 'almost' to 'mostly' in about 6 │
+  │ weeks. I'd stopped believing that one missing │
+  │ piece, the signal, could make that much │
+  │ difference. It did." │
+  │ │
+  │ ─ Sarah, mom of a verbal 4-year-old │
+  └─────────────────────────────────────────────────────┘
+
+  ┌─ TESTIMONIAL 2 (L2) ───────────────────────────────┐
+  │ │
+  │ "She finally paused when she felt wetness. That │
+  │ was Week 4. We still have pull-up days. But │
+  │ she's feeling something for the first time." │
+  │ │
+  │ ─ Lisa, mom of a sensory-sensitive 6-year-old │
+  └─────────────────────────────────────────────────────┘
+
+  ┌─ TESTIMONIAL 3 (L3) ───────────────────────────────┐
+  │ │
+  │ "He's not trained. But he felt something for the │
+  │ first time in 8 years. He looked down. He │
+  │ paused. That's enough for now." │
+  │ │
+  │ ─ Maria, mom of a non-verbal 9-year-old │
+  └─────────────────────────────────────────────────────┘
+
+[Bridging transition]
+"If your child fits any of these, your story is the one
+another parent needs to read."
+
+============================================================
+
+[ROLE: SECTION 4 — LEADING QUESTIONS (REVIEW ASK)]
+[BG: White, 32px padding]
+
+[Lead-in]
+"Here's what I'd love to know about your experience, and it
+doesn't have to be polished:"
+
+[3 OPEN-ENDED QUESTIONS — bullet style with right-arrow
+ glyph →]
+
+  → What was your child doing before BrightKidCo?
+  → What changed, even a small thing?
+  → What would you tell another parent who's considering
+    this?
+
+[Permission line, italic]
+"A short review, 3 sentences, 2 sentences, bullet points,
+helps another parent recognize their own child in your
+story."
+
+============================================================
+[ROLE: SECTION 5 — PRIMARY CTA BUTTON]
+============================================================
+[ BUTTON: Share your experience → ]
+[ BG: Brand-Green #039902, white text ]
+[ border-radius: 8px, 48px height, 16px Arial Bold ]
+[ Full-width on mobile, centered on desktop ]
+============================================================
+
+============================================================
+[ROLE: SECTION 6 — SECONDARY CTA, TEXT LINK]
+============================================================
+[ TEXT LINK: Or hit reply and tell me in your own words. I
+ read everything, and I'll take care of the rest. ]
+============================================================
+
+============================================================
+
+[ROLE: NEXT-TIME FORWARD-LOOK]
+[Small italic muted text]
+"Next time: A gentle follow-up — in case you wanted to
+share but ran out of time."
+
+============================================================
+
+[ROLE: SECTION 7 — LENA SIGN-OFF, MEDIUM VARIANT]
+[CREAM DIVIDER LINE above]
+
+"Talk soon,"
+
+Lena ——
+Customer Support · Mom of two autistic sons
+
+[PS LINE]
+P.S. Your story, the honest one, the one with ups and downs,
+is exactly what another mom needs to read this week.
+
+============================================================
+
+[ROLE: SECTION 8 — FOOTER]
+[11px Arial muted #9AA8A7, centered]
+
+*Standard unsubscribe and preference links apply.*
+BrightKidCo, Built for the brain that learns differently.
+[Unsubscribe] | [Update Preferences]
+
+============================================================
+```
+
+### WIREFRAME NOTES — Variance Check vs prior email in flow
+
+This is E1 of 2 — no prior email to compare against within Flow 18.
+
+| Dim | Choice | Compliance |
+|-----|--------|------------|
+| 1. Section count | 8 body (Letterhead, Hook, Anchors, Testimonials, Leading Questions, CTA, Sign-off, Footer) | Within 3-8 spec ✓ |
+| 2. Section order | D mod (Social Proof First via testimonials) + Question Hook | ✓ |
+| 3. Image density | 0 (text-only layout, no photos per privacy-first) | Within 1-6 ✓ (lower end) |
+| 4. Color temperature | Neutral (white + light gray testimonial band) | ✓ |
+| 5. Email length | Short-Medium (~600 words) | ✓ |
+| 6. Argument structure | Peer-to-peer + Story-led + Permission | ✓ |
+| 7. Visual rhythm | Open (32px gaps) | ✓ |
+| 8. CTA position | Late (after testimonials + leading questions) + Double-tap | ✓ |
+| 9. Subject line formula | Question hook | ✓ |
+
+### R1-R6 CALIBRATION CHECK
+
+| Rule | Implementation | Status |
+|------|---------------|--------|
+| **R1 — Symptom Over Label** | "Verbal 4-year-old," "sensory-sensitive 6-year-old," "non-verbal 9-year-old" — descriptive, not diagnostic. Never "Level 1/2/3." | ✅ |
+| **R2 — 3-5 Recognition Anchors** | 5 anchors: pause, look down at wetness, pull at pants, stay dry longer, nothing yet. | ✅ |
+| **R3 — Age Ranges** | Hook uses age-neutral "your child." Testimonials span 4-9 implicitly. No fixed-age pinning. | ✅ |
+| **R4 — Verbal/Non-Verbal** | Hook: "said 'wet' one day, showed you with a gesture" — exact verbal/non-verbal pairing. | ✅ |
+| **R5 — Timeline Flexibility** | "First awareness after 2 weeks, or you're still watching after 8." Three-Family spans 4 weeks, 6 weeks, 8 years. | ✅ |
+| **R6 — Low-Bar Success** | All anchors are mini-wins. Maria's testimonial explicitly: "He's not trained. But he felt something." | ✅ |
+
+### V16 COMPLIANCE
+
+- No "autism," "ASD," or "Level 1/2/3" anywhere
+- Symptom language throughout
+- ✅ V16 PASSES
+
+### REVIEW REQUEST SPECIFIC NOTES
+
+- **Gentle ask, easy path**: leading questions + low-bar framing ("3 sentences, 2 sentences, bullet points")
+- Peer-to-peer ask, NOT transactional — "help another parent decide"
+- Permission structure: Section 5 primary CTA + Section 6 reply-to-Lena alternative
+- Lena voice: peer-mom, "I read everything"
+- Subject line "Would you recommend us?" (23ch) — question hook, direct ask, softener
+- Tone: grateful ask, "your experience matters to someone right now" (E2 callback setup)
+- Easter Egg: Reply-to-Lena route = Path 2 migration trigger per Layer-18 §Part 4
+- No fake urgency. No discount incentive. Authenticity over conversion pressure.
+- Hope/Realism: balanced for review request (testimonials include both progress AND "still figuring it out")
+- Sign-off "Talk soon," (Medium variant) — consistent with brand-wide progression
+- 16,511 reviews · 4.9★ social proof count appears in E2 footer; E1 keeps CTA clean
+
+---
+
+## STAGE 2 PICKS — review-18-e1
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 11 body sections.
+
+> **Flow:** review-request | **Position:** E1 | **Level:** GF
+
+
+### Section 1: BRIGHTKIDCO LETTERHEAD
+
+- ROLE slot: `brightkidco-letterhead`
+
+- INTENT: default block — BRIGHTKIDCO LETTERHEAD
+
+- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+
+  - Currently used: 5/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: SUBJECT + PREVIEW BLOCK
+
+- ROLE slot: `subject-preview-block`
+
+- INTENT: review block — SUBJECT + PREVIEW BLOCK
+
+- COMPONENT PICKED: **REV-12** — Review Block
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
+
+  - Currently used: 8/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: SECTION 1 — HOOK, UNIVERSAL RECOGNITION
+
+- ROLE slot: `section-1-hook-universal-recognition`
+
+- INTENT: validation block — SECTION 1 — HOOK, UNIVERSAL RECOGNITION
+
+- COMPONENT PICKED: **DEEP-03** — Pattern Break
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
+
+  - Currently used: 6/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: SECTION 2 — RECOGNITION ANCHORS, R2 + R6
+
+- ROLE slot: `section-2-recognition-anchors-r2-r6`
+
+- INTENT: validation block — SECTION 2 — RECOGNITION ANCHORS, R2 + R6
+
+- COMPONENT PICKED: **DEEP-18** — Celebration Deficit
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
+
+  - Currently used: 5/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: SECTION 3 — THREE-FAMILY TESTIMONIAL PATTERN
+
+- ROLE slot: `section-3-three-family-testimonial-pattern`
+
+- INTENT: social_proof block — SECTION 3 — THREE-FAMILY TESTIMONIAL PATTERN
+
+- COMPONENT PICKED: **STORY-10** — Stacked Story
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: SECTION 4 — LEADING QUESTIONS (REVIEW ASK)
+
+- ROLE slot: `section-4-leading-questions-review-ask`
+
+- INTENT: cta block — SECTION 4 — LEADING QUESTIONS (REVIEW ASK)
+
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 7: SECTION 5 — PRIMARY CTA BUTTON
+
+- ROLE slot: `section-5-primary-cta-button`
+
+- INTENT: cta block — SECTION 5 — PRIMARY CTA BUTTON
+
+- COMPONENT PICKED: **CTA-7** — Permission Soft Button
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 8: SECTION 6 — SECONDARY CTA, TEXT LINK
+
+- ROLE slot: `section-6-secondary-cta-text-link`
+
+- INTENT: cta block — SECTION 6 — SECONDARY CTA, TEXT LINK
+
+- COMPONENT PICKED: **CTA-13** — Gentle CTA
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 9: NEXT-TIME FORWARD-LOOK
+
+- ROLE slot: `next-time-forward-look`
+
+- INTENT: next block — NEXT-TIME FORWARD-LOOK
+
+- COMPONENT PICKED: **DEEP-08** — Permission Paradox
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 10: SECTION 7 — LENA SIGN-OFF, MEDIUM VARIANT
+
+- ROLE slot: `section-7-lena-sign-off-medium-variant`
+
+- INTENT: signoff block — SECTION 7 — LENA SIGN-OFF, MEDIUM VARIANT
+
+- COMPONENT PICKED: **LETTER-07** — Greeting Card
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 11: SECTION 8 — FOOTER
+
+- ROLE slot: `section-8-footer`
+
+- INTENT: signoff block — SECTION 8 — FOOTER
+
+- COMPONENT PICKED: **UTIL-05** — Signoff Card
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 11

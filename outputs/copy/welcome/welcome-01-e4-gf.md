@@ -336,3 +336,536 @@ The General Fallback visual treatment must work for **all five sub-groups**, fro
 | **Mobile-first emphasis** | Single column, large tap targets (minimum 48px on CTA), generous padding. | GF skews toward overwhelmed parents (Sub-group D) reading on phone while juggling caregiving. |
 | **Migration visual anchor** | A small, neutral "Is one of these your child?" text link below the guarantee — leading to a level assessment. No arrows pointing at specific testimonials. Soft, optional migration path. | Per 1-full-email-strategy.md §7 — GF migration target: 65-75% lifetime. But the visual must not pressure. Just an open door. |
 
+## WIREFRAME — built 2026-06-28 by subagent-gf-4
+
+```
+=================================================================
+WIREFRAME: welcome-01-e4-gf
+Email ID: welcome-01-e4-gf
+Flow: welcome | Position: E4 | Day: 7 | Level: GF
+=================================================================
+
+SUBJECT: Three kids, three stories, one thing in common
+PREHEADER: Whether your child is 3 or 10, verbal or
+           non-verbal, diagnosed or still figuring it
+           out, these three families all found the
+           same thing.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — THE WRONG-BATTLE REFRAME]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You've been fighting the wrong battle.
+SUBHEADLINE: (none — opens with the L1-style symptom
+             mirror from the copy)
+
+[VISUAL ELEMENT]
+ROLE: hero-lifestyle-candid-gf
+INTENT: a candid lifestyle photo of a child playing
+        comfortably in BrightKidCo underwear (NOT staged
+        perfection), warm home lighting, no bathroom in
+        frame; the visual says "this is what comfort
+        looks like when the method finally fits." THREE-
+        child composite rule applies (varied ages, varied
+        presentations per GF-V1)
+EXAMPLE_PICK: candid lifestyle photo, soft natural light,
+              warm tones, child engaged in play, no
+              clinical props
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — THE "YOU HAVEN'T FAILED" ABSOLUTION]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You haven't failed. The method did.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: callout-quote-highlight-gf (×2 stacked, GF
+        universal absolution voice)
+INTENT: highlights the two absolution quotes from the
+        copy:
+        (1) "I feel like we have tried everything,
+            reward systems, punishments and nothing
+            seems to work."
+        (2) "I feel like a failure because he's still
+            in pull ups."
+        Renders as two stacked quote cards in warm
+        cream/sand, terracotta left-border accents,
+        italic body in 17px, attribution in 13px muted
+        warm gray; both quotes are universal cross-level
+        GF language, no diagnosis terms anywhere
+EXAMPLE_PICK: 2 stacked quote cards, warm sand
+              background, terracotta left-border, italic
+              quote body, no avatar photos (universal
+              voice)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM — INTEROCEPTION + BODY-SIGNAL LAYER]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Here's what all three families have in
+          common.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: stat-callout-stacked-gf (49% SPARK stat in the
+        GF-V2 paraphrase form — body-copy form: "almost
+        half of kids whose nervous systems process
+        signals differently aren't trained by age 5")
+INTENT: the stat is presented as the validation anchor
+        that shifts from "your child is broken" to "your
+        child is on a different timing curve." Full-
+        width band, warm sand background, sage accent
+        rule above and below, citation in 12px muted
+EXAMPLE_PICK: full-width stat band, large 48px bold
+              number, citation "Wiggins et al. 2022"
+              in 12px muted, 6:1 ratio callout below
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: STORY-LED — THREE-FAMILY TESTIMONIAL PATTERN]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three families. Three different kids. One
+          thing in common.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: three-family-testimonial-strip-gf (3 stacked
+        cards — NEVER side-by-side — each with a
+        colored left-border matching the L1/L2/L3 voice
+        family per GF creative strategy)
+INTENT: the Three-Family Pattern from the copy file,
+        rendered as 3 stacked testimonial cards with
+        varying colors but NO level labels:
+        Family 1 (F1 — coral left-border):
+          "My son talks about the potty but won't
+           actually do it… After 3 weeks, he paused
+           mid-accident, looked down, walked to the
+           potty." — Parent of 4-yr-old, mostly verbal,
+           mild sensory differences
+        Family 2 (F2 — teal left-border):
+          "We'd tried everything from the BCBA's
+           protocol to OT sensory work… After 6 weeks,
+           he initiated once. After 4 years of nothing."
+           — Parent of 6-yr-old, mixed verbal, moderate
+           support needs
+        Family 3 (F3 — gold left-border):
+          "He's never shown a sign of feeling wet or
+           dry… After 8 weeks, he paused. He felt
+           something." — Parent of 9-yr-old, non-verbal,
+           high support needs
+        Each card is a 4px vertical bar in the family's
+        color, with avatar circle in soft color wash
+        (no stock photos)
+EXAMPLE_PICK: 3 stacked testimonial cards, colored
+              left-borders (coral / teal / gold), warm
+              white card backgrounds, italic quote in
+              17px, attribution with symptom-only child
+              description (NO level labels)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: PRODUCT + GUARANTEE + LATE CTA]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The 3-layer system.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: product-3-layer-minimal-line-art-gf (reused
+        family from E1/E3, this time in minimal line-
+        art variant for the story-led E4)
+INTENT: introduces the 3-layer product system with the
+        cotton inner + smart absorption + leak-resistant
+        outer detail; minimal line-art style (NOT the
+        full-color product photo from E1/E3); three small
+        icons in a horizontal row — cotton flower, droplet,
+        shield — each paired with a one-line caption;
+        "PFAS-free. BPA-free. Designed alongside OT
+        practitioners who understand sensory processing."
+
+[GUARANTEE BAND]
+TEXT: "60 days to try it. By your judgment."
+INTENT: low-pressure trust signal before the late CTA;
+        "If your child shows any sign of awareness, a
+        pause, a look, a step toward the bathroom, you'll
+        know the signal is working. If nothing changes,
+        full refund. No questions."
+
+[CTA — LATE PLACEMENT]
+BUTTON_TEXT: Start with the 3+3 Bundle — Free Shipping
+BUTTON_INTENT: drives to PDP, primary offer is the 3+3
+              bundle; late CTA captures the reader who
+              scrolled through the full story
+SECONDARY:  text link "Or start with 1 Pair ($34.99) —
+            try alongside your current routine"
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: MIGRATION ANCHOR #2 (L2-STYLE) + LENA SIGN-OFF]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (closing beat — soft migration + peer voice)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: migration-anchor-link-gf (subtle, no button)
+INTENT: the SECOND of three GF Welcome migration
+        anchors per GF-V3 rotation. THIS one is the
+        L2-style symptom profile, different from E2's
+        L1-style. The L2 anchor targets a different
+        sub-segment — kids who can feel the urge but
+        can't hold it / release on demand:
+        "If your child is 7, has the words, but never
+        connects them to the action — read Lisa's story."
+        Renders as a quiet text-link with thin warm
+        underline (NOT a button); opens to the L2
+        story PDF; NO level label visible
+EXAMPLE_PICK: warm-underlined text link in Body Gray,
+              arrow → at end; visually quiet, NOT a
+              CTA button; same ROLE as E2's anchor but
+              different copy profile
+
+[VISUAL ELEMENT — LENA SIGN-OFF]
+ROLE: signoff-lena-medium-gf
+INTENT: Lena MEDIUM variant (E3-E5 macro), the
+        longer peer-voice frame:
+        Closing: "With understanding, Lena —"
+        "Customer Support · Mom of two autistic sons"
+        P.S.: "I have two autistic sons. One's 6, still
+        in the middle of it. The other took us until
+        he was almost 8. If your kid is anywhere on
+        this curve, that's normal here. Reply if
+        anything resonated. I read every one."
+        Renders as Cream-Card (cream card) block,
+        17px body, 14px signature, P.S. line in
+        italic 13px
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+123 Main Street, Suite 100
+San Francisco, CA 94102
+No longer want these emails? Unsubscribe — one click
+Manage Preferences — Update your preferences
+Reply to this email — Lena reads every response
+personally
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero lifestyle photo visible above 400px (mobile)?
+  YES (hero is the first section)
+- Section 1 headline visible above 400px? YES
+- Three-Family testimonial cards visible above fold on
+  mobile? NO (requires scroll, acceptable for E4 — the
+  testimonial pattern is the scroll reward)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 1
+  (hero lifestyle photo only; 3-layer product uses
+   minimal line-art icons, not full images)
+- Image positions: section-1 (hero) only
+- Density category: 1 (text-dominant — matches GF E4
+  macro "1 image per email," the lowest in the GF
+  Welcome arc)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 6
+  - hero-lifestyle-candid-gf (section 1)
+  - callout-quote-highlight-gf (section 2)
+  - stat-callout-stacked-gf (section 3)
+  - three-family-testimonial-strip-gf (section 4)
+  - cta-button-full-width (section 5 — late only)
+  - signoff-lena-medium-gf (signoff block)
+- Density category: 6 (under 8-cap)
+- Migration anchor link (section 6) is the same ROLE
+  family as E2's, no new component needed
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 6 (per GF macro table)
+- Section pattern: B (Story-Led — the three-family
+  testimonial pattern is the spine; everything else
+  scaffolds around the stories)
+- Image density: 1 (hero only; product uses minimal
+  line-art)
+- Color temperature: warm (per GF macro — warm sand,
+  cream, sage, terracotta; E4 is the warmest email in
+  the arc, the absolution-and-trust zone)
+- Email length: medium (~1080 words, story-deep)
+- Argument structure: Story-led + Reframe (the
+  testimonial pattern carries the absolution; the
+  mechanism block carries the reframe; PAS sits
+  underneath as the substrate)
+- Visual rhythm: open (64px section gaps per GF macro)
+- CTA position: late (section 5 only; the story
+  pattern earns the CTA through narrative depth)
+- Subject line type: validation (per GF macro — the SL
+  names the three-family recognition pattern, not a
+  hard-sell data point or mechanism tease)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — no autism/ASD/Level in
+  body copy; the testimonial attributions use symptom
+  language only ("mostly verbal, mild sensory
+  differences" / "mixed verbal, moderate support needs"
+  / "non-verbal, high support needs" — V16-compliant)
+- R2 (3-5 recognition anchors): YES — 3 family profiles
+  span the full GF symptom spectrum; +2 absolution
+  quotes = 5 anchors total
+- R3 (Age 3-10+ inclusive): YES — "3 or 10" in
+  preheader, family testimonials span 4 / 6 / 9 years
+- R4 (Verbal + non-verbal dual): YES — F1 mostly
+  verbal, F2 mixed verbal, F3 non-verbal
+- R5 (Timeline flexible): YES — "weeks not days," "2
+  weeks for some, 8 weeks for others, both normal,"
+  NO calendar
+- R6 (Low-bar success metrics): YES — "first sign of
+  awareness, a pause, a look, a step toward the
+  bathroom" mirrors the L1/L2/L3 success markers
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy (the word
+  appears only in Lena's sign-off sub-line "Mom of two
+  autistic sons" — this is the brand-voice Lena
+  intro and is exempt from V16 per GF macro)
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "nervous systems that process signals differently"
+  is the umbrella phrase
+- The 49% stat is paraphrased as "almost half of kids"
+  in body copy (GF-V2 override on V16)
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E4 carries Migration Anchor #2 of 3
+- Style: L2-style symptom profile
+  ("If your child is 7, has the words, but never
+  connects them to the action — read Lisa's story")
+- Sub-Group D remains a target; E4's anchor also
+  reaches Sub-Group A (Diagnostic Entrants) whose
+  child has age + verbal capacity but can't
+  connect action
+- Different profile from E2 (E2 was L1-style
+  timing-aware; E4 is L2-style verbal-but-no-action)
+- Next anchor lands in E5 (L3-style)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: welcome-01-e3-gf
+- Extracted 9 dimensions from E3 wireframe:
+    1. Section count: 5
+    2. Section pattern: A (Classic modified)
+    3. Image density: 2
+    4. Color temperature: warm
+    5. Email length: medium (~860 words)
+    6. Argument structure: Direct + PAS
+    7. Visual rhythm: open (60px)
+    8. CTA position: double-tap
+    9. Subject line type: permission
+- E4 9 dimensions determined from copy + macro:
+    1. Section count: 6
+    2. Section pattern: B (Story-Led)
+    3. Image density: 1
+    4. Color temperature: warm
+    5. Email length: medium (~1080 words)
+    6. Argument structure: Story-led + Reframe
+    7. Visual rhythm: open (64px)
+    8. CTA position: late (single)
+    9. Subject line type: validation
+- Differences across 9 dimensions:
+    1. Section count: DIFFER (5 → 6; section 6 holds
+       the migration anchor + Lena sign-off)
+    2. Section pattern: DIFFER (A → B; story-led
+       testimonial pattern)
+    3. Image density: DIFFER (2 → 1; lowest in arc,
+       text-dominant)
+    4. Color temperature: SAME (both warm; E4 holds the
+       warmth peak from E3)
+    5. Email length: DIFFER (860 → 1080; longer
+       testimonial content)
+    6. Argument structure: DIFFER (Direct+PAS →
+       Story-led+Reframe; PAS substrate stays but
+       stories are the foreground)
+    7. Visual rhythm: SAME (both open; E4 uses 64px
+       per macro, E3 used 60px — within variance
+       tolerance)
+    8. CTA position: DIFFER (double-tap → late single;
+       story pattern earns the CTA through depth)
+    9. Subject line type: DIFFER (permission →
+       validation; SL names the three-family pattern)
+- Total: 7/9 dimensions differ
+- Threshold: ≥5/9 → PASS
+- Note: The 2 dimensions that match (color temperature,
+  both warm; visual rhythm, both open) are intentionally
+  held because E4 continues E3's trust-zone warmth
+
+=================================================================
+END OF WIREFRAME — welcome-01-e4-gf
+=================================================================
+```
+
+
+## STAGE 2 PICKS — welcome-01-e4-gf
+
+> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E4).
+> Scope: 6 sections (candid hero / absolution callouts / stat
+> stacked / three-family testimonial / product minimal / migration
+> anchor + signoff).
+> GF calibration: R1–R6 strict, V16 symptom language only,
+> 50/50 hope/realism; second migration anchor lands here per
+> GF-V3 rotation (L2-style symptom profile).
+
+### Section 1: HOOK — THE WRONG-BATTLE REFRAME
+- ROLE slot: `hero-lifestyle-candid-gf`
+- INTENT: a candid lifestyle photo of a child playing in real
+  home; soft natural light, warm tones; THREE-child composite
+  rule applies per GF-V1.
+- COMPONENT PICKED: **DEEPIMG-19** — Lifestyle Mosaic
+  - From catalog: position=body_images, image_support=image_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: lifestyle-mosaic structurally supports the 3-child
+    composite feel by composite layout; Stage 3 will use one
+    specific panel as the hero frame.
+- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
+  - Dimensions: 1200×800.
+  - Alt text (V16 spec): "Child with backpack in real home,
+    soft natural light, ambiguous age."
+  - Currently used: 0/25.
+  - WHY: warm-tone ambiguous-age lifestyle photo satisfying
+    GF-V1 sub-group variance rule.
+- VARIANCE CHECK: differs from E3 S1 (3-card triptych vs lifestyle).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 2: VALIDATION — THE "YOU HAVEN'T FAILED" ABSOLUTION
+- ROLE slot: `callout-quote-highlight-gf` (×2 stacked)
+- INTENT: highlights the two absolution quotes ("the method
+  didn't fail; the frame did" — softened per GF Sub-Group B
+  compatibility — never the maternal-blame version).
+- COMPONENT PICKED: **4.5** — Cream Callout
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: cream-dashed callout structurally fits a 2-stacked
+    quote pair; Stage 3 will use cream + terracotta left-border
+    accents per GF Creative Strategy.
+- IMAGE PICKED: none (text-only callout).
+- VARIANCE CHECK: differs from S1 (callout vs hero image).
+- GF CALIBRATION CHECK: ✅ V16 attribution: "the method didn't fail.
+  The frame did." — NOT the maternal-blame version.
+
+### Section 3: MECHANISM — INTEROCEPTION + BODY-SIGNAL LAYER
+- ROLE slot: `stat-callout-stacked-gf` (49% SPARK stat)
+- INTENT: the stat is presented as the validation anchor for
+  mechanism; visual is a full-width stat band.
+- COMPONENT PICKED: **21.1** — Large Number Callout
+  - From catalog: position=guarantee_trust, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: large-number callout is structurally the cleanest 48px+
+    stat anchor container; Stage 3 will paint with Brand-Green
+    accent on cream background.
+  - V16 NOTE: stat must use GF paraphrase form ("almost 1 in 2
+    children whose nervous systems process signals differently")
+    — never the L1 "49% of autistic 4-5 year olds" string.
+- IMAGE PICKED: none (text-only stat band).
+- VARIANCE CHECK: differs from S2 (large-number vs callout).
+- GF CALIBRATION CHECK: ✅ V16 paraphrase.
+
+### Section 4: STORY-LED — THREE-FAMILY TESTIMONIAL PATTERN
+- ROLE slot: `three-family-testimonial-strip-gf` (3 stacked)
+- INTENT: the Three-Family Pattern — covers full symptom spectrum
+  without naming levels.
+- COMPONENT PICKED: **OBJ-15.2** — Three Guarantees Stack
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: structurally a 3-card stack with body + attribution; can
+    hold the Three-Family Pattern quotes with attribution rewritten
+    to symptom-only ("Mom of a 7-year-old" — not "Level 2 mom").
+    Stage 3 will paint with varied warm-tone left-border accents.
+  - V16 NOTE: rewrite attribution to symptom-described only.
+- IMAGE PICKED: none (text-only 3-card stack).
+- VARIANCE CHECK: differs from S3 (3-card narrative vs stat band).
+  Also differs from E3 S1 (different component = "Three Pillars"
+  vs "Three Guarantees Stack" — both visually distinct cards).
+- GF CALIBRATION CHECK: ✅ symptom-described attribution.
+
+### Section 5: PRODUCT + GUARANTEE + LATE CTA
+- ROLE slot: `product-3-layer-minimal-line-art-gf`
+- INTENT: introduces the 3-layer product system with the 60-day
+  guarantee before the late CTA. Button: "Start with the 3+3
+  Bundle — Free Shipping."
+- COMPONENT PICKED: **PDISP-3** — 3-Layer System Diagram
+  - From catalog: position=product_showcase, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: 3-layer system diagram is the cleanest structural fit for
+    wireframe's "minimal line-art" framing; Stage 3 will paint with
+    cream + warm-cream alternating row shading.
+- IMAGE PICKED: **resized/toddler-playing.jpg**
+  - Dimensions: small resized version.
+  - Alt text (V16 spec): "Toddler at play, soft natural light,
+    ambiguous age, real home."
+  - Currently used: 0/25.
+  - WHY: supports warm-product-tied lifestyle photo alongside
+    minimal line-art system diagram.
+- VARIANCE CHECK: differs from S4 (diagram + image vs card stack).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 6: MIGRATION ANCHOR #2 (L2-STYLE) + LENA SIGN-OFF
+- ROLE slot: `migration-anchor-link-gf` (subtle) + signoff
+- INTENT: the SECOND migration anchor per GF-V3 rotation —
+  L2-style symptom profile ("pees the second her pull-up comes
+  off"), rendered as a warm-underlined text link; followed by Lena
+  MEDIUM sign-off.
+- COMPONENT PICKED: **CTA-2** — Soft Link (this slot) +
+  **12.1** — Lena Signoff (uses Signoff) (signoff slot)
+  - Both currently used: 0/8 each (note: 12.1 used once already in
+    E2 — at 1/8, CTA-2 at 1/8 from E2. Within-email variance:
+    migration anchor and signoff are distinct slots — no
+    adjacent-section collision).
+  - V16 NOTE: anchor text symptom-only — "If your child is 7, has
+    the words, but never connects them to the action — read Lisa's
+    story." Lisa is the L2-profile name (migration profile), NOT
+    a level label.
+- IMAGE PICKED: none.
+- VARIANCE CHECK: differs from S5 (text link vs diagram + image);
+  signoff differs from link.
+- GF CALIBRATION CHECK: ✅ symptom profile anchor.
+
+### Footer (static — already extracted, no work needed)
+- Header: extracted Giuliano.
+- Footer: extracted Giuliano.
+- Sign-off: covered by Section 6 (12.1 — used already in E2;
+  counted here as 2/8 in the tracker).
+
+### Tracker updates applied
+- component-usage.json: DEEPIMG-19 +1, 4.5 +1, 21.1 +1, OBJ-15.2 +1,
+  PDISP-3 +1, CTA-2 +1 (now 2/8), 12.1 +1 (now 2/8).
+- image-usage.json: lifestyle/toddler-backpack-moon-cloud-blue.png +1,
+  resized/toddler-playing.jpg +1 (each now 1/25).

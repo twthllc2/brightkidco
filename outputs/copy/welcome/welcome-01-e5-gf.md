@@ -207,7 +207,7 @@ The visual metaphor: a parent standing at a closed door labeled "Everything I've
 │ ┌─────────────────────────────────────────────┐ │
 │ │ SECTION 1: HOOK + OBJECTION NAMING │ │
 │ │ Left-aligned body text │ │
-│ │ Cream #FBF7EB card background │ │
+│ │ Cream cream card card background │ │
 │ │ 3 objection sub-sections with "," dash │ │
 │ └─────────────────────────────────────────────┘ │
 │ │
@@ -215,7 +215,7 @@ The visual metaphor: a parent standing at a closed door labeled "Everything I've
 │ │
 │ ┌─────────────────────────────────────────────┐ │
 │ │ SECTION 2: REFRAME │ │
-│ │ Mint #DBFFCD highlight box │ │
+│ │ Mint mint highlight box │ │
 │ │ "You weren't fighting the wrong battle..." │ │
 │ │ Bold key phrase: "wrong tools" │ │
 │ └─────────────────────────────────────────────┘ │
@@ -236,7 +236,7 @@ The visual metaphor: a parent standing at a closed door labeled "Everything I've
 │ │ SECTION 4: SOCIAL PROOF │ │
 │ │ 2 quote cards side by side (desktop) │ │
 │ │ Stacked (mobile) │ │
-│ │ Cream #FBF7EB card bg, yellow #F5C84B stars │ │
+│ │ Cream card bg, yellow stars │ │
 │ │ "16,511 reviews · 4.9★" stat bar │ │
 │ └─────────────────────────────────────────────┘ │
 │ │
@@ -263,7 +263,7 @@ The visual metaphor: a parent standing at a closed door labeled "Everything I've
 │ │
 │ ┌─────────────────────────────────────────────┐ │
 │ │ LENA SIGN-OFF (MEDIUM) │ │
-│ │ Dark #1A1A1A text on Cream #FBF7EB bg │ │
+│ │ Dark #1A1A1A text on Cream cream card bg │ │
 │ │ Left-aligned, with "Lena," signature │ │
 │ └─────────────────────────────────────────────┘ │
 │ │
@@ -308,7 +308,7 @@ Instead of a standard bullet list of objections, build a progressive reveal wher
 └─────────────────────────────────────────────┘
 ```
 
-**Design execution:** Each objection header is Bold #1A1A1A on Cream #FBF7EB card. The reframe text appears indented below in Body Gray #4A4A4A with a left green #039902 border line (2px). The ", Why this different,>" acts as a visual arrow with Brand Green #039902 text that guides the eye downward through all three objections.
+**Design execution:** Each objection header is Bold #1A1A1A on Cream cream card card. The reframe text appears indented below in Body Gray #4A4A4A with a left green #039902 border line (2px). The ", Why this different,>" acts as a visual arrow with Brand Green #039902 text that guides the eye downward through all three objections.
 
 **Role in the email:** This contraption does theavy lifting of objection handling. Rather than feeling like a Q&A section, it feels like Lena is sitting across from the parent, naming their exact fears, and answering each one without evasion.
 
@@ -318,15 +318,15 @@ Instead of a standard bullet list of objections, build a progressive reveal wher
 
 **Base:** Off-white #FAF9F7 for overall email background, warm, sensory-friendly, non-clinical.
 
-**Section cards:** Cream #FBF7EB for the hook/objection section and social proof section, creates a warm, conversational feel.
+**Section cards:** Cream cream card for the hook/objection section and social proof section, creates a warm, conversational feel.
 
-**Highlight box (Reframe):** Mint #DBFFCD, science-adjacent, signals "this the key insight." The reframe paragraph sits in Mint to visually mark it as the turning point of the email.
+**Highlight box (Reframe):** Mint mint, science-adjacent, signals "this the key insight." The reframe paragraph sits in Mint to visually mark it as the turning point of the email.
 
 **Mechanism section:** White background, clean, educational, lets the numbered sequence breathe.
 
 **CTA button:** Brand Green #039902, optimistic but grounded. Full-width on mobile for maximum tap target.
 
-**Social proof:** Yellow #F5C84B stars next to testimonial quotes, sparingly used, signals credibility without overwhelming.
+**Social proof:** Yellow yellow stars next to testimonial quotes, sparingly used, signals credibility without overwhelming.
 
 **GF color calibration:** Balanced. Not as vibrant as L1, not as restrained as L3. Green is present but not dominant. Mint and Cream share equal weight. Yellow used lightly. Overall feel: warm, trustworthy, inclusive.
 
@@ -375,7 +375,7 @@ Instead of a standard bullet list of objections, build a progressive reveal wher
 | **Section divider** | Thin horizontal line, 1px, Soft Gray #9AA8A7 at 30% opacity | Between major sections (48px spacing) |
 | **Left border accent** | 2px solid Brand Green #039902 on left side of highlight boxes | Reframe section, Mechanism steps |
 | **Quote cards** | Subtle shadow (0 2px 8px rgba(0,0,0,0.06)), rounded 12px | Testimonial section, side-by-side on desktop, stacked on mobile |
-| **Star ratings** | ★ ★ ★ ★ ★ in Yellow #F5C84B, 14px | Above each testimonial quote |
+| **Star ratings** | ★ ★ ★ ★ ★ in Yellow yellow, 14px | Above each testimonial quote |
 | **Trust signal bar** | Three dots (·) as separators between "Free shipping · 60-day guarantee · Secure checkout" | Directly below the CTA button |
 | **Numbered step badges** | Circle, 32×32px, Brand Green #039902 fill with white number | Mechanism section, 1, 2, 3, 4 |
 | **"," dash** | Used instead of bullet points for all list-like content | Objection section, reframe section |
@@ -464,7 +464,7 @@ The GF strategy for E5 is to cover all three objections in a single flow that ad
 - **Spacing:** Generous white space between sections (48px+). GF includes skeptical readers who scan before committing to read, breathing room signals trust and patience. E5 has more white space than E3-E4 because objection handling needs emotional room to land.
 - **Reading time:** 3-4 minutes. Long enough to fully reframe three objections. No fluff, every paragraph earns its place via the "So What?" test
 - **Mobile priority:** 60%+ of GF readers are on mobile. All design decisions optimized for 375px viewport first. Single-column layout, touch-target minimum 44px, text never smaller than 16px
-- **Sensory-safe palette:** No high-contrast flashing, no bright neons, no busy patterns. The #FAF9F7 base background with #FBF7EB cream cards creates a calm visual environment suitable for neurodivergent readers who may process emails alongside their child
+- **Sensory-safe palette:** No high-contrast flashing, no bright neons, no busy patterns. The #FAF9F7 base background with cream cards creates a calm visual environment suitable for neurodivergent readers who may process emails alongside their child
 - **Objection naming as design:** The three objection headers are deliberately set slightly larger (20px) than body text to create scannable waypoints, a skeptical GF parent can skim the three objections and decide to read the one that resonates most before committing to the full email
 
 ### GF Migration Anchors
@@ -475,3 +475,603 @@ This email includes subtle migration hooks that give GF subscribers a path to le
 2. **Cross-level catch-all phrasing**, "Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still wondering" naturally invites self-identification. A parent who recognizes their child as "verbal, 4 years old" may be more receptive to Level 1 content later.
 3. **No migration CTA in E5**, Migration happens in Welcome E2-E4, not in objection-handling. E5's job is to clear barriers, not to sort. Adding a migration ask here would break trust.
 4. **Indirect authority building**, Citing Nicholson (2019) and Mahler (2020) without academic overload positions BrightKidCo as credible without alienating the anti-expert GF sub-groups.
+
+## WIREFRAME — built 2026-06-28 by subagent-gf-5
+
+```
+=================================================================
+WIREFRAME: welcome-01-e5-gf
+Email ID: welcome-01-e5-gf
+Flow: welcome | Position: E5 | Day: 10 | Level: GF
+=================================================================
+
+SUBJECT: If this is another letdown, here's the difference
+PREHEADER: You've tried. It didn't work. That's not
+           failure — that's a signal your methods were
+           aimed at the wrong target.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — THE SKEPTIC'S MOMENT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: If this is another letdown, here's the
+          difference.
+SUBHEADLINE: (none — opens with the permission frame)
+
+[VISUAL ELEMENT]
+ROLE: hero-typography-only-gf
+INTENT: NO lifestyle photo in E5's hero; instead, a
+        typography-driven opening that respects the
+        reader's accumulated disappointment. Headline
+        in serif, large 28px desktop, warm sand
+        background; signal-dot accent under the
+        headline (single warm-gold dot, 12px); creates
+        visual quietness to honor the skeptical tone
+EXAMPLE_PICK: typography hero, warm sand background,
+              serif headline, single signal-dot accent,
+              no lifestyle photo (intentional — the
+              skeptical E5 frame does not want stock
+              warmth)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: OBJECTION NAMING — THREE DOORS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Let me name the three questions sitting in
+          the back of your mind.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: three-objection-doors-reveal-gf (3 stacked
+        expandable objection cards — NEVER side-by-
+        side)
+INTENT: the three-door contraption from E5's creative
+        strategy, presented as 3 vertically-stacked
+        objection cards with progressive-reveal arrows:
+        (1) "I've tried everything. Why would this
+            be different?" — Reframe: methods assumed
+            a signal that wasn't there
+        (2) "What if I get my hopes up again?" —
+            Lena's personal story: both sons, almost-8
+            older one
+        (3) "Is my child too old, or too severely
+            affected, for this to work?" — Catch-all:
+            "Whether your child is 3 or 10, verbal or
+            non-verbal, diagnosed or still wondering"
+        Each card: Cream-Card (cream card) background,
+        Bold objection header in Dark Text, Body Gray
+        reframe below with 2px Brand-Green left-border
+        accent, "Why this is different →" arrow in
+        Brand-Green
+EXAMPLE_PICK: 3 stacked objection cards, cream
+              background, bold objection header,
+              reframe text with green left-border,
+              progressive arrow →; on mobile the
+              reframe text expands inline; on desktop
+              all 3 cards stack vertically (never
+              side-by-side)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: REFRAME — THE WRONG-TOOLS MOMENT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You weren't fighting the wrong battle.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: mint-highlight-box-gf (Mint mint background)
+INTENT: the central reframe paragraph sits in a Mint
+        background block to visually mark it as the
+        turning point of E5:
+        "The reason nothing worked isn't that you
+        didn't try hard enough. It's that every method
+        assumed the signal exists. Pull-ups keep kids
+        completely dry, which means the one feedback
+        the brain needs never arrives. Sticker charts
+        depend on body awareness many children don't
+        yet possess. You weren't fighting the wrong
+        battle — you were fighting the right battle
+        with the wrong tools."
+        Bold key phrase: "wrong tools"
+EXAMPLE_PICK: mint highlight box, full-width, 24px
+              padding, bold "wrong tools" callout,
+              Body Gray paragraph, no iconography
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: MECHANISM — BSL DEEP DIVE WITH NUMBERED SEQUENCE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Here's how it actually works.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: brain-signal-flow-diagram-gf (numbered 1-2-3-4
+        sequence with arrows)
+INTENT: presents the Body-Signal Learning mechanism
+        as a 4-step numbered sequence, NOT a 3-layer
+        product diagram (E5's creative strategy:
+        "the brain-signal flow rather than the 3-layer
+        product diagram"):
+        Step 1: Child pees
+        Step 2: Feels a gentle, sustained "uh-oh"
+        Step 3: Brain registers: something happened
+        Step 4: Over time, the brain learns to
+                 recognize the signal BEFORE the event
+        Each step is a numbered circle (32x32px,
+        Brand-Green fill, white number) with a
+        short caption below; arrows between steps in
+        Brand-Green; clean white background, no
+        decorative furniture beyond the arrows
+EXAMPLE_PICK: numbered 1-2-3-4 sequence, Brand-Green
+              numbered circles, white background,
+              green arrows between steps, no 3-layer
+              product cross-section (different from
+              E1/E3/E4)
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: SOCIAL PROOF — TWO QUOTES + STAT BAR]
+─────────────────────────────────────────────────────────────────
+HEADLINE: What this looks like in real life.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: two-quote-cards-stacked-gf (2 stacked quote
+        cards — NEVER side-by-side — plus a stat bar
+        beneath)
+INTENT: 2 stacked testimonial cards in Cream-Card
+        background, with Yellow yellow 5-star ratings
+        above each quote:
+        (1) "After 3 years of nothing, not even a
+            pause, he looked down at the wet spot.
+            First time. It was two seconds. But it
+            was something."
+        (2) "I was skeptical. Another product. Another
+            promise. But after 2 weeks, he walked to
+            the bathroom. Not consistently. But he DID
+            it. That never happened before."
+        Below the two quotes: a single thin stat bar
+        "16,511 reviews · 4.9★" in 12px muted gray
+EXAMPLE_PICK: 2 stacked quote cards, cream background,
+              yellow star ratings, no avatar photos,
+              stat bar below in muted gray
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: PRODUCT + GUARANTEE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The 3+3 Bundle.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: product-3-layer-minimal-gf (minimal line-art
+        variant, NOT the full product photo)
+INTENT: introduces the 3+3 bundle with the 3-layer
+        cotton inner + smart absorption + leak-resistant
+        outer detail; minimal line-art icons in a
+        horizontal row; "enough pairs to rotate through
+        laundry cycles while your child's brain builds
+        the connection." Guarantee framed as
+        underlined callout box: "60 days to try it.
+        Your judgment. If your child shows no sign of
+        body awareness, no pause, no look, no step
+        toward the bathroom, full refund. No questions."
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: LATE CTA]
+─────────────────────────────────────────────────────────────────
+HEADLINE: See if the 3+3 Bundle closes the gap.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+none
+
+[CTA — LATE PLACEMENT]
+BUTTON_TEXT: Try the 3+3 Bundle — $79.99
+BUTTON_INTENT: drives to PDP, primary offer; late
+              CTA captures the reader who made it
+              through the full objection-then-mechanism
+              arc
+SECONDARY:  text link "Or start with 1 pair ($34.99)
+            to see if it works for your child"
+
+[TRUST SIGNAL ROW]
+TEXT: "✓ Free shipping · ✓ 60-day guarantee ·
+      ✓ Secure checkout"
+INTENT: standard trust-signal row below CTA,
+        low-key non-urgency framing
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: MIGRATION ANCHOR #3 (L3-STYLE) + LENA SIGN-OFF]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (closing beat)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: migration-anchor-link-gf (subtle, no button)
+INTENT: the THIRD of three GF Welcome migration
+        anchors per GF-V3 rotation. THIS one is the
+        L3-style symptom profile, different from E2's
+        L1-style and E4's L2-style. The L3 anchor
+        targets kids who've never shown awareness:
+        "If your child is 9, never shown a sign of
+        feeling wet or dry, and you've made peace with
+        maybe never — read Maria's story."
+        Renders as a quiet text-link with thin warm
+        underline (NOT a button); opens to the L3
+        story PDF; NO level label visible
+EXAMPLE_PICK: warm-underlined text link in Body Gray,
+              arrow → at end; visually quiet, NOT a
+              CTA button; same ROLE family as E2/E4
+              but different copy profile (L3-style
+              "never-shown-signs")
+
+[VISUAL ELEMENT — LENA SIGN-OFF]
+ROLE: signoff-lena-medium-gf
+INTENT: Lena MEDIUM variant (E3-E5 macro), the
+        closing peer-voice frame:
+        Closing: "Lena,"
+        "Customer Support · Mom of two"
+        "Built for the brain that learns differently."
+        (footer tagline)
+        Renders as Cream-Card (cream card) block, 17px
+        body, 14px signature
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+123 Commerce Street, Suite 200
+Nashville, TN 37201
+No longer want these emails? Unsubscribe or Manage
+Preferences
+Questions? Reply to this email — Lena reads every
+response.
+Built for the brain that learns differently.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Typography hero visible above 400px (mobile)? YES
+  (typography opens the email, no image load delay)
+- Three-objection doors visible above fold on mobile?
+  PARTIAL (only the first objection lands above fold)
+- Late CTA visible above fold on mobile? NO (requires
+  scroll, acceptable for E5 — the CTA earns its
+  position through full-arc completion)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 3
+  (hero typography-only + 4-step mechanism diagram +
+   3-layer minimal line-art)
+- Note: NO lifestyle hero photo in E5 (intentional —
+  the skeptical frame honors accumulated disappointment)
+- Image positions: section-1 (hero) + section-4 (mechanism)
+  + section-6 (product)
+- Density category: 3 (mid-high — matches GF E5 macro
+  "3 images per email")
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 8
+  - hero-typography-only-gf (section 1)
+  - three-objection-doors-reveal-gf (section 2)
+  - mint-highlight-box-gf (section 3)
+  - brain-signal-flow-diagram-gf (section 4 — different
+    from product 3-layer diagram)
+  - two-quote-cards-stacked-gf (section 5)
+  - product-3-layer-minimal-gf (section 6)
+  - cta-button-full-width (section 7 — late only)
+  - signoff-lena-medium-gf (signoff block)
+- Density category: 8 (at the 8-cap; E5 is the
+  component-richest email in the GF Welcome arc)
+- Migration anchor link (section 8) is the same ROLE
+  family as E2/E4, no new component needed
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 8 (per GF macro table — the highest
+  count in the GF Welcome arc; mechanism-centered
+  education-first layout)
+- Section pattern: F (Education-First — mechanism,
+  reframe, and objection-handling sit before the
+  product, not after)
+- Image density: 3 (hero typography + mechanism diagram
+  + product line-art; no lifestyle hero)
+- Color temperature: cool (per GF macro — the
+  mechanism block uses Brand-Green + Mint as the
+  "science/trust" colors; the cream + sand base
+  holds warmth but the visual zone is cool)
+- Email length: long (~960 words, education-first
+  with 3 named objections each carrying a reframe)
+- Argument structure: Data-led + Story fragment
+  (the 49% stat sits in the reframe block; the two
+  testimonial quotes carry the social proof;
+  objection-reframe structure dominates)
+- Visual rhythm: tight/open (tight objection cards,
+  open mechanism + social proof sections; mixed
+  density to match the rhythm of doubt-then-
+  understanding)
+- CTA position: late (section 7 only; the objection-
+  handling arc earns the CTA through completion)
+- Subject line type: mechanism tease (per GF macro —
+  the SL names the "letdown" framing, the body
+  reveals the mechanism difference; permission-
+  framed)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — no autism/ASD/Level
+  in body copy; "autistic children" appears once in
+  the mechanism section (Nicholson citation), but
+  the rest of the copy uses symptom-first language
+- R2 (3-5 recognition anchors): YES — 3 named
+  objections cover different reader profiles; +2
+  testimonial quotes = 5 anchors total
+- R3 (Age 3-10+ inclusive): YES — "3 or 10" in the
+  third objection catch-all
+- R4 (Verbal + non-verbal dual): YES — "verbal or
+  non-verbal" in the third objection catch-all;
+  testimonial quotes imply both modes
+- R5 (Timeline flexible): YES — no calendar; the
+  "30-60 seconds of feedback every time" framing
+  is event-driven, not date-driven
+- R6 (Low-bar success metrics): YES — "no pause,
+  no look, no step toward the bathroom" mirrors
+  the L1/L2/L3 success markers
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "nervous systems that process signals differently"
+  is the umbrella phrase (objection 3 catch-all)
+- The 49% stat is paraphrased via the Nicholson
+  citation ("many children with sensory differences
+  have diminished body awareness") — V16-compliant
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E5 carries Migration Anchor #3 of 3
+- Style: L3-style symptom profile
+  ("If your child is 9, never shown a sign of
+  feeling wet or dry, and you've made peace with
+  maybe never — read Maria's story")
+- Sub-Group C (Sensory-Difference) and Sub-Group D
+  (Overwhelmed Non-Selectors with older kids) are
+  the loudest targets for this anchor
+- Different profile from E2 (L1-style timing-aware)
+  and E4 (L2-style verbal-but-no-action)
+- All three Welcome-stage migration anchors are now
+  planted (E2 + E4 + E5); PP-Level Detection at
+  D14 carries the next migration touchpoint
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: welcome-01-e4-gf
+- Extracted 9 dimensions from E4 wireframe:
+    1. Section count: 6
+    2. Section pattern: B (Story-Led)
+    3. Image density: 1
+    4. Color temperature: warm
+    5. Email length: medium (~1080 words)
+    6. Argument structure: Story-led + Reframe
+    7. Visual rhythm: open (64px)
+    8. CTA position: late (single)
+    9. Subject line type: validation
+- E5 9 dimensions determined from copy + macro:
+    1. Section count: 8
+    2. Section pattern: F (Education-First)
+    3. Image density: 3
+    4. Color temperature: cool
+    5. Email length: long (~960 words)
+    6. Argument structure: Data-led + Story fragment
+    7. Visual rhythm: tight/open
+    8. CTA position: late (single)
+    9. Subject line type: mechanism tease
+- Differences across 9 dimensions:
+    1. Section count: DIFFER (6 → 8; highest in arc,
+       objection-handling + mechanism depth)
+    2. Section pattern: DIFFER (B → F; education-first
+       shift to mechanism)
+    3. Image density: DIFFER (1 → 3; mechanism diagram
+       + product line-art + typography hero)
+    4. Color temperature: DIFFER (warm → cool;
+       mechanism-zone shift)
+    5. Email length: DIFFER (medium → long; objections
+       + mechanism need space)
+    6. Argument structure: DIFFER (Story-led+Reframe →
+       Data-led+Story-frag; mechanism-anchored)
+    7. Visual rhythm: DIFFER (open → tight/open; mixed
+       density for objection cards + mechanism)
+    8. CTA position: SAME (both late; both
+       objection/curiosity arcs earn the CTA through
+       depth)
+    9. Subject line type: DIFFER (validation →
+       mechanism tease; SL names the "letdown"
+       framing)
+- Total: 8/9 dimensions differ
+- Threshold: ≥5/9 → PASS
+
+=================================================================
+END OF WIREFRAME — welcome-01-e5-gf
+=================================================================
+```
+
+## STAGE 2 PICKS — welcome-01-e5-gf
+
+> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E5).
+> Scope: 8 sections (typography hero / 3 doors / mint box /
+> brain-signal flow / 2 quotes / product minimal / late CTA /
+> signoff MEDIUM).
+> GF calibration: R1–R6 strict, V16 symptom language only,
+> 50/50 hope/realism; THIRD migration anchor lands here per
+> GF-V3 rotation (L3-style symptom profile); interoception deep dive.
+
+### Section 1: HOOK — THE SKEPTIC'S MOMENT (typography only)
+- ROLE slot: `hero-typography-only-gf`
+- INTENT: NO lifestyle photo; a typography-only hero on warm sand
+  background that opens with the permission frame.
+- COMPONENT PICKED: **1.2** — Typography
+  - From catalog: position=body_mechanism, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: typography component is the cleanest text-only hero;
+    Stage 3 will paint with warm-sand background + Fraunces
+    serif headline.
+- IMAGE PICKED: none (text-only).
+- VARIANCE CHECK: differs from E4 S1 (typography vs lifestyle).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 2: OBJECTION NAMING — THREE DOORS
+- ROLE slot: `three-objection-doors-reveal-gf` (3 stacked cards)
+- INTENT: the three-door contraption — three skepticism doors
+  stacked with cream backgrounds; each opens to a reframe.
+- COMPONENT PICKED: **REV-01** — After Objection Reversal
+  - From catalog: position=body_mechanism, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: objection-reversal shape is structurally a 3-card stack
+    with disclosure badges; Stage 3 will paint with cream cards
+    and warm-terracotta left-border accents to fit the wireframe's
+    "three-door contraption" framing.
+- IMAGE PICKED: none (text-only 3-card).
+- VARIANCE CHECK: differs from S1 (3-card vs typography).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 3: REFRAME — THE WRONG-TOOLS MOMENT
+- ROLE slot: `mint-highlight-box-gf` (Mint #DBFFCD background)
+- INTENT: the central reframe paragraph sits in a Mint highlight box.
+- COMPONENT PICKED: **4.4** — Insight / Mint Block
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: insight/mint-block is structurally a full-width mint
+    background highlight box; Stage 3 paints with #DBFFCD per GF
+    brand spec.
+- IMAGE PICKED: none (text-only highlight box).
+- VARIANCE CHECK: differs from S2 (highlight box vs 3-card stack).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 4: MECHANISM — BSL DEEP DIVE WITH NUMBERED SEQUENCE
+- ROLE slot: `brain-signal-flow-diagram-gf` (numbered 1-2-3-4)
+- INTENT: presents the Body-Signal Learning mechanism as a
+  numbered 1-2-3-4 sequence with Brain-Body layering.
+- COMPONENT PICKED: **7.2** — Numbered Method Card
+  - From catalog: position=body_mechanism, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: numbered-method-card structurally is a 1-2-3-4 sequence
+    container; Stage 3 will paint with Brand-Green accents and
+    cream background.
+- IMAGE PICKED: none (text + numbered sequence).
+- VARIANCE CHECK: differs from S3 (numbered sequence vs highlight).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 5: SOCIAL PROOF — TWO QUOTES + STAT BAR
+- ROLE slot: `two-quote-cards-stacked-gf` (2 stacked quote cards)
+- INTENT: 2 stacked testimonial cards in Cream-Card background.
+- COMPONENT PICKED: **STORY-14** — Micro-Story (Single powerful moment)
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8 (one observed-
+    externally tag in tracker — counted here as real first use).
+  - WHY: micro-story fits "single powerful moment" card; Stage 3
+    will paint with cream cards and warm-amber accents.
+- IMAGE PICKED: none (text-only 2-card stack).
+- VARIANCE CHECK: differs from S4 (micro-story vs numbered seq).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 6: PRODUCT + GUARANTEE
+- ROLE slot: `product-3-layer-minimal-gf` (minimal line-art)
+- INTENT: introduces the 3+3 bundle with 3-layer minimal system.
+- COMPONENT PICKED: **PDISP-2** — Product Info Card
+  - From catalog: position=product_showcase, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: product-info-card structurally fits the "minimal line-art"
+    framing with light product info layout; Stage 3 will paint with
+    cream background.
+- IMAGE PICKED: **accessories/book-potty-training-guide.png**
+  - Dimensions: 1200×800.
+  - Alt text (V16 spec): "Potty-training guide book on neutral
+    background, used as product-adjacent mechanism illustration."
+  - Currently used: 0/25.
+  - WHY: mechanism-adjacent product support asset (the book is
+    brand-blessed guide content) — reinforces mechanism without
+    shapeless child imagery.
+- VARIANCE CHECK: differs from S5 (product + image vs quotes).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 7: LATE CTA (text-link + intro migration anchor)
+- ROLE slot: late CTA + THIRD MIGRATION ANCHOR (L3-style per GF-V3)
+- INTENT: button "Try the 3+3 Bundle — $79.99" + the third migration
+  anchor with L3-style symptom profile ("doesn't seem to notice when
+  he's wet"), rendered as a warm-underlined text link after the CTA.
+- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA (this slot)
+  - From catalog: position=cta, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: text-link CTA is the lowest-aggression container for the
+    post-CTA migration anchor; Stage 3 will paint the main button
+    with Brand-Green #039902 at 80% saturation for primary CTA;
+    the migration anchor is the warm-underlined text link.
+  - V16 NOTE: anchor text symptom-only — "If your child is 9, has
+    the words, but doesn't connect them to the action — read Mary's
+    story." Mary is the L3-profile name (migration profile), NOT
+    a level label.
+- IMAGE PICKED: none.
+- VARIANCE CHECK: differs from S6 (CTA + link vs product).
+- GF CALIBRATION CHECK: ✅ symptom profile anchor.
+
+### Section 8: LENA SIGN-OFF (MEDIUM — E5 Variant)
+- ROLE slot: `signoff-lena-medium-gf` (re-used from E3 to keep
+  MEDIUM macro consistency at E3-E5).
+- INTENT: Lena MEDIUM variant; "With understanding," close.
+- COMPONENT PICKED: **EMODEEP-18** — The Letter From Lena (uses Letter)
+  - From catalog: position=emotional_support, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 1/8 (from E3).
+  - WHY: letter-from-Lena is the editorial MEDIUM signoff; reuse
+    matches the brand-wide E3-E5 macro for letter variant.
+- IMAGE PICKED: none.
+- VARIANCE CHECK: differs from S7 (letter vs CTA).
+- GF CALIBRATION CHECK: ✅ Lena peer voice universal.
+
+### Footer (static — already extracted, no work needed)
+- Header: extracted Giuliano.
+- Footer: extracted Giuliano.
+- Sign-off: covered by Section 8 (EMODEEP-18 — already used in E3).
+
+### Tracker updates applied
+- component-usage.json: 1.2 +1, REV-01 +1, 4.4 +1, 7.2 +1,
+  STORY-14 +1, PDISP-2 +1, CTAMAX-03 +1, EMODEEP-18 +1
+  (now 2/8 since also used in E3).
+- image-usage.json: accessories/book-potty-training-guide.png +1
+  (now 1/25).

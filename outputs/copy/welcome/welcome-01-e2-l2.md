@@ -394,3 +394,339 @@ L2 is the most skeptical segment (40/60 hope/realism, 7-21 day decision cycle). 
 - [x] Creative decisions traceable to design reference or source files
 - [x] Level calibration correct for L2, all 6 elements present, more science-visual elements
 - [x] No placeholder, stub, or "to be determined" in either half
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l2-2
+
+> **Source sections (from Part 1 copy):** Hook → Failed Methods Recognition → Validation → Mechanism Deep → Social Proof → Product Intro → Guarantee → CTA → Sign-off (SHORT)
+> **Variance baseline:** L2 E1 (10 sections, mechanism-tease, SHORT sign-off, observation hook subject, muted-green CTA)
+> **L2 deltas vs E1:** CRITICAL email — first full 6-element formula + first L2 unlock sentence; failed-methods recognition explicitly names BCBA protocol + named sensory frame; "Interoception" framed as EIGHTH sensory system; L2 unlock sentence delivered; Wiggins 49% + Mahler + Nicholson callout stack; intro to 3-layer mechanism; Mahler's "interoception researcher" phrasing (NOT "our partner"); Lena introduces "two sons" framing. Body-signal mechanism gets a dedicated explainer diagram.
+
+### Variance Check vs L2-E1 (target ≥ 5/9 dimensions different)
+
+| # | Dimension | L2-E1 (previous) | L2-E2 (this wireframe) | Diff? |
+|---|-----------|------------------|------------------------|-------|
+| 1 | Section count + names | 10 (Hook→Validation→Mechanism→Social Proof→Product Teaser→Timeline→Guarantee→CTA→Permission→Sign-off) | 9 (Hook→Failed Methods→Validation→Mechanism Deep→Social Proof→Product Intro→Guarantee→CTA→Sign-off) — failed-methods block replaces generic validation + drops explicit permission paragraph (implicit in sign-off) | ✅ |
+| 2 | Section pattern (A–H) | D (Hero text-only + soft arc) | **C — Problem-Solution (Education-First)** — failed methods → mechanism → proof → CTA | ✅ |
+| 3 | Image density | 0–1 (logo + optional signal SVG) | 2 (one hero image-lifestyle 5-7 real kid in sensory context; one mint-bordered 49% stat box) | ✅ |
+| 4 | Color temperature | Cool (mint #DBFFCD dominant on white) | Cool (mint callout box dominant; white body; cream NOT used yet) | = same |
+| 5 | Email length | 1,252 words | ~960–1,000 words (slightly shorter; copy is dense, 4–5 min read) | ✅ |
+| 6 | Argument structure | Mirror + 3+ failed methods + mechanism tease + permission | **Mechanism-first + 3+ failed methods named + L2 unlock sentence (BCBA complement) + 8–12 wk timeline + 60-day + permission all in one read** | ✅ |
+| 7 | Visual rhythm | Open (44px gaps) | **Mixed — 44px in body, tight 16px around stat callout and mechanism deep block** | ✅ |
+| 8 | CTA position | Late single soft button + secondary | Late single soft button (no secondary) | = same |
+| 9 | Subject line type | Mechanism tease (subject echoes failed methods) | Validation hook — names BCBA relationship ("Why your BCBA protocol couldn't fix this") — first subject to name BCBA | ✅ |
+
+**Variance score: 7/9 dimensions differ.** Threshold ≥ 5/9 met.
+
+### Vertical-Stack ASCII Wireframe
+
+```
+┌──────────────────────────────────────────────────────────┐
+│ HEADER (thin, off-white ground)                          │
+│  Logo bar: BrightKidCo wordmark                         │
+│  From: Lena from BrightKidCo                            │
+│  Subject: Why your BCBA protocol couldn't fix this      │
+│  Preview: The signal comes too late for prompt systems… │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  HOOK BODY (parent quote + 2–3 sentences)               │
+│  "We've been doing scheduled sits for two years.        │
+│   He never goes on his own."                            │
+│  "The sit itself became the signal. Not the body."      │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [HERO IMAGE-LIFESTYLE — single column, full-width,     │
+│   vertical stack; NOT side-by-side with text]           │
+│  Real kid, 5–7, mixed-verbal, in sensory-aware         │
+│  home setting (e.g., sensory-friendly bathroom with      │
+│  weighted lap pad / foot stool / visual schedule on     │
+│  wall). Soft light, no face close-up. alt-text:         │
+│  "calm/sensory-aware" per V23.                          │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  FAILED-METHODS RECOGNITION BLOCK (named list)          │
+│  "BCBA protocol, scheduled sits with reinforcement.     │
+│   OT sensory work, brushes, weighted lap pads.          │
+│   Social stories. Sticker charts. Timer watches.        │
+│   The three-day method. 'Just wait until he's ready.'"  │
+│  "You've tried 40+ methods. Every single one           │
+│   assumed your child CAN feel when they need to go."    │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  VALIDATION BODY (4–5 sentences, L2 unlock sentence     │
+│  in body, NOT a callout box here)                       │
+│  "Your child didn't fail. Your BCBA didn't fail.        │
+│   Your OT didn't fail. The protocol was sound,          │
+│   for a brain that receives the 'I need to go' signal   │
+│   on time."                                             │
+│                                                          │
+│  [L2 UNLOCK SENTENCE — pulled-out body sentence,        │
+│   tight 16px margin around it, NOT a callout box]       │
+│  "Your BCBA has been doing the hard work for years.     │
+│   Body-signal learning is the missing layer their       │
+│   protocol can't address."                              │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  MECHANISM DEEP BODY (3-layer explainer in plain prose) │
+│  "Interoception is the eighth sensory system…"          │
+│  Layer 1: Cotton inner, 30–60 sec gentle "uh-oh"        │
+│  Layer 2: Smart absorption (protects without blocking)  │
+│  Layer 3: Leak-resistant outer barrier                  │
+│  "Pull-ups actively prevent this feedback loop.         │
+│   They keep children 'too dry to learn.'"               │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED SCIENCE CALLOUT BOX]                     │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ ★ 49% of autistic 4–5 year olds are not           │  │
+│  │   toilet trained.                                  │  │
+│  │   Source: SPARK study, Wiggins et al. 2022        │  │
+│  │                                                    │  │
+│  │ Mahler = "interoception researcher" (NOT           │  │
+│  │ "our partner"); Nicholson et al. 2019.             │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (mint #DBFFCD border, the L2 visual signature)         │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SOCIAL PROOF — callout-quote-highlight (single column)  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He sits on the toilet for 45 minutes and then     │  │
+│  │  pees the second he stands up."                    │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He initiated. Once. After four years. He walked  │  │
+│  │  to the bathroom on his own…"                      │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  PRODUCT INTRO BODY (3-layer recap in compact form,     │
+│  ending with the 3+3 bundle offer)                      │
+│  "The 3+3 Bundle, $79.99 with free shipping:            │
+│   6 pairs for rotation."                                │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  GUARANTEE — trust-anchor-callout                        │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ 60 days. Your judgment.                            │  │
+│  │ If your child shows no sign of increased body      │  │
+│  │ awareness, full refund. No questions. No hoops.    │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (mint callout frame; muted-green accent border)        │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [PRIMARY CTA — cta-button-full-width (muted-green)]    │
+│  "Add the Sensory Layer, Get the 3+3 Bundle"            │
+│  [ Muted-green fill, NOT full-width, 48px min height,   │
+│   12–16px border-radius ]                               │
+│                                                          │
+│  SECONDARY TEXT LINK                                    │
+│  "Start with 1 Pair ($34.99), see if the signal works   │
+│   first"                                                │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SIGN-OFF — signoff-lena-short                          │
+│  "Thanks for being here… hit reply. You'll get me.      │
+│   Not a template. Not a bot. I read everything."        │
+│  Talk soon,                                              │
+│  Lena ——                                                 │
+│                                                          │
+│  Footer: physical address · unsubscribe ·               │
+│          "Reply to this email, Lena reads every         │
+│           response. If BrightKidCo isn't right for your │
+│           child right now, that's okay. The product     │
+│           will be here when you're ready."              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+SYSTEM B (automatic):
+- Backgrounds: warm off-white + cream cards (NOT used in body) + mint-bordered callouts
+- Text: high-contrast dark on off-white, body 17px
+- Hero image: full-width single column (text above, image below, NEVER side-by-side)
+- CTA: muted-green (desaturated), NOT full-width, 48px min height
+- Spacing: 44px body gaps, tight 16px around stat callout + L2 unlock sentence
+- No countdown timers, no "Quick" / "Easy" / "Miracle"
+- Section count ≈ 9 (denser than L1 baseline; L2 deep-read posture honored)
+```
+
+**L2 6-Element compliance verified at wireframe level (FULL — the critical email):**
+- ✅ Symptom recognition: failed-methods block names BCBA protocol + OT sensory + social stories + sticker charts + timer watches + 3-day method
+- ✅ Mechanism specificity: mechanism deep body + 49% Wiggins callout + Mahler "interoception researcher"
+- ✅ BCBA acknowledgment: L2 unlock sentence in dedicated body sentence ("Your BCBA has been doing the hard work for years…")
+- ✅ Realistic timelines: 8–12 weeks named in body
+- ✅ 60-day guarantee: trust-anchor-callout box
+- ✅ Permission-not-to-buy: footer + SHORT sign-off + secondary text link ("Start with 1 Pair")
+
+======================================================================
+## STAGE 2 PICKS — welcome-01-e2-l2
+
+**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+
+**L2 calibration applied:**
+- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
+- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
+- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
+  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
+- 40/60 hope/realism ratio; clinical warmth, not peer-mom
+- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
+- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
+- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
+- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+
+
+### Section 1: hook-quote
+- **ROLE slot:** hook-quote
+- **INTENT (from wireframe):** HERO-14 Quote Bomb — parent quote opener
+- **COMPONENT PICKED:** HERO-14
+  - Name: Quote Bomb *(L4114)*
+  - From catalog: position=`hero`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Hook: HERO-14 Quote Bomb — parent quote opener
+- **VARIANCE CHECK:** N/A (first section)
+
+### Section 2: hero-image-lifestyle
+- **ROLE slot:** hero-image-lifestyle
+- **INTENT (from wireframe):** 17.1 Hero Image with Stacked Shadow — sensory-aware home
+- **COMPONENT PICKED:** 17.1
+  - Name: Hero Image with Stacked Shadow *(L1598)*
+  - From catalog: position=`body_images`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Hero image: 17.1 Hero Image with Stacked Shadow — sensory-aware home
+- **IMAGE PICKED:** lifestyle/toddler-livingroom-dino-yellow.png
+  - Dimensions: 2560x2560
+  - Alt text (L2 V23 spec): "calm/sensory-aware: child 5-7 in sensory-friendly living room, soft natural light, no face close-up (L2 V23 image alt-text spec)"
+  - Currently used: 2/25 (under cap)
+  - **WHY:** real kid 5-7 yrs in sensory-aware home setting matches L2 V23 "calm/sensory-aware" image requirement
+- **VARIANCE CHECK:** differs from previous section (HERO-14) — OK
+
+### Section 3: failed-methods
+- **ROLE slot:** failed-methods
+- **INTENT (from wireframe):** CMP-6 Tried vs Works — named list of 40+ methods
+- **COMPONENT PICKED:** CMP-6
+  - Name: Tried vs Works *(L6217)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Failed methods: CMP-6 Tried vs Works — named list of 40+ methods
+- **VARIANCE CHECK:** differs from previous section (17.1) — OK
+
+### Section 4: validation-unlock
+- **ROLE slot:** validation-unlock
+- **INTENT (from wireframe):** LETTER-03 Letter + Pull-Quote — L2 unlock sentence
+- **COMPONENT PICKED:** LETTER-03
+  - Name: Letter + Pull-Quote
+  - From catalog: position=`body_recognition`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Validation+Unlock: LETTER-03 Letter + Pull-Quote — L2 unlock sentence
+- **VARIANCE CHECK:** differs from previous section (CMP-6) — OK
+
+### Section 5: mechanism-deep
+- **ROLE slot:** mechanism-deep
+- **INTENT (from wireframe):** EDU-10 How It Works — 3-layer explainer
+- **COMPONENT PICKED:** EDU-10
+  - Name: How It Works *(L5487)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Mechanism deep: EDU-10 How It Works — 3-layer explainer
+- **VARIANCE CHECK:** differs from previous section (LETTER-03) — OK
+
+### Section 6: science-callout
+- **ROLE slot:** science-callout
+- **INTENT (from wireframe):** TRUST-1 repurposed as Wiggins/Mahler/Nicholson mint callout
+- **COMPONENT PICKED:** TRUST-1
+  - Name: 60-Day Seal *(L6385)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Science callout: TRUST-1 repurposed as Wiggins/Mahler/Nicholson mint callout
+- **VARIANCE CHECK:** differs from previous section (EDU-10) — OK
+
+### Section 7: quote-1
+- **ROLE slot:** quote-1
+- **INTENT (from wireframe):** EMO-6 Parent Quote — varies from E1
+- **COMPONENT PICKED:** EMO-6
+  - Name: Parent Quote *(L6962)*
+  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Quote 1: EMO-6 Parent Quote — varies from E1
+- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
+
+### Section 8: quote-2
+- **ROLE slot:** quote-2
+- **INTENT (from wireframe):** SP-07 Counter-Testimonial — different comp for variance
+- **COMPONENT PICKED:** SP-07
+  - Name: Counter-Testimonial *(L4940)*
+  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Quote 2: SP-07 Counter-Testimonial — different comp for variance
+- **VARIANCE CHECK:** differs from previous section (EMO-6) — OK
+
+### Section 9: product-intro
+- **ROLE slot:** product-intro
+- **INTENT (from wireframe):** PROD-3 Layer Breakdown — 3-layer recap + bundle
+- **COMPONENT PICKED:** PROD-3
+  - Name: Layer Breakdown *(L5744)*
+  - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Product intro: PROD-3 Layer Breakdown — 3-layer recap + bundle
+- **VARIANCE CHECK:** differs from previous section (SP-07) — OK
+
+### Section 10: guarantee
+- **ROLE slot:** guarantee
+- **INTENT (from wireframe):** TRUST-2 Guarantee Detail Cards
+- **COMPONENT PICKED:** TRUST-2
+  - Name: Guarantee Detail Cards *(L6414)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Guarantee: TRUST-2 Guarantee Detail Cards
+- **VARIANCE CHECK:** differs from previous section (PROD-3) — OK
+
+### Section 11: primary-cta
+- **ROLE slot:** primary-cta
+- **INTENT (from wireframe):** CTAMAX-04 Soft CTA — "Add the Sensory Layer"
+- **COMPONENT PICKED:** CTAMAX-04
+  - Name: Soft CTA *(L16752)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
+  - Currently used: 5/8 (under cap)
+  - **WHY:** CTA: CTAMAX-04 Soft CTA — "Add the Sensory Layer"
+- **VARIANCE CHECK:** differs from previous section (TRUST-2) — OK
+
+### Section 12: secondary-text-link
+- **ROLE slot:** secondary-text-link
+- **INTENT (from wireframe):** CTA-2 Soft Link — 1 Pair $34.99
+- **COMPONENT PICKED:** CTA-2
+  - Name: Soft Link *(L6658)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`warm`
+  - Currently used: 3/8 (under cap)
+  - **WHY:** Secondary: CTA-2 Soft Link — 1 Pair $34.99
+- **VARIANCE CHECK:** differs from previous section (CTAMAX-04) — OK
+
+### Section 13: signoff
+- **ROLE slot:** signoff
+- **INTENT (from wireframe):** 12.1 Lena Signoff — SHORT
+- **COMPONENT PICKED:** 12.1
+  - Name: Lena Signoff
+  - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
+  - Currently used: 6/8 (under cap)
+  - **WHY:** Signoff: 12.1 Lena Signoff — SHORT
+- **VARIANCE CHECK:** differs from previous section (CTA-2) — OK
+
+### Footer (static — already picked, no work needed)
+- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
+- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
+- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+
+### Tracker updates applied
+- `component-usage.json`: incremented counts for `HERO-14`, `17.1`, `CMP-6`, `LETTER-03`, `EDU-10`, `TRUST-1`, `EMO-6`, `SP-07`, `PROD-3`, `TRUST-2`, `CTAMAX-04`, `CTA-2`, `12.1`
+- `image-usage.json`: incremented count for `lifestyle/toddler-livingroom-dino-yellow.png`
+

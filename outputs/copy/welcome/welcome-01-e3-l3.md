@@ -408,3 +408,419 @@ Welcome emails are built in Klaviyo, which has limited animation support. Motion
 | L3 level calibration data | 3-segmentation-blueprint.md §1.3 |
 | L3 tone: 20/80 Hope/Realism, Very Low CTA aggressiveness | MASTER-DIAGNOSIS-COMPENDIUM.md §3.2 |
 | Lena's voice application per email position | 11-brand-voice-reference.md §9, §16 |
+
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l3-3
+
+```
+=================================================================
+WIREFRAME: welcome-01-e3-l3
+Email ID: welcome-01-e3-l3
+Flow: welcome | Position: E3 | Day: 5 | Level: L3 (Maria)
+Avatar: Non-verbal / high support needs, 6-10+ yrs, dignity-first
+Lever: L3 (Guarantee) — first money-ask lands behind
+       the 60-day shield
+Sign-off: "With understanding," (MEDIUM variant — E3-E5)
+Cadence: 5-day pause (E2→E3 gap, per L3 slow cadence)
+=================================================================
+
+SUBJECT: What 49 studies say about body awareness
+PREHEADER: A systematic review of 49 studies confirms
+            what you've sensed all along.
+
+NOTE: L3 calibration. Cream/earth tones only. Zero urgency.
+56px section spacing. Text-link CTAs only.
+Stacked vertically, single column, maximum breathing room.
+NO side-by-side. NO hero image. NO product photography
+(only an abstract macro textile motif as the contraption).
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — MICRO-WIN ANCHOR]
+─────────────────────────────────────────────────────────────────
+HEADLINE: "He looked down at the wet spot for the
+          first time in 9 years."
+SUBHEADLINE: (none — single-sentence mirror)
+
+[VISUAL ELEMENT]
+ROLE: prose-block-micro-win-mirror
+INTENT: opening hook names the smallest possible win
+        (a look, a pause) without ever framing it as
+        "success"; rendered as full-width flowing text
+        in warm clay, serif body at 17px, max 65ch
+        line length, 1.7 line-height; closes with
+        "That's a nervous system finally receiving a
+        signal it never got before."
+EXAMPLE_PICK: text-only paragraph; no callout box;
+              no illustration; the word is the visual
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — FAILED METHODS NAMED, GUILT ABSOLVED]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You haven't failed.
+          You've been fighting the wrong problem.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: validation-prose-block
+INTENT: full-width text block that names each failed
+        method by its specific label (sticker charts,
+        timer sits, social stories, 40 hours ABA,
+        $2,500 private consultant) and explicitly
+        absolves Maria of responsibility; closes with
+        "It's not behavioral. It's neurological. It's
+        interoception, the eighth sensory system."
+        Citation to Mahler (2016) at end in 14px muted
+EXAMPLE_PICK: text-only prose with single 2px left
+              indicator in muted sage, no card,
+              no box, no side-stripe border
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM — 49-STUDY ANCHOR + 3 LAYERS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 49 studies. One clear finding.
+SUBHEADLINE: Interoceptive differences in autism are
+             real, measurable, and well-established.
+
+[VISUAL ELEMENT]
+ROLE: mechanism-prose-with-3-layer-inline
+INTENT: full-width mechanism explanation opening with
+        the 49-study review citation; explains the
+        three layers (Inner Body-Signal Layer, Smart
+        Absorption Core, Protective Outer Barrier)
+        inline as labeled sub-paragraphs with bold
+        lead-ins (NOT a diagram, NOT an illustration —
+        labels in body weight, no icons); closes with
+        "The mechanism is one-step biology: feedback
+        creates awareness. Awareness creates the
+        possibility of action."
+EXAMPLE_PICK: prose-only mechanism with bold inline
+              layer labels, no diagram, no infographic
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: SOCIAL PROOF — DUAL TESTIMONIAL PARAGRAPHS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — testimonials speak for themselves)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: testimonial-stack-soft-italic
+INTENT: two parent-voice paragraphs rendered as italic
+        serif at 17px in warm clay, generous left margin,
+        no box, no border, no background tint — just
+        text; first quote: "He looked down at the wet
+        spot for the first time in 9 years. That pause,
+        that was more than we'd seen in his entire life."
+        Second quote: "He has 30 words. 'Bathroom' isn't
+        one of them. After 6 weeks in the Body-Signal
+        underwear, he started pulling at his pants when
+        he'd had an accident." Followed by a closing
+        paragraph that frames these as "micro-wins, a
+        pause, a touch, a look."
+EXAMPLE_PICK: two stacked italic paragraphs with
+              subtle 1px muted warm-sand hairline
+              between (NOT a card border, NOT a
+              side-stripe), no decorative quote marks
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: PRODUCT — 1 PAIR, ALONGSIDE, NO PRESSURE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 1 Pair, $34.99
+SUBHEADLINE: That's all this. One pair of underwear.
+             Not a system. Not a program. Not a replacement.
+
+[VISUAL ELEMENT]
+ROLE: product-prose-with-soft-cream-card
+INTENT: gentle product introduction framed entirely as
+        an addition, never a replacement; rendered as
+        a paragraph on a slightly deeper warm cream
+        background (~3% darker than main bg), no border,
+        generous 40px padding; explicitly mentions:
+        "Add it alongside everything you're already
+        doing. Put it on after bath time. Try it for
+        weekend afternoons when you're home and can
+        watch. No pressure. No schedule."
+EXAMPLE_PICK: warm cream tint block, single paragraph,
+              price mentioned once inline (NOT bolded,
+              NOT in a badge), centered text
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: GUARANTEE — 60 DAYS, NO QUESTIONS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days. Your judgment. No questions.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: guarantee-paragraph-emphasis
+INTENT: full-strength 60-day guarantee paragraph framed
+        as "If it doesn't work for your child, email us.
+        Full refund. Keep the underwear if it helps with
+        anything, even if that's just nighttime
+        protection or familiar texture." Rendered as
+        warm clay body text with one subtle 2px soft
+        sage hairline left indicator (NOT a card, NOT
+        a side-stripe border); no badge, no icon
+EXAMPLE_PICK: prose-only guarantee paragraph with
+              subtle sage hairline; no background
+              tint, no border box
+
+56px space above, 56px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: PRIMARY CTA — TEXT-LINK, NO DEADLINE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: When you decide, it's here.
+SUBHEADLINE: No deadline. No countdown. No "limited time."
+             Your timeline. Your child's timeline. Not ours.
+
+[VISUAL ELEMENT]
+none (no button, no badge, no icon — text link only)
+
+[CTA]
+PRIMARY:   text link "When you're ready →"
+           left-aligned, warm charcoal, subtle underline,
+           16px; explicitly NOT a button (L3 forbids
+           any filled CTA element)
+INTENT:    drives to PDP
+SECONDARY: none (L3 forbids secondary CTAs in E3 — single
+           action path, zero clutter)
+MICROCOPY: "If that's today, it's here. If that's next
+            month, it's here. If that's in six months,
+            it's here." (italic, 14px, muted warm clay)
+
+56px space above, 56px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SIGNOFF — LENA MEDIUM VARIANT for E3]
+─────────────────────────────────────────────────────────────────
+Background: warm cream (subtle separation, slightly deeper
+            than main bg)
+Body 15-16px: 4-paragraph MEDIUM sign-off:
+  "I have two autistic sons. One's 6, still in the middle
+   of it. The other took us until he was almost 8. If your
+   kid is anywhere on this curve, that's normal here."
+  "I know what it feels like to read an email like this
+   and think, 'I've heard this before.' I thought that
+   too. Many times."
+  "We built this for families like mine. And like yours."
+  "If you have questions, real ones, honest ones, the
+   kind you're afraid to ask because you don't want to
+   sound naive, hit reply. You'll get me. I read every
+   response."
+Closing:    "With understanding,"
+Signature:  "Lena —" (Customer Support · Mom of two
+            autistic sons, 14px italic, warm clay)
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address, City, State ZIP]
+No longer want these emails? Unsubscribe | Manage Preferences
+Questions? Reply to this email, Lena reads every response.
+© 2026 BrightKidCo. All rights reserved.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero image visible above 400px (mobile)? N/A (no hero
+  by L3 design)
+- Section 1 headline visible above 400px? YES (micro-win
+  mirror sentence is the first above-fold content)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 0 (no product photography;
+  the only motif is the soft textile-texture reference
+  in the creative strategy, NOT rendered as an image
+  in this text-first email)
+- Image positions: none
+- Density category: 0 (text-only with single textile
+  motif reference)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 9
+  - prose-block-micro-win-mirror (section 1)
+  - validation-prose-block (section 2)
+  - mechanism-prose-with-3-layer-inline (section 3)
+  - testimonial-stack-soft-italic (section 4)
+  - product-prose-with-soft-cream-card (section 5)
+  - guarantee-paragraph-emphasis (section 6)
+  - cta-text-link-no-deadline (section 7)
+  - signoff-lena-medium (signoff block)
+  - signal-textile-motif-referenced (creative strategy
+    reference — NOT an image rendered in the email)
+- Density category: 9 (text-heavy with deep mechanism
+  and dual-testimonial density)
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 7 (7 body sections including CTA —
+  product introduced, guarantee as shield)
+- Section pattern: B (Micro-win Hook → Validation →
+  Mechanism → Testimonial → Product → Guarantee → CTA)
+- Image density: 0 (text-only with textile reference)
+- Color temperature: warm cream/earth + amber accent
+  (the "signal" color used sparingly as inline weight
+  shift, never as fill)
+- Email length: medium-long (~1343 words per locked-
+  profile)
+- Argument structure: BAB (Before/After/Bridge —
+  failed methods → micro-win → 60-day bridge)
+- Visual rhythm: open (56px gaps per L3 calibration)
+- CTA position: late (last body section before signoff)
+- Subject line type: social proof (49-study anchor)
+
+=================================================================
+VARIANCE_CHECK vs welcome-01-e2-l3:
+1. SECTION COUNT: 7 (matches E2) — same
+2. SECTION PATTERN: B (E2 was C — failed-methods →
+   mechanism) ✓ DIFFERENT
+3. IMAGE DENSITY: 0 (matches E2) — same
+4. COLOR TEMPERATURE: warm cream/earth + amber accent
+   (E2 was warm cream/earth + soft sage only)
+   ✓ DIFFERENT (warm amber signal color introduced)
+5. EMAIL LENGTH: medium-long ~1343 words (E2 was
+   short ~660) ✓ DIFFERENT (2x longer)
+6. ARGUMENT STRUCTURE: BAB with 60-day guarantee
+   shield (E2 was absorption-only, no ask) ✓ DIFFERENT
+7. VISUAL RHYTHM: open 56px (matches E2) — same
+8. CTA POSITION: late, text-link with pricing now
+   included (E2 had no pricing) ✓ DIFFERENT
+9. SUBJECT LINE TYPE: social proof (matches E2's
+   social proof) — same
+
+   TOTAL DIFFERENCES: 5/9 minimum threshold MET.
+   (Variance driven by: product introduction,
+   pricing revealed, longer email, dual testimonials,
+   amber signal color introduction, MEDIUM sign-off
+   variant)
+
+=================================================================
+END OF WIREFRAME — welcome-01-e3-l3
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — welcome-01-e3-l3
+
+> **L3 Calibration Applied:** ZERO yellow. ZERO urgency. Cream/earth tones only. Text-link CTAs only (no buttons, no badges). 56px section spacing. Dignity-first. 1 Pair $34.99 primary. NO math reframe. Lena peer voice preserved. E3 lever = L3-A Late train + L3-D Dignity + L3-C Mini-wins (Welcome trust peak at E5; E3 is mini-wins-anchor).
+
+> **Section count:** 7 body sections + MEDIUM signoff (per wireframe §COMPONENT_COUNT, E3 uses Lena MEDIUM variant, "With understanding,").
+> **Image library picks:** 0 (L3 E3 forbids imagery across body sections).
+
+### Section 1 — prose-block-micro-win-mirror (hook)
+- ROLE slot: `prose-block-micro-win-mirror` ("He looked down at the wet spot for the first time in 9 years."; closes "That's a nervous system finally receiving a signal it never got before.")
+- INTENT: opening hook = smallest possible win (a look, a pause) framed NOT as "success" but as system-recognition
+- COMPONENT PICKED: **HERO-5 — "Mirror Moment"** (letter pool, source A*)
+  - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect for the "smallest win as a mirror moment" voice register. Showcase HTML line 3904 confirms introspective warm-toned open with no celebration chrome. Variance vs E1 Sec 1 (HERO-9 Whisper Tone) and E2 Sec 1 (HERO-18 Guilt Absolution) — three distinct hero-tone opens across E1→E2→E3.
+- IMAGE PICKED: none
+
+### Section 2 — validation-prose-block (failed methods + absolution)
+- ROLE slot: `validation-prose-block` (names each failed method by specific label; absolution; closes "It's not behavioral. It's neurological. It's interoception, the eighth sensory system."; Mahler 2016 citation at end)
+- INTENT: absolve Maria of responsibility by naming the neurological truth (interoception)
+- COMPONENT PICKED: **EMODEEP-09 — "The Grief Validation"** (reframe pool, source A*)
+  - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. The Grief Validation specifically targets failed-efforts-long-journey moms; renders as dignity-first prose with attestation. Variance vs E2 Sec 2 (EMODEEP-01 Guilt Reframe) — both EMODEEP-class, different move.
+- IMAGE PICKED: none
+
+### Section 3 — mechanism-prose-with-3-layer-inline
+- ROLE slot: `mechanism-prose-with-3-layer-inline` (49-study review + 3 layers as labeled sub-paragraphs with bold lead-ins; NO diagram, NO illustration; closes "The mechanism is one-step biology: feedback creates awareness. Awareness creates the possibility of action.")
+- INTENT: 49-study anchor + 3-layer inline-as-text
+- COMPONENT PICKED: **DEEP-7 — "The Evidence Chain"** (letter pool, source A*)
+  - From catalog: position=body_mechanism, image_support=text_only
+  - Currently used: 1/8
+  - WHY: chain-of-evidence format (study → finding → application) is L3-correct for "49 studies, one clear finding" + inline 3-layer sub-paragraphs. Variance vs E1 Sec 4 (EDU-11 Science Citation) and E2 Sec 3 (DEEP-10 Science Made Simple) — three different science-rendering components across E1→E2→E3.
+- IMAGE PICKED: none
+
+### Section 4 — testimonial-stack-soft-italic (dual)
+- ROLE slot: `testimonial-stack-soft-italic` (two parent-voice paragraphs rendered as italic serif 17px warm clay with subtle 1px muted warm-sand hairline BETWEEN, NOT card border, NOT side-stripe; no decorative quote marks)
+- INTENT: twin parent voice quotes + closing "micro-wins, a pause, a touch, a look" frame
+- COMPONENT PICKED: **DEEP-13 — "The Reverse Testimonial"** (testimonial pool, source A*)
+  - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. Reverse Testimonial renders as twin-quote italic stack with subtle inter-quote separator — exactly the wireframe spec.
+- IMAGE PICKED: none
+
+### Section 5 — product-prose-with-soft-cream-card
+- ROLE slot: `product-prose-with-soft-cream-card` (gentle product intro framed as addition NEVER replacement; warm-cream ~3% deeper bg; no border; 40px padding; price mentioned ONCE inline NOT bolded NOT badge; "Add it alongside everything you're already doing.")
+- INTENT: 1 Pair $34.99 framed as accompaniment, never replacement
+- COMPONENT PICKED: **LETTER-05 — "Manifesto Line"** (letter pool, source A*)
+  - From catalog: position=body, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: Manifesto Line = single-paragraph sustained voice declaring a principle (in this case: "one pair, alongside, your way"). Renders on cream tint with no border/card chrome. Honors GIULIANO §1: L3 product intro NEVER sounds like replacement.
+- IMAGE PICKED: none
+
+### Section 6 — guarantee-paragraph-emphasis
+- ROLE slot: `guarantee-paragraph-emphasis` (full-strength 60-day promise with subtle 2px soft sage hairline LEFT indicator, NOT card, NOT side-stripe border; no badge no icon; "Keep the underwear if it helps with anything")
+- INTENT: prose-only guarantee with keep-the-underwear acknowledgment
+- COMPONENT PICKED: **5 — "60-Day Calm Promise"** (guarantee pool, source A*)
+  - From catalog: position=guarantee_trust, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 2/8 (cross-email reuse, far under 8 cap)
+  - WHY: still L3-perfect; reused because E1 baseline established the guarantee rendering and E2 used OBJ-15 mini variant. Reusing 5 in E3 = trust-consistency (L3 moms notice inconsistency). Variance vs E1 = same component, different prose emphasis (this E3 version is "full-strength + keep-the-underwear" vs E1's "honest container"). Variance vs E2 = different component entirely.
+- IMAGE PICKED: none
+
+### Section 7 — cta-text-link-no-deadline
+- ROLE slot: `cta-text-link-no-deadline` ("When you decide, it's here." text-link-only, NO button, NO badge, NO icon; NO secondary CTA in E3 single-action path; italic 14px muted "If that's today, it's here. If that's next month...")
+- INTENT: permission-to-try-or-not-whenever; text link with no-deadline microcopy
+- COMPONENT PICKED: **CTADEEP-12 — "The Anti-CTA"** (cta pool, source A*)
+  - From catalog: position=cta, image_support=text_only, audience[L1,L2,L3,GF]
+  - Currently used: 1/8
+  - WHY: by-name L3-perfect. The Anti-CTA literally IS a CTA whose payload is permission-not-to-act-yet. Honors GIULIANO §5: ZERO urgency in any L3 mail.
+- IMAGE PICKED: none
+
+### Signoff (signoff-lena-medium, "With understanding,")
+- STATIC: UTIL-05 Signoff Card with Lena MEDIUM variant (already extracted in Phase A)
+- E3 signoff closing: "With understanding," (per GIULIANO §3 E3-E5 = MEDIUM, "With understanding,")
+- 4-paragraph body: Lena's identity anchor "two autistic sons, one's 6, the other took us until almost 8"
+- Does not consume component cap
+
+### Tracker updates applied (this email, E3)
+- component-usage.json: HERO-5→1, EMODEEP-09→1, DEEP-7→1, DEEP-13→1, LETTER-05→1, 5→2, CTADEEP-12→1
+- image-usage.json: no images picked
+- VARIANCE CHECK vs E1+E2: 6/7 sections use DIFFERENT components from E2 + E1; only Section 6 (5) reuses from E1 (acceptable cross-email re-use; L3 trust relies on guarantee consistency)
+- CAP CHECK: highest count is `5` at 2/8 (under cap); all others at 1/8
+

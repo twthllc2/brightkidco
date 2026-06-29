@@ -201,19 +201,19 @@ The thing parents pay extra for, moisture-wicking pull-ups that keep kids comple
 │ ║ SECTION 2: PULL-UP REFRAME ║ │
 │ ║ (Problem + Agitate, PAS framework) ║ │
 │ ║ ║ │
-│ ║ BG: Subtle cool-blue #E6F1FB ║ │
+│ ║ BG: Subtle cool-blue cool blue ║ │
 │ ║ Section headline: bold 20px ║ │
 │ ║ Body copy: 16px regular ║ │
 │ ║ Blockquote: italic, left-border accent ║ │
 │ ║ Stat callout: bold stat number + label ║ │
 │ ╚═══════════════════════════════════════════╝ │
 │ │
-│ ── Gradient transition #E6F1FB → #E1F5EE ── │
+│ ── Gradient transition cool blue → pale green ── │
 │ │
 │ ╔═══════════════════════════════════════════╗ │
 │ ║ SECTION 3: MECHANISM (Solve) ║ │
 │ ║ ║ │
-│ ║ BG: Warm pale green #E1F5EE ║ │
+│ ║ BG: Warm pale green ║ │
 │ ║ 3-Layer system table or visual grid ║ │
 │ ║ Product cross-section callout ║ │
 │ ║ Layer icons: cotton → absorb → shield ║ │
@@ -225,7 +225,7 @@ The thing parents pay extra for, moisture-wicking pull-ups that keep kids comple
 │ ╔═══════════════════════════════════════════╗ │
 │ ║ SECTION 4: SOCIAL PROOF + GUARANTEE ║ │
 │ ║ ║ │
-│ ║ BG: Warm cream #FDF8F5 ║ │
+│ ║ BG: Warm cream warm cream ║ │
 │ ║ Two italic block quotes + attribution ║ │
 │ ║ 60-Day Guarantee shield badge ║ │
 │ ║ "Your judgment" permission framing ║ │
@@ -288,7 +288,7 @@ Clean table showing each layer with:
 - Layer icon (small SVG line art): cotton swatch / absorbent wave / barrier shield
 - Layer name in bold
 - One-line benefit in regular weight
-- Alternating row shading (#FFFFFF / #FDF8F5)
+- Alternating row shading (#FFFFFF / warm cream)
 
 ---
 
@@ -296,9 +296,9 @@ Clean table showing each layer with:
 
 | Role | Hex | Usage |
 |------|-----|-------|
-| **Background** | `#FDF8F5` Warm cream | Main email background, approachable, non-clinical |
-| **Pull-up section bg** | `#E6F1FB` Cool blue tint | Distinguishes "old way", calm, analytical |
-| **Mechanism section bg** | `#E1F5EE` Pale green | "New way", emerging hope, growth |
+| **Background** | `warm cream` Warm cream | Main email background, approachable, non-clinical |
+| **Pull-up section bg** | `cool blue` Cool blue tint | Distinguishes "old way", calm, analytical |
+| **Mechanism section bg** | `pale green` Pale green | "New way", emerging hope, growth |
 | **Headlines** | `#1A1A1A` Near-black | Maximum contrast for key messages |
 | **Body text** | `#2C2C2A` Warm deep gray | Readable, softer than pure black |
 | **CTA button** | `#D85A30` Coral | Primary action, warm urgency without alarm |
@@ -313,9 +313,9 @@ Clean table showing each layer with:
 
 | Light | Dark |
 |-------|------|
-| `#FDF8F5` → `#1F1B18` |
-| `#E6F1FB` → `#1A2433` |
-| `#E1F5EE` → `#14291F` |
+| `warm cream` → `#1F1B18` |
+| `cool blue` → `#1A2433` |
+| `pale green` → `#14291F` |
 | `#1A1A1A` → `#F0EDE8` |
 | `#2C2C2A` → `#D4D0C8` |
 | `#D85A30` → `#E87A55` (lighter coral for dark bg) |
@@ -355,7 +355,7 @@ Clean table showing each layer with:
 - Or: full-width 1px rule at 80% opacity for less visual interruption
 
 **Gradient Transitions:**
-- Pull-up section → Mechanism section: Linear gradient `#E6F1FB` → `#E1F5EE` (20px band)
+- Pull-up section → Mechanism section: Linear gradient `cool blue` → `pale green` (20px band)
 - Mechanism section → Social proof: Hard cut with 1px rule (change of mood)
 
 **Corner Flourish:**
@@ -552,3 +552,609 @@ The following quotes from MASTER-INGESTION-COMPENDIUM.md §2.1 are integrated in
 ---
 
 *End of Document, Welcome Flow E6 · GF (General Family)*
+
+## WIREFRAME — built 2026-06-28 by subagent-gf-6
+
+```
+=================================================================
+WIREFRAME: welcome-01-e6-gf
+Email ID: welcome-01-e6-gf
+Flow: welcome | Position: E6 | Day: 14 | Level: GF
+=================================================================
+
+*** CRITICAL OPERATIONAL NOTE — SUPPRESSION RULE ***
+
+Per journey-gf-MASTER.md §15 and Locked-Profile
+GF/Purchaser logic:
+  - IF purchased=true AND level=gf, SUPPRESS this
+    email
+  - DELIVER PP-Level Detection (Flow 09) instead
+  - Welcome E6 is sent ONLY to GF non-purchasers
+    (cart abandoners, browse abandoners who did
+    NOT buy)
+This wireframe documents E6 AS IF delivered, so
+Stage 2 can build the design. Suppression logic
+lives in Klaviyo flow conditions, not in the
+email itself.
+
+=================================================================
+
+SUBJECT: The $50/month product keeping them too dry
+PREHEADER: The moisture-wicking tech parents pay a
+           premium for might be the exact thing
+           preventing progress.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — PULL-UP REFRAME (PAS PROBLEM)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The $50/month product keeping them too
+          dry to learn.
+SUBHEADLINE: (none — opens with the reframe hook)
+
+[VISUAL ELEMENT]
+ROLE: hero-lifestyle-candid-gf
+INTENT: a candid lifestyle photo of a child playing
+        in BrightKidCo underwear (NOT staged
+        perfection), warm natural light, real home
+        setting; the visual says "this is the moment
+        the signal arrived." THREE-child composite
+        rule applies (varied ages, varied
+        presentations per GF-V1)
+EXAMPLE_PICK: candid lifestyle photo, soft natural
+              light, warm tones, child engaged in
+              play, no clinical props
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — PULL-UP REFRAME (PAS AGITATE)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Pull-ups remove the one piece of feedback
+          the brain needs.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: cool-blue-tint-band-gf (cool blue cool-blue
+        background — the "old way" analytical zone)
+INTENT: presents the Pull-Up reframe in a cool-blue
+        tinted band, the visual analog of "the
+        analytical/diagnostic lens" — this is the
+        moment of naming what's been blocking the
+        signal:
+        "Pull-ups are designed to keep kids completely
+        dry. That's literally their job. But here's
+        the catch: that moisture-wicking technology
+        parents pay a premium for, $50 to $100+ every
+        single month, was built for kids who can
+        already feel the 'I need to go' signal. For
+        those kids, staying dry during training is a
+        helpful feature. For your child? It might be
+        the very thing keeping them stuck."
+        49% SPARK stat appears in body in GF-V2
+        paraphrase form
+EXAMPLE_PICK: full-width band, cool-blue (cool blue)
+              background, body copy in 17px,
+              49% stat highlighted in bold within
+              the body
+
+[VISUAL ELEMENT — PARENT QUOTE CALLOUT]
+ROLE: callout-quote-highlight-gf
+INTENT: highlights the GF-universal parent quote:
+        "She'll pee herself and just keep playing in
+        the puddle. It's like she doesn't care AT ALL."
+        Attribution: "Real parent" (universal GF
+        voice, no level)
+EXAMPLE_PICK: pull-quote callout, italic 17px, left
+              indent 20px, terracotta left-border
+              accent
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM — BODY-SIGNAL OPPOSITE-OF-PULL-UPS]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The body-signal underwear works opposite
+          to pull-ups.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: mechanism-pale-green-band-gf (pale green pale
+        green background — the "new way" growth zone)
+INTENT: presents the Body-Signal Learning mechanism
+        in a pale-green tinted band, the visual
+        analog of "growth/learning" — the cool-to-warm
+        gradient from the pull-up section (cool blue)
+        to this section (pale green) is the emotional
+        arc visually:
+        "Instead of wicking moisture away, the inner
+        cotton layer creates a gentle, sustained
+        awareness — a soft 'uh-oh' sensation that
+        lasts 30-60 seconds after every accident."
+EXAMPLE_PICK: full-width band, pale-green (pale green)
+              background, body copy in 17px, italic
+              emphasis on "uh-oh"
+
+[VISUAL ELEMENT — 3-LAYER TABLE]
+ROLE: product-3-layer-table-gf (clean table format
+        with icons)
+INTENT: presents the 3-layer system as a clean table:
+        Layer 1: Inner Cotton — Gentle "uh-oh"
+                 sensation — Teaches the brain
+        Layer 2: Smart Absorption — Absorbs 3x more
+                 than regular undies — Protects without
+                 blocking awareness
+        Layer 3: Protective Barrier — Leak-resistant
+                 outer layer — Saves furniture & clothes
+        Each row has a small SVG line-art icon
+        (cotton swatch / absorbent wave / barrier
+        shield), bold layer name, regular-weight
+        description; alternating row shading
+        (white / warm cream)
+EXAMPLE_PICK: 3-row table, alternating row shading,
+              small SVG icons, bold layer names,
+              regular-weight descriptions
+
+[VISUAL ELEMENT — COMPARISON CALLOUT]
+ROLE: pullup-vs-bkc-comparison-gf (vertical stacked
+        cards — NEVER side-by-side at the section
+        level; comparison cards stack)
+INTENT: side-by-side visual comparison rendered as
+        stacked cards in the wireframe (NOT side-by-
+        side at the email level):
+        Pull-Ups card: "Completely dry, zero learning
+        signal" / "$50-100+/month ongoing" / "Diaper
+        feel = 'baby mode'" / "Blocks neurological
+        feedback loop"
+        BrightKidCo card: "Gentle 'uh-oh' sensation,
+        awareness builds" / "$34.99/pair one-time" /
+        "Real underwear = big kid pride" / "Activates
+        body-brain connection"
+EXAMPLE_PICK: 2 stacked comparison cards, X over
+              pull-up icon, ✓ over BKC icon, side-by-
+              side INSIDE each card row only
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: SOCIAL PROOF — TWO QUOTES + GUARANTEE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Two parents describe it exactly like this.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: two-quote-cards-stacked-gf (2 stacked quote
+        cards — NEVER side-by-side — plus guarantee
+        shield)
+INTENT: 2 stacked testimonial cards in Warm-Cream
+        (warm cream) background, italic body, with
+        attribution:
+        (1) "She started doing better once I eased up
+            on the stressing out about her not getting
+            it." — Lynne C., real parent
+        (2) "Potty training isn't linear. Some days
+            are great. Others aren't. That's not
+            starting over, that's how learning
+            happens." — From our community
+        Below the two quotes: the 60-Day Guarantee
+        Shield Badge (circular shield with checkmark,
+        "60 DAYS · YOUR JUDGMENT" in bold 14px,
+        "If nothing changes, full refund" in 12px
+        muted)
+EXAMPLE_PICK: 2 stacked quote cards, warm cream
+              background, italic body, 4px terracotta
+              left-border, guarantee shield badge below
+              in 150x150px
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: LATE CTA]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Try the Body-Signal approach for 60 days.
+          By your judgment.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+none
+
+[CTA — LATE PLACEMENT]
+BUTTON_TEXT: Shop the 3+3 Bundle — $79.99
+              Free Shipping
+BUTTON_INTENT: drives to PDP, primary offer; the
+              coral CTA (not Brand-Green) signals
+              "the new way" through warm urgency
+SECONDARY:  text link "That's $13.33 per pair with
+            the bundle — less than half the single-
+            pair price"
+
+[TRUST SIGNAL ROW]
+TEXT: "✓ Free shipping on 3+3 Bundle · ✓ 60-Day
+      Money-Back Guarantee · ✓ Secure checkout"
+INTENT: standard trust-signal row below CTA
+
+[VISUAL ELEMENT — P.S. COST COMPARISON]
+TEXT: "P.S. The average parent spends $600-1,200/
+      year on pull-ups. One BrightKidCo pair costs
+      less than two weeks of disposables, and it
+      actually teaches body awareness instead of
+      blocking it."
+INTENT: the easter-egg cost comparison, reframes
+        "another expense" as "a fraction of what
+        you're already spending"
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: LENA SIGN-OFF (MEDIUM→LONG VARIANT)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (closing beat, peer voice)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: signoff-lena-medium-long-gf
+INTENT: Lena MEDIUM→LONG variant transition
+        (E6 → E7 → E8 progression), the longest
+        peer-voice frame so far in the arc:
+        "I have two autistic sons. One's 6, still
+        in the middle of it. The other took us
+        until he was almost 8. I know what it's
+        like to look at a pull-up package and
+        wonder if you're making the right call,
+        or to buy something new and feel the same
+        disappointment when nothing changes. I'm
+        not here to sell you hope. I'm here to
+        explain how the signal works, and let you
+        decide if it's right for your child. If
+        you have questions, just hit reply. You'll
+        get me, not a bot."
+        Closing: "With care, Lena —"
+        Renders as Warm-Cream (warm cream) block,
+        16px body, 14px signature
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+1234 Commerce Street, Suite 200
+Los Angeles, CA 90017
+No longer want these emails? Unsubscribe or Manage
+Preferences
+Questions? Reply to this email, we read every
+response.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero lifestyle photo visible above 400px (mobile)?
+  YES (hero is the first section)
+- Section 1 headline visible above 400px? YES
+- Pull-up reframe band visible above fold on mobile?
+  PARTIAL (the headline lands above fold, the band
+  body requires scroll)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 3
+  (hero lifestyle photo + 3-layer table with icons +
+   comparison cards visual)
+- Image positions: section-1 (hero) + section-3
+  (mechanism table + comparison)
+- Density category: 3 (mid-high — matches GF E6 macro
+  "3 images per email")
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 8
+  - hero-lifestyle-candid-gf (section 1)
+  - cool-blue-tint-band-gf (section 2)
+  - callout-quote-highlight-gf (section 2)
+  - mechanism-pale-green-band-gf (section 3)
+  - product-3-layer-table-gf (section 3)
+  - pullup-vs-bkc-comparison-gf (section 3)
+  - two-quote-cards-stacked-gf (section 4)
+  - signoff-lena-medium-long-gf (signoff block)
+- Density category: 8 (at the 8-cap; E6 is the
+  component-richest email in the GF Welcome arc,
+  tied with E5)
+- CTA is cta-button-full-width component (section 5),
+  not a separate ROLE in the count
+- 60-day guarantee shield badge is rendered inside
+  section 4, not as a separate component
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 6 (per GF macro table)
+- Section pattern: D (Social Proof First — the
+  pull-up reframe is the proof-of-mechanism;
+  testimonials in section 4 confirm it)
+- Image density: 3 (hero + table + comparison)
+- Color temperature: warm (per GF macro — warm
+  cream, sand, terracotta; the pull-up section
+  uses cool-blue as a contrast zone but the overall
+  email temperature is warm)
+- Email length: medium (~700 words, proof-and-
+  product-focused, not mechanism-deep)
+- Argument structure: Testimonial-led (the email
+  opens with proof-of-mechanism — "pull-ups are
+  blocking the signal" — then confirms via
+  testimonial quotes)
+- Visual rhythm: open (64px section gaps per GF
+  macro; the pull-up/mechanism visual gradient
+  creates internal breathing room)
+- CTA position: late (section 5 only; the proof
+  arc earns the CTA through credibility depth)
+- Subject line type: parent quote (per GF macro —
+  the SL voices the parent's discovery that the
+  pull-up premium feature is the obstacle)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — no autism/ASD/Level
+  in body copy; "autistic children" appears once
+  in the validation section (Nicholson citation)
+- R2 (3-5 recognition anchors): YES — 2 testimonial
+  quotes + 1 parent pull-quote in section 2 = 3
+  recognition anchors
+- R3 (Age 3-10+ inclusive): YES — "three months or
+  three years" in the SL bridge; no fixed age
+  anywhere
+- R4 (Verbal + non-verbal dual): YES — both modes
+  implied through the "She doesn't care" framing
+  (passive non-verbal) and the easing-up-on-
+  stressing testimonial (active verbal parent
+  response)
+- R5 (Timeline flexible): YES — "2 weeks for some,
+  8 weeks or more for others, both are normal"
+- R6 (Low-bar success metrics): YES — "a pause,
+  a look down, a step toward the potty"
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "nervous system processes signals differently"
+  is the umbrella phrase
+- The 49% stat is paraphrased via Nicholson citation
+  ("autistic children process internal body signals
+  differently") — this is the one allowed V16-
+  compliant exception for the mechanism citation
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E6 has NO new migration anchor — E2/E4/E5 carried
+  the three Welcome-stage anchors
+- E6 is the SUPPRESSED-FOR-PURCHASERS email — for
+  GF non-purchasers, E6 is the proof email; for
+  GF purchasers, PP-Level Detection takes over
+  on Day 14 and E6 is replaced
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: welcome-01-e5-gf
+- Extracted 9 dimensions from E5 wireframe:
+    1. Section count: 8
+    2. Section pattern: F (Education-First)
+    3. Image density: 3
+    4. Color temperature: cool
+    5. Email length: long (~960 words)
+    6. Argument structure: Data-led + Story fragment
+    7. Visual rhythm: tight/open
+    8. CTA position: late (single)
+    9. Subject line type: mechanism tease
+- E6 9 dimensions determined from copy + macro:
+    1. Section count: 6
+    2. Section pattern: D (Social Proof First)
+    3. Image density: 3
+    4. Color temperature: warm
+    5. Email length: medium (~700 words)
+    6. Argument structure: Testimonial-led
+    7. Visual rhythm: open (64px)
+    8. CTA position: late (single)
+    9. Subject line type: parent quote
+- Differences across 9 dimensions:
+    1. Section count: DIFFER (8 → 6; proof email
+       trims the section count back)
+    2. Section pattern: DIFFER (F → D; testimonial-
+       led shift)
+    3. Image density: SAME (both 3; held constant)
+    4. Color temperature: DIFFER (cool → warm;
+       visual returns to warmth for the proof zone)
+    5. Email length: DIFFER (long → medium; proof
+       email is more compact)
+    6. Argument structure: DIFFER (Data-led+Story-frag
+       → Testimonial-led; proof-anchored)
+    7. Visual rhythm: DIFFER (tight/open → open;
+       unified open rhythm for proof zone)
+    8. CTA position: SAME (both late single; both
+       arcs earn the CTA through depth)
+    9. Subject line type: DIFFER (mechanism tease →
+       parent quote; SL voices the parent's
+       discovery)
+- Total: 7/9 dimensions differ
+- Threshold: ≥5/9 → PASS
+- Note: The 2 dimensions that match (image density,
+  both 3; CTA position, both late) are intentionally
+  held because the proof email needs visual
+  substance and CTA pacing parity with the
+  objection-handling email
+
+=================================================================
+END OF WIREFRAME — welcome-01-e6-gf
+=================================================================
+```
+
+## STAGE 2 PICKS — welcome-01-e6-gf
+
+> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E6).
+> Scope: 6 sections (candid hero / cool-blue band + quote /
+> mechanism band + 3-layer table + comparison / 2 quotes /
+> late CTA / signoff MEDIUM→LONG).
+> GF calibration: R1–R6 strict, V16 symptom language only;
+> CRITICAL: PP-Level Detection ALSO fires at Day 14. Per GF §15
+> Welcome E6 and §20 PP-Level Detection, **PP-Level Detection
+> takes priority over Welcome E6** for GF purchasers.
+> (Suppression logic: if `purchased=true` AND `level=gf`,
+> suppress Welcome E6, deliver PP-Level Detection instead.)
+> 50/50 hope/realism; the Three-Family Pattern is the social proof.
+
+### Section 1: HOOK — PULL-UP REFRAME (PAS PROBLEM)
+- ROLE slot: `hero-lifestyle-candid-gf`
+- INTENT: a candid lifestyle photo of a child playing in BKC
+  underwear; warm natural light, real home; THREE-child composite
+  rule per GF-V1.
+- COMPONENT PICKED: **IMG-09** — Lifestyle Grid (4-Panel)
+  - From catalog: position=body_images, image_support=image_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: 4-panel lifestyle grid gives a real-home composite feel
+    without silhouetting to a single sub-group; Stage 3 will use
+    the strongest panel as the lead hero frame.
+- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
+  - Dimensions: 1200×800.
+  - Alt text (V16 spec): "Toddler in warm-tone real home setting,
+    soft natural light, ambiguous age."
+  - Currently used: 0/25.
+  - WHY: warm-tone ambiguous-age lifestyle image with watermelon-
+    pink accents reinforces the cream/warm palette without
+    silhouetting to any sub-group.
+- VARIANCE CHECK: differs from E5 S1 (typography-only vs lifestyle).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 2: VALIDATION — PULL-UP REFRAME (PAS AGITATE)
+- ROLE slot: `cool-blue-tint-band-gf` + `callout-quote-highlight-gf`
+  (two sub-components, in one section)
+- INTENT: presents the Pull-Up reframe in a cool-blue tinted
+  band; the 49% stat appears in GF-V2 paraphrase form; followed by
+  a GF-universal parent quote callout.
+- COMPONENT PICKED: **20.3** — Gradient Band Variants (band slot)
+  + **DEEP-19** — The Signal Analogy (callout slot)
+  - Currently used: 0/8 each.
+  - WHY (band): gradient-band structurally fits a full-width
+    colored band; Stage 3 will paint with the cool-blue tone
+    (the "old way analytical" zone) specified by the wireframe.
+  - WHY (callout): signal-analogy carries the inline quote callout
+    structure; Stage 3 will pair with terracotta left-border accent
+    for the "She'll pee herself and just keep playing" pull quote.
+  - V16 NOTE: 49% stat uses GF paraphrase form ("almost 1 in 2
+    children whose nervous systems process signals differently")
+    — never the L1 original.
+- IMAGE PICKED: none.
+- VARIANCE CHECK: differs from S1 (band+callout vs lifestyle).
+- GF CALIBRATION CHECK: ✅ V16 paraphrase.
+
+### Section 3: MECHANISM — BODY-SIGNAL OPPOSITE-OF-PULL-UPS
+- ROLE slot: `mechanism-pale-green-band-gf` + `product-3-layer-table-gf`
+  + `pullup-vs-bkc-comparison-gf` (three sub-components, in one section)
+- INTENT: pale-green tinted mechanism band (the "new way growth
+  zone") + clean 3-layer system table + vertical stacked cards
+  comparing pull-ups and BKC side-by-side.
+- COMPONENT PICKED: **13.7** — Signal Waves (mechanism band slot) +
+  **PDISP-3** — 3-Layer System Diagram (table slot, used once in
+  E4 S5 — at 1/8) + **PRICE-10** — Price Anchor (comparison slot)
+  - Currently used: 13.7 at 0/8 (one observed_externally tag in
+    tracker — counted here as real use); PDISP-3 at 1/8; PRICE-10
+    at 0/8.
+  - WHY (band): signal-waves component is the textbook
+    decoration for a "pale green" mechanism band; Stage 3 will
+    paint with pale-green #DBFFCD-leaning palette.
+  - WHY (table): 3-layer system diagram is the structural fit
+    for the 3-row table; Stage 3 will paint with alternating
+    row shading per wireframe.
+  - WHY (comparison): price-anchor component's visual hierarchy
+    is reusable as a comparison card structure; Stage 3 will
+    paint with the X (pull-up) / ✓ (BKC) treatments per the
+    wireframe; icon swap in Stage 3.
+  - V16 NOTE: comparison copy must NOT use aggressive sales
+    pressure ("Forever in pull-ups," "Adult diapers"); per
+    wireframe, body uses symptom/feature comparison only.
+- IMAGE PICKED: none (text-driven).
+- VARIANCE CHECK: differs from S2 (3-subcomponent band+table+compare
+  vs band+callout).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 4: SOCIAL PROOF — TWO QUOTES + GUARANTEE
+- ROLE slot: `two-quote-cards-stacked-gf` (2 stacked quote cards +
+  60-day guarantee shield)
+- INTENT: 2 stacked testimonial cards in warm-cream + 60-Day
+  Guarantee Shield Badge in 150x150px.
+- COMPONENT PICKED: **STORY-14** — Micro-Story (Single powerful moment)
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 1/8 (used in E5 S5).
+  - WHY: micro-story fits single-moment 2-card quote stack;
+    Stage 3 will paint the 60-day guarantee badge separately
+    below the cards.
+- IMAGE PICKED: none (text + small SVG shield).
+- VARIANCE CHECK: differs from S3 (quote cards vs mechanism stack).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 5: LATE CTA
+- ROLE slot: late CTA (Button "Shop the 3+3 Bundle — $79.99
+  Free Shipping" — coral CTA, NOT Brand-Green, signaling "the
+  new way" through warm urgency; secondary text link; P.S.
+  cost comparison.)
+- COMPONENT PICKED: **CTAMAX-04** — Smart CTA
+  - From catalog: position=cta, image_support=image_only,
+    audience=[L1,L2,L3,GF]. Currently used: 1/8.
+  - WHY: smart-CTA component structurally supports the
+    button + secondary-text-link + trust-signal-row combination
+    the wireframe specifies; Stage 3 will paint the button with
+    coral (warm urgency, NOT teal).
+  - V16 NOTE: copy must NOT use "Forever in pull-ups" or
+    "Adult diapers" pressure language (forbidden per GF §11).
+- IMAGE PICKED: none (button+text).
+- VARIANCE CHECK: differs from S4 (CTA vs quote cards).
+- GF CALIBRATION CHECK: ✅ no level labels.
+
+### Section 6: LENA SIGN-OFF (MEDIUM→LONG VARIANT)
+- ROLE slot: `signoff-lena-medium-long-gf`
+- INTENT: Lena MEDIUM→LONG transition signoff — longer peer
+  voice than E3-E5 MEDIUM.
+- COMPONENT PICKED: **REV-10.2** — REV-10.2 Lena Final (Lena's Last Word)
+  - From catalog: position=body_recognition, image_support=image_text,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: Lena-Final is structurally the LONG-leaning signoff
+    that fits the MEDIUM→LONG transition; Stage 3 will paint
+    with cream card.
+- IMAGE PICKED: none (text-only signoff).
+- VARIANCE CHECK: differs from S5 (signoff vs CTA).
+- GF CALIBRATION CHECK: ✅ Lena peer voice universal.
+
+### Suppression note (operational)
+> Per GF §15 Welcome E6 and §20 PP-Level Detection flow, **PP-Level
+> Detection takes priority over Welcome E6** for GF purchasers.
+> When `purchased=true` AND `level=gf` at Day 14, suppress this
+> email and deliver PP-Level Detection flow (flow 09, single email).
+> The picks above are still authored; they remain the asset
+> selection for the non-purchaser recipient of Welcome E6.
+
+### Footer (static — already extracted, no work needed)
+- Header: extracted Giuliano.
+- Footer: extracted Giuliano.
+- Sign-off: covered by Section 6 (REV-10.2).
+
+### Tracker updates applied
+- component-usage.json: IMG-09 +1, 20.3 +1, DEEP-19 +1, 13.7 +1,
+  PDISP-3 +1 (now 2/8), PRICE-10 +1, STORY-14 +1 (now 2/8),
+  CTAMAX-04 +1 (now 2/8), REV-10.2 +1.
+- image-usage.json: lifestyle/toddler-napping-watermelon-pink-shorts.png +1
+  (now 1/25).

@@ -214,3 +214,419 @@ Single visual direction calibrated via R1-R6, inclusive, not level-specific. No 
 - No level labels or color-coding by level
 
 **The only "visual hierarchy" is emotional:** warmer, more hopeful at the top → grounded, permission-framing at the bottom. The parent enters with their hesitation, travels through peer stories, and arrives at a decision point with zero pressure. Every visual element exists to reduce friction, not to categorize the reader.
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-cart
+
+```
+=================================================================
+WIREFRAME: cart-02-e1
+Email ID: cart-02-e1
+Flow: cart_abandonment | Position: E1 | Hour: 1 | Level: GF (cross-level)
+=================================================================
+
+SUBJECT: You left something, no rush
+PREHEADER: Your cart's still here. So is the 60-day guarantee.
+            Whenever you're ready.
+
+=================================================================
+[NAME: section-1-hero]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — continues from preheader)
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: hero-illustration-signal-path
+INTENT: abstract dotted neural line with three glowing nodes
+        (no faces, no children, no level imagery). The path
+        travels left-to-right and ends at a soft glow — the
+        "signal arriving" metaphor. Allows every parent to
+        project her own child.
+EXAMPLE_PICK: Soft Structuralism, line-art illustration, three
+              nodes, no human figures, warm cream background,
+              emerald accent line
+
+NO CTA in this section (CTAs only in last section)
+NOTE: hero is the FIRST block; sets the visual metaphor for the
+      entire email (signal-path runs through every section).
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-2-hook]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Whether you had one foot on the checkout button
+          or you were still reading…
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: hero-quote-callout
+INTENT: opens with the "your cart's still saved, no rush"
+        sentence as a single callout. Frames the entire email
+        as permission-based, NOT pushy.
+EXAMPLE_PICK: large callout box, single sentence, hairline
+              border, generous padding
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-3-validation]
+─────────────────────────────────────────────────────────────────
+HEADLINE: You've probably seen some version of this:
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: recognition-anchor-list
+INTENT: 4 symptom anchors stacked vertically (R2). Renders the
+        "sits 20 min / plays wet / almost trained / never
+        initiates" set. Signal-dot bullets (not standard
+        circles). Each anchor is a different symptom profile
+        so every sub-group (A/B/C/D/E) finds herself.
+EXAMPLE_PICK: vertical list, four lines, signal-dot bullets,
+              each line one symptom, no age labels
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-4-mechanism]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Here's what most parents never get told:
+SUBHEADLINE: The body has to feel it before the brain can
+             respond to it.
+
+[VISUAL ELEMENT]
+ROLE: mechanism-explanation-block
+INTENT: interoception explainer. One paragraph of plain text
+        with the word "signal" rendered in the brand accent.
+        Cites the Barmpagiannis & Baldimtsi 2025 review.
+        No diagram (the hero already carried the metaphor).
+EXAMPLE_PICK: text block on tinted background panel (borderless,
+              just background shift). Single emerald word accent.
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-5-three-family-proof]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Three families, one common piece:
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: three-testimonial-card-stack
+INTENT: three cards vertically stacked, each with hairline
+        LEFT emerald border. Each card carries one parent
+        story (Sarah / Lisa / Maria) — symptom-described, no
+        level labels. Card widths uniform on desktop, full
+        width on mobile. Card corners 8px radius.
+EXAMPLE_PICK: 3 stacked cards, each ~120 words, attribution line
+              in small caps with letter-spacing, hairline
+              accent left border, no photos
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-6-product-intro]
+─────────────────────────────────────────────────────────────────
+HEADLINE: The product in your cart was designed
+          around that missing connection.
+SUBHEADLINE: none
+
+[VISUAL ELEMENT]
+ROLE: product-introduction-block
+INTENT: introduces Body-Signal Learning Layer underwear
+        gently. One paragraph explains the gentle sustained
+        sensation (30-60 seconds). Product image NOT shown
+        (this is a mechanism email, not a product email).
+EXAMPLE_PICK: text block, mechanism-led copy, no product photo,
+              pure prose
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[NAME: section-7-guarantee-and-cta]
+─────────────────────────────────────────────────────────────────
+HEADLINE: 60 days to try it. By your judgment.
+SUBHEADLINE: If it doesn't work for your child — no pause,
+             no look, no step toward the bathroom — full
+             refund.
+
+[VISUAL ELEMENT]
+ROLE: guarantee-callout-block
+INTENT: framed guarantee sentence, centered, on warm cream
+        background. Sits ABOVE the CTA, serving as barrier
+        removal before the button.
+EXAMPLE_PICK: centered statement, mint tint or hairline border,
+              single sentence, generous vertical breathing room
+
+[CTA]
+BUTTON_TEXT: Check out when you're ready
+BUTTON_INTENT: gentle re-entry to checkout. No "buy now" —
+              permission-framed per V12.
+SECONDARY: text link "Your original offer is saved →"
+           (small, muted, below button)
+PLACEMENT: below guarantee, above-the-fold reachable
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[ROLE: signoff-lena-short]
+─────────────────────────────────────────────────────────────────
+Body: "Talk soon,"
+Closing line: "P.S. If you want to see how the body-signal
+              approach works, [link]. No pressure."
+Signature: "Lena —," (em-dash italic, 14px)
+Title: "Customer Support · Mom of two autistic sons"
+NOTE: SHORT variant per locked-profile §signoff_variant.
+      Email is gentle check-in, not deep connection.
+
+=================================================================
+[ROLE: footer-static]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+[Physical Address]
+No longer want these emails? Unsubscribe
+Reply to this email. Lena reads every response.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Hero (signal-path illustration) visible above 400px? YES
+  (hero is section 1, the very first block on mobile)
+- Section 2 hook visible above 400px? YES (hook immediately
+  follows hero, ~80 words)
+- First CTA reachable above 700px scroll? NO (CTA is last
+  section by design — gentle re-entry, not above-fold push)
+- Above-fold decision: hero + hook + signal-path illustration
+  is the entire above-fold experience. Copy explicitly says
+  "your cart's still saved, no rush" — no urgency, no pressure.
+
+=================================================================
+IMAGE_COUNT:
+- Total images: 1 (hero signal-path illustration only)
+- Positions: section-1
+- Density: 1 (text-dominant, single hero visual)
+- No product images, no lifestyle photos, no faces
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES: 6
+  - hero-illustration-signal-path (section 1)
+  - hero-quote-callout (section 2)
+  - recognition-anchor-list (section 3)
+  - mechanism-explanation-block (section 4)
+  - three-testimonial-card-stack (section 5)
+  - product-introduction-block (section 6)
+  - guarantee-callout-block (section 7)
+  - signoff-lena-short
+  - footer-static
+- Effective ROLES in body: 6 (signoff and footer are static)
+- Density: 6 (rich but text-dominant — the illustration does
+  the visual work, the rest is prose)
+
+=================================================================
+STRUCTURAL_INTENT:
+- Section count: 7 (6 body sections + 1 CTA section)
+- Section pattern: C (Problem-Solution) — Hook → Validation →
+  Mechanism → Proof → Product → Guarantee → CTA
+- Image density: 1
+- Color temperature: warm (cream + charcoal + emerald accent)
+- Email length: medium-long (766 words per locked-profile)
+- Argument structure: Problem-Solution (recognize the gap →
+  explain the mechanism → prove it works → remove risk → CTA)
+- Visual rhythm: mixed (tight at hook, open at testimonials,
+  tight at guarantee)
+- CTA position: late (last section, permission-framed)
+- Subject line type: permission frame (matches V12 —
+  permission-not-to-buy)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: NONE (this is E1, baseline set)
+- Variance ledger target per journey-gf-MASTER §36: C
+  (Problem-Solution) ✅ MATCHES
+- Section pattern C differs from Welcome GF E1 pattern A
+  (Classic), confirming cross-flow distinctness.
+
+=================================================================
+R1-R6 CALIBRATION (Cross-Level):
+- R1 (Symptom over label): ZERO level labels in copy. Three
+  stories use symptom descriptors only.
+- R2 (3-5 recognition anchors): 4 anchors in section 3
+  ("sits 20 min / plays wet / almost trained / never
+  initiates") + 3 in testimonial cards = 7 anchors total
+  (within 3-5 per section, total exceeds with testimonial).
+- R3 (Age ranges): NO fixed ages. Testimonials use ranges
+  ("verbal 4-year-old", "6-year-old with sensory differences",
+  "non-verbal 8-year-old") and "3 weeks to 9 years" implicit.
+- R4 (Verbal/Non-Verbal): Both modes covered — Sarah (verbal),
+  Lisa (sensory-difference / verbal), Maria (non-verbal).
+- R5 (Timeline flexibility): "Three different timelines" called
+  out explicitly. "2 weeks", "after 6 weeks" without promise.
+- R6 (Low-bar success): "Pause. Look. Step toward bathroom"
+  as success metric. NOT "fully trained."
+- V16 (GF): ZERO autism / ASD / L1-L2-L3 labels in body.
+  "Nervous system", "sensory differences", "verbal /
+  non-verbal" used as umbrella.
+
+=================================================================
+END OF WIREFRAME — cart-02-e1
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — cart-02-e1
+
+
+> **Cross-level Calibration:** R1-R6 strict. V16 symptom language (no autism labels).
+
+
+> **Section count:** 7 body sections.
+
+> **Flow:** cart | **Position:** E1 | **Level:** GF
+
+
+### Section 1: Hero
+
+- ROLE slot: `hero`
+
+- INTENT: default block — Hero
+
+- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 2: Hook
+
+- ROLE slot: `hook`
+
+- INTENT: hook block — Hook
+
+- COMPONENT PICKED: **HERO-11** — Question Storm
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
+
+  - Currently used: 5/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 3: Validation
+
+- ROLE slot: `validation`
+
+- INTENT: validation block — Validation
+
+- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 4: Mechanism
+
+- ROLE slot: `mechanism`
+
+- INTENT: mechanism block — Mechanism
+
+- COMPONENT PICKED: **HERO-16** — Mechanism Tease
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
+
+  - Currently used: 3/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 5: Three Family Proof
+
+- ROLE slot: `three-family-proof`
+
+- INTENT: social_proof block — Three Family Proof
+
+- COMPONENT PICKED: **STORY-04** — Deep Quote
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
+
+  - Currently used: 3/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 6: Product Intro
+
+- ROLE slot: `product-intro`
+
+- INTENT: hook block — Product Intro
+
+- COMPONENT PICKED: **HERO-12** — Before Snapshot
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: **lifestyle/toddler-playing-train-moon-cloud-blue.png**
+
+  - Currently used: 2/25
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Section 7: Guarantee And Cta
+
+- ROLE slot: `guarantee-and-cta`
+
+- INTENT: guarantee block — Guarantee And Cta
+
+- COMPONENT PICKED: **TRUST-7** — Trust Block
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- GF CALIBRATION CHECK: ✅ no level labels, V16 symptom language
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 7

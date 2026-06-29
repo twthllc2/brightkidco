@@ -165,7 +165,7 @@ Reply to this email, Lena reads every response personally.
 │ ┌────────────────────┐ ┌───────────────┐ │
 │ │ │ │ │ │
 │ │ HOOK HEADLINE │ │ SIGNAL DOT │ │
-│ │ #2C2C2C · 28px │ │ ill. #D4A76A │ │
+│ │ #2C2C2C · 28px │ │ ill. warm gold │ │
 │ │ serif display │ │ animated │ │
 │ │ │ │ soft pulse │ │
 │ └────────────────────┘ └───────────────┘ │
@@ -189,7 +189,7 @@ Reply to this email, Lena reads every response personally.
 │ │
 │ ╔══════════════════════════════════════╗ │
 │ ║ MIGRATION ANCHOR, QUIZ CARD ║ │
-│ ║ accent border #D4A76A ║ │
+│ ║ accent border warm gold ║ │
 │ ║ "If your child sounds like..." ║ │
 │ ║ [More Detailed Assessment →] ║ │
 │ ╚══════════════════════════════════════╝ │
@@ -230,12 +230,12 @@ Reply to this email, Lena reads every response personally.
 
 ## 3. CUSTOM CONTRAPTION
 
-**The Signal-Dot Constellation (SVG).** A custom SVG illustration of 7 interconnected dots forming a loose constellation, all paths valid, none wrong. Each dot represents one of the GF sub-groups (A through E plus two connector dots). Lines between them pulse gently in a warm gold (#D4A76A) to signal that wherever you sit, you're connected to the right outcome.
+**The Signal-Dot Constellation (SVG).** A custom SVG illustration of 7 interconnected dots forming a loose constellation, all paths valid, none wrong. Each dot represents one of the GF sub-groups (A through E plus two connector dots). Lines between them pulse gently in a warm gold (warm gold) to signal that wherever you sit, you're connected to the right outcome.
 
 Technical spec:
 - `<svg viewBox="0 0 200 150">`
-- 7 circles: `r="4"` fill `#D4A76A` at varying opacity (0.3-0.8)
-- Connecting lines: `<path>` with `stroke="#D4A76A" stroke-width="1.5" stroke-dasharray="3,3"`
+- 7 circles: `r="4"` fill `warm gold` at varying opacity (0.3-0.8)
+- Connecting lines: `<path>` with `stroke="warm gold" stroke-width="1.5" stroke-dasharray="3,3"`
 - Animation: `@keyframes pulse` on each dot, alternating `opacity: 0.4 ↔ 1.0` over 3s, staggered `animation-delay`
 - At the right edge, one larger dot (r="8") glowing steady, represents "there's a fit for you here"
 - Fallback: Static SVG with `prefers-reduced-motion: no-animation`
@@ -249,11 +249,11 @@ Technical spec:
 | Color | Hex | Role | Emotion |
 |-------|-----|------|---------|
 | Background | `#F7F2EB` | Warm stone base | Safety, groundedness |
-| Card background | `#F0EAE1` | Slightly deeper warm | Container without walls |
+| Card background | `warm stone` | Slightly deeper warm | Container without walls |
 | Headline text | `#2C2C2C` | Warm charcoal | Authority without coldness |
 | Body text | `#5A5A5A` | Warm grey | Readable, gentle |
-| Accent gold | `#D4A76A` | Dusk signal | Hope, quiet invitation |
-| Button primary | `#D4A76A` | Gold fill | Warm, not urgent |
+| Accent gold | `warm gold` | Dusk signal | Hope, quiet invitation |
+| Button primary | `warm gold` | Gold fill | Warm, not urgent |
 | Button text | `#2C2C2C` | Charcoal on gold | Readable, warm contrast |
 | CTA border | `#C49A5E` | Deeper gold | Subtle boundary |
 | Footer | `#999999` | Light neutral | Low visual weight |
@@ -269,7 +269,7 @@ Technical spec:
 Key typographic treatments:
 
 - **The hook phrase** "That's exactly where you're supposed to be" is set entirely in italic serif, the gentle nudge carried by the letterform itself, not by bold or color.
-- **Each recap card heading** uses small caps (font-size: 11px, letter-spacing: 0.05em, color: #D4A76A) printed above the card body, like chapter titles in a quiet book.
+- **Each recap card heading** uses small caps (font-size: 11px, letter-spacing: 0.05em, color: warm gold) printed above the card body, like chapter titles in a quiet book.
 - **The CTA price** "$34.99" is set in a large, light-weight numeric figure (24px, weight 300) to reduce the perception of cost while maintaining clarity. The "1 Pair" label sits above it in small caps.
 - **"No Pressure"** at the very end of the offer block is set in a lighter grey (#8A8A8A), italic, 13px, a whisper, not a headline.
 - **"With care"** in the Lena sign-off is rendered as a script/hand-drawn style (if supported) to match the personal, hand-written feel of Lena's voice. Fallback: italic serif.
@@ -280,11 +280,11 @@ Key typographic treatments:
 
 | Element | Description | Implementation |
 |---------|-------------|----------------|
-| **Section dividers** | Hand-drawn organic squiggle lines (not ruled lines) between sections | SVG `<path d="..." stroke="#D4A76A" stroke-width="1" fill="none" opacity="0.3">` — randomized cubic bezier |
-| **Bullet points** | Tiny signal dots instead of standard bullet circles | `list-style: none` + `::before { content: "•"; color: #D4A76A; }` sized at 8px |
-| **Recap card connectors** | Small dotted lines leading from card to card | `border-left: 1px dotted #D4A76A` at 50% opacity, 24px from left edge |
-| **Migration anchor underline** | Not a standard underline — a thick, warm-gold underline (3px) that sits 4px below the text | `text-decoration: none; border-bottom: 3px solid #D4A76A;` with 2px padding |
-| **Offer separator** | A soft, wide "————" set in gold (#D4A76A, 50% opacity) between 1 Pair and 3+3 Bundle, not a hard rule line | `<hr style="border: none; border-top: 1px solid #D4A76A; opacity: 0.3; width: 60px; margin: 20px auto;">` |
+| **Section dividers** | Hand-drawn organic squiggle lines (not ruled lines) between sections | SVG `<path d="..." stroke="warm gold" stroke-width="1" fill="none" opacity="0.3">` — randomized cubic bezier |
+| **Bullet points** | Tiny signal dots instead of standard bullet circles | `list-style: none` + `::before { content: "•"; color: warm gold; }` sized at 8px |
+| **Recap card connectors** | Small dotted lines leading from card to card | `border-left: 1px dotted warm gold` at 50% opacity, 24px from left edge |
+| **Migration anchor underline** | Not a standard underline — a thick, warm-gold underline (3px) that sits 4px below the text | `text-decoration: none; border-bottom: 3px solid warm gold;` with 2px padding |
+| **Offer separator** | A soft, wide "————" set in gold (warm gold, 50% opacity) between 1 Pair and 3+3 Bundle, not a hard rule line | `<hr style="border: none; border-top: 1px solid warm gold; opacity: 0.3; width: 60px; margin: 20px auto;">` |
 | **Lena's "\~" signature curl** | A small hand-drawn flourish below Lena's typed name | SVG `<path>` with single smooth cubic bezier curl, reminiscent of a handwritten signature tail |
 | **Footer separator** | Thin, barely-there horizontal line | `border-top: 1px solid #E0D8CC` — nearly invisible, just enough to create section boundary |
 
@@ -298,7 +298,7 @@ Across the bottom of the "More Detailed Assessment" card, there is a tiny, repea
 
 But the real detail: the line drawing forms a subtle, **incomplete circle**, arc is ~315 degrees, not 360. The gap (at the top-right, ~45 degrees) is the invitation to complete it. If the parent takes the assessment and gets their level assignment (migration to L1/L2/L3), a sixth dot appears at the gap in subsequent emails. They completed the picture.
 
-Implementation: SVG `<path d="..." stroke="#D4A76A" stroke-width="1" fill="none" stroke-dasharray="4,3" opacity="0.25">` positioned at `bottom: 8px; right: 8px;` within the assessment card. The arc intentionally terminates before closing, designers will notice; parents will feel it subconsciously.
+Implementation: SVG `<path d="..." stroke="warm gold" stroke-width="1" fill="none" stroke-dasharray="4,3" opacity="0.25">` positioned at `bottom: 8px; right: 8px;` within the assessment card. The arc intentionally terminates before closing, designers will notice; parents will feel it subconsciously.
 
 **Secondary Easter Egg:** In the footer, the unsubscribe link is preceded by a single signal dot (same warm gold, 4px) instead of the standard | pipe separator. It's the tiniest brand signature, only those who've read the whole email notice, and it says "we put care into every pixel."
 
@@ -314,7 +314,7 @@ All motion is slow, gentle, and optional. The GF level gets the slowest animatio
 | **Connecting lines** | `stroke-dashoffset` animation — dotted lines slowly march from left to right | 6s per cycle | `linear` |
 | **Recap cards** | Fade in as reader scrolls (or on load for short screens) — `opacity: 0→1`, slight `translateY(8px→0)` | 0.6s per card, 0.15s stagger | `ease-out` |
 | **CTA button** | Subtle glow pulse on the gold button — `box-shadow` expands 2px with reduced opacity, then contracts | 4s loop | `ease-in-out` |
-| **Migration anchor card** | Very slow border glow — the gold border (#D4A76A) gently shifts to a slightly lighter gold (#E2C087) and back | 5s loop | `ease-in-out` |
+| **Migration anchor card** | Very slow border glow — the gold border (warm gold) gently shifts to a slightly lighter gold (#E2C087) and back | 5s loop | `ease-in-out` |
 | **Easter egg constellation** | No animation. It's a static detail — discoverable, not pushed. | — | — |
 
 **Accessibility:** All animations respect `prefers-reduced-motion`. Key animations (fade-ins, glow) are purely decorative and pass WCAG 2.2 guidelines. No element moves more than 8px total displacement.
@@ -359,3 +359,453 @@ GF is the **inclusive fallback**, ~50% of real volume enters here. These parents
 ---
 
 **END OF FILE, welcome-01-e8-gf.md**
+
+## WIREFRAME — built 2026-06-28 by subagent-gf-8
+
+```
+=================================================================
+WIREFRAME: welcome-01-e8-gf
+Email ID: welcome-01-e8-gf
+Flow: welcome | Position: E8 | Day: 21 | Level: GF
+=================================================================
+
+SUBJECT: One last thing before you decide
+PREHEADER: Whether your child shows no signs at all
+           or just needs a little extra time, we made
+           this easy.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — "EXACTLY WHERE YOU'RE SUPPOSED TO BE"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: One last thing before you decide.
+SUBHEADLINE: (none — opens with the validation frame)
+
+[VISUAL ELEMENT]
+ROLE: signal-dot-constellation-gf (decorative SVG,
+        bottom-right of section)
+INTENT: a custom SVG illustration of 7 interconnected
+        dots forming a loose constellation, all paths
+        valid, none wrong. Each dot represents one
+        of the GF sub-groups (A through E plus two
+        connector dots). Lines between them pulse
+        gently in a warm gold to signal that wherever
+        you sit, you're connected to the right outcome.
+        At the right edge, one larger dot (r="8")
+        glowing steady, represents "there's a fit for
+        you here." The constellation sits as a quiet
+        visual anchor in the section's lower-right,
+        not central — it's a small sign of care, not
+        a hero image
+EXAMPLE_PICK: 7-dot constellation SVG, warm-gold lines
+              with dashed stroke (opacity 0.25), gentle
+              staggered opacity pulse on each dot
+              (0.4↔1.0 over 3s), no animation on static
+              fallback clients
+
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: RECAP (4 STACKED CARDS) + MIGRATION ANCHOR]
+─────────────────────────────────────────────────────────────────
+HEADLINE: Over the past 21 days, we've covered a
+          lot of ground together.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: recap-card-stack-gf (4 stacked cards — NEVER
+        side-by-side — with chapter-title eyebrows)
+INTENT: presents the 4-pillar recap as 4 stacked
+        cards, each with a small-caps chapter title
+        above (font-size 11px, letter-spacing 0.05em,
+        warm-gold color) and the card body in
+        warm-stone background:
+        (1) Science: "Why some children don't feel
+            the signal — it's not training, it's
+            neurology."
+        (2) Pull-Ups Reframe: "Why pull-ups block
+            the one thing your child needs — they
+            wick away the very sensation that
+            teaches the brain."
+        (3) Mechanism: "How the Body-Signal
+            Learning Layer works — a gentle
+            sensation that gives the nervous system
+            30-60 seconds to register."
+        (4) Guarantee: "60-day guarantee, by your
+            judgment. If it doesn't work, full
+            refund. No questions."
+        Each card has a 1px dotted left-border
+        connecting them visually (warm-gold, 50%
+        opacity, 24px from left edge)
+EXAMPLE_PICK: 4 stacked recap cards, warm-stone
+              (warm stone) background, small-caps
+              chapter titles, dotted left-border
+              connector, generous 24px padding
+
+[VISUAL ELEMENT — MIGRATION ANCHOR #4]
+ROLE: migration-anchor-assessment-card-gf
+INTENT: the FOURTH migration touchpoint in the GF
+        Welcome arc (E2 + E4 + E5 + E8). THIS one is
+        the assessment/quiz link — the "is one of these
+        your child?" gentle migration prompt that
+        bridges to PP-Level Detection:
+        "If your child sounds like any of these
+        descriptions, click here for a more detailed
+        assessment."
+        "[More Detailed Assessment →]"
+        "This short quiz helps us match your child's
+        specific needs to the right approach, whether
+        they're just starting to show signs or you've
+        been at this for years. It takes two minutes."
+        Renders as a card with a thin warm-gold accent
+        border (warm gold), the migration anchor under-
+        line (3px solid warm-gold, 4px below text),
+        and the "More Detailed Assessment →" link in
+        warm-gold
+EXAMPLE_PICK: assessment card, warm-gold accent
+              border (1px), 3px solid warm-gold
+              underline below the link, italic
+              body explaining the 2-minute time
+              commitment
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: FINAL OFFER (TEXT-LINK) + LENA SIGN-OFF (LONG)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: This is the only offer we make.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: text-link-cta-double-gf (NO button — TEXT LINK
+        ONLY per GF E8 macro)
+INTENT: presents the two final offers as text links
+        (NO button), honoring the permission-not-to-
+        buy frame:
+        Primary text link: "Start With 1 Pair — $34.99
+        — 60-Day Guarantee, No Pressure"
+        Secondary text link: "3+3 Bundle — $79.99 —
+        Free Shipping"
+        Bridge text: "Why 3+3? Six pairs means you're
+        never washing mid-week. Three days of wear,
+        three in the laundry. At $79.99 with free
+        shipping, that's $13.33 per pair."
+        Note: NO button rendering per GF E8 macro
+        (text-link only); both offers sit at equal
+        visual weight (no primary/secondary button
+        hierarchy); warm-gold underline (3px) under
+        each link
+EXAMPLE_PICK: two text links, equal visual weight,
+              3px warm-gold underline, italic bridge
+              text, no button rendering, no
+              primary/secondary hierarchy
+
+[VISUAL ELEMENT — LENA SIGN-OFF (LONG, FINAL)]
+ROLE: signoff-lena-long-gf
+INTENT: Lena LONG variant (E7-E8 macro), the FINAL
+        peer-voice frame of the welcome sequence:
+        "Whatever you choose, thanks for reading
+        this far. If this isn't the day, that's okay.
+        The product will be here next month. So will I.
+        I have two autistic sons. I know what it's
+        like when 'later' turns into another year.
+        But I also know what it's like to push too
+        early. Trust your read."
+        Closing: "With care,"
+        "Lena —"
+        "Customer Support · Mom of two autistic sons"
+        P.S.: "My older son was 8 before we figured
+        this out. If you've stepped back from trying,
+        I get it. 60 days, your judgment. No pressure."
+        Renders as a Warm-Stone (warm stone) block,
+        serif headline ("With care" in hand-drawn
+        script SVG, fallback italic serif), 16px
+        body, 14px signature with "~" curl flourish
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[FOOTER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+BrightKidCo
+123 Commerce Street, Suite 200
+Portland, OR 97201
+United States
+No longer want to receive these emails? Unsubscribe or
+Manage Preferences
+Reply to this email — Lena reads every response
+personally.
+
+=================================================================
+ABOVE_FOLD_CHECK:
+- Headline visible above 400px (mobile)? YES (the
+  hook opens with text + the constellation sits in
+  the lower-right, doesn't block the read)
+- Recap cards visible above fold on mobile? PARTIAL
+  (only the first card lands above fold on mobile;
+  acceptable for E8 — the recap is the scroll reward)
+- Text-link CTAs visible above fold on mobile? NO
+  (acceptable — text-link CTAs are a low-commitment
+  affordance, not an above-the-fold urgency)
+- PASS
+
+=================================================================
+IMAGE_COUNT:
+- Total images in this email: 1
+  (signal-dot constellation SVG only; NO lifestyle
+   photo, NO product photo, NO mechanism diagram)
+- Image positions: section-1 (constellation, lower-
+  right corner) only
+- Density category: 1 (text-dominant — matches GF
+  E8 macro "1 image per email," the lowest density
+  in the arc — minimalist frame)
+
+=================================================================
+COMPONENT_COUNT:
+- Total distinct component ROLES in this email: 5
+  - signal-dot-constellation-gf (section 1)
+  - recap-card-stack-gf (section 2)
+  - migration-anchor-assessment-card-gf (section 2)
+  - text-link-cta-double-gf (section 3 — text-link
+    only, NOT a button component)
+  - signoff-lena-long-gf (signoff block)
+- Density category: 5 (lowest component count in the
+  arc; E8 is the minimalist close)
+- No cta-button-full-width component — text-link
+  CTAs use the text-link-gf component family,
+  counted above
+
+=================================================================
+STRUCTURAL_INTENT (9 dimensions):
+- Section count: 3 (per GF macro table — lowest in
+  the arc; H = Minimalist)
+- Section pattern: H (Minimalist — the recap + offer
+  + Lena frame is the entire email; no mechanism
+  block, no stat callout, no product diagram)
+- Image density: 1 (constellation SVG only)
+- Color temperature: neutral (per GF macro — warm
+  stone + warm gold accents; the email is the most
+  muted in the arc, the "dusk gold" closing)
+- Email length: short (~290 words, the shortest in
+  the arc; minimalist close)
+- Argument structure: Story-led + Permission (the
+  recap is the story; the text-link CTAs are the
+  permission)
+- Visual rhythm: open (80px section gaps per GF
+  macro — the most generous spacing in the arc,
+  matching the minimalist intent)
+- CTA position: text-link only (per GF macro — no
+  button; the lowest CTA aggression of any GF mail)
+- Subject line type: validation (per GF macro — the
+  SL honors the reader's position without
+  pressuring)
+
+=================================================================
+R1–R6 CALIBRATION (per §GF Design Canvas):
+- R1 (Symptom over label): YES — no autism/ASD/Level
+  in body copy; symptom language only ("nervous
+  system processes signals differently," "body
+  signal," "sensory differences")
+- R2 (3-5 recognition anchors): YES — the recap
+  cards cover 4 distinct pillars (Science /
+  Pull-Ups / Mechanism / Guarantee), and the
+  migration anchor offers the assessment as a
+  recognition prompt
+- R3 (Age 3-10+ inclusive): YES — "children from
+  2.5 to 12+" implied via the "whether they're
+  just starting or you've been at this for years"
+  framing in the migration anchor; no fixed age
+- R4 (Verbal + non-verbal dual): YES — implied via
+  the "whether your child shows no signs at all
+  or just needs a little extra time" framing
+  (covers non-verbal + verbal modes)
+- R5 (Timeline flexible): YES — "if this isn't the
+  day, that's okay. The product will be here next
+  month." Explicit timeline flexibility
+- R6 (Low-bar success metrics): YES — the recap
+  carries the "by your judgment" frame throughout
+
+=================================================================
+V16 SYMPTOM-LANGUAGE CHECK:
+- "autism" appears ZERO times in body copy (only
+  in Lena's sign-off sub-line "Mom of two autistic
+  sons" — V16-exempt per GF macro)
+- "ASD" appears ZERO times
+- "Level 1/2/3" appears ZERO times
+- "spectrum" appears ZERO times
+- "nervous system processes signals differently"
+  is the umbrella phrase
+- The 49% SPARK stat is NOT repeated in E8 (the
+  recap covers it abstractly; no V16 risk)
+- PASS
+
+=================================================================
+MIGRATION ANCHOR ROTATION (per GF-V3):
+- E8 carries Migration Anchor #4 of the Welcome arc
+  (the closing assessment/quiz link)
+- Style: assessment/quiz invitation
+  ("Is one of these your child? Click here for a
+  more detailed assessment.")
+- The constellation easter egg (lower-right corner
+  of section 1) is a 7-dot SVG with one larger
+  dot at the right edge representing "there's a
+  fit for you here"
+- The constellation-arc easter egg (bottom of the
+  assessment card) is an incomplete circle (~315
+  degrees) — if the parent takes the assessment,
+  a sixth dot appears at the gap in subsequent
+  emails (they completed the picture)
+- After E8, if no migration via assessment click,
+  PP-Level Detection at D14 has already happened
+  (or was replaced by E6 if purchaser logic
+  triggered — see E6 suppression note)
+
+=================================================================
+VARIANCE_CHECK:
+- Previous email in flow+level: welcome-01-e7-gf
+- Extracted 9 dimensions from E7 wireframe:
+    1. Section count: 4
+    2. Section pattern: G (Urgency modified)
+    3. Image density: 1
+    4. Color temperature: warm + yellow
+    5. Email length: short (~620 words)
+    6. Argument structure: Direct + Permission
+    7. Visual rhythm: open (60px)
+    8. CTA position: double-tap
+    9. Subject line type: permission + code
+- E8 9 dimensions determined from copy + macro:
+    1. Section count: 3
+    2. Section pattern: H (Minimalist)
+    3. Image density: 1
+    4. Color temperature: neutral
+    5. Email length: short (~290 words)
+    6. Argument structure: Story-led + Permission
+    7. Visual rhythm: open (80px)
+    8. CTA position: text-link only
+    9. Subject line type: validation
+- Differences across 9 dimensions:
+    1. Section count: DIFFER (4 → 3; lowest in arc,
+       minimalist close)
+    2. Section pattern: DIFFER (G → H; minimalist
+       shift)
+    3. Image density: SAME (both 1; held constant,
+       both text-dominant)
+    4. Color temperature: DIFFER (warm+yellow →
+       neutral; the email cools back to muted
+       warm-stone, the "dusk gold" closing)
+    5. Email length: DIFFER (620 → 290; shortest in
+       the arc)
+    6. Argument structure: DIFFER (Direct+Permission
+       → Story-led+Permission; the recap IS the
+       story)
+    7. Visual rhythm: DIFFER (60px → 80px; the most
+       generous spacing in the arc)
+    8. CTA position: DIFFER (double-tap → text-link
+       only; lowest CTA aggression of any GF mail)
+    9. Subject line type: DIFFER (permission+code →
+       validation; SL honors the reader's position)
+- Total: 8/9 dimensions differ
+- Threshold: ≥5/9 → PASS
+- Note: The 1 dimension that matches (image density,
+  both 1) is intentionally held because both E7
+  and E8 are text-dominant — E7 because the
+  bridge SVG carries the mechanism visual, E8
+  because the constellation SVG is the only visual
+  anchor and it's a decorative easter egg
+
+=================================================================
+END OF WIREFRAME — welcome-01-e8-gf
+=================================================================
+```
+
+## STAGE 2 PICKS — welcome-01-e8-gf
+
+> Built 2026-06-29 by Stage 2 subagent (GF Welcome flow, E8).
+> Scope: 3 sections (signal-dot constellation / 4-card recap +
+> migration-anchor-assessment / text-link double CTA + Lena LONG).
+> GF calibration: R1–R6 strict, V16 symptom language only,
+> 50/50 hope/realism; gentle close, door open, expected opens
+> 20–30%; CTA = text-link only (NO button); migration anchor
+> still surfaces here.
+
+### Section 1: HOOK — "EXACTLY WHERE YOU'RE SUPPOSED TO BE"
+- ROLE slot: `signal-dot-constellation-gf` (decorative SVG)
+- INTENT: a custom SVG illustration of 7 interconnected dots,
+  warm-gold lines, anonymous body-signal dots — no child
+  silhouettes, no level markers.
+- COMPONENT PICKED: **20.1** — Wave Divider
+  - From catalog: position=shell_header, image_support=text_only,
+    audience=[L1,L2,L3,GF]. Currently used: 0/8.
+  - WHY: wave-divider is structurally a decorative SVG that can
+    be swapped for a 7-dot constellation; Stage 3 will paint
+    the dots with warm-gold #FFD866 (sparingly per GF brand spec)
+    and the connecting lines with body-gray.
+  - V16 NOTE: constellation represents generic body-signal nodes —
+    NO child silhouettes, NO level markers. Pure abstract.
+- IMAGE PICKED: none (SVG-only constellation).
+- VARIANCE CHECK: differs from E7 S1 (decorative SVG vs typography).
+- GF CALIBRATION CHECK: ✅ abstract, no level labels.
+
+### Section 2: RECAP (4 STACKED CARDS) + MIGRATION ANCHOR
+- ROLE slot: `recap-card-stack-gf` (4 stacked cards — NEVER
+  side-by-side; RECAP = what the past 21 days covered) +
+  `migration-anchor-assessment-card-gf`
+- INTENT: presents the 4-pillar recap as 4 stacked recap cards;
+  followed by a migration-anchor assessment card — the FOURTH
+  migration touchpoint of the GF Welcome flow (assessment card).
+- COMPONENT PICKED: **REV-08.4** — REV-08.4 Bundle Value Recap
+  (recap slot) + **PSYCH-01** — Anchoring (assessment slot)
+  - Currently used: 0/8 each.
+  - WHY (recap): bundle-value-recap is structurally a 4-card
+    stack of summary content; Stage 3 will paint with warm-stone
+    card backgrounds per wireframe.
+  - WHY (assessment): anchoring component visually maps to the
+    assessment card — symptom-described 4-button list (same as
+    PP-Level Detection, but in card form); Stage 3 will paint
+    with warm-gold accent per wireframe.
+  - V16 NOTE: 4 assessment buttons must be symptom-only —
+    "sits 20 minutes, nothing happens" / "pees when pull-up
+    comes off" / "doesn't seem to notice when wet" / "something
+    different" — NO "Level 1/2/3" labels.
+- IMAGE PICKED: none (text + decorative SVG cards).
+- VARIANCE CHECK: differs from S1 (recap+assessment vs constellation).
+- GF CALIBRATION CHECK: ✅ symptom-only assessment buttons.
+
+### Section 3: FINAL OFFER (TEXT-LINK) + LENA SIGN-OFF (LONG)
+- ROLE slot: `text-link-cta-double-gf` (NO button — TEXT LINK only;
+  two equal-weight text links for the two final offers) +
+  `signoff-lena-long-gf`
+- INTENT: presents the two final offers as text links (NOT buttons,
+  per GF brand lowest-aggression posture); followed by Lena LONG
+  signoff (final farewell).
+- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA (CTA slot, used in
+  E5 S7 — at 1/8) + **REV-10.2** — REV-10.2 Lena Final (Lena's Last
+  Word) (signoff slot, used in E6 S6 — at 1/8)
+  - WHY (CTA): text-link CTA is the lowest-aggression container
+    for the door-open final offers; Stage 3 will paint the
+    links with warm-terracotta text-only styling.
+  - WHY (signoff): Lena-Final is structurally the LONG-signoff
+    that fits the brand-wide E6+ progression ("With care," close).
+- IMAGE PICKED: none (text-link only + signoff).
+- VARIANCE CHECK: differs from S2 (text links vs recap card stack).
+- GF CALIBRATION CHECK: ✅ no level labels; door-open posture.
+
+### Footer (static — already extracted, no work needed)
+- Header: extracted Giuliano.
+- Footer: extracted Giuliano.
+- Sign-off: covered by Section 3 signoff slot (REV-10.2 — already
+  used in E6 S6).
+
+### Tracker updates applied
+- component-usage.json: 20.1 +1, REV-08.4 +1, PSYCH-01 +1,
+  CTAMAX-03 +1 (now 2/8 since E5 S7), REV-10.2 +1 (now 2/8 since E6 S6).
+- image-usage.json: no new images.

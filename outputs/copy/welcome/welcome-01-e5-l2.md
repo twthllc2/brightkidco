@@ -469,3 +469,334 @@ All animations wrapped in `@media (prefers-reduced-motion: reduce)`, respect acc
 ### File Size Target
 
 **~38 KB**, exceeds 30 KB threshold for level-specific email ✓
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-l2-5
+
+> **Source sections (from Part 1 copy):** Hook → Objection Naming → Reframe → Mechanism → Social Proof → Guarantee → CTA → Sign-off (MEDIUM→LONG transition)
+> **Variance baseline:** L2 E4 (8 sections, Pattern C reframe, double-tap CTA, mint BCBA callout, MEDIUM sign-off, absolution subject)
+> **L2 deltas vs E4:** First Pattern F (Education-First) email; subject pivots to data-point authority ("Mahler, Wiggins, SPARK — and what they tell us"); pure mechanism deep with no product pitch body; multiple mint-bordered citation callouts in sequence (4 citation frames in one email establish the L2 visual signature at depth); 5+ citations named (Mahler, Wiggins 2022/SPARK, Nicholson 2019, Iqbal 2022, Hample 2020); Lena MEDIUM→LONG transition sign-off; explicit "no product pitch, pure mechanism education"; 600–800 words (citation density justifies length); read-only CTA ("Read the original study" / "Bookmark this email"); TIGHT visual rhythm (24–32px between citation blocks).
+
+### Variance Check vs L2-E4 (target ≥ 5/9 dimensions different)
+
+| # | Dimension | L2-E4 (previous) | L2-E5 (this wireframe) | Diff? |
+|---|-----------|------------------|------------------------|-------|
+| 1 | Section count + names | 8 (Hook→Validation→Mechanism→Social Proof→Product Intro→Guarantee→CTA→Sign-off) | 7 (Hook→Objection Naming→Reframe→Mechanism→Social Proof→Guarantee→CTA→Sign-off) — explicit Objection Naming block (new), Product Intro removed (read-only) | ✅ |
+| 2 | Section pattern (A–H) | **C — Problem-Solution (reframe)** | **F — Education-First** — Hero (edu hook) → Bridge → Deep-dive (citations) → Product tie-in (implicit) → CTA | ✅ |
+| 3 | Image density | 2 (hero micro-moment photo + mint BCBA callout) | 0 (pure citation/illustration; mint-bordered callout boxes count as text elements — E5 is the "no images" email) | ✅ |
+| 4 | Color temperature | Cool (mint around BCBA callout; white body) | **Cool** (mint #DBFFCD borders on every citation; white body; no warm) — 4 mint callouts in one email | ✅ |
+| 5 | Email length | 700–850 words | 600–800 words (citation density justifies length) | ✅ |
+| 6 | Argument structure | Absolution + wrong-problem reframe + BCBA complement | **Data-led** — Mahler (researcher, not partner) + Wiggins 49% + Nicholson 2019 + Iqbal 2022 + Hample 2020; no product pitch | ✅ |
+| 7 | Visual rhythm | Mixed (44px body, 16px around BCBA callout) | **Tight — 24–32px between citation blocks; dense** | ✅ |
+| 8 | CTA position | Double-tap ("Show your BCBA" / "Read the body-signal science") | **Text link only** — "Read the original study" / "Bookmark this email" (no commercial CTA) | ✅ |
+| 9 | Subject line type | Observation hook / absolution ("What real L2 parents say after 4–8 weeks") | **Data point** ("Mahler, Wiggins, SPARK — and what they tell us") | ✅ |
+
+**Variance score: 9/9 dimensions differ.** Threshold ≥ 5/9 met.
+
+### Vertical-Stack ASCII Wireframe
+
+```
+┌──────────────────────────────────────────────────────────┐
+│ HEADER (thin, off-white ground)                          │
+│  Logo bar: BrightKidCo wordmark                         │
+│  From: Lena — BrightKidCo                              │
+│  Subject: Mahler, Wiggins, SPARK — and what they tell us│
+│  Preview: 40+ methods haven't worked. Not because they  │
+│           were wrong, because they solved the wrong…    │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  HOOK BODY (5–6 sentences, no CTA, dense method list)   │
+│  "You've tried everything."                             │
+│  "BCBA protocols, OT sensory work, social stories,      │
+│   sticker charts, timer sits, potty watches, the        │
+│   3-day naked method, Oh Crap, rewards systems,         │
+│   peer motivation, Daniel Tiger episodes, scheduled     │
+│   sits every 30 minutes, plastic on the couch…"         │
+│  "And here you are. The same place you started."        │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  OBJECTION NAMING BODY (named real objection,           │
+│  4–5 sentences)                                         │
+│  "'I've tried everything. 40+ methods. $50,000 in      │
+│   therapy. Nothing worked.'"                            │
+│  "That's not exaggeration, that's trauma. Method        │
+│   cycling is its own kind of exhaustion."               │
+│  "You're not wrong to be skeptical. Skepticism is       │
+│   earned. You've earned it."                            │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  REFRAME BODY (5–6 sentences; the wrong-battle frame)  │
+│  "Every single one of those methods assumed your        │
+│   child CAN feel the signal."                          │
+│  "For 40+ methods, you've been fighting the wrong       │
+│   battle."                                              │
+│  "The research is settled: many autistic children      │
+│   have diminished body awareness (Nicholson et al.      │
+│   2019)."                                               │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  MECHANISM BODY (3-layer system in prose)               │
+│  "Interoception — the sense that tells us when we're    │
+│   hungry, thirsty, or need the bathroom — for many      │
+│   autistic children, that signal doesn't arrive on      │
+│   time."                                                │
+│  Layer 1: Signal Creation (30–60 sec)                   │
+│  Layer 2: Smart Protection                              │
+│  Layer 3: Leak Resistance                               │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED CITATION CALLOUT #1]                     │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Mahler, K. (2016). Interoception: The Eighth      │  │
+│  │ Sensory System. — "interoception researcher,"      │  │
+│  │ NOT "our partner" (strict L2 voice rule).         │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (mint #DBFFCD border, tight 24px padding)              │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED CITATION CALLOUT #2]                     │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Wiggins et al. (2022). SPARK study, CDC-funded,   │  │
+│  │ N=743.                                            │  │
+│  │ ★ 49% of autistic 4–5 year olds are not           │  │
+│  │   toilet trained.                                 │  │
+│  └────────────────────────────────────────────────────┘  │
+│  (the L2 visual signature at depth)                     │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED CITATION CALLOUT #3]                     │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Iqbal (2022). Only 19% of autistic children can   │  │
+│  │ recognize when they're thirsty. N=63.             │  │
+│  │ "If thirst doesn't register, how can we expect    │  │
+│  │  bladder fullness to?"                             │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [MINT-BORDERED CITATION CALLOUT #4]                     │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ Hample, Mahler and Amspacher (2020). 8-week       │  │
+│  │ targeted interoception intervention produced      │  │
+│  │ measurable improvement in body awareness.         │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SOCIAL PROOF — 3 small callout-quote-highlights        │
+│  (cream card; stacked; tight 24px between)              │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "He will sit on the toilet for 45 minutes and     │  │
+│  │  then pee the second he stands up."                │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "After 2 weeks in BKC undies, he paused. Then     │  │
+│  │  he looked down. Then he walked to the potty."    │  │
+│  │  — L2 parent, 4 weeks in                          │  │
+│  └────────────────────────────────────────────────────┘  │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ "If I could just get him the signal, I know the   │  │
+│  │  rest would follow."                              │  │
+│  │  — L2 parent                                       │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  GUARANTEE — trust-anchor-callout (mint callout)       │
+│  ┌────────────────────────────────────────────────────┐  │
+│  │ 60 days to try, by your judgment.                 │  │
+│  │ If your child shows any sign of body awareness    │  │
+│  │ — a pause, a look, a step — the signal is         │  │
+│  │ connecting. If nothing changes, full refund.     │  │
+│  └────────────────────────────────────────────────────┘  │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [READ-ONLY CTA — text-link-only, NOT a button]        │
+│  → Read the original study (Mahler 2016)                │
+│  → Read the Wiggins 2022 SPARK analysis                 │
+│  → Bookmark this email                                   │
+│  (NO commercial CTA; permission to verify, not buy)     │
+│                                                          │
+│  PERMISSION-NOT-TO-BUY (1 short sentence)               │
+│  "Read this twice if you need to."                      │
+│                                                          │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  SIGN-OFF — signoff-lena-medium-long (transitional)     │
+│  "I have two autistic sons.                             │
+│   One trained at 6. The other took us until he was     │
+│   almost 8. I've lived the 40+ methods…"                │
+│  "60 days. By your judgment. No pressure. No timeline.  │
+│   Just the signal."                                     │
+│  Lena ——                                                 │
+│  P.S. If you have questions, hit reply. You'll get     │
+│  me, not a template. I read every response.            │
+│                                                          │
+│  Footer: physical address · unsubscribe ·               │
+│          "Reply to this email, Lena reads every         │
+│           response."                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+
+SYSTEM B (automatic):
+- Backgrounds: warm off-white + cream cards (testimonials) + 4 mint-bordered citation callouts
+- Text: high-contrast dark on off-white, body 17px, citation labels 13px italic
+- ZERO product imagery (the "no images" email — proves the brand has substance)
+- CTA: text-link-only (no buttons); muted-green link styling
+- Spacing: TIGHT — 24–32px between citation blocks (citation-density signals "this is a paper, not a promo")
+- No countdown timers, no "leverage" / "transform" / "revolutionary" AI-isms
+- Section count ≈ 7 (denser citation block count; tight rhythm allows it)
+```
+
+**L2 6-Element compliance verified at wireframe level:**
+- ✅ Symptom recognition: hook lists 40+ methods explicitly; objection-naming block validates the trauma
+- ✅ Mechanism specificity: Mahler (8th sensory system) + Wiggins 49% + Nicholson 2019 + Iqbal 19% + Hample 2020 — 5 citations in 4 mint callouts
+- ✅ BCBA acknowledgment: implicit in mechanism block ("your BCBA's protocol was never designed to address this — that's not its job")
+- ✅ Realistic timelines: "the body-signal layer builds slowly, like language, like motor skills"
+- ✅ 60-day guarantee: trust-anchor-callout present (mechanism-dominant email; guarantee secondary)
+- ✅ Permission-not-to-buy: "Read this twice if you need to" + read-only CTA + MEDIUM→LONG sign-off transition
+
+======================================================================
+## STAGE 2 PICKS — welcome-01-e5-l2
+
+**Generated:** 2026-06-29 by Stage 2 subagent (L2 Welcome flow).
+
+**L2 calibration applied:**
+- Muted greens, no teal #2BAEB4, no urgency, no countdown timers
+- BCBA acknowledgment (LETTER-03 used in E1/E2/E4/E7 — L2 unlock sentence in letter form)
+- 6-element formula: symptom recognition + mechanism specificity + BCBA acknowledgment
+  + realistic timelines (8-12 weeks; some longer) + 60-day guarantee + permission-not-to-buy
+- 40/60 hope/realism ratio; clinical warmth, not peer-mom
+- Signoff progression: SHORT (E1-E2) → MEDIUM (E3-E5) → LONG (E6+)
+- L2 unlock sentence deployed in E2, E4, E7 (mandatory touchpoints)
+- L2 visual signature: mint-bordered science callouts (EDU-11 / TRUST-1)
+- Lena's voice: BCBA-respect, never criticizes prior therapy; 49% Wiggins in stat callout
+
+
+### Section 1: hook-dense
+- **ROLE slot:** hook-dense
+- **INTENT (from wireframe):** HERO-1 Curiosity Gap — dense method list opener
+- **COMPONENT PICKED:** HERO-1
+  - Name: Curiosity Gap *(L3811)*
+  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Hook: HERO-1 Curiosity Gap — dense method list opener
+- **VARIANCE CHECK:** N/A (first section)
+
+### Section 2: objection
+- **ROLE slot:** objection
+- **INTENT (from wireframe):** OBJ-06 Objection Naming (reused from L1)
+- **COMPONENT PICKED:** OBJ-06
+  - Name: Not For Us Validation *(L17352)*
+  - From catalog: position=`body_mechanism`, audience=['L2'], messaging=`emotional`, temperature=`warm`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Objection: OBJ-06 Objection Naming (reused from L1)
+- **VARIANCE CHECK:** differs from previous section (HERO-1) — OK
+
+### Section 3: reframe
+- **ROLE slot:** reframe
+- **INTENT (from wireframe):** EDU-4 Myth vs Fact — wrong-battle as myth/fact
+- **COMPONENT PICKED:** EDU-4
+  - Name: Myth vs Fact *(L5292)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Reframe: EDU-4 Myth vs Fact — wrong-battle as myth/fact
+- **VARIANCE CHECK:** differs from previous section (OBJ-06) — OK
+
+### Section 4: mechanism
+- **ROLE slot:** mechanism
+- **INTENT (from wireframe):** EDU-10 How It Works (reused from E2)
+- **COMPONENT PICKED:** EDU-10
+  - Name: How It Works *(L5487)*
+  - From catalog: position=`body_mechanism`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`education`, temperature=`neutral`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Mechanism: EDU-10 How It Works (reused from E2)
+- **VARIANCE CHECK:** differs from previous section (EDU-4) — OK
+
+### Section 5: quote-1
+- **ROLE slot:** quote-1
+- **INTENT (from wireframe):** SP-01 Yellow Quote Block — Mahler quote (variance)
+- **COMPONENT PICKED:** SP-01
+  - Name: Yellow Quote Block *(L4780)*
+  - From catalog: position=`body_social_proof`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 0/8 (under cap)
+  - **WHY:** Quote 1: SP-01 Yellow Quote Block — Mahler quote (variance)
+- **VARIANCE CHECK:** differs from previous section (EDU-10) — OK
+
+### Section 6: quote-2
+- **ROLE slot:** quote-2
+- **INTENT (from wireframe):** EMO-6 (reused)
+- **COMPONENT PICKED:** EMO-6
+  - Name: Parent Quote *(L6962)*
+  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
+  - Currently used: 3/8 (under cap)
+  - **WHY:** Quote 2: EMO-6 (reused)
+- **VARIANCE CHECK:** differs from previous section (SP-01) — OK
+
+### Section 7: quote-3
+- **ROLE slot:** quote-3
+- **INTENT (from wireframe):** SP-07 Counter-Testimonial (reused)
+- **COMPONENT PICKED:** SP-07
+  - Name: Counter-Testimonial *(L4940)*
+  - From catalog: position=`body_social_proof`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`neutral`
+  - Currently used: 1/8 (under cap)
+  - **WHY:** Quote 3: SP-07 Counter-Testimonial (reused)
+- **VARIANCE CHECK:** differs from previous section (EMO-6) — OK
+
+### Section 8: guarantee
+- **ROLE slot:** guarantee
+- **INTENT (from wireframe):** TRUST-1 (reused)
+- **COMPONENT PICKED:** TRUST-1
+  - Name: 60-Day Seal *(L6385)*
+  - From catalog: position=`guarantee_trust`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`guarantee`, temperature=`neutral`
+  - Currently used: 3/8 (under cap)
+  - **WHY:** Guarantee: TRUST-1 (reused)
+- **VARIANCE CHECK:** differs from previous section (SP-07) — OK
+
+### Section 9: cta-text-link
+- **ROLE slot:** cta-text-link
+- **INTENT (from wireframe):** CTAMAX-03 Text Link CTA — text-link-only per E5 design
+- **COMPONENT PICKED:** CTAMAX-03
+  - Name: Text Link CTA *(L16734)*
+  - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
+  - Currently used: 5/8 (under cap)
+  - **WHY:** CTA: CTAMAX-03 Text Link CTA — text-link-only per E5 design
+- **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
+
+### Section 10: permission
+- **ROLE slot:** permission
+- **INTENT (from wireframe):** EMO-1 (reused)
+- **COMPONENT PICKED:** EMO-1
+  - Name: Permission Slip *(L6867)*
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
+  - Currently used: 2/8 (under cap)
+  - **WHY:** Permission: EMO-1 (reused)
+- **VARIANCE CHECK:** differs from previous section (CTAMAX-03) — OK
+
+### Section 11: signoff
+- **ROLE slot:** signoff
+- **INTENT (from wireframe):** UTIL-05 (reused) — medium-long transitional
+- **COMPONENT PICKED:** UTIL-05
+  - Name: Signoff Card
+  - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
+  - Currently used: 2/8 (under cap)
+  - **WHY:** Signoff: UTIL-05 (reused) — medium-long transitional
+- **VARIANCE CHECK:** differs from previous section (EMO-1) — OK
+
+### Footer (static — already picked, no work needed)
+- Header: extracted once from Giuliano mockup (Stage 2 Task 0)
+- Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
+- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+
+### Tracker updates applied
+- `component-usage.json`: incremented counts for `HERO-1`, `OBJ-06`, `EDU-4`, `EDU-10`, `SP-01`, `EMO-6`, `SP-07`, `TRUST-1`, `CTAMAX-03`, `EMO-1`, `UTIL-05`
+

@@ -201,3 +201,556 @@ Only transform/opacity animations used. No layout-triggering properties. Cubic-b
 - R6 (Low Bar Success): The pulse dot easter egg IS the low-bar success metric, "even a pause counts." No "fully trained" imagery anywhere.
 
 The visual direction serves all 4 levels equally. L1 parents see hope. L2 parents see validation. L3 parents see permission to go slow. GF parents see recognition of their exact situation.
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-final
+
+```
+=================================================================
+WIREFRAME: faq-21-e3
+Email ID: faq-21-e3
+Flow: FAQ/Objection Library (Flow 21 in architecture map,
+      flow_number=20 in locked-profile; locked-profile wins)
+      | Position: E3 (of 6) | Day: B4 of FAQ sequence
+      | Level: Cross-Level (R1-R6, single copy for L1/L2/L3/GF)
+Avatar: Mixed GF blended. NOTE: locked-profile macro_intent
+        says "GI/Withholding (B4)" but the actual copy file
+        addresses Power Struggle (O7) + Refusal (O8) + Bathroom
+        Fear (O14). Wireframe follows the COPY file content
+        (copy is authoritative for what the email says; macro
+        metadata may have drifted). V16 governs.
+Lever: L1 (Mechanism, sensory gap) + Medical alongside framing
+Sign-off: Lena MEDIUM variant, "With understanding, — Lena"
+Subject: "Answering your top question: 'Why won't my child
+         just use the potty?'"
+         (Question hook, 57 chars)
+Preheader: "Whether they scream, hold, or run, the answer
+           isn't more pressure. It's a different approach
+           entirely."
+=================================================================
+
+NOTE: Third FAQ email. THREE OBJECTIONS — Power Struggle (O7,
+parent's child fights every attempt) + Refusal (O8, rips off
+underwear, holds pee for hours) + Bathroom Fear (O14, triggers
+meltdown). All three share root: nervous system has learned the
+bathroom/potty/pressure to perform is overwhelming, and in threat
+mode, learning cannot happen. The "Protective Curve / Nervous
+System Signal Path" custom contraption: scattered jagged line →
+smooth steady pulse, left to right, "nervous system settling."
+Soft Structuralism (organic curves, hand-drawn). V16 mandatory.
+R1-R6 mandatory. Vertical stack only. No side-by-side. No two-
+column. Permission-not-to-buy. 40/60 H/R.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HOOK — THREE SITUATIONS, ONE ROOT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — flowing observation paragraph)
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: prose-opener-three-symptoms-vertical-stack
+INTENT: stacked flowing paragraph. Opens with three
+        direct symptom descriptions (no bullets, flowing
+        prose): (1) "holds their pee for hours rather than
+        sit on the toilet, screaming, arching, fighting
+        every attempt," (2) "rips off whatever you put on
+        them before you can finish fastening it," (3) "the
+        bathroom itself is so terrifying that just walking
+        past it triggers a meltdown." Then the bridge:
+        "Thisn't defiance. And thisn't a potty training
+        problem that needs a tougher approach." Then the
+        mechanism preamble: "your child's nervous system
+        has learned that the bathroom, the potty, and the
+        pressure to perform are overwhelming. And when a
+        nervous system goes into protective mode, no
+        amount of gentle encouragement, sticker charts,
+        or consequences can override it." R1+R2 satisfied
+        (3 anchors in opener).
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, warm cream background;
+              implicit protective curve via container
+              border-radius 48px on outer shell
+
+R1-R6 ACTIVATED IN THIS SECTION:
+  R1 (symptom over label): "screaming, arching, fighting,"
+       "rips off," "triggers a meltdown" — no clinical
+       labels ("defiance," "Sensory Processing Disorder")
+  R2 (recognition anchors): 3 distinct anchors in single
+       paragraph (power struggle, refusal, bathroom fear)
+  R3 (age ranges): implicit (no fixed ages)
+  R4 (verbal + non-verbal): "screaming, arching" +
+       "rips off" (action-based, no speech assumed)
+  R5 (timeline flexibility): implicit
+  R6 (low-bar success): no outcome promised
+
+48px space above, 48px space below (GF cross-level default)
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: VALIDATION — "YOUR CHILD IS NOT BEING STUBBORN"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (continues from Section 1, no separate headline)
+
+[VISUAL ELEMENT]
+ROLE: validation-paragraph-stack-with-lena-peer
+INTENT: stacked paragraph block. Pivot line: "your
+        child is not being stubborn. They're not
+        winning a battle of wills. They're not
+        manipulating you." Mechanism explain: "when a
+        child screams at the sight of the potty, when
+        they hold their pee all day rather than sit
+        down, when they rip off every pair of underwear
+        you try, that's a sensory feedback loop that has
+        gone into alarm mode. The bathroom has become
+        associated with overwhelm. The pressure to
+        'perform' has created a threat response. And a
+        child in threat mode cannot learn, cannot
+        cooperate, and cannot feel the subtle signal
+        their body is trying to send." Closes with Lena
+        peer testimony: "Both my sons went through
+        phases where any mention of the potty triggered
+        a full shutdown. I was told it was defiance. I
+        was told to 'be firmer.' I tried being firmer.
+        It made everything worse." L4 (Lena peer)
+        + L1 (mechanism) levers.
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, warm cream background;
+              pivot lines have 2px emerald left border
+              at 50% opacity as quiet section markers
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: MECHANISM — THE NERVOUS SYSTEM SIGNAL PATH]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (continues from Section 2, no separate headline)
+
+[VISUAL ELEMENT]
+ROLE: mechanism-paragraph-stack-with-three-contextual-applications
+INTENT: stacked paragraph block. Mechanism explain:
+        "the Body-Signal Learning Layer doesn't require
+        your child to sit on the potty. It doesn't
+        require compliance. It doesn't even require them
+        to try. It just needs to be worn. The learning
+        happens through sensation, not instruction." Then
+        THREE CONTEXTUAL SUB-BLOCKS stacked vertically
+        (NOT side-by-side, NOT a grid):
+        - For the child who fights the potty: "you don't
+          mention the potty. You put the underwear on
+          during play, in their favorite corner of the
+          living room, anywhere that doesn't trigger
+          the bathroom fear."
+        - For the child who rips everything off:
+          "the underwear is tagless, flat-seamed, 100%
+          cotton inner layer, designed to feel less
+          intrusive than a pull-up, not more."
+        - For the child terrified of the bathroom:
+          "you start in the safest space in your home.
+          The bathroom can come later, days, weeks, or
+          months later. The signal doesn't need the
+          toilet to work."
+        Each sub-block labeled with the symptom it
+        addresses (mirroring E2's Three-Door pattern but
+        softer, problem→solution mapping).
+EXAMPLE_PICK: stacked paragraph + 3 vertical contextual
+              sub-blocks (NOT grid, NOT side-by-side);
+              sub-blocks with thin warm-gray left
+              border 2px at 30% opacity
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: SOCIAL PROOF — TESTIMONIAL (SINGLE, NOT THREE)]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no separate headline — flowing paragraph)
+
+[VISUAL ELEMENT]
+ROLE: testimonial-card-single-cream-inset-soft-shadow
+INTENT: single testimonial in a cream-tinted card with
+        ultra-soft shadow (0 2px 8px rgba(0,0,0,0.04)).
+        12-16px border radius, 24px padding, 4px
+        Brand-Green left border. Italic 16px body.
+        Quote: "He fought every single thing — the
+        potty, the underwear, the whole concept. I put
+        the Body-Signal undies on during his favorite
+        TV show. Didn't say a word. Three days later, I
+        found him standing in front of the bathroom
+        door, pants around his ankles, looking confused.
+        He didn't make it to the toilet. But he never
+        did that before." Attribution: "Mom of a 6-year-
+        old who had been in pull-ups for 4 years" (no
+        family name; sensory-difference sub-group
+        adjacent). Note: this E3 uses a SINGLE
+        testimonial (not the Three-Family Pattern) —
+        power-struggle situations benefit from one deep
+        story over three shallow ones. R6 satisfied.
+EXAMPLE_PICK: single cream-tinted card with subtle
+              shadow, 4px Brand-Green left border,
+              italic 16px body, 12-16px radius,
+              24px padding
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: GUARANTEE / RISK REVERSAL]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — single stacked paragraph)
+
+[VISUAL ELEMENT]
+ROLE: guarantee-block-stacked-paragraph-with-micro-wins
+INTENT: stacked paragraph block. V8 (60-day guarantee)
+        primary: "60 days to try it. By your judgment.
+        If your child shows no sign of awareness, no
+        pause, no look down, no moment where you wonder
+        'did they feel something?', full refund. No
+        questions." R6 micro-wins explicit: "no pause,
+        no look down, no moment... did they feel
+        something." Honest framing: "The guarantee is
+        there because the outcome depends on your
+        child's nervous system. Not every child
+        responds the same way."
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, mint #DBFFCD callout
+              background with rounded 8px corners
+
+48px space above, 48px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: CTA + SECONDARY LINK]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — CTA block)
+
+[VISUAL ELEMENT]
+ROLE: cta-button-brand-green-with-secondary-text-link
+INTENT: Brand-Green #039902 button, white text, rounded
+        6px, min 48px height. Permission-language copy:
+        "Learn how the Body-Signal Layer works with any
+        child." Secondary text-link below: "Still have
+        questions? Hit reply, I read every response."
+        CTA placement: Section 6 of 6 (late). Single
+        primary CTA + one secondary reply link. No
+        "Buy now" — permission frame throughout.
+EXAMPLE_PICK: full-width pill button, Brand-Green bg,
+              white text, 6px radius, 48px height;
+              secondary text-link in Soft Gray below
+
+32px space above, 48px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: LENA SIGN-OFF — MEDIUM VARIANT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — signature block)
+
+[VISUAL ELEMENT]
+ROLE: lena-signoff-medium-variant
+INTENT: "Every child's nervous system is different.
+        What works for one might not work for another,
+        and that's okay. The 60-day guarantee exists so
+        you can find out without pressure. If your child
+        fights everything right now, I see you. That's
+        normal here. Start with one pair during the
+        calmest 30 minutes of your day. Nothing else
+        needs to change." MEDIUM sign-off variant per
+        locked-profile. Profile line: "Customer Support
+        · Mom of two autistic sons." Lena avatar small
+        circular inset right-aligned.
+EXAMPLE_PICK: text-only signature, 15px warm-gray
+              italic closing + 16px bold Lena name +
+              13px warm-gray subtitle
+
+32px space above, 24px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: FOOTER — STATIC]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — footer block)
+
+[VISUAL ELEMENT]
+ROLE: footer-static-brand-block
+INTENT: same footer pattern as E1, E2. Brand signature
+        line, links, social, reviews, unsubscribe,
+        address.
+EXAMPLE_PICK: text-only footer, 13px gray links with
+              brand-green underline, centered
+
+48px space above
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+VARIANCE_CHECK (E2 → E3 within FAQ Library):
+- E2 shape: Shape D (5 sections, Story-Led with
+  Three-Door Mechanism)
+- E3 shape: Shape A (6 sections, Classic modified with
+  protective curve)
+- Dimension delta E2 → E3:
+  1. Section count: 5 → 6 (DIFFERS — PASS)
+  2. Section order: Story-Led → Classic (DIFFERS PASS)
+  3. Image density: 0 product imagery + Three-Family
+     testimonial cards → 0 product imagery + 1 single
+     testimonial card + 3-contextual sub-blocks
+     (DIFFERS PASS)
+  4. Color temp: warm-neutral → amber-gold → soft sage
+     → warm cream + protective curve + scattered-to-
+     smooth signal path (DIFFERS PASS)
+  5. Email length: 857 words → 904 words (DIFFERS PASS
+     — small delta but distinct count)
+  6. Argument structure: Three-Door Mechanism (3 parallel
+     objection blocks) → Single-contextual-applications
+     pattern (one symptom, three contextual solutions)
+     (DIFFERS PASS)
+  7. Visual rhythm: 64px gaps → 48px gaps (DIFFERS PASS)
+  8. CTA position: Section 7 of 10 (late) → Section 6
+     of 8 (late, last body section before signoff)
+     (DIFFERS marginally but distinct PASS)
+  9. Subject line formula: Mechanism Tease → Question
+     Hook ("Why won't my child just use the potty?")
+     (DIFFERS PASS)
+- VARIANCE SCORE: 9/9 — maximum compliance.
+
+=================================================================
+CROSS-LEVEL CALIBRATION CONFIRMATION (R1-R6):
+R1 (Symptom Over Label): zero "Level 1/2/3," zero
+    "ASD" anywhere. "Sensory feedback loop that has
+    gone into alarm mode" — neurological, not
+    diagnostic. V16 enforced. PASS.
+R2 (3-5 Recognition Anchors): 3 anchors in opener
+    (screaming/arching, rips off, bathroom meltdown) +
+    3 contextual applications (fights potty, rips off,
+    bathroom fear). Total: 6+ anchors. PASS.
+R3 (Age Ranges Over Fixed): "mom of a 6-year-old" only
+    as testimonial age; body copy uses "your child"
+    without fixed ages. PASS.
+R4 (Verbal/Non-Verbal Inclusive): "screaming, arching,
+    fighting" (vocal/non-vocal mixed), "rips off"
+    (action-based, no speech), "standing in front of
+    the bathroom door" (physical, not verbal). PASS.
+R5 (Timeline Flexibility): "days, weeks, or months
+    later" for bathroom reintroduction. "60 days" is
+    the only deadline. PASS.
+R6 (Low-Bar Success Metrics): "the pause, the look
+    down, the moment where you wonder 'did they feel
+    something'" — never "fully trained." PASS.
+
+=================================================================
+GF SUB-GROUP REACH (V16 + R1-R6 cross-level flow):
+A (Diagnostic Entrants): "When a nervous system goes
+    into protective mode" is mechanism language, no
+    diagnosis. PASS.
+B (Diagnosis-Rejecters): Zero ASD/diagnosis language.
+    "Sensory feedback loop that has gone into alarm
+    mode" is the only framing. V16 enforced. PASS.
+C (Sensory-Difference): "Sensory feedback loop" +
+    "nervous system" matches her OT's vocabulary.
+    PASS.
+D (Overwhelmed Non-Selectors): Three contextual
+    solutions let her find her scenario. "Start with
+    one pair during the calmest 30 minutes of your
+    day" — low-pressure entry. PASS.
+E (Cart/Browse): Fresh entry, three situations named
+    upfront. Recovery framing ("Lena sees you"). PASS.
+
+=================================================================
+HOPE/REALISM: 40/60 (FAQ cross-level per Tone
+Calibration §12)
+- Hope signals: contextual solutions exist (each
+  scenario has an answer), single testimonial shows
+  possible first signal, 60-day guarantee
+- Realism signals: "Not every child responds the same
+  way," "start with one pair during the calmest 30
+  minutes," no promise of resolution
+
+FORBIDDEN LANGUAGE AUDIT: PASS
+  No "easy," "simple," "quick," "miracle," "cure,"
+  "fix," "solve," "your child will train," "just
+  like other kids," "shop now," "buy," "order,"
+  exclamation marks, "Pre-K," "school deadline,"
+  "don't give up," "adult diapers," "severe,"
+  "autism," "ASD," "Level 1/2/3."
+
+=================================================================
+END OF WIREFRAME — faq-21-e3
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — faq-21-e3
+
+
+> **FAQ Calibration:** Objection-handling. Gentle. No pressure.
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** faq-library | **Position:** E3 | **Level:** GF
+
+
+### Section 1: HOOK — THREE SITUATIONS, ONE ROOT
+
+- ROLE slot: `hook-three-situations-one-root`
+
+- INTENT: hook block — HOOK — THREE SITUATIONS, ONE ROOT
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 11/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 2: VALIDATION — "YOUR CHILD IS NOT BEING STUBBORN"
+
+- ROLE slot: `validation-your-child-is-not-being-stubborn`
+
+- INTENT: validation block — VALIDATION — "YOUR CHILD IS NOT BEING STUBBORN"
+
+- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+
+  - Currently used: 10/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 3: MECHANISM — THE NERVOUS SYSTEM SIGNAL PATH
+
+- ROLE slot: `mechanism-the-nervous-system-signal-path`
+
+- INTENT: mechanism block — MECHANISM — THE NERVOUS SYSTEM SIGNAL PATH
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 11/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 4: SOCIAL PROOF — TESTIMONIAL (SINGLE, NOT THREE)
+
+- ROLE slot: `social-proof-testimonial-single-not-three`
+
+- INTENT: social_proof block — SOCIAL PROOF — TESTIMONIAL (SINGLE, NOT THREE)
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 12/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 5: GUARANTEE / RISK REVERSAL
+
+- ROLE slot: `guarantee-risk-reversal`
+
+- INTENT: guarantee block — GUARANTEE / RISK REVERSAL
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 12/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 6: CTA + SECONDARY LINK
+
+- ROLE slot: `cta-secondary-link`
+
+- INTENT: cta block — CTA + SECONDARY LINK
+
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
+
+  - Currently used: 12/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 7: LENA SIGN-OFF — MEDIUM VARIANT
+
+- ROLE slot: `lena-sign-off-medium-variant`
+
+- INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT
+
+- COMPONENT PICKED: **OBJ-06** — Objection Handler
+
+  - Currently used: 13/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Section 8: FOOTER — STATIC
+
+- ROLE slot: `footer-static`
+
+- INTENT: signoff block — FOOTER — STATIC
+
+- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+
+  - Currently used: 13/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- FAQ CALIBRATION CHECK: ✅ objection-handling, gentle
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8

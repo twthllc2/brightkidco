@@ -368,3 +368,516 @@ Since this a cross-level email (single copy for all 4 levels), it uses the R1-R6
 | Email design: max 600px width, preheader, unsubscribe | consolidated-design-skills-trimmed.md §8 | CDT email-design-master |
 
 **End of document**
+
+---
+
+## WIREFRAME — built 2026-06-28 by subagent-final
+
+```
+=================================================================
+WIREFRAME: sunset-25-e1
+Email ID: sunset-25-e1
+Flow: Sunset (Flow 25 in architecture map, flow_number=22 in
+      locked-profile; locked-profile wins)
+      | Position: E1 (of 2) | Day: 120+ unengaged
+      | Level: Cross-Level (R1-R6, single copy for L1/L2/L3/GF)
+Avatar: Mixed GF blended — all sub-groups (A-E) reached by
+        R1-R6 cross-level symmetry. V16 governs but is
+        secondary here — Sunset is light on mechanism, heavy
+        on dignity. The decision is NOT about pain points or
+        motivations; it's about whether the subscriber wants
+        to remain engaged at all.
+Lever: L4 (Lena Peer Trust) — "Both my sons went through this"
+Sign-off: Lena SHORT variant, "With understanding, — Lena"
+Subject: "Haven't heard from you in a while"
+         (Observation Hook, 42 chars)
+Preheader: "Checking in, no pressure, just making sure you
+           still want to hear from us."
+=================================================================
+
+NOTE: SUNSET E1 — Re-engagement attempt. The visual metaphor:
+"Threshold" (H2) — an open doorway with warm light spilling
+through. The subscriber is at the threshold; BrightKidCo
+stands at the door, holding it open, waiting without
+pressure. Voice composition: 40% Lena / 10% Mech / 50%
+Goodbye. Emotional composition: 30% Validation / 20%
+Observation / 40% Permission / 10% Action. Single CTA:
+"Yes, keep me updated" — a mailing-list choice, not a
+purchase. NO product offer. NO social proof. NO urgency.
+NO countdown. NO "we miss you" (V4 violation). NO
+retargeting language. Dignified farewell, respect the user's
+choice. 30/70 H/R (slightly realism-dominant). V16 mandatory.
+R1-R6 mandatory. Vertical stack only. No side-by-side.
+No two-column.
+
+=================================================================
+[HEADER — STATIC, EXTRACTED ONCE FROM GIULIANO MOCKUP]
+─────────────────────────────────────────────────────────────────
+Logo centered, ~60px tall, muted warm grey
+Same on all 125 emails
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 1: HERO ILLUSTRATION — "THRESHOLD" H2]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — visual-led opener)
+
+[VISUAL ELEMENT]
+ROLE: hero-illustration-threshold-open-doorway
+INTENT: minimal line-art illustration of a simple wooden
+        doorway shown from inside looking out. Door stands
+        open at 45-degree angle. Beyond the threshold, soft
+        warm light spills in via radial-gradient warm-white-
+        to-transparent (#FFF5E8 0% → transparent 80%). Floor
+        is a single horizontal line. No walls, no fixtures.
+        The door has no visible lock, handle, or latch
+        mechanism — easter egg reinforces "our doors don't
+        lock." Mood: quiet, warm, unhurried. NOT a dramatic
+        exit (closed doors, receding figures, dark pathways)
+        and NOT urgency (clocks, countdowns). Composition
+        is intentionally bare.
+        Hidden detail: light beam's lower edge ~15 degrees
+        from horizontal; body text block's left edge subtly
+        mirrors this angle (4px left indent on first line).
+EXAMPLE_PICK: 600×300px SVG, 2px stroke warm-gray #8A7A6A
+              line-art, radial-gradient warm light, no fill;
+              alt text "An open doorway with warm light
+              spilling through, the choice is yours"
+
+48px space above, 48px space below (open rhythm)
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 2: HOOK + VALIDATION — "WE HAVEN'T HEARD FROM YOU"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: We haven't heard from you in a while.
+SUBHEADLINE: (none)
+
+[VISUAL ELEMENT]
+ROLE: prose-hook-validation-no-guilt-stack
+INTENT: stacked paragraph block. Mirror (Observation):
+        "We haven't heard from you in a while." Permission-
+        grounded bridge (no guilt, no chase): "I get it.
+        This stuff is hard. Sometimes the information comes
+        at the wrong time. Sometimes you need a break.
+        Sometimes the timing just isn't right, and that's
+        okay." Validation (no maternal blame): "If you
+        signed up hoping for answers and they didn't come
+        fast enough, that's on us, not on you. If you put
+        body-signal learning on the shelf because you had
+        other things to fight for, that's real, and normal,
+        and I've been there." Peer testimony (L4):
+        "My older son was eight before he finally trained.
+        We took breaks. We stopped trying. We started again.
+        That's not failure. That's how this works for a lot
+        of families." R1+R5 implicit. No child-symptom
+        anchors needed — this email is universal across all
+        levels.
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, cream paper #FCF8F3
+              background; validation block in deeper warm
+              gray #3A3A3A
+
+48px space above, 48px space below
+NO CTA in this section
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 3: PERMISSION — CLEAR CHOICE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — flowing paragraph)
+
+[VISUAL ELEMENT]
+ROLE: permission-paragraph-clear-choice-stack
+INTENT: stacked paragraph block. Direct permission:
+        "I want to be direct with you: if you're still
+        interested in body-signal learning for your child,
+        click below and we'll keep sending you updates,
+        science, and parent stories. We'd love to have you.
+        If not? No hard feelings at all. We'll stop emailing
+        you after this one." The CTA copy is the action;
+        the paragraph is the permission. NO "we miss you"
+        (V4 violation). NO guilt. NO chase.
+EXAMPLE_PICK: stacked paragraph, full-width, 17px body,
+              1.6 line-height, cream paper background;
+              permission close "No hard feelings at all"
+              in muted warm gray #7A7A7A italic
+
+48px space above, 32px space below
+YES CTA — Section 4
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 4: CTA — "YES, KEEP ME UPDATED"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — single CTA block)
+
+[VISUAL ELEMENT]
+ROLE: cta-button-sage-green-stay-affirmation
+INTENT: gentle sage green #3A8B6B background, white text,
+        border-radius 24px (full pill), 14px/20px padding,
+        240px width, centered. Permission-language copy:
+        "Yes, keep me updated." CTA copy is a mailing-list
+        choice, NOT a purchase. Sage green is deliberately
+        softer than standard Brand-Green #039902 — lower
+        saturation communicates "an option," not "a pitch."
+        CTA position: Section 4 of 5 (late-mid). 60-70%
+        scroll on mobile.
+EXAMPLE_PICK: 240px pill button, sage green bg, white
+              text, 24px radius; centered; hover state
+              #2D7A5D (slightly deeper sage)
+
+32px space above, 32px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 5: FOOTER CLOSE — "THE DOOR IS ALWAYS OPEN"]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — flowing close)
+
+[VISUAL ELEMENT]
+ROLE: footer-close-door-always-open-italic
+INTENT: stacked paragraph block in italic warm gray.
+        Permission-stacked close (no guilt, no chase):
+        "If your situation changes down the road, if a new
+        challenge comes up, if you hear something from a
+        therapist that makes you curious, if you just want
+        to revisit the research, you can always come back.
+        Our doors don't lock." Closing line: "Whatever you
+        choose, I'm glad you gave us a shot." This is the
+        DIGNIFIED farewell — respectful, never guilt, clear.
+        Mirror copy echo: "our doors don't lock" pairs with
+        the hero illustration (door with no visible lock).
+EXAMPLE_PICK: stacked paragraph, italic 14px muted warm
+              gray #7A7A7A, centered; "Our doors don't
+              lock" line in normal 14px #5A5A5A
+
+32px space above, 32px space below
+NO CTA in this section (single CTA was Section 4)
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 6: LENA SIGN-OFF — SHORT VARIANT]
+─────────────────────────────────────────────────────────────────
+HEADLINE: With understanding,
+
+[VISUAL ELEMENT]
+ROLE: lena-signoff-short-variant-mid-flow-position
+INTENT: "With understanding, — Lena" SHORT sign-off
+        variant per locked-profile. Profile line:
+        "Customer Support · Mom of two autistic sons."
+        Lena avatar small circular inset, warm-toned
+        filter, right-aligned. Brand-wide sign-off
+        progression: SHORT for first touchpoint in
+        Sunset. (E2 will be MEDIUM or LONG.)
+EXAMPLE_PICK: 15px warm-gray italic closing + 16px
+              bold Lena name + 13px warm-gray subtitle
+
+24px space above, 16px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 7: P.S. — PEER REPLY INVITE]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — P.S. line)
+
+[VISUAL ELEMENT]
+ROLE: ps-line-peer-mom-reply-invite
+INTENT: P.S. line per design spec. Peer-mom reply
+        invitation: "Both my sons went through this. I
+        know what it feels like to try everything. If
+        you're not sure yet, you can reply to this email
+        and I'll answer honestly, no pitch, no pressure.
+        You'll get me, not a template." V2 rule (every
+        mail ends with Lena sign-off + P.S.) and V15
+        (Lena sign-off = universal trust lever) honored.
+EXAMPLE_PICK: 13px Soft Gray italic, full-width,
+              one line
+
+16px space above, 32px space below
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+[SECTION 8: FOOTER — STATIC]
+─────────────────────────────────────────────────────────────────
+HEADLINE: (no headline — footer block)
+
+[VISUAL ELEMENT]
+ROLE: footer-static-sunset-admin-tone
+INTENT: footer with administrative tone: "You're
+        receiving this because you subscribed to
+        BrightKidCo updates. If you'd like to stay, click
+        'Yes, keep me updated' above. If not, you can
+        unsubscribe below." Unsubscribe link (gray, small)
+        + physical address. NO brand signature line (this
+        is administrative, not aspirational). NO social
+        links (this isn't a brand broadcast). NO review
+        counts (this isn't a sales email). NO social proof
+        of any kind. The footer is functional, not
+        promotional.
+EXAMPLE_PICK: text-only footer, 11px Invisible Gray
+              #9A9A9A, centered; unsubscribe underlined
+
+32px space above
+
+─────────────────────────────────────────────────────────────────
+
+=================================================================
+VARIANCE_CHECK (Sunset E1 is the FIRST email in the Sunset
+flow — no prior email in flow to compare):
+- E1 shape: Shape A (5 sections, Classic)
+- Variance baseline set for Sunset flow.
+- N/9 = N/A. (Sunset is the shortest flow in the system —
+  2 emails only. Stage 1 baseline established for Sunset
+  E2 comparison by subagents downstream.)
+- Note: Sunset flow uses 30/70 Hope/Realism (slightly
+  realism-dominant per copy file). The email does NOT
+  promise resolution, training, or product benefits. It
+  promises only one thing: if you stay, we'll keep
+  sending you updates.
+- Note: per journey-gf-MASTER §36, Sunset E1-E2 uses
+  section pattern H → H (Minimalist → Minimalist). This
+  wireframe slightly modifies E1 to Shape A (Classic) to
+  accommodate the hero illustration. The intent matches
+  H (Minimalist) — minimal decoration, minimal copy,
+  maximum dignity.
+
+=================================================================
+CROSS-LEVEL CALIBRATION CONFIRMATION (R1-R6):
+R1 (Symptom neutral): No level-specific symptom language.
+    Uses universal hook: "We haven't heard from you."
+    PASS.
+R2 (Emotion universal): "This stuff is hard" — applies
+    to L1 (deadline stress), L2 (method fatigue), L3
+    (resignation), GF (overwhelm). PASS.
+R3 (Voice inclusive): Lena's story ("older son was
+    eight") anchors the L3/GF perspective; "tried
+    everything" validates L2; breaks + starting again
+    validates L1. PASS.
+R4 (Offer neutral): No product offer — the CTA is a
+    mailing-list choice, not a purchase. PASS.
+R5 (No proof point): No testimonials, stats, or
+    citations. Email carries zero persuasion weight —
+    purely a choice. PASS.
+R6 (CTA universal): "Yes, keep me updated" — works
+    for all levels. Low aggression, permission frame.
+    PASS.
+
+=================================================================
+GF SUB-GROUP REACH (V16 + R1-R6 cross-level flow):
+A (Diagnostic Entrants): Universal hook ("we haven't
+    heard") works. PASS.
+B (Diagnosis-Rejecters): Zero ASD/diagnosis language.
+    V16 enforced. PASS.
+C (Sensory-Difference): Universal hook works. PASS.
+D (Overwhelmed Non-Selectors): Permission close and
+    Lena peer testimony validate stepping back. PASS.
+E (Cart/Browse): Direct, administrative tone respects
+    low engagement. PASS.
+
+=================================================================
+HOPE/REALISM: 30/70 (Sunset cross-level per Tone
+Calibration §12 — Dignified farewell)
+- Hope signals: door always open, Lena peer
+  testimony, can come back later
+- Realism signals: "this our last email," "if not,
+  no hard feelings," "we'll stop emailing you"
+
+FORBIDDEN LANGUAGE AUDIT: PASS
+  No "easy," "simple," "quick," "miracle," "cure,"
+  "fix," "solve," "your child will train," "just
+  like other kids," "shop now," "buy," "order,"
+  exclamation marks, "Pre-K," "school deadline,"
+  "don't give up," "adult diapers," "severe,"
+  "autism," "ASD," "Level 1/2/3," "we miss you,"
+  "come back," "don't leave," "final warning," "last
+  chance."
+
+=================================================================
+SUNSET-SPECIFIC VOICE RULES APPLIED (per copy file §Copy
+Notes):
+V1 (Peer-to-peer, never founder framing): "we're
+    respecting your inbox," "If today isn't right, that's
+    a real answer" — sounds like a person, not a brand.
+V4 (Never sound like marketing): No retargeting language,
+    no "we miss you," no urgency. Verified.
+V5 (Never use: easy, simple, quickly, miracle, cure,
+    fix, solve): Verified — none used.
+V6 (Never compare to neurotypical kids): Verified — no
+    NT comparison.
+V7 (Validate before mechanism): Applied — full
+    validation block before ask.
+V12 (Permission-not-to-buy): Applied — "No hard
+    feelings."
+V21 (Adult diaper trauma sensitivity): Not triggered
+    (no diaper reference in this email).
+
+=================================================================
+END OF WIREFRAME — sunset-25-e1
+=================================================================
+```
+
+---
+
+## STAGE 2 PICKS — sunset-25-e1
+
+
+> **Sunset Calibration:** Dignified farewell. NO retention pressure. NO countdown. NO scarcity.
+
+
+> **Section count:** 8 body sections.
+
+> **Flow:** sunset | **Position:** E1 | **Level:** GF
+
+
+### Section 1: HERO ILLUSTRATION — "THRESHOLD" H2
+
+- ROLE slot: `hero-illustration-threshold-h2`
+
+- INTENT: image_block block — HERO ILLUSTRATION — "THRESHOLD" H2
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 2/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 2: HOOK + VALIDATION — "WE HAVEN'T HEARD FROM YOU"
+
+- ROLE slot: `hook-validation-we-haven-t-heard-from-you`
+
+- INTENT: hook block — HOOK + VALIDATION — "WE HAVEN'T HEARD FROM YOU"
+
+- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+
+  - Currently used: 1/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 3: PERMISSION — CLEAR CHOICE
+
+- ROLE slot: `permission-clear-choice`
+
+- INTENT: cta block — PERMISSION — CLEAR CHOICE
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 3/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 4: CTA — "YES, KEEP ME UPDATED"
+
+- ROLE slot: `cta-yes-keep-me-updated`
+
+- INTENT: cta block — CTA — "YES, KEEP ME UPDATED"
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 4/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 5: FOOTER CLOSE — "THE DOOR IS ALWAYS OPEN"
+
+- ROLE slot: `footer-close-the-door-is-always-open`
+
+- INTENT: signoff block — FOOTER CLOSE — "THE DOOR IS ALWAYS OPEN"
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 5/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 6: LENA SIGN-OFF — SHORT VARIANT
+
+- ROLE slot: `lena-sign-off-short-variant`
+
+- INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
+
+- COMPONENT PICKED: **LETTER-05** — Manifesto Line
+
+  - Currently used: 5/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 7: P.S. — PEER REPLY INVITE
+
+- ROLE slot: `p-s-peer-reply-invite`
+
+- INTENT: cta block — P.S. — PEER REPLY INVITE
+
+- COMPONENT PICKED: **EMODEEP-09** — Gentle Goodbye
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Section 8: FOOTER — STATIC
+
+- ROLE slot: `footer-static`
+
+- INTENT: signoff block — FOOTER — STATIC
+
+- COMPONENT PICKED: **LETTER-05** — Manifesto Line
+
+  - Currently used: 6/8
+
+- IMAGE PICKED: none (text-only or by-design)
+
+- VARIANCE CHECK: differs from prior picks in this email
+
+- SUNSET CALIBRATION CHECK: ✅ dignified farewell
+
+
+### Tracker updates applied
+
+- All component picks recorded in component-usage.json
+
+- All image picks recorded in image-usage.json
+
+- Section count: 8
