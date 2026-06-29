@@ -1,0 +1,82 @@
+# COMPONENT/IMAGE pairs extracted from the search results above
+# Format per line: file||section_idx||role_slot||component||image
+# Lines starting with # are comments
+# image = "NONE" means section has no image pick (text-only)
+
+# === WELCOME (32 files) ===
+# welcome-01-e1-l1 (6 sections, read directly)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md||1||hero-image-lifestyle||HERO-1 (Curiosity Gap)||lifestyle/toddler-playing-train-moon-cloud-blue.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md||2||callout-quote-highlight-hook||4.3 (Pull Quote)||lifestyle/toddler-livingroom-dino-yellow.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md||3||callout-quote-highlight-validation||4.5 (Cream Callout)||lifestyle/toddlers-backview-disposable-diapers.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md||4||stat-highlight-box||M10 (Stat Block (Mobile))||accessories/potty-targets-stickers-chart.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md||5||cta-button-full-width||CTA-4 (Gentle Invite)||lifestyle/founders-holding-pants-yellow-watermelon.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l1.md||6||signoff-lena-short||12.1 (Lena Signoff)||NONE
+
+# welcome-01-e1-l2 (8 sections, read directly)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||1||HERO / HEADLINE region (covers HEADER + HOOK body)||HERO-1||lifestyle/founders-holding-pants-yellow-watermelon.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||2||VALIDATION BODY (3-4 sentences, "not your fault")||4.1||lifestyle/toddler-backpack-moon-cloud-blue.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||3||MINT-BORDERED SCIENCE CALLOUT BOX||EDU-11||lifestyle/toddler-napping-watermelon-pink-shorts.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||4||MECHANISM BODY||19.2||lifestyle/toddler-playing-train-moon-cloud-blue.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||5||SOCIAL PROOF - 2 callout-quote-highlight||SP-01||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||6||PRODUCT TEASER + REALISTIC TIMELINE||6.1||flat-lay/training-pant-bunny-hearts-pink.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||7||GUARANTEE + PRIMARY CTA + PERMISSION||EMODEEP-03||lifestyle/toddler-potty-ladder-pink-multicolor.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l2.md||8||SIGN-OFF||12.1||NONE
+
+# welcome-01-e1-l3 (7 sections + 3 additional images)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||1||signal-dot-anchor||HERO-9||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||5||stat-stack-vertical||SP-03||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||6||three-layer-diagram-abstract||PROD-3||flat-lay/training-pant-fox-woodland-white.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||7||guarantee-paragraph-soft-bg||TRUST-2||lifestyle/washing-machine-training-pants.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||8||cta-text-link-with-microcopy||CTA-2||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||SIGN||signoff-lena-short||EMODEEP-18||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||HDR||shell_header_warm||2.2||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||2||prose-block||NONE||lifestyle/toddlers-backview-disposable-diapers.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||3||pull-quote||NONE||accessories/towel-set-llama-cactus.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-l3.md||5b||stat-stack-vertical||NONE||accessories/cloth-pads-watermelon-astronaut-cat.png
+
+# welcome-01-e1-gf (6 sections, S5 has 2 components)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md||S1||hero-image-lifestyle-gf||HERO-6||lifestyle/toddlers-backview-disposable-diapers.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md||S2||callout-quote-highlight-gf||4.3||accessories/book-potty-training-guide.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md||S3||stat-highlight-box-gf||21.1||flat-lay/training-pant-cloud-raindrop-white.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md||S4||testimonial-stack-gf||7||lifestyle/toddler-napping-watermelon-pink-shorts.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md||S5a||product-3-layer-cross-section-gf||PROD-3||flat-lay/training-pant-fox-woodland-white.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md||S5b||product-3-layer-cross-section-gf||CTA-3||flat-lay/training-pant-fox-woodland-white.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e1-gf.md||SG||signoff-lena-short-gf||UTIL-05||NONE
+
+# welcome-01-e2-l1 (7 sections, read)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md||1||callout-quote-highlight-hook||23.3||lifestyle/toddler-napping-watermelon-pink-shorts.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md||2||callout-quote-highlight-pull-quote||25.3||lifestyle/toddler-rearview-cat-mustard.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md||3||mechanism-diagram-3-frame||19.2||flat-lay/diaper-woodland-creature-yellow.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md||4||callout-quote-highlight-testimonial-stack||M3||flat-lay/training-pant-watermelon-pink.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md||5||product-intro-callout-3plus3||PS-01||accessories/book-potty-training-guide.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md||6||cta-button-full-width||CTA-3||accessories/wet-bags-space-zebra-llama.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l1.md||7||signoff-lena-short||12.1||NONE
+
+# welcome-01-e2-l2 (8 sections, read)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||1||HERO / HEADER||HERO-2||lifestyle/founders-holding-pants-yellow-watermelon.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||2||FAILED-METHODS RECOGNITION||STORY-09||lifestyle/toddler-backpack-moon-cloud-blue.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||3||VALIDATION BODY||DEEP-21||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||4||MECHANISM DEEP BODY||EDU-2||lifestyle/toddler-playing-train-moon-cloud-blue.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||5||MINT-BORDERED SCIENCE CALLOUT||EDU-11||lifestyle/toddler-napping-watermelon-pink-shorts.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||6||SOCIAL PROOF||SP-01||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||7||PRODUCT INTRO + GUARANTEE + CTA||6.1||flat-lay/training-pant-fox-red-white.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l2.md||8||SIGN-OFF||12.1||NONE
+
+# welcome-01-e2-l3 (6 sections + 1 additional)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md||1||prose-block-long-mirror||HERO-13||lifestyle/toddler-napping-watermelon-pink-shorts.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md||3||mechanism-deep-prose||EDU-8||flat-lay/training-pant-cloud-raindrop-white.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md||4||pull-quote-soft-italic-research-anchored||EMO-4||accessories/cloth-pads-watermelon-astronaut-cat.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md||6||guarantee-mini-paragraph||TRUST-1||accessories/towel-set-llama-cactus.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md||7||cta-text-link-zero-pressure||CTA-11||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md||SG||signoff-lena-short-with-ps||EMODEEP-03||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-l3.md||2||validation prose||NONE||accessories/book-potty-training-guide.png
+
+# welcome-01-e2-gf (6 sections)
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S1||hero-circle-diagram-gf||HERO-7||lifestyle/toddler-potty-ladder-pink-multicolor.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S2||failed-methods-grid-gf||OBJ-01||accessories/potty-targets-stickers-chart.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S3a||mechanism-definition-block-gf||EDU-1||flat-lay/training-pant-bunny-hearts-pink.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S3b||mechanism-definition-block-gf||17.5||flat-lay/training-pant-bunny-hearts-pink.jpg
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S4||reframe-paragraph-gf||9.1||lifestyle/toddler-livingroom-dino-yellow.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S5||expert-quote-floating-card-gf||EMO-6||lifestyle/toddler-rearview-cat-mustard.png
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S6||migration-anchor-link-gf||EMODEEP-03||NONE
+/root/projects/brightkidco/outputs/copy/welcome/welcome-01-e2-gf.md||S7||signoff-lena-short-gf||NONE||NONE

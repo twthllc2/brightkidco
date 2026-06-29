@@ -1,0 +1,30 @@
+<!--
+  BrightKidCo Email Header - extracted from
+  welcome-flow/primitives.jsx (the React primitive used by every email
+  in the 10-email welcome flow design).
+
+  Source:
+    const Header = ({ bg }) => (
+      <div style={{ background: bg, padding: "24px 20px 0", textAlign: "center" }}>
+        <img src={{LOGO}} alt="BrightKidCo" style={{ height: 34 }} />
+      </div>
+    );
+
+  Resolved values used here reflect the FIRST email (Flow 1 / Email 1),
+  which calls <Header bg={{B.paper}} /> -- i.e. white background.
+  On other emails the bg prop may be B.ink (#1F2D2F), B.cream (#FBF7F1),
+  or any solid color the section above it requires.
+
+  Image source: BASE64-INLINED PNG (uuid 385063b8-..., registered as
+  window.__resources.logoV2 in the standalone build). Original file:
+  assets/brightkidco-logo-v2.png (relative to email-design-environment/).
+  Inlining as a data URI means the header works standalone - no
+  filesystem dependency on ../assets/... - which is required when this
+  snippet is dropped into other contexts (review canvas, ticket
+  attachments, design QA, etc.).
+-->
+<div style="background:#FFFFFF; padding:24px 20px 0; text-align:center;">
+  <img src="data:image/png;base64,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"
+       alt="BrightKidCo"
+       style="height:34px; display:inline-block; border:0; outline:none; text-decoration:none;" />
+</div>
