@@ -769,7 +769,7 @@ END OF WIREFRAME — detection-10
 
 - INTENT: validation block — VALIDATION + MECHANISM — EMERALD HAIRLINE BORDERS
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
 
   - Currently used: 3/8
 
@@ -786,7 +786,7 @@ END OF WIREFRAME — detection-10
 
 - INTENT: default block — DETECTION MOMENT — 4 STACKED SYMPTOM CARDS
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **17.7** — Closing Letter (Before CTA) (uses Letter)
 
   - Currently used: 4/8
 
@@ -820,7 +820,7 @@ END OF WIREFRAME — detection-10
 
 - INTENT: signoff block — SQUIGGLE DIVIDER — TRANSITION TO SIGNOFF
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
+- COMPONENT PICKED: **LETTER-06** — PS Teaser
 
   - Currently used: 2/8
 

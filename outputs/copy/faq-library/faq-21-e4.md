@@ -630,7 +630,7 @@ END OF WIREFRAME — faq-21-e4
 
 - INTENT: guarantee block — PARTNER OBJECTION — DECISION + GUARANTEE
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **REV-07** — After Permission Reversal
 
   - Currently used: 14/8
 
@@ -664,7 +664,7 @@ END OF WIREFRAME — faq-21-e4
 
 - INTENT: mechanism block — BRAND OBJECTION — MECHANISM + LENA PEER
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **4** — The Pull-Up Villain Card
 
   - Currently used: 14/8
 
@@ -698,7 +698,7 @@ END OF WIREFRAME — faq-21-e4
 
 - INTENT: signoff block — SIGN-OFF + INLINE CTA
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **EMODEEP-14** — The Identity Reframe
 
   - Currently used: 15/8
 
@@ -715,7 +715,7 @@ END OF WIREFRAME — faq-21-e4
 
 - INTENT: guarantee block — P.S. — DOUBLE P.S. (PARTNER SUMMARY + GUARANTEE)
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
 
   - Currently used: 15/8
 

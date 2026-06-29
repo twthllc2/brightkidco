@@ -884,8 +884,7 @@ SYSTEM B (automatic):
 ### Section 10: signoff
 - **ROLE slot:** signoff
 - **INTENT (from wireframe):** 12.1 (reused from E6) — LONG
-- **COMPONENT PICKED:** 12.1
-  - Name: Lena Signoff
+- **COMPONENT PICKED:** UTIL-09  - Name: Lena Signoff
   - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
   - Currently used: 8/8 (at/over cap)
   - **WHY:** Signoff: 12.1 (reused from E6) — LONG
@@ -894,7 +893,7 @@ SYSTEM B (automatic):
 ### Footer (static — already picked, no work needed)
 - Header: extracted once from Giuliano mockup (Stage 2 Task 0)
 - Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+- Lena Sign-off variant: see `UTIL-09` / `UTIL-05` picks above per email's variant
 
 ### Tracker updates applied
 - `component-usage.json`: incremented counts for `HERO-7`, `EMO-4`, `EDU-13`, `LETTER-03`, `EMO-5`, `SP2`, `CTADEEP-06.1`, `TRUST-1`, `CTAMAX-18`, `12.1`

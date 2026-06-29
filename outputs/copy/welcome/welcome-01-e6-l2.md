@@ -633,8 +633,7 @@ SYSTEM B (automatic):
 ### Section 1: hook-quiet
 - **ROLE slot:** hook-quiet
 - **INTENT (from wireframe):** HERO-9 Whisper Tone (already used 1x by L1; total now 2/8)
-- **COMPONENT PICKED:** HERO-9
-  - Name: Whisper Tone *(L3996)*
+- **COMPONENT PICKED:** HERO-19  - Name: Whisper Tone *(L3996)*
   - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`emotional`, temperature=`warm`
   - Currently used: 2/8 (under cap)
   - **WHY:** Hook: HERO-9 Whisper Tone (already used 1x by L1; total now 2/8)
@@ -733,8 +732,7 @@ SYSTEM B (automatic):
 ### Section 11: signoff
 - **ROLE slot:** signoff
 - **INTENT (from wireframe):** 12.1 — LONG variant (first LONG appearance)
-- **COMPONENT PICKED:** 12.1
-  - Name: Lena Signoff
+- **COMPONENT PICKED:** 33.1  - Name: Lena Signoff
   - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
   - Currently used: 7/8 (under cap)
   - **WHY:** Signoff: 12.1 — LONG variant (first LONG appearance)
@@ -743,7 +741,7 @@ SYSTEM B (automatic):
 ### Footer (static — already picked, no work needed)
 - Header: extracted once from Giuliano mockup (Stage 2 Task 0)
 - Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+- Lena Sign-off variant: see `33.1` / `UTIL-05` picks above per email's variant
 
 ### Tracker updates applied
 - `component-usage.json`: incremented counts for `HERO-9`, `EMO-4`, `EDU-2`, `SP2`, `SP-06`, `SP2`, `PROD-3`, `TRUST-2`, `CTAMAX-04`, `CTA-2`, `12.1`

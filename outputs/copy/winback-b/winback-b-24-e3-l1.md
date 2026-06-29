@@ -897,7 +897,7 @@ END OF WIREFRAME — winback-b-24-e3-l1
 
 - INTENT: hook block — HOOK — Directness + Last-Email Declaration
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
 
   - Currently used: 28/8
 
@@ -914,7 +914,7 @@ END OF WIREFRAME — winback-b-24-e3-l1
 
 - INTENT: validation block — VALIDATION — You Didn't Fail
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
 
   - Currently used: 20/8
 
@@ -931,7 +931,7 @@ END OF WIREFRAME — winback-b-24-e3-l1
 
 - INTENT: mechanism block — MECHANISM — Signal-Timing Gap (Nicholson 2019)
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-12** — Hope Gradient
 
   - Currently used: 44/8
 
@@ -948,7 +948,7 @@ END OF WIREFRAME — winback-b-24-e3-l1
 
 - INTENT: offer block — OFFER — 3+3 Bundle Still Here
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **18.1** — Hi-Fi Gradient Hero + Discount Block
 
   - Currently used: 44/8
 
@@ -965,9 +965,9 @@ END OF WIREFRAME — winback-b-24-e3-l1
 
 - INTENT: cta block — PERMISSION-NOT-TO-BUY + LAST EMAIL DECLARATION
 
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
+- COMPONENT PICKED: **CTA-8** — Dual CTA
 
-  - Currently used: 14/8
+  - Currently used: 13/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -982,7 +982,7 @@ END OF WIREFRAME — winback-b-24-e3-l1
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **REV-03.2** — REV-03.2 — Logic Block (Worst-Case Reassurance)
 
   - Currently used: 44/8
 

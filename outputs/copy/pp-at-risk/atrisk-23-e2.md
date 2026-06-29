@@ -1023,9 +1023,9 @@ END OF WIREFRAME — atrisk-23-e2
 
 - INTENT: cta block — CTA — DUAL: BUTTON + TEXT LINK
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
 
-  - Currently used: 6/8
+  - Currently used: 5/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

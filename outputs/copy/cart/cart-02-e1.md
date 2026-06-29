@@ -574,9 +574,10 @@ END OF WIREFRAME — cart-02-e1
 
 - INTENT: social_proof block — Three Family Proof
 
-- COMPONENT PICKED: **STORY-04** — Deep Quote
+- COMPONENT PICKED: **STORY-09** — Quiet Witness
 
-  - Currently used: 1/8
+  - Currently used: 7/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF three-family-proof)
+  - WHY: by-name position+audience match. STORY-09 is a body_recognition component with full-audience tag, appropriate for GF three-family-proof.
 
 - IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
 
@@ -593,9 +594,10 @@ END OF WIREFRAME — cart-02-e1
 
 - INTENT: hook block — Product Intro
 
-- COMPONENT PICKED: **HERO-12** — Before Snapshot
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
-  - Currently used: 1/8
+  - Currently used: 12/8 (over cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF product-intro)
+  - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF product-intro.
 
 - IMAGE PICKED: **lifestyle/toddler-playing-train-moon-cloud-blue.png**
 

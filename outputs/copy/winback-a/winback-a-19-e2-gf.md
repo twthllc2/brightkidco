@@ -755,7 +755,7 @@ END OF WIREFRAME — winback-a-19-e2-gf
 
 - INTENT: hook block — HOOK — Whether...Or...If... Universal Recognition
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **EJ1** — Before/After Transformation
 
   - Currently used: 7/8
 
@@ -772,7 +772,7 @@ END OF WIREFRAME — winback-a-19-e2-gf
 
 - INTENT: validation block — VALIDATION — Permission to Pause
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
 
   - Currently used: 13/8
 
@@ -791,7 +791,7 @@ END OF WIREFRAME — winback-a-19-e2-gf
 - INTENT: validation block — RECOGNITION ANCHORS — Do Any of These Sound
              Familiar? (R2, R4, R6)
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **UTIL-03** — Out-Line
 
   - Currently used: 14/8
 
@@ -808,7 +808,7 @@ END OF WIREFRAME — winback-a-19-e2-gf
 
 - INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN (GF Inclusion)
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
 
   - Currently used: 17/8
 
@@ -827,7 +827,7 @@ END OF WIREFRAME — winback-a-19-e2-gf
 - INTENT: mechanism block — MECHANISM REMINDER — Why Body-Signal Learning
              Works Differently
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **DEEP-01** — The Unfinished Study
 
   - Currently used: 20/8
 
@@ -844,9 +844,9 @@ END OF WIREFRAME — winback-a-19-e2-gf
 
 - INTENT: cta block — OFFER + CTA — Try Again, Your Way
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTADEEP-05** — Quiet CTA
 
-  - Currently used: 9/8
+  - Currently used: 8/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -861,7 +861,7 @@ END OF WIREFRAME — winback-a-19-e2-gf
 
 - INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **DEEP-05** — The Before-After-Moment
 
   - Currently used: 21/8
 

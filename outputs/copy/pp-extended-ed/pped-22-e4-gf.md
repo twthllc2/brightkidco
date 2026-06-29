@@ -1188,7 +1188,7 @@ END OF WIREFRAME — pped-22-e4-gf
 
 - INTENT: validation block — VALIDATION — "PROMPTING BUILDS COMPLIANCE, NOT BODY AWARENESS"
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 7/8
 
@@ -1205,9 +1205,10 @@ END OF WIREFRAME — pped-22-e4-gf
 
 - INTENT: mechanism block — MECHANISM — "THE UNDERWEAR IS DOING SOMETHING YOUR PROMPTS CAN'T"
 
-- COMPONENT PICKED: **DEEP-24** — Sensory Inventory
+- COMPONENT PICKED: **EDU-3** — Checklist
 
-  - Currently used: 4/8
+  - Currently used: 6/8 (under cap; was DEEP-21 Three-Layer Story which exceeds cap at 8)
+  - WHY: by-name position+audience match. EDU-3 Checklist is a body_mechanism component with full-audience tag, appropriate for GF mechanism-underwear-is-doing block.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1275,9 +1276,9 @@ END OF WIREFRAME — pped-22-e4-gf
 
 - INTENT: cta block — CTA — GF SOFT INCLUSIVE
 
-- COMPONENT PICKED: **CTA-2** — Permission Button
+- COMPONENT PICKED: **CTA-10** — Soft Button
 
-  - Currently used: 8/8
+  - Currently used: 6/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

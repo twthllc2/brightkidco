@@ -1058,7 +1058,7 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 - INTENT: hook block — HOOK — 60 Days Later, Same Problem?
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **4** — The Pull-Up Villain Card
 
   - Currently used: 30/8
 
@@ -1075,7 +1075,7 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 - INTENT: mechanism block — NEW SCIENCE — Interoception Can Be Trained
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-19** — The Time Lapse
 
   - Currently used: 46/8
 
@@ -1094,7 +1094,7 @@ END OF WIREFRAME — winback-b-24-e2-l2
 - INTENT: default block — REALISTIC TIMELINE — What This Means for Your
              Child (L2 ④)
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-03** — The Permission Letter (uses Letter)
 
   - Currently used: 47/8
 
@@ -1111,7 +1111,7 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 - INTENT: default block — BCBA COMPLEMENT — All Three Together (L2 ③)
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-6** — Identity Statement
 
   - Currently used: 47/8
 
@@ -1128,7 +1128,7 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 - INTENT: guarantee block — UPDATED OFFER + GUARANTEE
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **9.2** — Sticker Reasons
 
   - Currently used: 47/8
 
@@ -1145,7 +1145,7 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 - INTENT: social_proof block — TESTIMONIAL — L2 Peer Mom Story
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **REV-02.4** — REV-02.4 — CTA Block (After-Social-Proof Conversion)
 
   - Currently used: 21/8
 
@@ -1162,9 +1162,9 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 - INTENT: cta block — PERMISSION-NOT-TO-BUY (L2 ⑥)
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **EMO-3** — Guilt Reduction
 
-  - Currently used: 14/8
+  - Currently used: 13/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1179,7 +1179,7 @@ END OF WIREFRAME — winback-b-24-e2-l2
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-8** — Grief Acknowledgment
 
   - Currently used: 48/8
 

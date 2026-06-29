@@ -642,7 +642,7 @@ END OF WIREFRAME — winback-a-19-e1-gf
 
 - INTENT: default block — SINGLE-SECTION LONG-FORM PROSE (Shape K)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
 
   - Currently used: 17/8
 
@@ -659,7 +659,7 @@ END OF WIREFRAME — winback-a-19-e1-gf
 
 - INTENT: guarantee block — GUARANTEE REAFFIRMED + OPEN DOOR (in-flow)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **UTIL-03** — Out-Line
 
   - Currently used: 18/8
 
@@ -676,7 +676,7 @@ END OF WIREFRAME — winback-a-19-e1-gf
 
 - INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT + REPLY P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **LETTER-06** — PS Teaser
 
   - Currently used: 19/8
 

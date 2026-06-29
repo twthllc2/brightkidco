@@ -1046,7 +1046,7 @@ END OF WIREFRAME — winback-b-24-e2-gf
 - INTENT: hook block — HOOK — Universal Recognition "Whether...Or...If..."
              + 5 Anchors
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
 
   - Currently used: 23/8
 
@@ -1065,7 +1065,7 @@ END OF WIREFRAME — winback-b-24-e2-gf
 - INTENT: mechanism block — NEW SCIENCE CITATION — 49-Study Meta-Review +
              Cross-Spectrum Finding
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-4** — Story Fragment
 
   - Currently used: 39/8
 
@@ -1084,7 +1084,7 @@ END OF WIREFRAME — winback-b-24-e2-gf
 - INTENT: default block — PULL-UP SIGNAL BLOCK — Feedback Loop
              Interrupted at Both Ends
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-17** — The Comic Strip
 
   - Currently used: 39/8
 
@@ -1101,9 +1101,10 @@ END OF WIREFRAME — winback-b-24-e2-gf
 
 - INTENT: guarantee block — UPDATED OFFER + 60-DAY GUARANTEE
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **17.1** — Hero Image with Stacked Shadow
 
-  - Currently used: 40/8
+  - Currently used: 4/8 (under cap; was 17.3 Parent Quote Card Yellow Tilted which is L2-only emotional_support)
+  - WHY: by-name position+audience match. 17.1 Hero Image is a hero-position component with full-audience tag, appropriate for GF updated-offer-60-day-guarantee.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1118,7 +1119,7 @@ END OF WIREFRAME — winback-b-24-e2-gf
 
 - INTENT: social_proof block — TESTIMONIAL — Three-Family Pattern (L18 §3)
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **31.2** — Tracking Info Table
 
   - Currently used: 20/8
 
@@ -1135,7 +1136,7 @@ END OF WIREFRAME — winback-b-24-e2-gf
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-19** — Timeline Shock
 
   - Currently used: 40/8
 

@@ -766,9 +766,9 @@ END OF WIREFRAME — pped-22-e5-l3
 
 - INTENT: cta block — COMMUNITY INVITATION — "THE QUIET CIRCLE"
 
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
+- COMPONENT PICKED: **5.1** — Dark CTA (CTAClose) (uses CTAClose)
 
-  - Currently used: 13/8
+  - Currently used: 12/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -783,7 +783,7 @@ END OF WIREFRAME — pped-22-e5-l3
 
 - INTENT: social_proof block — PEER L3 TESTIMONIAL — 9-YEAR-OLD'S MICRO-WIN
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 14/8
 
@@ -800,7 +800,7 @@ END OF WIREFRAME — pped-22-e5-l3
 
 - INTENT: cta block — COMMUNITY DOOR — PERMISSION FRAME
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
 
   - Currently used: 13/8
 
@@ -817,7 +817,7 @@ END OF WIREFRAME — pped-22-e5-l3
 
 - INTENT: signoff block — LENA SIGN-OFF (MEDIUM-LONG VARIANT) + RE-ENTRY P.S.
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
+- COMPONENT PICKED: **UTIL-03** — Out-Line
 
   - Currently used: 13/8
 

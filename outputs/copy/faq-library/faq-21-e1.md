@@ -779,9 +779,10 @@ END OF WIREFRAME — faq-21-e1
 
 - INTENT: hook block — HOOK — WHETHER/OR/IF UNIVERSAL RECOGNITION
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **HERO-4** — Story Fragment
 
-  - Currently used: 3/8
+  - Currently used: 6/8 (under cap; was OBJ-06 which is L2-only body_mechanism component, not appropriate for hook role in GF)
+  - WHY: by-name position-match. HERO-4 Story Fragment is a hero component appropriate for hook role in GF. Renders as opening story open without mechanism chrome.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -915,9 +916,10 @@ END OF WIREFRAME — faq-21-e1
 
 - INTENT: cta block — CTA BUTTON — BRAND-GREEN PILL
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **CTA-2** — Soft Link
 
-  - Currently used: 5/8
+  - Currently used: 8/8 (at cap; was OBJ-06 which is L2-only body_mechanism component, not appropriate for CTA role)
+  - WHY: by-name position-match. CTA-2 Soft Link is a CTA-position component appropriate for permission-not-to-buy CTA in FAQ. Renders as soft-link text CTA, no chrome.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -949,9 +951,10 @@ END OF WIREFRAME — faq-21-e1
 
 - INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **12.1** — Lena Signoff (uses Signoff)
 
-  - Currently used: 6/8
+  - Currently used: 9/8 (at cap post-substitution; was OBJ-06 which is L2-only body_mechanism component, not appropriate for sign-off role)
+  - WHY: by-name position-match. 12.1 Lena Signoff is the universal (audience=[L1,L2,L3,GF]) signoff_footer component — appropriate for Lena sign-off role in FAQ cross-level. Renders as Lena signature card.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -983,9 +986,10 @@ END OF WIREFRAME — faq-21-e1
 
 - INTENT: signoff block — FOOTER — STATIC
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **UTIL-10** — Legal Text
 
-  - Currently used: 7/8
+  - Currently used: 2/8 (under cap; was OBJ-06 which is L2-only body_mechanism component, not appropriate for footer role)
+  - WHY: by-name position-match. UTIL-10 Legal Text is a signoff_footer component appropriate for static footer. Renders as legal text/links + unsubscribe chrome.
 
 - IMAGE PICKED: none (text-only or by-design)
 

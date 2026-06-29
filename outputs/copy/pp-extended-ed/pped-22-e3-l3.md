@@ -814,7 +814,7 @@ END OF WIREFRAME — pped-22-e3-l3
 
 - INTENT: social_proof block — PEER L3 TESTIMONIAL + TEXT LINK CTA
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 13/8
 

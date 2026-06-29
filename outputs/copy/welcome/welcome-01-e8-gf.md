@@ -787,7 +787,7 @@ END OF WIREFRAME — welcome-01-e8-gf
 - INTENT: presents the two final offers as text links (NOT buttons,
   per GF brand lowest-aggression posture); followed by Lena LONG
   signoff (final farewell).
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA (CTA slot, used in
+- COMPONENT PICKED: **5.1** — Dark CTA (CTAClose) (uses CTAClose)
   E5 S7 — at 1/8) + **REV-10.2** — REV-10.2 Lena Final (Lena's Last
   Word) (signoff slot, used in E6 S6 — at 1/8)
   - WHY (CTA): text-link CTA is the lowest-aggression container

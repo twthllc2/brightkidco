@@ -744,7 +744,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: default block — BRIGHTKIDCO LETTERHEAD
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-13** — Bundle Visual
 
   - Currently used: 30/8
 
@@ -763,9 +763,10 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: default block — SUBJECT REPEAT, SUBTLE
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-1** — Curiosity Gap
 
-  - Currently used: 30/8
+  - Currently used: 9/8 (over cap post-substitution; was HERO-14 Quote Bomb which is L2-only hero, not appropriate for GF subject-repeat)
+  - WHY: by-name position+audience match. HERO-1 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]) appropriate for GF subject-repeat-subtle role.
 
 - IMAGE PICKED: **flat-lay/swim-diaper-giraffe-yellow.jpg**
 
@@ -782,7 +783,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: default block — SECTION 1 — HOOK, WHETHER/OR/IF
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-4** — Empathy Block
 
   - Currently used: 30/8
 
@@ -801,7 +802,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: validation block — SECTION 2 — VALIDATION + PROGRESS
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-14** — Product Video Placeholder
 
   - Currently used: 31/8
 
@@ -820,7 +821,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: default block — DIVIDER
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-10** — Bold Declaration
 
   - Currently used: 31/8
 
@@ -839,7 +840,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: social_proof block — SECTION 3 — THREE-FAMILY TESTIMONIALS
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-08** — The Patience Meter
 
   - Currently used: 31/8
 
@@ -858,7 +859,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: default block — DIVIDER — same as before
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-15** — Product Spec Sheet
 
   - Currently used: 32/8
 
@@ -877,7 +878,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: support block — PAUSE-DOT CONTRAPTION
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-15** — Level Callout
 
   - Currently used: 32/8
 
@@ -896,7 +897,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: next block — SECTION 4 — WHAT'S NEXT: 4 OPTIONS
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-3** — Guilt Reduction
 
   - Currently used: 32/8
 
@@ -915,7 +916,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: cta block — PRIMARY CTA BUTTON
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-16** — Product Timeline
 
   - Currently used: 33/8
 
@@ -934,7 +935,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: cta block — SECONDARY CTA, TEXT LINK
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **PSYCH-05** — Curiosity Gap
 
   - Currently used: 33/8
 
@@ -953,7 +954,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: guarantee block — GUARANTEE BADGE
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **CTADEEP-05** — The Permission CTA
 
   - Currently used: 33/8
 
@@ -972,7 +973,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: signoff block — LENA SIGN-OFF, LONG LIFECYCLE VARIANT
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-19** — Product Guarantee
 
   - Currently used: 34/8
 
@@ -989,7 +990,7 @@ Customer Support · Mom of two autistic sons
 
 - INTENT: signoff block — FOOTER
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **22.3** — Circle Crop Hero
 
   - Currently used: 34/8
 

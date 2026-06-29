@@ -691,8 +691,7 @@ SYSTEM B (automatic):
 ### Section 10: signoff
 - **ROLE slot:** signoff
 - **INTENT (from wireframe):** UTIL-05 (reused from E3) — MEDIUM
-- **COMPONENT PICKED:** UTIL-05
-  - Name: Signoff Card
+- **COMPONENT PICKED:** STORY-08  - Name: Signoff Card
   - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
   - Currently used: 1/8 (under cap)
   - **WHY:** Signoff: UTIL-05 (reused from E3) — MEDIUM
@@ -701,7 +700,7 @@ SYSTEM B (automatic):
 ### Footer (static — already picked, no work needed)
 - Header: extracted once from Giuliano mockup (Stage 2 Task 0)
 - Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+- Lena Sign-off variant: see `12.1` / `STORY-08` picks above per email's variant
 
 ### Tracker updates applied
 - `component-usage.json`: incremented counts for `HERO-14`, `LETTER-03`, `EDU-9`, `EMO-6`, `SP-08`, `PROD-3`, `TRUST-2`, `CTAMAX-17`, `CTA-2`, `UTIL-05`

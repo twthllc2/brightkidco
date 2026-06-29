@@ -642,7 +642,7 @@ SYSTEM B (automatic):
 ### Section 3: desire-3layer
 - **ROLE slot:** desire-3layer
 - **INTENT (from wireframe):** PROD-3 (reused) — 3-layer refresher
-- **COMPONENT PICKED:** PROD-3
+- **COMPONENT PICKED:** PRICE-2
   - Name: Layer Breakdown *(L5744)*
   - From catalog: position=`product_showcase`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`product`, temperature=`neutral`
   - Currently used: 5/8 (under cap)
@@ -672,8 +672,7 @@ SYSTEM B (automatic):
 ### Section 6: cta-text
 - **ROLE slot:** cta-text
 - **INTENT (from wireframe):** CTAMAX-03 (reused) — text-link only
-- **COMPONENT PICKED:** CTAMAX-03
-  - Name: Text Link CTA *(L16734)*
+- **COMPONENT PICKED:** CTA-1  - Name: Text Link CTA *(L16734)*
   - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
   - Currently used: 6/8 (under cap)
   - **WHY:** CTA: CTAMAX-03 (reused) — text-link only
@@ -682,8 +681,7 @@ SYSTEM B (automatic):
 ### Section 7: signoff
 - **ROLE slot:** signoff
 - **INTENT (from wireframe):** 12.1 (reused) — LONG DEEPER with permission sentence
-- **COMPONENT PICKED:** 12.1
-  - Name: Lena Signoff
+- **COMPONENT PICKED:** UTIL-04  - Name: Lena Signoff
   - From catalog: position=`signoff_footer`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`design`, temperature=`neutral`
   - Currently used: 9/8 (at/over cap)
   - **WHY:** Signoff: 12.1 (reused) — LONG DEEPER with permission sentence
@@ -692,7 +690,7 @@ SYSTEM B (automatic):
 ### Footer (static — already picked, no work needed)
 - Header: extracted once from Giuliano mockup (Stage 2 Task 0)
 - Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+- Lena Sign-off variant: see `UTIL-04` / `UTIL-05` picks above per email's variant
 
 ### Tracker updates applied
 - `component-usage.json`: incremented counts for `HERO-4`, `EDU-3`, `PROD-3`, `SP-03`, `TRUST-2`, `CTAMAX-03`, `12.1`

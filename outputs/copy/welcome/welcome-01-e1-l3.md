@@ -790,7 +790,7 @@ END OF WIREFRAME — welcome-01-e1-l3
 ### Section 1 — signal-dot-anchor
 - ROLE slot: `signal-dot-anchor` (single warm-stone dot, 8-12px, no illustration/photo/child imagery)
 - INTENT (from wireframe): quiet visual cue that this email is different from every "training" email Maria has been sent
-- COMPONENT PICKED: **HERO-9 — "Whisper Tone"** (section-components letter/hero pool, source A*)
+- COMPONENT PICKED: **HERO-6 — "Identity Statement"** (section-components letter/hero pool, source A*)
   - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm, messaging=hook
   - Currently used: 1/8 (under cap)
   - WHY: whisper-tone open matches the wireframe's "single-sentence hook" + warm-stone dot motif; whisper tone IS the L3 voice register — sets emotional register for the entire 21-day arc. No sales machinery visible.
@@ -800,7 +800,7 @@ END OF WIREFRAME — welcome-01-e1-l3
 ### Section 2 — prose-block (extended mirror)
 - ROLE slot: `prose-block` (9-year mirror paragraph, full-width flowing text, max 65ch, 17px serif body, no box, no border)
 - INTENT (from wireframe): Maria's 9-year pull-up timeline + 2am searches + 30-50 failed methods; full breath-around-text
-- COMPONENT PICKED: **LETTER-01 — "Paragraph Stack"** (section-components letter pool, source A*)
+- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (section-components letter pool, source A*)
   - From catalog: position=body, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: paragraph stack = pure flowing prose with no card/border/side-stripe decorations. Honors the wireframe's "breath-around-text" requirement (L3 forbids cards, side-stripes, sidebars).
@@ -810,7 +810,7 @@ END OF WIREFRAME — welcome-01-e1-l3
 ### Section 3 — pull-quote-soft-italic
 - ROLE slot: `pull-quote-soft-italic` (verbatim L3 parent quote "I live each day between hopelessness, and holding on to any drop of hope." italic serif 18px, warm clay, generous left margin, NO box/border/bg)
 - INTENT (from wireframe): the quote itself does the work — no decorative chrome
-- COMPONENT PICKED: **LETTER-10 — "Highlighted Passage"** (section-components letter pool, source A*)
+- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (section-components letter pool, source A*)
   - From catalog: position=body, image_support=text_only
   - Currently used: 1/8
   - WHY: Highlighted Passage is the only L3-safe passage component (no box, no card, no side-stripe border, no quote-mark glyph chrome). Italic serif emphasis only — exactly what wireframe specifies.
@@ -864,7 +864,7 @@ END OF WIREFRAME — welcome-01-e1-l3
 ### Signoff (signoff-lena-short) — STATIC, ALREADY EXTRACTED
 - ROLE slot: `signoff-lena-short` (warm-cream separation bg, 16px body, "Talk soon," closing, signature "Lena S., BrightKidCo" no badge no image 14px italic warm clay)
 - INTENT (from wireframe): SHORT variant per GIULIANO §3 (E1-E2 = "Talk soon,")
-- COMPONENT PICKED: **UTIL-05 — "Signoff Card (uses Signoff)"** (already extracted in Stage 2 Phase A header/footer work; L3 signoff variant stub)
+- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (already extracted in Stage 2 Phase A header/footer work; L3 signoff variant stub)
   - From catalog: position=signoff_footer, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 0/8 (static, doesn't consume cap)
   - WHY: Lena signature rendered as 14px italic warm clay per wireframe — L3 calibration exact match.

@@ -784,7 +784,7 @@ END OF WIREFRAME — welcome-01-e1-gf
 - ROLE slot: `callout-quote-highlight-gf` (stacked, GF universal voice)
 - INTENT: highlight cross-level GF quotes bridging Sub-Group A
   (Diagnostic Entrants) and Sub-Group D (Overwhelmed Non-Selectors).
-- COMPONENT PICKED: **DEEP-13** — The Reverse Testimonial
+- COMPONENT PICKED: **REV-07.2** — REV-07.2 — Permission Statement (Solve-This Closer)
   - From catalog: position=body_recognition, image_support=image_text,
     audience=[L1,L2,L3,GF]. Currently used: 0/8.
   - WHY: the weeks-pattern ("Week 1 / Week 3") is a structurally

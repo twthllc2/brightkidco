@@ -816,7 +816,7 @@ END OF WIREFRAME — ofd-07-e1
 
 - INTENT: default block — WHAT TO DO WHEN IT ARRIVES — 3-STEP SEQUENCE
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
 
   - Currently used: 9/8
 
@@ -867,7 +867,7 @@ END OF WIREFRAME — ofd-07-e1
 
 - INTENT: guarantee block — GUARANTEE REINFORCEMENT
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **4** — The Pull-Up Villain Card
 
   - Currently used: 10/8
 

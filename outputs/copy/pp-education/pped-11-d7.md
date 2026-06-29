@@ -846,7 +846,7 @@ END OF WIREFRAME — pped-11-d7
 
 - COMPONENT PICKED: **CTA-11** — Quiet CTA
 
-  - Currently used: 7/8
+  - Currently used: 6/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

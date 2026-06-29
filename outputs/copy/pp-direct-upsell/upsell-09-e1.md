@@ -572,9 +572,10 @@ END OF WIREFRAME — upsell-09-e1
 
 - INTENT: social_proof block — GUARANTEE + TESTIMONIAL CALLOUT
 
-- COMPONENT PICKED: **7** — Parent Stories
+- COMPONENT PICKED: **PERS-04** — Dynamic Progress
 
-  - Currently used: 3/8
+  - Currently used: 5/8 (under cap; was 7 Parent Stories L2-only)
+  - WHY: by-name position+audience match. PERS-04 Dynamic Progress is a body_recognition component with full-audience tag, appropriate for guarantee-testimonial-callout in GF.
 
 - IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
 
@@ -591,7 +592,7 @@ END OF WIREFRAME — upsell-09-e1
 
 - INTENT: cta block — CTA — PRIMARY + SECONDARY
 
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
+- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
 
   - Currently used: 4/8
 

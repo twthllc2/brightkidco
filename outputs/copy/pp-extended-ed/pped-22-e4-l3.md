@@ -963,7 +963,7 @@ END OF WIREFRAME — pped-22-e4-l3
 
 - INTENT: default block — LATE-TRAINER STORIES (3 INDENTED NARRATIVE BLOCKS)
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 16/8
 
@@ -999,7 +999,7 @@ END OF WIREFRAME — pped-22-e4-l3
 
 - INTENT: validation block — WHATEVER PROGRESS MEANS — DIGNITY CLOSE
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 12/8
 
@@ -1018,7 +1018,7 @@ END OF WIREFRAME — pped-22-e4-l3
 
 - COMPONENT PICKED: **CTAMAX-08** — Soft CTA
 
-  - Currently used: 12/8
+  - Currently used: 11/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

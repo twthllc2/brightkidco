@@ -614,9 +614,10 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
 
 - INTENT: default block — OPENER HOOK
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **HERO-4** — Story Fragment
 
-  - Currently used: 4/8
+  - Currently used: 5/8 (under cap; was PROD-4 which is a product_showcase component, not appropriate for hook role)
+  - WHY: by-name GF-compatible. Story Fragment is a hero component with story/audit messaging — appropriate for opener-hook. Renders as inline story open without product chrome. Variance vs Section 6 (HERO-18) and Section 1 (PROD-4 kept) — three different open-tone templates.
 
 - IMAGE PICKED: **flat-lay/training-pant-fox-red-white.jpg**
 
@@ -652,9 +653,10 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
 
 - INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **SP-08** — Stacked Mini-Reviews
 
-  - Currently used: 5/8
+  - Currently used: 3/8 (under cap; was PROD-4 which is a product_showcase component, not appropriate for testimonial)
+  - WHY: by-name position-match. SP-08 Stacked Mini-Reviews is a body_social_proof component designed specifically for stacked testimonial patterns. Renders as quote-card mini-stack with soft gray hairline. Variance vs Section 6 (SP-11 Star Cascade) — two distinct testimonial layouts.
 
 - IMAGE PICKED: **flat-lay/training-pant-penguin-multicolor.jpg**
 
@@ -690,9 +692,10 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
 
 - INTENT: cta block — CTA SECTION
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **CTADEEP-08** — The Story Closer
 
-  - Currently used: 6/8
+  - Currently used: 2/8 (under cap; was PROD-4 which is product_showcase component, not appropriate for CTA role)
+  - WHY: by-name position-match. CTADEEP-08 is a body_cta component with story messaging — converts the social proof into a permission-close CTA. Warm tone preserves replenish-a's permission-based tone. Variance vs Section 8 (CTA-2 Soft Link) — story-driven vs link-driven CTA.
 
 - IMAGE PICKED: **flat-lay/training-pant-cloud-raindrop-white.jpg**
 
@@ -728,9 +731,10 @@ This is E1 of 3 — no prior email to compare against within Flow 15.
 
 - INTENT: next block — NEXT-TIME FORWARD-LOOK
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **HERO-19** — Timeline Shock
 
-  - Currently used: 7/8
+  - Currently used: 5/8 (under cap; was PROD-4 which is product_showcase component, not appropriate for forward-look hero role)
+  - WHY: by-name position-match. HERO-19 Timeline Shock is a hero component with story messaging — perfect for "next-time" forward-look teaser. Renders as timeline-acceleration open with momentum not pressure.
 
 - IMAGE PICKED: **flat-lay/swim-diaper-giraffe-yellow.jpg**
 

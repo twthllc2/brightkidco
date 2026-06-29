@@ -788,7 +788,7 @@ END OF WIREFRAME — winback-a-19-e1-l2
 
 - INTENT: hook block — HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **3** — Micro-Win Celebration
 
   - Currently used: 14/8
 
@@ -805,7 +805,7 @@ END OF WIREFRAME — winback-a-19-e1-l2
 
 - INTENT: validation block — VALIDATION + BCBA ACKNOWLEDGMENT (L2 ③)
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
 
   - Currently used: 17/8
 
@@ -824,7 +824,7 @@ END OF WIREFRAME — winback-a-19-e1-l2
 - INTENT: mechanism block — MECHANISM SPECIFICITY — CONSISTENCY VARIABLE
              (L2 ②)
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **2.1** — Lilac Gradient Hero
 
   - Currently used: 28/8
 
@@ -841,7 +841,7 @@ END OF WIREFRAME — winback-a-19-e1-l2
 
 - INTENT: social_proof block — TESTIMONIAL — L2 LONG-FORM WITH BCBA CONTEXT
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
 
   - Currently used: 19/8
 
@@ -860,7 +860,7 @@ END OF WIREFRAME — winback-a-19-e1-l2
 - INTENT: default block — REALISTIC TIMELINE — HONEST, NOT OPTIMISTIC
              (L2 ④)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **PERS-01** — Level Greeting
 
   - Currently used: 28/8
 
@@ -877,7 +877,7 @@ END OF WIREFRAME — winback-a-19-e1-l2
 
 - INTENT: hook block — PRODUCT RE-INTRODUCTION — 3-LAYER RECAP
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **31.1** — Green Status Pill
 
   - Currently used: 15/8
 
@@ -894,9 +894,10 @@ END OF WIREFRAME — winback-a-19-e1-l2
 
 - INTENT: guarantee block — GUARANTEE + PERMISSION-NOT-TO-BUY (L2 ⑤ ⑥)
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **2.2** — Warm Hero
 
-  - Currently used: 29/8
+  - Currently used: 7/8 (under cap; was 2.3 Teal CTA Hero which is teal/L2-forbidden per Stage 2 audit)
+  - WHY: by-name L2-compatible alternative. Warm Hero preserves the gradient-hero family (Lilac 2.1→Warm 2.2→Teal 2.3) but uses warm tones only — honoring L2 muted-green palette rule. Permission-not-to-buy reads as gentle hero with soft tone-on-tone banner; no teal accent.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -911,7 +912,7 @@ END OF WIREFRAME — winback-a-19-e1-l2
 
 - INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + P.S. PAIR
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **PERS-04** — Dynamic Progress
 
   - Currently used: 29/8
 

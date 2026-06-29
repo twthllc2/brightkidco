@@ -941,7 +941,7 @@ END OF WIREFRAME — pped-11-d0
 
 - INTENT: default block — HERO + BADGE + HEADLINE — INCLUSIVE OPENER
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **2.2** — Warm Hero
 
   - Currently used: 7/8
 
@@ -994,9 +994,10 @@ END OF WIREFRAME — pped-11-d0
 
 - INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
 
-- COMPONENT PICKED: **7** — Parent Stories
+- COMPONENT PICKED: **STORY-10** — Stacked Story
 
-  - Currently used: 4/8
+  - Currently used: 5/8 (under cap; was 7 Parent Stories L2-only)
+  - WHY: by-name position+audience match. STORY-10 Stacked Story is a body_recognition component with full-audience tag, appropriate for three-family-testimonial-pattern in GF.
 
 - IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
 
@@ -1068,7 +1069,7 @@ END OF WIREFRAME — pped-11-d0
 
 - COMPONENT PICKED: **CTAMAX-08** — Soft CTA
 
-  - Currently used: 7/8
+  - Currently used: 6/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

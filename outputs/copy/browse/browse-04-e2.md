@@ -669,9 +669,10 @@ END OF WIREFRAME — browse-04-e2
 
 - INTENT: social_proof block — THREE-FAMILY TESTIMONIAL BLOCK — TESTIMONIAL 1
 
-- COMPONENT PICKED: **STORY-04** — Deep Quote
+- COMPONENT PICKED: **STORY-09** — Quiet Witness
 
-  - Currently used: 2/8
+  - Currently used: 3/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF three-family-testimonial-testimonial-1)
+  - WHY: by-name position+audience match. STORY-09 Quiet Witness is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF testimonial slot.
 
 - IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
 
@@ -745,9 +746,9 @@ END OF WIREFRAME — browse-04-e2
 
 - INTENT: cta block — UNIVERSAL CTA + PERMISSION
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **CTA-10** — Soft Button
 
-  - Currently used: 2/8
+  - Currently used: 1/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

@@ -929,9 +929,10 @@ END OF WIREFRAME — ppupsell-12-e1
 
 - INTENT: mechanism block — MECHANISM — WHY ROTATION MATTERS
 
-- COMPONENT PICKED: **DEEP-24** — Sensory Inventory
+- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
 
-  - Currently used: 2/8
+  - Currently used: 9/8 (over cap post-substitution; was DEEP-21/DEEP-24 which is L2-only, not appropriate for GF mechanism)
+  - WHY: by-name position+audience match. DEEP-22 is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mechanism-underwear-is-doing block.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -982,9 +983,9 @@ END OF WIREFRAME — ppupsell-12-e1
 
 - INTENT: cta block — CTA — LEVEL-CALIBRATED
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
 
-  - Currently used: 5/8
+  - Currently used: 4/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

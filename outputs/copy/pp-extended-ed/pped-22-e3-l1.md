@@ -874,7 +874,7 @@ END OF WIREFRAME — pped-22-e3-l1
 
 - INTENT: default block — L1 PEER-MOM PULL QUOTE
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **31.1** — Green Status Pill
 
   - Currently used: 13/8
 
@@ -893,7 +893,7 @@ END OF WIREFRAME — pped-22-e3-l1
 
 - COMPONENT PICKED: **CTAMAX-08** — Soft CTA
 
-  - Currently used: 8/8
+  - Currently used: 7/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

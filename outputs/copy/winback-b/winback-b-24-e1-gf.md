@@ -1019,7 +1019,7 @@ END OF WIREFRAME — winback-b-24-e1-gf
 
 - INTENT: hook block — GREETING + OBSERVATION
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-09.2** — REV-09.2 — Discount Highlight (Best-Price Header)
 
   - Currently used: 22/8
 
@@ -1036,7 +1036,7 @@ END OF WIREFRAME — winback-b-24-e1-gf
 
 - INTENT: validation block — SYMPTOM BLOCK — 5 Recognition Anchors (R2)
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **LETTER-06** — PS Teaser
 
   - Currently used: 18/8
 
@@ -1053,7 +1053,7 @@ END OF WIREFRAME — winback-b-24-e1-gf
 
 - INTENT: validation block — VALIDATION — The Reframe + 49% SPARK Stat
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **LETTER-12** — Fragmented Text
 
   - Currently used: 19/8
 
@@ -1070,7 +1070,7 @@ END OF WIREFRAME — winback-b-24-e1-gf
 
 - INTENT: mechanism block — MECHANISM — 6 Citations + 672-Family Data
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **23.1** — Magazine Masthead
 
   - Currently used: 38/8
 
@@ -1087,7 +1087,7 @@ END OF WIREFRAME — winback-b-24-e1-gf
 
 - INTENT: guarantee block — OFFER — 3+3 Bundle + 60-Day Guarantee
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-13** — The Movie Scene
 
   - Currently used: 38/8
 
@@ -1106,7 +1106,8 @@ END OF WIREFRAME — winback-b-24-e1-gf
 
 - COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
 
-  - Currently used: 39/8
+  - Currently used: 6/8 (under cap; was EMODEEP-15 The Emotional Weather which is L2-only emotional_support component, not appropriate for GF lena-sign-off)
+  - WHY: by-name position+audience match. EMODEEP-01 Quiet Re-engagement is an emotional_support component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF sign-off.
 
 - IMAGE PICKED: none (text-only or by-design)
 

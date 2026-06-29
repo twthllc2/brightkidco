@@ -898,7 +898,7 @@ END OF WIREFRAME — pped-22-e2-l3
 
 - COMPONENT PICKED: **CTAMAX-08** — Soft CTA
 
-  - Currently used: 11/8
+  - Currently used: 10/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

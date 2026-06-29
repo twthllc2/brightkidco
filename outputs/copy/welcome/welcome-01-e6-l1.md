@@ -831,29 +831,27 @@ Stage 2 also applies System B colors automatically:
 
 ### Section 2: VALIDATION - anchor-quote-callout
 - ROLE slot: anchor-quote-callout
-- INTENT: L1-anchor parent quote — "He had a perfect week, then a month of accidents."
-- COMPONENT PICKED: 7
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 1/8
-  - WHY: 7 'Parent Stories (Emotional Proof)' is the catalog's parent-story anchor pattern. E6's anchor quote is the verbatim L1 marker phrase — perfect fit.
+- ROLE slot: anchor-quote-callout
+- INTENT: this is THE L1 anchor quote — verbatim L1 marker phrase, served as a centered pull-quote
+- COMPONENT PICKED: STORY-14  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story
+  - Current usage: 5/8 (under cap; was 7 'Parent Stories (Emotional Proof)' which is L2-only per audit)
+  - WHY: STORY-14 'Micro-Story' is the same component class as 7 but with full-audience tag. Renders as centered pull-quote with italic serif treatment. Replaces L2-only 7 per Stage 2 audit for L1 use.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 3: SOCIAL PROOF - stacked-testimonial-stack
 - ROLE slot: stacked-testimonial-stack
 - INTENT: three short L1 testimonials stacked vertically
-- COMPONENT PICKED: STORY-14
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: STORY-01  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 5/8
-  - WHY: STORY-14 'Micro-Story' is a micro-testimonial pattern suitable for 3 stacked short L1 testimonials. Variance vs SP-02 (E4), LETTER-11 (E2).
+  - WHY: STORY-01 'Micro-Story' is a micro-testimonial pattern suitable for 3 stacked short L1 testimonials. Variance vs SP-02 (E4), LETTER-11 (E2).
 - IMAGE PICKED: none (text-only component)
 
 ### Section 4: MECHANISM - pull-up-signal-reframe-diagram
 - ROLE slot: pull-up-signal-reframe-diagram
 - INTENT: visualizes the weakened L1 pull-up reframe + 49% stat
-- COMPONENT PICKED: DEEP-15
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: PERS-05  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 1/8
-  - WHY: DEEP-15 'The Method Graveyard' is the catalog's pull-up-as-failed-method diagram — fits E6's pull-up signal gap reframe. Variance vs DEEP-16 (E2), DEEP-13 (E4).
+  - WHY: PERS-05 'The Method Graveyard' is the catalog's pull-up-as-failed-method diagram — fits E6's pull-up signal gap reframe. Variance vs DEEP-16 (E2), DEEP-13 (E4).
 - IMAGE PICKED: none (text-only component)
 
 ### Section 5: CTA - product-pricing-stack (visual)
@@ -871,10 +869,9 @@ Stage 2 also applies System B colors automatically:
 ### Section 6: PRIMARY CTA - cta-button-full-width
 - ROLE slot: cta-button-full-width
 - INTENT: pull-up reframe primary CTA
-- COMPONENT PICKED: CTAMAX-08
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: CTA-5  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 0/8
-  - WHY: CTAMAX-08 'Social CTA' is a CTA-with-social-proof-tone — fits E6's testimonial-driven closing arc. Variance vs CTAMAX-01/04/06/09.
+  - WHY: CTA-5 'Social CTA' is a CTA-with-social-proof-tone — fits E6's testimonial-driven closing arc. Variance vs CTAMAX-01/04/06/09.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 7: GUARANTEE - guarantee-badge-callout
@@ -889,14 +886,13 @@ Stage 2 also applies System B colors automatically:
 ### Signoff: signoff-lena-long (With care, E6+)
 - ROLE slot: signoff-lena-long
 - INTENT: Lena LONG sign-off for E6+: 'With care,' (new tonal shift)
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: UTIL-10  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 4/8
-  - WHY: 12.1 'Lena Signoff' is the only Lena signoff in the catalog. The visual variant (LONG vs SHORT) is determined in Stage 3/4.
+  - WHY: UTIL-10 'Lena Signoff' is the only Lena signoff in the catalog. The visual variant (LONG vs SHORT) is determined in Stage 3/4.
 - IMAGE PICKED: none (text-only component)
 
 ### Tracker updates
-- component-usage.json: incremented ['HERO-19', '7', 'STORY-14', 'DEEP-15', 'REV-08.4', 'CTAMAX-08', 'CTAMAX-05', '12.1']
+- component-usage.json: incremented ['HERO-19', '7', 'STORY-14', 'DEEP-15', 'REV-08.4', 'CTAMAX-08', 'CTAMAX-05', 'UTIL-10']
 - image-usage.json: incremented ['lifestyle/toddler-backpack-moon-cloud-blue.png', 'flat-lay/training-pant-bunny-hearts-pink.jpg']
 
 ## STAGE 2 REMEDIATION — welcome-01-e6-l1

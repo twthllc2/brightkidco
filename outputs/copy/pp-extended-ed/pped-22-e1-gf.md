@@ -981,9 +981,9 @@ END OF WIREFRAME — pped-22-e1-gf
 
 - INTENT: cta block — CTA + PERMISSION — GF BRIDGE
 
-- COMPONENT PICKED: **CTA-13** — Gentle CTA
+- COMPONENT PICKED: **CTA-12** — Gentle CTA
 
-  - Currently used: 7/8
+  - Currently used: 6/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

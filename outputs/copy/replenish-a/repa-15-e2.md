@@ -857,7 +857,7 @@ guarantee.
 
 - INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **6.1** — ProductShowcaseFull (Giuliano source)
 
   - Currently used: 10/8
 
@@ -895,7 +895,7 @@ guarantee.
 
 - INTENT: offer block — OFFER BLOCK
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-03** — The Permission Letter (uses Letter)
 
   - Currently used: 10/8
 
@@ -914,7 +914,7 @@ guarantee.
 
 - INTENT: cta block — DUAL CTA STACK
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **6.2** — ProductShowcaseMedium (Giuliano source)
 
   - Currently used: 11/8
 
@@ -952,7 +952,7 @@ guarantee.
 
 - INTENT: cta block — SECONDARY CTA, TEXT LINK
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-8** — Grief Acknowledgment
 
   - Currently used: 11/8
 
@@ -971,7 +971,7 @@ guarantee.
 
 - INTENT: next block — NEXT-TIME FORWARD-LOOK
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PROD-5** — Feature Grid
 
   - Currently used: 12/8
 
@@ -990,7 +990,7 @@ guarantee.
 
 - INTENT: signoff block — LENA SIGN-OFF, SHORT VARIANT
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-10** — Bold Declaration
 
   - Currently used: 12/8
 
@@ -1007,7 +1007,7 @@ guarantee.
 
 - INTENT: image_block block — EASTER EGG: DAILY-WEAR MICRO-VISUAL
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-9** — Strength Reframe
 
   - Currently used: 12/8
 
@@ -1026,7 +1026,7 @@ guarantee.
 
 - INTENT: signoff block — FOOTER
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PROD-6** — Size Guide
 
   - Currently used: 13/8
 

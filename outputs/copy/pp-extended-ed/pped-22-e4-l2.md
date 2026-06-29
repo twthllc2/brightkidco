@@ -973,7 +973,7 @@ END OF WIREFRAME — pped-22-e4-l2
 
 - INTENT: default block — "NOTHING YET" CHECKLIST — 4 ENVIRONMENTAL FACTORS
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 15/8
 
@@ -1045,7 +1045,7 @@ END OF WIREFRAME — pped-22-e4-l2
 
 - COMPONENT PICKED: **CC3** — Curiosity Gap CTA
 
-  - Currently used: 8/8
+  - Currently used: 7/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

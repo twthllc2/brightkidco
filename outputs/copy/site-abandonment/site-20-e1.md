@@ -855,9 +855,9 @@ END OF WIREFRAME — site-20-e1
 
 - INTENT: cta block — PERMISSION + SOFT CTA — "KEEP EXPLORING"
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTA-10** — Soft Button
 
-  - Currently used: 3/8
+  - Currently used: 2/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

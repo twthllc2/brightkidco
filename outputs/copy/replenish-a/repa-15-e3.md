@@ -626,7 +626,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: default block — BRIGHTKIDCO LETTERHEAD
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-15** — Level Callout
 
   - Currently used: 13/8
 
@@ -645,7 +645,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: image_block block — HERO IMAGE BAND
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-10** — Patience Meter
 
   - Currently used: 13/8
 
@@ -664,7 +664,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: review block — SUBJECT + PREVIEW BLOCK
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PROD-8** — Lifestyle Collage
 
   - Currently used: 14/8
 
@@ -683,7 +683,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: hook block — OBSERVATION HOOK
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-4** — Story Fragment
 
   - Currently used: 8/8
 
@@ -702,7 +702,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: validation block — VALIDATION: THE 1-PAIR REALITY
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **PSYCH-05** — Curiosity Gap
 
   - Currently used: 14/8
 
@@ -721,7 +721,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: mechanism block — MECHANISM: WHY ROTATION MATTERS
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-11** — Break Permission
 
   - Currently used: 14/8
 
@@ -740,7 +740,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: social_proof block — THREE-FAMILY TESTIMONIAL PATTERN
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PROD-11** — Zoom Detail
 
   - Currently used: 15/8
 
@@ -759,7 +759,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: cta block — PERMISSION BLOCK
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **22.3** — Circle Crop Hero
 
   - Currently used: 15/8
 
@@ -778,7 +778,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: cta block — DUAL CTA STACK
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-12** — Hope Gradient
 
   - Currently used: 15/8
 
@@ -797,7 +797,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: cta block — PRIMARY CTA BUTTON
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **CTADEEP-01** — The Value Stack
 
   - Currently used: 16/8
 
@@ -816,7 +816,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: cta block — SECONDARY CTA, TEXT LINK / OUTLINED BUTTON
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **23.1** — Magazine Masthead
 
   - Currently used: 16/8
 
@@ -835,7 +835,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: signoff block — LENA SIGN-OFF, MEDIUM VARIANT
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **DEEP-23** — The Permission Slip
 
   - Currently used: 16/8
 
@@ -852,7 +852,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 - INTENT: signoff block — FOOTER
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **TRUSTDEEP-10.1** — TRUSTDEEP-10.1 — Bundle Hero (Multi-Pack Showcase)
 
   - Currently used: 17/8
 

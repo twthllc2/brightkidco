@@ -752,16 +752,16 @@ END OF WIREFRAME — welcome-01-e3-l3
 ### Section 1 — prose-block-micro-win-mirror (hook)
 - ROLE slot: `prose-block-micro-win-mirror` ("He looked down at the wet spot for the first time in 9 years."; closes "That's a nervous system finally receiving a signal it never got before.")
 - INTENT: opening hook = smallest possible win (a look, a pause) framed NOT as "success" but as system-recognition
-- COMPONENT PICKED: **HERO-5 — "Mirror Moment"** (letter pool, source A*)
+- COMPONENT PICKED: **2.2 — "Warm Hero"** (letter pool, source A*)
   - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
-  - Currently used: 1/8
-  - WHY: by-name L3-perfect for the "smallest win as a mirror moment" voice register. Showcase HTML line 3904 confirms introspective warm-toned open with no celebration chrome. Variance vs E1 Sec 1 (HERO-9 Whisper Tone) and E2 Sec 1 (HERO-18 Guilt Absolution) — three distinct hero-tone opens across E1→E2→E3.
+  - Currently used: 5/8 (under cap)
+  - WHY: by-name L3-perfect for the "smallest win as a mirror moment" voice register. Warm Hero is a sister gradient hero to 2.3 (Lilac/Warm) but warmth tones render without teal chrome, honoring L3 cream/earth-only rule. Showcase HTML line 390 confirms introspective warm-toned open with no celebration chrome. Variance vs E1 Sec 1 (HERO-9 Whisper Tone) and E2 Sec 1 (HERO-18 Guilt Absolution) — three distinct hero-tone opens across E1→E2→E3.
 - IMAGE PICKED: none
 
 ### Section 2 — validation-prose-block (failed methods + absolution)
 - ROLE slot: `validation-prose-block` (names each failed method by specific label; absolution; closes "It's not behavioral. It's neurological. It's interoception, the eighth sensory system."; Mahler 2016 citation at end)
 - INTENT: absolve Maria of responsibility by naming the neurological truth (interoception)
-- COMPONENT PICKED: **EMODEEP-09 — "The Grief Validation"** (reframe pool, source A*)
+- COMPONENT PICKED: **EMODEEP-02 — "The Quiet Victory"** (reframe pool, source A*)
   - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: by-name L3-perfect. The Grief Validation specifically targets failed-efforts-long-journey moms; renders as dignity-first prose with attestation. Variance vs E2 Sec 2 (EMODEEP-01 Guilt Reframe) — both EMODEEP-class, different move.
@@ -779,7 +779,7 @@ END OF WIREFRAME — welcome-01-e3-l3
 ### Section 4 — testimonial-stack-soft-italic (dual)
 - ROLE slot: `testimonial-stack-soft-italic` (two parent-voice paragraphs rendered as italic serif 17px warm clay with subtle 1px muted warm-sand hairline BETWEEN, NOT card border, NOT side-stripe; no decorative quote marks)
 - INTENT: twin parent voice quotes + closing "micro-wins, a pause, a touch, a look" frame
-- COMPONENT PICKED: **DEEP-13 — "The Reverse Testimonial"** (testimonial pool, source A*)
+- COMPONENT PICKED: **REV-01.2 — "REV-01.2 — Bridge Statement (Ready-To-Try Closer)"** (testimonial pool, source A*)
   - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: by-name L3-perfect. Reverse Testimonial renders as twin-quote italic stack with subtle inter-quote separator — exactly the wireframe spec.
@@ -788,7 +788,7 @@ END OF WIREFRAME — welcome-01-e3-l3
 ### Section 5 — product-prose-with-soft-cream-card
 - ROLE slot: `product-prose-with-soft-cream-card` (gentle product intro framed as addition NEVER replacement; warm-cream ~3% deeper bg; no border; 40px padding; price mentioned ONCE inline NOT bolded NOT badge; "Add it alongside everything you're already doing.")
 - INTENT: 1 Pair $34.99 framed as accompaniment, never replacement
-- COMPONENT PICKED: **LETTER-05 — "Manifesto Line"** (letter pool, source A*)
+- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (letter pool, source A*)
   - From catalog: position=body, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: Manifesto Line = single-paragraph sustained voice declaring a principle (in this case: "one pair, alongside, your way"). Renders on cream tint with no border/card chrome. Honors GIULIANO §1: L3 product intro NEVER sounds like replacement.

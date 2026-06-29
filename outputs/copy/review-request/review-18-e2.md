@@ -631,7 +631,7 @@ BrightKidCo · Built for the brain that learns differently.
 
 - INTENT: review block — SUBJECT + PREVIEW BLOCK
 
-- COMPONENT PICKED: **REV-09** — Review Showcase
+- COMPONENT PICKED: **REV-09.4** — Review Showcase
 
   - Currently used: 1/8
 
@@ -669,7 +669,7 @@ BrightKidCo · Built for the brain that learns differently.
 
 - INTENT: validation block — RECOGNITION ANCHORS, R2
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
 
   - Currently used: 4/8
 
@@ -686,9 +686,10 @@ BrightKidCo · Built for the brain that learns differently.
 
 - INTENT: social_proof block — THREE-FAMILY TESTIMONIAL TRIPTYCH
 
-- COMPONENT PICKED: **STORY-04** — Deep Quote
+- COMPONENT PICKED: **STORY-09** — Quiet Witness
 
-  - Currently used: 3/8
+  - Currently used: 5/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF three-family-testimonial-triptych)
+  - WHY: by-name position+audience match. STORY-09 Quiet Witness is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF testimonial-triptych.
 
 - IMAGE PICKED: **resized/toddler-playing.jpg**
 
@@ -705,9 +706,9 @@ BrightKidCo · Built for the brain that learns differently.
 
 - INTENT: cta block — GENTLE ASK + CTA BUTTON
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **CTA-7** — Permission Soft Button
 
-  - Currently used: 4/8
+  - Currently used: 3/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -722,9 +723,9 @@ BrightKidCo · Built for the brain that learns differently.
 
 - INTENT: cta block — PRIMARY CTA BUTTON
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTA-12** — Gentle CTA
 
-  - Currently used: 4/8
+  - Currently used: 3/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -739,9 +740,9 @@ BrightKidCo · Built for the brain that learns differently.
 
 - INTENT: cta block — PERMISSION NOT TO REVIEW / SOFT OUT
 
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+- COMPONENT PICKED: **CTA-10** — Soft Button
 
-  - Currently used: 4/8
+  - Currently used: 3/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -773,7 +774,7 @@ BrightKidCo · Built for the brain that learns differently.
 
 - INTENT: signoff block — FOOTER
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
+- COMPONENT PICKED: **PERS-01** — Level Greeting
 
   - Currently used: 4/8
 

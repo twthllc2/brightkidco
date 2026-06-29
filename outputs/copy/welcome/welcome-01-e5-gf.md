@@ -1001,7 +1001,7 @@ END OF WIREFRAME — welcome-01-e5-gf
 ### Section 5: SOCIAL PROOF — TWO QUOTES + STAT BAR
 - ROLE slot: `two-quote-cards-stacked-gf` (2 stacked quote cards)
 - INTENT: 2 stacked testimonial cards in Cream-Card background.
-- COMPONENT PICKED: **STORY-14** — Micro-Story (Single powerful moment)
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
   - From catalog: position=body_recognition, image_support=image_text,
     audience=[L1,L2,L3,GF]. Currently used: 0/8 (one observed-
     externally tag in tracker — counted here as real first use).

@@ -729,9 +729,10 @@ END OF WIREFRAME — upsell-09-e2
 
 - INTENT: mechanism block — MECHANISM BRIEF — WHY THIS PROTECTOR IS DIFFERENT
 
-- COMPONENT PICKED: **DEEP-14** — Sensory Map
+- COMPONENT PICKED: **EDU-2** — Step Cards
 
-  - Currently used: 2/8
+  - Currently used: 1/8 (under cap; was DEEP-14/DEEP-21)
+  - WHY: by-name position+audience match. EDU-2 is a body_mechanism component with full-audience tag, appropriate for GF why-this-protector block.
 
 - IMAGE PICKED: **lifestyle/toddlers-backview-disposable-diapers.png**
 
@@ -767,9 +768,10 @@ END OF WIREFRAME — upsell-09-e2
 
 - INTENT: hook block — PRODUCT INTRODUCTION — BENEFIT-CARD CASCADE
 
-- COMPONENT PICKED: **HERO-12** — Before Snapshot
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
-  - Currently used: 3/8
+  - Currently used: 7/8 (under cap; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF product-introduction-benefit-card-cascade)
+  - WHY: by-name position+audience match. HERO-18 Guilt Absolution is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF product-intro benefit card.
 
 - IMAGE PICKED: **resized/toddler-playing.jpg**
 
@@ -803,7 +805,7 @@ END OF WIREFRAME — upsell-09-e2
 
 - INTENT: cta block — CTA — PRIMARY + SECONDARY CROSS-SELL
 
-- COMPONENT PICKED: **CTA-13** — Gentle CTA
+- COMPONENT PICKED: **CTA-11** — Quiet CTA
 
   - Currently used: 4/8
 

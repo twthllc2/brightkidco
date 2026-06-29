@@ -528,7 +528,7 @@ END OF WIREFRAME — welcome-01-e2-l3
 ### Section 2 — validation-prose-with-citation
 - ROLE slot: `validation-prose-with-citation` (full-width text block absolving Maria; one inline soft sage hairline LEFT INDICATOR (NOT side-stripe border, NOT card); end-of-paragraph citation in 14px muted warm clay)
 - INTENT: reframe dignity-first; ground reframe in 49-study systematic review (Barmpagiannis & Baldimtsi 2025)
-- COMPONENT PICKED: **EMODEEP-01 — "The Guilt Reframe"** (reframe pool, source A*)
+- COMPONENT PICKED: **EMODEEP-02 — "The Quiet Victory"** (reframe pool, source A*)
   - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: by-name L3-perfect. The Guilt Reframe IS the absolution-with-evidence move the wireframe specifies. Renders as dignity-first prose with source attribution; honors L3 "no celebration, no neon, no scarcity" rules.
@@ -546,7 +546,7 @@ END OF WIREFRAME — welcome-01-e2-l3
 ### Section 4 — pull-quote-soft-italic-research-anchored
 - ROLE slot: `pull-quote-soft-italic-research-anchored` (Nicholson et al. 2019 quote, italic serif 18px warm clay, generous left margin, NO box/border/bg; followed by 2-3 sentence explanation of why timed methods can't teach a nervous system to receive earlier)
 - INTENT: reframe the deficit from "absence" to "timing" — quieter, more generous frame
-- COMPONENT PICKED: **DEEP-22 — "The Milestone Reframe"** (reframe pool, source A*)
+- COMPONENT PICKED: **2 — "The Reframe Moment"** (reframe pool, source A*)
   - From catalog: position=emotional_support, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: pulls the reframe-as-quote move with attribution; renders as inline italic-emphasis + post-quote reflection, exactly the structure the wireframe specifies. Variance vs E1 Section 3 pull-quote (LETTER-10 Highlighted Passage) — different component, same dignity-first discipline.
@@ -555,7 +555,7 @@ END OF WIREFRAME — welcome-01-e2-l3
 ### Section 5 — permission-paragraph
 - ROLE slot: `permission-paragraph` ("No product. No purchase. Just information."; italic-leaning shorter paragraph; intentional breathing before CTA)
 - INTENT: explicitly name what this email is NOT — no product intro, no bundle, no upsell
-- COMPONENT PICKED: **OBJ-06 — "Not For Us Validation"** (reframe pool, source A)
+- COMPONENT PICKED: **PSYCH-06 — "Permission Messaging"** (reframe pool, source A)
   - From catalog: position=objections, image_support=text_only
   - Currently used: 1/8
   - WHY: by-name L3-perfect for the "this isn't for everyone, and that's okay" permission-to-not-buy voice. Honors the §17.1 / §25 L3 mandate: permission-not-to-buy in EVERY mail.

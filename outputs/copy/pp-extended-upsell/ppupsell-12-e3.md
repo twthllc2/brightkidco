@@ -1036,7 +1036,7 @@ END OF WIREFRAME — ppupsell-12-e3
 
 - INTENT: guarantee block — GUARANTEE — FRONT-AND-CENTER REMINDER
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 5/8
 
@@ -1053,9 +1053,9 @@ END OF WIREFRAME — ppupsell-12-e3
 
 - INTENT: cta block — CTA — LEVEL-CALIBRATED, MATCH-BASED
 
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+- COMPONENT PICKED: **CTA-12** — Gentle CTA
 
-  - Currently used: 5/8
+  - Currently used: 4/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

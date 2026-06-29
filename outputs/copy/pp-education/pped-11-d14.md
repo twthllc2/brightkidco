@@ -920,9 +920,10 @@ END OF WIREFRAME — pped-11-d14
 
 - INTENT: hook block — RECOGNITION ANCHORS — 7 FIRST-SIGNAL ANCHORS (R2)
 
-- COMPONENT PICKED: **HERO-12** — Before Snapshot
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
-  - Currently used: 5/8
+  - Currently used: 9/8 (over cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF recognition-anchors-7-first-signal-anchors-r2)
+  - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF recognition-anchors.
 
 - IMAGE PICKED: **lifestyle/toddler-potty-ladder-pink-multicolor.png**
 
@@ -1013,7 +1014,7 @@ END OF WIREFRAME — pped-11-d14
 
 - COMPONENT PICKED: **CC3** — Curiosity Gap CTA
 
-  - Currently used: 7/8
+  - Currently used: 6/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1030,7 +1031,7 @@ END OF WIREFRAME — pped-11-d14
 
 - COMPONENT PICKED: **CTA-7** — Permission Soft Button
 
-  - Currently used: 7/8
+  - Currently used: 6/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

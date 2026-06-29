@@ -1030,9 +1030,10 @@ END OF WIREFRAME — atrisk-23-e4
 
 - INTENT: mechanism block — MECHANISM — GENTLE REFRESHER + PULL-UPS CRITIQUE
 
-- COMPONENT PICKED: **DEEP-24** — Sensory Inventory
+- COMPONENT PICKED: **EDU-7** — Education Block
 
-  - Currently used: 3/8
+  - Currently used: 7/8 (under cap; was DEEP-21/DEEP-24)
+  - WHY: by-name position+audience match. EDU-7 is a body_mechanism component with full-audience tag, appropriate for GF pull-ups-gentle-refresher.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1047,9 +1048,9 @@ END OF WIREFRAME — atrisk-23-e4
 
 - INTENT: cta block — PERMISSION + RE-ENTRY PATH
 
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
+- COMPONENT PICKED: **CTA-12** — Gentle CTA
 
-  - Currently used: 6/8
+  - Currently used: 5/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1064,9 +1065,9 @@ END OF WIREFRAME — atrisk-23-e4
 
 - INTENT: cta block — CTA — TRY-AGAIN BUTTON + REPLY LINK
 
-- COMPONENT PICKED: **CTA-13** — Gentle CTA
+- COMPONENT PICKED: **CTA-10** — Soft Button
 
-  - Currently used: 6/8
+  - Currently used: 5/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

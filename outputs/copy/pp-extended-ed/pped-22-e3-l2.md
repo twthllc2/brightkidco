@@ -943,7 +943,7 @@ END OF WIREFRAME — pped-22-e3-l2
 
 - INTENT: default block — REALISTIC TIMELINES (ELEMENT ④)
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **M3** — Testimonial Card (Mobile)
 
   - Currently used: 15/8
 

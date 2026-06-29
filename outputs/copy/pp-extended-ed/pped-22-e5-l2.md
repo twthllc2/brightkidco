@@ -1129,7 +1129,7 @@ END OF WIREFRAME — pped-22-e5-l2
 
 - INTENT: default block — 3 PLATEAU CARDS — TROUBLESHOOTING (ELEMENT ④ + L5)
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **STORY-09** — The Reframe — Challenge → New perspective
 
   - Currently used: 15/8
 
@@ -1182,7 +1182,7 @@ END OF WIREFRAME — pped-22-e5-l2
 
 - COMPONENT PICKED: **CTA-7** — Permission Soft Button
 
-  - Currently used: 8/8
+  - Currently used: 7/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

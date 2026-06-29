@@ -974,10 +974,9 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
 ### Section 2: HOOK - body-copy-block-validation
 - ROLE slot: body-copy-block-validation
 - INTENT: the mirror copy — good day/regression/perfect-week narrative
-- COMPONENT PICKED: LETTER-01
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: STORY-07  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 1/8
-  - WHY: LETTER-01 'Paragraph Stack' is a clean paragraph-flow pattern — perfect for E7's mirror narrative. Variance vs LETTER-05/10/11/12 used in earlier emails.
+  - WHY: STORY-07 'Paragraph Stack' is a clean paragraph-flow pattern — perfect for E7's mirror narrative. Variance vs LETTER-05/10/11/12 used in earlier emails.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 3: VALIDATION - callout-quote-highlight (He gets it but he doesnt get it)
@@ -1001,10 +1000,9 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
 ### Section 5: MINI-WIN TESTIMONIALS - testimonial-stack-mini-wins
 - ROLE slot: testimonial-stack-mini-wins
 - INTENT: 3 L1 micro-win parent quotes (She told me BEFORE / He stayed dry / We are 90%)
-- COMPONENT PICKED: LETTER-11
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: LETTER-11 'Margin Notes' provides stacked pull-quote variant suitable for 3 stacked testimonials with attribution margins. Variance was attempted in E4 (SP-02), but for E7 mini-wins we re-use LETTER-11 because it serves stacked testimonials specifically.
+- COMPONENT PICKED: STORY-10  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story
+  - Current usage: 8/8 (at cap; was LETTER-11 Margin Notes L2-only)
+  - WHY: STORY-10 'Stacked Story' is a stacked pull-quote variant. Replaces L2-only LETTER-11 per Stage 2 audit for L1 use.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 6: PRODUCT INTRO - product-card-3plus3-bundle
@@ -1040,14 +1038,13 @@ Every email section follows the correct stack. No exceptions. Mobile-first means
 ### Section 9: LENA SIGN-OFF - signoff-lena-long-with-ps
 - ROLE slot: signoff-lena-long-with-ps
 - INTENT: Lena LONG sign-off for E7: 'With care,' + P.S. reply invitation
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: 33.2  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 10/8
-  - WHY: 12.1 'Lena Signoff' is the only Lena signoff in the catalog. The visual variant (LONG vs SHORT, with P.S. reply) is determined in Stage 3/4.
+  - WHY: 33.2 'Lena Signoff' is the only Lena signoff in the catalog. The visual variant (LONG vs SHORT, with P.S. reply) is determined in Stage 3/4.
 - IMAGE PICKED: none (text-only component)
 
 ### Tracker updates
-- component-usage.json: incremented ['DEEP-16', 'LETTER-01', '4.5', 'DEEP-10', 'LETTER-11', 'PROD-2', '5', 'CTAMAX-07', '12.1']
+- component-usage.json: incremented ['DEEP-16', 'LETTER-01', '4.5', 'DEEP-10', 'LETTER-11', 'PROD-2', '5', 'CTAMAX-07', '33.2']
 - image-usage.json: incremented ['flat-lay/training-pant-penguin-multicolor.jpg']
 
 ## STAGE 2 REMEDIATION — welcome-01-e7-l1

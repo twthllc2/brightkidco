@@ -603,7 +603,7 @@ END OF WIREFRAME — winback-b-24-e1-l3
 
 - INTENT: hook block — OBSERVATION — 60 Days Later, Neutral
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 32/8
 
@@ -620,7 +620,7 @@ END OF WIREFRAME — winback-b-24-e1-l3
 
 - INTENT: validation block — VALIDATION — You Protected Yourself
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
 
   - Currently used: 21/8
 
@@ -637,7 +637,7 @@ END OF WIREFRAME — winback-b-24-e1-l3
 
 - INTENT: mechanism block — GENTLE MECHANISM REFRESHER + SETTLED SCIENCE
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-13** — Scientific Hook
 
   - Currently used: 49/8
 
@@ -654,9 +654,9 @@ END OF WIREFRAME — winback-b-24-e1-l3
 
 - INTENT: cta block — PERMISSION CTA — 1 Pair, $34.99, Add Alongside
 
-- COMPONENT PICKED: **CTAMAX-03** — Text Link CTA
+- COMPONENT PICKED: **CTA-6** — Social CTA
 
-  - Currently used: 15/8
+  - Currently used: 14/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -671,7 +671,7 @@ END OF WIREFRAME — winback-b-24-e1-l3
 
 - INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-16** — The News Article
 
   - Currently used: 49/8
 

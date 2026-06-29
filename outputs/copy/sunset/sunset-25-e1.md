@@ -863,7 +863,7 @@ END OF WIREFRAME — sunset-25-e1
 
 - INTENT: signoff block — FOOTER — STATIC
 
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 6/8
 

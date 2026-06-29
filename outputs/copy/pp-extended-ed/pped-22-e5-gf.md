@@ -1114,9 +1114,10 @@ END OF WIREFRAME — pped-22-e5-gf
 
 - INTENT: hook block — LETTER OPENING — "LENA HERE. WHEREVER YOU ARE."
 
-- COMPONENT PICKED: **HERO-12** — Before Snapshot
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
-  - Currently used: 6/8
+  - Currently used: 8/8 (at cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF letter-opening-lena-here-wherever-you-are)
+  - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF letter-opening role.
 
 - IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
 
@@ -1133,7 +1134,7 @@ END OF WIREFRAME — pped-22-e5-gf
 
 - INTENT: default block — THE PART NOBODY TELLS YOU — "THE LONG MIDDLE"
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **2** — The Reframe Moment
 
   - Currently used: 10/8
 
@@ -1167,7 +1168,7 @@ END OF WIREFRAME — pped-22-e5-gf
 
 - INTENT: default block — COMMUNITY REINFORCEMENT — "YOU DON'T HAVE TO TRACK THIS ALONE"
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **EJ1** — Before/After Transformation
 
   - Currently used: 11/8
 
@@ -1218,7 +1219,7 @@ END OF WIREFRAME — pped-22-e5-gf
 
 - INTENT: signoff block — CTA + LENA SIGN-OFF
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
+- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
 
   - Currently used: 8/8
 

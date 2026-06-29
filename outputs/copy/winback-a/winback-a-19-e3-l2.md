@@ -696,7 +696,7 @@ END OF WIREFRAME — winback-a-19-e3-l2
 
 - INTENT: hook block — HOOK — REAL SYMPTOM RECOGNITION (L2 ①)
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-08.2** — REV-08.2 — CTA Block (Smart-Choice Button)
 
   - Currently used: 17/8
 
@@ -713,7 +713,7 @@ END OF WIREFRAME — winback-a-19-e3-l2
 
 - INTENT: mechanism block — MECHANISM SPECIFICITY (L2 ②)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-09** — The Map Journey
 
   - Currently used: 32/8
 
@@ -732,7 +732,7 @@ END OF WIREFRAME — winback-a-19-e3-l2
 - INTENT: default block — BCBA/OT ACKNOWLEDGMENT + CONVERSATION SCRIPT
              (L2 ③)
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-15** — Level Callout
 
   - Currently used: 33/8
 
@@ -749,7 +749,7 @@ END OF WIREFRAME — winback-a-19-e3-l2
 
 - INTENT: default block — REALISTIC TIMELINES (L2 ④)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-10** — The Playlist
 
   - Currently used: 33/8
 
@@ -766,7 +766,7 @@ END OF WIREFRAME — winback-a-19-e3-l2
 
 - INTENT: guarantee block — 60-DAY GUARANTEE — RESETS PER ORDER (L2 ⑤)
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-5** — Realistic Timeline
 
   - Currently used: 34/8
 
@@ -783,9 +783,9 @@ END OF WIREFRAME — winback-a-19-e3-l2
 
 - INTENT: cta block — PERMISSION-NOT-TO-BUY (L2 ⑥) + OFFER
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **EMODEEP-03** — The Permission Letter (uses Letter)
 
-  - Currently used: 11/8
+  - Currently used: 10/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -800,7 +800,7 @@ END OF WIREFRAME — winback-a-19-e3-l2
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **PSYCH-05** — Curiosity Gap
 
   - Currently used: 34/8
 

@@ -507,7 +507,7 @@ END OF WIREFRAME — winback-b-24-e1-l1
 
 - INTENT: hook block — HOOK — Pre-K Calendar Re-anchor
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **1** — The Body Signal Concept (Core Mechanism Visual)
 
   - Currently used: 25/8
 
@@ -524,7 +524,7 @@ END OF WIREFRAME — winback-b-24-e1-l1
 
 - INTENT: validation block — VALIDATION — Method-Cycling Reframe
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **LETTER-12** — Fragmented Text
 
   - Currently used: 19/8
 
@@ -541,7 +541,7 @@ END OF WIREFRAME — winback-b-24-e1-l1
 
 - INTENT: hook block — OFFER — The 3+3 Bundle Re-Introduction
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 26/8
 
@@ -558,7 +558,7 @@ END OF WIREFRAME — winback-b-24-e1-l1
 
 - INTENT: guarantee block — GUARANTEE / RISK REVERSAL
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-8** — Visual Metaphor
 
   - Currently used: 42/8
 
@@ -575,7 +575,7 @@ END OF WIREFRAME — winback-b-24-e1-l1
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-14** — The Dictionary Entry
 
   - Currently used: 42/8
 

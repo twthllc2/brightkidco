@@ -863,7 +863,7 @@ END OF WIREFRAME — pped-22-e1-l2
 
 - COMPONENT PICKED: **CTA-11** — Quiet CTA
 
-  - Currently used: 8/8
+  - Currently used: 7/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

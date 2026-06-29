@@ -838,7 +838,7 @@ END OF WIREFRAME — winback-a-19-e3-l1
 
 - INTENT: hook block — HOOK — ACKNOWLEDGMENT + OBSERVATION
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-06.4** — REV-06.4 — Reassurance Strip (60-Day + Free Returns)
 
   - Currently used: 13/8
 
@@ -855,7 +855,7 @@ END OF WIREFRAME — winback-a-19-e3-l1
 
 - INTENT: validation block — VALIDATION — ABSOLUTION MOMENT
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **UTIL-03** — Out-Line
 
   - Currently used: 16/8
 
@@ -872,7 +872,7 @@ END OF WIREFRAME — winback-a-19-e3-l1
 
 - INTENT: default block — PRE-K WINDOW — DIRECTNESS ANCHOR
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-10** — Bold Declaration
 
   - Currently used: 27/8
 
@@ -889,7 +889,7 @@ END OF WIREFRAME — winback-a-19-e3-l1
 
 - INTENT: social_proof block — TESTIMONIAL — PRE-K SUCCESS STORY
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **3** — Micro-Win Celebration
 
   - Currently used: 18/8
 
@@ -906,9 +906,9 @@ END OF WIREFRAME — winback-a-19-e3-l1
 
 - INTENT: cta block — OFFER — 3+3 BUNDLE WITH URGENCY + PERMISSION
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTAMAX-18** — Permission CTA
 
-  - Currently used: 10/8
+  - Currently used: 9/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -923,7 +923,7 @@ END OF WIREFRAME — winback-a-19-e3-l1
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT (ESCALATION)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-08** — The Recipe Card
 
   - Currently used: 27/8
 

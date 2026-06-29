@@ -791,7 +791,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: default block — BRIGHTKIDCO LETTERHEAD
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-8** — Visual Metaphor
 
   - Currently used: 17/8
 
@@ -810,7 +810,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: default block — HERO BAND, MINT→CREAM GRADIENT
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **DEEP-25** — The Hope Gradient
 
   - Currently used: 17/8
 
@@ -829,7 +829,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: default block — SECTION 1 — "WHETHER/OR/IF" OPENER
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **TRUSTDEEP-11.2** — TRUSTDEEP-11.2 — Product Benefits Grid (3-Column Features)
 
   - Currently used: 18/8
 
@@ -848,7 +848,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: validation block — SECTION 2 — RECOGNITION ANCHORS, R2
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **2.2** — Warm Hero
 
   - Currently used: 18/8
 
@@ -867,7 +867,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: social_proof block — SECTION 3 — THREE-FAMILY TESTIMONIALS, R6
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-02** — The Quiet Victory
 
   - Currently used: 18/8
 
@@ -886,7 +886,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: validation block — SECTION 4 — VALIDATION + MECHANISM REFRAME
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **TRUSTDEEP-12.2** — TRUSTDEEP-12.2 — Size Guide (Measurement Chart)
 
   - Currently used: 19/8
 
@@ -905,7 +905,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: upsell block — SECTION 5 — ROTATION VALUE / UPSELL BAND
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
   - Currently used: 19/8
 
@@ -924,7 +924,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: cta block — SECTION 6 — LOW-PRESSURE CTA
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-04** — The Empathy Mirror
 
   - Currently used: 19/8
 
@@ -943,7 +943,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: cta block — PRIMARY CTA BUTTON
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **TRUSTDEEP-18.2** — TRUSTDEEP-18.2 — Cross-Sell Grid (Multi-Product Grid)
 
   - Currently used: 20/8
 
@@ -962,7 +962,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: cta block — SECONDARY CTA, TEXT LINK
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-4** — Story Fragment
 
   - Currently used: 20/8
 
@@ -981,7 +981,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: next block — NEXT-TIME FORWARD-LOOK
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-05** — The Hope Spectrum
 
   - Currently used: 20/8
 
@@ -1000,7 +1000,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: signoff block — LENA SIGN-OFF, SHORT VARIANT
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **TRUSTDEEP-18.3** — TRUSTDEEP-18.3 — Complete Your Set (Bundle Closer)
 
   - Currently used: 21/8
 
@@ -1017,7 +1017,7 @@ This is E1 of 2 — no prior email to compare against within Flow 16.
 
 - INTENT: signoff block — FOOTER BAND
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-19** — Timeline Shock
 
   - Currently used: 21/8
 

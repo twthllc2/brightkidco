@@ -853,7 +853,7 @@ END OF WIREFRAME — winback-b-24-e2-l3
 
 - INTENT: hook block — HOOK / OBSERVATION — Still Reading
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **8** — CTA Varieties (Permission-Based)
 
   - Currently used: 33/8
 
@@ -872,7 +872,7 @@ END OF WIREFRAME — winback-b-24-e2-l3
 - INTENT: validation block — DEEP VALIDATION — Acknowledgment of the
              Journey
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **PERS-04** — Dynamic Progress
 
   - Currently used: 21/8
 
@@ -889,7 +889,7 @@ END OF WIREFRAME — winback-b-24-e2-l3
 
 - INTENT: mechanism block — NEW SCIENCE CITATION — Frontiers Meta-Analysis
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-9** — Strength Reframe
 
   - Currently used: 50/8
 
@@ -906,7 +906,7 @@ END OF WIREFRAME — winback-b-24-e2-l3
 
 - INTENT: offer block — UPDATED OFFER — Just a Pair of Underwear
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **2.1** — Lilac Gradient Hero
 
   - Currently used: 50/8
 
@@ -923,7 +923,7 @@ END OF WIREFRAME — winback-b-24-e2-l3
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **M7** — Recognition Block (Mobile)
 
   - Currently used: 50/8
 

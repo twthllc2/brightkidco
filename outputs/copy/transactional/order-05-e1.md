@@ -911,7 +911,7 @@ END OF WIREFRAME — order-05-e1
 
 - INTENT: validation block — WHAT TO WATCH FOR — RECOGNITION ANCHORS LIST
 
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
+- COMPONENT PICKED: **3** — Micro-Win Celebration
 
   - Currently used: 5/8
 
@@ -928,7 +928,7 @@ END OF WIREFRAME — order-05-e1
 
 - INTENT: upsell block — SOFT CROSS-SELL — SECONDARY, MINIMAL
 
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
+- COMPONENT PICKED: **31.1** — Green Status Pill
 
   - Currently used: 6/8
 
@@ -945,7 +945,7 @@ END OF WIREFRAME — order-05-e1
 
 - INTENT: guarantee block — GUARANTEE / RISK REVERSAL
 
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
+- COMPONENT PICKED: **31.2** — Tracking Info Table
 
   - Currently used: 7/8
 
@@ -962,7 +962,7 @@ END OF WIREFRAME — order-05-e1
 
 - INTENT: cta block — SECONDARY CTA — TRACK YOUR ORDER (REPEAT)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
 
   - Currently used: 7/8
 

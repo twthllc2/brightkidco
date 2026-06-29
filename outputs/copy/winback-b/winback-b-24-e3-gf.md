@@ -945,7 +945,7 @@ END OF WIREFRAME — winback-b-24-e3-gf
 
 - INTENT: hook block — HOOK — Whether...Or...If... + Last Email
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
 
   - Currently used: 24/8
 
@@ -962,7 +962,7 @@ END OF WIREFRAME — winback-b-24-e3-gf
 
 - INTENT: validation block — VALIDATION — You Didn't Fail
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
 
   - Currently used: 19/8
 
@@ -981,7 +981,7 @@ END OF WIREFRAME — winback-b-24-e3-gf
 - INTENT: mechanism block — MECHANISM — What BSL Actually Does + Interoception
              Can Be Trained
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **OBJ-14.2** — OBJ-14.2 — Timeline Week 1-2 (Adjustment Phase)
 
   - Currently used: 40/8
 
@@ -998,7 +998,7 @@ END OF WIREFRAME — winback-b-24-e3-gf
 
 - INTENT: progress block — MINI-WIN SUCCESS — 6 Mini-Wins (R6)
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-10** — Patience Meter
 
   - Currently used: 41/8
 
@@ -1015,9 +1015,10 @@ END OF WIREFRAME — winback-b-24-e3-gf
 
 - INTENT: guarantee block — OFFER + GUARANTEE — The Last Invitation
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **2.2** — Warm Hero
 
-  - Currently used: 41/8
+  - Currently used: 8/8 (at cap post-substitution; was 2.3 Teal CTA Hero which is teal/GF-forbidden per Stage 2 audit)
+  - WHY: by-name GF-compatible alternative. Warm Hero preserves the gradient-hero family ordering from 2.3 (Lilac 2.1→Warm 2.2→Teal 2.3) but uses warm tones only — safe for GF. "Last Invitation" tone is grounded by warm gradient + gentle invitation copy; no teal accent.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1032,7 +1033,7 @@ END OF WIREFRAME — winback-b-24-e3-gf
 
 - INTENT: default block — FINAL WORD — The Door Is Open
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **OBJ-14.4** — OBJ-14.4 — Remember Callout (Timeline Disclaimer)
 
   - Currently used: 41/8
 
@@ -1049,7 +1050,7 @@ END OF WIREFRAME — winback-b-24-e3-gf
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-11** — Break Permission
 
   - Currently used: 42/8
 

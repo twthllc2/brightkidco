@@ -695,8 +695,7 @@ SYSTEM B (automatic):
 ### Section 2: objection
 - **ROLE slot:** objection
 - **INTENT (from wireframe):** OBJ-06 Objection Naming (reused from L1)
-- **COMPONENT PICKED:** OBJ-06
-  - Name: Not For Us Validation *(L17352)*
+- **COMPONENT PICKED:** 17.6  - Name: Not For Us Validation *(L17352)*
   - From catalog: position=`body_mechanism`, audience=['L2'], messaging=`emotional`, temperature=`warm`
   - Currently used: 1/8 (under cap)
   - **WHY:** Objection: OBJ-06 Objection Naming (reused from L1)
@@ -765,7 +764,7 @@ SYSTEM B (automatic):
 ### Section 9: cta-text-link
 - **ROLE slot:** cta-text-link
 - **INTENT (from wireframe):** CTAMAX-03 Text Link CTA — text-link-only per E5 design
-- **COMPONENT PICKED:** CTAMAX-03
+- **COMPONENT PICKED:** CTADEEP-04
   - Name: Text Link CTA *(L16734)*
   - From catalog: position=`cta`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`conversion`, temperature=`neutral`
   - Currently used: 5/8 (under cap)
@@ -785,8 +784,7 @@ SYSTEM B (automatic):
 ### Section 11: signoff
 - **ROLE slot:** signoff
 - **INTENT (from wireframe):** UTIL-05 (reused) — medium-long transitional
-- **COMPONENT PICKED:** UTIL-05
-  - Name: Signoff Card
+- **COMPONENT PICKED:** UTIL-03  - Name: Signoff Card
   - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
   - Currently used: 2/8 (under cap)
   - **WHY:** Signoff: UTIL-05 (reused) — medium-long transitional
@@ -795,7 +793,7 @@ SYSTEM B (automatic):
 ### Footer (static — already picked, no work needed)
 - Header: extracted once from Giuliano mockup (Stage 2 Task 0)
 - Footer: extracted once from Giuliano mockup (Stage 2 Task Z)
-- Lena Sign-off variant: see `12.1` / `UTIL-05` picks above per email's variant
+- Lena Sign-off variant: see `12.1` / `UTIL-03` picks above per email's variant
 
 ### Tracker updates applied
 - `component-usage.json`: incremented counts for `HERO-1`, `OBJ-06`, `EDU-4`, `EDU-10`, `SP-01`, `EMO-6`, `SP-07`, `TRUST-1`, `CTAMAX-03`, `EMO-1`, `UTIL-05`

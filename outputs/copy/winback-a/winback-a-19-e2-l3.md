@@ -722,7 +722,7 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: hook block — OPENING — Lapse Validation (L3 dignity-first)
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-04.2** — REV-04.2 — Savings Highlight Header (Spending Anchor)
 
   - Currently used: 20/8
 
@@ -739,7 +739,7 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: social_proof block — MAUREEN BENNIE LATE-TRAINER STORY
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **UTIL-03** — Out-Line
 
   - Currently used: 20/8
 
@@ -756,7 +756,7 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: mechanism block — MECHANISM — 30-60 Seconds of Feedback
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
 
   - Currently used: 35/8
 
@@ -773,7 +773,7 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: validation block — REFRAME — "No wrong way to explore this"
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
 
   - Currently used: 18/8
 
@@ -790,7 +790,7 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: offer block — OFFER — 1 Pair ($34.99), Add Alongside
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-04** — The Day In The Life
 
   - Currently used: 35/8
 
@@ -807,7 +807,7 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: guarantee block — GUARANTEE + PERMISSION — 60 Days, Your Judgment
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **CTAMAX-18** — Permission CTA
 
   - Currently used: 36/8
 
@@ -824,9 +824,9 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: cta block — CTA — Permission-Framed, Two Soft CTAs
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTADEEP-05** — The Permission CTA
 
-  - Currently used: 13/8
+  - Currently used: 12/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -841,9 +841,9 @@ END OF WIREFRAME — winback-a-19-e2-l3
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
-
-  - Currently used: 36/8
+- COMPONENT PICKED: HERO-8  - Catalog entry: position=hero, audience=['L1','L2','L3','GF'], temperature=warm, messaging=emotional
+  - Current usage: 7/8 (under cap; was M1 'Emotional Hero (Storytelling Open)' which is L2-only)
+  - WHY: HERO-8 Visual Metaphor is a hero component with full-audience tag, appropriate for L3 long-variant sign-off. Replaces L2-only M1 per Stage 2 audit.
 
 - IMAGE PICKED: none (text-only or by-design)
 

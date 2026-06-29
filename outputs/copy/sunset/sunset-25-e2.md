@@ -1052,7 +1052,7 @@ END OF WIREFRAME — sunset-25-e2
 
 - INTENT: validation block — RECOGNITION ANCHORS — R2 BLOCK
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 7/8
 
@@ -1069,7 +1069,7 @@ END OF WIREFRAME — sunset-25-e2
 
 - INTENT: validation block — VALIDATION + MECHANISM — GENTLE
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
 
   - Currently used: 8/8
 
@@ -1103,7 +1103,7 @@ END OF WIREFRAME — sunset-25-e2
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT (FINAL GOODBYE)
 
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 7/8
 
@@ -1120,7 +1120,7 @@ END OF WIREFRAME — sunset-25-e2
 
 - INTENT: guarantee block — P.S. — LATE-TRAINER ANCHOR + 60-DAY STANDING
 
-- COMPONENT PICKED: **LETTER-05** — Manifesto Line
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
 
   - Currently used: 8/8
 

@@ -1154,7 +1154,7 @@ END OF WIREFRAME — mary-14-e1
 
 - INTENT: validation block — THE DISCOVERY — THE MISSING PIECE
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
 
   - Currently used: 3/8
 
@@ -1188,7 +1188,7 @@ END OF WIREFRAME — mary-14-e1
 
 - INTENT: cta block — THE INVITATION — YOU'RE ALREADY ON THE JOURNEY
 
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+- COMPONENT PICKED: **CTA-11** — Quiet CTA
 
   - Currently used: 2/8
 
@@ -1205,7 +1205,7 @@ END OF WIREFRAME — mary-14-e1
 
 - INTENT: cta block — CLOSING — THE SHARED MISSION + REPLY INVITATION
 
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
 
   - Currently used: 2/8
 

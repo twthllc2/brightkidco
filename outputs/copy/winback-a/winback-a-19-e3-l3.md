@@ -564,7 +564,7 @@ END OF WIREFRAME — winback-a-19-e3-l3
 
 - INTENT: hook block — OPENING — Quiet Dignity Acknowledgment
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **OBJ-15.2** — OBJ-15.2 — Three Guarantees Stack (Money-Back Trio)
 
   - Currently used: 21/8
 
@@ -581,7 +581,7 @@ END OF WIREFRAME — winback-a-19-e3-l3
 
 - INTENT: mechanism block — MECHANISM REMINDER — The Signal Still Exists
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-11** — The Weather Report
 
   - Currently used: 36/8
 
@@ -598,7 +598,7 @@ END OF WIREFRAME — winback-a-19-e3-l3
 
 - INTENT: offer block — OFFER — 1 Pair ($34.99), Add Alongside
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-2** — Micro-Win Card
 
   - Currently used: 37/8
 
@@ -615,7 +615,7 @@ END OF WIREFRAME — winback-a-19-e3-l3
 
 - INTENT: guarantee block — GUARANTEE — 60 Days, No Questions, Your Judgment
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **22.3** — Circle Crop Hero
 
   - Currently used: 37/8
 
@@ -632,7 +632,7 @@ END OF WIREFRAME — winback-a-19-e3-l3
 
 - INTENT: default block — CLOSING — Door-Closing Moment
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-12** — The Book Chapter
 
   - Currently used: 37/8
 
@@ -649,7 +649,7 @@ END OF WIREFRAME — winback-a-19-e3-l3
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-06** — The Community Embrace
 
   - Currently used: 38/8
 

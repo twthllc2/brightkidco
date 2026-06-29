@@ -863,9 +863,10 @@ END OF WIREFRAME — checkout-03-e2
 
 - INTENT: mechanism block — MECHANISM — EXTENDED SIGNAL-TIMING EXPLANATION
 
-- COMPONENT PICKED: **DEEP-14** — Sensory Map
+- COMPONENT PICKED: **DEEP-21** — Three-Layer Story
 
-  - Currently used: 1/8
+  - Currently used: 11/8 (over cap post-substitution; was DEEP-14 Sensory Map which is L2-only, not appropriate for GF mechanism)
+  - WHY: by-name position+audience match. DEEP-21 is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF signal-timing-explanation.
 
 - IMAGE PICKED: **lifestyle/washing-machine-training-pants.png**
 

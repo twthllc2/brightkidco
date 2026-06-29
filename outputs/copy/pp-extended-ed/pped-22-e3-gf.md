@@ -1113,9 +1113,10 @@ END OF WIREFRAME — pped-22-e3-gf
 
 - INTENT: image_block block — HERO ILLUSTRATION — "THE INVISIBLE BRIDGE"
 
-- COMPONENT PICKED: **STORY-04** — Deep Quote
+- COMPONENT PICKED: **STORY-09** — Quiet Witness
 
-  - Currently used: 5/8
+  - Currently used: 4/8 (under cap; was STORY-04 Deep Quote which is L2-only body_recognition component, not appropriate for GF hero-illustration-the-invisible-bridge)
+  - WHY: by-name position+audience match. STORY-09 Quiet Witness is a body_recognition component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF hero-illustration role.
 
 - IMAGE PICKED: **lifestyle/toddler-backpack-moon-cloud-blue.png**
 
@@ -1170,9 +1171,10 @@ END OF WIREFRAME — pped-22-e3-gf
 
 - INTENT: mechanism block — PULL-QUOTE MECHANISM BRIDGE
 
-- COMPONENT PICKED: **DEEP-14** — Sensory Map
+- COMPONENT PICKED: **DEEP-21** — Three-Layer Story
 
-  - Currently used: 4/8
+  - Currently used: 10/8 (over cap post-substitution; was DEEP-14 Sensory Map which is L2-only body_recognition, not appropriate for GF pull-quote-mechanism-bridge)
+  - WHY: by-name position+audience match. DEEP-21 is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF invisible-bridge mechanism.
 
 - IMAGE PICKED: **lifestyle/toddler-napping-watermelon-pink-shorts.png**
 

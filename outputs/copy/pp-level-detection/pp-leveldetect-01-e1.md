@@ -650,7 +650,7 @@ END OF WIREFRAME — pp-leveldetect-01-e1
 
 - INTENT: cta block — HERO + HEADLINE + BADGE — PERMISSION FRAME
 
-- COMPONENT PICKED: **CTA-13** — Gentle CTA
+- COMPONENT PICKED: **CTA-7** — Permission Soft Button
 
   - Currently used: 2/8
 
@@ -667,7 +667,7 @@ END OF WIREFRAME — pp-leveldetect-01-e1
 
 - INTENT: default block — LEVEL SELECTION — 4 STACKED CLICKABLE BLOCKS
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
   - Currently used: 5/8
 
@@ -684,9 +684,9 @@ END OF WIREFRAME — pp-leveldetect-01-e1
 
 - INTENT: cta block — HELPER TEXT — PERMISSION REINFORCEMENT
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **CTA-12** — Gentle CTA
 
-  - Currently used: 3/8
+  - Currently used: 2/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

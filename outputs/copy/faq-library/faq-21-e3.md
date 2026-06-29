@@ -617,7 +617,7 @@ END OF WIREFRAME — faq-21-e3
 
 - INTENT: hook block — HOOK — THREE SITUATIONS, ONE ROOT
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 11/8
 
@@ -668,7 +668,7 @@ END OF WIREFRAME — faq-21-e3
 
 - INTENT: social_proof block — SOCIAL PROOF — TESTIMONIAL (SINGLE, NOT THREE)
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **16.3** — Reframe Points as Stickers (2×2 Grid)
 
   - Currently used: 12/8
 
@@ -685,7 +685,7 @@ END OF WIREFRAME — faq-21-e3
 
 - INTENT: guarantee block — GUARANTEE / RISK REVERSAL
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 12/8
 
@@ -719,7 +719,7 @@ END OF WIREFRAME — faq-21-e3
 
 - INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **OBJ-01** — Tried Everything Reframe
 
   - Currently used: 13/8
 
@@ -736,7 +736,7 @@ END OF WIREFRAME — faq-21-e3
 
 - INTENT: signoff block — FOOTER — STATIC
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **STORYDEEP-03** — The Letter From Future (uses Letter)
 
   - Currently used: 13/8
 

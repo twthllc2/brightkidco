@@ -832,10 +832,9 @@ Stage 2 also applies System B colors automatically:
 ### Section 1: HERO - hero-image-lifestyle (parent+child)
 - ROLE slot: hero-image-lifestyle
 - INTENT: shows parent + child in warm candid moment — Pre-K readiness frame
-- COMPONENT PICKED: HERO-3
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: 23.1  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 1/8
-  - WHY: HERO-3 'Permission Open' provides the warm, permission-toned opening suitable for E5's parent+child frame. Variance vs HERO-5/13/18 used in E1/E3/E4.
+  - WHY: 23.1 'Permission Open' provides the warm, permission-toned opening suitable for E5's parent+child frame. Variance vs HERO-5/13/18 used in E1/E3/E4.
 - IMAGE PICKED: lifestyle/founders-holding-pants-yellow-watermelon.png
   - Alt text: Mother and child in a warm home moment, holding a pair of training pants with a yellow watermelon print, hopeful posture.
   - Current usage: 0/25
@@ -871,10 +870,9 @@ Stage 2 also applies System B colors automatically:
 ### Section 5: SOCIAL PROOF - pull-quote-block
 - ROLE slot: pull-quote-block
 - INTENT: single L1 mini-win testimonial
-- COMPONENT PICKED: DEEP-22
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: 4  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 1/8
-  - WHY: DEEP-22 'The Milestone Reframe' is a milestone-anchor pull-quote pattern — fits E5's mini-win testimonial framing. Variance vs DEEP-13 (E4), DEEP-19 (E4).
+  - WHY: 4 'The Milestone Reframe' is a milestone-anchor pull-quote pattern — fits E5's mini-win testimonial framing. Variance vs DEEP-13 (E4), DEEP-19 (E4).
 - IMAGE PICKED: none (text-only component)
 
 ### Section 6: PRODUCT - three-layer-stack-diagram

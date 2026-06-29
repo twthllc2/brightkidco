@@ -713,7 +713,7 @@ END OF WIREFRAME — winback-b-24-e2-l1
 
 - INTENT: hook block — HOOK — New Angle + 49-Study Citation
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **2** — The Reframe Moment
 
   - Currently used: 27/8
 
@@ -732,7 +732,7 @@ END OF WIREFRAME — winback-b-24-e2-l1
 - INTENT: validation block — VALIDATION + MECHANISM DEPTH — The Hope-Fear
              Roadblock
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **PERS-01** — Level Greeting
 
   - Currently used: 20/8
 
@@ -749,9 +749,10 @@ END OF WIREFRAME — winback-b-24-e2-l1
 
 - INTENT: offer block — UPDATED OFFER — Low-Barrier Entry
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-1** — Permission Slip
 
-  - Currently used: 43/8
+  - Currently used: 5/8 (under cap; was EMO-6 Parent Quote L2-only)
+  - WHY: by-name position+audience match. EMO-1 Permission Slip is an emotional_support component with full-audience tag, appropriate for L1 updated-offer-low-barrier-entry.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -766,7 +767,7 @@ END OF WIREFRAME — winback-b-24-e2-l1
 
 - INTENT: guarantee block — GUARANTEE — Reinforced for Hope-Fear
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-2** — Data Shock
 
   - Currently used: 43/8
 
@@ -783,7 +784,7 @@ END OF WIREFRAME — winback-b-24-e2-l1
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-18** — The Mixtape
 
   - Currently used: 43/8
 

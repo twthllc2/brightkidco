@@ -664,9 +664,10 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: default block — BRIGHTKIDCO LETTERHEAD
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **2.2** — Warm Hero
 
-  - Currently used: 25/8
+  - Currently used: 6/8 (under cap; was 2.3 Teal CTA Hero which is teal/GF-forbidden per Stage 2 audit)
+  - WHY: by-name GF-friendly alternative. Warm Hero preserves the gradient-hero family from 2.3 (Lilac→Warm→Teal ordering) but uses warm tones only — safe for GF. Letterhead role doesn't need conversion chrome; warm hero renders as soft tone-on-tone gradient banner without teal accents.
 
 - IMAGE PICKED: **flat-lay/laundry-bag-llama-cream.png**
 
@@ -683,7 +684,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: default block — HERO / MILESTONE LINE CONTRAPTION
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-16** — The Courage Acknowledgment
 
   - Currently used: 25/8
 
@@ -702,7 +703,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: review block — SUBJECT + PREVIEW BLOCK
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-8** — Product Care
 
   - Currently used: 26/8
 
@@ -721,7 +722,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: validation block — SECTION 1 — UNIVERSAL RECOGNITION OPENER
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **18.1** — Hi-Fi Gradient Hero + Discount Block
 
   - Currently used: 26/8
 
@@ -740,7 +741,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: validation block — SECTION 2 — RECOGNITION ANCHORS, R2
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-17** — The Safe Space
 
   - Currently used: 26/8
 
@@ -759,7 +760,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: checkin block — SECTION 3 — WHAT CHANGES AT 5 MONTHS
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-9** — Feature Benefit Grid
 
   - Currently used: 27/8
 
@@ -797,7 +798,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: social_proof block — SECTION 5 — THREE-FAMILY TESTIMONIAL PATTERN
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-17** — Social Proof Hero
 
   - Currently used: 27/8
 
@@ -816,7 +817,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: cta block — SECTION 6 — CTA, UNIVERSAL PERMISSION
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EJ3** — Permission Slip
 
   - Currently used: 27/8
 
@@ -835,7 +836,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: cta block — PRIMARY CTA BUTTON
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-11** — Product Lifestyle Row
 
   - Currently used: 28/8
 
@@ -854,7 +855,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: cta block — SECONDARY CTA, TEXT LINK
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-16** — Mechanism Tease
 
   - Currently used: 28/8
 
@@ -873,7 +874,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: next block — NEXT-TIME FORWARD-LOOK
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-18** — The Letter From Lena (uses Letter)
 
   - Currently used: 28/8
 
@@ -892,7 +893,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: signoff block — LENA SIGN-OFF, SHORT VARIANT
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-12** — Product Detail Close-Up
 
   - Currently used: 29/8
 
@@ -909,9 +910,10 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: signoff block — FOOTER
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-8** — Visual Metaphor
 
-  - Currently used: 29/8
+  - Currently used: 6/8 (under cap; was M1 which is L2-only hero component, not appropriate for GF footer)
+  - WHY: by-name position+audience match. HERO-8 Visual Metaphor is a hero component with emotional messaging and full-audience tag (audience=[L1,L2,L3,GF]), appropriate for signoff/footer role.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -926,7 +928,7 @@ This is E1 of 2 — no prior email to compare against within Flow 17.
 
 - INTENT: default block — EASTER EGG — TALLY MARK TEXTURE
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-1** — Permission Slip
 
   - Currently used: 29/8
 

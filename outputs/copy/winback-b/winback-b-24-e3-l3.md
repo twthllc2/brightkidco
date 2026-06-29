@@ -1023,7 +1023,7 @@ END OF WIREFRAME — winback-b-24-e3-l3
 
 - INTENT: validation block — RECOGNITION HOOK — Dignity Acknowledgment
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **PERS-05** — Avatar Recognition
 
   - Currently used: 22/8
 
@@ -1040,7 +1040,7 @@ END OF WIREFRAME — winback-b-24-e3-l3
 
 - INTENT: validation block — VALIDATION OF THE LONG JOURNEY — Verbatim Triad
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **UTIL-03** — Out-Line
 
   - Currently used: 22/8
 
@@ -1057,9 +1057,9 @@ END OF WIREFRAME — winback-b-24-e3-l3
 
 - INTENT: cta block — GENTLE RE-INVITATION — Open Door + Last Email
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **EMO-8** — Grief Acknowledgment
 
-  - Currently used: 15/8
+  - Currently used: 14/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -1074,7 +1074,7 @@ END OF WIREFRAME — winback-b-24-e3-l3
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **DEEP-25** — The Hope Gradient
 
   - Currently used: 51/8
 

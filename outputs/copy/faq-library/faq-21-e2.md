@@ -862,7 +862,7 @@ END OF WIREFRAME — faq-21-e2
 
 - INTENT: signoff block — FOOTER — STATIC
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **PSYCH-06** — Permission Messaging
 
   - Currently used: 11/8
 

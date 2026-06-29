@@ -759,9 +759,9 @@ END OF WIREFRAME — pped-22-e4-l1
 
 - INTENT: social_proof block — PEER-MOM TESTIMONIAL — PROMPT-FADING SUCCESS
 
-- COMPONENT PICKED: **7** — Parent Stories
-
-  - Currently used: 5/8
+- COMPONENT PICKED: STORY-10  - Catalog entry: position varies, audience=[L1,L2,L3,GF]
+  - Current usage: 7/8 (at cap; was 7 'Parent Stories' which is L2-only)
+  - WHY: STORY-10 'Stacked Story' is a body_recognition component with full-audience tag, appropriate for L1 peer-mom-testimonial-prompt-fading-success. Replaces L2-only 7 per Stage 2 audit.
 
 - IMAGE PICKED: **lifestyle/toddler-rearview-cat-mustard.png**
 

@@ -955,9 +955,9 @@ END OF WIREFRAME — ppupsell-12-e2
 
 - INTENT: cta block — CTA — LEVEL-CALIBRATED, MATCH-BASED
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTA-7** — Permission Soft Button
 
-  - Currently used: 5/8
+  - Currently used: 4/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

@@ -874,9 +874,10 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: hook block — HOOK — THREE SYSTEMS, ONE MISSING PIECE
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **HERO-9** — Whisper Tone
 
-  - Currently used: 16/8
+  - Currently used: 9/8 (over cap post-substitution; was 30.2 Letter-Embedded Quote L2-only)
+  - WHY: by-name position+audience match. HERO-9 Whisper Tone is a hero component with full-audience tag, appropriate for GF hook-three-systems-one-missing-piece.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -908,7 +909,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: default block — LET'S NAME THEM — BCBA, SCHOOL, GI
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
 
   - Currently used: 16/8
 
@@ -925,7 +926,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: default block — HERE'S WHAT CONNECTS ALL THREE
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-10** — Bold Declaration
 
   - Currently used: 16/8
 
@@ -942,7 +943,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: default block — SO WHERE DOES THAT LEAVE YOU?
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **PRODEEP-1** — The Material Story
 
   - Currently used: 17/8
 
@@ -959,7 +960,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: default block — THREE FAMILIES, THREE SITUATIONS
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
 
   - Currently used: 17/8
 
@@ -976,7 +977,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: default block — COMMON THREAD + COMPLEMENT LINES
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-15** — Level Callout
 
   - Currently used: 17/8
 
@@ -993,7 +994,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: guarantee block — WHAT THIS DOESN'T PROMISE / DOES OFFER
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **EDUDEEP-5** — The Brain Map
 
   - Currently used: 18/8
 
@@ -1010,7 +1011,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: product block — PRODUCT OFFER + GUARANTEE + CTA
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
 
   - Currently used: 18/8
 
@@ -1027,7 +1028,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **PSYCH-05** — Curiosity Gap
 
   - Currently used: 18/8
 
@@ -1044,7 +1045,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: guarantee block — P.S. — BCBA-COMPLEMENT + 60-DAY CLOSE
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **EDUDEEP-6** — The Developmental Timeline
 
   - Currently used: 19/8
 
@@ -1061,7 +1062,7 @@ END OF WIREFRAME — faq-21-e5
 
 - INTENT: signoff block — FOOTER — STATIC
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **UTIL-03** — Out-Line
 
   - Currently used: 19/8
 

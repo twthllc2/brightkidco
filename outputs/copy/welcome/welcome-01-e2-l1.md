@@ -751,10 +751,9 @@ END OF WIREFRAME — welcome-01-e2-l1
 ### Section 4: SOCIAL PROOF - callout-quote-highlight (x3 stacked)
 - ROLE slot: callout-quote-highlight (x3 stacked, testimonial)
 - INTENT: three L1 parent quotes about timing/inconsistency
-- COMPONENT PICKED: LETTER-11
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 0/8
-  - WHY: LETTER-11 'Margin Notes' provides stacked pull-quote variant suitable for 3 stacked testimonials with attribution margins. Variance vs earlier callouts.
+- COMPONENT PICKED: STORY-14  - Catalog entry: position=body_recognition, audience=[L1,L2,L3,GF], messaging=story
+  - Current usage: 6/8 (under cap; was LETTER-11 Margin Notes which is L2-only per audit)
+  - WHY: STORY-14 'Micro-Story' provides stacked pull-quote variant suitable for 3 stacked testimonials with attribution margins. Variance vs earlier callouts. Replaces L2-only LETTER-11 per Stage 2 audit for L1 use.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 5: PRODUCT INTRO - product-intro-callout (3-layer breakdown)

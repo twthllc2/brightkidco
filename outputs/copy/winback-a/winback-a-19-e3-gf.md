@@ -592,7 +592,7 @@ END OF WIREFRAME — winback-a-19-e3-gf
 
 - INTENT: hook block — HOOK — Whether...Or...If... Door-Opening Bridge
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-04.4** — REV-04.4 — Bundle CTA (Get-the-Bundle Button)
 
   - Currently used: 8/8
 
@@ -611,9 +611,10 @@ END OF WIREFRAME — winback-a-19-e3-gf
 - INTENT: mechanism block — MECHANISM — Body-Signal Learning Doesn't Follow
              a Timeline
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+             - COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
-  - Currently used: 22/8
+             - Currently used: 11/8 (over cap post-substitution; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF mechanism-body-signal-learning-doesn-t-follow-a-timeline)
+             - WHY: by-name position+audience match. HERO-18 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mechanism body-signal-learning role.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -628,7 +629,7 @@ END OF WIREFRAME — winback-a-19-e3-gf
 
 - INTENT: default block — IF YOU STOPPED — What That Might Mean
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-05** — The Conversation Thread
 
   - Currently used: 22/8
 
@@ -645,9 +646,10 @@ END OF WIREFRAME — winback-a-19-e3-gf
 
 - INTENT: progress block — WHAT "SOMETHING" CAN LOOK LIKE — Low-Bar Mini-Wins
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-1** — Curiosity Gap
 
-  - Currently used: 23/8
+  - Currently used: 13/8 (over cap post-substitution; was HERO-14 Quote Bomb which is L2-only hero, not appropriate for GF what-something-can-look-like-low-bar-mini-wins)
+  - WHY: by-name position+audience match. HERO-1 is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mini-wins showcase.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -662,7 +664,7 @@ END OF WIREFRAME — winback-a-19-e3-gf
 
 - INTENT: hook block — DOOR-OPENING — You Already Own the Underwear
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-06.2** — REV-06.2 — Science Bridge (Science-to-Action Link)
 
   - Currently used: 9/8
 
@@ -679,7 +681,7 @@ END OF WIREFRAME — winback-a-19-e3-gf
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + REPLY P.S.
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-07** — The Season Metaphor
 
   - Currently used: 23/8
 

@@ -723,7 +723,7 @@ END OF WIREFRAME — welcome-01-e7-l3
 ### Section 2 — deep-mechanism-prose-with-inline-diagram
 - ROLE slot: `deep-mechanism-prose-with-inline-diagram` (49-study anchor + Mahler 2016 interoception "eighth sensory system" + inline SVG interoception diagram: warm-charcoal linework on cream, soft dashed lines for the gap, soft rounded rectangle for the BSL bridge; "training wheels" metaphor as H2)
 - INTENT: the deepest mechanism email in L3 Welcome — interoception at its core
-- COMPONENT PICKED: **DEEP-19 — "The Signal Analogy"** (letter pool, source A*)
+- COMPONENT PICKED: **UTIL-02 — "Divider Bar"** (letter pool, source A*)
   - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: by-name L3-perfect. "The Signal Analogy" = the move that translates the body-signal gap into one powerful familiar metaphor (here: training wheels). Inline SVG support for the interoception diagram is part of the component's design pattern. Variance vs E2 (DEEP-10), E3 (DEEP-7), E4 (DEEP-3), E5 (DEEP-8), E6 (DEEP-4) — DEEP-19 is the only L3-safe component specifically designed for analogy-based mechanism explanation.

@@ -812,10 +812,9 @@ Stage 2 also applies System B colors automatically:
 ### Section 1: HERO - hero-image-lena-or-warm-door-metaphor
 - ROLE slot: hero-image-lena-or-warm-door-metaphor
 - INTENT: leads with Lena's voice (L4 lever, dominant at E8) — warm door-open frame
-- COMPONENT PICKED: HERO-3
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: HERO-8  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 2/8
-  - WHY: HERO-3 'Permission Open' is the perfect warm permission hero for E8's door-open Lena-centered frame. Re-using because both emails share the permission-toned opener requirement.
+  - WHY: HERO-8 'Permission Open' is the perfect warm permission hero for E8's door-open Lena-centered frame. Re-using because both emails share the permission-toned opener requirement.
 - IMAGE PICKED: lifestyle/toddler-livingroom-dino-yellow.png
   - Alt text: Verbal 4-year-old in a warm home living room, dinosaur yellow print, relaxed hopeful posture.
   - Current usage: 3/25
@@ -872,10 +871,9 @@ Stage 2 also applies System B colors automatically:
 ### Section 7: LENA SIGN-OFF - signoff-lena-long (warm-resolved tone)
 - ROLE slot: signoff-lena-long
 - INTENT: personal farewell — Lena references her two autistic sons
-- COMPONENT PICKED: 12.1
-  - Catalog entry: position varies, audience=[L1,...]
-  - Current usage: 11/8
-  - WHY: 12.1 'Lena Signoff' is the only Lena signoff component in the catalog — used consistently across E1-E8 with varying closing words.
+- COMPONENT PICKED: 12.1  - Catalog entry: position=signoff_footer, audience=['L1','L2','L3','GF'], temperature=neutral
+  - Current usage: 9/8 (over cap post-substitution; was 12.2 'Footer (Giuliano source)' which is L2-only)
+  - WHY: 12.1 'Lena Signoff' is the universal signoff_footer component (audience=[L1,L2,L3,GF]) — appropriate for L1 final email sign-off. Replaces L2-only 12.2 per Stage 2 audit.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 8: P.S. - ps-reply-invitation-block

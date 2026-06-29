@@ -811,7 +811,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: hook block — HOOK — THREE QUESTIONS, UNIFYING HEADER
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **22.3** — Circle Crop Hero
 
   - Currently used: 19/8
 
@@ -828,7 +828,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: default block — TRAVEL/OUTINGS — PRACTICAL RELIEF
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **PSYDEEP-4** — The Scarcity Story
 
   - Currently used: 20/8
 
@@ -845,7 +845,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: default block — POOP-SPECIFIC — UNDERSTANDING
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **LETTER-06** — PS Teaser
 
   - Currently used: 20/8
 
@@ -862,7 +862,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: mechanism block — COMMUNICATION BARRIERS — HOPE THROUGH MECHANISM
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **23.1** — Magazine Masthead
 
   - Currently used: 20/8
 
@@ -896,7 +896,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: guarantee block — GUARANTEE / RISK REVERSAL
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **DESDEEP-8** — The Icon Story
 
   - Currently used: 21/8
 
@@ -913,7 +913,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: cta block — CTA — ZERO-PRESSURE PERMISSION
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **LETTER-12** — Fragmented Text
 
   - Currently used: 21/8
 
@@ -930,7 +930,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-8** — Visual Metaphor
 
   - Currently used: 21/8
 
@@ -947,9 +947,10 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: signoff block — P.S. — DOUBLE P.S. (MEDICAL DEFERRAL + LATE-TRAINER)
 
-- COMPONENT PICKED: **OBJ-06** — Objection Handler
+- COMPONENT PICKED: **13.7** — Fragment Letter
 
-  - Currently used: 22/8
+  - Currently used: 5/8 (under cap; was 13.10 Quote Badge L2-only)
+  - WHY: by-name position+audience match. 13.7 Fragment Letter is a body_mechanism component with full-audience tag, appropriate for GF p-s-medical-deferral-late-trainer.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -964,7 +965,7 @@ END OF WIREFRAME — faq-21-e6
 
 - INTENT: signoff block — FOOTER — STATIC
 
-- COMPONENT PICKED: **DEEP-15** — Method Graveyard
+- COMPONENT PICKED: **PERS-01** — Level Greeting
 
   - Currently used: 22/8
 

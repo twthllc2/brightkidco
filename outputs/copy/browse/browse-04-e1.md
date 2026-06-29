@@ -627,9 +627,10 @@ END OF WIREFRAME — browse-04-e1
 
 - INTENT: mechanism block — MECHANISM — INTEROCEPTION BRIDGE
 
-- COMPONENT PICKED: **DEEP-24** — Sensory Inventory
+- COMPONENT PICKED: **DEEP-7** — Evidence Chain
 
-  - Currently used: 1/8
+  - Currently used: 2/8 (under cap; was DEEP-24 Sensory Inventory which is L2-only body_recognition component, not appropriate for GF mechanism)
+  - WHY: by-name position+audience match. DEEP-7 Evidence Chain is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF mechanism-interoception-bridge.
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -661,7 +662,7 @@ END OF WIREFRAME — browse-04-e1
 
 - INTENT: cta block — PERMISSION + SOFT CTA
 
-- COMPONENT PICKED: **CTA-13** — Gentle CTA
+- COMPONENT PICKED: **CTA-12** — Gentle CTA
 
   - Currently used: 1/8
 

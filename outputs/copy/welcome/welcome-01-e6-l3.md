@@ -920,7 +920,7 @@ END OF WIREFRAME — welcome-01-e6-l3
 ### Section 1 — prose-block-with-direct-address (Lena names Maria)
 - ROLE slot: `prose-block-with-direct-address` (opens with "Maria," — rare L3 direct address; weaves Lena's pull-up history; closes "But here's something I wish someone had told me earlier.")
 - INTENT: direct first-name address signals "this isn't a generic email"; Lena peer-voice ground
-- COMPONENT PICKED: **HERO-3 — "Permission Open"** (letter pool, source A*)
+- COMPONENT PICKED: **18.1 — "Hi-Fi Gradient Hero + Discount Block"** (letter pool, source A*)
   - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
   - Currently used: 1/8
   - WHY: by-name L3-perfect. "Permission Open" = the opening move that explicitly gives the reader permission to be where they are + the writer permission to name them directly. Renders as warm-clay serif prose with no celebration chrome. Variance vs E1 Sec 1 (HERO-9 Whisper), E2 Sec 1 (HERO-18 Guilt Absolution), E3 Sec 1 (HERO-5 Mirror), E4 Sec 1 (HERO-9 Whisper reused), E5 Sec 1 (DEEP-8 unified) — five distinct opening voices by E6.
@@ -947,8 +947,9 @@ END OF WIREFRAME — welcome-01-e6-l3
 ### Section 4 — mechanism-prose-3-step-inline
 - ROLE slot: `mechanism-prose-3-step-inline` ("you can't teach a child to recognize a sound they can't hear. But you can turn up the volume."; three numbered inline beats with bold lead-ins; NOT a diagram, NOT an infographic)
 - INTENT: 3-layer mechanism as inline numbered beats in body prose
-- COMPONENT PICKED: **DEEP-4 — "The Sensory Description"** (letter pool, source A*)
-  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
+- COMPONENT PICKED: **DEEP-7** — The Evidence Chain (replaced L2-only DEEP-4 per Stage 2 audit)
+
+  - WHY: by-name L3-compatible alternative. DEEP-7 Evidence Chain preserves "chain of evidence" structure but with full-audience tag (audience=[L1,L2,L3,GF]). Replaces L2-only DEEP-4 per Stage 2 audit for L3 use.
   - Currently used: 1/8
   - WHY: by-name L3-perfect. "The Sensory Description" = the "you can't teach a child to recognize a sound they can't hear" rendering; sensory-level mechanism prose. Honored wireframe's "no diagram, no chart" mandate by its text-only rendering. Variance vs E2 Sec 3 (DEEP-10), E3 Sec 3 (DEEP-7), E5 Sec 1 (DEEP-8) — DEEP-4 is distinct.
 - IMAGE PICKED: none
@@ -956,7 +957,7 @@ END OF WIREFRAME — welcome-01-e6-l3
 ### Section 5 — testimonial-callout-warm-off-white (Marc story)
 - ROLE slot: `testimonial-callout-warm-off-white` (italic serif 17px warm clay on warm off-white card bg ~1 shade deeper, no box border, 12px left inner border in muted rose as callout mark; attribution in 14px muted warm clay)
 - INTENT: single real-parent voice in callout form; closes with attribution
-- COMPONENT PICKED: **STORY-14 — "Micro-Story — Single powerful moment"** (story pool, source A*)
+- COMPONENT PICKED: **DEEP-01 — "The Unfinished Study"** (story pool, source A*)
   - From catalog: position=flow_specific, image_support=text_only, audience[L1,L2,L3,GF]
   - Currently used: 1/8
   - WHY: Micro-Story = single-most-powerful-moment rendering. The Marc story IS exactly a single powerful moment rendered as italic warm-clay callout. Variance vs E2 Sec 4 (DEEP-22 Milestone Reframe), E3 Sec 4 (DEEP-13 Reverse Testimonial), E4 Sec 2 (7 Parent Stories) — STORY-14 is the single-quote variant distinct from multi-quote stacks.

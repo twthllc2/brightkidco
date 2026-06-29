@@ -713,7 +713,7 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 - INTENT: hook block — OPENING — Lapse Acknowledged Without Guilt
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **31.2** — Tracking Info Table
 
   - Currently used: 18/8
 
@@ -730,7 +730,7 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 - INTENT: hook block — HOOK — Gentle Re-engagement
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **M3** — Testimonial Card (Mobile)
 
   - Currently used: 19/8
 
@@ -747,7 +747,7 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 - INTENT: validation block — VALIDATION — Honor Their Choice
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
 
   - Currently used: 17/8
 
@@ -764,7 +764,7 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 - INTENT: validation block — MECHANISM REMINDER — The Signal, Gently Reframed
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
 
   - Currently used: 18/8
 
@@ -781,7 +781,7 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 - INTENT: mechanism block — OFFER — 1 Pair ($34.99), Product After Mechanism
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **PERS-05** — Avatar Recognition
 
   - Currently used: 34/8
 
@@ -800,7 +800,7 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 - COMPONENT PICKED: **CTA-11** — Quiet CTA
 
-  - Currently used: 12/8
+  - Currently used: 11/8
 
 - IMAGE PICKED: none (text-only or by-design)
 
@@ -815,7 +815,7 @@ END OF WIREFRAME — winback-a-19-e1-l3
 
 - INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + REPLY P.S.
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EJ4** — Realistic Timeline
 
   - Currently used: 35/8
 

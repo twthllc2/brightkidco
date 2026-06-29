@@ -604,9 +604,9 @@ END OF WIREFRAME — atrisk-23-e1
 
 - INTENT: cta block — CTA — REPLY-INVITATION TEXT LINK ONLY
 
-- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
+- COMPONENT PICKED: **CTA-11** — Quiet CTA
 
-  - Currently used: 6/8
+  - Currently used: 5/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

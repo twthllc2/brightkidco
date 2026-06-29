@@ -903,7 +903,7 @@ END OF WIREFRAME — winback-a-19-e1-l1
 
 - INTENT: validation block — VALIDATION — INTEROCEPTION AS SLOW BRIDGE
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **STORY-01** — Chapter Cards — Book-like story progression
 
   - Currently used: 15/8
 
@@ -920,7 +920,7 @@ END OF WIREFRAME — winback-a-19-e1-l1
 
 - INTENT: mechanism block — MECHANISM REFRESHER — 3-LAYER BODY-SIGNAL
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-2** — Data Shock
 
   - Currently used: 24/8
 
@@ -937,7 +937,7 @@ END OF WIREFRAME — winback-a-19-e1-l1
 
 - INTENT: social_proof block — SOCIAL PROOF — TWO L1 TESTIMONIALS
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **REV-08.4** — REV-08.4 — Bundle Value Recap (73% Stat)
 
   - Currently used: 17/8
 
@@ -971,7 +971,7 @@ END OF WIREFRAME — winback-a-19-e1-l1
 
 - INTENT: guarantee block — GUARANTEE — 60-DAY HONEST CONTAINER
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **LETTER-12** — Fragmented Text
 
   - Currently used: 24/8
 
@@ -988,7 +988,7 @@ END OF WIREFRAME — winback-a-19-e1-l1
 
 - INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-6** — Identity Statement
 
   - Currently used: 25/8
 

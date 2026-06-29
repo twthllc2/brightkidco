@@ -624,7 +624,7 @@ preferences or unsubscribe above.
 
 - INTENT: default block — BRIGHTKIDCO LETTERHEAD
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-07** — The Strength Inventory
 
   - Currently used: 21/8
 
@@ -643,7 +643,7 @@ preferences or unsubscribe above.
 
 - INTENT: review block — SUBJECT + PREVIEW
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-1** — Product Hero Image
 
   - Currently used: 22/8
 
@@ -662,7 +662,7 @@ preferences or unsubscribe above.
 
 - INTENT: validation block — SECTION 1 — UNIVERSAL RECOGNITION OPENER
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-2** — Data Shock
 
   - Currently used: 22/8
 
@@ -681,7 +681,7 @@ preferences or unsubscribe above.
 
 - INTENT: validation block — SECTION 2 — RECOGNITION ANCHORS, R2
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-10** — The Break Permission
 
   - Currently used: 22/8
 
@@ -700,7 +700,7 @@ preferences or unsubscribe above.
 
 - INTENT: social_proof block — SECTION 3 — THREE-FAMILY TESTIMONIAL PATTERN
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-5** — Colourway Picker
 
   - Currently used: 23/8
 
@@ -719,7 +719,7 @@ preferences or unsubscribe above.
 
 - INTENT: mechanism block — SECTION 4 — MECHANISM BLOCK
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **HERO-6** — Identity Statement
 
   - Currently used: 23/8
 
@@ -738,7 +738,7 @@ preferences or unsubscribe above.
 
 - INTENT: next block — SECTION 5 — UTILITY: NEXT SIZE?
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-11** — The Future Vision
 
   - Currently used: 23/8
 
@@ -757,7 +757,7 @@ preferences or unsubscribe above.
 
 - INTENT: cta block — PRIMARY CTA
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-6** — Size Chart
 
   - Currently used: 24/8
 
@@ -776,7 +776,7 @@ preferences or unsubscribe above.
 
 - INTENT: guarantee block — SECTION 6 — GUARANTEE REMINDER
 
-- COMPONENT PICKED: **HERO-3** — Permission Open
+- COMPONENT PICKED: **2.1** — Lilac Gradient Hero
 
   - Currently used: 24/8
 
@@ -795,7 +795,7 @@ preferences or unsubscribe above.
 
 - INTENT: signoff block — LENA SIGN-OFF, MEDIUM VARIANT
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMODEEP-13** — The Self-Compassion Prompt
 
   - Currently used: 24/8
 
@@ -812,7 +812,7 @@ preferences or unsubscribe above.
 
 - INTENT: signoff block — FOOTER
 
-- COMPONENT PICKED: **PROD-4** — Product Showcase
+- COMPONENT PICKED: **PDISP-7** — What's In The Box
 
   - Currently used: 25/8
 

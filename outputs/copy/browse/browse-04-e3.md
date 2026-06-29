@@ -710,9 +710,10 @@ END OF WIREFRAME — browse-04-e3
 
 - INTENT: hook block — PRODUCT INTRODUCTION — 3-LAYER SYSTEM
 
-- COMPONENT PICKED: **HERO-12** — Before Snapshot
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
-  - Currently used: 2/8
+  - Currently used: 6/8 (under cap; was HERO-12 Before Snapshot which is L2-only hero, not appropriate for GF product-introduction-3-layer-system)
+  - WHY: by-name position+audience match. HERO-18 Guilt Absolution is a hero component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF product-intro hook.
 
 - IMAGE PICKED: **lifestyle/toddler-playing-train-moon-cloud-blue.png**
 
@@ -746,7 +747,7 @@ END OF WIREFRAME — browse-04-e3
 
 - INTENT: cta block — PRIMARY CTA — DOORPLATE
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTAMAX-08** — Soft CTA
 
   - Currently used: 2/8
 

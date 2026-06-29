@@ -789,7 +789,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: hook block — HOOK — Real Symptom Recognition (L2 ①)
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **17.7** — Closing Letter (Before CTA) (uses Letter)
 
   - Currently used: 29/8
 
@@ -806,7 +806,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: validation block — VALIDATION — You Didn't Fail (L2 ③)
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **PERS-01** — Level Greeting
 
   - Currently used: 20/8
 
@@ -823,7 +823,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: mechanism block — MECHANISM — Interoception Gap (L2 ②)
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EJ2** — You're Not Alone
 
   - Currently used: 45/8
 
@@ -840,7 +840,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: social_proof block — TESTIMONIAL — Peer L2 Parent Story
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **LETTER-06** — PS Teaser
 
   - Currently used: 21/8
 
@@ -857,7 +857,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: mechanism block — MECHANISM — BSL Bridges the Gap
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **2.2** — Warm Hero
 
   - Currently used: 45/8
 
@@ -874,7 +874,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: default block — REALISTIC TIMELINES (L2 ④)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-15** — The Museum Plaque
 
   - Currently used: 45/8
 
@@ -891,7 +891,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: offer block — OFFER — 3+3 Bundle (L2 ⑤ + ⑥)
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **EMO-7** — You're Not Alone
 
   - Currently used: 46/8
 
@@ -908,7 +908,7 @@ END OF WIREFRAME — winback-b-24-e1-l2
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + OLDER-SON P.S.
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-18** — Guilt Absolution
 
   - Currently used: 46/8
 

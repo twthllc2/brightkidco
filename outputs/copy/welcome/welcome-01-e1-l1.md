@@ -676,10 +676,9 @@ END OF WIREFRAME — welcome-01-e1-l1
 ### Section 3: callout-quote-highlight (variant)
 - ROLE slot: callout-quote-highlight (variant)
 - INTENT: second parent quote — inconsistent-performance L1 marker, absolution beat
-- COMPONENT PICKED: LETTER-10
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: STORY-02  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 1/8
-  - WHY: LETTER-10 'Highlighted Passage' gives variance vs Section 2's Cream Callout. Italic pull-quote with strong typographic highlight; fits the absolution voice of E1's validation section without repeating the callout style.
+  - WHY: STORY-02 'Highlighted Passage' gives variance vs Section 2's Cream Callout. Italic pull-quote with strong typographic highlight; fits the absolution voice of E1's validation section without repeating the callout style.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 4: stat-highlight-box

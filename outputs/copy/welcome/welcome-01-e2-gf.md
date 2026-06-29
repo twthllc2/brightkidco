@@ -612,7 +612,7 @@ END OF WIREFRAME — welcome-01-e2-gf
 - ROLE slot: `failed-methods-grid-gf` (4 stacked "sticker" cards)
 - INTENT: shows the four named failed methods visually (sticker
   charts, naked weekends, scheduled sits, treats); symptom-only.
-- COMPONENT PICKED: **DEEP-15** — The Method Graveyard
+- COMPONENT PICKED: **PERS-04** — Dynamic Progress
   - From catalog: position=body_recognition, image_support=image_text,
     audience=[L1,L2,L3,GF]. Currently used: 0/8.
   - WHY: 'Method Graveyard' framing is a structural match for

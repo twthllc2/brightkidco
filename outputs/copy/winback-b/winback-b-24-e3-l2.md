@@ -968,7 +968,7 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 - INTENT: hook block — HOOK — Two Months, Last Email Declaration
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **STORY-07** — Dialogue — Text-message conversation story
 
   - Currently used: 31/8
 
@@ -985,7 +985,7 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 - INTENT: validation block — VALIDATION — Failed-Method Naming (L2 ① ③)
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **PERS-04** — Dynamic Progress
 
   - Currently used: 21/8
 
@@ -1002,7 +1002,7 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 - INTENT: mechanism block — MECHANISM REFRESHER + SCIENCE (L2 ②)
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-17** — Social Proof Hero
 
   - Currently used: 48/8
 
@@ -1019,7 +1019,7 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 - INTENT: social_proof block — BCBA ACKNOWLEDGMENT + NEW TESTIMONIAL (L2 ③)
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **LETTER-12** — Fragmented Text
 
   - Currently used: 22/8
 
@@ -1036,7 +1036,7 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 - INTENT: guarantee block — REALISTIC TIMELINES + GUARANTEE (L2 ④ ⑤)
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORY-15** — Story Carousel — Horizontal scrollable cards
 
   - Currently used: 48/8
 
@@ -1053,7 +1053,7 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 - INTENT: cta block — PERMISSION-NOT-TO-BUY + FINAL CTA (L2 ⑥)
 
-- COMPONENT PICKED: **CTA-11** — Quiet CTA
+- COMPONENT PICKED: **CTA-3** — Curiosity Code
 
   - Currently used: 14/8
 
@@ -1070,7 +1070,7 @@ END OF WIREFRAME — winback-b-24-e3-l2
 
 - INTENT: signoff block — LENA SIGN-OFF — LONG VARIANT + DOUBLE P.S.
 
-- COMPONENT PICKED: **EMODEEP-01** — Quiet Re-engagement
+- COMPONENT PICKED: **DEEP-23** — The Permission Slip
 
   - Currently used: 49/8
 

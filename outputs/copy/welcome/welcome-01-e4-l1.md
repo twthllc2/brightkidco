@@ -779,19 +779,17 @@ L1-specific accents per E4 copy visual direction:
 ### Section 2: HOOK - pull-quote-callout
 - ROLE slot: pull-quote-callout
 - INTENT: first parent quote that opens the absolution moment
-- COMPONENT PICKED: DEEP-13
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: DEEP-20  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 1/8
-  - WHY: DEEP-13 'The Reverse Testimonial' is a pull-quote testimonial pattern — appropriate for E4's parent quote opener. Audience L1.
+  - WHY: DEEP-20 'The Reverse Testimonial' is a pull-quote testimonial pattern — appropriate for E4's parent quote opener. Audience L1.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 3: VALIDATION - validation-block-text
 - ROLE slot: validation-block-text
 - INTENT: validates that sticker charts, timer sits, naked weekends did not fail
-- COMPONENT PICKED: LETTER-05
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: 4  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 1/8
-  - WHY: LETTER-05 'Manifesto Line' provides a single bold-statement validation pattern — perfect for 'You didn't fail. You solved the wrong problem.' Variance vs LETTER-10/11/12 used in earlier emails.
+  - WHY: 4 'Manifesto Line' provides a single bold-statement validation pattern — perfect for 'You didn't fail. You solved the wrong problem.' Variance vs LETTER-10/11/12 used in earlier emails.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 4: MECHANISM - stat-highlight-box (49% reappearance)
@@ -815,10 +813,9 @@ L1-specific accents per E4 copy visual direction:
 ### Section 6: PRODUCT - product-layer-diagram-stack
 - ROLE slot: product-layer-diagram-stack
 - INTENT: stacked layer breakdown (Layer 1 inner signal / Layer 2 / Layer 3)
-- COMPONENT PICKED: PROD-4
-  - Catalog entry: position varies, audience=[L1,...]
+- COMPONENT PICKED: PRICE-1  - Catalog entry: position varies, audience=[L1,...]
   - Current usage: 0/8
-  - WHY: PROD-4 'Cross-Section' is the catalog's layered-cutaway diagram — perfect for the 3-layer BSL breakdown in E4. Variance vs PROD-3 used in E2/E3.
+  - WHY: PRICE-1 'Cross-Section' is the catalog's layered-cutaway diagram — perfect for the 3-layer BSL breakdown in E4. Variance vs PROD-3 used in E2/E3.
 - IMAGE PICKED: none (text-only component)
 
 ### Section 7: PRICING - pricing-block-card

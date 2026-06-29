@@ -566,7 +566,7 @@ END OF WIREFRAME — winback-a-19-e2-l1
 
 - INTENT: hook block — HOOK — 90-DAY GAP RECONTEXTUALIZED
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-01.2** — REV-01.2 — Bridge Statement (Ready-To-Try Closer)
 
   - Currently used: 12/8
 
@@ -583,7 +583,7 @@ END OF WIREFRAME — winback-a-19-e2-l1
 
 - INTENT: validation block — VALIDATION — PEER MOM QUOTE
 
-- COMPONENT PICKED: **LETTER-10** — Highlighted Passage
+- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
 
   - Currently used: 15/8
 
@@ -600,7 +600,7 @@ END OF WIREFRAME — winback-a-19-e2-l1
 
 - INTENT: social_proof block — TESTIMONIAL — PRE-K SUCCESS STORY
 
-- COMPONENT PICKED: **STORY-14** — Micro-Story
+- COMPONENT PICKED: **STORY-08** — Origin Story — Brand founding narrative
 
   - Currently used: 18/8
 
@@ -619,7 +619,7 @@ END OF WIREFRAME — winback-a-19-e2-l1
 - INTENT: validation block — MECHANISM REFRAME — INTEROCEPTION + 672-FAMILY
              STAT
 
-- COMPONENT PICKED: **DEEP-09** — Invisible Struggle
+- COMPONENT PICKED: **LETTER-06** — PS Teaser
 
   - Currently used: 16/8
 
@@ -636,7 +636,7 @@ END OF WIREFRAME — winback-a-19-e2-l1
 
 - INTENT: product block — PRODUCT + OFFER — 3+3 BUNDLE REPRISE
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **DEEP-12** — The Time Capsule
 
   - Currently used: 25/8
 
@@ -653,7 +653,7 @@ END OF WIREFRAME — winback-a-19-e2-l1
 
 - INTENT: guarantee block — GUARANTEE — REINFORCED
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **18.1** — Hi-Fi Gradient Hero + Discount Block
 
   - Currently used: 26/8
 
@@ -670,7 +670,7 @@ END OF WIREFRAME — winback-a-19-e2-l1
 
 - INTENT: signoff block — LENA SIGN-OFF — SHORT VARIANT + "NEXT TIME" TEASE
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **DEEP-17** — The Language Shift
 
   - Currently used: 26/8
 

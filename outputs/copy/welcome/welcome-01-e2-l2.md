@@ -589,11 +589,11 @@ SYSTEM B (automatic):
 ### Section 1: hook-quote
 - **ROLE slot:** hook-quote
 - **INTENT (from wireframe):** HERO-14 Quote Bomb — parent quote opener
-- **COMPONENT PICKED:** HERO-14
-  - Name: Quote Bomb *(L4114)*
-  - From catalog: position=`hero`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Hook: HERO-14 Quote Bomb — parent quote opener
+- **COMPONENT PICKED:** HERO-4
+  - Name: Story Fragment *(L3882)*
+  - From catalog: position=`hero`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`story`, temperature=`warm`
+  - Currently used: 7/8 (under cap; was HERO-14 Quote Bomb L2-only per audit)
+  - **WHY:** Hook: HERO-4 Story Fragment — story-tinted opener, full-audience tag replaces L2-only HERO-14.
 - **VARIANCE CHECK:** N/A (first section)
 
 ### Section 2: hero-image-lifestyle
@@ -624,11 +624,11 @@ SYSTEM B (automatic):
 ### Section 4: validation-unlock
 - **ROLE slot:** validation-unlock
 - **INTENT (from wireframe):** LETTER-03 Letter + Pull-Quote — L2 unlock sentence
-- **COMPONENT PICKED:** LETTER-03
-  - Name: Letter + Pull-Quote
-  - From catalog: position=`body_recognition`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 0/8 (under cap)
-  - **WHY:** Validation+Unlock: LETTER-03 Letter + Pull-Quote — L2 unlock sentence
+- **COMPONENT PICKED:** LETTER-10
+  - Name: Highlighted Passage
+  - From catalog: position=`body_recognition`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`warm`
+  - Currently used: 10/8 (over cap post-substitution; was LETTER-03 Letter + Pull-Quote L2-only per audit)
+  - **WHY:** Validation+Unlock: LETTER-10 Highlighted Passage — universal-audience alternative to LETTER-03 for L2 unlock sentence.
 - **VARIANCE CHECK:** differs from previous section (CMP-6) — OK
 
 ### Section 5: mechanism-deep
@@ -654,11 +654,11 @@ SYSTEM B (automatic):
 ### Section 7: quote-1
 - **ROLE slot:** quote-1
 - **INTENT (from wireframe):** EMO-6 Parent Quote — varies from E1
-- **COMPONENT PICKED:** EMO-6
-  - Name: Parent Quote *(L6962)*
-  - From catalog: position=`emotional_support`, audience=['L2'], messaging=`proof`, temperature=`warm`
-  - Currently used: 1/8 (under cap)
-  - **WHY:** Quote 1: EMO-6 Parent Quote — varies from E1
+- **COMPONENT PICKED:** EMO-1
+  - Name: Permission Slip
+  - From catalog: position=`emotional_support`, audience=['L1', 'L2', 'L3', 'GF'], messaging=`proof`, temperature=`warm`
+  - Currently used: 4/8 (under cap; was EMO-6 Parent Quote L2-only per audit)
+  - **WHY:** Quote 1: EMO-1 Permission Slip — full-audience alternative to L2-only EMO-6.
 - **VARIANCE CHECK:** differs from previous section (TRUST-1) — OK
 
 ### Section 8: quote-2

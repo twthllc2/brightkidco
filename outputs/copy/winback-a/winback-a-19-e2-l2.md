@@ -676,7 +676,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: hook block — HOOK — LENA INTRO + DRAWER ANCHOR
 
-- COMPONENT PICKED: **LETTER-02** — Handwritten Opener
+- COMPONENT PICKED: **REV-02.4** — REV-02.4 — CTA Block (After-Social-Proof Conversion)
 
   - Currently used: 16/8
 
@@ -693,7 +693,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: default block — BCBA PULL-QUOTE — THE EMOTIONAL LEVER
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-17** — Social Proof Hero
 
   - Currently used: 30/8
 
@@ -710,7 +710,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: default block — DATA — 672-FAMILY STAT
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-01** — The Split Screen
 
   - Currently used: 30/8
 
@@ -727,7 +727,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: social_proof block — TESTIMONIAL — L2 LONG-FORM STORY
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **STORY-03** — Split Before/After — Visual transformation
 
   - Currently used: 19/8
 
@@ -744,7 +744,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: validation block — REFRAME — FIRST TRY MIGHT HAVE BEEN TOO SHORT
 
-- COMPONENT PICKED: **DEEP-22** — Milestone Reframe
+- COMPONENT PICKED: **8** — CTA Varieties (Permission-Based)
 
   - Currently used: 17/8
 
@@ -761,7 +761,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: default block — BCBA BRIDGE — WHAT YOUR BCBA WILL TELL YOU
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-20** — Handwritten Letter Opener (uses Letter)
 
   - Currently used: 31/8
 
@@ -778,7 +778,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: guarantee block — GUARANTEE + PERMISSION-NOT-TO-BUY
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORYDEEP-02** — The Timeline Spiral
 
   - Currently used: 31/8
 
@@ -795,7 +795,7 @@ END OF WIREFRAME — winback-a-19-e2-l2
 
 - INTENT: signoff block — LENA SIGN-OFF — MEDIUM VARIANT + TWO P.S. LINES
 
-- COMPONENT PICKED: **HERO-9** — Whisper Tone
+- COMPONENT PICKED: **HERO-16** — Mechanism Tease
 
   - Currently used: 32/8
 

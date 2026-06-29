@@ -955,7 +955,7 @@ END OF WIREFRAME — arrived-08
 
 - INTENT: validation block — VALIDATION — "I KNOW THE SKEPTICISM"
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **4.1** — Letter Section (uses Letter)
 
   - Currently used: 11/8
 
@@ -1006,7 +1006,7 @@ END OF WIREFRAME — arrived-08
 
 - INTENT: guarantee block — GUARANTEE / RISK REVERSAL — EXPANDED
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **23.2** — Drop Cap Initial Letter (uses Letter)
 
   - Currently used: 12/8
 

@@ -996,9 +996,10 @@ END OF WIREFRAME — atrisk-23-e3
 
 - INTENT: mechanism block — MECHANISM — ONE THING WORTH TRYING (CALLOUT)
 
-- COMPONENT PICKED: **DEEP-14** — Sensory Map
+- COMPONENT PICKED: **DEEP-21** — Three-Layer Story
 
-  - Currently used: 3/8
+  - Currently used: 12/8 (over cap post-substitution; was DEEP-14 Sensory Map which is L2-only, not appropriate for GF mechanism)
+  - WHY: by-name position+audience match. DEEP-21 is a body_mechanism component with full-audience tag (audience=[L1,L2,L3,GF]), appropriate for GF one-thing-worth-trying-callout.
 
 - IMAGE PICKED: **lifestyle/toddler-potty-ladder-yellow-woodland.png**
 
@@ -1015,9 +1016,9 @@ END OF WIREFRAME — atrisk-23-e3
 
 - INTENT: cta block — CTA — PERMISSION + BUTTON + SECONDARY TEXT
 
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+- COMPONENT PICKED: **CTA-7** — Permission Soft Button
 
-  - Currently used: 6/8
+  - Currently used: 5/8
 
 - IMAGE PICKED: none (text-only or by-design)
 

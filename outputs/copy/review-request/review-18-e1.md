@@ -645,7 +645,7 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 - INTENT: default block — BRIGHTKIDCO LETTERHEAD
 
-- COMPONENT PICKED: **DEEP-13** — Reverse Testimonial
+- COMPONENT PICKED: **REV-02.2** — REV-02.2 — Social Proof Momentum (Family Count Header)
 
   - Currently used: 5/8
 
@@ -662,7 +662,7 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 - INTENT: review block — SUBJECT + PREVIEW BLOCK
 
-- COMPONENT PICKED: **REV-12** — Review Block
+- COMPONENT PICKED: **REV-09.2** — Review Block
 
   - Currently used: 1/8
 
@@ -736,7 +736,7 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 - INTENT: cta block — SECTION 4 — LEADING QUESTIONS (REVIEW ASK)
 
-- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
+- COMPONENT PICKED: **CTA-3** — Curiosity Code
 
   - Currently used: 3/8
 
@@ -753,7 +753,7 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 - INTENT: cta block — SECTION 5 — PRIMARY CTA BUTTON
 
-- COMPONENT PICKED: **CTA-7** — Permission Soft Button
+- COMPONENT PICKED: **CTA-11** — Quiet CTA
 
   - Currently used: 3/8
 
@@ -770,7 +770,7 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 - INTENT: cta block — SECTION 6 — SECONDARY CTA, TEXT LINK
 
-- COMPONENT PICKED: **CTA-13** — Gentle CTA
+- COMPONENT PICKED: **CC3** — Curiosity Gap CTA
 
   - Currently used: 3/8
 
@@ -804,7 +804,7 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 - INTENT: signoff block — SECTION 7 — LENA SIGN-OFF, MEDIUM VARIANT
 
-- COMPONENT PICKED: **LETTER-07** — Greeting Card
+- COMPONENT PICKED: **LETTER-12** — Fragmented Text
 
   - Currently used: 3/8
 
@@ -821,7 +821,7 @@ This is E1 of 2 — no prior email to compare against within Flow 18.
 
 - INTENT: signoff block — SECTION 8 — FOOTER
 
-- COMPONENT PICKED: **UTIL-05** — Signoff Card
+- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
 
   - Currently used: 4/8
 

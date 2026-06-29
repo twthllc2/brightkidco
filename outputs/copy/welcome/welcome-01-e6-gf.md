@@ -1097,7 +1097,7 @@ END OF WIREFRAME — welcome-01-e6-gf
   60-day guarantee shield)
 - INTENT: 2 stacked testimonial cards in warm-cream + 60-Day
   Guarantee Shield Badge in 150x150px.
-- COMPONENT PICKED: **STORY-14** — Micro-Story (Single powerful moment)
+- COMPONENT PICKED: **4** — The Pull-Up Villain Card
   - From catalog: position=body_recognition, image_support=image_text,
     audience=[L1,L2,L3,GF]. Currently used: 1/8 (used in E5 S5).
   - WHY: micro-story fits single-moment 2-card quote stack;

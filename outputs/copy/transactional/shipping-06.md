@@ -713,7 +713,7 @@ END OF WIREFRAME — shipping-06
 
 - INTENT: default block — WHAT'S IN THE PACKAGE
 
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
+- COMPONENT PICKED: **M3** — Testimonial Card (Mobile)
 
   - Currently used: 8/8
 
@@ -747,7 +747,7 @@ END OF WIREFRAME — shipping-06
 
 - INTENT: education block — WEEK 1 EXPECTATIONS
 
-- COMPONENT PICKED: **LETTER-01** — Paragraph Stack
+- COMPONENT PICKED: **STORY-02** — Vertical Timeline — Chronological milestones
 
   - Currently used: 8/8
 
@@ -764,7 +764,7 @@ END OF WIREFRAME — shipping-06
 
 - INTENT: guarantee block — GUARANTEE REINFORCEMENT
 
-- COMPONENT PICKED: **UTIL-01** — Gradient Band
+- COMPONENT PICKED: **EJ1** — Before/After Transformation
 
   - Currently used: 9/8
 

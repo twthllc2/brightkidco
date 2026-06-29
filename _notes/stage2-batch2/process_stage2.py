@@ -276,7 +276,8 @@ PICKS_GF = {
         ("CTA-11", "Quiet CTA", "none"),
         ("CC3", "Curiosity Gap CTA", "none"),
         ("CTA-7", "Permission Soft Button", "none"),
-        ("CTA-13", "Gentle CTA", "none"),
+        ("CTA-12", "Gentle CTA", "none"),
+        ("CTA-10", "Soft Button", "none"),
     ],
     "faq": [
         ("OBJ-06", "Objection Handler", "none"),
@@ -345,8 +346,9 @@ PICKS_GF = {
         ("REV-10.2", "Review Highlight", "none"),
         ("STORY-14", "Micro-Story", "none"),
         ("DEEP-13", "Reverse Testimonial", "none"),
-        ("REV-12", "Review Block", "lifestyle"),
-        ("REV-09", "Review Showcase", "lifestyle"),
+        ("REV-09.2", "Review Block", "lifestyle"),
+        ("REV-09.4", "Review Showcase", "lifestyle"),
+        ("REV-08.2", "Review Variant", "lifestyle"),
     ],
     "education": [
         ("EDU-11", "Science Citation", "none"),

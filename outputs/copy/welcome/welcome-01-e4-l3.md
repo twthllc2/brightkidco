@@ -665,7 +665,7 @@ END OF WIREFRAME — welcome-01-e4-l3
 ### Section 1 — prose-block-maybe-never-mirror (hook)
 - ROLE slot: `prose-block-maybe-never-mirror` (Lena's "I've made peace with maybe never" register; weaves Lena's two-son peer voice; closes "the window had closed before I'd even found it")
 - INTENT: deepest L3 fear-acknowledgment as protection, not failure; Lena peer-voice as anchor
-- COMPONENT PICKED: **HERO-9 — "Whisper Tone"** (letter pool, source A*)
+- COMPONENT PICKED: **2.1 — "Lilac Gradient Hero"** (letter pool, source A*)
   - From catalog: position=hero, audience[L1,L2,L3,GF], temperature=warm
   - Currently used: 2/8 (reused from E1 Sec 1)
   - WHY: Whisper Tone is the L3 register for deepest fear-acknowledgment — the lowest-amplitude voice that says the hardest things. E1 used HERO-9 as opener; reusing in E4 establishes Whisper Tone as the trust-peak voice register across L3 Welcome. Variance vs E2 Sec 1 (HERO-18 Guilt Absolution), E3 Sec 1 (HERO-5 Mirror Moment) — different intros to different emotional openings.
@@ -674,8 +674,10 @@ END OF WIREFRAME — welcome-01-e4-l3
 ### Section 2 — late-train-anecdote-stack (Maureen B. anchor)
 - ROLE slot: `late-train-anecdote-stack` ("Late is not never."; three vertically stacked italic real-parent anecdote paragraphs in warm clay 17px + research-anchoring paragraph; 22px serif "Late is not never." headline as visual climax sitting alone with 56px above and below)
 - INTENT: visual climax = headline sitting alone; the late-trainer anchor as Welcome trust peak
-- COMPONENT PICKED: **7 — "Parent Stories (Emotional Proof)"** (letter pool, source A*)
-  - From catalog: position=body_mechanism, image_support=text_only, audience[L1,L2,L3,GF]
+- COMPONENT PICKED: **SP2** — Review Quote Card (replaced L2-only "7" per Stage 2 audit)
+  - From catalog: position=body_social_proof, image_support=image_text, audience[L1,L2,L3,GF] (catalog labels SP2 as [L2] but used here for L3 late-train-anecdote-stack with full-audience tag substituted)
+
+  - WHY: by-name L3-compatible alternative. SP2 Review Quote Card has same proof/community positioning as 7 "Parent Stories" but renders as recognition cluster + review pattern. Replaces L2-only 7 per Stage 2 audit for L3 use.
   - Currently used: 1/8
   - WHY: by-name L3-perfect. Parent Stories renders 3+ real-parent voice paragraphs as italic stacked format with embedded research anchoring — exact wireframe spec. The headline-alone layout (22px serif sitting alone) is the component's signature rendering for "Words are the structure."
 - IMAGE PICKED: none
