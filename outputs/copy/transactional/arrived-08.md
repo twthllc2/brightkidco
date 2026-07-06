@@ -57,19 +57,18 @@ As one parent of a 5-year-old who'd been "almost trained" for a year told us: "H
 60 days to try it. By your judgment. If you don't see a shift, no pause, no awareness, no change, full refund. The guarantee isn't a sales tactic. It's the only honest thing to offer when the outcome depends on your child's nervous system, not on your effort.
 
 ### Section 6: CTA
-- **Button text:** See what fits your routine → (link to recommended bundle upsell based on purchase)
+- **Button text:** Was there a question? Just hit reply. (reply-to, no upsell)
 - **Secondary link text:** "Learn more about how the body signal works"
 - **Placement:** After guarantee section, below the fold
 
 ---
 
 ## Lena Sign-Off
-With understanding,
+Talk soon,
 Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. I have two autistic sons. One's 6, still in the middle of it. The other took us until he was almost 8. If your child is anywhere on this curve, that's normal here.
-P.S. 60 days to try it. By your judgment.
+P.S. I have two autistic sons — one's 6, still in the middle of it; the other took us until he was almost 8. So 60 days to try it, by your judgment. If your child is anywhere on this curve, that's normal here.
 
 ## Footer
 BrightKidCo
@@ -80,6 +79,8 @@ United States
 If you'd rather not hear from us, you can unsubscribe here.
 
 Reply to this email, Lena reads every response.
+
+© 2026 BrightKidCo. All rights reserved.
 
 ---
 
@@ -228,7 +229,7 @@ Single visual direction, no level-specific imagery. All creative choices calibra
 
 **R1 (Symptom over label):** The signal path illustration shows a universal body silhouette and brain icon, no labels, no clinical diagramming. "Body signal" language, not "Level 2 body signal gap."
 
-**R2 (3-5 recognition anchors):** The body copy includes anchors for L1 ("sits 20 minutes, nothing happens"), L2 ("tried everything, BCBA, sensory work, social stories"), L3 ("doesn't react to wet diaper at all") woven naturally into the narrative.
+**R2 (3-5 recognition anchors):** The body copy includes anchors for L1 ("sits 20 minutes, nothing happens"), L2 ("tried everything — sensory work, social stories"), L3 ("doesn't react to wet diaper at all") woven naturally into the narrative.
 
 **R3 (Age ranges):** "Whether your child is 3 or 10", no fixed age imagery in thero or illustration.
 

@@ -19,7 +19,7 @@
 
 ## Subject Line
 
-**Subject:** What real L2 parents say after 4-8 weeks
+**Subject:** What parents actually say after 4-8 weeks
 - **Formula:** Social proof (Formula 6, Social Proof hook)
 - **Character count:** 41 characters (under 50 ✓)
 - **Spam check:** No spam trigger words, no ALL CAPS, no excessive punctuation ✓
@@ -87,7 +87,7 @@ This the pattern we see with L2 kids, not instantaneous training, but first sign
 
 Another L2 parent told us: **"He can go to the bathroom with on-the-dot prompting every hour but he does not care if he goes on himself."** The awareness isn't there because pulling up a child and placing them on a toilet doesn't teach the body to recognize the internal signal. The child learns to wait for the adult cue. Prompt-dependency isn't training, it's compliance.
 
-**"BCBA protocol got us to 'sit on the toilet without melting down.' That's it. No actual training."** This parent captured it perfectly. Behavioral protocols address the fear, the resistance, the routine. They build the foundation for compliance and tolerance. What they don't address is the body awareness piece, and for L2 children with sensory processing differences, that's the gap that traditional methods couldn't cross.
+**"BCBA protocol got us to 'sit on the toilet without melting down.' That's it. No actual training."** This parent captured it perfectly. Behavioral protocols address the fear, the resistance, the routine. They build the foundation for compliance and tolerance. What they don't address is the body awareness piece, and for children whose nervous systems process signals differently, that's the gap that traditional methods couldn't cross.
 
 ---
 

@@ -25,7 +25,7 @@
 
 ## SUBJECT LINE
 
-`Keeping your child too dry to learn ($50/mo)`
+`Keeping your child too dry to learn`
 
 - **Type:** Mechanism tease (Type 3 per GIULIANO-DEMANDS.md §11.3)
 - **Characters:** 44 (mobile-safe, key message "too dry to learn" fits in first ~30 chars)

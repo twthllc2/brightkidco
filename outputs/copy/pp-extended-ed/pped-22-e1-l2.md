@@ -67,9 +67,11 @@ And if reading this feels like one more thing to add to an already full plate, t
 
 Thisn't another method. It's the missing piece the methods couldn't provide.
 
-One L2 mom told me: "We'd tried everything from the BCBA's protocol to OT sensory work to social stories. After 6 weeks in the underwear, he initiated once. Once! After 4 years of nothing."
+One mom told me: "We'd tried everything from the BCBA's protocol to OT sensory work to social stories. After 6 weeks in the underwear, he initiated once. Once! After 4 years of nothing."
 
 When you're ready.
+
+With understanding,
 
 Lena ——
 

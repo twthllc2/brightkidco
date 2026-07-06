@@ -58,7 +58,7 @@ Lena ——
 
 "I've made peace with maybe never."
 
-I hear that sentence more than any other from Level 3 parents. It arrives quiet, without drama. After years of scheduled sits and social stories and BCBA protocols and private consultants and 40-hour ABA weeks, "maybe never" stops being a fear and starts being a protection. A way to keep going without breaking.
+I hear that sentence more than any other. It arrives quiet, without drama. After years of scheduled sits and social stories and BCBA protocols and private consultants and 40-hour ABA weeks, "maybe never" stops being a fear and starts being a protection. A way to keep going without breaking.
 
 I understand. I have two autistic sons. One trained at 6. The other at almost 8. For years, I sat where you're sitting now, wondering if the window had closed before I'd even found it.
 

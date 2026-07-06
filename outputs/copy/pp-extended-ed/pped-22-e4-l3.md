@@ -30,7 +30,7 @@ The research tells us something important: the childhood window for body signal 
 
 Here's what we know from families who've walked this path:
 
-- **Maureen Bennie's son was 9.5 when he finally trained.** Not suddenly. Not overnight. But his nervous system caught up in its own time.
+- **A mom in our community shared that her son trained at 9.5. We don't know her personally, but her story travels.** Not suddenly. Not overnight. But his nervous system caught up in its own time.
 - **Another family's child was 8.** The first signal wasn't a trip to the bathroom. It was a pause. A look down. A moment of recognition that something had happened.
 - **One mom described it this way:** "He paused. He felt something.", that was the beginning of everything.
 

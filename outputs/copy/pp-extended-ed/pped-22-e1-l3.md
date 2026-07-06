@@ -53,7 +53,7 @@
 
 ## SECTION 4: TESTIMONIAL / SOCIAL PROOF
 
-"A mom wrote us recently. Her son is 9, non-verbal, Level 3. She'd stopped pushing years ago. She kept him clean, kept him safe, kept him loved. She'd stopped believing in progress."
+"A mom wrote us recently. Her son is 9, who has never shown a sign. She'd stopped pushing years ago. She kept him clean, kept him safe, kept him loved. She'd stopped believing in progress."
 
 "Someone sent her a pair of BrightKidCo underwear. She didn't expect anything. She put it on him alongside his regular diapers. No pressure. No countdown. Just added it to his morning routine."
 
@@ -93,14 +93,14 @@
 
 "If nothing has changed yet, that's not a sign that nothing will. Some pathways take longer to form than others."
 
-One L3 mom wrote: "He's not trained. I don't know if he ever will be. But for the first time in 9 years, he noticed. That's enough for now."
+One mom wrote: "He's not trained. I don't know if he ever will be. But for the first time in 9 years, he noticed. That's enough for now."
 
 ---
 
 ## SECTION 8: LENA SIGN-OFF
 
 ```
-Talk soon,
+With understanding,
 
 Lena ——
 Customer Support · Mom of two autistic sons

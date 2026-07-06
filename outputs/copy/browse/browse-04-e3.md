@@ -45,7 +45,7 @@ If even one of these sounds familiar, keep reading. Not because I'm going to pit
 
 ### Section 3: Mechanism Recap
 
-Here's what we know now that we didn't know five years ago: many autistic children can't feel the internal signal that says "I need to go." It's called interoception, the sense that tells your body when you're hungry, thirsty, or need the bathroom, and research shows it works differently in autistic kids (Nicholson et al. 2019; Barmpagiannis & Baldimtsi 2025, 49-study review). Kelly Mahler, the leading researcher in this space, calls interoception the "eighth sensory system." If that signal doesn't arrive, no method that depends on it, sticker charts, timed sits, social stories, Oh Crap, can work for that child. Not because you didn't try hard enough. Because the method was asking for a signal the nervous system couldn't deliver.
+Here's what we know now that we didn't know five years ago: many kids whose bodies process signals differently can't feel the "I need to go" message in time. It's called interoception, the sense that tells your body when you're hungry, thirsty, or need the bathroom, and research shows it works differently in these kids (Nicholson et al. 2019; Barmpagiannis & Baldimtsi 2025, 49-study review). Kelly Mahler, the leading researcher in this space, calls interoception the "eighth sensory system." If that signal doesn't arrive, no method that depends on it, sticker charts, timed sits, social stories, Oh Crap, can work for that child. Not because you didn't try hard enough. Because the method was asking for a signal the nervous system couldn't deliver.
 
 The Body-Signal Learning Layer doesn't train your child. It doesn't prompt, bribe, or time them. It creates a gentle, sustained "uh-oh" sensation, 30 to 60 seconds of feedback, that gives the brain the information it's been missing. Some kids start to register that sensation within two weeks. Some take eight weeks. Both are normal.
 
@@ -54,15 +54,15 @@ The Body-Signal Learning Layer doesn't train your child. It doesn't prompt, brib
 The parents who've tried it describe success in small, real moments:
 
 > "He looked down at the wet spot for the first time in his life. That never happened before."
->, Sarah, mom of a 4-year-old (verbal, "almost trained" for over a year)
+>, Sarah, mom of a 4-year-old ("almost trained" for over a year)
 
 > "She paused mid-play. Looked down at her pants. Then she walked to the bathroom. It was after the fact, but she PAUSED. That was week 4."
 >, Lisa, mom of a 6-year-old (sensory issues, BCBA context)
 
 > "He's not trained. But he's tolerating the underwear for the first time. And last week, he pulled at his pants when he was wet. That's more awareness than we've seen in 7 years."
->, Maria, mom of a 9-year-old (non-verbal, high support needs)
+>, Maria, mom of a 9-year-old who's never shown a sign
 
-Three different kids, three different starting points, three different timelines. The common thread: the body-signal layer started giving the brainformation it had been missing.
+Three different kids, three different starting points, three different timelines. The common thread: the body-signal layer started giving the brain formation it had been missing.
 
 ### Section 5: Product Introduction
 

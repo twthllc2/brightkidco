@@ -34,12 +34,12 @@
 
 ## SUBJECT LINE
 
-**Subject:** Pre-K is coming, here's the gap you can still close
+**Subject:** Pre-K starts in 2 months.
 
-- Character count: 47 ✅ (under 50)
-- Formula: Observation hook + Direct Benefit hybrid 
-- Key message in first 30 characters: "Pre-K is coming, here's", establishes relevance immediately ✅
-- Pre-K reference appropriate for L1 
+- Character count: 26 ✅ (under 50)
+- Formula: Observation hook (observational only, no pressure)
+- Key message in first 30 characters: "Pre-K starts in 2 months.", establishes relevance without urgency pressure ✅
+- Pre-K reference appropriate for L1 (observational anchor)
 - No spam trigger words ✅
 
 ---
@@ -70,7 +70,7 @@
 
 > It's been 90 days since you first tried the Body-Signal underwear.
 >
-> Maybe your child wore them for a week, then pushed them away. Maybe you put them in a drawer after a few accidents, thinking "we'll try again later." Maybe nothing noticeable happened, and you weren't sure if anything was supposed to.
+> Pre-K starts in a couple of months. Some kids need more time. The 60-day guarantee starts from whenever you're ready.
 >
 > If any of that sounds familiar, that's normal. And that's okay.
 
@@ -159,7 +159,7 @@ Lena ——
 Customer Support · Mom of two autistic sons
 
 P.S. 60 days to try again. By your judgment. [Restart with 3+3 Bundle]
-P.S. Pre-K is [X months] away. You have time. This the gap you can still close.
+|P.S. Pre-K is [X months] away. You have time. Whenever you're ready.
 ```
 
 ---
@@ -533,7 +533,7 @@ Body shape (locked-profile): Shape G (Urgency-Driven, L1-only)
 Word count: 899
 =================================================================
 
-SUBJECT: Pre-K is coming, here's the gap you can still close
+SUBJECT: Pre-K starts in 2 months.
 PREHEADER: You bought the Body-Signal underwear 90 days ago.
            If you paused, here's why that might have been
            exactly right for your child.

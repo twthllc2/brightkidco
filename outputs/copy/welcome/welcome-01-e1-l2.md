@@ -53,7 +53,7 @@
 
 **From:** Lena from BrightKidCo
 
-**Rationale:** Personal from name with founder's first name drives higher open rates and signals this a real person, not a brand. Lena is the founder and the voice of BrightKidCo. 
+**Rationale:** Personal from name with a real person's first name drives higher open rates and signals this is a real person, not a brand. Lena is Customer Support at BrightKidCo, and mom of two autistic sons. 
 
 ---
 
@@ -95,7 +95,7 @@ Research confirms this is **neurology, not training**. A landmark 49-study revie
 
 #### Social Proof
 
-Here's what one L2 parent told us after finding this explanation:
+Here's what one parent told us after finding this explanation:
 
 > "He communicates fine about everything ELSE but cannot tell me he needs to pee. If I could just get him the signal, I know the rest would follow."
 
@@ -105,7 +105,7 @@ Another parent, after 2.5 years of trying everything:
 
 > "We tried on and off for probably three years. Nothing worked until we understood it was a body signal problem, not a behavior problem."
 
-These aren't isolated stories. They're the pattern every L2 family experiences. The common thread is not the child's willingness, it's the missing signal.
+These aren't isolated stories. They're the pattern many families describe. The common thread isn't the child's willingness — it's the missing signal.
 
 ---
 
@@ -123,7 +123,7 @@ This not an overnight solution. We don't promise quick. But it is a different ap
 
 **What this looks like in real life:**
 
-For Level 2 children, where sensory processing differences are more pronounced and the interoception gap is wider, parents typically see the first signs of body awareness within 2-4 weeks of consistent use. That might be a pause. A look down. A single step toward the bathroom after an accident. That's not training. That's the brain receiving a signal it never got before.
+For children whose sensory processing is more pronounced and the interoception gap is wider, parents often see the first signs of body awareness within 2–4 weeks of consistent use. That might be a pause. A look down. A single step toward the bathroom after an accident. That's not training. That's the brain receiving a signal it never got before.
 
 Full awareness development usually takes 8-12 weeks. Some children take longer. That's not failure, that's the range of normal for children whose nervous systems process signals differently.
 

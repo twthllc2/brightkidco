@@ -57,28 +57,28 @@ Two weeks in. Help us send you the right content.
 
 Each card is a clickable button. NO CTA button. The buttons ARE the interaction.
 
-**Level 1: Verbal & Aware 💬**
+**Talks about the potty but won't actually do it 💬**
 - Icon: 💬 (speech bubble)
 - Color: Green #5DD07A
-- Title: Verbal & aware
+- Title: Talks about the potty, but doesn't follow through
 - Description: Can tell you when they need to go, but signals arrive late
 
-**Level 2: Sometimes Aware 🤔**
+**Sensory issues, tried many methods 🤔**
 - Icon: 🤔 (thinking face)
 - Color: Teal #2BAEB4
-- Title: Sometimes aware
+- Title: Sensory issues, many methods tried
 - Description: Inconsistent signals, mixed communication, pauses sometimes
 
-**Level 3: Rarely Aware 🫧**
+**Non-verbal or high support needs 🫧**
 - Icon: 🫧 (bubbles)
 - Color: Pink #FFB5A0
-- Title: Rarely aware
+- Title: Non-verbal or high support needs
 - Description: Doesn't react to wet, no signal, needs full-body sensation
 
-**Level 4: Not Sure Yet ❓**
+**Still figuring it out ❓**
 - Icon: ❓ (question mark)
 - Color: Yellow #FFD866 (dashed border variant)
-- Title: Not sure yet
+- Title: Still figuring it out
 - Description: Still figuring it out, and that's completely fine
 - Style: Dashed border on mint background (distinct from solid-border cards)
 

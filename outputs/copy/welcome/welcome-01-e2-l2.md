@@ -27,7 +27,7 @@
 
 | Field | Value |
 |-------|-------|
-| **Subject** | Why your BCBA protocol couldn't fix this |
+| **Subject** | Why every method you tried couldn't work |
 | **Formula** | Validation hook (L2-specific: names therapy relationship without criticizing it) |
 | **Character Count** | 42 characters |
 | **Spam Check** | No ALL CAPS. No spam trigger words. No exclamation marks. No emojis. Clean. |
@@ -106,9 +106,9 @@ Pull-ups actively prevent this feedback loop. They keep children "too dry to lea
 
 **"He sits on the toilet for 45 minutes and then pees the second he stands up."**
 
-I hear this exact story from L2 parents over and over. Not because their kids are stubborn. Because the body doesn't signal until it's too late, and at that point, the child is already off the toilet.
+I hear this exact story from parents over and over. Not because their kids are stubborn. Because the body doesn't signal until it's too late, and at that point, the child is already off the toilet.
 
-One of our L2 parents wrote us after four weeks: "He initiated. Once. After four years. He walked to the bathroom on his own, not because I told him to, not because his BCBA prompted him, because he FELT it."
+One of the parents I work with wrote us after four weeks: "He initiated. Once. After four years. He walked to the bathroom on his own, not because I told him to, not because his BCBA prompted him, because he FELT it."
 
 That's the difference. Prompt-dependency teaches a child to respond to an external cue. Body-signal learning teaches the brain to recognize an internal cue. One is compliance. The other is awareness.
 

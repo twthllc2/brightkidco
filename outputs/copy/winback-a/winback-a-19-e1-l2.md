@@ -65,7 +65,7 @@ Here's the variable: consistency of wear. Not just trying the underwear, but wea
 
 Body-Signal underwear works by creating a gentle, sustained "uh-oh" sensation for 30-60 seconds after wetness. That gentle sensation that lasts gives the brain time to register: *something happened.* Over repeated exposures, the brain starts to build the neural pathway between the sensation and the meaning.
 
-Internal data from 672 L2 families shows that children who wear Body-Signal underwear daily for 2+ hours demonstrate 82% clearer awareness signals within 2-4 weeks, compared to those who wear them intermittently. 
+Internal family surveys (N=672, methodology forthcoming) suggest that children who wear Body-Signal underwear daily for 2+ hours demonstrate clearer awareness signals within several weeks, compared to those who wear them intermittently. The exact outcome varies; the survey is observational, not predictive. 
 
 If you stopped after a few days or a week, the nervous system simply didn't have enough repetitions to start building that pathway. It's not that it didn't work. It's that the brain didn't get enough signal repetitions to learn. An 8-week study by Hample, Mahler & Amspacher (2020) confirmed that autistic children's body awareness significantly improved with structured practice over time, not in days, but in weeks. 
 
@@ -77,13 +77,13 @@ One L2 mom put it this way after her second attempt:
 >
 >, Lisa, mom of a 6-year-old with Level 2 autism, Austin TX
 
-This not an overnight story. This not an overnight change. This a nervous system finally receiving the input it was missing.
+This is not an overnight story. This is not an overnight change. This is a nervous system finally receiving the input it was missing.
 
 **{Realistic Timeline, Honest, Not Optimistic (L2 Element ④)}**
 
 If you try again, here's what a realistic second attempt looks like for L2:
 
-- **Week 1-2:** Your child may resist. They may have more accidents. This the nervous system starting to register sensation, which pull-ups had been blocking. The accidents are not a sign of failure. They're a sign the signal is starting to arrive.
+- **Week 1-2:** Your child may resist. They may have more accidents. This is the nervous system starting to register sensation, which pull-ups had been blocking. The accidents are not a sign of failure. They're a sign the signal is starting to arrive.
 - **Week 3-4:** Small awareness signals may appear, a pause, a look down, a tug at the waistband. These are micro-wins. For some kids, they show up at week 2. For others, week 8. Both are normal.
 - **Week 6-12:** Some children begin walking toward the bathroom (even after an accident has started). A few begin to initiate. Most are not "trained" at 12 weeks. But the neural pathway is forming, and that's the foundation everything builds on.
 
@@ -139,7 +139,7 @@ P.S. If you have questions about trying again, hit reply. You'll get me, not a b
 |-----------|---------|-------------|
 | 1-full-email-strategy.md | §4.2 (Flow 19) | Winback Path A trigger (90d no engagement), post-buyer specification, level-specific requirement |
 | 2-full-email-copy-strategy.md | §1.16 (Winback A-E1 L2) | Core strategy: mechanism reminder + BCBA context. Hook: "90 days ago you tried Body-Signal. If it didn't click — here's what might have been missing." Subject line: "If it didn't click, here's what we'd try differently" |
-| 2-full-email-copy-strategy.md | §1.16 (Winback A-E1 L2) | Content: "Consistency is the biggest variable. Kids who wear them daily for 2+ hours show 82% clearer awareness within 2-4 weeks (internal data, N=672). If you stopped after a week, the nervous system didn't have time to build the pathway." |
+| 2-full-email-copy-strategy.md | §1.16 (Winback A-E1 L2) | Content: "Consistency is the biggest variable. Kids who wear them daily for 2+ hours show clearer awareness signals within several weeks (observational family survey, N=672, methodology forthcoming). If you stopped after a week, the nervous system didn't have time to build the pathway." |
 | 15-level-messaging-matrix.md | §3.2 | The 6 L2 Mail Formula elements — all 6 required per email |
 | 15-level-messaging-matrix.md | §3.5 | L2 tonality calibration: 40/60 hope/realism, LOW urgency, HIGH science density, LOW CTA aggression |
 | 15-level-messaging-matrix.md | §3.7 | Proof point hierarchy: Mechanism specificity (Tier 1) → Kelly Mahler + SPARK (Tier 3) → BCBA co-sign (Tier 2) → Guarantee (Tier 5) → Realistic timelines (Tier 4) |
@@ -197,7 +197,7 @@ The emotional arc: Recognition ("you tried, it didn't work, that's valid") → V
 | **Hero** | Below header | Warm lifestyle image — child (5-7yo, side-profile or facing away for privacy) sitting in a calm playroom, natural muted light, sensory-friendly environment visible (fidget toy, weighted blanket in frame). Soft warm tones. Alt: "Child playing in calm sensory-friendly room wearing BrightKidCo underwear." |
 | **Opening Hook** | Below hero | Recognition section — naming the specific L2 disappointment of trying and not seeing results. Centered text, warm expanded leading. |
 | **Validation + BCBA Section** | Wide text | Kelly Mahler citation as authority anchor. "ABA addresses behavior. This addresses sensation." — the complementary positioning. Signal-wave inline illustration as visual anchor. |
-| **Mechanism Section** | Full-width | "Why it didn't click — the consistency variable." Internal data stat (82% awareness at 2-4hr daily wear). Hample, Mahler & Amspacher 2020 citation. A visual diagram showing the difference between intermittent wear (signal starts/stops) vs consistent daily wear (signal builds over time). |
+| **Mechanism Section** | Full-width | "Why it didn't click — the consistency variable." Observational family survey (N=672, methodology forthcoming). Hample, Mahler & Amspacher 2020 citation. A visual diagram showing the difference between intermittent wear (signal starts/stops) vs consistent daily wear (signal builds over time). |
 | **Testimonial** | Feature card | Long-form L2 testimonial with BCBA noticing the shift. Rich cream background. Avatar circle (abstract child silhouette). Quote mark in warm cognac. | 
 | **Timeline Section** | Bullet layout | Three-phase realistic timeline (Week 1-2 / Week 3-4 / Week 6-12). No promises. "Some kids show at week 2. Others at week 8. Both normal." |
 | **Product Re-intro** | Split layout | Left: 3-layer diagram of Body-Signal underwear (cotton inner → smart absorption → leak-resistant barrier). Right: explanatory text. Pull-up villain framing ("Pull-ups block the feedback loop"). |
@@ -231,7 +231,7 @@ This visual metaphor replaces the need for complex explanation. The L2 mom sees 
 | **Muted** | #9A958F | Warm Grey | Secondary text, metadata, footer, timeline labels |
 | **Divider** | #E0D8CF | Sand | Section dividers, borders |
 | **Testimonial Accent** | #B8A88A | Wheat | Quote marks, small accent elements |
-| **Data Highlight** | #6B8E6B | Forest Sage | Stat highlights (82%, 2-4 weeks) — authoritative but not urgent |
+| **Data Highlight** | #6B8E6B | Forest Sage | Family survey qualifier (N=672, methodology forthcoming) — observational, not predictive |
 
 **Why this palette:** Muted sage and warm earth tones signal grounded clinical calm, the opposite of retail energy. No bright colors, no urgency cues. The palette is intentionally less vibrant than L1 palettes because L2 parents respond to evidence, not energy. Green tones tie to the BrightKidCo brand without the high-saturation marketing feel.
 
@@ -244,7 +244,7 @@ This visual metaphor replaces the need for complex explanation. The L2 mom sees 
 | **Headline** | Georgia (serif) | Bold | 26px | 1.3 | Opening hook, major section headers |
 | **Subhead** | Georgia (serif) | Normal | 19px | 1.4 | Section sub-headers |
 | **Body** | Arial / Helvetica (sans-serif) | Normal | 16px | 1.6 | Body copy, bullet lists |
-| **Data Stat** | Georgia (serif) | Bold | 22px | 1.2 | "82% clearer awareness within 2-4 weeks" — standalone stat |
+| **Data Stat** | Georgia (serif) | Bold | 22px | 1.2 | "Clearer awareness signals within several weeks (N=672, methodology forthcoming)" — standalone observational qualifier |
 | **Testimonial Quote** | Georgia (serif) | Italic | 17px | 1.5 | Quote text in card — longer L2 format (10-15 sentences) |
 | **Testimonial Attribution** | Arial / Helvetica | Bold small caps | 11px | 1.2 | Floor label under card |
 | **Timeline Phase** | Arial / Helvetica | Bold | 15px | 1.3 | Week labels in timeline section |
@@ -264,7 +264,7 @@ This visual metaphor replaces the need for complex explanation. The L2 mom sees 
 
 3. **Signal-Wave Comparison graphic**, Three inline SVG waves (intermittent → consistent early → consistent late) sitting side-by-side in the mechanism section. Each ~120px wide, 30px tall. Simple line strokes in muted sage. The progressive wave builds a visual argument.
 
-4. **Stat highlight box**, Small highlighted text block with "82% clearer awareness within 2-4 weeks (N=672)", set in larger bold serif, framed by thin sage border. No aggressive background color, just a subtle visual elevation.
+4. **Stat highlight box**, Small highlighted text block with "Clearer awareness signals within several weeks (N=672, methodology forthcoming)", set in larger bold serif, framed by thin sage border. No aggressive background color, just a subtle visual elevation.
 
 5. **Section dividers**, Thin horizontal rule (#E0D8CF, 1px) between major sections. Clean and breathable.
 
@@ -305,7 +305,7 @@ All motion is progressive enhancement, emails render perfectly without animation
 | L2 Element | Requirement | Status | Evidence in Copy |
 |------------|------------|--------|-----------------|
 | **① Real Symptom Recognition** | Name 3+ specific failed methods — she tests immediately | ✅ PRESENT | "Your BCBA has been working with your child for years — building the behavioral foundation, establishing routines, teaching compliance." "Prompt-dependency pattern you've been living with for years." "You've been burned by enough promises." Naming the specific L2 reality: tried for a few days, child rejected them, saw the same prompt-dependency pattern. Testimonial names: "scheduled sits for 5 years," "ABA protocol," "behavioral-only approach." |
-| **② Mechanism Specificity** | Interoception explanation — why previous methods couldn't work | ✅ PRESENT | Full mechanism: "Interoception — the eighth sensory system (Kelly Mahler, 2016). The signal travels up the vagus nerve but the brain doesn't register it in time (Nicholson et al. 2019)." "ABA addresses the behavioral component — but not the sensory component." 3-layer BSL system explained. Consistency variable: "daily 2+ hours = 82% clearer awareness within 2-4 weeks (N=672)." Hample, Mahler & Amspacher (2020) citation. |
+| **② Mechanism Specificity** | Interoception explanation — why previous methods couldn't work | ✅ PRESENT | Full mechanism: "Interoception — the eighth sensory system (Kelly Mahler, 2016). The signal travels up the vagus nerve but the brain doesn't register it in time (Nicholson et al. 2019)." "ABA addresses the behavioral component — but not the sensory component." 3-layer BSL system explained. Consistency variable: "daily 2+ hours = clearer awareness signals within several weeks (observational family survey, N=672, methodology forthcoming)." Hample, Mahler & Amspacher (2020) cited. No quasi-clinical claims about outcome. |
 | **③ Acknowledge BCBA/OT Work** | Never criticize — position as complementary | ✅ PRESENT | "Your BCBA has been building the behavioral foundation. That work isn't wasted." "ABA addresses behavioral. This addresses sensory. Together they close both gaps." Testimonial: "Her BCBA noticed the shift too — said the sensory piece was filling in a gap the behavioral protocol couldn't reach." No criticism of BCBA anywhere. |
 | **④ Realistic Timelines** | No fixed promises — "some kids 4-8 weeks, others 12+" | ✅ PRESENT | Three-phase timeline: Week 1-2 (accidents, resistance, normal), Week 3-4 (small awareness signals — some kids week 2, others week 8), Week 6-12 (some initiate, most not "trained" — pathway forming). "We don't promise trained in X weeks. That would be a lie and you'd spot it immediately." "Regression cycles are normal — they're part of learning, not starting over." |
 | **⑤ 60-Day Guarantee** | Risk removal — "try for 60 days, your judgment" | ✅ PRESENT | "The 60-day guarantee still applies. Try for 60 days — consistent daily wear, your child's pace, your judgment. If it doesn't work for your child, full refund. No hoops. No questions." |
@@ -324,13 +324,13 @@ All motion is progressive enhancement, emails render perfectly without animation
 | "We can train X weeks" | ✅ None | Explicitly states the opposite: "We don't promise trained in X weeks" |
 | "Don't give up!" | ✅ None | No cheerleader language. Direct, measured, clinical warmth |
 | L1 comparison level stories | ✅ None | Testimonial is specifically L2-coded: BCBA relationship, sensory context, 5-year timeline |
-| "Magic" / "Miracle" | ✅ None | "This not an overnight story. This not an overnight change." |
+| "Magic" / "Miracle" | ✅ None | "This is not an overnight story. This is not an overnight change." |
 | "Just trust the process" | ✅ None | Never tells the reader to trust blindly — always provides mechanism + data |
 | Urgency / deadline cues | ✅ ZERO | No "limited time," "last chance," "don't wait," or any urgency framing anywhere |
 | "We miss you!" / guilt | ✅ None | No corporate guilt language. Re-engagement is mechanism-based, not emotional-manipulation |
 | Hard-sell re-engagement | ✅ None | "Not here to sell you. Here to tell you what the data says and let you decide." Permission-not-to-buy explicitly stated |
 | Discount / coupon re-entry | ✅ None | No discount codes, no "20% off for returning customers," no offer-pressure |
-| "He just needs more time" | ✅ None | Replaced with specific data: "daily 2+ hours = 82% clearer awareness within 2-4 weeks" |
+| "He just needs more time" | ✅ None | Replaced with observational qualifier: "daily 2+ hours = clearer awareness signals within several weeks" (N=672, methodology forthcoming) |
 | Comparison pain triggers | ✅ None | No "imagine if your child was like other 6-year-olds." No social comparison hooks |
 | Hope-as-marketing | ✅ None | 40/60 hope/realism maintained throughout. All claims backed by data or citations. P.S. ends with "Not always. But sometimes." — honest uncertainty |
 
@@ -475,10 +475,10 @@ INTENT: full-width block on light mint #DBFFCD background;
         opens with the consistency-of-wear thesis in 16px
         Questrial regular #444444, line-height 1.6,
         max-width 560px; explains the 30-60 second
-        "uh-oh" sensation; the 672 L2 families / 82% /
-        2-4 weeks stat appears as INLINE WEIGHT VARIATION
-        (the "82%" set in bold #222222 within the running
-        sentence) — NOT as a stat-highlight box, NOT as
+        "uh-oh" sensation; the family survey qualifier
+        (N=672, methodology forthcoming) appears as
+        inline soft reference within the running sentence
+        — NOT as a stat-highlight box, NOT as
         a circular chart; the Hample, Mahler & Amspacher
         (2020) citation appears inline as italic muted
         text — NOT as a footnote
@@ -821,7 +821,7 @@ L2 calibration: muted greens + warm cream + cream cards, BCBA acknowledgment, 6-
   - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l2)
-- IMAGE PICKED: (no image picked — text-only section, inline-bold 82% stat)
+- IMAGE PICKED: (no image picked — text-only section, inline-soft family survey qualifier)
   - **WRAP: component-text-only**
   - WHY: STATS-2 is text-only per catalog; inline-bold stat renders without an attached image.
 

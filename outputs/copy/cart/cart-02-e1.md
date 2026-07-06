@@ -74,20 +74,6 @@ BrightKidCo
 
 Reply to this email. Lena reads every response.
 
-Talk soon,
-Lena ——
-Customer Support · Mom of two autistic sons
-
-P.S. If you want to see how the body-signal approach works, [link]. No pressure.
-
-## Footer
-
-BrightKidCo
-[Physical Address]
-[Unsubscribe Link]
-
-Reply to this email. Lena reads every response.
-
 ## Source Citations
 - S2 section: Cart E1, 1 Hour (§1.2, lines 401-413)
 - Cross-level framework: Layer 18, R1-R6 calibration rules (§2, rules 1-6)

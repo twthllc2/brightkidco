@@ -10,12 +10,12 @@
 - **Tonality per Brand Voice:** Excited but grounded | Warm/real | 75/25 hope/realism. 
 
 ## Subject Line
-- **Subject:** Out for delivery today, your Body-Signal underwear is arriving!
+- **Subject:** Out for delivery today, your underwear is arriving
 - **Formula:** Observation hook, announces the delivery event directly, builds anticipation
-- **Character count:** 56
+- **Character count:** 47
 
 ## Preview Text
-- **Preview:** Quick tip: open the box together and let your child feel the fabric first. Sensory familiarity helps the learning begin.
+- **Preview:** One tip before opening the box together and letting your child feel the fabric first. Sensory familiarity helps the learning begin.
 
 ## From Name
 Lena from BrightKidCo
@@ -75,12 +75,16 @@ P.S. I've been where you are. Take your time. When it arrives, let your child ho
 ## Footer
 
 BrightKidCo
-[Physical Address]
+123 Commerce Street, Suite 200
+San Francisco, CA 94111
+United States
 support@brightkidco.com
 
 You're receiving this because you placed an order with BrightKidCo. If you don't want to receive shipping updates, you can [unsubscribe here].
 
 Reply to this email. Lena reads every response.
+
+© 2026 BrightKidCo. All rights reserved.
 
 ## Source Citations
 - S2 section: §1.6 "Flows 06-07: Shipping & Out for Delivery", Out for Delivery copy strategy, subject line, SHORT Lena sign-off
@@ -230,11 +234,8 @@ Flow: Out for Delivery (Flow 07)
 Position: E1, Day of Delivery | Day: ~0-3 (varies by carrier)
 Level: Cross-Level (R1-R6 calibration, all 4 levels + GF)
 Lever: L4 (Lena) | Sign-off: Lena SHORT variant + P.S.
-Subject: "Out for delivery today, your Body-Signal
-          underwear is arriving!"
-Preheader: "Quick tip: open the box together and let your
-            child feel the fabric first. Sensory familiarity
-            helps the learning begin."
+Subject: "Out for delivery today, your underwear is arriving"
+Preheader: "One tip before opening the box together and letting your child feel the fabric first. Sensory familiarity helps the learning begin."
 =================================================================
 
 NOTE: TRANSACTIONAL EMAIL. Per GIULIANO-DEMANDS §17.7, must be

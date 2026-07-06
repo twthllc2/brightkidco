@@ -31,7 +31,7 @@
 ## SUBJECT LINE
 
 ```
-Pre-K is coming, here's the gap you can still close
+Pre-K starts in [X] weeks.
 ```
 
 | Property | Specification |
@@ -195,7 +195,7 @@ BrightKidCo, Built for the brain that learns differently.
 | 15-level-messaging-matrix.md | §2 (Level 1) | L1 subject line approach, CTA language, tonality, proof points, forbidden words |
 | 15-level-messaging-matrix.md | §1 | Master matrix: L1 = 70/30 hope, Pre-K urgency allowed, medium CTA, Low-Med science |
 | 15-level-messaging-matrix.md | §1 | Conversion lever ranking: L3 (Guarantee) → L4 (Lena) → L1 (Mechanism) → L5 (49%) |
-| 03-science-library.md | §2.1 | Internal data N=672: 82% clearer awareness in 2-4 weeks |
+| 03-science-library.md | §2.1 | Observational family survey, N=672 (methodology forthcoming) — small shifts in body awareness within weeks |
 | 26-pricing-offer-architecture.md | §2.2 | 3+3 Bundle ($79.99) default for L1, 62% savings, free shipping |
 | 05-customer-language-bank.md | A1-A5 | Verbatim parent phrases: frustration, exhaustion, Pre-K anxiety |
 | 05-customer-language-bank.md | §3 | Verbatim L1 language: "He gets it, but he doesn't get it" |
@@ -214,7 +214,7 @@ BrightKidCo, Built for the brain that learns differently.
 
 This email is the final, respectful, urgency-anchored invitation in the Winback A sequence. It doesn't guilt, it reframes. The core message: your child's barrier isn't motivation or intelligence or effort. It's a signal-timing gap, and that gap has a solution designed specifically for it.
 
-The emotional arc moves from **acknowledgment** ("I know you've been quiet") → **validation** ("It wasn't your methods") → **reframe** ("Signal-timing gap, not defiance") → **urgency** ("Pre-K is coming, you have time, but not forever") → **permission** ("60 days, your judgment").
+The emotional arc moves from **acknowledgment** ("I know you've been quiet") → **validation** ("It wasn't your methods") → **reframe** ("Signal-timing gap, not defiance") → **observational anchor** ("Pre-K starts in [X] weeks, you have time, but not forever") → **permission** ("60 days, your judgment").
 
 | Dimension | Calibration |
 |-----------|-------------|
@@ -479,7 +479,7 @@ Body shape (locked-profile): Shape A (Classic Hero-to-CTA
 Word count: 1,422 (longest in Winback A L1 — by design)
 =================================================================
 
-SUBJECT: Pre-K is coming, here's the gap you can still close
+SUBJECT: Pre-K starts in [X] weeks.
 PREHEADER: It's been a while. If your child is verbal,
            smart, and still not feeling the signal, here's
            why that's not defiance. And why you still have

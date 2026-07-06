@@ -56,10 +56,10 @@
 It's been about 3 weeks since the first pair arrived.
 
 In that time, maybe you've noticed some of these:
-, Your child wears the underwear, then you're doing laundry and waiting for it to dry before the next wear.
-, The "uh-oh" sensation is starting to do its work, a pause here, a look down there, but consistency is still spotty.
-, You're still using pull-ups for backup half the time because the one pair is in the wash.
-, Your child hasn't shown a change yet, and you're wondering if daily wear is even happening often enough.
+- Your child wears the underwear, then you're doing laundry and waiting for it to dry before the next wear.
+- The "uh-oh" sensation is starting to do its work, a pause here, a look down there, but consistency is still spotty.
+- You're still using pull-ups for backup half the time because the one pair is in the wash.
+- Your child hasn't shown a change yet, and you're wondering if daily wear is even happening often enough.
 
 ---
 
@@ -80,23 +80,23 @@ Here's what most 1-pair parents discover around week 3: one pair isn't enough fo
 Wash, dry, wait. By the time the pair is ready, the moment has passed. Your child needs the underwear ON, consistently, every day, for the nervous system to recognize the signal. A few wears a week stretches the timeline. Daily wear shortens it.
 
 Six pairs, the 3+3 Bundle, means:
-, A clean pair every single day
-, No laundry-dependency on the learning process
-, Enough rotation to wear during the most signal-rich hours
-, Consistency that the nervous system can actually build on
+- A clean pair every single day
+- No laundry-dependency on the learning process
+- Enough rotation to wear during the most signal-rich hours
+- Consistency that the nervous system can actually build on
 
 ---
 
 **Three-Family Testimonial Pattern (GF Inclusion)**
 
 **A mom whose child started showing awareness in week 2**, "He's pausing. Just for a second. But he's pausing before he pees. That never happened before. I need more pairs so he can wear them all day."
-*, Sarah, L1 parent, 3 weeks into Body-Signal*
+*, Sarah, 3 weeks into Body-Signal*
 
 **A mom whose child needed 4 weeks for the first sign**, "At first I thought nothing was happening. Then week 4, he looked down. Just looked. But he'd never done that in 7 years. I need more pairs so we don't lose momentum."
-*, Lisa, L2 parent, 4 weeks in*
+*, Lisa, 4 weeks in*
 
 **A mom whose child is still in the familiarity phase**, "He's tolerating the underwear. That's already more than I expected. I'm not rushing. But I want enough pairs so he can wear them every single day without me doing laundry at midnight."
-*, Maria, L3 parent, 3 weeks in*
+*, Maria, 3 weeks in*
 
 ---
 
@@ -246,7 +246,7 @@ This email's emotional role: A gentle nudge from "experimenting" to "committing.
 │ "Wash, dry, wait, by the time it's ready, moment passed" │
 │ │
 │ ── THREE-FAMILY TESTIMONIAL BLOCK ── │
-│ Three short quotes from L1/L2/L3 parents (card style) │
+│ Three short quotes from parents across the spectrum (card style) │
 │ Each 1-2 sentences, authentic voice │
 │ │
 │ ── "WHETHER...OR...IF..." BRIDGE ── │
@@ -533,29 +533,29 @@ week stretches the timeline. Daily wear shortens it."
 [CREAM BAND: #F7F5F0, three stacked cards, vertical layout]
 
   ┌────────────────────────────────────────────────┐
-  │ CARD 1 (L1) │
+  │ CARD 1 │
   │ │
   │ "He's pausing. Just for a second. But he's │
   │ pausing before he pees. That never happened │
   │ before. I need more pairs so he can wear them │
   │ all day." │
   │ │
-  │ ─ Sarah, L1 parent, 3 weeks into Body-Signal │
+  │ ─ Sarah, 3 weeks into Body-Signal │
   └────────────────────────────────────────────────┘
 
   ┌────────────────────────────────────────────────┐
-  │ CARD 2 (L2) │
+  │ CARD 2 │
   │ │
   │ "At first I thought nothing was happening. Then │
   │ week 4, he looked down. Just looked. But he'd │
   │ never done that in 7 years. I need more pairs so │
   │ we don't lose momentum." │
   │ │
-  │ ─ Lisa, L2 parent, 4 weeks in │
+  │ ─ Lisa, 4 weeks in │
   └────────────────────────────────────────────────┘
 
   ┌────────────────────────────────────────────────┐
-  │ CARD 3 (L3) │
+  │ CARD 3 │
   │ │
   │ "He's tolerating the underwear. That's already │
   │ more than I expected. I'm not rushing. But I │
@@ -563,7 +563,7 @@ week stretches the timeline. Daily wear shortens it."
   │ single day without me doing laundry at │
   │ midnight." │
   │ │
-  │ ─ Maria, L3 parent, 3 weeks in │
+  │ ─ Maria, 3 weeks in │
   └────────────────────────────────────────────────┘
 
 ============================================================

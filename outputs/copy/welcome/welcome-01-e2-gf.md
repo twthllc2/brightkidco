@@ -40,7 +40,7 @@ Here's why none of those could work: they all assumed your child can feel the "I
 
 There's a word for this: **interoception** — the internal sense of what's happening inside your body. For children with sensory differences, the signal from bladder to brain can be delayed or absent.
 
-Research shows that 49% of autistic 4-5 year olds aren't toilet trained yet. That's not a parenting failure — it suggests a measurable gap in how the body sends and receives signals. You can't reward a signal that isn't reaching the brain yet.
+Research shows that around 1 in 2 children whose nervous systems process signals differently aren't toilet trained by age 5 — that's about 49% of 4-5 year olds whose bodies process body signals later (Wiggins et al. 2022, SPARK study, N=743). That's not a parenting failure — it suggests a measurable gap in how the body sends and receives signals. You can't reward a signal that isn't reaching the brain yet.
 
 ### Section 4: CTA
 - **Button text:** See how body-signal learning works

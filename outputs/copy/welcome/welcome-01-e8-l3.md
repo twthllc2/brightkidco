@@ -32,7 +32,7 @@
 
 ## PREVIEW TEXT
 
-*"This my last email. Whatever you decide, we're still here when you need us."* (81 characters)
+*"This is my last email. Whatever you decide, we're still here when you need us."* (81 characters)
 
 - **Strategy:** Complement, extends the subject line's permission frame while adding the "last email" fact.
 - **Rationale:** Differs entirely from subject line (doesn't repeat "no pressure" or "final thought"). Gives closure while leaving the door open. Under 100 characters for full mobile display.
@@ -51,7 +51,7 @@
 
 ### HOOK
 
-This my last email. And it's not about selling you anything.
+This is my last email. And it's not about selling you anything.
 
 If you've read this far, you already know what BrightKidCo is. You know about the Body-Signal Learning Layer. You know the science, 49 studies confirming what you've sensed all along: that your child's nervous system processes body signals differently, and that's not a failure of effort or will.
 

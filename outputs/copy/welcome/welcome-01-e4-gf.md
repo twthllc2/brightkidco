@@ -66,9 +66,9 @@ If you've ever thought any of these things, you're not alone. You haven't failed
 > "I feel like a failure because he's still in pull ups."
 >, Real parent, Autistic-1-full.txt (line 2222-2223)
 
-Nearly half of autistic 4-5 year olds, **49%**, are still not toilet trained (Wiggins et al. 2022, CDC-funded study of 743 children). That's compared to just 8% of typically developing children the same age.
+Nearly half of children whose nervous systems process signals differently, **about 49%**, are still not toilet trained by age 5 (Wiggins et al. 2022, CDC-funded study of 743 children). That's compared to just 8% of children with typical nervous systems the same age.
 
-That statistic doesn't mean something is wrong with your child. It means what you're going through is documented, measurable, and far more common than you think. 
+That statistic doesn't mean something is wrong with your child. It means what you're going through is documented, measurable, and far more common than you think. It's a way the body can be different — and it's well within the range of what's understood.
 
 ---
 

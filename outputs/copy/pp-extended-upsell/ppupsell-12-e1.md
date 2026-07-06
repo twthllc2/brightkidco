@@ -69,13 +69,13 @@ The win to watch for isn't "trained." It's "noticed." A pause before an accident
 Three parents, three different kids, one common discovery:
 
 > **L1 Mom:** "He's been 'almost trained' for a year. After 3 weeks in the underwear, he paused mid-play and looked down. First time he ever noticed."
->, Sarah, son 4, Level 1
+> — Sarah, son 4, who talks about the potty
 
 > **L2 Mom:** "We had 4 weeks of nothing. I almost gave up. Then week 5, he walked to the bathroom on his own. Once. In 4 years, that never happened."
->, Lisa, son 6, Level 2
+> — Lisa, son 6, who's tried every method
 
 > **L3 Mom:** "Nothing visible for 6 weeks. Day 43, I saw him touch his waistband. That was everything."
->, Maria, son 8, Level 3
+> — Maria, son 8, who has never shown a sign
 
 If any of these sound familiar, whether your child is 3 or 10, verbal or non-verbal, just starting or years in, here's what these families have in common: they kept giving the brain the signal, and eventually the brain started listening.
 

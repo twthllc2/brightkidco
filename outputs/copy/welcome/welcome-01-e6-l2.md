@@ -29,7 +29,7 @@
 
 ### SUBJECT LINE
 
-**The $50/mo habit keeping him too dry to learn**
+**The pull-up habit that's keeping him too dry**
 
 *(Formula: Mechanism tease. Length: 43 chars. Key info in first 30 chars.)*
 

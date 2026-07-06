@@ -22,7 +22,7 @@
 | **Level** | L2 — Lisa |
 | **From Name** | Lena from BrightKidCo |
 | **From Email** | support@brightkidco.com |
-| **Subject Line** | This my last email (for now) |
+| **Subject Line** | This is my last email (for now) |
 | **Preview Text** | Whatever you decide — the 60-day guarantee still stands. |
 | **Email Type** | Long-form narrative + soft close |
 | **Framework** | AIDA — Attention → Interest → Desire → Action (gentle) |
@@ -35,7 +35,7 @@
 
 ## SUBJECT LINE
 
-> **Subject:** This my last email (for now)
+> **Subject:** This is my last email (for now)
 
 - **Formula:** Observation hook 
 - **Character count:** 28 characters ✅ under 50

@@ -69,17 +69,17 @@ What this means practically:
 
 *Three parents. Three different kids. One shared experience at the 60-day mark.*
 
-**L1 Parent (Sarah, verbal, 4-year-old):**
+**Sarah, mom of a verbal 4-year-old:**
 > "At day 45 I was ready to give up. Nothing was happening. Then at day 52, he stopped mid-play, looked down at his pants, and walked to the bathroom. He still doesn't tell me BEFORE, but he's feeling something now that he never felt before. That's more than we've gotten in 2 years of everything else."
->, Rachel, Level 1 mom
+> — Rachel
 
-**L2 Parent (Lisa, mixed verbal, 6-year-old with BCBA):**
+**Jenna, mom of a 6-year-old with sensory needs:**
 > "We saw our first mini-win at day 38, a pause, just a pause. My BCBA said to keep going, that the foundation was being laid. At day 55 he initiated twice. TWICE. After 4 years of nothing proactive. My BCBA is now recommending the underwear to other families on her caseload."
->, Jenna, Level 2 mom
+> — Jenna
 
-**L3 Parent (Maria, non-verbal, 8-year-old):**
-> "I wasn't looking for 'trained.' I was hoping for one less pull-up change a day. At 60 days, he doesn't react to wetness the way neurotypical kids do, but he pauses now. Just a few seconds. Then continues playing. That pause is more than I've seen in 7 years. For us, that's everything."_
->, Tanya, Level 3 mom
+**Tanya, mom of an 8-year-old with high support needs:**
+> "I wasn't looking for 'trained.' I was hoping for one less pull-up change a day. At 60 days, he doesn't react to wetness the way neurotypical kids do, but he pauses now. Just a few seconds. Then continues playing. That pause is more than I've seen in 7 years. For us, that's everything."
+> — Tanya
 
 If any of these stories sound familiar, keep reading.
 

@@ -100,13 +100,13 @@ We're not asking you to hope. We're asking you to observe the mechanism, and dec
 
 If today isn't a "yes," that's a real answer. The product will be here next month. So will I.
 
-One L2 parent told me: "She finally paused when she felt wetness. That was Week 4. We still have pull-up days. But she's feeling something for the first time." That's the mechanism working.
+One parent told me: "She finally paused when she felt wetness. That was Week 4. We still have pull-up days. But she's feeling something for the first time." That's the mechanism working.
 
 → When you're ready, the body-signal learning guide is here: [Link]
 
 ---
 
-Talk soon,
+With care,
 
 Lena ——
 Customer Support · Mom of two autistic sons

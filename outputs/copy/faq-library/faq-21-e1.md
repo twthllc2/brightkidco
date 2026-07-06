@@ -121,7 +121,7 @@ If even one of these sounds like your morning, keep reading.
 
 The CDC-funded SPARK study of 743 autistic children found that 49% of 4-5 year olds aren't toilet trained yet (Wiggins et al. 2022). That's not a parenting failure. That's a measurable, documented gap.
 
-A 2025 review of 49 scientific studies confirms: body signal differences in autism are settled science (Barmpagiannis & Baldimtsi 2025). Thisn't theory. Thisn't guesswork.
+A 2025 review of 49 scientific studies confirms: body signal differences in autism are settled science (Barmpagiannis & Baldimtsi 2025). This isn't theory. This isn't guesswork.
 
 If your child's nervous system processes body signals differently, every method that assumes a working signal was built on the wrong foundation.
 
@@ -133,15 +133,15 @@ The Body-Signal Learning Layer doesn't rely on a signal your child hasn't develo
 
 A gentle sensation that lasts sensation, 30 to 60 seconds of awareness time, that gives the brain the input it's been missing. Pull-ups and regular underwear both fail here: one wicks everything away, the other overwhelms with a brief intense sensation that passes before the brain can register it.
 
-Thisn't training. It's signal-building.
+This isn't training. It's signal-building.
 
 ---
 
 **What this doesn't promise:**
 
-- Thisn't a guarantee your child will be "fully trained" in X weeks.
-- Thisn't another schedule to follow or chart to fill.
-- Thisn't asking you to hope again, just to understand what's been missing.
+- This isn't a guarantee your child will be "fully trained" in X weeks.
+- This isn't another schedule to follow or chart to fill.
+- This isn't asking you to hope again, just to understand what's been missing.
 
 **What this does offer:**
 
@@ -463,7 +463,7 @@ INTENT: stacked paragraph block introducing the Body-Signal
         30-60 seconds (sustained), (3) pull-ups wick away,
         regular underwear overwhelms with brief intense
         sensation that passes. Closes with the bridge:
-        "Thisn't training. It's signal-building."
+        "This isn't training. It's signal-building."
         Mechanism before product (V13).
 EXAMPLE_PICK: stacked paragraph + 3 vertical sub-points
               with emerald signal-dot bullets

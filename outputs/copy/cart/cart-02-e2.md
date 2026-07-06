@@ -48,7 +48,7 @@ Whether your child can tell you they peed or just looks down confused; whether t
 
 ### Section 3: Mechanism
 
-What we've learned, from Kelly Mahler's work on interoception, from the Nicholson et al. (2019) study on body awareness in autistic children, from 49 studies confirming these differences are real and measurable, is that the brain needs feedback it's not getting.
+What we've learned, from Kelly Mahler's work on interoception, from the Nicholson et al. (2019) study on body awareness in kids who process signals differently, from 49 studies confirming these differences are real and measurable, is that the brain needs feedback it's not getting.
 
 Most training methods assume your child can already feel the "I need to go" sensation. For kids whose nervous systems process internal signals differently, that assumption is the reason those methods failed.
 
@@ -58,13 +58,13 @@ The Body-Signal Learning Layer in our underwear is designed differently. It crea
 
 "Three parents, three different kids, one common experience:"
 
-**L1 Story:** He was "almost trained" for months. Sometimes he'd go, sometimes he wouldn't. After 2 weeks in Body-Signal underwear, he paused mid-play and looked down. That pause had never happened before in 3 years.
+**Story 1:** He was "almost trained" for months. Sometimes he'd go, sometimes he wouldn't. After 2 weeks in Body-Signal underwear, he paused mid-play and looked down. That pause had never happened before in 3 years.
 
-**L2 Story:** She had the BCBA protocol, sensory OT, social stories, sticker charts, everything. She still didn't initiate. At Week 4, she pulled at her pants right before peeing. Her mom called it "the first time I saw her feel something coming."
+**Story 2:** She had the BCBA protocol, sensory OT, social stories, sticker charts, everything. She still didn't initiate. At Week 4, she pulled at her pants right before peeing. Her mom called it "the first time I saw her feel something coming."
 
-**L3 Story:** He's not trained. Not fully. But after 8 weeks, he paused mid-accident for the first time in 6 years. He looked down. He felt something. That pause was everything.
+**Story 3:** He's not trained. Not fully. But after 8 weeks, he paused mid-accident for the first time in 6 years. He looked down. He felt something. That pause was everything.
 
-One parent told us: **"He went today! Once! But he went!"**
+One parent told us: **"He went today. Once. But he went."**
 
 That's what a first win looks like. It's not "fully potty trained." It's not "no more pull-ups." It's a pause. A look. A single step toward the bathroom. Those are real wins, and they're happening for families across every level.
 

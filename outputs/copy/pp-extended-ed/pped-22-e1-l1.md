@@ -76,6 +76,8 @@ Pre-K is coming. You still have time. Keep the reps going.
 
 Thanks for being here. If you have a question, hit reply. You'll get me, not a template, not a bot. I read everything.
 
+With understanding,
+
 Lena ——
 
 ## Footer

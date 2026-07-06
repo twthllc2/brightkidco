@@ -15,8 +15,8 @@
 
 | Field | Value |
 |-------|-------|
-| **Subject Line** | Pre-K is coming — here's the gap you can close |
-| **Preview Text** | How one mom turned 90 days into real progress |
+| **Subject Line** | Pre-K starts in [X] weeks. |
+| **Preview Text** | How one mom noticed the first small shifts |
 | **From Name** | Lena from BrightKidCo |
 | **From Email** | support@brightkidco.com |
 | **Reply-To** | support@brightkidco.com |
@@ -52,7 +52,7 @@ The reason it works is straightforward, but not straightforward. Traditional pot
 
 The Body-Signal Learning Layer doesn't teach your child to feel. It gives their nervous system the feedback it's been missing, a gentle sensation that lasts that bridges the gap between bladder fullness and brain awareness.
 
-Internal data from 672 families shows 82% of kids show clearer body awareness within 2-4 weeks of consistent wear.
+Internal family surveys (sample size and methodology forthcoming) suggest that many families notice the first small shifts in body awareness within a few weeks of consistent wear, though every nervous system moves at its own pace.
 
 **Product / Offer**
 
@@ -170,7 +170,7 @@ BrightKidCo LLC
 | **"I already tried it and it didn't work"** | Normalized — "If the first attempt didn't click — that's normal. Some nervous systems just need more time." |
 | **"Pre-K deadline is too close"** | Reframed — "90 days into real progress" — the gap can still be closed |
 | **"It sat in a drawer"** | Destigmatized — "If it sat in a drawer — that's okay" |
-| **"Not a real solution"** | Evidence — 82% clearer awareness in 2-4 weeks (N=672) + peer testimonial |
+| **"Not a real solution"** | Evidence — observational family survey (N=672, methodology forthcoming) + peer testimonial |
 | **"My child can't be trained"** | Neurological reframe — "It's not stubbornness. It's neurology." |
 
 ### 7. Proof Points Used
@@ -179,7 +179,7 @@ BrightKidCo LLC
 |-------------|--------|------------|----------|
 | Peer-mom testimonial (Pre-K success story) | Internal customer email (synthesized from review data) | MED | Full testimonial blockquote section |
 | Peer-mom testimonial (micro-win) | L1 Quote Bank / DOC2-LEVEL1 | HIGH | "He went today! Once!" opening hook |
-| 82% clearer awareness in 2-4 weeks | Internal data, N=672 | LOW | "Internal data from 672 families..." with qualifier |
+| Observational family survey (N=672, methodology forthcoming) | Internal data, N=672 | LOW | "Internal family surveys..." with qualifier |
 | Nicholson et al. 2019 — body signal gap | Peer-reviewed study | HIGH | "For many autistic children, that signal is delayed or absent" |
 
 ### 8. Source Citations
@@ -192,7 +192,7 @@ BrightKidCo LLC
 | **L1 Messaging Matrix** | 15-level-messaging-matrix.md | §2 — Level 1 (Sarah) |
 | **Lena Sign-Off (Winback)** | 11-brand-voice-reference.md | §9.5 — Long Sign-Off (Winback) |
 | **Proof Point: Nicholson 2019** | 03-science-library.md | PP-A01 |
-| **Proof Point: 82% awareness** | 03-science-library.md | (Referenced in proof distribution table) |
+| **Proof Point: Observational family survey** | 03-science-library.md | (Referenced in proof distribution table) |
 | **Brand Colors** | 11-brand-voice-reference.md | §14 — #039902, #DBFFCD, #FBF7EB |
 | **CTA Language Standard** | 15-level-messaging-matrix.md | §1 — Medium aggression for L1 |
 | **Winback A Flow Structure** | 1-full-email-strategy.md | §4.2 — Winback Path A |
@@ -208,7 +208,7 @@ BrightKidCo LLC
 | All Part 1 sections present | ✓ Subject, Preheader, Hook, Validation, Testimonial, Mechanism, Product, Guarantee, CTA, Sign-Off, Footer |
 | All Part 2 sections present | ✓ Overview, Emotional Arc, L1 Calibration, Visual Specs, CTA Strategy, Objection Handling, Proof Points, Source Citations |
 | L1 calibration: urgency cues, clock imagery, bright accents | ✓ Pre-K deadline frame, emerald `#00CC66` accent spec, clock visual option |
-| Subject line under 50 chars, from S2 | ✓ "Pre-K is coming — here's the gap you can close" (48 chars) |
+| Subject line under 50 chars, from S2 | ✓ "Pre-K starts in [X] weeks." (under 30 chars) |
 | Source citations documented | ✓ Section 8 above |
 
 ---
@@ -235,8 +235,8 @@ Body shape (locked-profile): Shape C (Problem-Solution with
 Word count: 490 (medium-short)
 =================================================================
 
-SUBJECT: Pre-K is coming — here's the gap you can close
-PREHEADER: How one mom turned 90 days into real progress
+SUBJECT: Pre-K starts in [X] weeks.
+PREHEADER: How one mom noticed the first small shifts
 
 NOTE: L1 calibration. Continues E1's Pre-K calendar anchor.
 Cream #FBF7EB background + Mint #DBFFCD for testimonial block.
@@ -350,8 +350,8 @@ NO CTA in this section
 ─────────────────────────────────────────────────────────────────
 
 =================================================================
-[SECTION 4: MECHANISM REFRAME — INTEROCEPTION + 672-FAMILY
-             STAT]
+[SECTION 4: MECHANISM REFRAME — INTEROCEPTION + FAMILY
+            SURVEY]
 ─────────────────────────────────────────────────────────────────
 HEADLINE: Why it works is straightforward, but not simple
 SUBHEADLINE: Traditional potty training assumes your child
@@ -363,13 +363,12 @@ INTENT: full-width text block at 16px Questrial regular,
         color #444444, line-height 1.6, max-width 560px;
         explains the interoception gap with citation
         ("Nicholson et al. 2019") as inline italic muted
-        text rather than a footnote; the 672-family /
-        82% / 2-4 weeks stat appears as INLINE WEIGHT
-        VARIATION (the "82%" set in bold #222222 within
-        the running sentence) — NOT as a stat-highlight
-        box; the phrase "It's not stubbornness. It's
-        neurology." is bold inline #222222 (L1 key-phrase
-        treatment)
+        text rather than a footnote; the family survey
+        reference (N=672, methodology forthcoming) appears
+        as a soft inline qualifier within the running
+        sentence — NOT as a stat-highlight box; the phrase
+        "It's not stubbornness. It's neurology." is bold
+        inline #222222 (L1 key-phrase treatment)
 EXAMPLE_PICK: text-only mechanism paragraph with inline
               citations; no diagram, no infographic, no
               callout box; stat rendered inline-bold, not
@@ -606,16 +605,16 @@ L1 calibration: bright greens + yellow stat accents, Pre-K imagery (verbal 3-5 y
   - **WRAP: image-standalone (placed between sections)**
   - WHY: Content block is text-driven; any attached image is decorative and sits between sections.
 
-### Section 4: MECHANISM REFRAME — INTEROCEPTION + 672-FAMILY STAT
+### Section 4: MECHANISM REFRAME — INTEROCEPTION + FAMILY SURVEY
 - ROLE slot: mechanism-prose-block-with-inline-stat
 - INTENT: per wireframe Section 4
 - COMPONENT PICKED: DEEP-25 (Mechanism Stat Block *(L9850)*)
   - Catalog entry: position=body_mechanism, audience=['L1', 'L2', 'L3', 'GF']
   - Current usage: 1/8
   - WHY: Best-fit component for this section's ROLE and level calibration (l1)
-- IMAGE PICKED: (no image picked — text-only section, inline-bold 82% stat)
+- IMAGE PICKED: (no image picked — text-only section, inline-soft family survey qualifier)
   - **WRAP: component-text-only**
-  - WHY: DEEP-25 is text-only per catalog; inline-bold stat renders without an attached image.
+  - WHY: DEEP-25 is text-only per catalog; inline-soft qualifier renders without an attached image.
 
 ### Section 5: PRODUCT + OFFER — 3+3 BUNDLE REPRISE
 - ROLE slot: pricing-bullets-yellow-dots

@@ -18,12 +18,12 @@
 
 | Field | Value |
 |-------|-------|
-| **Email Subject** | The interoception gap, explained simply |
+| **Email Subject** | The interoception gap, explained |
 | **Preview Text** | How milliseconds make the difference between signal and accident |
 | **From Name** | Lena from BrightKidCo |
 | **From Address** | lena@brightkidco.com |
 | **Reply-To** | lena@brightkidco.com |
-| **Preheader** | The interoception gap, explained simply. How milliseconds make the difference between signal and accident. |
+| **Preheader** | The interoception gap, explained. How milliseconds make the difference between signal and accident. |
 | **Send Day** | Day 17 (Welcome Flow) |
 | **Send Time** | 8:00 AM ET (Tuesday) |
 | **Segment** | avatar_level2 |
@@ -32,7 +32,7 @@
 
 ## SUBJECT LINE
 
-**The interoception gap, explained simply**
+**The interoception gap, explained**
 
 > Formula: **Mechanism Tease**, Creates curiosity about the neurological explanation without jargon.
 > Length: 40 characters ✓ (under 50)

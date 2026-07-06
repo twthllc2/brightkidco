@@ -25,7 +25,7 @@ Lena from BrightKidCo
 
 ### Section 1: Hook
 
-Pre-K starts in a few months. He needs to be trained. You've tried sticker charts. You've tried timers. You've probably read Oh Crap, tried the naked weekend, and wondered why nothing stuck. Here's what nobody told you, and it changes everything about how you think about this.
+Pre-K starts in a few months. He needs to be ready for Pre-K. You've tried sticker charts. You've tried timers. You've probably read Oh Crap, tried the naked weekend, and wondered why nothing stuck. Here's what nobody told you, and it changes everything about how you think about this.
 
 ### Section 2: Validation
 

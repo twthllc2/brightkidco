@@ -61,7 +61,7 @@
 
 ### Hook
 
-Whether your child is just starting to show signs, or you've been at this for years with every method you can find online, if they don't feel when they need to go, **this why.**
+Whether your child is just starting to show signs, or you've been at this for years with every method you can find online, if they don't feel when they need to go, **this is why.**
 
 You've tried what the books said. What the internet told you. What well-meaning friends suggested: sticker charts, timer sits, the 3-day method, pull-ups that promised an straightforward transition. You tried them all with hope. And none of them worked the way they were supposed to.
 
@@ -84,12 +84,12 @@ Here's what parents tell us every day:
 
 You're not a failure. **The problem isn't motivation or behavior. It's neurology.**
 
-Research shows that many children have what's called an interoception gap, the feeling of a full bladder simply doesn't arrive in time. The signal between body and brain travels on a different frequency (Nicholson et al. 2019).
+Research confirms this gap has a name: **interoception**, the body's ability to sense internal signals like hunger, thirst, or the need to use the bathroom, and it works differently for many children whose nervous systems process signals differently. A landmark review of 49 studies confirms this is a well-established finding (Barmpagiannis & Baldimtsi, 2025). The brain-body connection that tells most people "I need to go" can work differently in these kids. But this gap can be addressed — interoception can be trained with the right approach.
 
 *
 ### Mechanism
 
-Research shows that **49% of autistic 4-5 year olds aren't toilet trained yet** — a 6-to-1 gap compared to typically developing kids. That's not a parenting gap. It's a **measurable neurological difference** in how body signals are processed.
+Research shows that many children have what's called an interoception gap, the feeling of a full bladder simply doesn't arrive in time. That's a measurable difference in how body signals are processed — about 1 in 2 children whose nervous systems work this way aren't toilet trained by age 5 (Wiggins et al. 2022, SPARK study of 743 children). The signal between body and brain travels on a different frequency (Nicholson et al. 2019). That's not a parenting gap. It's a way the body can be different — and it's well within the range of what's understood.
 
 The brain-body connection that tells most people "I need to go" works differently for your child. But this gap can be addressed — interoception, the ability to sense internal body states, can be trained with the right approach.
 

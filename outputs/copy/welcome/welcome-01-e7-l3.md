@@ -76,7 +76,7 @@ Think of it like **training wheels for the nervous system.** The Body-Signal Lea
 
 ### MINI-WIN TESTIMONIALS
 
-Other L3 parents have seen the smallest shifts. And here, those shifts matter.
+Other parents have seen the smallest shifts. And here, those shifts matter.
 
 > "He looked down at the wet spot for the first time in 9 years."
 

@@ -127,7 +127,7 @@ If this email resonated, or if you have a question about your child's progress, 
 
 ### P.S.
 
-P.S., The 60-day guarantee is real. If the product doesn't work for your child, full refund, no questions. But most parents find the real change happens between week 3 and week 8. If you're in week 1 and nothing's happened yet, that's normal. Keep going.
+P.S., The 60-day guarantee is real. If the product doesn't work for your child, full refund, no questions. Some parents see early changes within weeks; for others it takes a few months. All of that is normal. Keep going.
 
 ---
 
@@ -207,7 +207,7 @@ P.S., The 60-day guarantee is real. If the product doesn't work for your child, 
 - "Others need 8 weeks", Level 2 realistic
 - "Some take 3-6 months", Level 3 realistic
 - "All of that is normal. All of that is progress.", Universal normalization
-- "most parents find the real change happens between week 3 and week 8", Research-backed zone
+- "Some parents see early changes within weeks; for others it takes a few months", Realistic range
 
 **Never stated:**
 - ❌ "Your child will be trained in X weeks"
@@ -875,13 +875,12 @@ HARD CONSTRAINT AUDIT — SIGN-OFF:
 P.S. (single line, soft, timeline-reinforcement + 60-day):
   "P.S. — The 60-day guarantee is real. If the product
   doesn't work for your child, full refund, no questions.
-  But most parents find the real change happens between
-  week 3 and week 8. If you're in week 1 and nothing's
-  happened yet, that's normal. Keep going."
+  Some parents see early changes within weeks; for others
+  it takes a few months. All of that is normal. Keep going."
 
 NOTE: P.S. uses TWO R5 levers at once — week 1
-normalization ("that's normal") AND research-anchored
-range ("week 3 and week 8"). The "Keep going." is
+normalization ("that's normal") AND a soft, flexible
+timeline range ("weeks to months"). The "Keep going." is
 founder cadence, not cheerleader cadence. No
 exclamation mark. (Lena's voice rule of "never
 exclamation marks" is inherited by Mary's voice in

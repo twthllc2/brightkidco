@@ -43,7 +43,7 @@ If the underwear is sitting in a drawer, that's okay. Some kids need a break. So
 
 **MECHANISM**
 
-Body-signal learning doesn't work on a timeline. Some kids process interoception at a different pace, and that pace isn't a reflection of you or your child. 49% of autistic 4-5 year olds aren't trained. You're not behind. You're not doing it wrong. The nervous system takes the time it takes.
+Body-signal learning doesn't work on a timeline. Some kids process interoception at a different pace, and that pace isn't a reflection of you or your child. 49% of 4-5 year olds whose nervous systems process signals differently aren't trained (Wiggins et al. 2022). You're not behind. You're not doing it wrong. The nervous system takes the time it takes.
 
 When the underwear goes back on, whether that's tomorrow, next week, or next month, the body-signal learning starts wherever your child is. Not on a Pre-K deadline. Not on anyone else's timeline.
 
@@ -94,7 +94,7 @@ United States
 | Tone | 11-brand-voice-reference.md §12 | PP-At-Risk Support = Empathetic Lena, Extra empathy, Hope/Realism 30/70 |
 | "I took breaks too" | Layer 9 (Voice Lena) §1.3 | Lena's implied background — surfaces in fragments |
 | "My older son was 8" | Layer 9 (Voice Lena) §1.3 + 11-brand-voice-reference.md §9.5 | Long sign-off variant reference |
-| "49% of autistic 4-5 year olds aren't trained" | 11-brand-voice-reference.md §9.4 P.S. + 03-science-library.md | SPARK study citation |
+| "49% of 4-5 year olds whose nervous systems process signals differently aren't trained" (Wiggins et al. 2022) | 11-brand-voice-reference.md §9.4 P.S. + 03-science-library.md | SPARK study citation, symptom-language only |
 | Sign-off: "Talk soon," | 11-brand-voice-reference.md §9.2 | E1 (early flow) — warm, gentle sign-off |
 | P.S. variant | 11-brand-voice-reference.md §9.3 | Short sign-off: "60 days to try it. By your judgment." adapted for at-risk context |
 | Validation approach | V7 (11-brand-voice-reference.md §5) | "Always validate failed attempts before proposing mechanism" — adapted: validate the break itself |
@@ -164,7 +164,7 @@ United States
 - HERO PICKED: HERO-16 (Mechanism Tease)
   - Catalog entry: position=hero, audience=[L1,L2,L3,GF], temperature=neutral, image_support=text_only
   - Current usage: 0/8 (NEW — never used)
-  - WHY: Mechanism-tease hero pairs with the SPARK stat italicized ("49% of autistic 4-5 year olds aren't trained") and the body-signal learning reframe. The "Mechanism Tease" treatment — opening with a small mechanism cue — fits the at-risk subscriber's "I want to know what's happening, briefly" mindset. Text-only (per wireframe §Image Density 0). NEVER reused before in any email.
+  - WHY: Mechanism-tease hero pairs with the SPARK stat italicized ("49% of 4-5 year olds whose nervous systems process signals differently aren't trained", Wiggins et al. 2022) and the body-signal learning reframe. The "Mechanism Tease" treatment — opening with a small mechanism cue — fits the at-risk subscriber's "I want to know what's happening, briefly" mindset. Text-only (per wireframe §Image Density 0). NEVER reused before in any email.
 
 ### Image count check
 - Total images in this email: 4/6
@@ -243,7 +243,7 @@ Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validati
 - NO bold weight used anywhere, follows consolidated design reference "NEVER bold for body text" (11-brand-voice-reference.md §14.3).
 - No headline size used, this email has no traditional "headline." The hook IS theadline, rendered at body size. This intentional: a personal check-in doesn't shout.
 - Questrial is brand font; Arial/Helvetica/sans-serif is email-safe fallback (email-design-master §2).
-- SPARK statistic ("49% of autistic 4-5 year olds...") is in italics for subtle emphasis.
+- SPARK statistic ("49% of 4-5 year olds whose nervous systems process signals differently aren't trained", Wiggins et al. 2022) is in italics for subtle emphasis.
 
 ### Decorative Furniture
 
@@ -283,7 +283,7 @@ Cross-level calibration: Works for L1 (relief from Pre-K pressure), L2 (validati
 | **Sensitive language avoided** | "Pre-K deadline," "time running out" | "Your BCBA," "methods you tried" | "Fix," "cure," "progress" | No labels |
 | **SPARK stat** | Included (gentle) | Included (normalizing) | Included (empathetic context) | Included |
 
-**Cross-level resolution:** The email uses V12 (permission framing) as its primary voice rule across all levels. The SPARK stat ("49% of autistic 4-5 year olds aren't trained") is the single universal anchor, it normalizes the experience for L1, validates the difficulty for L2, and removes shame for L3.
+**Cross-level resolution:** The email uses V12 (permission framing) as its primary voice rule across all levels. The SPARK stat ("49% of 4-5 year olds whose nervous systems process signals differently aren't trained", Wiggins et al. 2022) is the single universal anchor, it normalizes the experience for L1, validates the difficulty for L2, and removes shame for L3.
 
 ---
 
@@ -396,8 +396,10 @@ INTENT: a stacked paragraph with the body-signal
         work on a timeline. Some kids process
         interoception at a different pace, and
         that pace isn't a reflection of you or
-        your child. 49% of autistic 4-5 year olds
-        aren't trained." [SPARK stat italicized
+        your child. 49% of 4-5 year olds whose
+        nervous systems process signals
+        differently aren't trained (Wiggins
+        et al. 2022)." [SPARK stat italicized
         per copy file §Typography] "You're not
         behind. You're not doing it wrong. The
         nervous system takes the time it takes."
@@ -585,7 +587,9 @@ Hope/Realism: "PP-At-Risk Support = Empathetic Lena,
 Extra empathy, Hope/Realism 30/70"). Heavier realism
 because at-risk subscribers have already disengaged —
 false hope would feel manipulative. The SPARK stat
-("49% of autistic 4-5 year olds aren't trained") is
+("49% of 4-5 year olds whose nervous systems
+        process signals differently aren't trained", Wiggins
+        et al. 2022) is
 the single universal anchor that normalizes without
 promising.
 
@@ -593,9 +597,10 @@ promising.
 CROSS-LEVEL CALIBRATION CONFIRMATION (R1-R6):
 R1 (symptom over label): PASS. No "Level 1/2/3,"
     "autism" used as label in body copy. The SPARK
-    stat phrase "49% of autistic 4-5 year olds"
-    uses "autistic" descriptively in a citation
-    context (SPARK study), not as a label for the
+    stat phrase "49% of 4-5 year olds whose
+    nervous systems process signals differently"
+    uses symptom-language in a citation
+    context (SPARK study, Wiggins et al. 2022), not as a label for the
     reader's child. Per copy file §Level Calibration
     note: "The SPARK stat is the single universal
     anchor — it normalizes the experience for L1,
@@ -626,9 +631,10 @@ R6 (low-bar success metrics): PASS. Parent quote:
     "accident-free" framing.
 V16 (GF sub-group B litmus): PASS. Zero "Level 1/2/3"
     in body copy addressed to the reader. The
-    "autistic" word appears ONLY in the SPARK
-    citation phrase, which is a study reference
-    (SPARK study), not a reader-child label.
+    "nervous systems process signals differently"
+    framing appears in the SPARK citation phrase,
+    which is a study reference (SPARK study, Wiggins
+    et al. 2022), not a reader-child label.
 
 =================================================================
 FORBIDDEN LANGUAGE AUDIT: PASS.

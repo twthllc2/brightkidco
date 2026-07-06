@@ -161,7 +161,7 @@ If that sounds familiar, you're not alone.
 
 ---
 
-Here's a number that changed how I think about all of this: 49% of autistic 4-5 year olds aren't toilet trained (Wiggins et al. 2022, CDC-funded study of 743 children). That's not a parenting failure rate, that's a method failure rate. Six out of seven kids in that age range face a gap that standard potty training approaches weren't built to address.
+Here's a number that changed how I think about all of this: 49% of 4-5 year olds whose nervous systems process signals differently aren't toilet trained (Wiggins et al. 2022, CDC-funded study of 743 children). That's not a parenting failure rate, that's a method failure rate. Six out of seven kids in that age range face a gap that standard potty training approaches weren't built to address.
 
 You didn't fail. The methods did.
 
@@ -169,7 +169,7 @@ You didn't fail. The methods did.
 
 The reason so many methods fall short isn't that you didn't try hard enough. It's that they're built on an assumption that doesn't hold for every child.
 
-Most potty training methods assume the child can feel the internal signal that says "I need to go." The body sends the message, the brain receives it, the child acts on it. That chain works for neurotypical kids.
+Most potty training methods assume the child can feel the internal signal that says "I need to go." The body sends the message, the brain receives it, the child acts on it. That chain works for kids whose internal signaling is intact.
 
 But for many kids whose nervous systems process signals differently, that chain is broken. The signal from bladder to brain arrives too late. Or it doesn't arrive at all.
 
@@ -181,13 +181,13 @@ The signal isn't stubbornness. It's not defiance. It's not something you failed 
 
 Three families. Three different kids. One missing piece.
 
-**Lena, mom of a verbal 4-year-old:**
+**Lena, mom of a 4-year-old:**
 > "He knew the routine. He could tell me 'I need to pee', after he'd already gone. We spent months thinking he was being difficult. Turned out the signal was reaching his brain after he was already wet. Once we addressed that, everything shifted."
 
-**Sofia, mom of a 6-year-old with sensory differences:**
+**Sofia, mom of a 6-year-old in OT:**
 > "We tried everything the BCBA recommended. Scheduled sits, reward systems, social narratives. Nothing transferred. I was ready to accept it would never happen. Then I learned about the interoception gap, his brain wasn't getting the body signal in time. That changed our entire approach."
 
-**Priya, mom of a 9-year-old with high support needs:**
+**Priya, mom of a 9-year-old who's never shown a sign:**
 > "Nine years. Never a sign. I'd stopped looking for one. Then after a few months of body-signal work, he paused mid-play. Looked down at the wet spot. Then walked toward the bathroom. He's not trained, but he FELT something. That had never happened before."
 
 The common thread across all three: before they understood the signal gap, the learning couldn't start because the information couldn't arrive.

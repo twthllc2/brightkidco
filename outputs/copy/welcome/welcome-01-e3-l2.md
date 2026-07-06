@@ -21,7 +21,7 @@
 
 ## Subject Line
 
-**Subject:** Kelly Mahler explains why your child can't feel the signal
+**Subject:** Why your child can't feel the signal
 
 **Formula:** Social proof, leverages a recognized expert name to build credibility and authority.
 

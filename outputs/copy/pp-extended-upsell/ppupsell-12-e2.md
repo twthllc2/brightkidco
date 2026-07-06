@@ -47,8 +47,8 @@ The question now isn't "will it work?" It's "do I have enough pairs to make it c
 > *"We saw the first pause in week 3. By week 5, she was initiating once a week. The BCBA said the consistency from having enough pairs in rotation made the difference."* 
 >, L2 mom, sensory 6-year-old
 
-> *"He's not trained. But he's feeling something for the first time in 8 years. That's enough for now. We added more pairs so he can wear them longer without me rushing to wash."* 
->, L3 mom, non-verbal 8-year-old
+> *"He's not trained. But he's feeling something for the first time in 8 years. That's enough for now. We added more pairs so he can wear them longer without me rushing to wash."*
+> — Mom of an 8-year-old who's never shown a sign
 
 If any of those sound familiar, here's what they all share: the body-signal learning works best when the underwear is available every single day. Not washed overnight. Not "saved for later." Worn, consistently, day after day.
 

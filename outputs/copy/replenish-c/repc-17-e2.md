@@ -32,10 +32,10 @@
 
 ## SUBJECT LINE
 
-**"150 days in, what's next?"**
+**"Same product. Same guarantee. Whenever ready."**
 
-- Character count: 28 ✓ (under 50)
-- Type: Observation hook (Lifecycle stage)
+- Character count: 49 ✓ (under 50)
+- Type: Permission frame (Lifecycle stage)
 - Works cross-level: no label, no fixed age, no verbal-only assumption, no fixed timeline promise
 - 
 ---
@@ -184,7 +184,7 @@ Customer Support · Mom of two autistic sons
 
 ## BIG IDEA
 
-**"150 days in, your first 10 pairs have earned their retirement."**
+**"Same product. Same guarantee. 150 days in, no rush."**
 
 The central thought: The subscriber has been in the BrightKidCo ecosystem for over 5 months. That's long enough for real body-signal learning to have happened, and long enough for the original 10 pairs to have served their purpose. This email isn't a cold reorder reminder. It's a celebration of the distance traveled, anchored in the Three-Family Testimonial Pattern so every level sees themselves. The call is to honor that commitment by refreshing the tool that made it possible, or by passing it forward to another family.
 
@@ -201,7 +201,7 @@ The central thought: The subscriber has been in the BrightKidCo ecosystem for ov
 │ (thin divider) │
 ├──────────────────────────────────────────────┤
 │ [SUBJECT REPEAT, subtle, small text] │
-│ "150 days in, what's next?" │
+│ "Same product. Same guarantee. Whenever ready." │
 ├──────────────────────────────────────────────┤
 │ [SECTION 1: HOOK, WHETHER/OR/IF] │
 │ Left-aligned body text, 16-18px │
@@ -440,7 +440,7 @@ The three dots (···) between the testimonials and options use the same three 
 | **PART 2: Full creative strategy present** | ✅ | Big Idea, Layout, Contraption, Color, Typography, Furniture, Easter Egg, Motion, Level Calibration |
 | **Cross-level: R1-R6 all satisfied** | ✅ | Verified in dedicated table above |
 | **No level-specific forbidden language** | ✅ | Verified in Forbidden Language Check above |
-| **Subject line under 50 characters** | ✅ | "150 days in, what's next?" = 28 characters |
+| **Subject line under 50 characters** | ✅ | "Same product. Same guarantee. Whenever ready." = 49 characters |
 | **Source citations documented** | ✅ | Full table in PART 1 |
 | **"Whether...Or...If..." inclusive framing pattern applied** | ✅ | Section 1 opener + Section 2 |
 | **Three-Family Testimonial Pattern applied** | ✅ | Section 3, L1/L2/L3 stories |
@@ -450,7 +450,7 @@ The three dots (···) between the testimonials and options use the same three 
 ## WIREFRAME — built 2026-06-28 by subagent-replenish
 
 > **Vertical stack only. No two-column. ROLE names only. R1-R6 cross-level calibrated.**
-> **Replenishment C E2 (Flow 17, Cross-Level, 5+5 buyer, Day 165) — "150 days in, what's next?"**
+> **Replenishment C E2 (Flow 17, Cross-Level, 5+5 buyer, Day 165) — "Same product. Same guarantee. Whenever ready."**
 
 ```
 ============================================================
@@ -461,7 +461,7 @@ The three dots (···) between the testimonials and options use the same three 
 ============================================================
 
 [ROLE: SUBJECT REPEAT, SUBTLE]
-[SUBJECT REPRISE: "150 days in, what's next?" (28ch)]
+[SUBJECT REPRISE: "Same product. Same guarantee. Whenever ready." (49ch)]
 [Small text, 11px monospace, lowercase]
 
 ============================================================
@@ -691,7 +691,7 @@ Customer Support · Mom of two autistic sons
 | 6. Argument structure | Story-led + Mechanism + Validation + Permission | PAS + Validation + Story-led + Utility (4 options) + Permission | Different | ✓ |
 | 7. Visual rhythm | Open (32-40px gaps) | Open (24px gaps, single-column flow) | Different | ✓ |
 | 8. CTA position | Late + Double-tap | Late + Double-tap (different pair: Order vs Explore) | Different | ✓ |
-| 9. Subject formula | Observation hook ("Time to refresh the rotation?") | Question hook ("150 days in, what's next?") | Different | ✓ |
+| 9. Subject formula | Observation hook ("Time to refresh the rotation?") | Permission frame ("Same product. Same guarantee. Whenever ready.") | Different | ✓ |
 
 **Variance total: 9/9 dimensions differ — VARIANCE AUDIT PASSES (≥5/9 required).**
 

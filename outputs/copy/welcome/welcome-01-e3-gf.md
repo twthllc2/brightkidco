@@ -69,7 +69,7 @@ If any of these sound familiar, you're not alone. And you're not failing. You're
 
 ### Validation, The Gap Is Real, Not Your Fault
 
-Here's what the research actually shows: **49% of autistic 4-5 year olds are not yet toilet trained.**
+Here's what the research actually shows: **around 1 in 2 children whose nervous systems process signals differently aren't toilet trained by age 5.** That's not a parenting gap. That's how the body can be different — and it's well within the range of what's understood.
 
 That's not a made-up number. That's from a CDC-funded study of 743 children (Wiggins et al. 2022). Compare that to 8% of typically developing kids of the same age, and the gap is 6:1.
 
@@ -82,7 +82,7 @@ Whether your child is 3 or 10, verbal or non-verbal, newly diagnosed or still fi
 
 ### Mechanism, Why the Signal Doesn't Arrive
 
-Every sticker chart and timer sit assumes your child *feels* the sensation of a full bladder. But research consistently shows many autistic children have a measurable difference in **interoception** — the eighth sensory system that tells the brain when we're hungry, thirsty, or need the bathroom.
+Every sticker chart and timer sit assumes your child *feels* the sensation of a full bladder. But research consistently shows many children whose nervous systems process signals differently have a measurable difference in **interoception** — the eighth sensory system that tells the brain when we're hungry, thirsty, or need the bathroom.
 
 The signal from bladder to brain is delayed or absent. It's not defiance. It's neurology. And here's the part that matters: **interoception can be trained.** The childhood window is the intervention opportunity.
 

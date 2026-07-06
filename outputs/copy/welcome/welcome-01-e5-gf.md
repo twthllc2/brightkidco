@@ -28,7 +28,7 @@
 ## SUBJECT LINE
 
 ```
-If this another letdown, here's the difference
+If this is another letdown, here's the difference
 ```
 *(Permission frame, 46 characters ✅ under 50)*
 
@@ -72,9 +72,9 @@ And when you've heard that from yourself enough times, a new email promising som
 
 Let me name the three questions sitting in the back of your mind, because I've asked every single one of them myself:
 
-**"I've tried everything. Why would this be different?"**, Because every method you tried assumed your child can feel the "I need to go" signal. Research shows that for many autistic children, that signal doesn't arrive in time, or at all (Nicholson et al. 2019).
+**"I've tried everything. Why would this be different?"**, Because every method you tried assumed your child can feel the "I need to go" signal. Research shows that for many children whose nervous systems process signals differently, that signal doesn't arrive in time, or at all (Nicholson et al. 2019).
 
-**"What if I get my hopes up again?"**, That fear is earned. Every product promises. Every method disappoints. I've been there, both my sons went through this. My older one was almost 8 before he trained. So I don't say this lightly: thisn't about hoping. It's about giving your child's brainformation it's been missing.
+**"What if I get my hopes up again?"**, That fear is earned. Every product promises. Every method disappoints. I've been there, both my sons went through this. My older one was almost 8 before he trained. So I don't say this lightly: this is about giving your child's brain formation what it's been missing.
 
 **"Is my child too old, or too severely affected, for this to work?"**, Whether your child is 3 or 10, verbal or non-verbal, diagnosed or still wondering, if they don't feel when they need to go, the mechanism addresses the gap, not the label.
 
@@ -84,13 +84,13 @@ Let me name the three questions sitting in the back of your mind, because I've a
 
 The reason nothing worked isn't that you didn't try hard enough. It's that every method assumed the signal exists.
 
-Pull-ups keep kids completely dry, which means the one feedback the brain needs never arrives. Sticker charts depend on body awareness many autistic children don't yet possess. You weren't fighting the wrong battle — you were fighting the right battle with the wrong tools.
+Pull-ups keep kids completely dry, which means the one feedback the brain needs never arrives. Sticker charts depend on body awareness many kids whose nervous systems process signals differently don't yet possess. You weren't fighting the wrong battle — you were fighting the right battle with the wrong tools.
 
 ---
 
 ### MECHANISM
 
-This where BrightKidCo is different. The body-signal underwear doesn't require your child to feel anything they don't already feel. It *creates* the sensation.
+This is where BrightKidCo is different. The body-signal underwear doesn't require your child to feel anything they don't already feel. It *creates* the sensation.
 
 **Three layers, one purpose:** Layer 1, soft cotton that creates a gentle "uh-oh" sensation when wet. Layer 2, smart absorption that protects without wicking the signal away. Layer 3, leak-resistant outer barrier that contains the mess.
 
@@ -344,7 +344,7 @@ Instead of a standard bullet list of objections, build a progressive reveal wher
 **Font family:** Questrial 400 for headers and body (Arial/Helvetica fallback for email rendering).
 
 **Hierarchy:**
-- Subject line: Sentence case only (no ALL CAPS), "If this another letdown, here's the difference"
+- Subject line: Sentence case only (no ALL CAPS), "If this is another letdown, here's the difference"
 - H1 (Hidden hero): Not used, letter-style email
 - H2 (Objection headers): 20px, Questrial 400, Dark Text #1A1A1A, left-aligned
 - H3 (Mechanism step labels): 18px, Questrial 400, Brand Green #039902, left-aligned

@@ -9,7 +9,7 @@
 - **Emotional Arc position:** Transactional clarity → Warm Lena touch → Anticipation
 
 ## Subject Line
-- **Subject:** Your Body-Signal underwear is on its way!
+- **Subject:** Your Body-Signal underwear is on its way
 - **Formula:** Transactional (observation, directly states the event)
 - **Character count:** 41
 
@@ -52,13 +52,18 @@ Talk soon,
 Lena ——
 Customer Support · Mom of two autistic sons
 
-P.S. Both my sons went through this. I know what it feels like to wait for a package that might change everything. Take your time when it arrives., Lena
+P.S. Both my sons went through this. I know what it feels like to wait for a package that might change everything. Take your time when it arrives. — Lena
 
 ## Footer
-Lena from BrightKidCo
+BrightKidCo
+123 Commerce Street, Suite 200
+San Francisco, CA 94111
+United States
 orders@send.brightkidco.com | Reply to this email, Lena reads every response.
-[Physical address]
-[Unsubscribe link]
+
+If you'd rather not hear from us, you can unsubscribe here.
+
+© 2026 BrightKidCo. All rights reserved.
 
 ## Source Citations
 - S2 section: §1.6 Flows 06-07: Shipping & Out for Delivery, subject line, content structure, SHORT sign-off, "No promotional content"
@@ -206,7 +211,7 @@ Position: E1, Triggered when shipment is created in Shopify
           | Day: 0 (post-fulfillment)
 Level: Cross-Level (R1-R6 calibration, all 4 levels + GF)
 Lever: L4 (Lena) | Sign-off: Lena SHORT variant + P.S.
-Subject: "Your Body-Signal underwear is on its way!"
+Subject: "Your Body-Signal underwear is on its way"
 Preheader: "Tracking number inside. Here's what to expect
             when your package arrives."
 =================================================================

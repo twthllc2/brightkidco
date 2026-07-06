@@ -16,9 +16,9 @@
 
 ### Subject Line (47 chars)
 
-> Pre-K is coming, this my last email
+> Pre-K starts in [X] weeks.
 
-**Rationale:** Observation hook per L1 subject line patterns (Layer-04 §3.15, 15-level-messaging-matrix §2.3). Under 50 characters. Names Pre-K deadline without pressure. "This my last email" signals respect for her timeline, no guilt, no "one more try" manipulation. Frame from S2 copy strategy §1.21: "Soft final invitation."
+**Rationale:** Observation hook per L1 subject line patterns (Layer-04 §3.15, 15-level-messaging-matrix §2.3). Under 50 characters. Names Pre-K calendar without pressure. "This is my last email" signals respect for her timeline, no guilt, no "one more try" manipulation. Frame from S2 copy strategy §1.21: "Soft final invitation."
 
 ### Preview Text (92 chars)
 
@@ -40,7 +40,7 @@
 
 I want to be direct with you.
 
-You signed up {X} weeks ago. Pre-K is coming, I know that deadline is real, and I know you've been thinking about it. I also know that if Body-Signal learning was going to click for your family, it probably would have by now.
+You signed up {X} weeks ago. Pre-K starts in [X] weeks, I know that deadline is real, and I know you've been thinking about it. If Body-Signal learning didn't feel like the right fit, we understand. The door stays open.
 
 **It's okay if this wasn't the right time.**
 
@@ -52,9 +52,9 @@ You've already done the hardest thing, you showed up. You researched. You cared 
 
 **The signal-timing gap is real.**
 
-Your child may be verbal, smart, "almost trained", and still not feel when they need to go. That's not defiance. That's a signal that arrives milliseconds too late, every time. Interoception research from Nicholson et al. (2019) shows this a measurable neurological difference in autistic children, not a parenting failure, not a child refusing to cooperate.
+Your child may be verbal, smart, "almost trained", and still not feel when they need to go. That's not defiance. That's a signal that arrives milliseconds too late, every time. Interoception research from Nicholson et al. (2019) shows this is a measurable neurological difference in autistic children. The signal arrives when it arrives — and a nervous system on its own timeline is not something to fix.
 
-The Body-Signal Learning Layer creates a 30-60 second sustained "uh-oh" sensation that bridges that gap. It gives a slow to pick up signals brain the feedback window it needs to finally register: *something happened.*
+The Body-Signal Learning Layer creates a 30-60 second sustained "uh-oh" sensation that bridges that gap. It gives a nervous system that processes signals more slowly the feedback window it needs to finally register: *something happened.*
 
 **If you ever want to try it, the 3+3 Bundle is here.**
 
@@ -64,7 +64,7 @@ $79.99. Free shipping. 60 days to test it by your own judgment. If your child sh
 
 The product will be here next month. Next year. Whenever you're ready. I will too.
 
-This my last email in this series. I'm not going to keep filling your inbox. But my door, and the 60-day guarantee, is always open.
+This is my last email in this series. I'm not going to keep filling your inbox. But my door, and the 60-day guarantee, is always open.
 
 ---
 
@@ -126,14 +126,14 @@ P.S. If you ever want to talk it through, hit reply. You'll get me, not a bot. N
 | Signal-timing gap mechanism | GIULIANO-DEMANDS.md §8.4 (Word Choice Catalog), 15-level-messaging-matrix §2.2 L1 formula |
 | Nicholson et al. 2019, interoception accuracy | GIULIANO-DEMANDS.md §9.5, 03-science-library.md PP-A01 |
 | "Not defiance, signal arrives too late" | 11-brand-voice-reference.md §6.3 (L1-C approved), Layer-09 §5.4 L1-C |
-| "Hypo-responsive brain", neurological language | 15-level-messaging-matrix §1 (Science Density: L1 = Medium-Low) |
+| "Nervous system that processes signals more slowly", plain-language science | 15-level-messaging-matrix §1 (Science Density: L1 = Medium-Low) |
 | Body-Signal Learning Layer 30-60 sec sensation | 2-full-email-copy-strategy.md §1.1 (Welcome E3 mechanism), 03-science-library.md |
 | "60 days. By your judgment.", core CTA language | GIULIANO-DEMANDS.md §19.1, 11-brand-voice-reference.md §7.1 |
 | "Your judgment", guarantee framing | 11-brand-voice-reference.md §4 (V8, 60-day guarantee, never 30) |
 | 3+3 Bundle $79.99, L1 default offer | GIULIANO-DEMANDS.md §6 (Offer Rules by Level), 15-level-messaging-matrix §2.12 |
 | Free shipping with bundle | 15-level-messaging-matrix §2.12 (Brand Constants) |
 | Footstep of awareness, L1 mini-win definition | GIULIANO-DEMANDS.md §4 R6 (Low-Bar Success Metrics) |
-| "This my last email", winback E3 strategy | 2-full-email-copy-strategy.md §1.21 (Winback B-E3) |
+| "This is my last email", winback E3 strategy | 2-full-email-copy-strategy.md §1.21 (Winback B-E3) |
 | Sign-off "With care," for winback/emails 6+ | GIULIANO-DEMANDS.md §11.7, 11-brand-voice-reference.md §8.4 |
 | Lena LONG sign-off variant | GIULIANO-DEMANDS.md §7.3 (Long variant for Cart Recovery, Last Day) |
 | Physical address footer requirement | GIULIANO-DEMANDS.md §11.1 |
@@ -197,7 +197,7 @@ For L1 (Sarah, Pre-K parent), the emotional core is: *You're running out of time
 │ ┌─ MAIN CONTENT AREA (single card) ─────────────────────────┐ │
 │ │ │ │
 │ │ ┌── HERO HEADER ──────────────────────────────────────┐ │ │
-│ │ │ Subject: "Pre-K is coming, this my last email" │ │ │
+│ │ │ Subject: "Pre-K starts in [X] weeks." │ │ │
 │ │ │ │ │ │
 │ │ │ [Lena greeting: "Hi {first_name},"] │ │ │
 │ │ └──────────────────────────────────────────────────────┘ │ │
@@ -231,7 +231,7 @@ For L1 (Sarah, Pre-K parent), the emotional core is: *You're running out of time
 │ │ ▼ Section 5 ───────┼─────────────────────────────────┐ │ │
 │ │ │ PERMISSION CLOSE │ "If today isn't the day, │ │ │
 │ │ │ (2-3 sentences) │ that's a real answer." │ │ │
-│ │ │ │ "This my last email." │ │ │
+│ │ │ │ "This is my last email." │ │ │
 │ │ └────────────────────┼──────────────────────────────────┘ │ │
 │ │ │ │ │
 │ │ ┌── CTA BUTTON ─────────────────────────────────────────┐ │ │
@@ -400,9 +400,9 @@ Above the footer, a small icon (UTF-8 doorway character ⛩ or simple doorway li
 
 The green dot (Today) at the bottom has no visible number, but **on desktop hover**, a tooltip appears: "Day 74, Door's still open." On mobile (no hover), the tooltip appears as a small text annotation below the dot, set in 11px Gray, that shows on a 2-second CSS animation delay ("Door's still open").
 
-**Why it matters:** The 74 is never mentioned in the email text, it's a quiet signal that we've been counting the days, but not in a creepy way. It reframes "74 days since you signed up and haven't bought" as "74 days of us leaving the door open." This the emotional reframe from surveillance to persistence.
+**Why it matters:** The 74 is never mentioned in the email text, it's a quiet signal that we've been counting the days, but not in a creepy way. It reframes "74 days since you signed up and haven't bought" as "74 days of us leaving the door open." This is the emotional reframe from surveillance to persistence.
 
-**Deeper layer, The 97th Parent reference:** If the user inspects the HTML source, the green dot's ID is `#dot-97`, a reference to verbatim quote #97 from the customer language bank: **"He went today! Once! But he went!"** (DOC2-LEVEL1.txt, line ~508, 05-customer-language-bank.md §A7). This the smallest micro-win possible, and it's the same win this email is offering: just one moment of awareness.
+**Deeper layer, The 97th Parent reference:** If the user inspects the HTML source, the green dot's ID is `#dot-97`, a reference to verbatim quote #97 from the customer language bank: **"He went today! Once! But he went!"** (DOC2-LEVEL1.txt, line ~508, 05-customer-language-bank.md §A7). This is the smallest micro-win possible, and it's the same win this email is offering: just one moment of awareness.
 
 **L1-specific:** The easter egg uses the yellow glow (#F5C84B) on the final dot, L1's "brighter accent", which appears on the dot's pulse animation once every 8 seconds (a subtle CSS keyframe pulse). In the L3 version, this pulse would be eliminated entirely (ZERO urgency). In L2, it would pulse every 12 seconds at 50% opacity.
 
@@ -450,7 +450,7 @@ The green dot (Today) at the bottom has no visible number, but **on desktop hove
 | **Spacing Calibration** | Tighter (40px section gap vs 48-64px default) | Task constraint, L1 speed scanning | L2: Standard (48px); L3: Spacious (56px) |
 | **Color Brightness** | Brighter, Yellow #F5C84B accents prominent | Task constraint, L1 brighter accents | L2: Muted Mint; L3: Cream/Mint only, no yellow |
 | **CTA Button Size** | Larger, 52px height (above 48px standard) | Task constraint, L1 larger CTAs | L2: 48px; L3: 44px (smaller = less pressure) |
-| **Deadline Framing** | Present in subject + body, "Pre-K is coming" | 15-level-messaging-matrix §2.1 (L1 Pre-K driven) | L2: Forbidden ("Pre-K is coming"); L3: Forbidden (ZERO urgency) |
+| **Calendar Framing** | Present in subject + body, "Pre-K starts in [X] weeks" | 15-level-messaging-matrix §2.1 (L1 Pre-K driven, observational only) | L2: Forbidden; L3: Forbidden (ZERO urgency) |
 
 **Forbidden Language Verification (checked against L1 Heat Map per 15-level-messaging-matrix §2.9):**
 
@@ -478,8 +478,8 @@ The green dot (Today) at the bottom has no visible number, but **on desktop hove
 
 | Phrase | Location | Source |
 |--------|----------|--------|
-| "Pre-K is coming" ✅ | Subject line + body section 1 | 15-level-messaging-matrix §2.3 |
-| "Almost trained" ✅ | Body section 1 (implied: "was going to click") | Layer-04 §3.12 |
+| "Pre-K starts in [X] weeks" ✅ | Subject line + body section 1 (observational, not pressured) | 15-level-messaging-matrix §2.3 |
+| "Almost trained" ✅ | Body section 1 (implied: did not feel like the right fit) | Layer-04 §3.12 |
 | "Signal-timing gap" ✅ | Mechanism section | 11-brand-voice-reference §8.1 |
 | "He gets it but doesn't get it" ✅ (paraphrased) | Body section 2 | Layer-04 §3.1 (L1 marker) |
 | "60 days. By your judgment." ✅ | CTA + Guarantee block | GIULIANO-DEMANDS.md §6 (Lever 3) |
@@ -491,8 +491,8 @@ The green dot (Today) at the bottom has no visible number, but **on desktop hove
 
 | S2 Strategy Element | Present in Final Copy? | Verification |
 |---------------------|----------------------|--------------|
-| Soft final invitation | ✅ Body section 5: "This my last email" | Matches §1.21 E3 strategy |
-| "This my last email" | ✅ Body section 5 | Verbatim from S2 |
+| Soft final invitation | ✅ Body section 5: "This is my last email" | Matches §1.21 E3 strategy |
+| "This is my last email" | ✅ Body section 5 | Verbatim from S2 |
 | "If you're ever ready, the product is here" | ✅ Body section 5: "The product will be here next month. Next year. Whenever you're ready." | Expanded with warmth for L1 |
 | No guilt | ✅ Validation block: "It's okay if this wasn't the right time" | Verified |
 | Permission-not-to-buy | ✅ "If today isn't the day, that's a real answer" | Verified |
@@ -531,7 +531,7 @@ Body shape (locked-profile): Shape A (Classic Hero-to-CTA
 Word count: ~600 (medium-short)
 =================================================================
 
-SUBJECT: Pre-K is coming. Whenever you're ready — or not.
+SUBJECT: Pre-K starts in [X] weeks.
 PREHEADER: The door's open whenever you are. If that's
            today or never, you've got my respect either
            way.
@@ -569,11 +569,11 @@ INTENT: warm cream #FBF7EB background; opening at 18px
         opens with Lena's directness frame ("I want to
         be direct with you."); the L1 time-elapsed
         paragraph follows ("You signed up {X} weeks ago.
-        Pre-K is coming, I know that deadline is real,
-        and I know you've been thinking about it. I
-        also know that if Body-Signal learning was going
-        to click for your family, it probably would
-        have by now."); closes with the L1 permission
+        Pre-K starts in [X] weeks, I know that deadline
+        is real, and I know you've been thinking about
+        it. If Body-Signal learning didn't feel like
+        the right fit, we understand. The door stays
+        open."); the permission-not-to-buy paragraph
         anchor in bold #222222: "It's okay if this
         wasn't the right time."
 EXAMPLE_PICK: text-only block; the "it's okay if this
@@ -635,14 +635,15 @@ INTENT: full-width block on light mint #DBFFCD background;
         milliseconds too late, every time. Interoception
         research from Nicholson et al. (2019) shows this
         is a measurable neurological difference in
-        autistic children, not a parenting failure, not
+        autistic children. The signal arrives when it
         a child refusing to cooperate."); the closing
         sentence on the BSL mechanism ("The Body-Signal
         Learning Layer creates a 30-60 second sustained
         'uh-oh' sensation that bridges that gap. It gives
-        a slow to pick up signals brain the feedback
-        window it needs to finally register: something
-        happened.") in 16px regular #444444
+        a nervous system that processes signals more
+        slowly the feedback window it needs to finally
+        register: something happened.") in 16px regular
+        #444444
 EXAMPLE_PICK: text-only mechanism block on mint tint;
               the Nicholson 2019 citation appears
               inline italic + parenthetical year,
@@ -834,9 +835,9 @@ STRUCTURAL_INTENT (9 dimensions):
   message — Lena LONG sign-off is the closing trust
   anchor)
 - Subject line type: Pre-K calendar + door-closing
-  permission hybrid ("Pre-K is coming. Whenever you're
-  ready — or not." — L1-specific; the "or not" closing
-  is the explicit permission signal)
+  permission hybrid ("Pre-K starts in [X] weeks." —
+  L1-specific; observational anchor with explicit
+  permission-not-to-buy in the body and sign-off)
 
 =================================================================
 VARIANCE_CHECK:

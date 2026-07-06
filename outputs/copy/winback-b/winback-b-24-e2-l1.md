@@ -47,7 +47,7 @@ Here's something we haven't told you yet: a 2025 review of 49 scientific studies
 
 The real reason you haven't bought yet isn't the price. It's not the shipping. It's the hope-fear: "What if I get my hopes up and it doesn't work?"
 
-I get that. Both my sons went through multiple failed methods before we found what worked. One trained at 6. The other was almost 8. I know what it feels like to want something to work so badly that you're almost afraid to try.
+I get that. Both my sons went through multiple failed methods before we found what worked. One trained at 6. The other was almost 8. I know what it feels like to want something to work and to take your time getting there.
 
 Here's what the new research reinforces: the problem isn't that you haven't tried hard enough or that your child is being stubborn. The problem is that standard potty training methods assume the child can feel the "I need to go" signal. BrightKidCo's Body-Signal Learning Layer doesn't train behavior, it gives the brainformation it's been missing. A gentle sensation that lasts that lasts 30-60 seconds, long enough for a nervous system that processes internal signals differently to register: "Something happened."
 

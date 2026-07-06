@@ -149,7 +149,7 @@ When you're ready for Week 2, I'll be here.
 
 ### LENA SIGN-OFF (Medium)
 
-With understanding,
+Talk soon,
 
 Lena ——
 Customer Support · Mom of two autistic sons

@@ -26,16 +26,16 @@
 
 ### SUBJECT LINE (12 chars)
 
-**Last call: 3+3 pricing**
+**The 3+3 pricing (whenever you're ready)**
 
 *Type: Permission frame (Formula 4)*
-*Rationale: Under 50 chars. Names the offer without urgency manipulation. The word "last" signals time sensitivity without using fake scarcity.*
+*Rationale: Under 50 chars. Names the offer without urgency manipulation. The phrase "whenever you're ready" signals permission-not-to-buy without using fake scarcity.*
 *
 ---
 
 ### PREVIEW TEXT
 
-**Your 1 pair has been working for 30 days. If you've been thinking about more, here's the bundle pricing before it shifts.**
+**Your 1 pair has been working for 30 days. If you've been thinking about more, here's a note on the bundle pricing as you decide.**
 
 *Rationale: Sets context (30 days of use). Offers practical framing. Avoids FOMO language. Cross-level safe, L3 receives no urgency pressure from this phrasing.*
 *
@@ -100,11 +100,11 @@ If any of these sound like your child, maybe not fully there yet, maybe differen
 
 **Permission, No Pressure, Just Information**
 
-The 3+3 Bundle is available at the introductory bundle pricing right now. After today, that pricing shifts to the standard 3+3 offer.
+The 3+3 Bundle is available at the introductory bundle pricing as you decide. Whenever you're ready, that pricing moves to the standard 3+3 offer.
 
 $79.99, 6 pairs, free shipping, 62% savings per pair compared to buying 1 pair at a time.
 
-No rush. No pressure. If 1 pair is working for your rhythm, keep going. If you want the consistency of a rotation, the pricing is here today.
+No rush. No pressure. If 1 pair is working for your rhythm, keep going. If you want the consistency of a rotation, the pricing is here whenever you're ready.
 
 Either way, 60 days, your judgment. If it doesn't work for your child, full refund.
 
@@ -153,7 +153,7 @@ BrightKidCo · [Address] · [Unsubscribe]
 | Element | Source |
 |---------|--------|
 | Flow spec (Flow 15, D30, 1-pair → 3+3 upsell) | 1-full-email-strategy.md §Flow 15 |
-| E3 strategy ("Last call on 3+3 pricing") | 2-full-email-copy-strategy.md §1.14 |
+| E3 strategy ("The 3+3 pricing, whenever you're ready") | 2-full-email-copy-strategy.md §1.14 |
 | Offer pricing (1 Pair $34.99, 3+3 $79.99, 62% savings) | 1-full-email-strategy.md §13.1 |
 | R1 — Symptom Over Label | Layer-18-cross-level-calibration.md §R1 |
 | R2 — 3-5 Recognition Anchors | Layer-18-cross-level-calibration.md §R2 |
@@ -318,7 +318,7 @@ The core insight: 1 pair works as a trial but creates a learning interruption ev
 | **Image off by default** | The rotation visual GIF must be supplementary — all key information (testimonials, offer, CTA) renders as text. Use `alt` text: "3-pair rotation cycle — always a clean pair ready." |
 | **Accessibility** | Minimum 4.5:1 contrast ratio on all text. CTA buttons have visible focus states. No information conveyed through color alone. Testimonial accent bar is decorative (aria-hidden). |
 | **Spam score mitigation** | No all-caps subject. No exclamation marks. No "FREE!!!" or "ACT NOW." Single image (if any). Plain text-to-link ratio healthy (>60% text). |
-| **Replenish B/C consistency** | This E3 tone (practical, rotation-focused, permission-based) maintains consistency with the broader Replenishment A voice established in E1-E2 while escalating the "last call" signal naturally. |
+| **Replenish B/C consistency** | This E3 tone (practical, rotation-focused, permission-based) maintains consistency with the broader Replenishment A voice established in E1-E2 while escalating the milestone naturally, without urgency. |
  Consolidated design skills §Color (dark mode); 11-brand-voice-reference.md §6 Forbidden Phrases; email deliverability best practices per Layer-20-Deliverability.md
 
 ---
@@ -326,7 +326,7 @@ The core insight: 1 pair works as a trial but creates a learning interruption ev
 ## WIREFRAME — built 2026-06-28 by subagent-replenish
 
 > **Vertical stack only. No two-column. ROLE names only. R1-R6 cross-level calibrated.**
-> **Replenishment A E3 (Flow 15, Cross-Level, 1-pair buyer, Day 30) — "Last Call"**
+> **Replenishment A E3 (Flow 15, Cross-Level, 1-pair buyer, Day 30) — "Permission Frame"**
 
 ```
 ============================================================
@@ -347,10 +347,10 @@ The core insight: 1 pair works as a trial but creates a learning interruption ev
 ============================================================
 
 [ROLE: SUBJECT + PREVIEW BLOCK]
-[SUBJECT: Last call: 3+3 pricing (21ch)]
+[SUBJECT: The 3+3 pricing (whenever you're ready)]
 [PREVIEW: Your 1 pair has been working for 30 days. If
- you've been thinking about more, here's the bundle pricing
- before it shifts.]
+ you've been thinking about more, here's a note on the
+ bundle pricing as you decide.]
 
 ============================================================
 
@@ -482,8 +482,8 @@ like."
 
 [Body paragraph]
 "The 3+3 Bundle is available at the introductory bundle
-pricing right now. After today, that pricing shifts to the
-standard 3+3 offer."
+pricing as you decide. Whenever you're ready, that pricing
+moves to the standard 3+3 offer."
 
 [Price block, lightly tinted #F8F6F3]
 "$79.99, 6 pairs, free shipping, 62% savings per pair
@@ -492,7 +492,7 @@ compared to buying 1 pair at a time."
 [Closing permission line]
 "No rush. No pressure. If 1 pair is working for your rhythm,
 keep going. If you want the consistency of a rotation, the
-pricing is here today."
+pricing is here whenever you're ready."
 
 [Guarantee anchor line]
 "Either way, 60 days, your judgment. If it doesn't work for
@@ -600,11 +600,11 @@ BrightKidCo · [Address] · [Unsubscribe]
 ### REPLENISHMENT SPECIFIC NOTES
 
 - **Leverages existing customer relationship**: "I bought 1 pair first too" — peer-mom Lena self-disclosure
-- **Last-call tone WITHOUT fake scarcity**: pricing genuinely shifts today, but no countdown timer or urgency
+- **Permission-frame tone WITHOUT fake scarcity**: pricing moves at some point, but no countdown timer or urgency
 - Sign-off variant progression: E1 "Talk soon," → E2 "Talk soon," → E3 "With understanding," (per brand-wide sign-off progression E6+)
 - Dual CTA respects L3 (soft secondary) without pressuring
 - 60-day guarantee reinforced at permission block
-- Subject line "Last call: 3+3 pricing" — Permission frame per §2.4 formula 4 (under 50ch, no exclamation, no countdown)
+- Subject line "The 3+3 pricing (whenever you're ready)" — Permission frame per §2.4 formula 4 (under 50ch, no exclamation, no countdown)
 - Hope/Realism: balanced 50/50 for cross-level — neither cheerleading nor despair |
 
 ---
@@ -612,15 +612,15 @@ BrightKidCo · [Address] · [Unsubscribe]
 
 ## STAGE 2 PICKS — repa-15-e3
 
-**GF cross-level calibration (R1-R6):** Day-30 1-pair buyer "last call" framing, but rendered as gentle permission (no urgency manipulation). R3 (age 3-10+) + R4 (verbal/non-verbal parity) + R5 (timeline flexibility, 2-8 weeks) + R6 (low-bar success metrics: pause, look, pull, walk differently). Image count target: 4-6. Component count target: 4-8. Hero UNIQUE to this email.
+**GF cross-level calibration (R1-R6):** Day-30 1-pair buyer permission frame, rendered as gentle permission (no urgency manipulation). R3 (age 3-10+) + R4 (verbal/non-verbal parity) + R5 (timeline flexibility, 2-8 weeks) + R6 (low-bar success metrics: pause, look, pull, walk differently). Image count target: 4-6. Component count target: 4-8. Hero UNIQUE to this email.
 
 ### Section 1: HERO IMAGE BAND — 3-pair rotation cycle (HERO)
 - ROLE slot: hero-rotation-cycle-no-kids (line-art or 3-pair-in-circle motif)
-- INTENT: "Last call, but framed as permission" — 30-day milestone anchor; visual is a soft rhythm/rotation diagram (no stock photos of children).
+- INTENT: "Permission frame, not pressure" — 30-day milestone anchor; visual is a soft rhythm/rotation diagram (no stock photos of children).
 - COMPONENT PICKED: HERO-19 (Timeline Shock)
   - Catalog entry: position=hero, audience=L1/L2/L3/GF, temp=warm, image_support=text_only
   - Current usage: 0/8 (UNIQUE — fresh)
-  - WHY: "Timeline Shock" is built around day-count milestones (Day 30 == perfect lock-in); reframes "last call" as a 30-day measurement moment rather than urgency.
+  - WHY: "Timeline Shock" is built around day-count milestones (Day 30 == perfect lock-in); reframes the day-count as a 30-day measurement moment rather than urgency.
 - IMAGE PICKED: flat-lay/laundry-bag-llama-cream.png
   - Alt text: A cream llama-print laundry bag on a neutral surface, calm and homey.
   - Current usage: 1/25

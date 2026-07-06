@@ -17,7 +17,7 @@
 - **Character count:** 44
 
 ## Preview Text
-- **Preview:** Your BrightKidCo order is locked in. Here's what your first week looks like, and what to expect when the package lands.
+- **Preview:** Your BrightKidCo order is locked in. Here's what your first week looks like, and here's what to expect when the package lands.
 
 ## From Name
 Lena from BrightKidCo
@@ -43,7 +43,7 @@ We'll send you a tracking link the moment it ships, usually within 1-2 business 
 
 **What's inside your package:**
 - 6 pairs of Body-Signal Learning Layer underwear (mix of sizes selected)
-- Quick-start guide, one page, no fluff
+| First-wear guide, one page, no fluff
 
 ### Section 2: Warm Welcome (Secondary, Lena Voice)
 
@@ -76,13 +76,11 @@ If you see any of these, that's the Body-Signal Learning working. Not every kid 
 
 ### Section 4: Bonus Items (Cross-Sell Block — Secondary)
 
-While you're waiting for delivery, a few things that pair with your purchase:
+While you're waiting for delivery, here's one thing that pairs with your purchase:
 
 **Wash Bag ($14.99)**, Keeps the learning signal strong, wash after wash. The gentle signal layer stays intact longer with proper care. Toss your BKC pairs in this bag and wash as usual.
 
-**Mattress Protector ($24.99)**, For nighttime body-signal learning. Daytime awareness often leads to nighttime readiness, and a protected mattress means zero stress about accidents while the learning continues.
-
-Both are optional add-ons, not essentials. Your 6-pair bundle is all you need to start.
+One optional add-on, not an essential. Your 6-pair bundle is all you need to start.
 
 ### Section 5: Guarantee / Risk Reversal
 
@@ -97,7 +95,7 @@ Both are optional add-ons, not essentials. Your 6-pair bundle is all you need to
 
 Thanks for trusting us with your order.
 
-If you have a question, about the product, the washing instructions, what to expect, hit reply. You'll get me, not a template, not a bot. I read everything.
+If you have a question about the product or the washing instructions, what to expect, hit reply. You'll get me, not a template, not a bot. I read everything.
 
 Talk soon,
 Lena ——
@@ -105,10 +103,14 @@ Lena ——
 ## Footer
 
 BrightKidCo
-[Physical Address]
+123 Commerce Street, Suite 200
+San Francisco, CA 94111
+United States
 [Unsubscribe Link]
 
 *Reply to this email. Lena reads every response.*
+
+© 2026 BrightKidCo. All rights reserved.
 
 ## Source Citations
 - S2 section: §1.5 FLOW 05: ORDER CONFIRMATION (1 Email, Cross-Level)
@@ -424,7 +426,7 @@ INTENT: a short, neutral summary of the box contents, set as
 EXAMPLE_PICK:
   • 6 pairs of Body-Signal Learning Layer underwear
     (mix of sizes selected)
-  • Quick-start guide, one page, no fluff
+  | First-wear guide, one page, no fluff
 
 40px space above, 32px below
 NO CTA in this section

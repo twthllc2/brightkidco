@@ -109,7 +109,7 @@ Keep tracking. Keep the underwear on. The body signal pathway builds in quiet, m
 
 If today isn't right, if the tracking feels overwhelming, if you need a break, that's a real answer. The product will be here. So will I.
 
-With understanding,
+With care,
 
 Lena ——
 

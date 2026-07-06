@@ -140,7 +140,7 @@ I know what it's like to see another email arrive in your inbox promising a solu
 
 If you're reading this and thinking, "This another letdown", I understand. Every product promises. Every method disappoints. That's not cynicism; that's experience. You've earned that skepticism, and I would never ask you to set it aside.
 
-The difference here isn't a better promise. It's a different mechanism. The body-signal underwear doesn't ask your child to feel what they can't feel. It doesn't ask you to try harder, be more consistent, or follow a stricter schedule. It gives your child's brainformation it's been missing. That's all. Whether their nervous system acts on that information, that's between them and biology.
+The difference here isn't a better promise. It's a different mechanism. The body-signal underwear doesn't ask your child to feel what they can't feel. It doesn't ask you to try harder, be more consistent, or follow a stricter schedule. It gives your child's brain the formation it's been missing. That's all. Whether their nervous system acts on that information, that's between them and biology.
 
 60 days. By your judgment. No pressure. No timeline. Just the signal.
 

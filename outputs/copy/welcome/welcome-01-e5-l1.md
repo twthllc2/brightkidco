@@ -173,7 +173,7 @@ See if the 3+3 Bundle closes the gap before Pre-K
 >
 > If you've got a question, hit reply. You'll get me, not a template, not a bot. I read everything.
 >
-> With care,
+> With understanding,
 > **Lena**
 
 ---

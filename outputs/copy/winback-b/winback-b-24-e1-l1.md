@@ -9,12 +9,12 @@
 - **Position:** E1, Day 60
 - **Level:** L1 (Sarah)
 - **Phase:** Phase 3
-- **Purpose as per S2:** Pre-K deadline reframe. "Remember your Pre-K deadline? The 3+3 Bundle is still here."
+- **Purpose as per S2:** Pre-K calendar reframe. "Pre-K starts in [X] weeks. The 3+3 Bundle is still here."
 - **Emotional Arc position:** Re-engagement, gentle urgency reminder after 60 days of no purchase. Re-anchor on the original motivation (Pre-K deadline) without shaming the delay.
 
 ## Subject Line
-- **Subject:** Remember your Pre-K deadline?
-- **Formula:** Question hook, opens with a question that mirrors her own internal clock
+- **Subject:** Pre-K starts in [X] weeks.
+- **Formula:** Observation hook, Pre-K calendar anchor (observational only)
 - **Character count:** 27
 
 ## Preview Text
@@ -28,7 +28,7 @@ Lena from BrightKidCo
 ## Email Body
 
 ### Section 1: Hook
-It's been two months since you signed up, and I wanted to check in, not to pressure you, but to remind you of something you already know. Pre-K starts in [X months]. And your child needs to be trained by then. I remember exactly what that timeline felt like. The countdown in your head. The knot in your stomach every time someone asks, "Is he ready for school yet?"
+It's been two months since you signed up, and I wanted to check in, not to pressure you, but to remind you of something you already know. Pre-K starts in [X months]. And your child needs to be trained by then. Many parents find themselves revisiting the question around this point. That's normal.
 
 ### Section 2: Validation
 You haven't failed by waiting. In fact, taking your time was probably the smartest thing you could have done. The methods you tried, Oh Crap, sticker charts, timer sits, those aren't built for a child whose nervous system processes body signals differently. They assume the "I need to go" feeling arrives on time. For many autistic children, that signal arrives too late or not at all. That's not your fault. That's not his fault. That's neurology. 
@@ -102,7 +102,7 @@ The email is structured like a calendar page that's been flipped forward, a cloc
 
 ### Layout Architecture
 - **Type:** Asymmetrical Bento variant, a left-aligned narrative column (70% width) with a right-side visual accent column (30% width) that serves as a timeline/calendar element
-- **Above the fold:** Subject line echoed as H1 "Remember your Pre-K deadline?" with a subtle clock icon (vector-drawn, no stock imagery). Preview text sits directly below as quiet body copy.
+- **Above the fold:** Subject line echoed as H1 "Pre-K starts in [X] weeks." with a subtle clock icon (vector-drawn, no stock imagery). Preview text sits directly below as quiet body copy.
 - **Main body:** Single-column narrative flow, Hook, Validation, Offer, Guarantee each separated by generous whitespace (32px between sections)
 - **Right accent column:** A vertical timeline element, 3 circle markers at Day 60 (current), [X months remaining], and Pre-K start date. The segment between Day 60 and Pre-K is filled with brand-green #039902, visually compressing as the deadline approaches.
 - **Mobile collapse:** Right timeline column drops below the narrative on mobile. Timeline becomes a horizontal progress bar above the CTA. Padding increases to 24px on all sides.
@@ -125,7 +125,7 @@ The email is structured like a calendar page that's been flipped forward, a cloc
 - **Level calibration for L1:** Brighter accent colors than L2/L3. The emerald is full saturation, not muted. The yellow is active, not pastel. This mirrors L1's 70/30 hope/realism split, the colors say "there's time, but not infinite time."
 
 ### Typography as Design
-- **Headline:** Questrial 400 at 28px/32px on desktop, 22px/26px on mobile. Wide tracking at +0.02em for readability. The word "deadline" appears in emerald #039902, the only colored word in the H1.
+- **Headline:** Questrial 400 at 28px/32px on desktop, 22px/26px on mobile. Wide tracking at +0.02em for readability. The Pre-K calendar anchor phrase is set in emerald #039902 — observational, not pressured.
 - **Section subheads:** Questrial 400 at 18px/22px. Sentence case. Letter-spacing normal. No bold.
 - **Body:** Helvetica Neue / Arial / sans-serif at 16px/24px on desktop, 15px/22px on mobile. 90% opacity dark gray. Never bold in body.
 - **CTA button:** Questrial 400 at 16px, all lowercase except first letter, letter-spacing +0.05em for clarity. 48px minimum height.
@@ -184,7 +184,7 @@ Body shape (locked-profile): Shape A (Classic Hero-to-CTA
 Word count: ~631 (medium-short)
 =================================================================
 
-SUBJECT: Remember your Pre-K deadline?
+SUBJECT: Pre-K starts in [X] weeks.
 PREHEADER: The 3+3 Bundle is still here. Same price.
            Same science. Same 60-day guarantee.
 

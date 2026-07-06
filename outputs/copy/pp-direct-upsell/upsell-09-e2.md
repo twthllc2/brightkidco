@@ -45,7 +45,7 @@ The BrightKidCo Mattress Protector ($24.99) is built the same way the underwear 
 
 ### Section 4: Social Proof / Wrap-Around
 
-"Wish I'd bought this with my first order instead of my third.", That's what an L2 mom told me after her second mattress protector purchase from a different brand. She'd bought ours a month after the underwear. She said the difference was night and day.
+"Wish I'd bought this with my first order instead of my third.", That's what an experienced mom told me after her second mattress protector purchase from a different brand. She'd bought ours a month after the underwear. She said the difference was night and day.
 
 Another parent, who has a 6-year-old still in the learning phase after years of trying, wrote to say she'd been through three mattress protectors from Amazon before trying ours. "This one actually stays put. Doesn't slide off the corner. And my kid doesn't fight bedtime anymore because it doesn't feel different from his sheet."
 

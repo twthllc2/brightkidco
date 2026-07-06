@@ -103,6 +103,8 @@ He was almost 8 before he registered wetness for the first time. Not trained. Ju
 
 If you have questions about how the BSL system works for a child who has never shown any awareness, hit reply. I read every message.
 
+With care,
+
 Lena ——
 Customer Support · Mom of two autistic sons
 

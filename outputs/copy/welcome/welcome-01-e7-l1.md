@@ -94,7 +94,7 @@ The **Body-Signal Learning Layer (BSL)** is designed for this specific problem. 
 > *"He stayed dry for 2 hours."*
 >, L1 parent 
 
-> *"We are now 90% peeing in the potty. Not magic overnight, but real progress. He notices when he's wet now. That never happened before."*
+> *"We are now 90% peeing in the potty. Not overnight, but real progress. He notices when he's wet now. That never happened before."*
 >, BKC customer 
 
 > *"He went today! Once! But he went!"*

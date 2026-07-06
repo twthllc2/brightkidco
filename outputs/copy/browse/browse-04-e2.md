@@ -211,7 +211,7 @@ Three parents. Three different kids. One common thread.
 *
 **Testimonial 3, Years of nothing, then something**
 
-> "My son is 9. Non-verbal. Uses AAC. In 9 years, he's never shown any awareness of being wet. We tried everything, OT, social stories, specialists. Nothing. I made peace with pull-ups forever. It's just where were.
+> "My son is 9. He can't tell me in words. In 9 years, he's never shown any awareness of being wet. We tried everything, OT, social stories, specialists. Nothing. I made peace with pull-ups forever. It's just where were.
 >
 > After a couple of months in Body-Signal underwear, he paused. He looked down at the wet spot. Then he walked toward the bathroom. Not trained. But feeling something for the first time. That pause was more than I'd seen in 9 years.
 >
@@ -226,7 +226,7 @@ Three parents. Three different kids. One common thread.
 
 The common thread across every one of these stories: every child was missing the body signal.
 
-Interoception is the body's ability to sense internal signals, hunger, thirst, bladder fullness. Research shows this works differently in many autistic children and kids who process signals differently (Barmpagiannis & Baldimtsi 2025, 49-study review).
+Interoception is the body's ability to sense internal signals, hunger, thirst, bladder fullness. Research shows this works differently in many kids whose nervous systems process signals differently (Barmpagiannis & Baldimtsi 2025, 49-study review).
 
 Standard methods assume the signal is there. If it's not, they can't work.
 
@@ -265,9 +265,9 @@ P.S. I have two autistic sons. One was 6, the other almost 8 before we figured t
 
 *If you're wondering whether your child's situation is specific enough for this product, here are three stories from parents who were asking the same question:*
 
-→ **If your child is verbal, under 5, and "almost trained" multiple times**, Sarah's story might sound familiar. [Read Sarah's full journey]
-→ **If your child has sensory issues around the bathroom and you've worked with a therapist or BCBA**, here's what Lisa learned. [Read Lisa's path]
-→ **If your child is 7+, non-verbal or high-support needs**, Maria's experience will tell you what to expect. [Read Maria's journey]
+→ **If your child is "almost trained" but it never sticks**, Sarah's story might sound familiar. [Read Sarah's full journey]
+→ **If bathroom smells, sounds, or textures feel like the problem**, here's what Lisa learned. [Read Lisa's path]
+→ **If your child is older and has never shown a sign**, Maria's experience will tell you what to expect. [Read Maria's journey]
 
 *Not sure where your child fits? That's okay. The general framework works for all kids whose nervous systems process signals differently.* [Keep reading the general guide]
 

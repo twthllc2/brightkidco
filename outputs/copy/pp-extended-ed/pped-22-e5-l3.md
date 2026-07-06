@@ -36,11 +36,11 @@ That kind of connection is rare. And it matters more than any product ever could
 
 ---
 
-We built a small community for L3 parents. Not a Facebook group with thousands of strangers. A quiet space, a private circle, where parents of kids with high support needs share what actually works.
+We built a small community for parents of kids with high support needs. Not a Facebook group with thousands of strangers. A quiet space, a private circle, where parents of kids with high support needs share what actually works.
 
 No success stories that make you feel behind. No "have you tried..." from people who don't understand. Just other parents who know what it means when your child doesn't register wetness, can't tell you what they need, and is growing bigger than the pull-up size chart goes.
 
-One mom shared a story recently, her son is 9, non-verbal, Level 3. She'd been trying the Body-Signal Learning Layer for 5 months. He's not trained. But for the first time in 9 years, he paused. He looked down at the wet spot. He felt something.
+One mom shared a story recently, her son is 9, who has never shown a sign. She'd been trying the Body-Signal Learning Layer for 5 months. He's not trained. But for the first time in 9 years, he paused. He looked down at the wet spot. He felt something.
 
 She said: *"That moment isn't training. But it's the first time his body told his brain something. I don't know if he'll ever be fully trained. But he's communicating with himself now in a way he never did before."*
 
