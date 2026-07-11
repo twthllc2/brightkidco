@@ -1,0 +1,536 @@
+/* Browse Abandonment · GF Cross-Level · 3 Emails
+   Uses shared primitives from primitives.jsx.
+   Each email: Header → FramedImage → TitleBlock → Letter → sections → CTAClose → Signoff → Footer
+*/
+
+/* ═════════════════════════════════════════════════════
+   EMAIL 1 — The Signal (30 min)
+   Education-first. No product. Softest CTA.
+   ═════════════════════════════════════════════════════ */
+const BrowseE1 = () => {
+  const c = window.BROWSE.e1;
+  const s = window.BROWSE_SHARED.signoff.SHORT;
+  const BG_HERO = "#FFFBF0";
+  const BG_LETTER = "#FFF6E2";
+  const BG_ANCHORS = "#FFFFFF";
+  const BG_VALIDATION = "#FAF7F0";
+  const BG_MECHANISM = "#EAF6F2";
+  const BG_TESTIMONIAL = "#FFF6E2";
+  const BG_CTA = B.ink;
+
+  return (
+    <EmailShell preheader={c.preheader} bg={BG_HERO}>
+      <Header bg={BG_HERO} />
+
+      {/* Hero image — diagram style */}
+      <div style={{ margin: "24px 14px 0" }}>
+        <FramedImage
+          height={200}
+          label={c.heroImageLabel}
+          sublabel={c.heroImageSublabel}
+          shadow={6}
+        />
+      </div>
+
+      <TitleBlock badge={c.heroBadge} part1={c.h1a} part2={c.h1b} />
+
+      <Band from={BG_HERO} to={BG_LETTER} />
+
+      {/* Opener: Whether...Or...If... */}
+      <Letter bg={BG_LETTER} first="" paras={c.letterOpening} />
+
+      <Band from={BG_LETTER} to={BG_ANCHORS} />
+
+      {/* Recognition anchors / bullet list */}
+      <div style={{ background: BG_ANCHORS, padding: "24px 22px 16px" }}>
+        <Eyebrow>You might see some of these in your house:</Eyebrow>
+        <div style={{ marginTop: 12 }}>
+          {c.anchors.map((a, i) => (
+            <div key={i} style={{
+              display: "flex", gap: 12, marginBottom: 14,
+              fontSize: 14.5, lineHeight: 1.55, color: B.soft,
+            }}>
+              <span style={{ color: B.teal, fontSize: 18, flexShrink: 0, marginTop: 1 }}>•</span>
+              <span>{a}</span>
+            </div>
+          ))}
+        </div>
+        <p style={{ fontSize: 15, fontWeight: 600, color: B.ink, margin: "16px 0 0", fontStyle: "italic" }}>
+          {c.bridgeLine}
+        </p>
+      </div>
+
+      <Band from={BG_ANCHORS} to={BG_VALIDATION} />
+
+      {/* Validation — methods couldn't work */}
+      <div style={{ background: BG_VALIDATION, padding: "28px 22px 22px" }}>
+        <Eyebrow>{c.validationLabel}</Eyebrow>
+        {c.validationBody.split("\n\n").map((p, i) => (
+          <p key={i} style={{
+            fontSize: i === 2 ? 16 : 14.5, lineHeight: 1.65,
+            color: i === 2 ? B.ink : B.soft,
+            fontWeight: i === 2 ? 700 : 400,
+            margin: "0 0 10px",
+          }}>{p}</p>
+        ))}
+      </div>
+
+      <Band from={BG_VALIDATION} to={BG_MECHANISM} />
+
+      {/* Mechanism — interoception */}
+      <div style={{ background: BG_MECHANISM, padding: "28px 22px 22px" }}>
+        <Eyebrow>{c.mechanismLabel}</Eyebrow>
+        <H2>
+          <span style={{ ...B.gradientText, fontWeight: 700 }}>{c.mechanismAccent}</span>
+        </H2>
+        {c.mechanismBody.split("\n\n").map((p, i) => (
+          <p key={i} style={{
+            fontSize: i === 1 ? 16 : 14.5, lineHeight: 1.65,
+            color: i === 1 ? B.ink : B.soft,
+            fontWeight: i === 1 ? 700 : 400,
+            margin: "0 0 10px",
+          }}>{p}</p>
+        ))}
+      </div>
+
+      <Band from={BG_MECHANISM} to={BG_TESTIMONIAL} />
+
+      {/* Three-Family Pattern — brief */}
+      <div style={{ background: BG_TESTIMONIAL, padding: "24px 14px 20px" }}>
+        <p style={{ fontSize: 13, fontWeight: 700, letterSpacing: 1.2, textTransform: "uppercase", color: B.tealDeep, margin: "0 8px 16px" }}>
+          {c.testimonialLabel}
+        </p>
+        {c.testimonials.map((t, i) => (
+          <div key={i} style={{
+            marginBottom: 12, background: "#FFFFFF", borderRadius: 14,
+            overflow: "hidden", border: `2px solid ${B.ink}`,
+            boxShadow: `3px 3px 0 ${B.ink}`,
+            padding: "16px 18px",
+          }}>
+            <div style={{ fontSize: 36, lineHeight: 0.8, color: "#D4A853", fontWeight: 700, marginBottom: 6 }}>{"\""}</div>
+            <p style={{ fontSize: 14, lineHeight: 1.55, color: B.soft, margin: "0 0 8px", fontStyle: "italic" }}>
+              {t.quote}
+            </p>
+            <div style={{ fontSize: 12, color: B.muted, fontWeight: 600 }}>— {t.name}, {t.child}</div>
+          </div>
+        ))}
+        <p style={{ fontSize: 14.5, lineHeight: 1.65, color: B.ink, fontWeight: 600, margin: "16px 8px 0" }}>
+          {c.testimonialClosing}
+        </p>
+      </div>
+
+      <Band from={BG_TESTIMONIAL} to={BG_CTA} height={50} />
+
+      {/* Permission + Soft CTA */}
+      <CTAClose
+        intro={c.permissionBody}
+        button={c.ctaButton}
+        fine={c.ctaFinePrint}
+      />
+
+      {/* Signoff SHORT */}
+      <div style={{ background: B.ink, padding: "0 22px 36px" }}>
+        <div style={{
+          background: "#1F2A2C", border: "1.5px solid #2F3D40",
+          borderRadius: 22, padding: "26px 24px 24px", position: "relative",
+        }}>
+          <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 4, background: B.gradient, opacity: 0.9 }} />
+          <div style={{ fontSize: 14, color: "#B8CACD", lineHeight: 1.65, marginBottom: 14 }}>
+            {s.greeting}
+          </div>
+          <div style={{
+            fontFamily: "'Caveat', cursive", fontSize: 42, lineHeight: 0.95,
+            fontWeight: 500, color: "#D8F57C", letterSpacing: -0.5, marginBottom: 4,
+          }}>
+            {s.name}
+          </div>
+          <div style={{ fontSize: 12, color: "#8FAFB2", fontStyle: "italic", marginBottom: 16 }}>
+            {s.role}
+          </div>
+          <div style={{ fontSize: 13, lineHeight: 1.65, color: "#B8CACD", fontStyle: "italic", borderTop: "1.5px dashed #3A4547", paddingTop: 14 }}>
+            <span style={{ color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 }}>P.S.</span>
+            {s.ps.replace(/^P\.S\.\s*/, "")}
+          </div>
+        </div>
+      </div>
+
+      <OutLine />
+      <Footer />
+    </EmailShell>
+  );
+};
+
+/* ═════════════════════════════════════════════════════
+   EMAIL 2 — Three Parents (24h)
+   Social proof pivot. Full Three-Family Pattern.
+   ═════════════════════════════════════════════════════ */
+const BrowseE2 = () => {
+  const c = window.BROWSE.e2;
+  const s = window.BROWSE_SHARED.signoff.MEDIUM;
+  const BG_HERO = "#FFFBF0";
+  const BG_LETTER = "#FFF6E2";
+  const BG_ANCHORS = "#FFFFFF";
+  const BG_TESTIMONIAL = "#FAF7F0";
+  const BG_MECHANISM = "#EAF6F2";
+  const BG_CTA = B.ink;
+
+  return (
+    <EmailShell preheader={c.preheader} bg={BG_HERO}>
+      <Header bg={BG_HERO} />
+
+      {/* Hero — lifestyle */}
+      <div style={{ margin: "24px 14px 0" }}>
+        <FramedImage
+          height={200}
+          label={c.heroImageLabel}
+          sublabel={c.heroImageSublabel}
+          shadow={6}
+        />
+      </div>
+
+      <TitleBlock badge={c.heroBadge} part1={c.h1a} part2={c.h1b} subhead={c.subhead} />
+
+      <Band from={BG_HERO} to={BG_LETTER} />
+
+      {/* Opener + anchors */}
+      <Letter bg={BG_LETTER} first="" paras={[c.openerBody]} />
+
+      <Band from={BG_LETTER} to={BG_ANCHORS} />
+
+      <div style={{ background: BG_ANCHORS, padding: "24px 22px 16px" }}>
+        <div style={{ marginTop: 12 }}>
+          {c.openerAnchors.map((a, i) => (
+            <div key={i} style={{
+              display: "flex", gap: 12, marginBottom: 14,
+              fontSize: 14.5, lineHeight: 1.55, color: B.soft,
+            }}>
+              <span style={{ color: B.teal, fontSize: 18, flexShrink: 0, marginTop: 1 }}>•</span>
+              <span>{a}</span>
+            </div>
+          ))}
+        </div>
+        <p style={{ fontSize: 15, fontWeight: 600, color: B.ink, margin: "16px 0 0", fontStyle: "italic" }}>
+          {c.openerBridge}
+        </p>
+      </div>
+
+      <Band from={BG_ANCHORS} to={BG_TESTIMONIAL} />
+
+      {/* Three-Family Testimonial — FULL depth */}
+      <div style={{ background: BG_TESTIMONIAL, padding: "24px 14px 20px" }}>
+        <div style={{ padding: "0 8px", marginBottom: 18 }}>
+          <Eyebrow>{c.testimonialLabel}</Eyebrow>
+        </div>
+        {c.testimonials.map((t, i) => {
+          const golds = ["#FFD866", "#E8D44D", "#D4A853"];
+          return (
+            <div key={i} style={{
+              marginBottom: 16, background: "#FFFFFF", borderRadius: 16,
+              overflow: "hidden", border: `2px solid ${B.ink}`,
+              boxShadow: `3px 3px 0 ${B.ink}`,
+            }}>
+              <div style={{
+                padding: "10px 18px", background: golds[i],
+                borderBottom: `2px solid ${B.ink}`,
+                fontSize: 12.5, fontWeight: 700, color: B.ink, letterSpacing: 0.3,
+              }}>
+                {t.title}
+              </div>
+              <div style={{ padding: "18px 18px 16px" }}>
+                <div style={{ fontSize: 36, lineHeight: 0.8, color: "#D4A853", fontWeight: 700, marginBottom: 6 }}>{"\""}</div>
+                {t.quote.split("\n\n").map((q, j) => (
+                  <p key={j} style={{
+                    fontSize: 14, lineHeight: 1.55, color: B.soft,
+                    margin: j === 0 ? "0 0 8px" : "0 0 8px", fontStyle: "italic",
+                  }}>{q}</p>
+                ))}
+                <div style={{ fontSize: 12, color: B.muted, fontWeight: 600, marginTop: 10 }}>— {t.name}, {t.child}</div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+
+      <Band from={BG_TESTIMONIAL} to={BG_MECHANISM} />
+
+      {/* Mechanism recap */}
+      <div style={{ background: BG_MECHANISM, padding: "28px 22px 22px" }}>
+        <Eyebrow>{c.mechanismLabel}</Eyebrow>
+        <H2 size={26}>{c.mechanismTitle}</H2>
+        {c.mechanismBody.split("\n\n").map((p, i) => (
+          <p key={i} style={{
+            fontSize: i === 4 ? 16 : 14.5, lineHeight: 1.65,
+            color: i === 4 ? B.ink : B.soft,
+            fontWeight: i === 4 ? 600 : 400,
+            margin: "0 0 10px",
+          }}>{p}</p>
+        ))}
+      </div>
+
+      <Band from={BG_MECHANISM} to={BG_CTA} height={50} />
+
+      {/* CTA + Permission */}
+      <CTAClose
+        intro={c.permissionHeadline + "\n\n" + c.permissionBody}
+        button={c.ctaButton}
+        fine={c.ctaFinePrint}
+      />
+
+      {/* Signoff MEDIUM */}
+      <div style={{ background: B.ink, padding: "0 22px 36px" }}>
+        <div style={{
+          background: "#1F2A2C", border: "1.5px solid #2F3D40",
+          borderRadius: 22, padding: "26px 24px 24px", position: "relative",
+        }}>
+          <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 4, background: B.gradient, opacity: 0.9 }} />
+          <div style={{ fontSize: 14, color: "#B8CACD", lineHeight: 1.65, marginBottom: 14 }}>
+            {s.greeting}
+          </div>
+          <div style={{
+            fontFamily: "'Caveat', cursive", fontSize: 42, lineHeight: 0.95,
+            fontWeight: 500, color: "#D8F57C", letterSpacing: -0.5, marginBottom: 4,
+          }}>
+            {s.name}
+          </div>
+          <div style={{ fontSize: 12, color: "#8FAFB2", fontStyle: "italic", marginBottom: 16 }}>
+            {s.role}
+          </div>
+          <div style={{ fontSize: 13, lineHeight: 1.65, color: "#B8CACD", fontStyle: "italic", borderTop: "1.5px dashed #3A4547", paddingTop: 14 }}>
+            <span style={{ color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 }}>P.S.</span>
+            {s.ps.replace(/^P\.S\.\s*/, "")}
+          </div>
+        </div>
+      </div>
+
+      <OutLine />
+      <Footer />
+    </EmailShell>
+  );
+};
+
+/* ═════════════════════════════════════════════════════
+   EMAIL 3 — 60 Days (72h)
+   Guarantee close. Product intro. Filled CTA.
+   ═════════════════════════════════════════════════════ */
+const BrowseE3 = () => {
+  const c = window.BROWSE.e3;
+  const s = window.BROWSE_SHARED.signoff.LONG;
+  const BG_HERO = "#FFFBF0";
+  const BG_LETTER = "#FFF6E2";
+  const BG_ANCHORS = "#FFFFFF";
+  const BG_MECHANISM = "#EAF6F2";
+  const BG_MINIWINS = "#FFF6E2";
+  const BG_PRODUCT = "#F5F1EA";
+  const BG_GUARANTEE = "#F4F7F4";
+  const BG_CTA = B.ink;
+
+  return (
+    <EmailShell preheader={c.preheader} bg={BG_HERO}>
+      <Header bg={BG_HERO} />
+
+      {/* Hero — held-open door */}
+      <div style={{ margin: "24px 14px 0" }}>
+        <FramedImage
+          height={220}
+          label={c.heroImageLabel}
+          sublabel={c.heroImageSublabel}
+          shadow={6}
+        />
+      </div>
+
+      <TitleBlock badge={c.heroBadge} part1={c.h1a} part2={c.h1b} subhead={c.subhead} />
+
+      <Band from={BG_HERO} to={BG_LETTER} />
+
+      {/* Permission opener */}
+      <Letter bg={BG_LETTER} first="" paras={[c.openerBody]} />
+
+      <Band from={BG_LETTER} to={BG_ANCHORS} />
+
+      {/* Recognition anchors */}
+      <div style={{ background: BG_ANCHORS, padding: "24px 22px 16px" }}>
+        <Eyebrow>{c.anchorLabel}</Eyebrow>
+        <div style={{ marginTop: 12 }}>
+          {c.anchors.map((a, i) => (
+            <div key={i} style={{
+              display: "flex", gap: 12, marginBottom: 14,
+              fontSize: 14.5, lineHeight: 1.55, color: B.soft,
+            }}>
+              <span style={{ color: B.teal, fontSize: 18, flexShrink: 0, marginTop: 1 }}>•</span>
+              <span>{a}</span>
+            </div>
+          ))}
+        </div>
+        <p style={{ fontSize: 14, lineHeight: 1.65, color: B.ink, fontWeight: 500, margin: "16px 0 0" }}>
+          {c.anchorBridge}
+        </p>
+      </div>
+
+      <Band from={BG_ANCHORS} to={BG_MECHANISM} />
+
+      {/* Mechanism recap */}
+      <div style={{ background: BG_MECHANISM, padding: "28px 22px 22px" }}>
+        <Eyebrow>{c.mechanismLabel}</Eyebrow>
+        {c.mechanismBody.split("\n\n").map((p, i) => (
+          <p key={i} style={{
+            fontSize: 14.5, lineHeight: 1.65,
+            color: B.soft, margin: "0 0 10px",
+          }}>{p}</p>
+        ))}
+      </div>
+
+      <Band from={BG_MECHANISM} to={BG_MINIWINS} />
+
+      {/* Mini-win quotes */}
+      <div style={{ background: BG_MINIWINS, padding: "24px 14px 20px" }}>
+        <div style={{ padding: "0 8px", marginBottom: 16 }}>
+          <Eyebrow>{c.miniWinsLabel}</Eyebrow>
+        </div>
+        {c.miniWins.map((w, i) => (
+          <div key={i} style={{
+            marginBottom: 12, background: "#FFFFFF", borderRadius: 14,
+            border: `2px solid ${B.ink}`, boxShadow: `3px 3px 0 ${B.ink}`,
+            padding: "16px 18px",
+          }}>
+            <div style={{ fontSize: 36, lineHeight: 0.8, color: "#D4A853", fontWeight: 700, marginBottom: 4 }}>{"\""}</div>
+            <p style={{ fontSize: 14, lineHeight: 1.55, color: B.soft, margin: "0 0 6px", fontStyle: "italic" }}>
+              {w.quote}
+            </p>
+            <div style={{ fontSize: 12, color: B.muted, fontWeight: 600 }}>— {w.by}</div>
+          </div>
+        ))}
+        <p style={{ fontSize: 14, lineHeight: 1.65, color: B.ink, fontWeight: 500, margin: "12px 8px 0" }}>
+          {c.miniWinsClosing}
+        </p>
+      </div>
+
+      <Band from={BG_MINIWINS} to={BG_PRODUCT} />
+
+      {/* Product intro */}
+      <div style={{ background: BG_PRODUCT, padding: "28px 22px 20px" }}>
+        <Eyebrow>{c.productLabel}</Eyebrow>
+        <div style={{ display: "flex", flexDirection: "column", gap: 12, marginTop: 16 }}>
+          {c.productLayers.map((l, i) => {
+            const accents = [B.teal, B.green, "#E8A23D"];
+            return (
+              <div key={i} style={{
+                display: "flex", gap: 12, alignItems: "flex-start",
+                background: "#FFFFFF", borderRadius: 12,
+                border: `2px solid ${B.ink}`, padding: "12px 14px",
+                boxShadow: `2px 2px 0 ${B.ink}`,
+              }}>
+                <div style={{
+                  width: 28, height: 28, borderRadius: "50%",
+                  background: accents[i], color: "#FFF",
+                  display: "flex", alignItems: "center", justifyContent: "center",
+                  fontSize: 11, fontWeight: 700, border: `2px solid ${B.ink}`,
+                  flexShrink: 0,
+                }}>{l.n}</div>
+                <div style={{ flex: 1 }}>
+                  <div style={{ fontSize: 14, fontWeight: 700, color: B.ink, marginBottom: 2 }}>{l.name}</div>
+                  <div style={{ fontSize: 12, color: B.muted, fontWeight: 600, marginBottom: 4 }}>{l.what}</div>
+                  <div style={{ fontSize: 13, lineHeight: 1.5, color: B.soft }}>{l.does}</div>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+        <p style={{ fontSize: 14, lineHeight: 1.55, color: B.soft, margin: "16px 0 8px", fontStyle: "italic" }}>
+          {c.productWearGuidance}
+        </p>
+        <div style={{
+          background: "#FFFFFF", borderRadius: 12, border: `2px solid ${B.ink}`,
+          padding: "12px 16px", marginTop: 8,
+        }}>
+          <div style={{ fontSize: 13.5, color: B.ink, fontWeight: 700 }}>{c.productBundlePrice}</div>
+          <div style={{ fontSize: 12.5, color: B.soft, marginTop: 4 }}>{c.productSinglePrice}</div>
+        </div>
+      </div>
+
+      <Band from={BG_PRODUCT} to={BG_GUARANTEE} />
+
+      {/* Guarantee block */}
+      <div style={{ background: BG_GUARANTEE, padding: "32px 22px 24px", textAlign: "center" }}>
+        <Eyebrow>{c.guaranteeLabel}</Eyebrow>
+        <H2 size={30} center>
+          <span style={{ ...B.gradientText, fontWeight: 700 }}>{c.guaranteeAccent}</span> {c.guaranteeHeadline.split(c.guaranteeAccent).pop()}
+        </H2>
+        <p style={{ fontSize: 15, lineHeight: 1.55, color: B.soft, margin: "12px 0 20px", fontStyle: "italic" }}>
+          {c.guaranteeBody}
+        </p>
+        <div style={{ display: "flex", flexDirection: "column", gap: 10, marginTop: 16 }}>
+          {c.guaranteePoints.map((p, i) => (
+            <div key={i} style={{
+              display: "flex", gap: 12, alignItems: "center",
+              background: "#FFFFFF", borderRadius: 12,
+              border: `2px solid ${B.ink}`, padding: "12px 16px",
+              boxShadow: `2px 2px 0 ${B.ink}`, textAlign: "left",
+            }}>
+              <div style={{
+                width: 32, height: 32, borderRadius: "50%",
+                background: B.green, color: "#FFF",
+                display: "flex", alignItems: "center", justifyContent: "center",
+                fontSize: 14, fontWeight: 700, flexShrink: 0,
+              }}>✓</div>
+              <div>
+                <div style={{ fontSize: 14, fontWeight: 700, color: B.ink }}>{p.title}</div>
+                <div style={{ fontSize: 12.5, color: B.soft, lineHeight: 1.45 }}>{p.body}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <Band from={BG_GUARANTEE} to={BG_CTA} height={50} />
+
+      {/* CTA — filled button */}
+      <div style={{ background: B.ink, padding: "32px 22px 44px", textAlign: "center" }}>
+        <p style={{ fontSize: 15, color: "#B8CACD", lineHeight: 1.6, margin: "0 0 8px", fontWeight: 500 }}>
+          {c.ctaLabel}
+        </p>
+        <p style={{ fontSize: 12.5, color: "#8A9B9D", margin: "0 0 24px", fontStyle: "italic" }}>
+          {c.ctaPriceNote}
+        </p>
+        <a href="#" style={{
+          display: "inline-block", padding: "17px 32px",
+          background: "#D8F57C", color: B.ink, fontSize: 15.5, fontWeight: 700,
+          textDecoration: "none", borderRadius: 999, letterSpacing: 0.3,
+        }}>{c.ctaButton} →</a>
+        <div style={{ marginTop: 14, fontSize: 12, color: "#8A9B9D" }}>
+          <a href="#" style={{ color: "#B8CACD", textDecoration: "underline" }}>{c.ctaSecondary}</a>
+        </div>
+      </div>
+
+      {/* Signoff LONG */}
+      <div style={{ background: B.ink, padding: "0 22px 36px" }}>
+        <div style={{
+          background: "#1F2A2C", border: "1.5px solid #2F3D40",
+          borderRadius: 22, padding: "26px 24px 24px", position: "relative",
+        }}>
+          <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 4, background: B.gradient, opacity: 0.9 }} />
+          <div style={{ fontSize: 14, color: "#B8CACD", lineHeight: 1.65, marginBottom: 14 }}>
+            {s.greeting}
+          </div>
+          <div style={{
+            fontFamily: "'Caveat', cursive", fontSize: 42, lineHeight: 0.95,
+            fontWeight: 500, color: "#D8F57C", letterSpacing: -0.5, marginBottom: 4,
+          }}>
+            {s.name}
+          </div>
+          <div style={{ fontSize: 12, color: "#8FAFB2", fontStyle: "italic", marginBottom: 16 }}>
+            {s.role}
+          </div>
+          <div style={{ fontSize: 13, lineHeight: 1.65, color: "#B8CACD", fontStyle: "italic", borderTop: "1.5px dashed #3A4547", paddingTop: 14 }}>
+            <span style={{ color: "#D8F57C", fontWeight: 700, fontStyle: "normal", marginRight: 4 }}>P.S.</span>
+            {s.ps.replace(/^P\.S\.\s*/, "")}
+          </div>
+        </div>
+      </div>
+
+      <OutLine />
+      <Footer />
+    </EmailShell>
+  );
+};
+
+Object.assign(window, { BrowseE1, BrowseE2, BrowseE3 });
